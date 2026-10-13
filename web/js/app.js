@@ -150,7 +150,17 @@ async function boot() {
   window.addEventListener('online', () => store.flush());
   if ('serviceWorker' in navigator) {
     if (isLocal) navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister())).catch(() => {});
-    else navigator.serviceWorker.register('sw.js').catch(() => {});
+    else {
+      // When a new version of the app takes over, reload once so it shows straight away.
+      // Changes waiting to be sent are kept on the device, so nothing is lost.
+      const hadController = !!navigator.serviceWorker.controller;
+      let reloading = false;
+      navigator.serviceWorker.addEventListener('controllerchange', () => {
+        if (!hadController || reloading) return;
+        reloading = true; store.flush(); location.reload();
+      });
+      navigator.serviceWorker.register('sw.js').catch(() => {});
+    }
   }
 }
 boot();

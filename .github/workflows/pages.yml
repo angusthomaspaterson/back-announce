@@ -39,9 +39,11 @@ jobs:
           mkdir -p _site/data/feed
           cp data/*.json _site/data/
           cp data/feed/*.json _site/data/feed/
-          # Stamp the service worker so every deploy refreshes the cached shell.
-          sed -i "s/__BUILD__/${GITHUB_SHA::12}/" _site/sw.js
-          echo "${GITHUB_SHA::12}" > _site/version.txt
+          # Stamp the service worker with a fingerprint of the app's own files, so the
+          # cached shell is replaced when the app changes but not on every feed refresh.
+          build=$(cd _site && find . -type f -not -path './data/*' -not -name version.txt | sort | xargs sha1sum | sha1sum | cut -c1-12)
+          sed -i "s/__BUILD__/${build}/" _site/sw.js
+          echo "${build}" > _site/version.txt
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
