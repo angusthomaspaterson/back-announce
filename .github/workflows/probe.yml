@@ -5,21 +5,20 @@ on:
 
 jobs:
   probe:
-    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-latest, windows-latest, ubuntu-24.04-arm]
+    runs-on: ${{ matrix.os }}
     steps:
-      - name: Try Substack routes from a GitHub runner
+      - name: Try Substack from ${{ matrix.os }}
+        shell: bash
         run: |
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
-          try() { printf '%-70s ' "$2"; curl -s -o /tmp/body -w '%{http_code} %{size_download}b\n' -A "$1" -H "Accept: */*" --compressed "$2"; head -c 160 /tmp/body | tr '\n' ' '; echo; }
-          try "$UA" "https://firstfloor.substack.com/feed"
-          try "curl/8.5.0" "https://firstfloor.substack.com/feed"
-          try "Mozilla/5.0 (compatible; FeedFetcher-Google; +http://www.google.com/feedfetcher.html)" "https://firstfloor.substack.com/feed"
-          try "$UA" "https://firstfloor.substack.com/feed/"
-          try "$UA" "https://firstfloor.substack.com/api/v1/archive?sort=new&limit=3"
-          try "$UA" "https://firstfloor.substack.com/api/v1/posts?limit=3"
-          try "$UA" "https://firstfloor.substack.com/"
-          try "$UA" "https://api.substack.com/feed/podcast/2037294.rss"
-          try "$UA" "https://toneglow.substack.com/feed"
-          try "$UA" "https://www.inverted-audio.com/feed/"
-          try "$UA" "https://inverted-audio.com/feed/"
-          echo; echo "Headers from the 403:"; curl -s -D - -o /dev/null -A "$UA" "https://firstfloor.substack.com/feed" | head -20
+          try() { printf '%-60s ' "$1"; curl -s -o body.tmp -w '%{http_code} %{size_download}b\n' -A "$UA" -H "Accept: */*" --compressed "$1"; head -c 100 body.tmp | tr '\n' ' '; echo; }
+          curl -s https://api.ipify.org; echo " <- runner address"
+          try "https://firstfloor.substack.com/feed"
+          try "https://toneglow.substack.com/feed"
+          try "https://api.substack.com/feed/podcast/2037294.rss"
+          try "https://daily.bandcamp.com/"
+          try "https://bandcamp.com/radio"
