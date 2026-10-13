@@ -6,8 +6,10 @@
 #
 # The task is called "Back Announce Substack". It runs laptop-substack.ps1
 # two minutes after you sign in and every three hours after that, only when
-# the network is up, with no window. If the laptop was asleep when a run was
-# due, it runs as soon as the laptop is back. See it in Task Scheduler under
+# the network is up. A console window may flash for a moment when it starts.
+# If the laptop was asleep when a run was due, it runs as soon as the laptop
+# is back. Run this installer from your own terminal, not from Claude's
+# sandboxed shell, so the clone lands on the real disk. See it in Task Scheduler under
 # Task Scheduler Library.
 param([switch]$Remove)
 
