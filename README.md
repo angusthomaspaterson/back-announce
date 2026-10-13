@@ -44,8 +44,32 @@ The site in `web/` is plain HTML, CSS and JavaScript with no build step. `.githu
 - The gatherer also writes `data/bundle.json`, every feed file plus the source list and status in one document, so the app loads in two requests instead of 150.
 - It is a progressive web app: `manifest.webmanifest` and `sw.js` let Chrome install it with its own icon, and the shell and the last feed are cached for offline reading.
 - Without a GitHub token it is read only: Save, Pause and Mark all seen are hidden.
+- `#sources` is the Sources screen: a switch per source, Pause or Resume per group, the batch buttons, and each source's latest date or "failed".
 
-To try it on a computer, serve the `web/` folder with any static server and put a copy of `data/` inside it (that copy is ignored by git).
+To try it on a computer, serve the `web/` folder with any static server and put a copy of `data/` inside it (that copy is ignored by git). Open `tests/index.html` on the same server to run the tests for the write path. On localhost, setting `sessionStorage['ba.mock'] = '1'` swaps GitHub for a pretend one kept in the browser, so writes can be tried without a token; neither file is published.
+
+## Saving, pausing and marking seen
+
+With a token, the apps change `data/state.json` through GitHub's contents API (`PUT /repos/{owner}/{repo}/contents/data/state.json` with the file's current `sha`). The web app's logic is in `web/js/store.js`:
+
+- Each change is queued on the device and sent about two seconds after the last one, so a burst of taps becomes one commit, named like `state: pause Moxie (web)`.
+- If another device changed the file first, GitHub answers 409. The app reads the file again, applies the same changes on top and tries again, so neither device's changes are lost.
+- If the device is offline, changes wait on the device and are sent when the connection is back.
+- With a token, `state.json` is read from GitHub directly, so changes from the other device show when the app is reopened or Refresh is pressed.
+
+### Making the token
+
+Make one token per device, so either can be cancelled on its own.
+
+1. On the device, open https://github.com/settings/personal-access-tokens/new and sign in.
+2. **Token name:** `Back Announce Pixel` or `Back Announce Laptop`.
+3. **Expiration:** the longest option offered. Note the date; when it passes, the app says the token was not accepted, and you make a new one.
+4. **Repository access:** choose **Only select repositories**, then pick **back-announce**.
+5. **Permissions:** under **Repository permissions**, set **Contents** to **Read and write**. Leave everything else. GitHub adds **Metadata: Read-only** by itself, which is expected.
+6. Press **Generate token** and copy it. It starts with `github_pat_`.
+7. In Back Announce, press the Settings button (top right, the two sliders), paste it, and press **Save token**. The app checks it with GitHub before keeping it.
+
+The token stays in that browser's storage on that device. It is never committed, never logged, and only ever sent to `api.github.com`. To cancel one, delete it on the same GitHub page under **Fine-grained tokens**, and press **Remove token** in Settings.
 
 ## Running the gatherer on a computer
 

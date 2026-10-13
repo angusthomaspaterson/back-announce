@@ -43,7 +43,35 @@ header.top .meta{color:var(--muted);font-size:12px;margin-left:auto;text-align:r
 .clock .lbl{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .clock .t{font-family:var(--mono);font-size:17px;font-weight:600;font-variant-numeric:tabular-nums}
 .clock .z{font-size:11px;color:var(--muted)}
-@media (max-width:420px){ header.top .meta{width:100%;margin-left:0;text-align:left} .clocks{width:100%;margin-left:0} }
+.hacts{display:flex;gap:4px}
+.ibtn{width:34px;height:34px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;color:var(--muted);background:var(--chip)}
+.ibtn:hover{color:var(--fg)}
+.ibtn[disabled]{cursor:default}
+.ibtn.spin svg{animation:spin .9s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (max-width:420px){
+  /* Row 1: title and the two round buttons. Row 2: the tabs. Row 3: the status line. */
+  header.top h1{order:0;flex:1 1 calc(100% - 96px)} .hacts{order:1} .tabs{order:2}
+  header.top .meta{order:3;width:100%;margin-left:0;text-align:left} .clocks{order:3;width:100%;margin-left:0}
+}
+.bad{color:var(--accent)}
+
+/* ---- settings ---- */
+dialog.settings{border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--fg);padding:18px;width:min(460px,calc(100vw - 24px));max-height:calc(100dvh - 24px);overflow:auto}
+dialog.settings::backdrop{background:rgba(0,0,0,.45)}
+.set h2{font-size:20px;margin-bottom:6px}
+.set label{display:block;font-weight:600;margin:14px 0 4px}
+.set input{width:100%;font-family:var(--mono);font-size:13px;padding:9px 10px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--fg)}
+.set .hint{color:var(--muted);font-size:13px;margin:6px 0 0}
+.setrow{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.setrow.end{justify-content:flex-end;margin-top:16px}
+.setstatus{font-size:13px;margin:10px 0 0;min-height:1.4em}
+.setstatus.bad{color:var(--accent)}
+.set details{margin-top:14px;font-size:13px;border-top:1px solid var(--line);padding-top:10px}
+.set summary{cursor:pointer;font-weight:600}
+.set ol{padding-left:20px;margin:8px 0;display:grid;gap:6px}
+.set code{font-family:var(--mono);font-size:12px;background:var(--soft);padding:1px 4px;border-radius:4px}
+.btn[disabled]{opacity:.6;cursor:default}
 
 /* ---- shared ---- */
 .filters{display:flex;flex-wrap:wrap;gap:6px;padding-block:12px 4px;align-items:center}
@@ -108,10 +136,6 @@ footer p{margin:0 0 6px}
 .fd .srchead .sub{color:var(--muted);font-size:12.5px;margin-top:2px}
 .fd .srchead .acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
 
-details.sources{margin-top:26px;border-top:1px solid var(--line);padding-top:10px}
-details.sources summary{cursor:pointer;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:600;list-style:none;display:flex;gap:10px;align-items:baseline}
-details.sources summary::-webkit-details-marker{display:none}
-details.sources summary .sub{font-weight:400;letter-spacing:0;text-transform:none}
 .fd .mng{display:flex;flex-direction:column;gap:10px;padding:12px 0 6px}
 .fd .mng .sum{font-size:13px;color:var(--muted)}
 .fd .mng .sum b{color:var(--fg);font-weight:600}

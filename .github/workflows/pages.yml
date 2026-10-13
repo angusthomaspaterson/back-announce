@@ -34,6 +34,8 @@ jobs:
         run: |
           mkdir -p _site
           cp -r web/. _site/
+          # Local-only test files and the pretend GitHub stay off the published site.
+          rm -rf _site/tests _site/js/dev-mock.js _site/data
           mkdir -p _site/data/feed
           cp data/*.json _site/data/
           cp data/feed/*.json _site/data/feed/

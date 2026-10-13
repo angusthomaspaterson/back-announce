@@ -33,13 +33,22 @@
     <div class="clock"><span class="lbl">London</span><span class="t num" id="clkLon">--:--</span><span class="z" id="zLon"></span></div>
     <div class="clock"><span class="lbl">Sydney</span><span class="t num" id="clkSyd">--:--</span><span class="z" id="zSyd"></span></div>
   </div>
+  <div class="hacts">
+    <button class="ibtn" id="refreshBtn" aria-label="Refresh" title="Refresh"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 12a8.5 8.5 0 1 1-2.6-6.1"/><path d="M20.5 3.5v5h-5"/></svg></button>
+    <button class="ibtn" id="settingsBtn" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2.2"/><circle cx="9" cy="17" r="2.2"/></svg></button>
+  </div>
 </header>
 
 <main id="feed" class="fd">
   <div class="filters" id="filters" role="group" aria-label="Groups"></div>
-  <div class="srchead" id="srcHead" hidden></div>
   <div id="stream"><div class="empty">Loading the feed…</div></div>
-  <details class="sources" id="sourcesBox"><summary>Sources <span class="sub" id="srcSub"></span></summary><div class="mng" id="mng"></div><div id="sources"></div></details>
+  <div class="srchead" id="srcHead" hidden></div>
+  <div id="srcPage" hidden></div>
+  <section id="sourcesView" hidden>
+    <div class="srchead"><button class="chip back" id="sourcesBack">‹ Back to the feed</button></div>
+    <div class="mng" id="mng"></div>
+    <div id="sources"></div>
+  </section>
   <footer id="feedFoot">Gathered every six hours by a scheduled job on GitHub, and the Substack newsletters by a small task on the laptop: SoundCloud, Mixcloud and podcast feeds, Substack and magazine feeds, the NTS API, Rinse show pages, and the Bandcamp Daily and Radio pages. New cards stay marked until you press Mark all seen. Saved keeps a full copy of a card, so it stays after the episode drops out of the feed. Paused sources keep being gathered in the background, so switching one back on brings its recent episodes straight in.</footer>
 </main>
 
@@ -77,6 +86,31 @@
   <audio id="audio" controls preload="none"></audio>
   <button class="pclose" id="pClose" aria-label="Close player">✕</button>
 </div>
+
+<dialog class="settings" id="settings" aria-labelledby="setTitle">
+  <form method="dialog" class="set">
+    <h2 id="setTitle">Settings</h2>
+    <p class="hint">A GitHub token lets this device save cards, pause sources and mark things seen. It is kept on this device only, and only ever sent to GitHub.</p>
+    <label for="tokenIn">GitHub token</label>
+    <input id="tokenIn" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="github_pat_…">
+    <div class="setrow"><button type="button" class="btn p" id="tokenSave">Save token</button><button type="button" class="btn" id="tokenRemove" hidden>Remove token</button></div>
+    <p class="setstatus" id="tokenStatus" role="status"></p>
+    <details>
+      <summary>How to make a token</summary>
+      <ol>
+        <li>On this device, open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens/new</a> and sign in.</li>
+        <li><b>Token name:</b> Back Announce, plus the device, for example <code>Back Announce Pixel</code>.</li>
+        <li><b>Expiration:</b> pick the longest option offered, and note the date.</li>
+        <li><b>Repository access:</b> choose <b>Only select repositories</b>, then pick <b>back-announce</b>.</li>
+        <li><b>Permissions:</b> open <b>Repository permissions</b>, find <b>Contents</b> and set it to <b>Read and write</b>. Leave everything else alone. GitHub adds Metadata (read only) by itself; that is expected.</li>
+        <li>Press <b>Generate token</b>, copy it, paste it in the box above and press <b>Save token</b>.</li>
+      </ol>
+      <p class="hint">Treat it like a password. Make a separate one for each device, so you can cancel one without affecting the other.</p>
+    </details>
+    <p class="hint" id="versionLine"></p>
+    <div class="setrow end"><button class="btn" value="close">Close</button></div>
+  </form>
+</dialog>
 
 <div class="toast" id="toast" role="status" aria-live="polite" hidden><span id="toastTxt"></span><button id="toastUndo">Undo</button></div>
 
