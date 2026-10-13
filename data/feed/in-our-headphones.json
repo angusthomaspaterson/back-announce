@@ -3,6 +3,16 @@
  "id": "in-our-headphones",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/82fa341d-faae-4bc3-9b53-b4de017fb242/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
+   "date": "2026-10-13T16:18:57Z",
+   "desc": "Host Evie Stokes sits down with KEXP DJ Dirk Whitebreast, one of the new hosts of KEXP’s Indigenous music show Sounds of Survivance . The two talk about Dirk’s background in music, his work with Daybreak Star Radio, and KEXP’s Indigenous Peoples Day programming. As a special treat, Dirk also brings in two songs for this episode, one each from Amisut and Hun Lynch. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones”  playlist on Spotify or the “What’s In Our Headphones”  playlist on YouTube. Support the pod…",
+   "duration": "1205",
+   "id": "82fa341d-faae-4bc3-9b53-b4de017fb242",
+   "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
+   "title": "KEXP’s Dirk Whitebreast on Indigenous Peoples Day and the Music of Amisut and Hun Lynch",
+   "url": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dirk-whitebreast-on-indigenous-peoples-day-and-the-music-of-amisut-and-hun-lynch"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/8f92efd2-606f-4a2c-a69c-b4da0165fd4e/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
    "date": "2026-10-08T07:00:00Z",
    "desc": "Host Evie Stokes sits down again with Travis Holcombe, the former KCRW DJ behind his own independent radio station, Freaks Only . This time around, Holcombe shares his love for the artist SHEE and their song “Woman” featuring deadream. The two gush over the song’s blend of house, funk, and exceptional grooves. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones@kexp.o…",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/92050c4e-649c-450a-aa91-b48f014175ef/image.jpg?t=1784765565&size=Large",
    "title": "Gelli Haha on Experimental Optimism of Nymphlord",
    "url": "https://omny.fm/shows/kexp-song-of-the-day/gelli-haha-on-experimental-optimism-of-nymphlord"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/e6ac3650-b3ad-4f2a-9a05-b48d00520e7e/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-   "date": "2026-07-21T07:00:00Z",
-   "desc": "Host Evie Stokes sits down with indie pop sensation Gelli haha to talk about that music that’s moving her. The two dig into the life in Los Angeles, Gelli’s spectacular tour, and why she loves Seattle band Chinese American Bear. Chinese American Bear’s song “No No Yeah Yeah (不不好啊好啊)” comes from their latest album Dim Sun & Then Some , out now on Moshi Moshi Music. Produced by: William Myers and Dusty Henry Mastered by: William Myers Production support: Serafima Healy Listen to the full songs on KEXP's \" In Our Headphones \" playlist on Spotify or the “ What's In Our Headphones ” playlist on Yo…",
-   "duration": "406",
-   "id": "e6ac3650-b3ad-4f2a-9a05-b48d00520e7e",
-   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/e6ac3650-b3ad-4f2a-9a05-b48d00520e7e/image.jpg?t=1784585461&size=Large",
-   "title": "Gelli Haha on the Infectious Sounds of Chinese American Bear",
-   "url": "https://omny.fm/shows/kexp-song-of-the-day/gelli-haha-on-the-infectious-sounds-of-chinese-american-bear"
   }
  ],
  "kind": "rss",
  "name": "KEXP: In Our Headphones",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T22:50:30Z"
 }

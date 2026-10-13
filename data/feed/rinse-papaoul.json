@@ -3,6 +3,14 @@
  "id": "rinse-papaoul",
  "items": [
   {
+   "date": "2026-10-13T09:00:00Z",
+   "desc": "",
+   "id": "papaoul-13-10-2026-1000",
+   "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
+   "title": "Papaoul, 13 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/papaoul-13-10-2026-1000"
+  },
+  {
    "date": "2026-10-06T09:00:00Z",
    "desc": "",
    "id": "papaoul-06-10-2026-1000",
@@ -193,17 +201,9 @@
    "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
    "title": "Papaoul, 24 Feb 2026",
    "url": "https://www.rinse.fm/episodes/papaoul-24-02-2026-0900"
-  },
-  {
-   "date": "2026-02-17T09:00:00Z",
-   "desc": "",
-   "id": "papaoul-17-02-2026-0900",
-   "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
-   "title": "Papaoul, 17 Feb 2026",
-   "url": "https://www.rinse.fm/episodes/papaoul-17-02-2026-0900"
   }
  ],
  "kind": "rinse",
  "name": "Papaoul",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T22:50:30Z"
 }

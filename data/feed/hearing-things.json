@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-13T15:32:57Z",
+   "desc": "Plus imaginative DIY guitar music",
+   "duration": null,
+   "id": "6acd0456afb4a400019f853d",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/10/Copy-of-Album-Covers-43--19-.png",
+   "title": "The Dancefloor Belongs to Tinashe",
+   "url": "https://www.hearingthings.co/the-dancefloor-belongs-to-tinashe/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-06T14:55:08Z",
    "desc": "Plus, an ambient banjo album",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Album-Covers-43--5-.png",
    "title": "Pummeling Art Punk Straight From Detroit",
    "url": "https://www.hearingthings.co/pummeling-art-punk-straight-from-detroit/"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-13T15:08:11Z",
-   "desc": "And a king of sad raps gets happy",
-   "duration": null,
-   "id": "6a7dd79250e3b10001aa51d5",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Five-Songs-Template-11--16-.png",
-   "title": "A Hot New Rock Band That Actually Deserves the Hype",
-   "url": "https://www.hearingthings.co/a-hot-new-rock-band-that-actually-deserves-the-hype/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T22:50:30Z"
 }
