@@ -1,9 +1,189 @@
 {
  "home": "https://bandcamp.com/radio",
  "id": "bandcamp-radio",
- "items": [],
+ "items": [
+  {
+   "date": "2026-10-12T00:00:00Z",
+   "desc": "Swiss-Ecuadorian duo Hermanos Gutiérrez talk to us about their filmic new album Hosted by Tina Edwards . Featuring Hermanos Gutiérrez .",
+   "id": "radio-bandcamp-selects-1009",
+   "image": "https://f4.bcbits.com/img/0047838244_170.jpg",
+   "tags": "Bandcamp Selects",
+   "title": "Bandcamp Selects: Hermanos Gutiérrez",
+   "url": "https://bandcamp.com/radio/bandcamp-selects/1009"
+  },
+  {
+   "date": "2026-10-09T00:00:00Z",
+   "desc": "The flute-wielding UK glam rocker Bobbie Dazzle joins the show to chat about collaborating with Lita Ford, getting metalheads to dance, and making her jubilant new album, 'Star Power.' Hosted by Brad Sanders . Featuring Bobbie Dazzle .",
+   "id": "radio-the-metal-show-1006",
+   "image": "https://f4.bcbits.com/img/0047538242_170.jpg",
+   "tags": "The Metal Show",
+   "title": "The Metal Show: Bobbie Dazzle",
+   "url": "https://bandcamp.com/radio/the-metal-show/1006"
+  },
+  {
+   "date": "2026-10-07T00:00:00Z",
+   "desc": "Zora Jones joins Emily to talk about '50 Bullets To The Heart' which is her first new album in five years, the launch of her own imprint Bellyfat, her first live performance of the album and her love of Scarface. Hosted by Emily Dust . Featuring Zora Jones and Bushbby.",
+   "id": "radio-bandcamp-electronic-1005",
+   "image": "https://f4.bcbits.com/img/0047534360_170.jpg",
+   "tags": "Bandcamp Electronic",
+   "title": "Bandcamp Electronic: Zora Jones",
+   "url": "https://bandcamp.com/radio/bandcamp-electronic/1005"
+  },
+  {
+   "date": "2026-10-05T00:00:00Z",
+   "desc": "LA's Megiapa talks to Tina Edwards about her debut on International Anthem Hosted by Tina Edwards . Featuring megiapa .",
+   "id": "radio-bandcamp-selects-1004",
+   "image": "https://f4.bcbits.com/img/0047428047_170.jpg",
+   "tags": "Bandcamp Selects",
+   "title": "Bandcamp Selects: Megiapa",
+   "url": "https://bandcamp.com/radio/bandcamp-selects/1004"
+  },
+  {
+   "date": "2026-10-02T00:00:00Z",
+   "desc": "JIREH joins the show to talk Rope Burn — an one of one project from the baton rouge native. We discuss the project in full, along with his trajectory as an artist. This is what he was destined for. Hosted by Stoney Creation . Featuring JIREH .",
+   "id": "radio-the-hip-hop-show-1007",
+   "image": "https://f4.bcbits.com/img/0047632685_170.jpg",
+   "tags": "The Hip Hop Show",
+   "title": "The Hip Hop Show: JIREH",
+   "url": "https://bandcamp.com/radio/the-hip-hop-show/1007"
+  },
+  {
+   "date": "2026-09-30T00:00:00Z",
+   "desc": "Dummy talk about new LP \"do you love the color of the sky?\" plus favorite tracks from April Magazine, Windy & Carl, and more. Hosted by Mariana Timony . Featuring Dummy .",
+   "id": "radio-the-indie-show-988",
+   "image": "https://f4.bcbits.com/img/0046863042_170.jpg",
+   "tags": "The Indie Show",
+   "title": "The Indie Show: Dummy",
+   "url": "https://bandcamp.com/radio/the-indie-show/988"
+  },
+  {
+   "date": "2026-09-28T00:00:00Z",
+   "desc": "Tina Edwards invites Melbourne-raised, London-based Audrey Powne to share her new album, Bodies of Water Hosted by Tina Edwards . Featuring Audrey Powne .",
+   "id": "radio-bandcamp-selects-1003",
+   "image": "https://f4.bcbits.com/img/0047383543_170.jpg",
+   "tags": "Bandcamp Selects",
+   "title": "Bandcamp Selects: Audrey Powne",
+   "url": "https://bandcamp.com/radio/bandcamp-selects/1003"
+  },
+  {
+   "date": "2026-09-25T00:00:00Z",
+   "desc": "Lee Payne of New Wave of British Heavy Metal originators Cloven Hoof discusses the long-running band's new album and collaborating with Jag Panzer's Harry \"The Tyrant\" Conklin. Hosted by Brad Sanders . Featuring Cloven Hoof .",
+   "id": "radio-the-metal-show-1001",
+   "image": "https://f4.bcbits.com/img/0047269035_170.jpg",
+   "tags": "The Metal Show",
+   "title": "The Metal Show: Cloven Hoof",
+   "url": "https://bandcamp.com/radio/the-metal-show/1001"
+  },
+  {
+   "date": "2026-09-23T00:00:00Z",
+   "desc": "Rapper, producer, DJ and screenwriter The Last Skeptik joins Emily to break down his new album Unreliable Narrator and his journey from beatmaker for the likes of Kojey Radical, Scrufizzer and Mikill Pane to making his own drama series Tiny Romances and writing for Hollywood. Hosted by Emily Dust . Featuring The Last Skeptik and Tina Edwards.",
+   "id": "radio-bandcamp-electronic-1002",
+   "image": "https://f4.bcbits.com/img/0047269660_170.jpg",
+   "tags": "Bandcamp Electronic",
+   "title": "Bandcamp Electronic: The Last Skeptik",
+   "url": "https://bandcamp.com/radio/bandcamp-electronic/1002"
+  },
+  {
+   "date": "2026-09-21T00:00:00Z",
+   "desc": "Selects' new host Tina Edwards invites Leeds group Orchestra Mambo International to celebrate their debut album Hosted by Tina Edwards . Featuring Orchestra Mambo International .",
+   "id": "radio-bandcamp-selects-994",
+   "image": "https://f4.bcbits.com/img/0046932558_170.jpg",
+   "tags": "Bandcamp Selects",
+   "title": "Bandcamp Selects: Orchestra Mambo International",
+   "url": "https://bandcamp.com/radio/bandcamp-selects/994"
+  },
+  {
+   "date": "2026-09-18T00:00:00Z",
+   "desc": "Saul Williams joins The Hip Hop Show to discuss Leap Life, his seventh solo album and first solo release in seven years — an invocation calling in ancestors, grief, rhythm, and what it means to build armor in these times. Hosted by Stoney Creation . Featuring Saul Williams .",
+   "id": "radio-the-hip-hop-show-1000",
+   "image": "https://f4.bcbits.com/img/0047269541_170.jpg",
+   "tags": "The Hip Hop Show",
+   "title": "The Hip Hop Show: Saul Williams",
+   "url": "https://bandcamp.com/radio/the-hip-hop-show/1000"
+  },
+  {
+   "date": "2026-09-16T00:00:00Z",
+   "desc": "Underground legend Frankie Rose stops by to talk about the inspirations behind her new record, \"Hila,\" plus new tracks from Public Figures, Stef Chura, TV Buddha, and more. Hosted by Mariana Timony . Featuring Frankie Rose .",
+   "id": "radio-the-indie-show-978",
+   "image": "https://f4.bcbits.com/img/0046534747_170.jpg",
+   "tags": "The Indie Show",
+   "title": "The Indie Show: Frankie Rose",
+   "url": "https://bandcamp.com/radio/the-indie-show/978"
+  },
+  {
+   "date": "2026-09-14T00:00:00Z",
+   "desc": "For Gilla's final show, UK soul group Children Of Zeus stop by to talk about their new record 'As The World Burns'. Hosted by Gilla . Featuring Children Of Zeus .",
+   "id": "radio-bandcamp-selects-999",
+   "image": "https://f4.bcbits.com/img/0047250448_170.jpg",
+   "tags": "Bandcamp Selects",
+   "title": "Bandcamp Selects: Children Of Zeus",
+   "url": "https://bandcamp.com/radio/bandcamp-selects/999"
+  },
+  {
+   "date": "2026-09-11T00:00:00Z",
+   "desc": "Filmmaker Wes Orshoski joins the show to talk about his new documentary about the late Iron Maiden singer Paul Di'Anno. Hosted by Brad Sanders . Featuring Wes Orshoski .",
+   "id": "radio-the-metal-show-998",
+   "image": "https://f4.bcbits.com/img/0046976049_170.jpg",
+   "tags": "The Metal Show",
+   "title": "The Metal Show: Di'Anno: Iron Maiden's Lost Singer",
+   "url": "https://bandcamp.com/radio/the-metal-show/998"
+  },
+  {
+   "date": "2026-09-09T00:00:00Z",
+   "desc": "London-based DJ and producer Dkay.wav passes through to talk about his debut EP on Patterns. Hosted by Emily Dust . Featuring Dkay.wav and Izzi.",
+   "id": "radio-bandcamp-electronic-997",
+   "image": "https://f4.bcbits.com/img/0047068272_170.jpg",
+   "tags": "Bandcamp Electronic",
+   "title": "Bandcamp Electronic: Dkay.wav",
+   "url": "https://bandcamp.com/radio/bandcamp-electronic/997"
+  },
+  {
+   "date": "2026-09-08T00:00:00Z",
+   "desc": "corto.alto joins Tina Edwards to celebrate the new album, Some Small Fortune Hosted by Tina Edwards . Featuring corto.alto",
+   "id": "radio-bandcamp-selects-993",
+   "image": "https://f4.bcbits.com/img/0046932576_170.jpg",
+   "tags": "Bandcamp Selects",
+   "title": "Bandcamp Selects: corto.alto",
+   "url": "https://bandcamp.com/radio/bandcamp-selects/993"
+  },
+  {
+   "date": "2026-09-04T00:00:00Z",
+   "desc": "Girl Talk, Michael Christmas & Chris Crack join the show to chat about their new EP, \"Don't Come To My House Sharing Your Location.\" — colorful, detailed, and genuinely fun, built on bars and nonstop ish talking. Hosted by Stoney Creation . Featuring Girl Talk, Michael Christmas, & Chris Crack .",
+   "id": "radio-the-hip-hop-show-990",
+   "image": "https://f4.bcbits.com/img/0046863012_170.jpg",
+   "tags": "The Hip Hop Show",
+   "title": "The Hip Hop Show: Don't Come To My House Sharing Your Location",
+   "url": "https://bandcamp.com/radio/the-hip-hop-show/990"
+  },
+  {
+   "date": "2026-09-02T00:00:00Z",
+   "desc": "Nate Amos of This is Lorelei talks about \"The Singer in My Band\" plus we hear new tracks from Pardoner, The Drin, Dummy, and more. Hosted by Mariana Timony . Featuring This is Lorelei .",
+   "id": "radio-the-indie-show-986",
+   "image": "https://f4.bcbits.com/img/0046863072_170.jpg",
+   "tags": "The Indie Show",
+   "title": "The Indie Show: This is Lorelei",
+   "url": "https://bandcamp.com/radio/the-indie-show/986"
+  },
+  {
+   "date": "2026-08-31T00:00:00Z",
+   "desc": "Tee Lopes takes us behind the music of \"Denshattack!\", one of 2026's most anticipated OSTs.",
+   "id": "radio-the-game-show-995",
+   "image": "https://f4.bcbits.com/img/0046863033_170.jpg",
+   "tags": "The Game Show",
+   "title": "The Game Show: Tee Lopes",
+   "url": "https://bandcamp.com/radio/the-game-show/995"
+  },
+  {
+   "date": "2026-08-28T00:00:00Z",
+   "desc": "Thom Longdin and Jade Ashleigh Squires of the UK sludge duo Kulk discuss their gutting new album, 'Choosing to Die.' Hosted by Brad Sanders . Featuring Kulk .",
+   "id": "radio-the-metal-show-987",
+   "image": "https://f4.bcbits.com/img/0046797992_170.jpg",
+   "tags": "The Metal Show",
+   "title": "The Metal Show: Kulk",
+   "url": "https://bandcamp.com/radio/the-metal-show/987"
+  }
+ ],
  "kind": "manual",
- "linkOnly": true,
  "name": "Bandcamp Radio",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T04:34:37Z"
 }
