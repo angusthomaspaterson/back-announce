@@ -39,6 +39,7 @@ if (-not (Test-Path (Join-Path $repo '.git'))) {
 Set-Location $repo
 & $git config user.name 'Back Announce laptop' | Out-Null
 & $git config user.email 'angusthomaspaterson@users.noreply.github.com' | Out-Null
+& $git config core.autocrlf false | Out-Null
 
 $done = $false
 for ($attempt = 1; $attempt -le 3 -and -not $done; $attempt++) {
@@ -47,8 +48,11 @@ for ($attempt = 1; $attempt -le 3 -and -not $done; $attempt++) {
     $out = & $python gatherer/gather.py --data data --match substack.com 2>&1
     $out | Where-Object { "$_" -match '^(FAIL|done)' } | ForEach-Object { Log "  $_" }
     & $git add data/feed data/status.json
-    & $git diff --cached --quiet
-    if ($LASTEXITCODE -eq 0) { Log 'nothing changed'; $done = $true; break }
+    # Commit only when an item or a source's result changed, not just the run times.
+    & $git diff --cached --quiet -- data/feed
+    $feedChanged = ($LASTEXITCODE -ne 0)
+    $statusChanged = @(& $git diff --cached -U0 -- data/status.json | Where-Object { $_ -match '^[+-]\s+"' -and $_ -notmatch '"(at|lastRun)":' }).Count -gt 0
+    if (-not $feedChanged -and -not $statusChanged) { Log 'nothing changed'; $done = $true; break }
     $stamp = (Get-Date).ToString('ddd d MMM HH:mm', [Globalization.CultureInfo]::InvariantCulture) + ' AWST'
     & $git commit -q -m "feed: refresh Substack $stamp (laptop)" 2>&1 | ForEach-Object { Log "  commit: $_" }
     & $git push -q 2>&1 | ForEach-Object { Log "  push: $_" }

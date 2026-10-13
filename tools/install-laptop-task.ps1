@@ -33,8 +33,8 @@ if (-not (Test-Path (Join-Path $repo '.git'))) {
 $script = Join-Path $repo 'tools\laptop-substack.ps1'
 if (-not (Test-Path $script)) { throw "Expected $script after cloning; is the clone complete?" }
 
-$action = New-ScheduledTaskAction -Execute 'conhost.exe' `
-    -Argument "--headless powershell.exe -NoProfile -ExecutionPolicy Bypass -File `"$script`""
+$action = New-ScheduledTaskAction -Execute 'powershell.exe' `
+    -Argument "-NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File `"$script`""
 $atLogon = New-ScheduledTaskTrigger -AtLogOn -User $env:USERNAME
 $atLogon.Delay = 'PT2M'
 $every3h = New-ScheduledTaskTrigger -Once -At (Get-Date).AddMinutes(2) -RepetitionInterval (New-TimeSpan -Hours 3)
