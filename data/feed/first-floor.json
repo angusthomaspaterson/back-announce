@@ -3,6 +3,30 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-10-13T14:25:52Z",
+   "desc": "girlscoutcookies – course (danks)",
+   "id": "rollup-2026-10-13",
+   "image": "https://substackcdn.com/image/fetch/$s_!iRU7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55adcc4d-cd8f-4ef9-915b-95a9f8a6f4b0_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "girlscoutcookies – course",
+     "u": "https://firstfloor.substack.com/p/girlscoutcookies-course"
+    }
+   ],
+   "title": "First Floor recommendations, 13 Oct: 1 record",
+   "url": "https://firstfloor.substack.com/p/girlscoutcookies-course"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-13T10:00:36Z",
+   "desc": "The reclusive Finnish producer has been quietly releasing a lot of music in 2026, much of it from his newly rekindled (and much-loved) Luomo alias. First Floor takes a closer look.",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-vladislav-delay-is-in-his-bandcamp",
+   "image": "https://substackcdn.com/image/fetch/$s_!VkG8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc214251-5498-4d88-8455-d6a035ee7cb6_5184x3456.jpeg",
+   "title": "Vladislav Delay Is in His Bandcamp Loosies Era",
+   "url": "https://firstfloor.substack.com/p/vladislav-delay-is-in-his-bandcamp"
+  },
+  {
    "date": "2026-10-12T17:59:00Z",
    "desc": "Pete Swanson & Ilyas Ahmed – Things Left Unseen (Geographic North) Steffi – Half an Owl and a Full Moon Rising (Dekmantel)",
    "id": "rollup-2026-10-12",
@@ -108,14 +132,10 @@
   },
   {
    "date": "2026-09-30T18:51:19Z",
-   "desc": "sts – Distant Shapes / Aquifer (STEMcell) R A L L Y – Residue (SPE:C) SPF 50 – Ett Inre Rum (Bliss Point) Ghost Dubs – Oblique (Pressure) Giulio Aldinucci – Materia (Karlrecords) claire rousay & Martyna Basta – hotel room (Unsound) Clima – Healing Patterns (appendix.files)",
+   "desc": "R A L L Y – Residue (SPE:C) SPF 50 – Ett Inre Rum (Bliss Point) Ghost Dubs – Oblique (Pressure) Giulio Aldinucci – Materia (Karlrecords) claire rousay & Martyna Basta – hotel room (Unsound) Clima – Healing Patterns (appendix.files)",
    "id": "rollup-2026-09-30",
-   "image": "https://substackcdn.com/image/fetch/$s_!8RW_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac859da7-4099-4b1a-be5e-595bed3b1068_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!xF3f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F198f46f3-922e-4d08-afb5-27de28f3af9b_1456x1048.jpeg",
    "links": [
-    {
-     "t": "sts – Distant Shapes / Aquifer",
-     "u": "https://firstfloor.substack.com/p/sts-distant-shapes-aquifer"
-    },
     {
      "t": "R A L L Y – Residue",
      "u": "https://firstfloor.substack.com/p/r-a-l-l-y-residue"
@@ -141,21 +161,11 @@
      "u": "https://firstfloor.substack.com/p/clima-healing-patterns"
     }
    ],
-   "title": "First Floor recommendations, 30 Sep: 7 records",
+   "title": "First Floor recommendations, 30 Sep: 6 records",
    "url": "https://firstfloor.substack.com/p/clima-healing-patterns"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-30T11:01:15Z",
-   "desc": "A guest recommendation from the genre-blurring, speaker-rattling Mexican artist.",
-   "duration": null,
-   "id": "https:--firstfloor.substack.com-p-siete-catorce-has-better-taste-than",
-   "image": "https://substackcdn.com/image/fetch/$s_!utdc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F351502b3-c67b-4106-b0b4-e44d3fd03904_2000x1326.png",
-   "title": "Siete Catorce Has Better Taste Than I Do",
-   "url": "https://firstfloor.substack.com/p/siete-catorce-has-better-taste-than"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T14:54:30Z"
 }

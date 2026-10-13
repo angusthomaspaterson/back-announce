@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-13T10:31:06Z",
+   "desc": "The L.A. electronic improviser brings it all together on his latest album, Edge Conditions",
+   "duration": null,
+   "id": "https:--futurismrestated.substack.com-p-fr-194-smls-jeremiah-chiu-is-activating",
+   "image": "https://substackcdn.com/image/fetch/$s_!14ex!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fd39371-0430-4608-a755-1a05027ef984_3130x2075.jpeg",
+   "title": "FR 194: SML’s Jeremiah Chiu Is Activating Wildly",
+   "url": "https://futurismrestated.substack.com/p/fr-194-smls-jeremiah-chiu-is-activating"
+  },
+  {
+   "audio": null,
    "date": "2026-10-06T10:03:36Z",
    "desc": "New music from Jim O’Rourke, Oren Ambarchi, Shane Parish, and more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!-6Hi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc652d5ec-ffc2-4eb0-8d61-d55adb195d09_4032x3024.jpeg",
    "title": "FR 177: The 20 Best Albums of 2026 So Far",
    "url": "https://futurismrestated.substack.com/p/fr-177-the-20-best-albums-of-2026"
-  },
-  {
-   "audio": null,
-   "date": "2026-06-26T10:03:12Z",
-   "desc": "New music from DJ Plead, M. Geddes Gengras, unkle G, and more",
-   "duration": null,
-   "id": "https:--futurismrestated.substack.com-p-fr-176-sip-a-likkle-fenugreek",
-   "image": "https://substackcdn.com/image/fetch/$s_!lMY8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0fd250d-0c5a-4407-b25b-38bb2d751bea_7728x5152.jpeg",
-   "title": "FR 176: Sip a Likkle Fenugreek",
-   "url": "https://futurismrestated.substack.com/p/fr-176-sip-a-likkle-fenugreek"
   }
  ],
  "kind": "rss",
  "name": "Futurism Restated (Philip Sherburne)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T14:54:30Z"
 }
