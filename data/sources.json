@@ -1,0 +1,1374 @@
+{
+ "items": [
+  {
+   "added": "start",
+   "group": "Radio",
+   "home": "https://soundcloud.com/andrew-wowk",
+   "id": "time-to-track",
+   "kind": "rss",
+   "name": "Time To Track (Andrew Wowk, 2SER)",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:1908954/sounds.rss"
+  },
+  {
+   "added": "start",
+   "group": "Progressive",
+   "home": "https://podcast.hernancattaneo.com/",
+   "id": "resident",
+   "kind": "rss",
+   "name": "Resident by Hernan Cattaneo",
+   "url": "https://podcast.hernancattaneo.com/feed.xml"
+  },
+  {
+   "added": "start",
+   "group": "Writing",
+   "home": "https://firstfloor.substack.com/",
+   "id": "first-floor",
+   "kind": "rss",
+   "name": "First Floor",
+   "rollup": {
+    "match": "^[^–]+ – [^–]+$",
+    "title": "Recommendations"
+   },
+   "url": "https://firstfloor.substack.com/feed"
+  },
+  {
+   "added": "start",
+   "group": "Writing",
+   "home": "https://daily.bandcamp.com/",
+   "id": "bandcamp-daily",
+   "kind": "manual",
+   "name": "Bandcamp Daily"
+  },
+  {
+   "added": "start",
+   "group": "Radio",
+   "home": "https://bandcamp.com/radio",
+   "id": "bandcamp-radio",
+   "kind": "manual",
+   "name": "Bandcamp Radio"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/gigi-fm",
+   "id": "nts-gigi-fm",
+   "kind": "nts",
+   "name": "GiGi FM",
+   "slug": "gigi-fm"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/yu-su",
+   "id": "nts-yu-su",
+   "kind": "nts",
+   "name": "Yu Su",
+   "slug": "yu-su"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/upsammy",
+   "id": "nts-upsammy",
+   "kind": "nts",
+   "name": "Pacing The Platform w/ upsammy",
+   "slug": "upsammy"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/courtesy",
+   "id": "nts-courtesy",
+   "kind": "nts",
+   "name": "Courtesy",
+   "slug": "courtesy"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/shanticeleste",
+   "id": "nts-shanti-celeste",
+   "kind": "nts",
+   "name": "Shanti Celeste",
+   "slug": "shanticeleste"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/moxie",
+   "id": "nts-moxie",
+   "kind": "nts",
+   "name": "Moxie",
+   "slug": "moxie"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/rhythmsection",
+   "id": "nts-rhythm-section",
+   "kind": "nts",
+   "name": "Bradley Zero Presents: Rhythm Section",
+   "slug": "rhythmsection"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/floating-points",
+   "id": "nts-floating-points",
+   "kind": "nts",
+   "name": "Floating Points",
+   "slug": "floating-points"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/laurel-halo",
+   "id": "nts-laurel-halo",
+   "kind": "nts",
+   "name": "Awe w/ Laurel Halo",
+   "slug": "laurel-halo"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/nabihah-iqbal",
+   "id": "nts-nabihah-iqbal",
+   "kind": "nts",
+   "name": "Nabihah Iqbal",
+   "slug": "nabihah-iqbal"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/edna-martinez",
+   "id": "nts-edna-martinez",
+   "kind": "nts",
+   "name": "Champeta w/ Edna Martinez",
+   "slug": "edna-martinez"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/hd",
+   "id": "nts-hd",
+   "kind": "nts",
+   "name": "1080P w/ HD",
+   "slug": "hd"
+  },
+  {
+   "added": "start",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/ross-allen",
+   "id": "nts-ross-allen",
+   "kind": "nts",
+   "name": "Ross Allen",
+   "slug": "ross-allen"
+  },
+  {
+   "added": "start",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/papaoul",
+   "id": "rinse-papaoul",
+   "kind": "rinse",
+   "name": "Papaoul",
+   "slug": "papaoul"
+  },
+  {
+   "added": "start",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/planet-wax",
+   "id": "rinse-planet-wax",
+   "kind": "rinse",
+   "name": "Planet Wax",
+   "slug": "planet-wax"
+  },
+  {
+   "added": "sweep",
+   "group": "Radio",
+   "home": "https://soundcloud.com/gillespeterson",
+   "id": "gilles-peterson",
+   "kind": "rss",
+   "name": "Gilles Peterson (6 Music show)",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:12767/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Radio",
+   "home": "https://www.mixcloud.com/colleencosmomurphy/",
+   "id": "balearic-breakfast",
+   "kind": "mixcloud",
+   "name": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
+   "user": "colleencosmomurphy"
+  },
+  {
+   "added": "sweep",
+   "group": "Radio",
+   "home": "https://www.mixcloud.com/LeFtOoO/",
+   "id": "lefto-early-bird",
+   "kind": "mixcloud",
+   "name": "Lefto Early Bird",
+   "user": "LeFtOoO"
+  },
+  {
+   "added": "sweep",
+   "group": "Progressive",
+   "home": "https://www.mixcloud.com/JohnDigweed/",
+   "id": "transitions",
+   "kind": "mixcloud",
+   "name": "John Digweed: Transitions",
+   "user": "JohnDigweed"
+  },
+  {
+   "added": "sweep",
+   "group": "Progressive",
+   "home": "https://www.mixcloud.com/anjunadeep/",
+   "id": "anjunadeep-edition",
+   "kind": "mixcloud",
+   "name": "The Anjunadeep Edition",
+   "user": "anjunadeep"
+  },
+  {
+   "added": "sweep",
+   "group": "Progressive",
+   "home": "https://jorisvoorn.com/",
+   "id": "spectrum-radio",
+   "kind": "rss",
+   "name": "Joris Voorn: Spectrum Radio",
+   "url": "https://jorisvoornspectrum.libsyn.com/rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Progressive",
+   "home": "https://oddoneout.co/",
+   "id": "odd-one-out",
+   "kind": "rss",
+   "name": "Yotto: Odd One Out Radio",
+   "url": "https://feed.podtoo.com/distro/jFBUMUI_"
+  },
+  {
+   "added": "sweep",
+   "group": "Progressive",
+   "home": "https://soundcloud.com/eelkekleijn",
+   "id": "days-like-nights",
+   "kind": "rss",
+   "name": "Eelke Kleijn: DAYS like NIGHTS Radio",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:1525250/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Progressive",
+   "home": "https://sultanshepard.com/",
+   "id": "dialekt-radio",
+   "kind": "rss",
+   "name": "Sultan + Shepard: Dialekt Radio",
+   "url": "https://feeds.simplecast.com/3dnPjov_"
+  },
+  {
+   "added": "sweep",
+   "group": "Radio",
+   "home": "https://soundcloud.com/soulection",
+   "id": "soulection",
+   "kind": "rss",
+   "name": "Soulection Radio",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:483960/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Radio",
+   "home": "https://www.kexp.org/podcasts/",
+   "id": "in-our-headphones",
+   "kind": "rss",
+   "name": "KEXP: In Our Headphones",
+   "url": "https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/4ac1c451-4315-4096-ab9b-aa40002038c4/podcast.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Radio",
+   "home": "https://www.npr.org/sections/allsongs/",
+   "id": "all-songs-considered",
+   "kind": "rss",
+   "name": "NPR: All Songs Considered",
+   "url": "https://feeds.npr.org/g-s1-111189/podcast.xml"
+  },
+  {
+   "added": "sweep",
+   "group": "Radio",
+   "home": "https://www.bbc.co.uk/programmes/p02nrw4q",
+   "id": "bbc-introducing-mixtape",
+   "kind": "rss",
+   "name": "BBC Music Introducing Mixtape (6 Music)",
+   "url": "https://podcasts.files.bbci.co.uk/p02nrw4q.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Perth",
+   "home": "https://soundcloud.com/radiocazimi",
+   "id": "radio-cazimi",
+   "kind": "rss",
+   "name": "Radio Cazimi (Fremantle)",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:1721373992/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Perth",
+   "home": "https://soundcloud.com/drpacker",
+   "id": "dr-packer",
+   "kind": "rss",
+   "name": "Dr Packer: Street Sounds Radio",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:74118209/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Perth",
+   "home": "https://rtrfm.com.au/rtr2/",
+   "id": "rtr2",
+   "kind": "rss",
+   "name": "RTRFM / RTR2 mixes",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:35864962/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Perth",
+   "home": "https://rtrfm.com.au/podcasts/no-skips/",
+   "id": "no-skips",
+   "kind": "rss",
+   "name": "RTRFM: No Skips",
+   "url": "https://rtrfm.com.au/podcasts/no-skips/?podcast_feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Progressive",
+   "home": "https://soundcloud.com/balancemusic",
+   "id": "balance-music",
+   "kind": "rss",
+   "name": "Balance Music (Selections)",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:1353759/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Progressive",
+   "home": "https://soundcloud.com/sudbeat",
+   "id": "sudbeat",
+   "kind": "rss",
+   "name": "Sudbeat Music (Mixologic)",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:276344/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://soundcloud.com/buttersessions",
+   "id": "butter-sessions",
+   "kind": "rss",
+   "name": "Butter Sessions (BSRMIX)",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:4277154/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://soundcloud.com/pjenne",
+   "id": "pjenne",
+   "kind": "rss",
+   "name": "Pjenne (PBS 106.7) mixes",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:2051202/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://www.fbi.radio/",
+   "id": "fbi-midday-mix",
+   "kind": "rss",
+   "name": "FBi Radio: The Midday Mix",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:111606323/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://ra.co/podcast",
+   "id": "ra-podcast",
+   "kind": "rss",
+   "name": "RA Podcast",
+   "url": "https://ra.co/xml/podcast.xml"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://soundcloud.com/dkmntl",
+   "id": "dekmantel-podcast",
+   "kind": "rss",
+   "name": "Dekmantel Podcast",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:97164/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://soundcloud.com/iliantape",
+   "id": "ilian-tape",
+   "kind": "rss",
+   "name": "Ilian Tape Podcast Series",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:5111422/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://soundcloud.com/crackmagazine",
+   "id": "crack-mix",
+   "kind": "rss",
+   "name": "Crack Mix",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:8735966/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://truantsblog.com/",
+   "id": "truancy-volume",
+   "kind": "rss",
+   "name": "Truancy Volume",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:1767375/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://www.mixcloud.com/phonicarecords/",
+   "id": "phonica-mix",
+   "kind": "mixcloud",
+   "name": "Phonica Mix Series",
+   "user": "phonicarecords"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://www.mixcloud.com/inverted_audio/",
+   "id": "inverted-audio-mix",
+   "kind": "mixcloud",
+   "name": "Inverted Audio Mix",
+   "user": "inverted_audio"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://www.thelotradio.com/",
+   "id": "the-lot-radio",
+   "kind": "rss",
+   "name": "The Lot Radio (selected shows)",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:90833894/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Mixes",
+   "home": "https://refugeworldwide.com/",
+   "id": "refuge-worldwide",
+   "kind": "rss",
+   "name": "Refuge Worldwide (selected shows)",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:520997874/sounds.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://notags.substack.com/",
+   "id": "no-tags",
+   "kind": "rss",
+   "name": "No Tags",
+   "url": "https://api.substack.com/feed/podcast/2037294.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://loveisthemessagepod.co.uk/",
+   "id": "love-is-the-message",
+   "kind": "rss",
+   "name": "Love Is The Message",
+   "url": "https://anchor.fm/s/4f5a79dc/podcast/rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://ra.co/exchange",
+   "id": "ra-exchange",
+   "kind": "rss",
+   "name": "RA Exchange",
+   "url": "https://feeds.acast.com/public/shows/68adcb4f19edea8a0a083a60"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://aquariumdrunkard.com/transmissions/",
+   "id": "transmissions",
+   "kind": "rss",
+   "name": "Transmissions (Aquarium Drunkard)",
+   "url": "https://feeds.megaphone.fm/aquariumdrunkard"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://songexploder.net/",
+   "id": "song-exploder",
+   "kind": "rss",
+   "name": "Song Exploder",
+   "url": "https://feed.songexploder.net/SongExploder"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://switchedonpop.com/",
+   "id": "switched-on-pop",
+   "kind": "rss",
+   "name": "Switched On Pop",
+   "url": "https://feeds.megaphone.fm/switchedonpop"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://www.nytimes.com/column/popcast-pop-music-podcast",
+   "id": "popcast",
+   "kind": "rss",
+   "name": "Popcast (New York Times)",
+   "url": "https://feeds.simplecast.com/TzbxCT1l"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://www.soundopinions.org/",
+   "id": "sound-opinions",
+   "kind": "rss",
+   "name": "Sound Opinions",
+   "url": "https://rss.art19.com/sound-opinions"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://tapenotes.co.uk/",
+   "id": "tape-notes",
+   "kind": "rss",
+   "name": "Tape Notes",
+   "url": "https://feeds.megaphone.fm/TNL8747838853"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://dissectpodcast.com/",
+   "id": "dissect",
+   "kind": "rss",
+   "name": "Dissect",
+   "url": "https://feeds.megaphone.fm/dissectwide"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://pitchfork.com/",
+   "id": "pitchfork-review",
+   "kind": "rss",
+   "name": "The Pitchfork Review",
+   "url": "https://feeds.megaphone.fm/CNE7678775057"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://uproxx.com/indie/",
+   "id": "indiecast",
+   "kind": "rss",
+   "name": "Indiecast",
+   "url": "https://rss.art19.com/indiecast"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://thequietus.com/",
+   "id": "quietus-radio",
+   "kind": "rss",
+   "name": "The Quietus Radio",
+   "url": "https://media.rss.com/the-quietus-radio/feed.xml"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://www.iheart.com/podcast/",
+   "id": "questlove-show",
+   "kind": "rss",
+   "name": "The Questlove Show",
+   "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ee132490-ba24-4965-b558-ae32006cd4c0/podcast.rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Podcasts",
+   "home": "https://nialler9.com/",
+   "id": "nialler9",
+   "kind": "rss",
+   "name": "Nialler9 Podcast",
+   "url": "https://feed.podbean.com/nialler9/feed.xml"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://futurismrestated.substack.com/",
+   "id": "futurism-restated",
+   "kind": "rss",
+   "name": "Futurism Restated (Philip Sherburne)",
+   "url": "https://futurismrestated.substack.com/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://www.hearingthings.co/",
+   "id": "hearing-things",
+   "kind": "rss",
+   "name": "Hearing Things (reviews)",
+   "url": "https://www.hearingthings.co/reviews/rss/"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://www.flowstate.fm/",
+   "id": "flow-state",
+   "kind": "rss",
+   "name": "Flow State",
+   "url": "https://www.flowstate.fm/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://herbsundays.substack.com/",
+   "id": "herb-sundays",
+   "kind": "rss",
+   "name": "Herb Sundays",
+   "url": "https://herbsundays.substack.com/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://toneglow.substack.com/",
+   "id": "tone-glow",
+   "kind": "rss",
+   "name": "Tone Glow",
+   "url": "https://toneglow.substack.com/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://dadastrain.substack.com/",
+   "id": "dada-strain",
+   "kind": "rss",
+   "name": "Dada Strain (Piotr Orlov)",
+   "url": "https://dadastrain.substack.com/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://last-donut-of-the-night.ghost.io/",
+   "id": "last-donut",
+   "kind": "rss",
+   "name": "Last Donut of the Night (Larry Fitzmaurice)",
+   "url": "https://last-donut-of-the-night.ghost.io/rss/"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://thenewcue.substack.com/",
+   "id": "the-new-cue",
+   "kind": "rss",
+   "name": "The New Cue",
+   "url": "https://thenewcue.substack.com/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://www.powmag.net/",
+   "id": "pow-mag",
+   "kind": "rss",
+   "name": "POW Mag (Passion of the Weiss)",
+   "url": "https://www.powmag.net/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://www.stereogum.com/",
+   "id": "stereogum-aotw",
+   "kind": "rss",
+   "name": "Stereogum: Album of the Week",
+   "url": "https://stereogum.com/category/franchises/album-of-the-week/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://pitchfork.com/reviews/best/albums/",
+   "id": "pitchfork-bna",
+   "kind": "rss",
+   "name": "Pitchfork: Best New Albums",
+   "url": "https://pitchfork.com/feed/reviews/best/albums/rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://loudandquiet.substack.com/",
+   "id": "loud-and-quiet",
+   "kind": "rss",
+   "name": "Loud And Quiet",
+   "url": "https://loudandquiet.substack.com/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://www.thewire.co.uk/",
+   "id": "the-wire",
+   "kind": "rss",
+   "name": "The Wire",
+   "url": "https://www.thewire.co.uk/home/rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://thegig.substack.com/",
+   "id": "the-gig",
+   "kind": "rss",
+   "name": "The Gig (Nate Chinen)",
+   "url": "https://thegig.substack.com/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://www.theransomnote.com/",
+   "id": "ransom-note",
+   "kind": "rss",
+   "name": "Ransom Note",
+   "url": "https://www.theransomnote.com/feed/"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://insheepsclothinghifi.com/",
+   "id": "in-sheeps-clothing",
+   "kind": "rss",
+   "name": "In Sheep's Clothing Hi-Fi",
+   "url": "https://insheepsclothinghifi.com/feed/"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://inverted-audio.com/",
+   "id": "inverted-audio",
+   "kind": "rss",
+   "name": "Inverted Audio",
+   "url": "https://inverted-audio.com/feed/"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://crackmagazine.net/",
+   "id": "crack-magazine",
+   "kind": "rss",
+   "name": "Crack Magazine",
+   "url": "https://crackmagazine.net/feed/"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://mixmag.net.au/",
+   "id": "mixmag-anz",
+   "kind": "rss",
+   "name": "Mixmag Australia/Asia",
+   "url": "https://mixmag.net.au/rss.xml"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://www.theguardian.com/music/australian-music",
+   "id": "guardian-au-music",
+   "kind": "rss",
+   "name": "The Guardian: Australian music",
+   "url": "https://www.theguardian.com/music/australian-music/rss"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://joemuggs.substack.com/",
+   "id": "erratic-aesthetic",
+   "kind": "rss",
+   "name": "Erratic Aesthetic (Joe Muggs)",
+   "url": "https://joemuggs.substack.com/feed"
+  },
+  {
+   "added": "sweep",
+   "group": "Writing",
+   "home": "https://www.gorillavsbear.net/",
+   "id": "gorilla-vs-bear",
+   "kind": "rss",
+   "name": "Gorilla vs. Bear",
+   "url": "https://www.gorillavsbear.net/feed/"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/skee-mask",
+   "id": "nts-skee-mask",
+   "kind": "nts",
+   "name": "Feierabend w/ Skee Mask",
+   "slug": "skee-mask"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/loraine-james",
+   "id": "nts-loraine-james",
+   "kind": "nts",
+   "name": "Loraine James",
+   "slug": "loraine-james"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/daniel-avery",
+   "id": "nts-daniel-avery",
+   "kind": "nts",
+   "name": "Daniel Avery",
+   "slug": "daniel-avery"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/whities-w-tasker",
+   "id": "nts-ad93",
+   "kind": "nts",
+   "name": "AD 93 w/ Tasker",
+   "slug": "whities-w-tasker"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/fieldwork",
+   "id": "nts-field-work",
+   "kind": "nts",
+   "name": "Field Work",
+   "slug": "fieldwork"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/kit-grill",
+   "id": "nts-kit-grill",
+   "kind": "nts",
+   "name": "Kit Grill",
+   "slug": "kit-grill"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/lukid",
+   "id": "nts-lukid",
+   "kind": "nts",
+   "name": "Lukid",
+   "slug": "lukid"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/pender-street-steppers",
+   "id": "nts-pender-street-steppers",
+   "kind": "nts",
+   "name": "Pender Street Steppers",
+   "slug": "pender-street-steppers"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/a-long-strange-dream-w-batu",
+   "id": "nts-batu",
+   "kind": "nts",
+   "name": "A Long Strange Dream w/ Batu",
+   "slug": "a-long-strange-dream-w-batu"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/ben-sims",
+   "id": "nts-ben-sims",
+   "kind": "nts",
+   "name": "Ben Sims Presents: Run It Red",
+   "slug": "ben-sims"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/ifmusic",
+   "id": "nts-if-music",
+   "kind": "nts",
+   "name": "If Music Presents You Need This",
+   "slug": "ifmusic"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/touching-bass",
+   "id": "nts-touching-bass",
+   "kind": "nts",
+   "name": "Touching Bass",
+   "slug": "touching-bass"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/optimo",
+   "id": "nts-optimo",
+   "kind": "nts",
+   "name": "Optimo",
+   "slug": "optimo"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/great-southern-lands",
+   "id": "nts-great-southern-lands",
+   "kind": "nts",
+   "name": "Great Southern Lands w/ James W",
+   "slug": "great-southern-lands"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/early-bird-show-w-pam",
+   "id": "nts-early-bird-pam",
+   "kind": "nts",
+   "name": "The Early Bird Show w/ PAM",
+   "slug": "early-bird-show-w-pam"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/donna-leake",
+   "id": "nts-donna-leake",
+   "kind": "nts",
+   "name": "Donna Leake",
+   "slug": "donna-leake"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/david-holmes",
+   "id": "nts-david-holmes",
+   "kind": "nts",
+   "name": "God's Waiting Room w/ David Holmes",
+   "slug": "david-holmes"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/ok-williams",
+   "id": "nts-ok-williams",
+   "kind": "nts",
+   "name": "OK Williams",
+   "slug": "ok-williams"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/sofie-birch",
+   "id": "nts-sofie-birch",
+   "kind": "nts",
+   "name": "Ambient Abracadabra w/ Sofie Birch",
+   "slug": "sofie-birch"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/a-colourful-storm",
+   "id": "nts-a-colourful-storm",
+   "kind": "nts",
+   "name": "A Colourful Storm",
+   "slug": "a-colourful-storm"
+  },
+  {
+   "added": "sweep",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/in-focus",
+   "id": "nts-in-focus",
+   "kind": "nts",
+   "name": "NTS In Focus",
+   "slug": "in-focus"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/tom-ravenscroft",
+   "id": "rinse-tom-ravenscroft",
+   "kind": "rinse",
+   "name": "Tom Ravenscroft",
+   "slug": "tom-ravenscroft"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/pariah",
+   "id": "rinse-pariah",
+   "kind": "rinse",
+   "name": "Pariah",
+   "slug": "pariah"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/tim-garcia",
+   "id": "rinse-tim-garcia",
+   "kind": "rinse",
+   "name": "Tim Garcia",
+   "slug": "tim-garcia"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/eclecticist",
+   "id": "rinse-eclecticist",
+   "kind": "rinse",
+   "name": "Eclecticist",
+   "slug": "eclecticist"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/utopia-presents",
+   "id": "rinse-utopia",
+   "kind": "rinse",
+   "name": "Utopia Presents",
+   "slug": "utopia-presents"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/esk",
+   "id": "rinse-esk",
+   "kind": "rinse",
+   "name": "Esk",
+   "slug": "esk"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/hi-fidelity",
+   "id": "rinse-hi-fidelity",
+   "kind": "rinse",
+   "name": "Hi-Fidelity",
+   "slug": "hi-fidelity"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/i-jordan",
+   "id": "rinse-i-jordan",
+   "kind": "rinse",
+   "name": "I. JORDAN",
+   "slug": "i-jordan"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/emerald",
+   "id": "rinse-emerald",
+   "kind": "rinse",
+   "name": "Precious Stones Radio w/ Emerald",
+   "slug": "emerald"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/stones-taro",
+   "id": "rinse-stones-taro",
+   "kind": "rinse",
+   "name": "Stones Taro",
+   "slug": "stones-taro"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/hodge",
+   "id": "rinse-hodge",
+   "kind": "rinse",
+   "name": "Hodge",
+   "slug": "hodge"
+  },
+  {
+   "added": "sweep",
+   "group": "Rinse FM",
+   "home": "https://www.rinse.fm/shows/yazmin-lacey",
+   "id": "rinse-yazmin-lacey",
+   "kind": "rinse",
+   "name": "Yazmin Lacey: Morning Matters",
+   "slug": "yazmin-lacey"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/dj-hype",
+   "id": "rinse-dj-hype",
+   "kind": "rinse",
+   "name": "DJ Hype",
+   "slug": "dj-hype"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/bryan-gee",
+   "id": "rinse-bryan-gee",
+   "kind": "rinse",
+   "name": "Bryan Gee",
+   "slug": "bryan-gee"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/fabio-grooverider",
+   "id": "rinse-fabio-grooverider",
+   "kind": "rinse",
+   "name": "Fabio & Grooverider",
+   "slug": "fabio-grooverider"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/dj-flight",
+   "id": "rinse-dj-flight",
+   "kind": "rinse",
+   "name": "DJ Flight",
+   "slug": "dj-flight"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/kara",
+   "id": "rinse-kara",
+   "kind": "rinse",
+   "name": "Kara",
+   "slug": "kara"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/transparent-audio",
+   "id": "rinse-transparent-audio",
+   "kind": "rinse",
+   "name": "The Transparent & Yamatai Show",
+   "slug": "transparent-audio"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/dametalmessiah",
+   "id": "rinse-dametalmessiah",
+   "kind": "rinse",
+   "name": "Dametalmessiah",
+   "slug": "dametalmessiah"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/plastician",
+   "id": "rinse-plastician",
+   "kind": "rinse",
+   "name": "Plastician",
+   "slug": "plastician"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/klute",
+   "id": "rinse-klute",
+   "kind": "rinse",
+   "name": "Klute",
+   "slug": "klute"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/ed-gillett",
+   "id": "rinse-ed-gillett",
+   "kind": "rinse",
+   "name": "Ed Gillett",
+   "slug": "ed-gillett"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/crucast",
+   "id": "rinse-crucast",
+   "kind": "rinse",
+   "name": "CruCast",
+   "slug": "crucast"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/fracture",
+   "id": "rinse-fracture",
+   "kind": "rinse",
+   "name": "Fracture",
+   "slug": "fracture"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.rinse.fm/shows/settle-down",
+   "id": "rinse-settle-down",
+   "kind": "rinse",
+   "name": "Settle Down",
+   "slug": "settle-down"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/dj-persuasion",
+   "id": "nts-dj-persuasion",
+   "kind": "nts",
+   "name": "Drum Poetry w/ Equinox & Dev/Null",
+   "slug": "dj-persuasion"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/tim-reaper",
+   "id": "nts-tim-reaper",
+   "kind": "nts",
+   "name": "Tim Reaper",
+   "slug": "tim-reaper"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/rupture",
+   "id": "nts-rupture",
+   "kind": "nts",
+   "name": "Rupture w/ Mantra & Double O",
+   "slug": "rupture"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/deep-medi",
+   "id": "nts-deep-medi",
+   "kind": "nts",
+   "name": "DEEP MEDi",
+   "slug": "deep-medi"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/hooversound",
+   "id": "nts-hooversound",
+   "kind": "nts",
+   "name": "Hooversound w/ Sherelle & Naina",
+   "slug": "hooversound"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/nia-archives",
+   "id": "nts-nia-archives",
+   "kind": "nts",
+   "name": "Up Ya Archives w/ Nia Archives",
+   "slug": "nia-archives"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/anz",
+   "id": "nts-anz",
+   "kind": "nts",
+   "name": "Anz",
+   "slug": "anz"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://scubaofficial.io/podcast",
+   "id": "music-not-diving",
+   "kind": "rss",
+   "name": "Music Not Diving with Scuba",
+   "url": "https://feeds.acast.com/public/shows/656ee493f95cc60012925da6"
+  },
+  {
+   "added": "oct11",
+   "group": "Bass",
+   "home": "https://fbiradio.com/programs/sunset-with-dot-zip",
+   "id": "fbi-sunset",
+   "kind": "rss",
+   "name": "FBi Sunset (club and bass)",
+   "url": "https://omny.fm/shows/sunset-saturday/playlists/podcast.rss"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "https://app.syndicast.co.uk/site/show/selador-sessions",
+   "id": "selador-sessions",
+   "kind": "rss",
+   "name": "Selador Sessions (Dave Seaman & Steve Parry)",
+   "url": "https://app.syndicast.co.uk/show/rss/selador-sessions"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "https://www.buzzsprout.com/1864521",
+   "id": "super-progressive",
+   "kind": "rss",
+   "name": "Super Progressive Podcast",
+   "url": "https://rss.buzzsprout.com/1864521.rss"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "https://soundcloud.com/noraenpure",
+   "id": "nora-en-pure",
+   "kind": "rss",
+   "name": "Nora En Pure: Purified Radio",
+   "url": "http://portal-api.thisisdistorted.com/xml/nora-en-pure-purified-radio"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "https://www.mixcloud.com/aboveandbeyond/",
+   "id": "group-therapy",
+   "kind": "mixcloud",
+   "name": "Above & Beyond: Group Therapy",
+   "user": "aboveandbeyond"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "https://soundcloud.com/gaibarone",
+   "id": "gai-barone-patterns",
+   "kind": "rss",
+   "name": "Gai Barone: Patterns",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:241200/sounds.rss"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "http://www.coldwiredmusic.com",
+   "id": "coldwired",
+   "kind": "rss",
+   "name": "Coldwired Podcast (Nick Clark)",
+   "url": "http://www.coldwiredmusic.com/coldwiredmusic/podcast.xml"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "https://www.spreaker.com/podcast/citr-techno-progressivo--4254124",
+   "id": "citr-techno-progressivo",
+   "kind": "rss",
+   "name": "CiTR: Techno Progressivo",
+   "url": "https://www.spreaker.com/show/4254124/episodes/feed"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "https://manualmovement.podbean.com",
+   "id": "manual-movement",
+   "kind": "rss",
+   "name": "Manual Movement (Manual Music)",
+   "url": "https://feed.podbean.com/manualmovement/feed.xml"
+  },
+  {
+   "added": "oct11",
+   "group": "Progressive",
+   "home": "https://www.21cprogressivehouse.com/",
+   "id": "21c-progressive",
+   "kind": "rss",
+   "name": "21C Progressive House",
+   "url": "https://feeds.soundcloud.com/users/soundcloud:users:732625912/sounds.rss"
+  }
+ ]
+}

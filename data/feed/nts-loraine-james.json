@@ -1,0 +1,129 @@
+{
+ "home": "https://www.nts.live/shows/loraine-james",
+ "id": "nts-loraine-james",
+ "items": [
+  {
+   "date": "2026-09-29T13:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-29th-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/1e66df05-9974-44f8-9ad3-c0c8a609061a_1790640000.jpeg",
+   "location": "London",
+   "tags": "Ambient, Modern Classical",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-29th-september-2026"
+  },
+  {
+   "date": "2026-09-01T13:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-1st-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/20d45a7c-17be-4152-b3a0-d8f763d0a647_1788220800.jpeg",
+   "location": "London",
+   "tags": "Dubstep, Garage",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-1st-september-2026"
+  },
+  {
+   "date": "2026-08-04T13:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. From the host: \"live set from moi with distorted audio\"",
+   "id": "loraine-james-4th-august-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/2418ec8d-ef9c-4b52-87d1-0eab0e1e2817_1785801600.jpeg",
+   "location": "London",
+   "tags": "Electronica, Glitch, Ambient",
+   "title": "Loraine James - live at Silent Green",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-4th-august-2026"
+  },
+  {
+   "date": "2026-07-07T13:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-7th-july-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/94fd86e3-a6e4-45be-8b24-4e900b15f6dc_1593475200.jpeg",
+   "location": "London",
+   "tags": "Electronica, Glitch, Minimal",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-7th-july-2026"
+  },
+  {
+   "date": "2026-06-09T13:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-9th-june-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/94fd86e3-a6e4-45be-8b24-4e900b15f6dc_1593475200.jpeg",
+   "location": "London",
+   "tags": "Electronica, Ambient",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-9th-june-2026"
+  },
+  {
+   "date": "2026-05-12T13:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-12th-may-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/1bad03c9-eb22-45ef-9ca8-cbfcdad1ebbc_1778544000.jpeg",
+   "location": "London",
+   "tags": "Electronica, Soul, Trip Hop, Dub",
+   "title": "Loraine James w/ Jade Anja Byrne",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-12th-may-2026"
+  },
+  {
+   "date": "2026-04-14T13:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-14th-april-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/94fd86e3-a6e4-45be-8b24-4e900b15f6dc_1593475200.jpeg",
+   "location": "London",
+   "tags": "Indie Rock, Emo, Math Rock",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-14th-april-2026"
+  },
+  {
+   "date": "2026-03-17T14:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-17th-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/94fd86e3-a6e4-45be-8b24-4e900b15f6dc_1593475200.jpeg",
+   "location": "London",
+   "tags": "Experimental Hip Hop, Grime, Post Rock, Electronica",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-17th-march-2026"
+  },
+  {
+   "date": "2026-02-17T14:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-17th-february-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/94fd86e3-a6e4-45be-8b24-4e900b15f6dc_1593475200.jpeg",
+   "location": "London",
+   "tags": "Electronica, Bass, Leftfield Techno",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-17th-february-2026"
+  },
+  {
+   "date": "2026-01-20T15:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-20th-january-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/94fd86e3-a6e4-45be-8b24-4e900b15f6dc_1593475200.jpeg",
+   "location": "London",
+   "tags": "Electronica, Bass, Baile Funk, Art Rock",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-20th-january-2026"
+  },
+  {
+   "date": "2025-12-18T20:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. From the host: \"My 30th birthday playlist. a collection of songs I love that came out in 1995.\"",
+   "id": "loraine-james-18th-december-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/b7858c8b-4917-4131-9cef-00888eac54b5_1765929600.jpeg",
+   "location": "London",
+   "tags": "Electronica, Nu Metal, Hip Hop , Drum & Bass",
+   "title": "Loraine James - 30th Birthday Special",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-18th-december-2025"
+  },
+  {
+   "date": "2025-11-20T20:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. From the host: \"A Julius Eastman special. playing some music from Building Something Beautiful For Me, the album that pays homage to the late Julius Eastman as well as his own scores.\"",
+   "id": "loraine-james-20th-november-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/53a086d3-2e6d-47dd-933f-f9d785597ac1_1763510400.jpeg",
+   "location": "London",
+   "tags": "Electronica, Experimental, Modern Classical",
+   "title": "Loraine James - Julius Eastman special",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-20th-november-2025"
+  }
+ ],
+ "kind": "nts",
+ "name": "Loraine James",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

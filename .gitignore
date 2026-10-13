@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.tmp
+
+# Android Studio (milestone 4)
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+android/local.properties
+android/*.iml
+android/app/*.iml
+android/.kotlin/
+
+# Secrets never go in the repo
+*.token
+*.secret
+.env
+
+# Windows and editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

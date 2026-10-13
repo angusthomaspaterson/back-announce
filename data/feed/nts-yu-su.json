@@ -1,0 +1,129 @@
+{
+ "home": "https://www.nts.live/shows/yu-su",
+ "id": "nts-yu-su",
+ "items": [
+  {
+   "date": "2026-09-15T16:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-15th-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/906b9bbd-681e-46ea-b012-3b62077ad585_1574035200.jpeg",
+   "location": "Kaifeng",
+   "tags": "Dub Techno, Tech House",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-15th-september-2026"
+  },
+  {
+   "date": "2026-08-18T16:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-18th-august-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0e926cc7-ae2e-46fd-915c-0a249fdb0fe8_1787011200.png",
+   "location": "Kaifeng",
+   "tags": "Dub Techno, Minimal, Tech House",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-18th-august-2026"
+  },
+  {
+   "date": "2026-07-21T16:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. From the host: \"A special eposide recorded at home with my partner Oliver, playing all past month's record purchases. New chapter for me getting upgraded from USBJ to DJ hehe!\"",
+   "id": "yu-su-21st-july-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/5f891536-5ca2-4399-8c6a-11a94f88c39c_1784592000.png",
+   "location": "Kaifeng",
+   "tags": "Techno, Minimal, Tech House",
+   "title": "Yu Su w/ Oliver Ellmers",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-21st-july-2026"
+  },
+  {
+   "date": "2026-06-23T16:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-23rd-june-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/2fde783b-ddba-43b9-b070-acc6d0dc1ca4_1782172800.jpeg",
+   "location": "Kaifeng",
+   "tags": "Deep House, Minimal, Tech House",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-23rd-june-2026"
+  },
+  {
+   "date": "2026-05-29T20:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-29th-may-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/fbb8b2eb-26b3-42ac-8cbf-be09d80738cb_1780185600.jpeg",
+   "location": "Kaifeng",
+   "tags": "Deep House, Techno, Minimal, Tech House",
+   "title": "Yu Su & Moopie",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-29th-may-2026"
+  },
+  {
+   "date": "2026-04-28T16:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-28th-april-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/906b9bbd-681e-46ea-b012-3b62077ad585_1574035200.jpeg",
+   "location": "Kaifeng",
+   "tags": "Dub Techno, Tech House",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-28th-april-2026"
+  },
+  {
+   "date": "2026-03-31T16:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-31st-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/bcd2c02e-a951-4afa-a001-f68b1001bc7c_1774915200.png",
+   "location": "Kaifeng",
+   "tags": "Dub Techno, Ambient Techno",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-31st-march-2026"
+  },
+  {
+   "date": "2026-03-03T17:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-3rd-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/906b9bbd-681e-46ea-b012-3b62077ad585_1574035200.jpeg",
+   "location": "Kaifeng",
+   "tags": "Minimal, Tech House",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-3rd-march-2026"
+  },
+  {
+   "date": "2026-02-03T17:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-3rd-february-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/26a98a11-79a5-413f-a39f-c20d74be1f97_1769990400.jpeg",
+   "location": "Kaifeng",
+   "tags": "Techno, Trip Hop, Dubstep",
+   "title": "Yu Su w/ xylon",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-3rd-february-2026"
+  },
+  {
+   "date": "2026-01-06T17:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-6th-january-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/906b9bbd-681e-46ea-b012-3b62077ad585_1574035200.jpeg",
+   "location": "Kaifeng",
+   "tags": "Electronica, Ambient, Ambient Techno",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-6th-january-2026"
+  },
+  {
+   "date": "2025-12-09T17:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-9th-december-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/906b9bbd-681e-46ea-b012-3b62077ad585_1574035200.jpeg",
+   "location": "Kaifeng",
+   "tags": "Deep House, Dub Techno, Minimal",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-9th-december-2025"
+  },
+  {
+   "date": "2025-11-11T17:00:00Z",
+   "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+   "id": "yu-su-11th-november-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/906b9bbd-681e-46ea-b012-3b62077ad585_1574035200.jpeg",
+   "location": "Kaifeng",
+   "tags": "Leftfield Techno, Ambient Techno",
+   "title": "Yu Su",
+   "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-11th-november-2025"
+  }
+ ],
+ "kind": "nts",
+ "name": "Yu Su",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

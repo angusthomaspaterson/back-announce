@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
+#EXTINF:-1,BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.norewind.m3u8
+#EXTINF:-1,BBC Radio 1 Dance
+http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=128000.norewind.m3u8
+#EXTINF:-1,NTS 1
+http://stream-relay-geo.ntslive.net/stream
+#EXTINF:-1,NTS 2
+http://stream-relay-geo.ntslive.net/stream2
+#EXTINF:-1,Rinse FM
+https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+#EXTINF:-1,Rinse France
+https://radio10.pro-fhi.net/radio/9041/stream
+#EXTINF:-1,Kool FM (Rinse)
+https://admin.stream.rinse.fm/proxy/kool/stream
+#EXTINF:-1,RTRFM 92.1 Perth
+https://live.rtrfm.com.au/stream1
+#EXTINF:-1,triple j
+http://live-radio01.mediahubaustralia.com/2TJW/aac/
+#EXTINF:-1,Double J
+http://live-radio01.mediahubaustralia.com/DJDW/aac/
+#EXTINF:-1,FBi Radio Sydney
+https://streamer.fbiradio.com/stream
+#EXTINF:-1,3RRR Melbourne
+http://realtime.rrr.org.au/p1l
+#EXTINF:-1,PBS 106.7 Melbourne
+https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAACHIGH.aac
+#EXTINF:-1,FluxFM Berlin
+http://streams.fluxfm.de/live/mp3-320/audio/
+#EXTINF:-1,Worldwide FM
+https://worldwide-fm.radiocult.fm/stream
+#EXTINF:-1,Kiosk Radio Brussels
+https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+#EXTINF:-1,KEXP Seattle
+https://kexp.streamguys1.com/kexp160.aac

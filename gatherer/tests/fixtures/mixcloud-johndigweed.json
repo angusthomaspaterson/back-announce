@@ -1,0 +1,1699 @@
+{
+    "data": [
+        {
+            "key": "/johndigweed/transitions-1154/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-1154/",
+            "name": "Transitions with John Digweed",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/breaks/",
+                    "url": "https://www.mixcloud.com/genres/breaks/",
+                    "name": "Breaks"
+                },
+                {
+                    "key": "/genres/electro/",
+                    "url": "https://www.mixcloud.com/genres/electro/",
+                    "name": "Electro"
+                }
+            ],
+            "created_time": "2026-10-09T15:00:50Z",
+            "updated_time": "2026-10-13T04:14:01Z",
+            "play_count": 2488,
+            "favorite_count": 135,
+            "comment_count": 36,
+            "listener_count": 1519,
+            "repost_count": 15,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/7/0/4/7368-4285-4f07-ba1c-2d83907249c4"
+            },
+            "slug": "transitions-1154",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7015
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-dance-spirit/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-dance-spirit/",
+            "name": "Transitions with John Digweed (Live in Amsterdam) and Dance Spirit",
+            "tags": [
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/dub-techno/",
+                    "url": "https://www.mixcloud.com/genres/dub-techno/",
+                    "name": "Dub techno"
+                },
+                {
+                    "key": "/genres/melodic-house/",
+                    "url": "https://www.mixcloud.com/genres/melodic-house/",
+                    "name": "Melodic house"
+                }
+            ],
+            "created_time": "2026-10-02T15:00:47Z",
+            "updated_time": "2026-10-13T04:13:55Z",
+            "play_count": 9897,
+            "favorite_count": 450,
+            "comment_count": 61,
+            "listener_count": 5515,
+            "repost_count": 49,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825"
+            },
+            "slug": "transitions-with-john-digweed-dance-spirit",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7163
+        },
+        {
+            "key": "/johndigweed/compiled-mixed-045/",
+            "url": "https://www.mixcloud.com/johndigweed/compiled-mixed-045/",
+            "name": "Compiled & Mixed 045",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/breaks/",
+                    "url": "https://www.mixcloud.com/genres/breaks/",
+                    "name": "Breaks"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                }
+            ],
+            "created_time": "2026-10-02T11:00:06Z",
+            "updated_time": "2026-10-13T03:28:25Z",
+            "play_count": 613,
+            "favorite_count": 39,
+            "comment_count": 8,
+            "listener_count": 399,
+            "repost_count": 3,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/e/4/0/2/1b84-c026-4b32-afdf-9d91dc928d53"
+            },
+            "slug": "compiled-mixed-045",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "is_exclusive": true,
+            "audio_length": 3625
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-dj-vibe/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-dj-vibe/",
+            "name": "Transitions with John Digweed and DJ Vibe",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/progressive-house/",
+                    "url": "https://www.mixcloud.com/genres/progressive-house/",
+                    "name": "Progressive house"
+                }
+            ],
+            "created_time": "2026-09-25T15:00:23Z",
+            "updated_time": "2026-10-13T04:13:52Z",
+            "play_count": 11485,
+            "favorite_count": 479,
+            "comment_count": 71,
+            "listener_count": 6065,
+            "repost_count": 51,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/f/7/d/c06e-cadb-4574-a20a-cd938e5e47cb"
+            },
+            "slug": "transitions-with-john-digweed-dj-vibe",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7200
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-tim-green-_/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-tim-green-_/",
+            "name": "Transitions with John Digweed and Tim Green",
+            "tags": [
+                {
+                    "key": "/genres/progressive-house/",
+                    "url": "https://www.mixcloud.com/genres/progressive-house/",
+                    "name": "Progressive house"
+                },
+                {
+                    "key": "/genres/melodic-house/",
+                    "url": "https://www.mixcloud.com/genres/melodic-house/",
+                    "name": "Melodic house"
+                },
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/club-house/",
+                    "url": "https://www.mixcloud.com/genres/club-house/",
+                    "name": "Club House"
+                }
+            ],
+            "created_time": "2026-09-18T15:00:40Z",
+            "updated_time": "2026-10-13T04:02:52Z",
+            "play_count": 12424,
+            "favorite_count": 481,
+            "comment_count": 54,
+            "listener_count": 6873,
+            "repost_count": 54,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/5/6/5/9ab6-d2d5-4ea4-9cf9-4df2cc519ecc"
+            },
+            "slug": "transitions-with-john-digweed-and-tim-green-_",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7140
+        },
+        {
+            "key": "/johndigweed/transitions-1150/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-1150/",
+            "name": "Transitions with John Digweed (Guerilla Records Special)",
+            "tags": [
+                {
+                    "key": "/genres/progressive-house/",
+                    "url": "https://www.mixcloud.com/genres/progressive-house/",
+                    "name": "Progressive house"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/house/",
+                    "url": "https://www.mixcloud.com/genres/house/",
+                    "name": "House"
+                }
+            ],
+            "created_time": "2026-09-11T15:00:50Z",
+            "updated_time": "2026-10-13T04:13:49Z",
+            "play_count": 13122,
+            "favorite_count": 594,
+            "comment_count": 98,
+            "listener_count": 6646,
+            "repost_count": 63,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/7/5/e/abd4-564e-418b-9a7e-302bdc2d86e0"
+            },
+            "slug": "transitions-1150",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7201
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-quivver/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-quivver/",
+            "name": "Transitions with John Digweed and Quivver",
+            "tags": [
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/dub-techno/",
+                    "url": "https://www.mixcloud.com/genres/dub-techno/",
+                    "name": "Dub techno"
+                },
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                }
+            ],
+            "created_time": "2026-09-04T15:00:00Z",
+            "updated_time": "2026-10-13T03:38:13Z",
+            "play_count": 14394,
+            "favorite_count": 550,
+            "comment_count": 61,
+            "listener_count": 7970,
+            "repost_count": 65,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/7/8/6/6f61-1d43-42f9-8839-27049e3c7d8f"
+            },
+            "slug": "transitions-with-john-digweed-quivver",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7200
+        },
+        {
+            "key": "/johndigweed/compiled-mixed-044/",
+            "url": "https://www.mixcloud.com/johndigweed/compiled-mixed-044/",
+            "name": "Compiled & Mixed 044",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                }
+            ],
+            "created_time": "2026-09-04T11:00:06Z",
+            "updated_time": "2026-10-13T01:32:41Z",
+            "play_count": 923,
+            "favorite_count": 46,
+            "comment_count": 5,
+            "listener_count": 572,
+            "repost_count": 4,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/9/3/4/89b6-5697-4051-85b7-ba3a151e6e51"
+            },
+            "slug": "compiled-mixed-044",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "is_exclusive": true,
+            "audio_length": 3574
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-joyce-muniz/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-joyce-muniz/",
+            "name": "Transitions with John Digweed and Joyce Muniz",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/melodic-house/",
+                    "url": "https://www.mixcloud.com/genres/melodic-house/",
+                    "name": "Melodic house"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                }
+            ],
+            "created_time": "2026-08-28T15:00:46Z",
+            "updated_time": "2026-10-13T02:33:50Z",
+            "play_count": 12864,
+            "favorite_count": 394,
+            "comment_count": 44,
+            "listener_count": 6945,
+            "repost_count": 45,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/5/1/4/965c-dc76-4113-a5ee-ccce09dc8f3f"
+            },
+            "slug": "transitions-with-john-digweed-joyce-muniz",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7225
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-timo-maas/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-timo-maas/",
+            "name": "Transitions with John Digweed (Live in Rosario) and Timo Maas",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/underground/",
+                    "url": "https://www.mixcloud.com/genres/underground/",
+                    "name": "Underground"
+                }
+            ],
+            "created_time": "2026-08-21T15:00:46Z",
+            "updated_time": "2026-10-13T04:13:39Z",
+            "play_count": 14245,
+            "favorite_count": 557,
+            "comment_count": 65,
+            "listener_count": 7627,
+            "repost_count": 50,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/d/9/e/e120-a8e7-4cd8-899e-a3f0e92aab6b"
+            },
+            "slug": "transitions-with-john-digweed-timo-maas",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7200
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-chelu-garcia/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-chelu-garcia/",
+            "name": "Transitions with John Digweed (William Orbit Tribute) and Chelu Garcia",
+            "tags": [
+                {
+                    "key": "/genres/electronic/",
+                    "url": "https://www.mixcloud.com/genres/electronic/",
+                    "name": "Electronic"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/house/",
+                    "url": "https://www.mixcloud.com/genres/house/",
+                    "name": "House"
+                },
+                {
+                    "key": "/genres/progressive-house/",
+                    "url": "https://www.mixcloud.com/genres/progressive-house/",
+                    "name": "Progressive house"
+                },
+                {
+                    "key": "/genres/downtempo/",
+                    "url": "https://www.mixcloud.com/genres/downtempo/",
+                    "name": "Downtempo"
+                }
+            ],
+            "created_time": "2026-08-14T15:00:13Z",
+            "updated_time": "2026-10-13T04:05:45Z",
+            "play_count": 12859,
+            "favorite_count": 537,
+            "comment_count": 70,
+            "listener_count": 6685,
+            "repost_count": 57,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/4/b/9/0e7a-15ef-4ae2-afbd-ed18f4517446"
+            },
+            "slug": "transitions-with-john-digweed-and-chelu-garcia",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7200
+        },
+        {
+            "key": "/johndigweed/john-digweed-live-at-monumento-nacional-a-la-bandera-rosario/",
+            "url": "https://www.mixcloud.com/johndigweed/john-digweed-live-at-monumento-nacional-a-la-bandera-rosario/",
+            "name": "John Digweed Live at Monumento Nacional a la Bandera, Rosario",
+            "tags": [
+                {
+                    "key": "/genres/live/",
+                    "url": "https://www.mixcloud.com/genres/live/",
+                    "name": "Live"
+                },
+                {
+                    "key": "/genres/progressive-house/",
+                    "url": "https://www.mixcloud.com/genres/progressive-house/",
+                    "name": "Progressive house"
+                },
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/melodic-house/",
+                    "url": "https://www.mixcloud.com/genres/melodic-house/",
+                    "name": "Melodic house"
+                }
+            ],
+            "created_time": "2026-08-13T00:00:44Z",
+            "updated_time": "2026-10-13T02:18:02Z",
+            "play_count": 14359,
+            "favorite_count": 788,
+            "comment_count": 118,
+            "listener_count": 7658,
+            "repost_count": 74,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/2/3/5/7746-0eb3-490a-805b-671d86fcbce5"
+            },
+            "slug": "john-digweed-live-at-monumento-nacional-a-la-bandera-rosario",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7544
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-bonafique/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-bonafique/",
+            "name": "Transitions with John Digweed and Bonafique",
+            "tags": [
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/melodic-house/",
+                    "url": "https://www.mixcloud.com/genres/melodic-house/",
+                    "name": "Melodic house"
+                },
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/underground/",
+                    "url": "https://www.mixcloud.com/genres/underground/",
+                    "name": "Underground"
+                }
+            ],
+            "created_time": "2026-08-07T15:00:59Z",
+            "updated_time": "2026-10-13T04:13:09Z",
+            "play_count": 12594,
+            "favorite_count": 417,
+            "comment_count": 43,
+            "listener_count": 6666,
+            "repost_count": 46,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/1/5/d/c6f4-e13f-4815-b619-d82fb1ddb093"
+            },
+            "slug": "transitions-with-john-digweed-and-bonafique",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7136
+        },
+        {
+            "key": "/johndigweed/compiled-mixed-043/",
+            "url": "https://www.mixcloud.com/johndigweed/compiled-mixed-043/",
+            "name": "Compiled & Mixed 043",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/breaks/",
+                    "url": "https://www.mixcloud.com/genres/breaks/",
+                    "name": "Breaks"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                }
+            ],
+            "created_time": "2026-08-07T11:00:23Z",
+            "updated_time": "2026-10-12T06:19:59Z",
+            "play_count": 931,
+            "favorite_count": 39,
+            "comment_count": 1,
+            "listener_count": 581,
+            "repost_count": 3,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/a/0/d/e33e-4f96-4b68-ae87-e2efae46924f"
+            },
+            "slug": "compiled-mixed-043",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "is_exclusive": true,
+            "audio_length": 3600
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-ben-gomori/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-ben-gomori/",
+            "name": "Transitions with John Digweed and Ben Gomori",
+            "tags": [
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/underground/",
+                    "url": "https://www.mixcloud.com/genres/underground/",
+                    "name": "Underground"
+                },
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                }
+            ],
+            "created_time": "2026-07-31T15:00:30Z",
+            "updated_time": "2026-10-13T04:13:58Z",
+            "play_count": 12798,
+            "favorite_count": 401,
+            "comment_count": 62,
+            "listener_count": 6790,
+            "repost_count": 51,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/9/a/3/803e-c2f7-4961-837e-7eea44301f41"
+            },
+            "slug": "transitions-with-john-digweed-and-ben-gomori",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7198
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-talal/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-talal/",
+            "name": "Transitions with John Digweed and Talal",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/melodic-house/",
+                    "url": "https://www.mixcloud.com/genres/melodic-house/",
+                    "name": "Melodic house"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                }
+            ],
+            "created_time": "2026-07-24T15:00:19Z",
+            "updated_time": "2026-10-13T04:13:22Z",
+            "play_count": 12854,
+            "favorite_count": 397,
+            "comment_count": 68,
+            "listener_count": 6984,
+            "repost_count": 49,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/6/9/f/c8af-6258-408c-989a-4ec4ff76ea31"
+            },
+            "slug": "transitions-with-john-digweed-and-talal",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7200
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-nico-stojan-david-mayer/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-nico-stojan-david-mayer/",
+            "name": "Transitions with John Digweed and Nico Stojan & David Mayer",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/dub-techno/",
+                    "url": "https://www.mixcloud.com/genres/dub-techno/",
+                    "name": "Dub techno"
+                },
+                {
+                    "key": "/genres/melodic-house/",
+                    "url": "https://www.mixcloud.com/genres/melodic-house/",
+                    "name": "Melodic house"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                }
+            ],
+            "created_time": "2026-07-17T15:00:49Z",
+            "updated_time": "2026-10-13T03:09:28Z",
+            "play_count": 13998,
+            "favorite_count": 449,
+            "comment_count": 60,
+            "listener_count": 7721,
+            "repost_count": 57,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/4/5/2/3182-a24a-4f27-a146-747dc66353b8"
+            },
+            "slug": "transitions-with-john-digweed-and-nico-stojan-david-mayer",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7080
+        },
+        {
+            "key": "/johndigweed/transitions_john-digweed-ian-odonovan/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions_john-digweed-ian-odonovan/",
+            "name": "Transitions with John Digweed and Ian O'Donovan",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/melodic-house/",
+                    "url": "https://www.mixcloud.com/genres/melodic-house/",
+                    "name": "Melodic house"
+                }
+            ],
+            "created_time": "2026-07-10T15:00:55Z",
+            "updated_time": "2026-10-13T03:11:45Z",
+            "play_count": 16035,
+            "favorite_count": 579,
+            "comment_count": 58,
+            "listener_count": 8799,
+            "repost_count": 67,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/e/b/f/2bfb-232e-4b9e-a4e4-b55d92039643"
+            },
+            "slug": "transitions_john-digweed-ian-odonovan",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7209
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-pigdan/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-pigdan/",
+            "name": "Transitions with John Digweed and Pig&Dan",
+            "tags": [
+                {
+                    "key": "/genres/downtempo/",
+                    "url": "https://www.mixcloud.com/genres/downtempo/",
+                    "name": "Downtempo"
+                },
+                {
+                    "key": "/genres/chill/",
+                    "url": "https://www.mixcloud.com/genres/chill/",
+                    "name": "Chill"
+                },
+                {
+                    "key": "/genres/house/",
+                    "url": "https://www.mixcloud.com/genres/house/",
+                    "name": "House"
+                },
+                {
+                    "key": "/genres/ambient/",
+                    "url": "https://www.mixcloud.com/genres/ambient/",
+                    "name": "Ambient"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                }
+            ],
+            "created_time": "2026-07-06T13:50:59Z",
+            "updated_time": "2026-10-13T03:35:25Z",
+            "play_count": 9565,
+            "favorite_count": 369,
+            "comment_count": 33,
+            "listener_count": 5080,
+            "repost_count": 31,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316"
+            },
+            "slug": "transitions-with-john-digweed-pigdan",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7345
+        },
+        {
+            "key": "/johndigweed/compiled-mixed-042/",
+            "url": "https://www.mixcloud.com/johndigweed/compiled-mixed-042/",
+            "name": "Compiled & Mixed 042",
+            "tags": [
+                {
+                    "key": "/genres/breaks/",
+                    "url": "https://www.mixcloud.com/genres/breaks/",
+                    "name": "Breaks"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                }
+            ],
+            "created_time": "2026-07-03T11:00:08Z",
+            "updated_time": "2026-10-13T01:57:59Z",
+            "play_count": 1492,
+            "favorite_count": 57,
+            "comment_count": 12,
+            "listener_count": 913,
+            "repost_count": 4,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/0/5/7/d20a-d4a0-4be0-9970-1112244b41ba"
+            },
+            "slug": "compiled-mixed-042",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "is_exclusive": true,
+            "audio_length": 3599
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-hammer/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-hammer/",
+            "name": "Transitions with John Digweed and Hammer",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/underground/",
+                    "url": "https://www.mixcloud.com/genres/underground/",
+                    "name": "Underground"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                }
+            ],
+            "created_time": "2026-06-26T15:00:28Z",
+            "updated_time": "2026-10-13T02:59:27Z",
+            "play_count": 14544,
+            "favorite_count": 411,
+            "comment_count": 53,
+            "listener_count": 7555,
+            "repost_count": 52,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/b/c/b/166f-3cda-4b09-b802-5ee5aada8bd3"
+            },
+            "slug": "transitions-with-john-digweed-hammer",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7701
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-davi-_/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-davi-_/",
+            "name": "Transitions with John Digweed and DAVI",
+            "tags": [
+                {
+                    "key": "/genres/melodic-techno/",
+                    "url": "https://www.mixcloud.com/genres/melodic-techno/",
+                    "name": "Melodic techno"
+                },
+                {
+                    "key": "/genres/progressive-house/",
+                    "url": "https://www.mixcloud.com/genres/progressive-house/",
+                    "name": "Progressive house"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                }
+            ],
+            "created_time": "2026-06-19T16:00:53Z",
+            "updated_time": "2026-10-13T04:04:34Z",
+            "play_count": 14801,
+            "favorite_count": 453,
+            "comment_count": 52,
+            "listener_count": 8145,
+            "repost_count": 56,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28"
+            },
+            "slug": "transitions-with-john-digweed-and-davi-_",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 6968
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-spooky/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-spooky/",
+            "name": "Transitions with John Digweed and Spooky",
+            "tags": [
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/underground/",
+                    "url": "https://www.mixcloud.com/genres/underground/",
+                    "name": "Underground"
+                }
+            ],
+            "created_time": "2026-06-12T15:00:34Z",
+            "updated_time": "2026-10-13T02:30:46Z",
+            "play_count": 14566,
+            "favorite_count": 457,
+            "comment_count": 68,
+            "listener_count": 8107,
+            "repost_count": 50,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5"
+            },
+            "slug": "transitions-with-john-digweed-and-spooky",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7722
+        },
+        {
+            "key": "/johndigweed/transitions-with-john-digweed-and-dany-rodriguez/",
+            "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-dany-rodriguez/",
+            "name": "Transitions with John Digweed and Dany Rodriguez",
+            "tags": [
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/deep-techno/",
+                    "url": "https://www.mixcloud.com/genres/deep-techno/",
+                    "name": "Deep Techno"
+                },
+                {
+                    "key": "/genres/club/",
+                    "url": "https://www.mixcloud.com/genres/club/",
+                    "name": "Club"
+                },
+                {
+                    "key": "/genres/underground/",
+                    "url": "https://www.mixcloud.com/genres/underground/",
+                    "name": "Underground"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                }
+            ],
+            "created_time": "2026-06-05T15:00:14Z",
+            "updated_time": "2026-10-13T02:18:32Z",
+            "play_count": 14272,
+            "favorite_count": 440,
+            "comment_count": 57,
+            "listener_count": 7746,
+            "repost_count": 67,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/3/d/f/26ba-88a5-437f-b337-894f67941316"
+            },
+            "slug": "transitions-with-john-digweed-and-dany-rodriguez",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "audio_length": 7212
+        },
+        {
+            "key": "/johndigweed/compiled-mixed-041/",
+            "url": "https://www.mixcloud.com/johndigweed/compiled-mixed-041/",
+            "name": "Compiled & Mixed 041",
+            "tags": [
+                {
+                    "key": "/genres/breaks/",
+                    "url": "https://www.mixcloud.com/genres/breaks/",
+                    "name": "Breaks"
+                },
+                {
+                    "key": "/genres/techno/",
+                    "url": "https://www.mixcloud.com/genres/techno/",
+                    "name": "Techno"
+                },
+                {
+                    "key": "/genres/electronica/",
+                    "url": "https://www.mixcloud.com/genres/electronica/",
+                    "name": "Electronica"
+                }
+            ],
+            "created_time": "2026-06-05T11:00:27Z",
+            "updated_time": "2026-10-12T23:54:22Z",
+            "play_count": 1132,
+            "favorite_count": 43,
+            "comment_count": 3,
+            "listener_count": 683,
+            "repost_count": 3,
+            "pictures": {
+                "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "768wx768h": "https://thumbnailer.mixcloud.com/unsafe/768x768/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
+                "1024wx1024h": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf"
+            },
+            "slug": "compiled-mixed-041",
+            "user": {
+                "key": "/johndigweed/",
+                "url": "https://www.mixcloud.com/johndigweed/",
+                "name": "John Digweed",
+                "username": "johndigweed",
+                "pictures": {
+                    "small": "https://thumbnailer.mixcloud.com/unsafe/25x25/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "thumbnail": "https://thumbnailer.mixcloud.com/unsafe/50x50/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium_mobile": "https://thumbnailer.mixcloud.com/unsafe/80x80/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "medium": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "large": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "320wx320h": "https://thumbnailer.mixcloud.com/unsafe/320x320/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "extra_large": "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1",
+                    "640wx640h": "https://thumbnailer.mixcloud.com/unsafe/640x640/profile/2/d/9/f/2595-e2a4-4c6b-aa0e-e7420a523bd1"
+                }
+            },
+            "hosts": [],
+            "is_exclusive": true,
+            "audio_length": 3380
+        }
+    ],
+    "paging": {
+        "next": "https://api.mixcloud.com/JohnDigweed/cloudcasts/?limit=25&until=2026-06-05+11%3A00%3A27",
+        "previous": "https://api.mixcloud.com/JohnDigweed/cloudcasts/?limit=25&since=2026-10-09+15%3A00%3A50"
+    },
+    "name": "John Digweed's Cloudcasts"
+}

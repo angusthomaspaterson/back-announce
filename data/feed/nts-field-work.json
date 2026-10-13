@@ -1,0 +1,129 @@
+{
+ "home": "https://www.nts.live/shows/fieldwork",
+ "id": "nts-field-work",
+ "items": [
+  {
+   "date": "2026-10-10T19:00:00Z",
+   "desc": "From the host:'Continuing the theme from the past couple of months, 2 hours of (mainly) acoustic instruments processed so that they sound like synths'",
+   "id": "fieldwork-10th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/df9a8a9e-45a2-40ab-a1fd-ff6f56d1a164_1791504000.jpeg",
+   "location": "London",
+   "tags": "Ambient, Drone",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-10th-october-2026"
+  },
+  {
+   "date": "2026-09-12T19:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Our September show features mainly ambient and experimental tracks—some featuring guitars that sound like synths, and some synths that sound like guitars…\"",
+   "id": "fieldwork-12th-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/8818cf52-d5e3-4846-a03b-75010058292c_1789084800.jpeg",
+   "location": "London",
+   "tags": "Experimental, Ambient, Drone",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-12th-september-2026"
+  },
+  {
+   "date": "2026-08-15T19:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Two hours of noises from guitars, prompted by JR Moore's excellent book \"Electric Wizards\".\"",
+   "id": "fieldwork-15th-august-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/56508c30-a888-46ea-aa49-02c29ccfe09d_1786665600.jpeg",
+   "location": "London",
+   "tags": "Noise Rock, Post Rock",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-15th-august-2026"
+  },
+  {
+   "date": "2026-07-18T19:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Sandwiched between UK heatwaves, this show is for England's scorched fields.\"",
+   "id": "fieldwork-18th-july-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/019be910-2075-4e63-9b86-1b675c8c00d8_1784246400.jpeg",
+   "location": "London",
+   "tags": "Deep House, Techno, Ambient",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-18th-july-2026"
+  },
+  {
+   "date": "2026-06-20T19:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Fieldwork's summer solstice show, inspired by walks around the wind and wave eroded cliffs of Filey, East Yorkshire\"",
+   "id": "fieldwork-20th-june-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/c1be6027-f811-480b-b965-d07a222c4420_1781827200.jpeg",
+   "location": "London",
+   "tags": "Electronica, Experimental, Ambient, Drone",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-20th-june-2026"
+  },
+  {
+   "date": "2026-05-23T19:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Field Work this month is dense and dark, with artwork inspired by all the back & forth about data centre emissions & the north sea, and the role of coal & other fossils in art & media.\"",
+   "id": "fieldwork-23rd-may-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/2ee7b279-ae9b-406b-b533-7035c44921f2_1779408000.jpeg",
+   "location": "London",
+   "tags": "Electronica, Modern Classical, Dark Ambient, Drone",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-23rd-may-2026"
+  },
+  {
+   "date": "2026-04-25T19:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Two hours of skewed chamber music, for April the cruellest month.\"",
+   "id": "fieldwork-25th-april-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/a57d8e96-e689-44af-bcb3-241fc41e5fb9_1776988800.jpeg",
+   "location": "London",
+   "tags": "Experimental, Ambient, Modern Classical, Drone",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-25th-april-2026"
+  },
+  {
+   "date": "2026-03-28T20:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Field Work feel a chill in the March air. Two hours of dub techno, pop ambient, click+cuts, and contemporary electronic music.\"",
+   "id": "fieldwork-28th-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/6569f42c-f230-42c0-b583-b9f5c9a8c7d6_1774569600.jpeg",
+   "location": "London",
+   "tags": "Electronica, Dub Techno, Ambient, Leftfield Pop",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-28th-march-2026"
+  },
+  {
+   "date": "2026-02-28T20:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Two hours of acoustic instrumentals, domestic folk and bleary synths, as Field Work celebrate seeing the sun again for the first time in two months.\"",
+   "id": "fieldwork-28th-february-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/a44a62e2-c82c-4638-b0cf-2078e8d29d22_1772150400.jpeg",
+   "location": "London",
+   "tags": "Electronica, Folk, Modern Classical, Psychedelic Folk",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-28th-february-2026"
+  },
+  {
+   "date": "2026-01-31T20:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"The first Field Work show of the 2026 is the second in a 'winter rest' series of programmes, drawing on experimental, drone and ambient.\"",
+   "id": "fieldwork-31st-january-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/37cedf77-7ce7-4a8b-9f5b-b195e29898fa_1769731200.jpeg",
+   "location": "London",
+   "tags": "Experimental, Ambient, Drone",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-31st-january-2026"
+  },
+  {
+   "date": "2025-12-06T20:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Field Work's annual winter solstice special. Featuring tracks from Markus Guertner, Sarah Davachi, Hector Zazou and many more sounds to keep you warm on cold nights.\"",
+   "id": "fieldwork-6th-december-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/c96349cf-e378-438e-881a-5c0ed88e09f7_1764892800.jpeg",
+   "location": "London",
+   "tags": "Folk, Experimental, Ambient, Modern Classical",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-6th-december-2025"
+  },
+  {
+   "date": "2025-11-08T20:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.",
+   "id": "fieldwork-8th-november-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/74300c1d-8b9c-447d-9751-a5e88d571a95_1762473600.jpeg",
+   "location": "London",
+   "tags": "Experimental, Industrial , Leftfield Techno",
+   "title": "Field Work",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-8th-november-2025"
+  }
+ ],
+ "kind": "nts",
+ "name": "Field Work",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

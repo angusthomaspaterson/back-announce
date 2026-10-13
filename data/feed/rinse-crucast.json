@@ -1,0 +1,209 @@
+{
+ "home": "https://www.rinse.fm/shows/crucast",
+ "id": "rinse-crucast",
+ "items": [
+  {
+   "date": "2026-10-03T20:00:00Z",
+   "desc": "",
+   "id": "crucast-03-10-2026-2100",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 3 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-03-10-2026-2100"
+  },
+  {
+   "date": "2026-09-05T20:00:00Z",
+   "desc": "",
+   "id": "crucast-05-09-2026-2100",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 5 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-05-09-2026-2100"
+  },
+  {
+   "date": "2026-08-01T20:00:00Z",
+   "desc": "",
+   "id": "crucast-01-08-2026-2100",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 1 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-01-08-2026-2100"
+  },
+  {
+   "date": "2026-07-04T20:00:00Z",
+   "desc": "",
+   "id": "crucast-04-07-2026-2100",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 4 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-04-07-2026-2100"
+  },
+  {
+   "date": "2026-06-06T20:00:00Z",
+   "desc": "",
+   "id": "crucast-06-06-2026-2100",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 6 Jun 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-06-06-2026-2100"
+  },
+  {
+   "date": "2026-05-02T20:00:00Z",
+   "desc": "",
+   "id": "crucast-02-05-2026-2100",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 2 May 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-02-05-2026-2100"
+  },
+  {
+   "date": "2026-04-04T20:00:00Z",
+   "desc": "",
+   "id": "crucast-04-04-2026-2100",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 4 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-04-04-2026-2100"
+  },
+  {
+   "date": "2026-03-15T20:00:00Z",
+   "desc": "",
+   "id": "crucast-15-03-2026-2000",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 15 Mar 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-15-03-2026-2000"
+  },
+  {
+   "date": "2026-02-08T16:00:00Z",
+   "desc": "",
+   "id": "crucast-08-02-2026-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 8 Feb 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-08-02-2026-1600"
+  },
+  {
+   "date": "2026-01-11T16:00:00Z",
+   "desc": "",
+   "id": "crucast-11-01-2026-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 11 Jan 2026",
+   "url": "https://www.rinse.fm/episodes/crucast-11-01-2026-1600"
+  },
+  {
+   "date": "2025-12-14T16:00:00Z",
+   "desc": "",
+   "id": "crucast-14-12-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 14 Dec 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-14-12-2025-1600"
+  },
+  {
+   "date": "2025-11-09T16:00:00Z",
+   "desc": "",
+   "id": "crucast-09-11-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 9 Nov 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-09-11-2025-1600"
+  },
+  {
+   "date": "2025-10-12T15:00:00Z",
+   "desc": "",
+   "id": "crucast-12-10-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 12 Oct 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-12-10-2025-1600"
+  },
+  {
+   "date": "2025-09-14T15:00:00Z",
+   "desc": "",
+   "id": "crucast-14-09-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 14 Sep 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-14-09-2025-1600"
+  },
+  {
+   "date": "2025-08-10T15:00:00Z",
+   "desc": "",
+   "id": "crucast-10-08-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 10 Aug 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-10-08-2025-1600"
+  },
+  {
+   "date": "2025-07-13T15:00:00Z",
+   "desc": "",
+   "id": "crucast-13-07-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 13 Jul 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-13-07-2025-1600"
+  },
+  {
+   "date": "2025-06-08T15:00:00Z",
+   "desc": "",
+   "id": "crucast-08-06-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 8 Jun 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-08-06-2025-1600"
+  },
+  {
+   "date": "2025-05-11T15:00:00Z",
+   "desc": "",
+   "id": "crucast-11-05-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 11 May 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-11-05-2025-1600"
+  },
+  {
+   "date": "2025-04-13T15:00:00Z",
+   "desc": "",
+   "id": "crucast-13-04-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 13 Apr 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-13-04-2025-1600"
+  },
+  {
+   "date": "2025-03-09T16:00:00Z",
+   "desc": "",
+   "id": "crucast-09-03-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 9 Mar 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-09-03-2025-1600"
+  },
+  {
+   "date": "2025-01-12T16:00:00Z",
+   "desc": "",
+   "id": "crucast-12-01-2025-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 12 Jan 2025",
+   "url": "https://www.rinse.fm/episodes/crucast-12-01-2025-1600"
+  },
+  {
+   "date": "2024-12-24T17:00:00Z",
+   "desc": "",
+   "id": "crucast-24-12-2024-1700",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 24 Dec 2024",
+   "url": "https://www.rinse.fm/episodes/crucast-24-12-2024-1700"
+  },
+  {
+   "date": "2024-12-24T16:00:00Z",
+   "desc": "",
+   "id": "crucast-24-12-2024-1600",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 24 Dec 2024",
+   "url": "https://www.rinse.fm/episodes/crucast-24-12-2024-1600"
+  },
+  {
+   "date": "2024-12-24T15:00:00Z",
+   "desc": "",
+   "id": "crucast-24-12-2024-1500",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast, 24 Dec 2024",
+   "url": "https://www.rinse.fm/episodes/crucast-24-12-2024-1500"
+  },
+  {
+   "date": null,
+   "desc": "",
+   "id": "crucast-12-01-2025-1600-2-2",
+   "image": "https://image.rinse.fm/_/CruCast-June-2023_1.jpg?w=1200&h=630",
+   "title": "CruCast",
+   "url": "https://www.rinse.fm/episodes/crucast-12-01-2025-1600-2-2"
+  }
+ ],
+ "kind": "rinse",
+ "name": "CruCast",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

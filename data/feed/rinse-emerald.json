@@ -1,0 +1,97 @@
+{
+ "home": "https://www.rinse.fm/shows/emerald",
+ "id": "rinse-emerald",
+ "items": [
+  {
+   "date": "2026-09-12T18:00:00Z",
+   "desc": "",
+   "id": "emerald-12-09-2026-1900",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 12 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/emerald-12-09-2026-1900"
+  },
+  {
+   "date": "2026-08-08T18:00:00Z",
+   "desc": "",
+   "id": "emerald-08-08-2026-1900",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 8 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/emerald-08-08-2026-1900"
+  },
+  {
+   "date": "2026-07-11T18:00:00Z",
+   "desc": "",
+   "id": "emerald-11-07-2026-1900",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 11 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/emerald-11-07-2026-1900"
+  },
+  {
+   "date": "2022-04-30T20:00:00Z",
+   "desc": "",
+   "id": "emerald-30-04-2022-2100",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 30 Apr 2022",
+   "url": "https://www.rinse.fm/episodes/emerald-30-04-2022-2100"
+  },
+  {
+   "date": "2022-04-23T20:00:00Z",
+   "desc": "",
+   "id": "emerald-23-04-2022-2100",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 23 Apr 2022",
+   "url": "https://www.rinse.fm/episodes/emerald-23-04-2022-2100"
+  },
+  {
+   "date": "2022-04-16T20:00:00Z",
+   "desc": "",
+   "id": "emerald-16-04-2022-2100",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 16 Apr 2022",
+   "url": "https://www.rinse.fm/episodes/emerald-16-04-2022-2100"
+  },
+  {
+   "date": "2022-04-09T20:00:00Z",
+   "desc": "",
+   "id": "emerald-09-04-2022-2100",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 9 Apr 2022",
+   "url": "https://www.rinse.fm/episodes/emerald-09-04-2022-2100"
+  },
+  {
+   "date": "2022-04-02T20:00:00Z",
+   "desc": "",
+   "id": "emerald-02-04-2022-2100",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 2 Apr 2022",
+   "url": "https://www.rinse.fm/episodes/emerald-02-04-2022-2100"
+  },
+  {
+   "date": "2022-03-12T21:00:00Z",
+   "desc": "",
+   "id": "emerald-12-03-2022-2100",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 12 Mar 2022",
+   "url": "https://www.rinse.fm/episodes/emerald-12-03-2022-2100"
+  },
+  {
+   "date": "2022-03-05T21:00:00Z",
+   "desc": "",
+   "id": "emerald-05-03-2022-2100",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 5 Mar 2022",
+   "url": "https://www.rinse.fm/episodes/emerald-05-03-2022-2100"
+  },
+  {
+   "date": "2021-02-20T18:10:00Z",
+   "desc": "",
+   "id": "emerald-20-02-2021-1810",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 20 Feb 2021",
+   "url": "https://www.rinse.fm/episodes/emerald-20-02-2021-1810"
+  }
+ ],
+ "kind": "rinse",
+ "name": "Precious Stones Radio w/ Emerald",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

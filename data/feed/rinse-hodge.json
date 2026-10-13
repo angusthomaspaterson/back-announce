@@ -1,0 +1,209 @@
+{
+ "home": "https://www.rinse.fm/shows/hodge",
+ "id": "rinse-hodge",
+ "items": [
+  {
+   "date": "2026-11-06T21:00:00Z",
+   "desc": "",
+   "id": "hodge-06-11-2026-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 6 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/hodge-06-11-2026-2100"
+  },
+  {
+   "date": "2026-09-01T20:00:00Z",
+   "desc": "",
+   "id": "hodge-01-09-2026-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 1 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/hodge-01-09-2026-2100"
+  },
+  {
+   "date": "2026-08-04T20:00:00Z",
+   "desc": "",
+   "id": "hodge-04-08-2026-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 4 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/hodge-04-08-2026-2100"
+  },
+  {
+   "date": "2026-07-07T20:00:00Z",
+   "desc": "",
+   "id": "hodge-07-07-2026-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 7 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/hodge-07-07-2026-2100"
+  },
+  {
+   "date": "2026-06-02T20:00:00Z",
+   "desc": "",
+   "id": "hodge-02-06-2026-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 2 Jun 2026",
+   "url": "https://www.rinse.fm/episodes/hodge-02-06-2026-2100"
+  },
+  {
+   "date": "2026-05-05T20:00:00Z",
+   "desc": "",
+   "id": "hodge-05-05-2026-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 5 May 2026",
+   "url": "https://www.rinse.fm/episodes/hodge-05-05-2026-2100"
+  },
+  {
+   "date": "2026-04-07T20:00:00Z",
+   "desc": "",
+   "id": "hodge-07-04-2026-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 7 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/hodge-07-04-2026-2100"
+  },
+  {
+   "date": "2026-03-03T21:00:00Z",
+   "desc": "",
+   "id": "hodge-03-03-2026-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 3 Mar 2026",
+   "url": "https://www.rinse.fm/episodes/hodge-03-03-2026-2100"
+  },
+  {
+   "date": "2025-12-31T17:00:00Z",
+   "desc": "",
+   "id": "hodge-31-12-2025-1700",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 31 Dec 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-31-12-2025-1700"
+  },
+  {
+   "date": "2025-12-02T21:00:00Z",
+   "desc": "",
+   "id": "hodge-02-12-2025-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 2 Dec 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-02-12-2025-2100"
+  },
+  {
+   "date": "2025-11-04T21:00:00Z",
+   "desc": "",
+   "id": "hodge-04-11-2025-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 4 Nov 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-04-11-2025-2100"
+  },
+  {
+   "date": "2025-10-07T20:00:00Z",
+   "desc": "",
+   "id": "hodge-07-10-2025-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 7 Oct 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-07-10-2025-2100"
+  },
+  {
+   "date": "2025-09-22T18:00:00Z",
+   "desc": "",
+   "id": "hodge-22-09-2025-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 22 Sep 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-22-09-2025-1900"
+  },
+  {
+   "date": "2025-07-28T18:00:00Z",
+   "desc": "",
+   "id": "hodge-28-07-2025-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 28 Jul 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-28-07-2025-1900"
+  },
+  {
+   "date": "2025-06-23T18:00:00Z",
+   "desc": "",
+   "id": "hodge-23-06-2025-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 23 Jun 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-23-06-2025-1900"
+  },
+  {
+   "date": "2025-05-29T20:00:00Z",
+   "desc": "",
+   "id": "hodge-29-05-2025-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 29 May 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-29-05-2025-2100"
+  },
+  {
+   "date": "2025-05-26T18:00:00Z",
+   "desc": "",
+   "id": "hodge-26-05-2025-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 26 May 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-26-05-2025-1900"
+  },
+  {
+   "date": "2025-03-24T19:00:00Z",
+   "desc": "",
+   "id": "hodge-24-03-2025-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 24 Mar 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-24-03-2025-1900"
+  },
+  {
+   "date": "2025-02-24T19:00:00Z",
+   "desc": "",
+   "id": "hodge-24-02-2025-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 24 Feb 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-24-02-2025-1900"
+  },
+  {
+   "date": "2025-01-27T19:00:00Z",
+   "desc": "",
+   "id": "hodge-27-01-2025-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 27 Jan 2025",
+   "url": "https://www.rinse.fm/episodes/hodge-27-01-2025-1900"
+  },
+  {
+   "date": "2024-12-31T21:00:00Z",
+   "desc": "",
+   "id": "hodge-31-12-2024-2100",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 31 Dec 2024",
+   "url": "https://www.rinse.fm/episodes/hodge-31-12-2024-2100"
+  },
+  {
+   "date": "2024-10-28T19:00:00Z",
+   "desc": "",
+   "id": "hodge-28-10-2024-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 28 Oct 2024",
+   "url": "https://www.rinse.fm/episodes/hodge-28-10-2024-1900"
+  },
+  {
+   "date": "2024-09-23T18:00:00Z",
+   "desc": "",
+   "id": "hodge-23-09-2024-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 23 Sep 2024",
+   "url": "https://www.rinse.fm/episodes/hodge-23-09-2024-1900"
+  },
+  {
+   "date": "2024-08-26T18:00:00Z",
+   "desc": "",
+   "id": "hodge-26-08-2024-1900",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge, 26 Aug 2024",
+   "url": "https://www.rinse.fm/episodes/hodge-26-08-2024-1900"
+  },
+  {
+   "date": null,
+   "desc": "",
+   "id": "hodge-28-04-2025-1900-2",
+   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
+   "title": "Hodge",
+   "url": "https://www.rinse.fm/episodes/hodge-28-04-2025-1900-2"
+  }
+ ],
+ "kind": "rinse",
+ "name": "Hodge",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

@@ -1,0 +1,209 @@
+{
+ "home": "https://www.rinse.fm/shows/fracture",
+ "id": "rinse-fracture",
+ "items": [
+  {
+   "date": "2026-09-22T21:00:00Z",
+   "desc": "",
+   "id": "fracture-22-09-2026-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 22 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-22-09-2026-2200"
+  },
+  {
+   "date": "2026-08-25T21:00:00Z",
+   "desc": "",
+   "id": "fracture-25-08-2026-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 25 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-25-08-2026-2200"
+  },
+  {
+   "date": "2026-07-28T21:00:00Z",
+   "desc": "",
+   "id": "fracture-28-07-2026-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 28 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-28-07-2026-2200"
+  },
+  {
+   "date": "2026-06-10T21:00:00Z",
+   "desc": "",
+   "id": "fracture-10-06-2026-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 10 Jun 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-10-06-2026-2200"
+  },
+  {
+   "date": "2026-05-13T21:00:00Z",
+   "desc": "",
+   "id": "fracture-13-05-2026-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 13 May 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-13-05-2026-2200"
+  },
+  {
+   "date": "2026-04-08T22:00:00Z",
+   "desc": "",
+   "id": "fracture-08-04-2026-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 8 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-08-04-2026-2300"
+  },
+  {
+   "date": "2026-03-11T23:00:00Z",
+   "desc": "",
+   "id": "fracture-11-03-2026-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 11 Mar 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-11-03-2026-2300"
+  },
+  {
+   "date": "2026-02-11T23:00:00Z",
+   "desc": "",
+   "id": "fracture-11-02-2026-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 11 Feb 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-11-02-2026-2300"
+  },
+  {
+   "date": "2026-01-14T23:00:00Z",
+   "desc": "",
+   "id": "fracture-14-01-2026-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 14 Jan 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-14-01-2026-2300"
+  },
+  {
+   "date": "2025-12-10T23:00:00Z",
+   "desc": "",
+   "id": "fracture-10-12-2025-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 10 Dec 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-10-12-2025-2300"
+  },
+  {
+   "date": "2025-11-12T21:00:00Z",
+   "desc": "",
+   "id": "fracture-12-11-2025-2100",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 12 Nov 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-12-11-2025-2100"
+  },
+  {
+   "date": "2025-10-17T08:00:00Z",
+   "desc": "",
+   "id": "fracture-17-10-2025-0900",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 17 Oct 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-17-10-2025-0900"
+  },
+  {
+   "date": "2025-10-08T22:00:00Z",
+   "desc": "",
+   "id": "fracture-08-10-2025-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 8 Oct 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-08-10-2025-2300"
+  },
+  {
+   "date": "2025-09-10T22:00:00Z",
+   "desc": "",
+   "id": "fracture-10-09-2025-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 10 Sep 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-10-09-2025-2300"
+  },
+  {
+   "date": "2025-08-13T22:00:00Z",
+   "desc": "",
+   "id": "fracture-13-08-2025-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 13 Aug 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-13-08-2025-2300"
+  },
+  {
+   "date": "2025-07-09T22:00:00Z",
+   "desc": "",
+   "id": "fracture-09-07-2025-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 9 Jul 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-09-07-2025-2300"
+  },
+  {
+   "date": "2025-06-11T22:00:00Z",
+   "desc": "",
+   "id": "fracture-11-06-2025-2300",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 11 Jun 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-11-06-2025-2300"
+  },
+  {
+   "date": "2025-05-28T21:00:00Z",
+   "desc": "",
+   "id": "fracture-28-05-2025-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 28 May 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-28-05-2025-2200"
+  },
+  {
+   "date": "2025-04-23T21:00:00Z",
+   "desc": "",
+   "id": "fracture-23-04-2025-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 23 Apr 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-23-04-2025-2200"
+  },
+  {
+   "date": "2025-03-26T22:00:00Z",
+   "desc": "",
+   "id": "fracture-26-03-2025-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 26 Mar 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-26-03-2025-2200"
+  },
+  {
+   "date": "2025-02-26T22:00:00Z",
+   "desc": "",
+   "id": "fracture-26-02-2025-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 26 Feb 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-26-02-2025-2200"
+  },
+  {
+   "date": "2025-01-22T22:00:00Z",
+   "desc": "",
+   "id": "fracture-22-01-2025-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 22 Jan 2025",
+   "url": "https://www.rinse.fm/episodes/fracture-22-01-2025-2200"
+  },
+  {
+   "date": "2024-11-27T22:00:00Z",
+   "desc": "",
+   "id": "fracture-27-11-2024-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 27 Nov 2024",
+   "url": "https://www.rinse.fm/episodes/fracture-27-11-2024-2200"
+  },
+  {
+   "date": "2024-10-23T21:00:00Z",
+   "desc": "",
+   "id": "fracture-23-10-2024-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 23 Oct 2024",
+   "url": "https://www.rinse.fm/episodes/fracture-23-10-2024-2200"
+  },
+  {
+   "date": "2023-08-22T20:00:00Z",
+   "desc": "",
+   "id": "fracture-22-08-2023-2100",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 22 Aug 2023",
+   "url": "https://www.rinse.fm/episodes/fracture-22-08-2023-2100"
+  }
+ ],
+ "kind": "rinse",
+ "name": "Fracture",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

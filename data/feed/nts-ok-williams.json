@@ -1,0 +1,129 @@
+{
+ "home": "https://www.nts.live/shows/ok-williams",
+ "id": "nts-ok-williams",
+ "items": [
+  {
+   "date": "2026-10-01T16:00:00Z",
+   "desc": "From the Host:'one hour of electronica from my CD collection'",
+   "id": "ok-williams-1st-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/efc540ca-0d31-4b38-ae0b-2086a9c197ab_1790899200.jpeg",
+   "location": "London",
+   "tags": "Electronica, Ambient Techno",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-1st-october-2026"
+  },
+  {
+   "date": "2026-09-17T16:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky.",
+   "id": "ok-williams-17th-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/3034d4f4-49a9-4825-bf45-8e54eff20d96_1789603200.jpeg",
+   "location": "London",
+   "tags": "Techno, Bass, UK Funky",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-17th-september-2026"
+  },
+  {
+   "date": "2026-08-20T16:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky.",
+   "id": "ok-williams-20th-august-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/d6916c8b-9965-45b8-a4b8-000906e403ee_1787184000.jpeg",
+   "location": "London",
+   "tags": "Breaks",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-20th-august-2026"
+  },
+  {
+   "date": "2026-08-06T17:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky.",
+   "id": "ok-williams-6th-august-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/af46f2fa-d765-460a-841a-5c92850ce829_1565222400.jpeg",
+   "location": "London",
+   "tags": "Electronica, Trip Hop, Ambient",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-6th-august-2026"
+  },
+  {
+   "date": "2026-07-23T17:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky. From the host: \"Here we have a pumping mix from DJ and producer Command Control \"1 hour of techno that's been inspiring my DJing and production lately; groovy, percussive and euphoric. The mix centres on records from the 2000s alongside a handful of unreleased and forthcoming tracks of my own.\"\"",
+   "id": "ok-williams-23rd-july-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/8da1e839-1d24-4b4e-a762-40d8875a6ee0_1784764800.png",
+   "location": "London",
+   "tags": "Techno",
+   "title": "OK Williams Presents Command Control",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-23rd-july-2026"
+  },
+  {
+   "date": "2026-06-25T17:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky.",
+   "id": "ok-williams-25th-june-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/af46f2fa-d765-460a-841a-5c92850ce829_1565222400.jpeg",
+   "location": "London",
+   "tags": "Deep House, Tech House",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-25th-june-2026"
+  },
+  {
+   "date": "2026-06-11T17:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky. From the host: \"A guest mix from Balitimore based DJ and organiser Jacq Jill. \"Dug deep or this all vinyl mix - chuggy, spacey, jacking, driving. Hope you enjoy!\"",
+   "id": "ok-williams-11th-june-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/b402ddf7-38bb-488c-8c9d-b80d0b4741c3_1781136000.jpeg",
+   "location": "Baltimore",
+   "tags": "Electro, Techno, Acid",
+   "title": "OK Williams w/ Jacq Jill",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-11th-june-2026"
+  },
+  {
+   "date": "2026-05-28T17:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky.",
+   "id": "ok-williams-28th-may-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/2bf4da6e-cce2-4c91-89a9-b0e8032829cd_1779321600.jpeg",
+   "location": "London",
+   "tags": "House, Tech House",
+   "title": "OK Williams w/ SPRKLBB",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-28th-may-2026"
+  },
+  {
+   "date": "2026-05-14T17:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky. From the host: \"Live from B.A.D. X Unfold 2025\"",
+   "id": "ok-williams-14th-may-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/7e56a2f7-9e2b-487f-9995-439dfc1274f5_1778716800.jpeg",
+   "location": "London",
+   "tags": "Techno, Club",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-14th-may-2026"
+  },
+  {
+   "date": "2026-04-30T17:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky.",
+   "id": "ok-williams-30th-april-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/9d4ccecf-f0fd-4a66-af9a-c23ba8e8bf0b_1777939200.png",
+   "location": "London",
+   "tags": "Gangsta Rap, Memphis",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-30th-april-2026"
+  },
+  {
+   "date": "2026-03-26T16:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky.",
+   "id": "ok-williams-26th-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/c4d56008-393b-4148-a3c0-ed889708a5b0_1774569600.jpeg",
+   "location": "London",
+   "tags": "Electro",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-26th-march-2026"
+  },
+  {
+   "date": "2026-02-26T16:00:00Z",
+   "desc": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky.",
+   "id": "ok-williams-26th-february-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/254b6fa6-8cbe-4eca-a7a2-abbc34f109a3_1772409600.jpeg",
+   "location": "London",
+   "tags": "Drum & Bass",
+   "title": "OK Williams",
+   "url": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-26th-february-2026"
+  }
+ ],
+ "kind": "nts",
+ "name": "OK Williams",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

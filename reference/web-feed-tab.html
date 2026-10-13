@@ -1,0 +1,284 @@
+<title>Episode Feed</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+
+/* Layout: one column of cards, a timeline. Avatar + source line, title, text preview, picture, actions. */
+:root{
+  --bg:#f0efe9; --panel:#fbfaf6; --fg:#1b1d22; --muted:#6b6f78; --line:#dedcd3;
+  --accent:#d3441c; --accent-ink:#ffffff; --soft:#efece3; --chip:#e4e1d6; --chip-on:#1b1d22; --chip-on-fg:#f5f4ef; --new:#d3441c; --shadow:0 1px 2px rgba(27,29,34,.06);
+  --display:"Bricolage Grotesque","Instrument Sans",system-ui,sans-serif;
+  --body:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#121417; --panel:#1c1f26; --fg:#ecebe4; --muted:#9a9ea8; --line:#2e323b;
+  --accent:#ff6a3d; --accent-ink:#15171c; --soft:#262a33; --chip:#272b34; --chip-on:#ecebe4; --chip-on-fg:#15171c; --new:#ff6a3d; --shadow:none; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#121417; --panel:#1c1f26; --fg:#ecebe4; --muted:#9a9ea8; --line:#2e323b;
+  --accent:#ff6a3d; --accent-ink:#15171c; --soft:#262a33; --chip:#272b34; --chip-on:#ecebe4; --chip-on-fg:#15171c; --new:#ff6a3d; --shadow:none; color-scheme:dark }
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:14px;line-height:1.45;padding-inline:16px;padding-block:0 40px;max-width:640px;margin:0 auto}
+a{color:inherit}
+h1,h2,h3{margin:0;font-family:var(--display);text-wrap:balance}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+img{max-width:100%}
+
+
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:14px 10px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;align-items:flex-end;gap:6px 14px}header.top h1{font-size:26px;font-weight:700;letter-spacing:-.01em;line-height:1}header.top .meta{color:var(--muted);font-size:12px;margin-left:auto;text-align:right;line-height:1.3}.filters{display:flex;flex-wrap:wrap;gap:6px;padding-block:12px 4px;align-items:center}.chip{border-radius:999px;padding:4px 10px;background:var(--chip);font-size:12px;font-weight:500;display:inline-flex;align-items:center;gap:6px}.chip .sw{width:8px;height:8px;border-radius:50%;background:var(--sc,var(--muted))}.chip[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-fg)}.chip[aria-pressed="false"]{opacity:.55}.chip.act{margin-left:auto;background:var(--soft);opacity:1}.chip .cnt{font-family:var(--mono);font-size:11px;opacity:.75}.day{display:flex;align-items:baseline;gap:10px;margin:20px 0 8px;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:600}.day .rule{flex:1;height:1px;background:var(--line)}.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:12px 14px 10px;margin-bottom:10px;min-width:0}.card .who{display:flex;align-items:center;gap:10px}.card .av{width:36px;height:36px;border-radius:50%;background:var(--sc,var(--muted));color:#fff;font-family:var(--display);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center;flex:none;letter-spacing:.02em;overflow:hidden}.card .av img{width:100%;height:100%;object-fit:cover}.card .who .nm{font-weight:600;line-height:1.15}.card .who .sub{color:var(--muted);font-size:12px}.card .who .t{margin-left:auto;text-align:right;color:var(--muted);font-size:12px;font-family:var(--mono);white-space:nowrap;line-height:1.2}.card .who .t .new{display:block;color:var(--new);font-weight:700;font-family:var(--body);font-size:11px;letter-spacing:.06em;text-transform:uppercase}.card .ttl{font-family:var(--display);font-size:18px;font-weight:700;line-height:1.2;margin-top:10px}.card .ttl a{text-decoration:none}.card .ttl a:hover{text-decoration:underline}.card .txt{color:var(--fg);opacity:.85;font-size:13.5px;margin-top:6px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;white-space:pre-line;cursor:pointer}.card .txt.open{display:block;-webkit-line-clamp:unset}.card .links{margin-top:6px;font-size:13px;display:none;flex-direction:column;gap:2px}.card .links.open{display:flex}.card .links a{text-decoration:none;color:var(--fg)}.card .links a:hover{text-decoration:underline}.card .pic{display:block;margin-top:10px;border-radius:10px;overflow:hidden;background:var(--soft);border:1px solid var(--line)}.card .pic img{display:block;width:100%;height:auto;max-height:360px;object-fit:cover}.card .pic.sq img{max-height:none;aspect-ratio:1/1;max-width:320px}.card .acts{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-top:10px}.btn{border-radius:8px;padding:6px 10px;font-size:12.5px;font-weight:600;background:var(--soft);color:var(--fg);text-decoration:none;display:inline-flex;align-items:center;gap:5px}.btn.p{background:var(--accent);color:var(--accent-ink)}.tag{font-family:var(--mono);font-size:11px;color:var(--muted);margin-left:auto;text-align:right}.empty{color:var(--muted);padding:24px 0;font-size:13px;line-height:1.5}.more{display:block;width:100%;text-align:center;padding:12px;color:var(--muted);font-weight:600}details.sources{margin-top:26px;border-top:1px solid var(--line);padding-top:10px}details.sources summary{cursor:pointer;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:600;list-style:none;display:flex;gap:10px;align-items:baseline}details.sources summary::-webkit-details-marker{display:none}details.sources summary .sub{font-weight:400;letter-spacing:0;text-transform:none}.srow{display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:8px 0;border-bottom:1px solid var(--line);font-size:13px}.srow .n{font-weight:600}.srow .n a{text-decoration:none}.srow .m{color:var(--muted);font-size:12px;grid-column:1}.srow .st{font-family:var(--mono);font-size:11px;color:var(--muted);text-align:right;white-space:nowrap}.srow .st.bad{color:var(--accent)}.srow{grid-template-columns:auto 1fr auto;align-items:center}.srow .tg{grid-row:1/span 2}.srow .m{grid-column:2}.srow .st{grid-row:1/span 2;grid-column:3}.srow.off .n,.srow.off .m{opacity:.5}.tg{width:38px;height:22px;border-radius:999px;background:var(--chip);position:relative;flex:none;transition:background .15s}.tg::after{content:"";position:absolute;top:3px;left:3px;width:16px;height:16px;border-radius:50%;background:var(--panel);box-shadow:0 1px 2px rgba(0,0,0,.25);transition:transform .15s}.tg[aria-checked="true"]{background:var(--sc,var(--accent))}.tg[aria-checked="true"]::after{transform:translateX(16px)}.mng{display:flex;flex-direction:column;gap:10px;padding:12px 0 6px}.mng .sum{font-size:13px;color:var(--muted)}.mng .sum b{color:var(--fg);font-weight:600}.mng .row{display:flex;flex-wrap:wrap;gap:6px}.sgh{display:flex;align-items:baseline;gap:10px;margin-top:16px;padding-bottom:4px;border-bottom:1px solid var(--line)}.sgh h3{font-size:15px;display:flex;align-items:center;gap:8px}.sgh h3 .sw{width:9px;height:9px;border-radius:50%;background:var(--sc)}.sgh .c{font-family:var(--mono);font-size:11px;color:var(--muted)}.sgh .btn{margin-left:auto;padding:3px 8px;font-size:11.5px}.btn.q{background:none;color:var(--muted);padding-inline:6px}.btn.q:hover{color:var(--fg)}.chip.src{background:var(--soft);opacity:1}.toast{position:fixed;left:50%;bottom:calc(16px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--chip-on);color:var(--chip-on-fg);border-radius:12px;padding:10px 12px 10px 14px;font-size:13px;display:flex;gap:12px;align-items:center;z-index:20;box-shadow:0 4px 18px rgba(0,0,0,.2);max-width:calc(100vw - 32px)}.toast button{font-weight:700;color:var(--accent);padding:2px 4px}.toast[hidden]{display:none}.saveerr{color:var(--accent);font-size:12px}
+.btn.heart span{font-size:15px;line-height:1}.btn.heart[aria-pressed="true"]{color:var(--accent);background:color-mix(in srgb,var(--accent) 14%,var(--soft))}.chip.heartchip .hrt{font-size:13px;line-height:1}.chip.heartchip[aria-pressed="false"]{opacity:1;background:var(--soft)}.chip.heartchip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.srcbtn{display:flex;align-items:center;gap:10px;text-align:left;min-width:0;padding:0;border-radius:10px}.srcbtn:not([disabled]):hover .nm{text-decoration:underline}.srcbtn[disabled]{cursor:default;opacity:1}.who-t{display:flex;flex-direction:column;min-width:0}.who-t .nm{font-weight:600;line-height:1.15}.who-t .sub{color:var(--muted);font-size:12px}.nm .go{color:var(--muted);font-weight:400;margin-left:2px}.srclink{font-weight:600;text-align:left;padding:0}.srclink:hover{text-decoration:underline}.srchead{padding:12px 0 6px;border-bottom:1px solid var(--line);margin-bottom:4px}.srchead .back{background:var(--soft);opacity:1;margin-bottom:12px}.srchead .sh{display:flex;gap:12px;align-items:center}.srchead .av{width:52px;height:52px;border-radius:50%;background:var(--sc);color:#fff;font-family:var(--display);font-weight:700;font-size:18px;display:flex;align-items:center;justify-content:center;flex:none}.filters[hidden]{display:none}.srchead .sub{color:var(--muted);font-size:12.5px;margin-top:2px}.srchead .acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
+footer{color:var(--muted);font-size:12px;padding-top:20px;line-height:1.5}@media (prefers-reduced-motion: no-preference){.card{transition:transform .12s} }
+</style>
+
+
+<header class="top">
+  <h1 id="feedTitle">Episode Feed</h1>
+  <div class="meta" id="meta">Loading…</div>
+</header>
+<div class="filters" id="filters" role="group" aria-label="Groups"></div>
+<div class="srchead" id="srcHead" hidden></div>
+<div id="stream"><div class="empty">Loading the feed…</div></div>
+<details class="sources" id="sourcesBox"><summary>Sources <span class="sub" id="srcSub"></span></summary><div class="mng" id="mng"></div><div id="sources"></div></details>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden><span id="toastTxt"></span><button id="toastUndo">Undo</button></div>
+<footer>Gathered once a day by a scheduled task: SoundCloud, Mixcloud and podcast feeds, Substack and magazine feeds, the NTS API, Rinse show pages, and the Bandcamp Daily and Radio pages. Pictures are copied in at thumbnail size. New cards stay marked until you press Mark all seen. Tap the heart on a card to save it; Saved keeps a copy, so it stays after the episode drops out of the feed. Paused sources keep being gathered in the background, so switching one back on brings its recent episodes straight in. Your paused list is saved with the feed, so it matches on phone and desktop. To add a source, tell Claude the show or account.</footer>
+
+
+<script>
+
+(function(){
+const PERTH='Australia/Perth';
+const GROUP_COLOURS={'NTS':'#1b1d22','Rinse FM':'#8a4bd6','SoundCloud':'#ff5500','Podcasts':'#2b6cb0','Writing':'#2f7d5b','Radio':'#1da0c3','Mixes':'#c98a1a','Perth':'#e0508a','Bass':'#6f9a1f','Progressive':'#0d8080','Other':'#6b6f78'};
+const BATCHES={sweep:'1 Oct',oct11:'11 Oct'};
+const addedLabel=a=>a==='start'?'Original pick':BATCHES[a]?'Added '+BATCHES[a]:(a?'Added '+a:'');
+const GROUP_COLOURS_DARK={'NTS':'#5a5f6a'};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const isDark=()=>document.documentElement.dataset.theme==='dark'||(document.documentElement.dataset.theme!=='light'&&matchMedia('(prefers-color-scheme: dark)').matches);
+const gcol=g=>(isDark()&&GROUP_COLOURS_DARK[g])||GROUP_COLOURS[g]||GROUP_COLOURS.Other;
+const initials=n=>{ const w=n.replace(/[^A-Za-z0-9 ]/g,' ').trim().split(/\s+/); return (w.length>1?w[0][0]+w[1][0]:n.slice(0,2)).toUpperCase(); };
+
+let state={sources:{},config:null,status:null,groups:{},lastSeen:null,limit:60,paused:new Set(),srcView:'all',likes:{},view:'feed',srcId:null,prevView:'feed'};
+let DB=null, saving=Promise.resolve(), pendingWrites=0, likeBusy=0, saveErr='';
+try{ state.groups=JSON.parse(localStorage.getItem('feed.groups')||'{}')||{}; state.lastSeen=localStorage.getItem('feed.lastSeen'); state.paused=new Set(JSON.parse(localStorage.getItem('feed.paused')||'[]')); state.likes=JSON.parse(localStorage.getItem('feed.likes')||'{}')||{}; }catch(e){}
+function save(){ try{ localStorage.setItem('feed.groups',JSON.stringify(state.groups)); if(state.lastSeen) localStorage.setItem('feed.lastSeen',state.lastSeen); }catch(e){} }
+
+const dfmt=new Intl.DateTimeFormat('en-AU',{timeZone:PERTH,weekday:'short',day:'numeric',month:'short'});
+const dkey=new Intl.DateTimeFormat('en-CA',{timeZone:PERTH,year:'numeric',month:'2-digit',day:'2-digit'});
+const sfmt=new Intl.DateTimeFormat('en-AU',{timeZone:PERTH,day:'numeric',month:'short'});
+const tfmt=new Intl.DateTimeFormat('en-AU',{timeZone:PERTH,hour:'2-digit',minute:'2-digit',hourCycle:'h23'});
+function rel(iso){ if(!iso) return ''; const diff=Date.now()-new Date(iso); const h=Math.round(diff/36e5); if(h<1) return 'just now'; if(h<24) return h+'h ago'; const dd=Math.round(h/24); return dd+'d ago'; }
+function dur(s){ if(!s) return ''; if(/^\d+$/.test(s)){ return Math.round(+s/60)+' min'; } const p=s.split(':').map(Number); if(p.length===3) return (p[0]*60+p[1])+' min'; if(p.length===2) return p[0]+' min'; return s; }
+function cfgFor(id){ const items=(state.config&&state.config.items)||[]; return items.find(s=>s.id===id)||null; }
+
+function allItems(){
+  const out=[];
+  for(const [id,doc] of Object.entries(state.sources)){
+    if(state.paused.has(id)) continue;
+    const cfg=cfgFor(id); const group=(cfg&&cfg.group)||'Other'; const name=(cfg&&cfg.name)||doc.name||id;
+    for(const it of (doc.items||[])) out.push({...it,sid:id,sname:name,group,home:doc.home||(cfg&&cfg.home)||''});
+  }
+  out.sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+  return out;
+}
+
+function card(it,mode){
+  const inSaved=mode==='saved', inSrc=mode==='source';
+  const lk=likeKey(it), liked=!!state.likes[lk];
+  const isNew=!state.lastSeen||it.date>state.lastSeen;
+  const tags=[it.tags,it.location,dur(it.duration)].filter(Boolean).join(' · ');
+  const square=/sndcdn|ntslive|podbean/.test(it.img||'');
+  const links=(it.links||[]).map(l=>`<a href="${esc(l.u)}" target="_blank" rel="noopener">↗ ${esc(l.t)}</a>`).join('');
+  return `<article class="card" style="--sc:${gcol(it.group)}">
+    <div class="who"><button class="srcbtn" data-src="${esc(it.sid)}" ${inSrc?'disabled':''} aria-label="See recent posts from ${esc(it.sname)}"><span class="av" aria-hidden="true">${esc(initials(it.sname))}</span>
+      <span class="who-t"><span class="nm">${esc(it.sname)}${inSrc?'':' <span class="go" aria-hidden="true">›</span>'}</span><span class="sub">${esc(it.group)}${inSaved&&it.date?' · '+esc(sfmt.format(new Date(it.date))):''}</span></span></button>
+      <div class="t">${isNew&&!inSaved?'<span class="new">New</span>':''}${it.date?esc(tfmt.format(new Date(it.date)))+'<br>'+esc(rel(it.date)):''}</div></div>
+    <div class="ttl"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+    ${it.desc?`<div class="txt" title="Tap to expand">${esc(it.desc)}</div>`:''}
+    ${links?`<div class="links">${links}</div>`:''}
+    ${it.img?`<a class="pic${square?' sq':''}" href="${esc(it.url)}" target="_blank" rel="noopener"><img src="${esc(it.img)}" alt="" loading="lazy"></a>`:''}
+    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">Open ↗</a><button class="btn heart" data-like="${esc(lk)}" aria-pressed="${liked}" aria-label="${liked?'Remove from Saved':'Save'}" title="${liked?'Remove from Saved':'Save for later'}"><span aria-hidden="true">${liked?'♥':'♡'}</span>${liked?'Saved':'Save'}</button>${it.audio?`<a class="btn" href="${esc(it.audio)}" target="_blank" rel="noopener">Audio file</a>`:''}${inSaved||inSrc?'':`<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this source until you switch it back on">Pause source</button>`}${tags?`<span class="tag">${esc(tags)}</span>`:''}</div>
+  </article>`;
+}
+
+function render(){
+  const items=allItems();
+  const saved=Object.values(state.likes).sort((x,y)=>(y.likedAt||'').localeCompare(x.likedAt||''));
+  const inSrc=state.view==='source'&&!!state.srcId, inSaved=!inSrc&&state.view==='saved', mode=inSrc?'source':inSaved?'saved':'feed';
+  const pool=inSrc?srcItems(state.srcId):inSaved?saved:items;
+  const groups=[...new Set(items.map(i=>i.group).concat(saved.map(i=>i.group)))].sort();
+  for(const g of groups) if(!(g in state.groups)) state.groups[g]=true;
+  const counts={}; for(const i of pool) counts[i.group]=(counts[i.group]||0)+1;
+  const newCount=items.filter(i=>!state.lastSeen||i.date>state.lastSeen).length;
+  const fn=document.getElementById('feedNew'); if(fn){ fn.textContent=newCount>99?'99+':String(newCount); fn.hidden=!newCount; }
+  if(inSrc){ renderSrcHead(pool); }
+  else{ $('srcHead').hidden=true; $('srcHead').innerHTML=''; $('filters').hidden=false;
+  $('filters').innerHTML=`<button class="chip heartchip" id="savedView" aria-pressed="${inSaved}"><span class="hrt" aria-hidden="true">${inSaved?'♥':'♡'}</span>Saved <span class="cnt">${saved.length}</span></button>`
+    +groups.filter(g=>counts[g]).map(g=>`<button class="chip" data-g="${esc(g)}" aria-pressed="${state.groups[g]}" style="--sc:${gcol(g)}"><span class="sw"></span>${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join('')
+    +(inSaved?'':`<button class="chip act" id="markSeen">Mark all seen${newCount?' ('+newCount+')':''}</button>`)+`<button class="chip src${inSaved?' act':''}" id="openSrc">Sources${state.paused.size?' · '+state.paused.size+' paused':''}</button>`;
+  $('filters').querySelectorAll('.chip[data-g]').forEach(b=>b.addEventListener('click',()=>{ state.groups[b.dataset.g]=!state.groups[b.dataset.g]; save(); render(); }));
+  $('savedView').addEventListener('click',()=>{ state.view=inSaved?'feed':'saved'; state.limit=60; render(); window.scrollTo(0,0); });
+  if(!inSaved) $('markSeen').addEventListener('click',()=>{ state.lastSeen=new Date().toISOString(); save(); render(); });
+  $('openSrc').addEventListener('click',()=>{ $('sourcesBox').open=true; $('sourcesBox').scrollIntoView({behavior:'smooth',block:'start'}); });
+  $('feedTitle').textContent=inSaved?'Saved':'Episode Feed';
+  }
+
+  const vis=inSrc?pool:pool.filter(i=>state.groups[i.group]!==false);
+  if(inSaved&&!saved.length){ $('stream').innerHTML=`<div class="empty">Nothing saved yet. Tap the heart on any card to keep it here. Saved cards stay even after the show drops out of the feed.</div>`; }
+  else if(inSrc&&!pool.length){ $('stream').innerHTML=`<div class="empty">Nothing gathered from this source yet. It refreshes every morning.</div>`; }
+  else if(!pool.length){ $('stream').innerHTML=`<div class="empty">Nothing gathered yet. The first run fills this in; after that it refreshes every morning.</div>`; }
+  else if(!vis.length){ $('stream').innerHTML=`<div class="empty">Every group is switched off. Tap a chip above to bring one back.</div>`; }
+  else{
+    let html='', lastDay='';
+    for(const it of vis.slice(0,state.limit)){
+      const when=inSaved?it.likedAt:it.date;
+      const day=when?dkey.format(new Date(when)):'undated';
+      if(day!==lastDay){ lastDay=day; html+=`<div class="day"><span>${when?(inSaved?'Saved ':'')+esc(dfmt.format(new Date(when))):'Undated'}</span><span class="rule"></span></div>`; }
+      html+=card(it,mode);
+    }
+    if(vis.length>state.limit) html+=`<button class="more" id="more">Show ${Math.min(60,vis.length-state.limit)} more of ${vis.length}</button>`;
+    $('stream').innerHTML=html;
+    $('stream').querySelectorAll('.card').forEach(c=>{ const t=c.querySelector('.txt'), l=c.querySelector('.links'); if(t) t.addEventListener('click',()=>{ t.classList.toggle('open'); if(l) l.classList.toggle('open',t.classList.contains('open')); }); });
+    $('stream').querySelectorAll('[data-pause]').forEach(b=>b.addEventListener('click',()=>{ const id=b.dataset.pause; const c=cfgFor(id); setPaused([id],true); toast(`Paused ${(c&&c.name)||id}`,()=>setPaused([id],false)); }));
+    $('stream').querySelectorAll('.srcbtn[data-src]:not([disabled])').forEach(b=>b.addEventListener('click',()=>openSource(b.dataset.src)));
+    $('stream').querySelectorAll('[data-like]').forEach(b=>b.addEventListener('click',()=>toggleLike(b.dataset.like, vis.find(i=>likeKey(i)===b.dataset.like))));
+    const m=$('more'); if(m) m.addEventListener('click',()=>{ state.limit+=60; render(); });
+  }
+  const st=state.status; const last=st&&st.lastRun?new Date(st.lastRun):null;
+  const bad=st?Object.values(st.sources||{}).filter(s=>s.ok===false).length:0;
+  $('meta').innerHTML=(last?`Updated ${esc(dfmt.format(last))} ${esc(tfmt.format(last))}`:'No run yet')+`<br>${items.length} items · ${Object.keys(state.sources).length-[...state.paused].filter(id=>state.sources[id]).length} of ${Object.keys(state.sources).length} sources${bad?` · <span style="color:var(--accent)">${bad} failing</span>`:''}`;
+  renderSources();
+
+}
+
+
+function renderSources(){
+  const st=state.status;
+  const cfgItems=(state.config&&state.config.items)||Object.keys(state.sources).map(id=>({id,name:state.sources[id].name,home:state.sources[id].home}));
+  const P=state.paused; const total=cfgItems.length; const nP=cfgItems.filter(s=>P.has(s.id)).length;
+  $('srcSub').textContent=`${total-nP} following${nP?' · '+nP+' paused':''}`;
+  const start=cfgItems.filter(s=>s.added==='start'), extra=cfgItems.filter(s=>s.added&&s.added!=='start');
+  const extraOn=extra.filter(s=>!P.has(s.id)).length;
+  const batches=Object.keys(BATCHES).map(k=>({k,label:BATCHES[k],list:cfgItems.filter(s=>s.added===k)})).filter(b=>b.list.length);
+  const views=[['all','All '+total],['on','Following '+(total-nP)],['off','Paused '+nP]];
+  $('mng').innerHTML=`<div class="sum"><b>${total-nP}</b> of ${total} sources in the feed. Switch any off to pause it; switch it back on whenever you like.${saveErr?` <span class="saveerr">${esc(saveErr)}</span>`:''}</div>
+    <div class="row">${views.map(([k,l])=>`<button class="chip" data-view="${k}" aria-pressed="${state.srcView===k}">${esc(l)}</button>`).join('')}</div>
+    <div class="row">${start.length&&extraOn?`<button class="btn" id="slim">Keep only my original ${start.length}</button>`:''}${batches.map(b=>{ const on=b.list.filter(s=>!P.has(s.id)).length; return (on?`<button class="btn" data-batch="${b.k}" data-to="off">Pause the ${b.list.length} added ${esc(b.label)}</button>`:'')+(on<b.list.length?`<button class="btn" data-batch="${b.k}" data-to="on">Bring back the ${b.list.length} added ${esc(b.label)}</button>`:''); }).join('')}${nP?`<button class="btn q" id="resumeAll">Resume everything</button>`:''}</div>`;
+  $('mng').querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{ state.srcView=b.dataset.view; renderSources(); }));
+  const on=(id,fn)=>{ const e=$(id); if(e) e.addEventListener('click',fn); };
+  on('slim',()=>{ const ids=extra.filter(s=>!P.has(s.id)).map(s=>s.id); setPaused(ids,true); toast(`Paused ${ids.length} sources`,()=>setPaused(ids,false)); });
+  $('mng').querySelectorAll('[data-batch]').forEach(b=>b.addEventListener('click',()=>{ const off=b.dataset.to==='off'; const ids=cfgItems.filter(s=>s.added===b.dataset.batch&&P.has(s.id)!==off).map(s=>s.id); setPaused(ids,off); toast(`${off?'Paused':'Resumed'} ${ids.length} sources`,()=>setPaused(ids,!off)); }));
+  on('resumeAll',()=>{ const ids=[...P]; setPaused(ids,false); toast(`Resumed ${ids.length} sources`,()=>setPaused(ids,true)); });
+  const groups={}; for(const s of cfgItems){ (groups[s.group||'Other']=groups[s.group||'Other']||[]).push(s); }
+  const order=Object.keys(groups).sort();
+  let html='';
+  for(const g of order){
+    const list=groups[g].filter(s=>state.srcView==='all'||(state.srcView==='on'?!P.has(s.id):P.has(s.id)));
+    if(!list.length) continue;
+    const gOn=groups[g].filter(s=>!P.has(s.id)).length;
+    html+=`<div class="sgh" style="--sc:${gcol(g)}"><h3><span class="sw"></span>${esc(g)}</h3><span class="c">${gOn}/${groups[g].length} on</span><button class="btn" data-grp="${esc(g)}" data-to="${gOn?'off':'on'}">${gOn?'Pause group':'Resume group'}</button></div>`;
+    html+=list.map(s=>{ const ss=(st&&st.sources&&st.sources[s.id])||{}; const doc=state.sources[s.id]; const newest=doc&&doc.items&&doc.items[0]&&doc.items[0].date; const off=P.has(s.id);
+      const stTxt=ss.ok===false?'failed':ss.ok===true||doc?(newest?sfmt.format(new Date(newest)):'no items'):'pending';
+      return `<div class="srow${off?' off':''}" style="--sc:${gcol(g)}"><button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button><div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button></div><div class="st${ss.ok===false?' bad':''}" title="${esc(ss.error||'')}">${esc(stTxt)}</div><div class="m">${esc(addedLabel(s.added))}${s.kind?' · '+esc(s.kind==='rss'?'feed':s.kind==='manual'?'read by Claude':s.kind.toUpperCase()):''}</div></div>`; }).join('');
+  }
+  $('sources').innerHTML=html||`<div class="empty">Nothing here.</div>`;
+  $('sources').querySelectorAll('.srclink').forEach(b=>b.addEventListener('click',()=>openSource(b.dataset.src)));
+  $('sources').querySelectorAll('.tg').forEach(b=>b.addEventListener('click',()=>setPaused([b.dataset.sid],b.getAttribute('aria-checked')==='true')));
+  $('sources').querySelectorAll('[data-grp]').forEach(b=>b.addEventListener('click',()=>{ const ids=groups[b.dataset.grp].map(s=>s.id); const off=b.dataset.to==='off'; const changed=ids.filter(id=>P.has(id)!==off); setPaused(changed,off); toast(`${off?'Paused':'Resumed'} ${b.dataset.grp} (${changed.length})`,()=>setPaused(changed,!off)); }));
+}
+
+function likeKey(it){ const str=(it.sid||'')+'|'+(it.itemId||it.id||it.url||''); let h1=0x811c9dc5,h2=0x01000193^str.length; for(let i=0;i<str.length;i++){ const c=str.charCodeAt(i); h1=Math.imul(h1^c,16777619)>>>0; h2=Math.imul(h2^c,2246822519)>>>0; } return 'h'+h1.toString(16).padStart(8,'0')+h2.toString(16).padStart(8,'0'); }
+function snapshotOf(it){ const d={sid:it.sid,itemId:it.itemId||it.id||'',sname:it.sname,group:it.group,title:it.title||'',url:it.url||'',date:it.date||null,desc:(it.desc||'').slice(0,1200),likedAt:new Date().toISOString()};
+  for(const k of ['img','audio','tags','location','duration','home']) if(it[k]) d[k]=String(it[k]);
+  if(Array.isArray(it.links)&&it.links.length) d.links=it.links.slice(0,40).map(l=>({t:String(l.t||''),u:String(l.u||'')}));
+  return d; }
+function toggleLike(key,it){
+  if(state.likes[key]){ const prev=state.likes[key]; delete state.likes[key]; render(); writeLike(key,null); toast('Removed from Saved',()=>{ state.likes[key]=prev; render(); writeLike(key,prev); }); }
+  else if(it){ const d=snapshotOf(it); state.likes[key]=d; render(); writeLike(key,d); toast('Saved',()=>{ delete state.likes[key]; render(); writeLike(key,null); }); }
+}
+function writeLike(key,data){
+  try{ localStorage.setItem('feed.likes',JSON.stringify(state.likes)); }catch(e){}
+  if(!DB) return;
+  likeBusy++;
+  saving=saving.then(()=>data?DB.collection('likes').doc(key).set(data):DB.collection('likes').doc(key).delete())
+    .then(()=>{ saveErr=''; },e=>{ saveErr='Could not save to the feed store ('+(e&&e.code||'error')+'); kept on this device only.'; toast(saveErr); })
+    .finally(()=>{ likeBusy--; });
+}
+
+function srcItems(id){
+  const doc=state.sources[id]; const cfg=cfgFor(id); const group=(cfg&&cfg.group)||'Other'; const name=(cfg&&cfg.name)||(doc&&doc.name)||id;
+  const out=((doc&&doc.items)||[]).map(it=>({...it,sid:id,sname:name,group,home:(doc&&doc.home)||(cfg&&cfg.home)||''}));
+  out.sort((a,b)=>(b.date||'').localeCompare(a.date||'')); return out;
+}
+function openSource(id){
+  if(state.view!=='source'){ state.prevView=state.view; state.prevScroll=window.scrollY; }
+  state.view='source'; state.srcId=id; state.limit=60;
+  try{ history.pushState({ba:'src',id},'',location.hash||'#feed'); }catch(e){}
+  render(); $('feed').scrollIntoView({block:'start'}); window.scrollTo(0,0);
+}
+function closeSource(fromPop){
+  if(state.view!=='source') return;
+  state.view=state.prevView||'feed'; state.srcId=null; state.limit=60; render();
+  const y=state.prevScroll||0; requestAnimationFrame(()=>window.scrollTo(0,y));
+  if(!fromPop){ try{ if(history.state&&history.state.ba==='src') history.back(); }catch(e){} }
+}
+window.addEventListener('popstate',()=>{ if(state.view==='source') closeSource(true); });
+function renderSrcHead(items){
+  const id=state.srcId, cfg=cfgFor(id)||{}, doc=state.sources[id]||{};
+  const name=cfg.name||doc.name||id, group=cfg.group||'Other', home=doc.home||cfg.home||'';
+  const off=state.paused.has(id); const ss=(state.status&&state.status.sources&&state.status.sources[id])||{};
+  const kind=cfg.kind?(cfg.kind==='rss'?'Feed':cfg.kind==='manual'?'Read by Claude':cfg.kind==='nts'?'NTS':cfg.kind==='rinse'?'Rinse FM':cfg.kind==='mixcloud'?'Mixcloud':cfg.kind):'';
+  const host=home?home.replace(/^https?:\/\/(www\.)?/,'').replace(/\/$/,''):'';
+  $('filters').hidden=true;
+  $('feedTitle').textContent=name;
+  const h=$('srcHead'); h.hidden=false; h.style.setProperty('--sc',gcol(group));
+  h.innerHTML=`<button class="chip back" id="srcBack">‹ Back to ${state.prevView==='saved'?'Saved':'the feed'}</button>
+    <div class="sh"><div class="av" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(group)}${kind?' · '+esc(kind):''}${cfg.added?' · '+esc(addedLabel(cfg.added)):''}</div>
+      <div class="sub">${items.length} recent ${items.length===1?'post':'posts'}${items[0]&&items[0].date?', latest '+esc(sfmt.format(new Date(items[0].date))):''}${ss.ok===false?' · <span style="color:var(--accent)">last fetch failed</span>':''}${off?' · paused':''}</div></div></div>
+    <div class="acts">${home?`<a class="btn" href="${esc(home)}" target="_blank" rel="noopener">Visit ${esc(host.length>28?'site':host)} ↗</a>`:''}<button class="btn${off?' p':''}" id="srcPause">${off?'Resume source':'Pause source'}</button></div>`;
+  $('srcBack').addEventListener('click',()=>closeSource(false));
+  $('srcPause').addEventListener('click',()=>{ setPaused([id],!off); toast(`${off?'Resumed':'Paused'} ${name}`,()=>setPaused([id],off)); });
+}
+
+function setPaused(ids,off){
+  if(!ids.length) return;
+  for(const id of ids){ if(off) state.paused.add(id); else state.paused.delete(id); }
+  try{ localStorage.setItem('feed.paused',JSON.stringify([...state.paused])); }catch(e){}
+  render(); persist();
+}
+let persistTimer=null, inflight=0;
+function persist(){
+  if(!DB) return;
+  clearTimeout(persistTimer);
+  pendingWrites=1;
+  persistTimer=setTimeout(()=>{
+    persistTimer=null; inflight++;
+    const list=[...state.paused].sort();
+    saving=saving.then(()=>DB.doc('config/prefs').set({paused:list,updatedAt:new Date().toISOString()}))
+      .then(()=>{ saveErr=''; },e=>{ saveErr='Could not save to the feed store ('+(e&&e.code||'error')+'); kept on this device only.'; })
+      .finally(()=>{ inflight--; if(!inflight&&!persistTimer) pendingWrites=0; renderSources(); });
+  },500);
+}
+let toastTimer=null, toastUndo=null;
+function toast(msg,undo){
+  $('toastTxt').textContent=msg; toastUndo=undo; $('toastUndo').hidden=!undo; $('toast').hidden=false;
+  clearTimeout(toastTimer); toastTimer=setTimeout(()=>{ $('toast').hidden=true; toastUndo=null; },6000);
+}
+
+render();
+(async()=>{
+  const db=await (window.claude&&window.claude.use?window.claude.use('db'):Promise.resolve(null));
+  if(!db){ $('stream').innerHTML=`<div class="empty">The feed store isn't available in this view. Open the page signed in to claude.ai.</div>`; $('meta').textContent='Store unavailable'; return; }
+  db.collection('sources').onSnapshot(snap=>{ const s={}; for(const d of snap.docs){ if(d.exists) s[d.id]=d.data(); } state.sources=s; render(); }, e=>{ $('meta').textContent='Store error: '+e.code; });
+  db.doc('config/sources').onSnapshot(d=>{ state.config=d.exists?d.data():null; render(); }, ()=>{});
+  DB=db;
+  $('toastUndo').addEventListener('click',()=>{ const u=toastUndo; $('toast').hidden=true; toastUndo=null; if(u) u(); });
+  db.collection('likes').onSnapshot(snap=>{ if(likeBusy) return; const l={}; for(const d of snap.docs){ if(d.exists) l[d.id]=d.data(); } state.likes=l; try{ localStorage.setItem('feed.likes',JSON.stringify(l)); }catch(e){} render(); }, ()=>{});
+  db.doc('config/prefs').onSnapshot(d=>{ if(pendingWrites) return; const p=d.exists&&Array.isArray(d.data().paused)?d.data().paused:null; if(p){ state.paused=new Set(p); try{ localStorage.setItem('feed.paused',JSON.stringify(p)); }catch(e){} render(); } }, ()=>{});
+  db.doc('meta/status').onSnapshot(d=>{ state.status=d.exists?d.data():null; render(); }, ()=>{});
+})();
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',render);
+})();
+
+</script>

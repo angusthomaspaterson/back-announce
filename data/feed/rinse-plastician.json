@@ -1,0 +1,121 @@
+{
+ "home": "https://www.rinse.fm/shows/plastician",
+ "id": "rinse-plastician",
+ "items": [
+  {
+   "date": "2026-09-27T17:00:00Z",
+   "desc": "",
+   "id": "plastician-27-09-2026-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 27 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/plastician-27-09-2026-1800"
+  },
+  {
+   "date": "2026-08-23T17:00:00Z",
+   "desc": "",
+   "id": "plastician-23-08-2026-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 23 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/plastician-23-08-2026-1800"
+  },
+  {
+   "date": "2026-06-28T17:00:00Z",
+   "desc": "",
+   "id": "plastician-28-06-2026-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 28 Jun 2026",
+   "url": "https://www.rinse.fm/episodes/plastician-28-06-2026-1800"
+  },
+  {
+   "date": "2026-05-24T17:00:00Z",
+   "desc": "",
+   "id": "plastician-24-05-2026-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 24 May 2026",
+   "url": "https://www.rinse.fm/episodes/plastician-24-05-2026-1800"
+  },
+  {
+   "date": "2026-04-26T17:00:00Z",
+   "desc": "",
+   "id": "plastician-26-04-2026-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 26 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/plastician-26-04-2026-1800"
+  },
+  {
+   "date": "2026-03-22T18:00:00Z",
+   "desc": "",
+   "id": "plastician-22-03-2026-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 22 Mar 2026",
+   "url": "https://www.rinse.fm/episodes/plastician-22-03-2026-1800"
+  },
+  {
+   "date": "2026-02-22T18:00:00Z",
+   "desc": "",
+   "id": "plastician-22-02-2026-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 22 Feb 2026",
+   "url": "https://www.rinse.fm/episodes/plastician-22-02-2026-1800"
+  },
+  {
+   "date": "2025-11-23T18:00:00Z",
+   "desc": "",
+   "id": "plastician-23-11-2025-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 23 Nov 2025",
+   "url": "https://www.rinse.fm/episodes/plastician-23-11-2025-1800"
+  },
+  {
+   "date": "2025-10-26T18:00:00Z",
+   "desc": "",
+   "id": "plastician-26-10-2025-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 26 Oct 2025",
+   "url": "https://www.rinse.fm/episodes/plastician-26-10-2025-1800"
+  },
+  {
+   "date": "2025-08-24T17:00:00Z",
+   "desc": "",
+   "id": "plastician-24-08-2025-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 24 Aug 2025",
+   "url": "https://www.rinse.fm/episodes/plastician-24-08-2025-1800"
+  },
+  {
+   "date": "2025-07-27T17:00:00Z",
+   "desc": "",
+   "id": "plastician-27-07-2025-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 27 Jul 2025",
+   "url": "https://www.rinse.fm/episodes/plastician-27-07-2025-1800"
+  },
+  {
+   "date": "2025-06-22T17:00:00Z",
+   "desc": "",
+   "id": "plastician-22-06-2025-1800",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 22 Jun 2025",
+   "url": "https://www.rinse.fm/episodes/plastician-22-06-2025-1800"
+  },
+  {
+   "date": "2023-01-01T01:00:00Z",
+   "desc": "",
+   "id": "plastician-01-01-2023-0100",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 1 Jan 2023",
+   "url": "https://www.rinse.fm/episodes/plastician-01-01-2023-0100"
+  },
+  {
+   "date": "2022-12-15T20:00:00Z",
+   "desc": "",
+   "id": "plastician-15-12-2022-2000",
+   "image": "https://image.rinse.fm/_/werfest-Terrorhythm-Team.jpeg?w=1200&h=630",
+   "title": "Plastician, 15 Dec 2022",
+   "url": "https://www.rinse.fm/episodes/plastician-15-12-2022-2000"
+  }
+ ],
+ "kind": "rinse",
+ "name": "Plastician",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

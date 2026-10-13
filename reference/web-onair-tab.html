@@ -1,0 +1,393 @@
+<title>On Air Perth</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: one narrow column for a sidebar. Listings page, not a dashboard: time rail on the left, show on the right. */
+:root{
+  --bg:#f5f4ef; --panel:#fbfaf6; --fg:#1b1d22; --muted:#6b6f78; --line:#d9d7ce;
+  --accent:#d3441c; --accent-ink:#ffffff; --live:#d3441c; --soft:#efece3; --chip:#e6e3d8; --chip-on:#1b1d22; --chip-on-fg:#f5f4ef;
+  --display:"Bricolage Grotesque","Instrument Sans",system-ui,sans-serif;
+  --body:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#15171c; --panel:#1c1f26; --fg:#ecebe4; --muted:#9a9ea8; --line:#2e323b;
+  --accent:#ff6a3d; --accent-ink:#15171c; --live:#ff6a3d; --soft:#22262e; --chip:#272b34; --chip-on:#ecebe4; --chip-on-fg:#15171c; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#15171c; --panel:#1c1f26; --fg:#ecebe4; --muted:#9a9ea8; --line:#2e323b;
+  --accent:#ff6a3d; --accent-ink:#15171c; --live:#ff6a3d; --soft:#22262e; --chip:#272b34; --chip-on:#ecebe4; --chip-on-fg:#15171c; color-scheme:dark }
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:14px;line-height:1.45;padding-inline:16px;padding-block:0 32px;max-width:720px;margin:0 auto}
+a{color:inherit}
+h1,h2,h3{margin:0;font-family:var(--display);text-wrap:balance}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:14px 10px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;align-items:flex-end;gap:8px 16px}
+header.top h1{font-size:26px;font-weight:700;letter-spacing:-.01em;line-height:1}
+header.top h1 .dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--live);margin-left:6px;vertical-align:middle;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@media (prefers-reduced-motion: reduce){.dot{animation:none}}
+.clocks{display:flex;gap:14px;margin-left:auto;flex-wrap:wrap}
+.clock{display:flex;flex-direction:column;line-height:1.15}
+.clock .lbl{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.clock .t{font-family:var(--mono);font-size:18px;font-weight:600;font-variant-numeric:tabular-nums}
+.clock .z{font-size:11px;color:var(--muted)}
+
+.filters{display:flex;flex-wrap:wrap;gap:6px;padding-block:12px 4px}
+.chip{border-radius:999px;padding:4px 10px;background:var(--chip);font-size:12px;font-weight:500;display:inline-flex;align-items:center;gap:6px;border:1px solid transparent}
+.chip .sw{width:8px;height:8px;border-radius:50%;background:var(--sc,var(--muted))}
+.chip[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-fg)}
+.chip[aria-pressed="false"]{opacity:.55}
+
+section{padding-block:16px 4px}
+section>h2{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-family:var(--body);font-weight:600;margin-bottom:8px;display:flex;align-items:baseline;gap:10px}
+section>h2 .sub{font-weight:400;letter-spacing:0;text-transform:none;color:var(--muted)}
+
+.now{display:grid;gap:10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:grid;grid-template-columns:1fr auto;gap:4px 12px;min-width:0}
+.card .st{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:flex;align-items:center;gap:6px}
+.card .st .sw{width:8px;height:8px;border-radius:50%;background:var(--sc)}
+.card .nm{font-family:var(--display);font-size:19px;font-weight:700;line-height:1.15;grid-column:1}
+.card .nt{color:var(--muted);font-size:13px;grid-column:1}
+.card .tm{grid-column:2;grid-row:1/4;text-align:right;display:flex;flex-direction:column;align-items:flex-end;justify-content:space-between;gap:6px}
+.card .tm .rng{font-family:var(--mono);font-size:12px;color:var(--muted);white-space:nowrap}
+.card .tm .left{font-family:var(--mono);font-size:12px;white-space:nowrap}
+.bar{grid-column:1/3;height:3px;background:var(--soft);border-radius:2px;overflow:hidden;margin-top:6px}
+.bar i{display:block;height:100%;background:var(--live);width:0}
+.acts{grid-column:1/3;display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.btn{border-radius:6px;padding:6px 10px;font-size:12.5px;font-weight:600;background:var(--accent);color:var(--accent-ink);text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+.btn.q{background:var(--soft);color:var(--fg)}
+.empty{color:var(--muted);font-size:13px;padding:10px 0}
+
+.list{display:grid;border-top:1px solid var(--line)}
+.row{display:grid;grid-template-columns:64px 1fr auto;gap:2px 12px;padding:9px 0;border-bottom:1px solid var(--line);align-items:start;min-width:0}
+.row .t{font-family:var(--mono);font-size:13px;font-weight:600;font-variant-numeric:tabular-nums;padding-top:1px}
+.row .t small{display:block;font-weight:400;color:var(--muted);font-size:11px}
+.row .n{font-weight:600;line-height:1.25}
+.row .n a{text-decoration:none}
+.row .n a:hover{text-decoration:underline}
+.row .m{color:var(--muted);font-size:12px;grid-column:2}
+.row .s{font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);white-space:nowrap;display:flex;align-items:center;gap:5px;padding-top:2px}
+.row .s .sw{width:7px;height:7px;border-radius:50%;background:var(--sc)}
+.row.past{opacity:.45}
+.row.live .t{color:var(--live)}
+
+.days{display:flex;gap:4px;margin-bottom:8px;overflow-x:auto;padding-bottom:2px}
+.days button{flex:1 0 auto;padding:6px 8px;border-radius:6px;background:var(--chip);font-size:12.5px;font-weight:600;min-width:44px}
+.days button[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-fg)}
+.days button .d{display:block;font-size:10px;font-weight:400;opacity:.7}
+
+.follow{display:grid;gap:0;border-top:1px solid var(--line)}
+.frow{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:9px 0;border-bottom:1px solid var(--line)}
+.frow .n{font-weight:600}
+.frow .n a{text-decoration:none}
+.frow .m{color:var(--muted);font-size:12px;grid-column:1}
+.frow .c{font-family:var(--mono);font-size:11px;color:var(--muted);text-align:right;white-space:nowrap}
+
+.streams{display:grid;gap:6px}
+.srow{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:6px 0;border-bottom:1px solid var(--line)}
+.srow code{font-family:var(--mono);font-size:11px;color:var(--muted);word-break:break-all}
+.srow .n{font-weight:600;font-size:13px}
+footer{color:var(--muted);font-size:12px;padding-top:18px;line-height:1.5}
+footer p{margin:0 0 6px}
+.toast{position:fixed;left:50%;bottom:calc(16px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--chip-on);color:var(--chip-on-fg);padding:8px 14px;border-radius:999px;font-size:13px;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.show{opacity:1}
+</style>
+
+<header class="top">
+  <h1>On Air<span class="dot" aria-hidden="true"></span></h1>
+  <div class="clocks">
+    <div class="clock"><span class="lbl">Perth</span><span class="t num" id="clkPerth">--:--</span><span class="z" id="datePerth"></span></div>
+    <div class="clock"><span class="lbl">London</span><span class="t num" id="clkLon">--:--</span><span class="z" id="zLon"></span></div>
+    <div class="clock"><span class="lbl">Sydney</span><span class="t num" id="clkSyd">--:--</span><span class="z" id="zSyd"></span></div>
+  </div>
+</header>
+
+<div class="filters" id="oaFilters" role="group" aria-label="Stations"></div>
+
+<section>
+  <h2>On now</h2>
+  <div class="now" id="now"></div>
+</section>
+
+<section>
+  <h2>Next 24 hours <span class="sub">Perth time</span></h2>
+  <div class="list" id="next"></div>
+</section>
+
+<section>
+  <h2>This week <span class="sub">all times AWST, clock changes applied automatically</span></h2>
+  <div class="days" id="days" role="tablist"></div>
+  <div class="list" id="week"></div>
+</section>
+
+<section>
+  <h2>Follow on demand <span class="sub">no fixed slot, or monthly</span></h2>
+  <div class="follow" id="follow"></div>
+</section>
+
+<section>
+  <h2>Stream addresses <span class="sub">paste into Transistor, Tray FM or Broadcasts</span></h2>
+  <div class="streams" id="streams"></div>
+</section>
+
+<footer>
+  <p id="dstNote"></p>
+  <p>Schedules read from the stations on 29 September 2026: BBC Radio 1 and 6 Music, Rinse FM, RTRFM, triple j and Double J. Stations move shows around; if a slot looks wrong, the station's own schedule wins.</p>
+</footer>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+(function(){
+const PERTH='Australia/Perth', LON='Europe/London', SYD='Australia/Sydney';
+
+const STATIONS={
+  six:{name:'6 Music',tz:LON,colour:'#2f7d5b',live:'https://www.bbc.com/audio/play/live/bbc_6music',page:'https://www.bbc.co.uk/schedules/p00fzl65',stream:'http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8'},
+  r1:{name:'Radio 1',tz:LON,colour:'#c9a227',live:'https://www.bbc.com/audio/play/live/bbc_radio_one',page:'https://www.bbc.co.uk/schedules/p00fzl86',stream:'http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.norewind.m3u8'},
+  r1d:{name:'Radio 1 Dance',tz:LON,colour:'#b8862b',live:'https://www.bbc.com/audio/play/live/bbc_radio_one_dance',page:'https://www.bbc.co.uk/schedules/p00fzl86',stream:'http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=128000.norewind.m3u8'},
+  rinse:{name:'Rinse FM',tz:LON,colour:'#8a4bd6',live:'https://www.rinse.fm/',page:'https://www.rinse.fm/schedule',stream:'https://admin.stream.rinse.fm/proxy/rinse_uk/stream'},
+  nts:{name:'NTS',tz:LON,colour:'#1b1d22',colourDark:'#ecebe4',live:'https://www.nts.live/',page:'https://www.nts.live/my-nts',stream:'http://stream-relay-geo.ntslive.net/stream'},
+  rtr:{name:'RTRFM',tz:PERTH,colour:'#e0508a',live:'https://rtrfm.com.au/',page:'https://rtrfm.com.au/program-guide/',stream:'https://live.rtrfm.com.au/stream1'},
+  jjj:{name:'triple j',tz:SYD,colour:'#d3441c',live:'https://www.abc.net.au/listen/live/triplej',page:'https://www.abc.net.au/triplej'},
+  dj:{name:'Double J',tz:SYD,colour:'#2b6cb0',live:'https://www.abc.net.au/listen/live/doublej',page:'https://www.abc.net.au/doublej'},
+  bc:{name:'Bandcamp Radio',tz:PERTH,colour:'#1da0c3',live:'https://bandcamp.com/radio',page:'https://bandcamp.com/radio'},
+  flux:{name:'FluxFM',tz:'Europe/Berlin',colour:'#555b66',live:'https://www.fluxfm.de/',page:'https://www.fluxfm.de/',stream:'http://streams.fluxfm.de/live/mp3-320/audio/'}
+};
+
+// days: ISO weekday numbers in the station's own timezone (1 Mon .. 7 Sun). Times are the station's local clock.
+const SHOWS=[
+  // 6 Music
+  {st:'six',n:'Chris Hawkins',d:[1,2,3,4,5],s:'05:00',e:'07:00',m:'New music and forgotten classics',u:'https://www.bbc.co.uk/schedules/p00fzl65'},
+  {st:'six',n:'Lauren Laverne',d:[1,2,3,4,5],s:'10:00',e:'13:00',m:'Daytime, heavy on new releases'},
+  {st:'six',n:'Craig Charles',d:[1,2,3,4,5],s:'13:00',e:'16:00',m:'Funk, soul, sessions'},
+  {st:'six',n:'Huw Stephens',d:[1,2,3,4,5],s:'16:00',e:'19:00',m:'New music, live sessions'},
+  {st:'six',n:'New Music Fix',d:[1,2,3,4],s:'19:00',e:'21:00',m:'The weeknight new-release show'},
+  {st:'six',n:'New Music Fix (repeat) and New Album Fix',d:[5],s:'00:00',e:'02:00',m:'Overnight repeat; the morning-friendly way to hear it'},
+  {st:'six',n:'Riley & Coe',d:[1,2,3,4],s:'21:00',e:'23:00',m:'Late, wide-ranging'},
+  {st:'six',n:"The People's Party with Femi Koleoso",d:[5],s:'19:00',e:'21:00',m:'Jazz, soul, club'},
+  {st:'six',n:'The 6 Mix with Mary Anne Hobbs',d:[5],s:'23:00',e:'00:00',m:'A guest mix each week'},
+  {st:'six',n:'AFRODEUTSCHE',d:[6,7],s:'06:00',e:'08:00',m:'Weekend early, electronic and beyond'},
+  {st:'six',n:'Jamz Supernova',d:[6],s:'13:00',e:'15:00',m:'Global club, soul, new releases. Back-announced'},
+  {st:'six',n:'Gilles Peterson',d:[6],s:'15:00',e:'18:00',m:'Jazz, Brazil, beats, new records first'},
+  {st:'six',n:'The Craig Charles Funk and Soul Show',d:[6],s:'18:00',e:'21:00',m:''},
+  {st:'six',n:"Don Letts' Culture Clash Radio",d:[6],s:'21:00',e:'23:00',m:'Reggae, punk, dub'},
+  {st:'six',n:'SHERELLE',d:[6],s:'23:00',e:'01:00',m:'Jungle, footwork, fast club music'},
+  {st:'six',n:'Cerys Matthews',d:[7],s:'10:00',e:'13:00',m:'Folk, world, roots'},
+  {st:'six',n:"Guy Garvey's Finest Hour",d:[7],s:'13:00',e:'16:00',m:'Songwriters, back-announced with stories'},
+  {st:'six',n:"Jarvis Cocker's Someday Service",d:[7],s:'16:00',e:'18:00',m:''},
+  {st:'six',n:'Mary Anne Hobbs',d:[7],s:'18:00',e:'20:00',m:'Electronic, ambient, experimental'},
+  {st:'six',n:"Stuart Maconie's Freak Zone",d:[7],s:'20:00',e:'22:00',m:'The outer edges'},
+  // Radio 1
+  {st:'r1',n:"Radio 1's New Music Show with Jack Saunders",d:[1,2,3,4],s:'18:00',e:'20:00',m:'Music Played list on the programme page next morning',u:'https://www.bbc.co.uk/schedules/p00fzl86'},
+  {st:'r1',n:"Radio 1's Future Artists with Sian Eleri",d:[1,2,3,4],s:'20:00',e:'22:00',m:'Breaking acts, Next Wave interviews'},
+  {st:'r1',n:"Radio 1's Indie Show",d:[2],s:'23:00',e:'00:00',m:''},
+  {st:'r1',n:"Radio 1's Dance Party with Danny Howard",d:[5],s:'18:00',e:'20:00',m:''},
+  {st:'r1',n:"Radio 1's Future Dance with Sarah Story",d:[5],s:'20:00',e:'22:00',m:'New dance releases'},
+  {st:'r1',n:'Pete Tong',d:[5],s:'22:00',e:'00:00',m:''},
+  {st:'r1',n:"Radio 1's Essential Mix",d:[6],s:'00:00',e:'02:00',m:'Two-hour guest mix'},
+  {st:'r1d',n:"Essential Mix (repeat)",d:[6],s:'21:00',e:'23:00',m:'Same mix, Radio 1 Dance stream'},
+  {st:'r1',n:"Radio 1's Soundsystem Party",d:[6],s:'19:00',e:'21:00',m:''},
+  {st:'r1',n:"Radio 1's Rap Show with Kenny Allstar",d:[6],s:'21:00',e:'22:30',m:''},
+  {st:'r1',n:"Radio 1's Drum & Bass Show with Charlie Tee",d:[6],s:'23:00',e:'00:00',m:''},
+  // Rinse (weekly, fixed)
+  {st:'rinse',n:'Tim Garcia',d:[1],s:'10:00',e:'11:00',m:'Soul, jazz, broken beat, Latin, dub',u:'https://www.rinse.fm/shows/tim-garcia',approx:true},
+  {st:'rinse',n:'Papaoul',d:[2],s:'10:00',e:'12:00',m:'New music from the international underground',u:'https://www.rinse.fm/shows/papaoul'},
+  {st:'rinse',n:'Eclecticist',d:[3],s:'13:00',e:'14:00',m:'Techno to soul to jungle',u:'https://www.rinse.fm/shows/eclecticist'},
+  {st:'rinse',n:'Utopia Presents',d:[3],s:'15:00',e:'16:00',m:'Deep and soulful house, broken beat, disco',u:'https://www.rinse.fm/shows/utopia-presents'},
+  {st:'rinse',n:'Planet Wax',d:[5],nth:1,s:'19:00',e:'21:00',m:'First Friday of the month: new D&B, jungle, hardcore',u:'https://www.rinse.fm/shows/planet-wax',approx:true},
+  // RTRFM (Perth time)
+  {st:'rtr',n:'Breakfast with Pam',d:[1,2,3,4,5],s:'06:00',e:'09:00',m:'',u:'https://rtrfm.com.au/shows/breakfast/'},
+  {st:'rtr',n:'On The Record',d:[1,2,3,4],s:'09:00',e:'11:00',m:'',u:'https://rtrfm.com.au/shows/ontherecord/'},
+  {st:'rtr',n:'Out to Lunch',d:[1,2,3,4,5],s:'12:00',e:'15:00',m:'',u:'https://rtrfm.com.au/shows/otl/'},
+  {st:'rtr',n:'Full Frequency',d:[1,2,3,4,5],s:'15:00',e:'17:00',m:'New music, weekday afternoons',u:'https://rtrfm.com.au/shows/fullfrequency/'},
+  {st:'rtr',n:'Drivetime',d:[1,2,3,4,5],s:'17:00',e:'19:00',m:'',u:'https://rtrfm.com.au/shows/drivetime/'},
+  {st:'rtr',n:'Revolver',d:[2],s:'11:00',e:'12:00',m:'Alternative and indie',u:'https://rtrfm.com.au/shows/revolver/'},
+  {st:'rtr',n:'Siamese Dream',d:[1],s:'21:00',e:'23:00',m:'',u:'https://rtrfm.com.au/shows/siamesedream/'},
+  {st:'rtr',n:'Cloud Waves',d:[1],s:'23:00',e:'01:00',m:'Indie and alternative, late',u:'https://rtrfm.com.au/shows/cloudwaves/'},
+  {st:'rtr',n:'El Ritmo',d:[2],s:'21:00',e:'23:00',m:'Latin',u:'https://rtrfm.com.au/shows/elritmo/'},
+  {st:'rtr',n:'Bass Check',d:[2],s:'23:00',e:'01:00',m:'Bass and electronic',u:'https://rtrfm.com.au/shows/basscheck/'},
+  {st:'rtr',n:'Posted',d:[3],s:'19:00',e:'21:00',m:'',u:'https://rtrfm.com.au/shows/posted/'},
+  {st:'rtr',n:'Critical Mass',d:[3],s:'21:00',e:'23:00',m:'',u:'https://rtrfm.com.au/shows/criticalmass/'},
+  {st:'rtr',n:'Behind The Mirror',d:[3],s:'23:00',e:'01:00',m:'',u:'https://rtrfm.com.au/shows/behindthemirror/'},
+  {st:'rtr',n:'Burn The Airwaves',d:[4],s:'21:00',e:'23:00',m:'Hip hop',u:'https://rtrfm.com.au/shows/burntheairwaves/'},
+  {st:'rtr',n:'peer2peer',d:[4],s:'23:00',e:'01:00',m:'',u:'https://rtrfm.com.au/shows/peer2peer/'},
+  {st:'rtr',n:'Soulsides',d:[5],s:'19:00',e:'21:00',m:'',u:'https://rtrfm.com.au/shows/soulsides/'},
+  {st:'rtr',n:'Black & Blue',d:[5],s:'21:00',e:'23:00',m:'',u:'https://rtrfm.com.au/shows/blackandblue/'},
+  {st:'rtr',n:'All City',d:[5],s:'23:00',e:'01:00',m:'Hip hop',u:'https://rtrfm.com.au/shows/allcity/'},
+  {st:'rtr',n:'Global Rhythm Pot',d:[6],s:'11:00',e:'13:00',m:'',u:'https://rtrfm.com.au/shows/globalrhythmpot/'},
+  {st:'rtr',n:'Homegrown',d:[6],s:'13:00',e:'15:00',m:'WA music',u:'https://rtrfm.com.au/shows/homegrown/'},
+  {st:'rtr',n:'Drastic On Plastic',d:[6],s:'15:00',e:'17:00',m:'',u:'https://rtrfm.com.au/shows/drastic/'},
+  {st:'rtr',n:'Jamdown Vershun',d:[6],s:'17:00',e:'19:00',m:'Reggae and dancehall',u:'https://rtrfm.com.au/shows/jamdown/'},
+  {st:'rtr',n:'Trainwreck',d:[6],s:'21:00',e:'23:00',m:'',u:'https://rtrfm.com.au/shows/trainwreck/'},
+  {st:'rtr',n:"Rhythm Trippin'",d:[6],s:'23:00',e:'01:00',m:'Dance and electronic',u:'https://rtrfm.com.au/shows/rhythmtrippin/'},
+  {st:'rtr',n:'Giant Steps',d:[7],s:'12:00',e:'14:00',m:'Jazz',u:'https://rtrfm.com.au/shows/giantsteps/'},
+  {st:'rtr',n:'Golden Apples of the Sun',d:[7],s:'14:00',e:'16:00',m:'',u:'https://rtrfm.com.au/shows/goldenapples/'},
+  {st:'rtr',n:"Rockin' The Roots",d:[7],s:'16:00',e:'18:00',m:'',u:'https://rtrfm.com.au/shows/roots/'},
+  {st:'rtr',n:'Ambient Zone',d:[7],s:'19:00',e:'21:00',m:'Ambient and electronic',u:'https://rtrfm.com.au/shows/ambientzone/'},
+  {st:'rtr',n:'Difficult Listening',d:[7],s:'21:00',e:'23:00',m:'Experimental',u:'https://rtrfm.com.au/shows/difficultlistening/'},
+  {st:'rtr',n:'Subterranea',d:[7],s:'23:00',e:'01:00',m:'',u:'https://rtrfm.com.au/shows/subterranea/'},
+  {st:'rtr',n:'RTR2 episode drops',d:[1,3,5],s:'10:00',e:'10:01',m:'New resident episode on demand',u:'https://rtrfm.com.au/rtr2/',drop:true},
+  // triple j and Double J (eastern time)
+  {st:'jjj',n:'Home & Hosed with Anika Luna',d:[1,2,3,4],s:'19:00',e:'21:00',m:'New Australian music'},
+  {st:'jjj',n:'Doof with Latifa Tee',d:[5],s:'22:00',e:'01:00',m:'Australian electronic, new in 2026'},
+  {st:'dj',n:'Lunch with Karen Leng',d:[1,2,3,4,5],s:'12:00',e:'15:00',m:'New releases in daytime'},
+  {st:'dj',n:'Sky High with Hau Latukefu',d:[2],s:'19:00',e:'21:00',m:'Hip hop',approx:true},
+  {st:'dj',n:'The Block Party with Hau Latukefu',d:[5],s:'19:00',e:'21:00',m:'Hip hop',approx:true},
+];
+
+const FOLLOW=[
+  {st:'nts',n:'Moxie',c:'Weekly, Wednesday afternoons UK',m:'House, garage, techno; interviews and unreleased music',u:'https://www.nts.live/shows/moxie'},
+  {st:'nts',n:'GiGi FM',c:'Monthly',m:'Inter-dimensional techno and rhythm transmissions',u:'https://www.nts.live/shows/gigi-fm'},
+  {st:'nts',n:'Yu Su',c:'Monthly',m:'Deep house, dub techno, ambient techno',u:'https://www.nts.live/shows/yu-su'},
+  {st:'nts',n:'Pacing The Platform w/ upsammy',c:'Every two months',m:'Electronica, ambient techno, breaks',u:'https://www.nts.live/shows/upsammy'},
+  {st:'nts',n:'Courtesy',c:'Monthly',m:'Techno, electro, house',u:'https://www.nts.live/shows/courtesy'},
+  {st:'nts',n:'Shanti Celeste',c:'Monthly',m:'Current house and techno',u:'https://www.nts.live/shows/shanticeleste'},
+  {st:'nts',n:'Bradley Zero Presents: Rhythm Section',c:'Fortnightly',m:'New-release led: house, broken beat, jazz',u:'https://www.nts.live/shows/rhythmsection'},
+  {st:'nts',n:'Floating Points',c:'Monthly',m:'Rare jazz, soul, disco',u:'https://www.nts.live/shows/floating-points'},
+  {st:'nts',n:'Awe w/ Laurel Halo',c:'Monthly',m:'Ambient, drone, modern classical',u:'https://www.nts.live/shows/laurel-halo'},
+  {st:'nts',n:'Nabihah Iqbal',c:'Monthly',m:'Themed, historically framed, global',u:'https://www.nts.live/shows/nabihah-iqbal'},
+  {st:'nts',n:'Champeta w/ Edna Martinez',c:'Monthly',m:'Colombian picó sound-system culture',u:'https://www.nts.live/shows/edna-martinez'},
+  {st:'nts',n:'1080P w/ HD',c:'Monthly',m:'Guest conversations, hip hop to electronic',u:'https://www.nts.live/shows/hd'},
+  {st:'nts',n:'Ross Allen',c:'Fortnightly',m:'Mainly new, plenty of old',u:'https://www.nts.live/shows/ross-allen'},
+  {st:'rinse',n:'I. JORDAN',c:'Monthly, Fri 22:00 UK',m:'Club-ready house, garage, D&B, trance',u:'https://www.rinse.fm/shows/i-jordan'},
+  {st:'rinse',n:'Precious Stones Radio w/ Emerald',c:'Monthly, Sat 19:00 UK',m:'Electro, house, techno',u:'https://www.rinse.fm/shows/emerald'},
+  {st:'rinse',n:'Stones Taro',c:'Monthly, Mon 23:00 UK',m:'Kyoto bass, house, jungle',u:'https://www.rinse.fm/shows/stones-taro'},
+  {st:'rinse',n:'COIDO',c:'Monthly, Mon 18:00 UK',m:'Raw, percussive, avant-garde club music',u:'https://www.rinse.fm/shows/coido'},
+  {st:'bc',n:'Bandcamp Selects',c:'Weekly',m:'Tina Edwards and Gilla. Presented, every track linked',u:'https://bandcamp.com/radio'},
+  {st:'bc',n:'Bandcamp Electronic',c:'Fortnightly',m:'Emily Dust',u:'https://bandcamp.com/radio'},
+  {st:'bc',n:'The Indie Show',c:'Fortnightly',m:'Mariana Timony',u:'https://bandcamp.com/radio'},
+  {st:'bc',n:'The Hip Hop Show',c:'Fortnightly',m:'Stoney Creation',u:'https://bandcamp.com/radio'},
+];
+
+// ---- time helpers (Intl handles DST for every zone) ----
+const fmtCache={};
+function fmt(tz){ return fmtCache[tz]||(fmtCache[tz]=new Intl.DateTimeFormat('en-GB',{timeZone:tz,hourCycle:'h23',year:'numeric',month:'2-digit',day:'2-digit',weekday:'short',hour:'2-digit',minute:'2-digit',second:'2-digit'})); }
+const WD={Mon:1,Tue:2,Wed:3,Thu:4,Fri:5,Sat:6,Sun:7};
+function parts(date,tz){ const o={}; for(const p of fmt(tz).formatToParts(date)) o[p.type]=p.value; return {y:+o.year,m:+o.month,d:+o.day,h:+o.hour,mi:+o.minute,wd:WD[o.weekday]}; }
+function offsetMs(date,tz){ const p=parts(date,tz); return Date.UTC(p.y,p.m-1,p.d,p.h,p.mi,0)-Math.floor(date.getTime()/60000)*60000; }
+function zonedToUtc(y,m,d,h,mi,tz){ const guess=Date.UTC(y,m-1,d,h,mi); let t=guess-offsetMs(new Date(guess),tz); t=guess-offsetMs(new Date(t),tz); return t; }
+function tzName(date,tz){ const f=new Intl.DateTimeFormat('en-GB',{timeZone:tz,timeZoneName:'short'}); const p=f.formatToParts(date).find(x=>x.type==='timeZoneName'); return p?p.value:''; }
+function hm(ms,tz){ const p=parts(new Date(ms),tz); return String(p.h).padStart(2,'0')+':'+String(p.mi).padStart(2,'0'); }
+function dayLabel(ms,tz){ const p=parts(new Date(ms),tz); return ['','Mon','Tue','Wed','Thu','Fri','Sat','Sun'][p.wd]; }
+function toMin(s){ const [h,m]=s.split(':').map(Number); return h*60+m; }
+
+// occurrences of every show over a window of days around now, as UTC ms
+function occurrences(now){
+  const out=[];
+  const tzs={};
+  for(const sh of SHOWS){
+    const st=STATIONS[sh.st]; const tz=st.tz;
+    if(!tzs[tz]) tzs[tz]=parts(now,tz);
+    const today=tzs[tz];
+    for(let i=-2;i<=8;i++){
+      const dd=new Date(Date.UTC(today.y,today.m-1,today.d+i));
+      const y=dd.getUTCFullYear(), m=dd.getUTCMonth()+1, d=dd.getUTCDate();
+      const wd=((dd.getUTCDay()+6)%7)+1;
+      if(!sh.d.includes(wd)) continue;
+      if(sh.nth && Math.ceil(d/7)!==sh.nth) continue;
+      const s=zonedToUtc(y,m,d,...sh.s.split(':').map(Number),tz);
+      let dur=toMin(sh.e)-toMin(sh.s); if(dur<=0) dur+=1440;
+      out.push({sh,st,start:s,end:s+dur*60000});
+    }
+  }
+  return out;
+}
+
+// ---- state ----
+let enabled;
+try{ enabled=JSON.parse(localStorage.getItem('onair.stations')||'null'); }catch(e){ enabled=null; }
+if(!enabled||typeof enabled!=='object') enabled={}; for(const k in STATIONS) if(!(k in enabled)) enabled[k]=true;
+function save(){ try{ localStorage.setItem('onair.stations',JSON.stringify(enabled)); }catch(e){} }
+let selDay=null;
+
+const $=id=>document.getElementById(id);
+function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function sc(st){ const dark=matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement.dataset.theme!=='light'||document.documentElement.dataset.theme==='dark'; return (dark&&st.colourDark)||st.colour; }
+function mins(ms){ const m=Math.round(ms/60000); if(m<60) return m+' min'; const h=Math.floor(m/60), r=m%60; return r?h+'h '+r+'m':h+'h'; }
+
+function renderFilters(){
+  $('oaFilters').innerHTML=Object.entries(STATIONS).map(([k,st])=>`<button class="chip" id="chip-${k}" aria-pressed="${enabled[k]}" data-k="${k}" style="--sc:${sc(st)}"><span class="sw"></span>${esc(st.name)}</button>`).join('');
+  $('oaFilters').querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>{ enabled[b.dataset.k]=!enabled[b.dataset.k]; save(); render(); }));
+}
+
+function card(o,now){
+  const st=o.st, pct=Math.min(100,Math.max(0,(now-o.start)/(o.end-o.start)*100));
+  const src=st.tz!==PERTH?` <span class="num">(${hm(o.start,st.tz)} ${tzName(new Date(o.start),st.tz)})</span>`:'';
+  return `<div class="card" style="--sc:${sc(st)}">
+    <div class="st"><span class="sw"></span>${esc(st.name)}</div>
+    <div class="tm"><span class="rng">${hm(o.start,PERTH)}–${hm(o.end,PERTH)}</span><span class="left">${mins(o.end-now)} left</span></div>
+    <div class="nm">${esc(o.sh.n)}</div>
+    <div class="nt">${esc(o.sh.m||'')}${src}</div>
+    <div class="bar"><i style="width:${pct.toFixed(1)}%"></i></div>
+    <div class="acts"><a class="btn" href="${st.live}" target="_blank" rel="noopener">Listen live ↗</a>${o.sh.u?`<a class="btn q" href="${o.sh.u}" target="_blank" rel="noopener">Show page</a>`:''}${st.stream?`<button class="btn q" data-copy="${esc(st.stream)}">Copy stream</button>`:''}</div>
+  </div>`;
+}
+function row(o,now,opts){
+  const st=o.st; const live=o.start<=now&&now<o.end, past=o.end<=now;
+  const src=st.tz!==PERTH?`<small class="num">${hm(o.start,st.tz)} ${tzName(new Date(o.start),st.tz)}</small>`:'';
+  const dayp=opts&&opts.showDay?`<small>${dayLabel(o.start,PERTH)}</small>`:'';
+  return `<div class="row${live?' live':''}${past?' past':''}" style="--sc:${sc(st)}">
+    <div class="t">${hm(o.start,PERTH)}${dayp}${src}</div>
+    <div class="n">${o.sh.u?`<a href="${o.sh.u}" target="_blank" rel="noopener">${esc(o.sh.n)}</a>`:esc(o.sh.n)}${o.sh.approx?' <span class="num" title="End time assumed">~</span>':''}</div>
+    <div class="s"><span class="sw"></span>${esc(st.name)}</div>
+    ${o.sh.m?`<div class="m">${esc(o.sh.m)}${o.sh.drop?'':' · until '+hm(o.end,PERTH)}</div>`:`<div class="m">until ${hm(o.end,PERTH)}</div>`}
+  </div>`;
+}
+
+function render(){
+  const now=Date.now();
+  const occ=occurrences(new Date(now)).filter(o=>enabled[o.sh.st]);
+  // on now
+  const live=occ.filter(o=>o.start<=now&&now<o.end&&!o.sh.drop).sort((a,b)=>a.end-b.end);
+  const ol=document.getElementById('onairLive'); if(ol) ol.hidden=!live.length;
+  $('now').innerHTML=live.length?live.map(o=>card(o,now)).join(''):`<div class="empty">Nothing you follow is on right now. Next up below.</div>`;
+  // next 24h
+  const next=occ.filter(o=>o.start>now&&o.start<now+24*3600000).sort((a,b)=>a.start-b.start);
+  $('next').innerHTML=next.length?next.map(o=>row(o,now,{showDay:true})).join(''):`<div class="empty">Nothing scheduled in the next 24 hours for the stations you have on.</div>`;
+  // week
+  const tp=parts(new Date(now),PERTH);
+  if(selDay===null) selDay=tp.wd;
+  const dayNames=['','Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+  const daysHtml=[]; const dayStarts={};
+  for(let i=0;i<7;i++){ const dd=new Date(Date.UTC(tp.y,tp.m-1,tp.d+i)); const wd=((dd.getUTCDay()+6)%7)+1; dayStarts[wd]=zonedToUtc(dd.getUTCFullYear(),dd.getUTCMonth()+1,dd.getUTCDate(),0,0,PERTH); daysHtml.push(`<button role="tab" data-wd="${wd}" aria-pressed="${wd===selDay}">${dayNames[wd]}<span class="d">${dd.getUTCDate()}/${dd.getUTCMonth()+1}</span></button>`); }
+  $('days').innerHTML=daysHtml.join('');
+  $('days').querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{ selDay=+b.dataset.wd; render(); }));
+  const ds=dayStarts[selDay], de=ds+24*3600000;
+  const week=occ.filter(o=>o.start>=ds&&o.start<de).sort((a,b)=>a.start-b.start);
+  $('week').innerHTML=week.length?week.map(o=>row(o,now)).join(''):`<div class="empty">Nothing on this day for the stations you have on.</div>`;
+  // follow
+  $('follow').innerHTML=FOLLOW.filter(f=>enabled[f.st]).map(f=>{const st=STATIONS[f.st];return `<div class="frow" style="--sc:${sc(st)}"><div class="n"><a href="${f.u}" target="_blank" rel="noopener">${esc(f.n)}</a></div><div class="c">${esc(f.c)}</div><div class="m">${esc(st.name)} · ${esc(f.m)}</div></div>`;}).join('');
+  // streams
+  $('streams').innerHTML=Object.values(STATIONS).filter(s=>s.stream).map(s=>`<div class="srow"><div><div class="n">${esc(s.name)}</div><code>${esc(s.stream)}</code></div><button class="btn q" data-copy="${esc(s.stream)}">Copy</button></div>`).join('')+`<div class="srow"><div><div class="n">triple j and Double J</div><code>ABC streams block non-Australian networks; use the ABC listen app, or search "triple j" inside your radio app's directory.</code></div></div>`;
+  // clocks and DST note
+  clocks();
+  document.querySelectorAll('[data-copy]').forEach(b=>b.addEventListener('click',()=>copy(b.dataset.copy)));
+}
+
+function clocks(){
+  const now=new Date();
+  const p=parts(now,PERTH), l=parts(now,LON), s=parts(now,SYD);
+  const two=n=>String(n).padStart(2,'0');
+  $('clkPerth').textContent=two(p.h)+':'+two(p.mi);
+  $('datePerth').textContent=['','Mon','Tue','Wed','Thu','Fri','Sat','Sun'][p.wd]+' '+p.d+'/'+p.m;
+  $('clkLon').textContent=two(l.h)+':'+two(l.mi); $('zLon').textContent=tzName(now,LON)+', '+((offsetMs(now,PERTH)-offsetMs(now,LON))/3600000)+'h behind';
+  $('clkSyd').textContent=two(s.h)+':'+two(s.mi); $('zSyd').textContent=tzName(now,SYD)+', '+((offsetMs(now,SYD)-offsetMs(now,PERTH))/3600000)+'h ahead';
+  const ln=tzName(now,LON), sn=tzName(now,SYD);
+  $('dstNote').textContent=`Right now London is on ${ln} and Sydney on ${sn}. UK clocks change on the last Sunday of October and March; eastern Australia on the first Sunday of October and April. Every time on this page is recalculated from the station's own clock, so nothing here needs editing when they change.`;
+}
+
+let toastT;
+function copy(text){
+  const done=()=>{ const t=$('toast'); t.textContent='Copied'; t.classList.add('show'); clearTimeout(toastT); toastT=setTimeout(()=>t.classList.remove('show'),1400); };
+  const fail=()=>{ const t=$('toast'); t.textContent='Copy blocked here; select the address and copy it'; t.classList.add('show'); clearTimeout(toastT); toastT=setTimeout(()=>t.classList.remove('show'),2500); };
+  try{ navigator.clipboard.writeText(text).then(done,fail); }catch(e){ fail(); }
+}
+
+renderFilters(); render();
+setInterval(()=>{ clocks(); }, 15000);
+setInterval(render, 60000);
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{ renderFilters(); render(); });
+})();
+</script>

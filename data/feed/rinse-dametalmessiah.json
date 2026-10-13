@@ -1,0 +1,97 @@
+{
+ "home": "https://www.rinse.fm/shows/dametalmessiah",
+ "id": "rinse-dametalmessiah",
+ "items": [
+  {
+   "date": "2026-10-11T20:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-11-10-2026-2100",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 11 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-11-10-2026-2100"
+  },
+  {
+   "date": "2026-09-13T20:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-13-09-2026-2100",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 13 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-13-09-2026-2100"
+  },
+  {
+   "date": "2026-08-09T20:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-09-08-2026-2100",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 9 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-09-08-2026-2100"
+  },
+  {
+   "date": "2026-07-12T20:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-12-07-2026-2100",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 12 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-12-07-2026-2100"
+  },
+  {
+   "date": "2026-02-04T18:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-04-02-2026-1800",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 4 Feb 2026",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-04-02-2026-1800"
+  },
+  {
+   "date": "2026-01-07T18:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-07-01-2026-1800",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 7 Jan 2026",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-07-01-2026-1800"
+  },
+  {
+   "date": "2025-11-05T18:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-05-11-2025-1800",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 5 Nov 2025",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-05-11-2025-1800"
+  },
+  {
+   "date": "2025-10-01T17:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-01-10-2025-1800",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 1 Oct 2025",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-01-10-2025-1800"
+  },
+  {
+   "date": "2025-08-06T17:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-06-08-2025-1800",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 6 Aug 2025",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-06-08-2025-1800"
+  },
+  {
+   "date": "2025-07-02T17:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-02-07-2025-1800",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 2 Jul 2025",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-02-07-2025-1800"
+  },
+  {
+   "date": "2025-06-04T17:00:00Z",
+   "desc": "",
+   "id": "dametalmessiah-04-06-2025-1800",
+   "image": "https://image.rinse.fm/_/DaMetalMessiah-June-2025.png?w=1200&h=630",
+   "title": "Dametalmessiah, 4 Jun 2025",
+   "url": "https://www.rinse.fm/episodes/dametalmessiah-04-06-2025-1800"
+  }
+ ],
+ "kind": "rinse",
+ "name": "Dametalmessiah",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

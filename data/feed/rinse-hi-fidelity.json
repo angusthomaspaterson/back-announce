@@ -1,0 +1,209 @@
+{
+ "home": "https://www.rinse.fm/shows/hi-fidelity",
+ "id": "rinse-hi-fidelity",
+ "items": [
+  {
+   "date": "2026-10-08T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-08-10-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 8 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-08-10-2026-1200"
+  },
+  {
+   "date": "2026-10-01T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-01-10-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 1 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-01-10-2026-1200"
+  },
+  {
+   "date": "2026-09-17T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-17-09-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 17 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-17-09-2026-1200"
+  },
+  {
+   "date": "2026-09-10T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-10-09-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 10 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-10-09-2026-1200"
+  },
+  {
+   "date": "2026-09-03T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-03-09-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 3 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-03-09-2026-1200"
+  },
+  {
+   "date": "2026-08-20T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-20-08-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 20 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-20-08-2026-1200"
+  },
+  {
+   "date": "2026-08-13T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-13-08-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 13 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-13-08-2026-1200"
+  },
+  {
+   "date": "2026-08-06T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-06-08-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 6 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-06-08-2026-1200"
+  },
+  {
+   "date": "2026-07-23T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-23-07-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 23 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-23-07-2026-1200"
+  },
+  {
+   "date": "2026-07-16T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-16-07-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 16 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-16-07-2026-1200"
+  },
+  {
+   "date": "2026-07-09T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-09-07-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 9 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-09-07-2026-1200"
+  },
+  {
+   "date": "2026-07-02T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-02-07-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 2 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-02-07-2026-1200"
+  },
+  {
+   "date": "2026-05-30T10:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-30-05-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 30 May 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-30-05-2026-1100"
+  },
+  {
+   "date": "2026-05-23T10:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-23-05-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 23 May 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-23-05-2026-1100"
+  },
+  {
+   "date": "2026-05-16T10:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-16-05-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 16 May 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-16-05-2026-1100"
+  },
+  {
+   "date": "2026-05-09T10:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-09-05-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 9 May 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-09-05-2026-1100"
+  },
+  {
+   "date": "2026-04-25T10:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-25-04-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 25 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-25-04-2026-1100"
+  },
+  {
+   "date": "2026-04-18T10:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-18-04-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 18 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-18-04-2026-1100"
+  },
+  {
+   "date": "2026-04-11T10:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-11-04-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 11 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-11-04-2026-1100"
+  },
+  {
+   "date": "2026-04-04T10:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-04-04-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 4 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-04-04-2026-1100"
+  },
+  {
+   "date": "2026-03-28T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-28-03-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 28 Mar 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-28-03-2026-1100"
+  },
+  {
+   "date": "2026-03-14T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-14-03-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 14 Mar 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-14-03-2026-1100"
+  },
+  {
+   "date": "2026-03-07T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-07-03-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 7 Mar 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-07-03-2026-1100"
+  },
+  {
+   "date": "2026-02-28T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-28-02-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 28 Feb 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-28-02-2026-1100"
+  },
+  {
+   "date": "2026-02-21T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-21-02-2026-1100",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 21 Feb 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-21-02-2026-1100"
+  }
+ ],
+ "kind": "rinse",
+ "name": "Hi-Fidelity",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

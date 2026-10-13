@@ -1,0 +1,49 @@
+{
+ "home": "https://www.rinse.fm/shows/kara",
+ "id": "rinse-kara",
+ "items": [
+  {
+   "date": "2026-09-19T20:00:00Z",
+   "desc": "",
+   "id": "kara-19-09-2026-2100",
+   "image": "https://image.rinse.fm/_/463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg?w=1200&h=630",
+   "title": "Kara, 19 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/kara-19-09-2026-2100"
+  },
+  {
+   "date": "2026-08-15T20:00:00Z",
+   "desc": "",
+   "id": "kara-15-08-2026-2100",
+   "image": "https://image.rinse.fm/_/463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg?w=1200&h=630",
+   "title": "Kara, 15 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/kara-15-08-2026-2100"
+  },
+  {
+   "date": "2026-06-20T20:00:00Z",
+   "desc": "",
+   "id": "kara-20-06-2026-2100",
+   "image": "https://image.rinse.fm/_/463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg?w=1200&h=630",
+   "title": "Kara, 20 Jun 2026",
+   "url": "https://www.rinse.fm/episodes/kara-20-06-2026-2100"
+  },
+  {
+   "date": "2026-05-16T20:00:00Z",
+   "desc": "",
+   "id": "kara-16-05-2026-2100",
+   "image": "https://image.rinse.fm/_/463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg?w=1200&h=630",
+   "title": "Kara, 16 May 2026",
+   "url": "https://www.rinse.fm/episodes/kara-16-05-2026-2100"
+  },
+  {
+   "date": "2026-04-18T20:00:00Z",
+   "desc": "",
+   "id": "kara-18-04-2026-2100",
+   "image": "https://image.rinse.fm/_/463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg?w=1200&h=630",
+   "title": "Kara, 18 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/kara-18-04-2026-2100"
+  }
+ ],
+ "kind": "rinse",
+ "name": "Kara",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

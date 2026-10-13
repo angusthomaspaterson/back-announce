@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/python/cpython/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/python/cpython/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/python/cpython/releases.atom"/>
+  <title>Release notes from cpython</title>
+  <updated>2026-10-12T14:17:51Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/3.10</id>
+    <updated>2026-10-12T14:17:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/3.10"/>
+    <title>Python 3.10 end of life</title>
+    <content type="html">&lt;p&gt;Here am I floating &#39;round my tin can&lt;br&gt;
+Far above the moon&lt;br&gt;
+Planet Earth is blue&lt;br&gt;
+And there&#39;s nothing I can do&lt;/p&gt;
+&lt;p&gt;Five years in orbit. Mission complete. ;)&lt;/p&gt;</content>
+    <author>
+      <name>pablogsal</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/11718525?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.15.0</id>
+    <updated>2026-10-09T11:16:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.15.0"/>
+    <title>v3.15.0</title>
+    <content type="html">&lt;p&gt;Python 3.15.0&lt;/p&gt;</content>
+    <author>
+      <name>hugovk</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1324225?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.15.0rc3</id>
+    <updated>2026-10-02T18:51:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.15.0rc3"/>
+    <title>v3.15.0rc3</title>
+    <content type="html">&lt;p&gt;Python 3.15.0rc3&lt;/p&gt;</content>
+    <author>
+      <name>hugovk</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1324225?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.11.17</id>
+    <updated>2026-10-01T00:52:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.11.17"/>
+    <title>v3.11.17</title>
+    <content type="html">&lt;p&gt;Python 3.11.17&lt;/p&gt;</content>
+    <author>
+      <name>pablogsal</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/11718525?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.10.22</id>
+    <updated>2026-10-01T00:51:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.10.22"/>
+    <title>v3.10.22</title>
+    <content type="html">&lt;p&gt;Python 3.10.22&lt;/p&gt;</content>
+    <author>
+      <name>pablogsal</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/11718525?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.14.8</id>
+    <updated>2026-09-30T17:55:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.14.8"/>
+    <title>v3.14.8</title>
+    <content type="html">&lt;p&gt;Python 3.14.8&lt;/p&gt;</content>
+    <author>
+      <name>hugovk</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1324225?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.13.16</id>
+    <updated>2026-09-30T18:57:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.13.16"/>
+    <title>v3.13.16</title>
+    <content type="html">&lt;p&gt;Python 3.13.16&lt;/p&gt;</content>
+    <author>
+      <name>Yhg1s</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3949752?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.12.15</id>
+    <updated>2026-09-30T22:04:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.12.15"/>
+    <title>v3.12.15</title>
+    <content type="html">&lt;p&gt;Python 3.12.15&lt;/p&gt;</content>
+    <author>
+      <name>Yhg1s</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3949752?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.15.0rc2</id>
+    <updated>2026-09-01T09:14:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.15.0rc2"/>
+    <title>v3.15.0rc2</title>
+    <content type="html">&lt;p&gt;Python 3.15.0rc2&lt;/p&gt;</content>
+    <author>
+      <name>hugovk</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1324225?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/81598961/v3.12.14</id>
+    <updated>2026-08-12T13:57:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/python/cpython/releases/tag/v3.12.14"/>
+    <title>v3.12.14</title>
+    <content type="html">&lt;p&gt;Python 3.12.14&lt;/p&gt;</content>
+    <author>
+      <name>Yhg1s</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3949752?s=60&amp;v=4"/>
+  </entry>
+</feed>

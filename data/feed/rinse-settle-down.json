@@ -1,0 +1,57 @@
+{
+ "home": "https://www.rinse.fm/shows/settle-down",
+ "id": "rinse-settle-down",
+ "items": [
+  {
+   "date": "2026-09-23T22:00:00Z",
+   "desc": "",
+   "id": "settle-down-23-09-2026-2300",
+   "image": "https://image.rinse.fm/_/Greg-Settle-Down-12-greg-hepworth.JPG?w=1200&h=630",
+   "title": "Settle Down, 23 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/settle-down-23-09-2026-2300"
+  },
+  {
+   "date": "2026-08-26T22:00:00Z",
+   "desc": "",
+   "id": "settle-down-26-08-2026-2300",
+   "image": "https://image.rinse.fm/_/Greg-Settle-Down-12-greg-hepworth.JPG?w=1200&h=630",
+   "title": "Settle Down, 26 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/settle-down-26-08-2026-2300"
+  },
+  {
+   "date": "2026-07-22T22:00:00Z",
+   "desc": "",
+   "id": "settle-down-22-07-2026-2300",
+   "image": "https://image.rinse.fm/_/Greg-Settle-Down-12-greg-hepworth.JPG?w=1200&h=630",
+   "title": "Settle Down, 22 Jul 2026",
+   "url": "https://www.rinse.fm/episodes/settle-down-22-07-2026-2300"
+  },
+  {
+   "date": "2026-06-24T22:00:00Z",
+   "desc": "",
+   "id": "settle-down-24-06-2026-2300",
+   "image": "https://image.rinse.fm/_/Greg-Settle-Down-12-greg-hepworth.JPG?w=1200&h=630",
+   "title": "Settle Down, 24 Jun 2026",
+   "url": "https://www.rinse.fm/episodes/settle-down-24-06-2026-2300"
+  },
+  {
+   "date": "2026-05-27T22:00:00Z",
+   "desc": "",
+   "id": "settle-down-27-05-2026-2300",
+   "image": "https://image.rinse.fm/_/Greg-Settle-Down-12-greg-hepworth.JPG?w=1200&h=630",
+   "title": "Settle Down, 27 May 2026",
+   "url": "https://www.rinse.fm/episodes/settle-down-27-05-2026-2300"
+  },
+  {
+   "date": "2026-04-22T22:00:00Z",
+   "desc": "",
+   "id": "settle-down-22-04-2026-2300",
+   "image": "https://image.rinse.fm/_/Greg-Settle-Down-12-greg-hepworth.JPG?w=1200&h=630",
+   "title": "Settle Down, 22 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/settle-down-22-04-2026-2300"
+  }
+ ],
+ "kind": "rinse",
+ "name": "Settle Down",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

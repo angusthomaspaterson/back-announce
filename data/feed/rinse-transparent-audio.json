@@ -1,0 +1,49 @@
+{
+ "home": "https://www.rinse.fm/shows/transparent-audio",
+ "id": "rinse-transparent-audio",
+ "items": [
+  {
+   "date": "2026-10-03T22:00:00Z",
+   "desc": "",
+   "id": "transparent-audio-03-10-2026-2300",
+   "image": "https://image.rinse.fm/_/TA-LOGO-BLACK-BG-Transparent-Audio.png?w=1200&h=630",
+   "title": "The Transparent & Yamatai Show, 3 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/transparent-audio-03-10-2026-2300"
+  },
+  {
+   "date": "2026-09-05T22:00:00Z",
+   "desc": "",
+   "id": "transparent-audio-05-09-2026-2300",
+   "image": "https://image.rinse.fm/_/TA-LOGO-BLACK-BG-Transparent-Audio.png?w=1200&h=630",
+   "title": "The Transparent & Yamatai Show, 5 Sep 2026",
+   "url": "https://www.rinse.fm/episodes/transparent-audio-05-09-2026-2300"
+  },
+  {
+   "date": "2026-08-01T22:00:00Z",
+   "desc": "",
+   "id": "transparent-audio-01-08-2026-2300",
+   "image": "https://image.rinse.fm/_/TA-LOGO-BLACK-BG-Transparent-Audio.png?w=1200&h=630",
+   "title": "The Transparent & Yamatai Show, 1 Aug 2026",
+   "url": "https://www.rinse.fm/episodes/transparent-audio-01-08-2026-2300"
+  },
+  {
+   "date": "2026-05-02T22:00:00Z",
+   "desc": "",
+   "id": "transparent-audio-02-05-2026-2300",
+   "image": "https://image.rinse.fm/_/TA-LOGO-BLACK-BG-Transparent-Audio.png?w=1200&h=630",
+   "title": "The Transparent & Yamatai Show, 2 May 2026",
+   "url": "https://www.rinse.fm/episodes/transparent-audio-02-05-2026-2300"
+  },
+  {
+   "date": "2026-04-04T22:00:00Z",
+   "desc": "",
+   "id": "transparent-audio-04-04-2026-2300",
+   "image": "https://image.rinse.fm/_/TA-LOGO-BLACK-BG-Transparent-Audio.png?w=1200&h=630",
+   "title": "The Transparent & Yamatai Show, 4 Apr 2026",
+   "url": "https://www.rinse.fm/episodes/transparent-audio-04-04-2026-2300"
+  }
+ ],
+ "kind": "rinse",
+ "name": "The Transparent & Yamatai Show",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

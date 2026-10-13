@@ -1,0 +1,209 @@
+{
+ "home": "https://www.flowstate.fm/",
+ "id": "flow-state",
+ "items": [
+  {
+   "audio": null,
+   "date": "2026-10-12T07:03:52Z",
+   "desc": "Today we’re listening to Windy & Carl, an American space rock duo consisting of Windy Weber and Carl Hultgren.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-windy-and-carl-aa5",
+   "image": "https://substackcdn.com/image/fetch/$s_!eArz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F798a0f01-46a0-4c1f-818d-727afe82c68a_2214x1346.png",
+   "title": "Windy & Carl",
+   "url": "https://www.flowstate.fm/p/windy-and-carl-aa5"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-09T07:04:48Z",
+   "desc": "It’s Friday so we’re listening to something more upbeat.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-cousin",
+   "image": "https://substackcdn.com/image/fetch/$s_!uFQA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97985619-0be7-4cce-86c6-ba029bc6bbec_1200x1186.jpeg",
+   "title": "Cousin",
+   "url": "https://www.flowstate.fm/p/cousin"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-08T07:02:53Z",
+   "desc": "Today we’re listening to Heathered Pearls, a Polish electronic musician based in Brooklyn.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-heathered-pearls-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!cPn2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F112058e6-d723-4851-839a-0fd7cbf9c8a5_800x1200.jpeg",
+   "title": "Heathered Pearls (Interview)",
+   "url": "https://www.flowstate.fm/p/heathered-pearls-interview"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-07T07:03:32Z",
+   "desc": "Today we’re listening to Akusmi, a French composer and multi-instrumentalist based in London.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-akusmi",
+   "image": "https://substackcdn.com/image/fetch/$s_!brq9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe67b0b5b-5b36-4b72-8b4f-793dc4640ede_1200x960.jpeg",
+   "title": "Akusmi",
+   "url": "https://www.flowstate.fm/p/akusmi"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/219046343/25871ac4933b7ca39a5d0f320151b1fd.mp3",
+   "date": "2026-10-06T07:04:15Z",
+   "desc": "Today’s mix opens with a 2003 composition by William Basinski, followed by new music from marine eyes & Líom, Chihei Hatakeyama, and Midori Hirano.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-346",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 346",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-346"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-05T07:03:39Z",
+   "desc": "Today we’re listening to Midori Hirano, a Japanese composer and pianist based in Berlin.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-midori-hirano-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!grIA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f48ca0f-6ab8-4b31-9a44-5b1b06cd0591_3840x2160.jpeg",
+   "title": "Midori Hirano (Interview)",
+   "url": "https://www.flowstate.fm/p/midori-hirano-interview"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-02T07:05:46Z",
+   "desc": "Today we’re listening to Shinichi Atobe, a Japanese electronic musician from Saitama.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-shinichi-atobe-4ba",
+   "image": "https://substackcdn.com/image/fetch/$s_!uT6Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f8dd62-5ae0-431a-a11c-d6dfaee10a28_768x576.png",
+   "title": "Shinichi Atobe",
+   "url": "https://www.flowstate.fm/p/shinichi-atobe-4ba"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-01T07:03:02Z",
+   "desc": "Today we have a guest recommendation from Ryan Mandelbaum, a writer and occasional DJ, whose newsletter ghosttropics is a valuable source of thoughtful curation and honest reflections on the world of experimental sound.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-tkb-guest-rec-from-ryan-mandelbaum",
+   "image": "https://substackcdn.com/image/fetch/$s_!pCYz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1d3d11d-8ddf-45ec-97a7-8d85156280c6_1200x1200.jpeg",
+   "title": "TKB (Guest rec from Ryan Mandelbaum)",
+   "url": "https://www.flowstate.fm/p/tkb-guest-rec-from-ryan-mandelbaum"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/218105734/8879e536f028ad23a5c885962856752c.mp3",
+   "date": "2026-09-30T07:03:43Z",
+   "desc": "On today’s episode of Across the Horizon, host Bob Holmes of the band SUSS is joined by Lara Somogyi.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-71-lara-somogyi",
+   "image": "https://substackcdn.com/image/fetch/$s_!rWhE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0ed76a-a728-4a09-9b8e-763c4f193497_2728x1536.png",
+   "title": "Across the Horizon Ep. 71: Lara Somogyi",
+   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-71-lara-somogyi"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/217950821/2dfba02c094607e435924efb9c2a2ea8.mp3",
+   "date": "2026-09-29T07:03:08Z",
+   "desc": "Today’s mix opens with a beautiful new track from Isik Kural, followed by new ambient by Maxime Denuc and elijah jamal asani.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-345",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 345",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-345"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-28T07:03:05Z",
+   "desc": "Today we’re listening to Ryuichi Sakamoto, a Japanese composer and pianist from Tokyo.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-ryuichi-sakamoto-a1b",
+   "image": "https://substackcdn.com/image/fetch/$s_!S_pg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2337f113-91a0-46ba-a179-417b7b5536c4_1396x1406.png",
+   "title": "Ryuichi Sakamoto",
+   "url": "https://www.flowstate.fm/p/ryuichi-sakamoto-a1b"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-25T07:03:22Z",
+   "desc": "Today we’re listening to Patrick Cowley, an American electronic musician from Buffalo, NY.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-patrick-cowley",
+   "image": "https://substackcdn.com/image/fetch/$s_!3sLU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feed56eff-32f2-414a-a430-199d5939e681_1200x1200.jpeg",
+   "title": "Patrick Cowley",
+   "url": "https://www.flowstate.fm/p/patrick-cowley"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-24T07:02:46Z",
+   "desc": "Today we’re listening to Egberto Gismonti, a Brazilian composer, guitarist, and pianist from Carmo.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-egberto-gismonti",
+   "image": "https://substackcdn.com/image/fetch/$s_!su5B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb519531f-df13-46f5-9a6b-07ebe3c30259_4928x3264.jpeg",
+   "title": "Egberto Gismonti",
+   "url": "https://www.flowstate.fm/p/egberto-gismonti"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-23T07:03:13Z",
+   "desc": "Today we’re listening to Corntuth, an American ambient musician based in Brooklyn.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-corntuth-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!KgzB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2799eee8-8687-40e7-97df-949cb7499552_1200x1200.jpeg",
+   "title": "Corntuth (Interview)",
+   "url": "https://www.flowstate.fm/p/corntuth-interview"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/216846427/27b989be8590486a0f4eab59c1b57633.mp3",
+   "date": "2026-09-22T07:03:59Z",
+   "desc": "Today’s mix opens with new ambient music by Hayes Bradley, Asio Silver, and The Black Dog.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-344",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 344",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-344"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-21T07:04:23Z",
+   "desc": "Today we’re listening to Joel Noct Brinson, an American ambient musician based in Portland, Oregon.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-joel-noct-brinson",
+   "image": "https://substackcdn.com/image/fetch/$s_!Pwjy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e4ad81-a6b3-43c5-97e1-797cf1058a59_2558x1944.png",
+   "title": "Joel Noct Brinson",
+   "url": "https://www.flowstate.fm/p/joel-noct-brinson"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-18T07:04:40Z",
+   "desc": "Today we’re listening to Professor Kazkaz, a collaboration between German electronic musicians Gregor Tresher and Marcus Schmahl.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-professor-kazkaz",
+   "image": "https://substackcdn.com/image/fetch/$s_!U8Hl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22f1cb74-adad-4984-8ae6-226132aea219_2382x1982.png",
+   "title": "Professor Kazkaz",
+   "url": "https://www.flowstate.fm/p/professor-kazkaz"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-17T07:02:50Z",
+   "desc": "Today we have a guest recommendation from Sofie Birch, a sound artist and composer, whose newsletter Ambient Abracadabra we highly recommend.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-go-kurosawa-guest-rec-by-sofie-birch",
+   "image": "https://substackcdn.com/image/fetch/$s_!V8mC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a582336-a6d7-4203-a0bf-21d7edf5a667_3130x2075.jpeg",
+   "title": "Go Kurosawa (Guest rec by Sofie Birch)",
+   "url": "https://www.flowstate.fm/p/go-kurosawa-guest-rec-by-sofie-birch"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/215888654/f9123b1c9bbc5ea537b5545741fb5751.mp3",
+   "date": "2026-09-16T07:03:59Z",
+   "desc": "On today’s episode of Across the Horizon, host Bob Holmes from the band SUSS finishes his conversation with Sarah Davachi from last week.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-70-sarah-davachi",
+   "image": "https://substackcdn.com/image/fetch/$s_!FKF5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef946b94-77d7-4bff-bfa7-14f7e75f5817_1200x800.png",
+   "title": "Across the Horizon Ep. 70: Sarah Davachi (Pt. 2)",
+   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-70-sarah-davachi"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/215765169/db8811d0d8b00f25cc096298787e1936.mp3",
+   "date": "2026-09-15T07:02:48Z",
+   "desc": "Today’s mix premieres the new Corntuth record, The Nightingale Floor, which comes out next week on Flow State Records and Aural Canyon.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-ep-343-corntuth-premiere",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Ep. 343: Corntuth Premiere",
+   "url": "https://www.flowstate.fm/p/flow-state-ep-343-corntuth-premiere"
+  }
+ ],
+ "kind": "rss",
+ "name": "Flow State",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}

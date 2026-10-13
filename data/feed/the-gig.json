@@ -1,0 +1,209 @@
+{
+ "home": "https://thegig.substack.com/",
+ "id": "the-gig",
+ "items": [
+  {
+   "audio": null,
+   "date": "2026-10-10T14:03:45Z",
+   "desc": "Miles Okazaki and Frank Kimbrough, going all the way in",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-dreaming-of-monk",
+   "image": "https://substackcdn.com/image/fetch/$s_!nEh6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb00bd37-6f1c-49fd-997a-c68535d12e70_1200x900.jpeg",
+   "title": "Dreaming of Monk",
+   "url": "https://thegig.substack.com/p/dreaming-of-monk"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-04T15:30:50Z",
+   "desc": "Get it? A musical cornucopia, and some news",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-fall-into-take-five",
+   "image": "https://substackcdn.com/image/fetch/$s_!HfZ2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66f7001f-cc46-4522-8d9c-8fac7ee35e6a_1920x1280.jpeg",
+   "title": "Fall into Take Five",
+   "url": "https://thegig.substack.com/p/fall-into-take-five"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-30T03:00:01Z",
+   "desc": "What Zara Larsson and Ella Fitzgerald have in common",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-midnight-sun-the-other-one",
+   "image": "https://substackcdn.com/image/fetch/$s_!hgsn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd29e920-470f-4707-8a84-cf4a67320def_942x628.png",
+   "title": "“Midnight Sun” (the other one)",
+   "url": "https://thegig.substack.com/p/midnight-sun-the-other-one"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-28T12:08:37Z",
+   "desc": "A blessed overspill for John Coltrane’s centennial",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-acknowledgement-coltrane-100",
+   "image": "https://substackcdn.com/image/fetch/$s_!7T7_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75f3b82d-f6bb-4991-bd48-080a28aac5b2_7239x5219.jpeg",
+   "title": "Acknowledgement: Coltrane 100",
+   "url": "https://thegig.substack.com/p/acknowledgement-coltrane-100"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-22T21:48:41Z",
+   "desc": "In celebration of an artist who set so much in motion",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-countdown-john-coltrane-at-100",
+   "image": "https://substackcdn.com/image/fetch/$s_!4MTr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F313d23d6-588e-4dc3-9caa-837f9c8f4682_2100x1500.jpeg",
+   "title": "Countdown: John Coltrane at 100",
+   "url": "https://thegig.substack.com/p/countdown-john-coltrane-at-100"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-21T10:46:03Z",
+   "desc": "Notes on a celebration of the Saxophone Colossus",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-memorializing-sonny-rollins",
+   "image": "https://substackcdn.com/image/fetch/$s_!5u59!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845d8a86-57e6-424a-a482-45990cbe639f_8640x5760.jpeg",
+   "title": "Memorializing Sonny Rollins",
+   "url": "https://thegig.substack.com/p/memorializing-sonny-rollins"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-10T22:00:01Z",
+   "desc": "Lost sounds, and a story, from 9/11",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-respite-and-remembrance",
+   "image": "https://substackcdn.com/image/fetch/$s_!8QRa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e2d4c2f-264c-4d29-9ab7-fc9df21f32d2_2956x2634.jpeg",
+   "title": "Respite and Remembrance",
+   "url": "https://thegig.substack.com/p/respite-and-remembrance"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-06T12:40:54Z",
+   "desc": "Kacey Musgraves’ Middle of Nowhere Tour is, well, deeper than it seems",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-not-her-first-rodeo",
+   "image": "https://substackcdn.com/image/fetch/$s_!iYQV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf0405db-eff8-457b-99af-8c6814257048_3657x1827.jpeg",
+   "title": "Not Her First Rodeo",
+   "url": "https://thegig.substack.com/p/not-her-first-rodeo"
+  },
+  {
+   "audio": null,
+   "date": "2026-09-03T04:38:57Z",
+   "desc": "Parting thoughts on a singular voice and incredible artist",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-cassandra-wilson-the-conjurer",
+   "image": "https://substackcdn.com/image/fetch/$s_!mIG1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F410c991f-6852-4261-8238-a5c0309ad89e_1024x683.jpeg",
+   "title": "Cassandra Wilson, The Conjurer",
+   "url": "https://thegig.substack.com/p/cassandra-wilson-the-conjurer"
+  },
+  {
+   "audio": null,
+   "date": "2026-08-31T22:23:39Z",
+   "desc": "Happy birthday to me... 🥳 🍍",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-nate-five-0",
+   "image": "https://substackcdn.com/image/fetch/$s_!cTNP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f79dfaf-ca6a-4ec3-bd54-7cfa66e64b97_3967x3519.jpeg",
+   "title": "Nate Five-0",
+   "url": "https://thegig.substack.com/p/nate-five-0"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/212542291/77932d4c70868d5732fc0959b52eaa66.mp3",
+   "date": "2026-08-25T11:03:47Z",
+   "desc": "A conversation with Andy Beta and Surya Botofasina",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-alice-coltrane-cosmic-music",
+   "image": "https://substackcdn.com/image/fetch/$s_!e4R3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba5cd212-a546-4b3f-9b22-cee72d4bed8e_5712x4284.jpeg",
+   "title": "Alice Coltrane: Cosmic Music",
+   "url": "https://thegig.substack.com/p/alice-coltrane-cosmic-music"
+  },
+  {
+   "audio": null,
+   "date": "2026-08-19T10:31:07Z",
+   "desc": "Catching a vibe with Courtney Pine",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-modern-day-jazz-story",
+   "image": "https://substackcdn.com/image/fetch/$s_!2Qaf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb08d3ce3-c2cd-4d92-9887-86b8ae7979e8_2500x1667.png",
+   "title": "Modern Day Jazz Story",
+   "url": "https://thegig.substack.com/p/modern-day-jazz-story"
+  },
+  {
+   "audio": null,
+   "date": "2026-08-06T16:46:18Z",
+   "desc": "The Nate Smith era dawns at the Newport Jazz Festival.",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-mr-smith-goes-to-newport",
+   "image": "https://substackcdn.com/image/fetch/$s_!QGaK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c48e762-df7a-4199-a8a1-8afec1d911d8_5036x7554.jpeg",
+   "title": "Mr. Smith Goes to Newport",
+   "url": "https://thegig.substack.com/p/mr-smith-goes-to-newport"
+  },
+  {
+   "audio": null,
+   "date": "2026-07-31T11:00:56Z",
+   "desc": "The song that sums up the singer.",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-tony-bennett-at-100",
+   "image": "https://substackcdn.com/image/fetch/$s_!3Fap!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f99bd64-c1d8-45fb-b524-334aeb0d2b5c_3600x2415.jpeg",
+   "title": "Tony Bennett at 100",
+   "url": "https://thegig.substack.com/p/tony-bennett-at-100"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/208387997/8d0e3850feb24ab536bd27e8b18c8edb.mp3",
+   "date": "2026-07-24T22:05:10Z",
+   "desc": "The beat scientist talks inspiration and iteration before his Vanguard debut.",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-a-conversation-with-makaya-mccraven",
+   "image": "https://substackcdn.com/image/fetch/$s_!EN3C!,w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc72125d-3b6d-4a6c-a12e-875b9f3fbc32_569x569.png",
+   "title": "A Conversation with Makaya McCraven",
+   "url": "https://thegig.substack.com/p/a-conversation-with-makaya-mccraven"
+  },
+  {
+   "audio": null,
+   "date": "2026-07-21T10:31:06Z",
+   "desc": "And his ResoNation Trio puts the revel in revelatory",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-steven-bernstein-wanted-a-threesome",
+   "image": "https://substackcdn.com/image/fetch/$s_!sgk7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e76fa3-0ecc-4d13-a0ce-a06f6569e0ee_4128x3760.png",
+   "title": "Steven Bernstein Wanted a Threesome",
+   "url": "https://thegig.substack.com/p/steven-bernstein-wanted-a-threesome"
+  },
+  {
+   "audio": null,
+   "date": "2026-07-14T02:37:00Z",
+   "desc": "What RAYE brings to the crossover equation",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-this-pop-pageant-may-contain-jazz",
+   "image": "https://substackcdn.com/image/fetch/$s_!JA7J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F512d7421-896b-46f8-b0d2-25b74d821818_1920x1219.png",
+   "title": "This Pop Pageant May Contain Jazz",
+   "url": "https://thegig.substack.com/p/this-pop-pageant-may-contain-jazz"
+  },
+  {
+   "audio": null,
+   "date": "2026-07-07T11:02:10Z",
+   "desc": "Listening for what lies just ahead of us",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-take-five-mid-year-forecast-edition",
+   "image": "https://substackcdn.com/image/fetch/$s_!GfHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63c731ce-aece-47df-a43d-dd1a23ef19b1_2119x1266.jpeg",
+   "title": "Take Five: Mid-Year Forecast Edition",
+   "url": "https://thegig.substack.com/p/take-five-mid-year-forecast-edition"
+  },
+  {
+   "audio": null,
+   "date": "2026-06-26T10:30:20Z",
+   "desc": "An elegy in the form of a thought experiment",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-remembering-clifford",
+   "image": "https://substackcdn.com/image/fetch/$s_!peXI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba97000f-8a41-445c-980b-26252e12f0df_407x500.jpeg",
+   "title": "Remembering Clifford",
+   "url": "https://thegig.substack.com/p/remembering-clifford"
+  },
+  {
+   "audio": "https://api.substack.com/feed/podcast/202352111/d3a3f152205625026f1495394aeb9a96.mp3",
+   "date": "2026-06-18T10:05:27Z",
+   "desc": "A composer & a critic on creative practice vs. the attention economy",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-honest-songcraft-in-the-slop-era-92e",
+   "image": "https://substackcdn.com/image/fetch/$s_!43MV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bb5f09d-16d6-4525-a94c-d3aea48e0ae5_200x200.png",
+   "title": "Honest Songcraft in the Slop Era",
+   "url": "https://thegig.substack.com/p/honest-songcraft-in-the-slop-era-92e"
+  }
+ ],
+ "kind": "rss",
+ "name": "The Gig (Nate Chinen)",
+ "updatedAt": "2026-10-13T04:20:38Z"
+}
