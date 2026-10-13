@@ -47,7 +47,7 @@ for ($attempt = 1; $attempt -le 3 -and -not $done; $attempt++) {
     & $git reset -q --hard origin/main 2>&1 | ForEach-Object { Log "  reset: $_" }
     $out = & $python gatherer/gather.py --data data --match substack.com 2>&1
     $out | Where-Object { "$_" -match '^(FAIL|done)' } | ForEach-Object { Log "  $_" }
-    & $git add data/feed data/status.json
+    & $git add data/feed data/status.json data/bundle.json
     # Commit only when an item or a source's result changed, not just the run times.
     & $git diff --cached --quiet -- data/feed
     $feedChanged = ($LASTEXITCODE -ne 0)

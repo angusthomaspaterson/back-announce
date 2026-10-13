@@ -173,6 +173,15 @@ class Finish(unittest.TestCase):
         self.assertEqual(out[1]["image"], "https://img/fallback.jpg")
         self.assertEqual(out[0]["image"], "https://img/b.jpg")
 
+    def test_drops_items_more_than_a_day_ahead(self):
+        src = {"id": "s", "name": "S", "kind": "rss", "url": "x"}
+        now = datetime.datetime(2026, 10, 13, 12, 0, tzinfo=datetime.timezone.utc)
+        items = [gather.item("past", "P", "https://u/p", "2026-10-12T00:00:00Z"),
+                 gather.item("soon", "S", "https://u/s", "2026-10-14T06:00:00Z"),
+                 gather.item("far", "F", "https://u/f", "2026-11-06T05:00:00Z"),
+                 gather.item("undated", "U", "https://u/u", None)]
+        self.assertEqual([i["id"] for i in gather.finish(items, src, now=now)], ["soon", "past", "undated"])
+
     def test_keeps_25(self):
         src = {"id": "s", "name": "S", "kind": "rss", "url": "x"}
         items = [gather.item(str(n), str(n), f"https://u/{n}", f"2026-01-{n % 28 + 1:02d}T00:00:00Z") for n in range(40)]
@@ -274,6 +283,18 @@ class Run(unittest.TestCase):
         self.assertEqual(set(status["sources"]), {"time-to-track", "nts-gigi-fm"})
         self.assertEqual(status["sources"]["time-to-track"]["at"], "2026-10-13T00:00:00Z")
         self.assertEqual(status["sources"]["nts-gigi-fm"]["at"], "2026-10-14T00:00:00Z")
+
+    def test_bundle_collects_everything(self):
+        data = self.tmp.name
+        with open(os.path.join(data, "sources.json"), "w", encoding="utf-8") as f:
+            json.dump({"items": self.SOURCES[:2]}, f)
+        gather.run(self.SOURCES[:2], self.feed, self.status, fetcher=self.fake_fetch, now="2026-10-13T00:00:00Z", log=lambda *a: None)
+        bundle = gather.write_bundle(data)
+        self.assertEqual([s["id"] for s in bundle["sources"]], ["time-to-track", "nts-gigi-fm"])
+        self.assertEqual(set(bundle["feed"]), {"time-to-track", "nts-gigi-fm"})
+        self.assertEqual(bundle["status"]["lastRun"], "2026-10-13T00:00:00Z")
+        with open(os.path.join(data, "bundle.json"), encoding="utf-8") as f:
+            self.assertEqual(json.load(f), bundle)
 
     def test_blocked_bandcamp_becomes_link_only(self):
         def blocked(url, timeout=25):

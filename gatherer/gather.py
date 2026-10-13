@@ -361,9 +361,14 @@ def rollup(items, src):
     return keep
 
 
-def finish(items, src):
-    """Apply the fallback image and rollup, drop duplicates, sort newest first, keep 25."""
-    items = [i for i in items if i.get("url")]
+def finish(items, src, now=None):
+    """Apply the fallback image and rollup, drop duplicates, sort newest first, keep 25.
+
+    Items dated more than a day ahead are dropped: Rinse lists upcoming episodes
+    on its show pages, and they cannot be played yet.
+    """
+    horizon = iso((now or datetime.datetime.now(UTC)) + datetime.timedelta(days=1))
+    items = [i for i in items if i.get("url") and not (i.get("date") and i["date"] > horizon)]
     if src.get("image"):
         for i in items:
             if not i.get("image"):
@@ -467,6 +472,27 @@ def select_sources(sources, only="", match="", skip=""):
     return sources
 
 
+def write_bundle(data_dir):
+    """Write data/bundle.json: the source list, status and every feed file in one document.
+
+    The web app loads this instead of 150 separate files. Rebuilt from whatever
+    is on disk, so a partial run still produces a complete bundle.
+    """
+    feed_dir = os.path.join(data_dir, "feed")
+    feed = {}
+    for name in sorted(os.listdir(feed_dir)) if os.path.isdir(feed_dir) else []:
+        if name.endswith(".json"):
+            body = load_json(os.path.join(feed_dir, name), None)
+            if body:
+                feed[name[:-5]] = body
+    cfg = load_json(os.path.join(data_dir, "sources.json"), {"items": []})
+    bundle = {"sources": cfg.get("items", []),
+              "status": load_json(os.path.join(data_dir, "status.json"), {}),
+              "feed": feed}
+    dump_json(os.path.join(data_dir, "bundle.json"), bundle)
+    return bundle
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description="Gather the Back Announce feed.")
     ap.add_argument("--data", default="data", help="the data folder (default: data)")
@@ -478,6 +504,7 @@ def main(argv=None):
     cfg = load_json(os.path.join(args.data, "sources.json"), {"items": []})
     sources = select_sources(cfg["items"], args.only, args.match, args.skip)
     status = run(sources, os.path.join(args.data, "feed"), os.path.join(args.data, "status.json"), workers=args.workers)
+    write_bundle(args.data)
     ran = {s["id"] for s in sources}
     failed = [k for k, v in status["sources"].items() if k in ran and not v.get("ok")]
     print(f"done: {len(ran) - len(failed)} ok, {len(failed)} failed", file=sys.stderr)

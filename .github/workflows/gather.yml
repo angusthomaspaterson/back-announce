@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 # Never run two gathers at once; a second one waits for the first.
 concurrency:
@@ -29,12 +30,14 @@ jobs:
         # gathered by the helper on Angus's laptop (tools/laptop-substack.ps1).
         # If the push is rejected because the apps or the laptop pushed first,
         # start again from the newest commit rather than trying to merge.
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "Back Announce gatherer"
           git config user.email "gatherer@users.noreply.github.com"
           for attempt in 1 2 3 4 5; do
             python3 gatherer/gather.py --data data --skip substack.com
-            git add data/feed data/status.json
+            git add data/feed data/status.json data/bundle.json
             if git diff --cached --quiet; then
               echo "Nothing changed."
               exit 0
@@ -42,6 +45,9 @@ jobs:
             stamp=$(TZ=Australia/Perth date "+%a %-d %b %H:%M AWST")
             git commit -q -m "feed: refresh $stamp"
             if git push; then
+              # A push made with the workflow's own token does not start other
+              # workflows, so ask for the web app to be republished explicitly.
+              gh workflow run pages.yml || echo "Could not start the Pages deploy (is Pages enabled?)"
               exit 0
             fi
             echo "Push rejected (attempt $attempt); refreshing from the newest commit..."

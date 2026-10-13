@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Back Announce</title>
+<meta name="description" content="Radio shows, mixes, podcasts and writing where someone tells you what you just heard.">
+<meta name="theme-color" content="#f0efe9" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121417" media="(prefers-color-scheme: dark)">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Back Announce">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<header class="top">
+  <h1 id="title">Back Announce</h1>
+  <nav class="tabs" aria-label="Sections">
+    <a href="#feed" id="tabFeed">Feed <span class="badge" id="feedNew" hidden></span></a>
+    <a href="#onair" id="tabOnair">On Air <span class="dot" id="onairLive" aria-hidden="true" hidden></span></a>
+  </nav>
+  <div class="meta" id="meta">Loading…</div>
+  <div class="clocks" id="clocks" hidden>
+    <div class="clock"><span class="lbl">Perth</span><span class="t num" id="clkPerth">--:--</span><span class="z" id="datePerth"></span></div>
+    <div class="clock"><span class="lbl">London</span><span class="t num" id="clkLon">--:--</span><span class="z" id="zLon"></span></div>
+    <div class="clock"><span class="lbl">Sydney</span><span class="t num" id="clkSyd">--:--</span><span class="z" id="zSyd"></span></div>
+  </div>
+</header>
+
+<main id="feed" class="fd">
+  <div class="filters" id="filters" role="group" aria-label="Groups"></div>
+  <div class="srchead" id="srcHead" hidden></div>
+  <div id="stream"><div class="empty">Loading the feed…</div></div>
+  <details class="sources" id="sourcesBox"><summary>Sources <span class="sub" id="srcSub"></span></summary><div class="mng" id="mng"></div><div id="sources"></div></details>
+  <footer id="feedFoot">Gathered every six hours by a scheduled job on GitHub, and the Substack newsletters by a small task on the laptop: SoundCloud, Mixcloud and podcast feeds, Substack and magazine feeds, the NTS API, Rinse show pages, and the Bandcamp Daily and Radio pages. New cards stay marked until you press Mark all seen. Saved keeps a full copy of a card, so it stays after the episode drops out of the feed. Paused sources keep being gathered in the background, so switching one back on brings its recent episodes straight in.</footer>
+</main>
+
+<main id="onair" class="oa" hidden>
+  <div class="filters" id="oaFilters" role="group" aria-label="Stations"></div>
+  <section>
+    <h2>On now</h2>
+    <div class="now" id="now"></div>
+  </section>
+  <section>
+    <h2>Next 24 hours <span class="sub">Perth time</span></h2>
+    <div class="list" id="next"></div>
+  </section>
+  <section>
+    <h2>This week <span class="sub">all times AWST, clock changes applied automatically</span></h2>
+    <div class="days" id="days" role="tablist"></div>
+    <div class="list" id="week"></div>
+  </section>
+  <section>
+    <h2>Follow on demand <span class="sub">no fixed slot, or monthly</span></h2>
+    <div class="follow" id="follow"></div>
+  </section>
+  <section>
+    <h2>Stream addresses <span class="sub">paste into Transistor, Tray FM or Broadcasts</span></h2>
+    <div class="streams" id="streams"></div>
+  </section>
+  <footer>
+    <p id="dstNote"></p>
+    <p>Schedules read from the stations on 29 September 2026: BBC Radio 1 and 6 Music, Rinse FM, RTRFM, triple j and Double J. Stations move shows around; if a slot looks wrong, the station's own schedule wins.</p>
+  </footer>
+</main>
+
+<div class="player" id="player" hidden>
+  <div class="pinfo"><span class="pname" id="pName"></span><span class="psub" id="pSub"></span></div>
+  <audio id="audio" controls preload="none"></audio>
+  <button class="pclose" id="pClose" aria-label="Close player">✕</button>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden><span id="toastTxt"></span><button id="toastUndo">Undo</button></div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

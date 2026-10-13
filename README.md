@@ -36,6 +36,17 @@ GitHub switches off scheduled workflows in a public repository after 60 days wit
 3. If there is a yellow banner saying the workflow was disabled, click **Enable workflow**.
 4. Click **Run workflow**, then the green **Run workflow** button, to refresh straight away.
 
+## The web app
+
+The site in `web/` is plain HTML, CSS and JavaScript with no build step. `.github/workflows/pages.yml` publishes it, together with a copy of `data/`, to GitHub Pages at **https://angusthomaspaterson.github.io/back-announce/**. It republishes whenever `web/` or `data/` changes on main, and the gatherer asks for a republish after every refresh, so the site is never more than a few minutes behind the repository.
+
+- `#feed`, `#saved`, `#source/<id>` and `#onair` are deep links.
+- The gatherer also writes `data/bundle.json`, every feed file plus the source list and status in one document, so the app loads in two requests instead of 150.
+- It is a progressive web app: `manifest.webmanifest` and `sw.js` let Chrome install it with its own icon, and the shell and the last feed are cached for offline reading.
+- Without a GitHub token it is read only: Save, Pause and Mark all seen are hidden.
+
+To try it on a computer, serve the `web/` folder with any static server and put a copy of `data/` inside it (that copy is ignored by git).
+
 ## Running the gatherer on a computer
 
 Python 3.10 or newer, nothing else to install.

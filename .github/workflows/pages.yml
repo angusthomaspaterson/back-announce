@@ -1,0 +1,49 @@
+name: Publish the web app
+
+# Publishes web/ plus data/ to GitHub Pages. Runs when either changes on main,
+# when asked by hand, and after every feed refresh (gather.yml starts it).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - "data/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only the newest deploy matters.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assemble the site
+        run: |
+          mkdir -p _site
+          cp -r web/. _site/
+          mkdir -p _site/data/feed
+          cp data/*.json _site/data/
+          cp data/feed/*.json _site/data/feed/
+          # Stamp the service worker so every deploy refreshes the cached shell.
+          sed -i "s/__BUILD__/${GITHUB_SHA::12}/" _site/sw.js
+          echo "${GITHUB_SHA::12}" > _site/version.txt
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
