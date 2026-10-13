@@ -3,10 +3,28 @@
  "id": "bandcamp-daily",
  "items": [
   {
+   "date": "2026-10-13T00:00:00Z",
+   "desc": "Here's what the darkwave duo is listening to on Bandcamp right now.",
+   "id": "big-ups-boy-harsher-big-ups",
+   "image": "https://f4.bcbits.com/img/0047808925_180",
+   "tags": "Big Ups",
+   "title": "Boy Harsher Pick Their Bandcamp Favorites",
+   "url": "https://daily.bandcamp.com/big-ups/boy-harsher-big-ups"
+  },
+  {
+   "date": "2026-10-13T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-marina-herlop-dja-dja-review",
+   "image": "https://f4.bcbits.com/img/0047877258_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Marina Herlop, “Dja Dja”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/marina-herlop-dja-dja-review"
+  },
+  {
    "date": "2026-10-12T00:00:00Z",
-   "desc": "Our guide to the month’s crucial country LPs.",
+   "desc": "",
    "id": "best-country-the-best-country-music-on-bandcamp-september-2026",
-   "image": "https://f4.bcbits.com/img/0047928486_180",
+   "image": "https://f4.bcbits.com/img/0047928486_150.jpg",
    "tags": "Best Country",
    "title": "The Best Country Music on Bandcamp, September 2026",
    "url": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-september-2026"
@@ -41,20 +59,20 @@
   {
    "date": "2026-10-09T00:00:00Z",
    "desc": "",
-   "id": "essential-releases-essential-releases-october-9-2026",
-   "image": "https://f4.bcbits.com/img/0047856632_150.jpg",
-   "tags": "Essential Releases",
-   "title": "Essential Releases, October 9, 2026",
-   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-9-2026"
-  },
-  {
-   "date": "2026-10-09T00:00:00Z",
-   "desc": "",
    "id": "best-contemporary-classical-the-best-contemporary-classical-music-on-bandcamp-september-2026",
    "image": "https://f4.bcbits.com/img/0047811933_150.jpg",
    "tags": "Best Contemporary Classical",
    "title": "The Best Contemporary Classical Music on Bandcamp, September 2026",
    "url": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-september-2026"
+  },
+  {
+   "date": "2026-10-09T00:00:00Z",
+   "desc": "",
+   "id": "essential-releases-essential-releases-october-9-2026",
+   "image": "https://f4.bcbits.com/img/0047856632_150.jpg",
+   "tags": "Essential Releases",
+   "title": "Essential Releases, October 9, 2026",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-9-2026"
   },
   {
    "date": "2026-10-09T00:00:00Z",
@@ -208,27 +226,9 @@
    "tags": "Hotlist",
    "title": "The Hotlist, Fall 2026",
    "url": "https://daily.bandcamp.com/hotlist/the-hotlist-fall-2026"
-  },
-  {
-   "date": "2026-10-02T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-stef-chura-dancing-alone-on-the-concrete-review",
-   "image": "https://f4.bcbits.com/img/0047640190_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Stef Chura, “Dancing Alone on the Concrete”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review"
-  },
-  {
-   "date": "2026-10-01T00:00:00Z",
-   "desc": "",
-   "id": "best-metal-the-best-metal-on-bandcamp-september-2026",
-   "image": "https://f4.bcbits.com/img/0047577157_150.jpg",
-   "tags": "Best Metal",
-   "title": "The Best Metal on Bandcamp, September 2026",
-   "url": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-september-2026"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-13T04:34:37Z"
+ "updatedAt": "2026-10-13T14:18:42Z"
 }

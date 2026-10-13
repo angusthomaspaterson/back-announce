@@ -3,6 +3,16 @@
  "id": "days-like-nights",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2417491206-eelke-kleijn-days-like-nights-465-stereo.mp3",
+   "date": "2026-10-12T12:00:11Z",
+   "desc": "DAYS like NIGHTS: Web: https://www.dayslikenights.com Instagram: https://www.instagram.com/dayslikenights Facebook: https://www.facebook.com/dayslikenights Subscribe to the podcast RSS: feed: https://feeds.soundcloud.com/users/soundcloud:users:1525250/sounds.rss . 01. Kasper Koman - Organist [Anjunadeep] 02. Guy J - Rise [Global Underground] 03. Mariano Mellino - Mong Kok [Mango Alley] 04. Cirque du Soleil - Temperatio (Hicky & Kalo Remix) [Frooogs] 05. Forty Cats - Therapy [Meanwhile] 06. Mariano Favre - The Mad King 07. Ruben Karapetyan - The Way (Kamilo Sanclemente Remix) [Clubsonica] 08. …",
+   "duration": "01:00:00",
+   "id": "tag:soundcloud-2010:tracks-2417491206",
+   "image": "https://i1.sndcdn.com/artworks-xGJhb2uvZQO4kUGW-QgmG6w-t3000x3000.jpg",
+   "title": "DAYS like NIGHTS 465 - Stereo Montreal, Part 3",
+   "url": "https://soundcloud.com/eelke-kleijn/days-like-nights-465-stereo"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2413359828-eelke-kleijn-days-like-nights-464-stereo.mp3",
    "date": "2026-10-05T12:00:10Z",
    "desc": "DAYS like NIGHTS: Web: https://www.dayslikenights.com Instagram: https://www.instagram.com/dayslikenights Facebook: https://www.facebook.com/dayslikenights Subscribe to the podcast RSS: feed: https://feeds.soundcloud.com/users/soundcloud:users:1525250/sounds.rss . 01. Mike Rish - Patenz [Ugenius] 02. Murat Uncuoglu - Dairy [Sum Over Histories] 03. Anton Make - Soul Collector [Purrfection] 04. Valdovinos - Good Times [TRYBESof] 05. Galestian - Tell Me (Ezequiel Arias Space Mix) [Iconyc] 06. Eelke Kleijn - The Voices [Toolroom] 07. Ruben Karapetyan - 1982 (Matthew Sona Remix) [Clubsonica] 08. Z…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-opxtIn16kvKkiydh-pmnEMA-t3000x3000.jpg",
    "title": "DAYS like NIGHTS 441 - Thuishaven 10 HRS, Part 5",
    "url": "https://soundcloud.com/eelke-kleijn/days-like-nights-441"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2305864844-eelke-kleijn-days-like-nights-440.mp3",
-   "date": "2026-04-20T12:00:09Z",
-   "desc": "DAYS like NIGHTS: Web: https://www.dayslikenights.com Instagram: https://www.instagram.com/dayslikenights Facebook: https://www.facebook.com/dayslikenights Subscribe to the podcast RSS: feed: https://feeds.soundcloud.com/users/soundcloud:users:1525250/sounds.rss . 01. Hot Since 82, Avision - In The Air [Knee Deep In Sound] 02. Lane 8 - The Remedy [This Never Happened] 03. Pôngo - Trap [Obscura] 04. BLOND:ISH, Darco, Broken Hill - GOAT [Abracadabra] 05. Sabb, Forrest - One Of Us (Dennis Ferrer Remix) [Moon Harbour] 06. Dosem - Levitize [Anjunadeep] 07. John Summit - Crystallized (John Summit P…",
-   "duration": "01:00:00",
-   "id": "tag:soundcloud-2010:tracks-2305864844",
-   "image": "https://i1.sndcdn.com/artworks-SRV8ackssw9DUbhx-tyWRYA-t3000x3000.jpg",
-   "title": "DAYS like NIGHTS 440 - Thuishaven 10HRS, Part 4",
-   "url": "https://soundcloud.com/eelke-kleijn/days-like-nights-440"
   }
  ],
  "kind": "rss",
  "name": "Eelke Kleijn: DAYS like NIGHTS Radio",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T14:18:42Z"
 }

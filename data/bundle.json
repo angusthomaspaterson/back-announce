@@ -264,6 +264,16 @@
    "id": "all-songs-considered",
    "items": [
     {
+     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/9a4bd3e5-6024-4ef2-9856-f1573adbeb3c/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=9a4bd3e5-6024-4ef2-9856-f1573adbeb3c&feed=uwsqics_&t=podcast&e=nx-s1-5996649&p=g-s1-111189&d=3066&size=98132741",
+     "date": "2026-10-13T09:00:00Z",
+     "desc": "Who’s the Mariah Carey of Halloween? Labels and artists are trying to capitalize on spooky season, but these are the songs that belong in the creepy canon, from the truly terrifying to simply seasonal and nostalgic. Note: An earlier version of this episode appeared on All Songs Considered in 2025. Tell us what you think with a review on Apple or Spotify wherever you listen to podcasts. Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.org Featured artists and songs: Phoebe Bridgers: “Killer” from ‘Stranger in the Alps’ Fever Ray: “If I Had A Heart,” from ‘F…",
+     "duration": "3066",
+     "id": "b5adb64e-2f95-4e30-bf7a-50fecb4b1691",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fde%2F830c750541b68709e1abe0ade585%2F3d4a1477-d4ec-4e85-b831-9d40c704e4d3.jpg",
+     "title": "A new canon of Halloween music",
+     "url": "https://www.npr.org/2026/10/13/nx-s1-5996649/a-new-canon-of-halloween-music"
+    },
+    {
      "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/35ded002-b5ee-4c0b-aea6-42f6f3636b09/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=35ded002-b5ee-4c0b-aea6-42f6f3636b09&feed=uwsqics_&t=podcast&e=nx-s1-5991943&p=g-s1-111189&d=2487&size=79614643",
      "date": "2026-10-06T09:00:00Z",
      "desc": "A super deluxe box set of The Beatles' legendary 1965 album Rubber Soul has just been released with brand new mixes, demos and outtakes that show The Beatles breaking up with the past, their fans and everything people knew and loved about the band. In this conversation with All Songs Considered host Robin Hilton, Giles Martin, the producer behind the new mixes and son of late Beatles producer George Martin, talks about why Rubber Soul was such a pivotal album for the band, how the music was changing, and why it sounds “reasonably bleak.” Martin also explains how the AI tools he used to update…",
@@ -452,21 +462,11 @@
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2Fec%2F2fffa2894a369e75700310f846a0%2F8aa8688c-e482-413b-9b6e-60699a09287f.png",
      "title": "Wet Leg, Vince Staples, Radiohead’s Ed O’Brien",
      "url": "https://www.npr.org/2026/06/02/nx-s1-5843307/wet-leg-vince-staples-radioheads-ed-obrien"
-    },
-    {
-     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/da5a55fe-1d65-451b-8554-782478b8e789/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=da5a55fe-1d65-451b-8554-782478b8e789&feed=uwsqics_&t=podcast&e=nx-s1-5833935&p=g-s1-111189&d=3858&size=123457725",
-     "date": "2026-05-26T07:00:00Z",
-     "desc": "We weigh the options and attempt to pick the one song that best captures the Millennial generation's experience, from the dizzying highs of the dot-com boom, when anything seemed possible, to the post-9-11 bust, the hope of the Obama years, and prolonged period of generational disillusionment. NPR Music millennials Hazel Cills and Sheldon Pearce join host Robin Hilton. A good review helps! So, leave us one on Apple , Spotify , or wherever you listen to podcasts. And tell a friend to listen! Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.org See pcm.adswi…",
-     "duration": "3858",
-     "id": "0556a8f8-9c71-479d-808c-8032ffb46a2e",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F43%2Ff9203ddf4d408d748062debb8814%2F477d04de-c96e-4020-a9c3-a62141c2552c.png",
-     "title": "What’s the defining Millennial song?",
-     "url": "https://www.npr.org/2026/05/26/nx-s1-5833935/whats-the-defining-millennial-song"
     }
    ],
    "kind": "rss",
    "name": "NPR: All Songs Considered",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-13T14:18:42Z"
   },
   "anjunadeep-edition": {
    "home": "https://www.mixcloud.com/anjunadeep/",
@@ -991,6 +991,16 @@
    "id": "balearic-breakfast",
    "items": [
     {
+     "date": "2026-10-13T11:38:16Z",
+     "desc": "",
+     "duration": "7480",
+     "id": "-colleencosmomurphy-colleen-cosmo-murphys-balearic-breakfast-20261013-085955-",
+     "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/b/c/5/6623-9e82-454d-accc-ee3f2f11dde2",
+     "tags": "Yacht rock, Balearic, Soulful house, Broken beat",
+     "title": "Colleen 'Cosmo' Murphy's Balearic Breakfast 13.10.26",
+     "url": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261013-085955/"
+    },
+    {
      "date": "2026-10-06T12:05:24Z",
      "desc": "",
      "duration": "8375",
@@ -1229,31 +1239,39 @@
      "tags": "Balearic, Nu-disco, Soulful house",
      "title": "Colleen 'Cosmo' Murphy's Balearic Breakfast 21.4.26",
      "url": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20260421-090009/"
-    },
-    {
-     "date": "2026-04-14T11:33:20Z",
-     "desc": "",
-     "duration": "7240",
-     "id": "-colleencosmomurphy-colleen-cosmo-murphys-balearic-breakfast-20260414-085957-",
-     "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/9/5/2/bc6a-706d-41f7-953c-80958a9167af",
-     "tags": "Balearic, Deep house, Nu-disco",
-     "title": "Colleen 'Cosmo' Murphy's Balearic Breakfast 14.4.26",
-     "url": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20260414-085957/"
     }
    ],
    "kind": "mixcloud",
    "name": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-13T14:18:42Z"
   },
   "bandcamp-daily": {
    "home": "https://daily.bandcamp.com/",
    "id": "bandcamp-daily",
    "items": [
     {
+     "date": "2026-10-13T00:00:00Z",
+     "desc": "Here's what the darkwave duo is listening to on Bandcamp right now.",
+     "id": "big-ups-boy-harsher-big-ups",
+     "image": "https://f4.bcbits.com/img/0047808925_180",
+     "tags": "Big Ups",
+     "title": "Boy Harsher Pick Their Bandcamp Favorites",
+     "url": "https://daily.bandcamp.com/big-ups/boy-harsher-big-ups"
+    },
+    {
+     "date": "2026-10-13T00:00:00Z",
+     "desc": "",
+     "id": "album-of-the-day-marina-herlop-dja-dja-review",
+     "image": "https://f4.bcbits.com/img/0047877258_2.jpg",
+     "tags": "Album Of The Day",
+     "title": "Marina Herlop, “Dja Dja”",
+     "url": "https://daily.bandcamp.com/album-of-the-day/marina-herlop-dja-dja-review"
+    },
+    {
      "date": "2026-10-12T00:00:00Z",
-     "desc": "Our guide to the month’s crucial country LPs.",
+     "desc": "",
      "id": "best-country-the-best-country-music-on-bandcamp-september-2026",
-     "image": "https://f4.bcbits.com/img/0047928486_180",
+     "image": "https://f4.bcbits.com/img/0047928486_150.jpg",
      "tags": "Best Country",
      "title": "The Best Country Music on Bandcamp, September 2026",
      "url": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-september-2026"
@@ -1288,20 +1306,20 @@
     {
      "date": "2026-10-09T00:00:00Z",
      "desc": "",
-     "id": "essential-releases-essential-releases-october-9-2026",
-     "image": "https://f4.bcbits.com/img/0047856632_150.jpg",
-     "tags": "Essential Releases",
-     "title": "Essential Releases, October 9, 2026",
-     "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-9-2026"
-    },
-    {
-     "date": "2026-10-09T00:00:00Z",
-     "desc": "",
      "id": "best-contemporary-classical-the-best-contemporary-classical-music-on-bandcamp-september-2026",
      "image": "https://f4.bcbits.com/img/0047811933_150.jpg",
      "tags": "Best Contemporary Classical",
      "title": "The Best Contemporary Classical Music on Bandcamp, September 2026",
      "url": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-september-2026"
+    },
+    {
+     "date": "2026-10-09T00:00:00Z",
+     "desc": "",
+     "id": "essential-releases-essential-releases-october-9-2026",
+     "image": "https://f4.bcbits.com/img/0047856632_150.jpg",
+     "tags": "Essential Releases",
+     "title": "Essential Releases, October 9, 2026",
+     "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-9-2026"
     },
     {
      "date": "2026-10-09T00:00:00Z",
@@ -1455,29 +1473,11 @@
      "tags": "Hotlist",
      "title": "The Hotlist, Fall 2026",
      "url": "https://daily.bandcamp.com/hotlist/the-hotlist-fall-2026"
-    },
-    {
-     "date": "2026-10-02T00:00:00Z",
-     "desc": "",
-     "id": "album-of-the-day-stef-chura-dancing-alone-on-the-concrete-review",
-     "image": "https://f4.bcbits.com/img/0047640190_2.jpg",
-     "tags": "Album Of The Day",
-     "title": "Stef Chura, “Dancing Alone on the Concrete”",
-     "url": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review"
-    },
-    {
-     "date": "2026-10-01T00:00:00Z",
-     "desc": "",
-     "id": "best-metal-the-best-metal-on-bandcamp-september-2026",
-     "image": "https://f4.bcbits.com/img/0047577157_150.jpg",
-     "tags": "Best Metal",
-     "title": "The Best Metal on Bandcamp, September 2026",
-     "url": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-september-2026"
     }
    ],
    "kind": "manual",
    "name": "Bandcamp Daily",
-   "updatedAt": "2026-10-13T04:34:37Z"
+   "updatedAt": "2026-10-13T14:18:42Z"
   },
   "bandcamp-radio": {
    "home": "https://bandcamp.com/radio",
@@ -3286,6 +3286,16 @@
    "id": "days-like-nights",
    "items": [
     {
+     "audio": "https://feeds.soundcloud.com/stream/2417491206-eelke-kleijn-days-like-nights-465-stereo.mp3",
+     "date": "2026-10-12T12:00:11Z",
+     "desc": "DAYS like NIGHTS: Web: https://www.dayslikenights.com Instagram: https://www.instagram.com/dayslikenights Facebook: https://www.facebook.com/dayslikenights Subscribe to the podcast RSS: feed: https://feeds.soundcloud.com/users/soundcloud:users:1525250/sounds.rss . 01. Kasper Koman - Organist [Anjunadeep] 02. Guy J - Rise [Global Underground] 03. Mariano Mellino - Mong Kok [Mango Alley] 04. Cirque du Soleil - Temperatio (Hicky & Kalo Remix) [Frooogs] 05. Forty Cats - Therapy [Meanwhile] 06. Mariano Favre - The Mad King 07. Ruben Karapetyan - The Way (Kamilo Sanclemente Remix) [Clubsonica] 08. …",
+     "duration": "01:00:00",
+     "id": "tag:soundcloud-2010:tracks-2417491206",
+     "image": "https://i1.sndcdn.com/artworks-xGJhb2uvZQO4kUGW-QgmG6w-t3000x3000.jpg",
+     "title": "DAYS like NIGHTS 465 - Stereo Montreal, Part 3",
+     "url": "https://soundcloud.com/eelke-kleijn/days-like-nights-465-stereo"
+    },
+    {
      "audio": "https://feeds.soundcloud.com/stream/2413359828-eelke-kleijn-days-like-nights-464-stereo.mp3",
      "date": "2026-10-05T12:00:10Z",
      "desc": "DAYS like NIGHTS: Web: https://www.dayslikenights.com Instagram: https://www.instagram.com/dayslikenights Facebook: https://www.facebook.com/dayslikenights Subscribe to the podcast RSS: feed: https://feeds.soundcloud.com/users/soundcloud:users:1525250/sounds.rss . 01. Mike Rish - Patenz [Ugenius] 02. Murat Uncuoglu - Dairy [Sum Over Histories] 03. Anton Make - Soul Collector [Purrfection] 04. Valdovinos - Good Times [TRYBESof] 05. Galestian - Tell Me (Ezequiel Arias Space Mix) [Iconyc] 06. Eelke Kleijn - The Voices [Toolroom] 07. Ruben Karapetyan - 1982 (Matthew Sona Remix) [Clubsonica] 08. Z…",
@@ -3524,21 +3534,11 @@
      "image": "https://i1.sndcdn.com/artworks-opxtIn16kvKkiydh-pmnEMA-t3000x3000.jpg",
      "title": "DAYS like NIGHTS 441 - Thuishaven 10 HRS, Part 5",
      "url": "https://soundcloud.com/eelke-kleijn/days-like-nights-441"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2305864844-eelke-kleijn-days-like-nights-440.mp3",
-     "date": "2026-04-20T12:00:09Z",
-     "desc": "DAYS like NIGHTS: Web: https://www.dayslikenights.com Instagram: https://www.instagram.com/dayslikenights Facebook: https://www.facebook.com/dayslikenights Subscribe to the podcast RSS: feed: https://feeds.soundcloud.com/users/soundcloud:users:1525250/sounds.rss . 01. Hot Since 82, Avision - In The Air [Knee Deep In Sound] 02. Lane 8 - The Remedy [This Never Happened] 03. Pôngo - Trap [Obscura] 04. BLOND:ISH, Darco, Broken Hill - GOAT [Abracadabra] 05. Sabb, Forrest - One Of Us (Dennis Ferrer Remix) [Moon Harbour] 06. Dosem - Levitize [Anjunadeep] 07. John Summit - Crystallized (John Summit P…",
-     "duration": "01:00:00",
-     "id": "tag:soundcloud-2010:tracks-2305864844",
-     "image": "https://i1.sndcdn.com/artworks-SRV8ackssw9DUbhx-tyWRYA-t3000x3000.jpg",
-     "title": "DAYS like NIGHTS 440 - Thuishaven 10HRS, Part 4",
-     "url": "https://soundcloud.com/eelke-kleijn/days-like-nights-440"
     }
    ],
    "kind": "rss",
    "name": "Eelke Kleijn: DAYS like NIGHTS Radio",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-13T14:18:42Z"
   },
   "dekmantel-podcast": {
    "home": "https://soundcloud.com/dkmntl",
@@ -8380,6 +8380,115 @@
    "kind": "rss",
    "name": "Indiecast",
    "updatedAt": "2026-10-13T04:20:38Z"
+  },
+  "inverted-audio": {
+   "home": "https://inverted-audio.com/",
+   "id": "inverted-audio",
+   "items": [
+    {
+     "audio": null,
+     "date": "2026-10-05T11:00:02Z",
+     "desc": "An uncovered early-1990s transmission from Gerald Donald aka Heinrich Mueller – the producer behind Drexciya, Arpanet, Dopplereffekt and a constellation of further aliases – surfaces under Continue Reading The post Heinrich Mueller’s lost Intellitronic transmissions surface on Rubadub appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-95020",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Heinrich Mueller’s lost Intellitronic transmissions surface on Rubadub",
+     "url": "https://inverted-audio.com/intellitronic-pixel/"
+    },
+    {
+     "audio": null,
+     "date": "2026-09-23T12:09:41Z",
+     "desc": "DJ Antepop plays three hours of ambient, deep house and dub techno on Brick Lane, all taken from the racks of the Inverted Audio Record Store. Continue Reading The post Inverted Audio with DJ Antepop x Radio Café 1001 appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-95006",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Inverted Audio with DJ Antepop x Radio Café 1001",
+     "url": "https://inverted-audio.com/radio-cafe-1001/"
+    },
+    {
+     "audio": null,
+     "date": "2026-09-23T09:24:51Z",
+     "desc": "German composer Ulf Schütte explores the limitless possibilities of the modular synth through a number of projects (G. Steenkiste & U. Schütte, Phantom Horse, Datashock, to Continue Reading The post Premiere: Soft Blizzards – Froschprotokoll appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-94998",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Premiere: Soft Blizzards – Froschprotokoll",
+     "url": "https://inverted-audio.com/premiere-soft-blizzards-froschprotokoll/"
+    },
+    {
+     "audio": null,
+     "date": "2026-09-16T07:21:51Z",
+     "desc": "The electro-ambient trio Yayoba aptly describe their sound as “like a beam of light passing through translucent glass walls in a labyrinth.” Their debut ‘A Maze Continue Reading The post Premiere: Yayoba – Transparent Waves appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-94978",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Premiere: Yayoba – Transparent Waves",
+     "url": "https://inverted-audio.com/yayoba-transparent-waves/"
+    },
+    {
+     "audio": null,
+     "date": "2026-09-15T16:46:58Z",
+     "desc": "Manchester-based producer GuestWorlds returns with Rare Earth, a deeply immersive second release following his self-released 2023 debut EP. Self-described as a “dubbed-out ambient fantasia”, the album Continue Reading The post Premiere: GuestWorlds – Canopy Interceptions appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-94964",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Premiere: GuestWorlds – Canopy Interceptions",
+     "url": "https://inverted-audio.com/premiere-guestworlds-canopy-interceptions/"
+    },
+    {
+     "audio": null,
+     "date": "2026-09-11T14:41:15Z",
+     "desc": "Across its decade and a half existence, California’s 100% Silk has specialised in a potent brand of liquid house and after hours techno to prime the Continue Reading The post Premiere: Cport Cistema – pushpull appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-94946",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Premiere: Cport Cistema – pushpull",
+     "url": "https://inverted-audio.com/premiere-cport-cistema-pushpull/"
+    },
+    {
+     "audio": null,
+     "date": "2026-09-09T16:43:32Z",
+     "desc": "When cv313 — the alias of Stephen Hitchell, one of dub techno’s most revered voices – agrees to contribute two remixes to only a producer’s second Continue Reading The post Premiere: Kelovolt – Diese Fragile Praesenz (Voltmar Version) appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-94963",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Premiere: Kelovolt – Diese Fragile Praesenz (Voltmar Version)",
+     "url": "https://inverted-audio.com/premiere-kelovolt-diese-fragile-praesenz-voltmar-version/"
+    },
+    {
+     "audio": null,
+     "date": "2026-09-01T12:03:22Z",
+     "desc": "Stefan Kozalla’s Adolf Noise project has always operated in a parallel universe to his better-known DJ Koze alias – more absurdist, more oblique, and considerably stranger. Continue Reading The post DJ Koze’s Wo Die Rammelwolle Fliegt gets its first reissue on Pampa Records appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-94889",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "DJ Koze’s Wo Die Rammelwolle Fliegt gets its first reissue on Pampa Records",
+     "url": "https://inverted-audio.com/adolf-noise-wo-die-rammelwolle-fliegt-pampa-records/"
+    },
+    {
+     "audio": null,
+     "date": "2026-08-31T09:27:21Z",
+     "desc": "Florida composer Tristan Whitehill’s body of work encompasses music, digital art, music videos, and sound design for video games and podcasts. Under the Euglossine moniker, the Continue Reading The post Premiere: Euglossine – chebyshev poly appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-94868",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Premiere: Euglossine – chebyshev poly",
+     "url": "https://inverted-audio.com/premiere-euglossine-chebyshev-poly/"
+    },
+    {
+     "audio": null,
+     "date": "2026-08-26T14:02:17Z",
+     "desc": "Bristol producer Henry Murray returns to Scissor and Thread as fka boursin with From Space Between – his second release for the label following his 2025 Continue Reading The post fka boursin returns to Scissor and Thread with From Space Between appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-94858",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "fka boursin returns to Scissor and Thread with From Space Between",
+     "url": "https://inverted-audio.com/fka-boursin-from-space-between/"
+    }
+   ],
+   "kind": "rss",
+   "name": "Inverted Audio",
+   "updatedAt": "2026-10-13T14:18:42Z"
   },
   "inverted-audio-mix": {
    "home": "https://www.mixcloud.com/inverted_audio/",
@@ -17180,6 +17289,16 @@
    "id": "pitchfork-review",
    "items": [
     {
+     "audio": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE1326927988.mp3",
+     "date": "2026-10-13T09:00:00Z",
+     "desc": "Listen and subscribe to One More Question with Zach Baron here: ⁠⁠⁠⁠⁠⁠swap.fm/l/gq-omq-feeddrop In this episode of GQ’s One More Question, Zach Baron sits down with Ethan Hawke to discuss his starring role in Sterlin Harjo’s FX series The Lowdown. Hawke reflects candidly on navigating fame from his days as a 1990s generational icon in films like Reality Bites and Before Sunrise to managing a relentless, multi-decade creative output. Facing the reality of his own career trajectory, Hawke offers a grounded perspective on the intersection of his personal life, artistic drive, and the pursuit of …",
+     "duration": "3639",
+     "id": "c7f3a958-c6a1-11f1-bc8d-f340b791d3a8",
+     "image": "https://megaphone.imgix.net/podcasts/c7f3a958-c6a1-11f1-bc8d-f340b791d3a8/image/782ef114b7237a6e7350b274ae4d41a3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+     "title": "From One More Question: Ethan Hawke",
+     "url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE1326927988.mp3"
+    },
+    {
      "audio": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE5006257142.mp3",
      "date": "2026-10-06T09:00:00Z",
      "desc": "Listen and subscribe to One More Question with Zach Baron here: ⁠⁠⁠⁠⁠swap.fm/l/gq-omq-feeddrop In this episode of GQ’s One More Question, Zach Baron sits down at Artists Equity headquarters with director, actor, and producer Ben Affleck to discuss his film Animals. Affleck offers an unfiltered look at navigating public scrutiny, balancing parenthood with a demanding Hollywood schedule, and his efforts to reshape industry compensation through his production venture with Matt Damon. Addressing the gap between public perception and his internal reality, Affleck candidly reflects on his reputatio…",
@@ -17418,21 +17537,11 @@
      "image": "https://megaphone.imgix.net/podcasts/0b51ff00-73ec-11f1-9eaf-27a923128af5/image/282392873f4081433dc82531130892d5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
      "title": "Replay: Beyoncé's Renaissance",
      "url": "https://play.prx.org/listen?ge=aa1f0ff6-4dac-11ee-8b19-c3b0592b9d55&uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F5835%2Fthe-pitchfork-review"
-    },
-    {
-     "audio": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE4254241600.mp3",
-     "date": "2023-08-10T09:00:00Z",
-     "desc": "Jeremy D. Larson, Alphonse Pierre, and Ryan Dombal break down the many reasons why the superstar rapper’s long-awaited new album is such a disappointment. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-     "duration": "2090",
-     "id": "c7b4d704-2029-11ee-a4e2-bf47859f5b7c",
-     "image": "https://megaphone.imgix.net/podcasts/0b9d2ebc-73ec-11f1-9eaf-f3e0a5249209/image/282392873f4081433dc82531130892d5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-     "title": "The Hollow Spectacle of Travis Scott’s Utopia",
-     "url": "https://play.prx.org/listen?ge=c7b4d704-2029-11ee-a4e2-bf47859f5b7c&uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F5835%2Fthe-pitchfork-review"
     }
    ],
    "kind": "rss",
    "name": "The Pitchfork Review",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-13T14:18:42Z"
   },
   "pjenne": {
    "home": "https://soundcloud.com/pjenne",
@@ -19300,56 +19409,6 @@
    "id": "refuge-worldwide",
    "items": [
     {
-     "audio": "https://feeds.soundcloud.com/stream/2417592720-refugeworldwide-live-al-festival-2026-syrian-cassette-archive-al.mp3",
-     "date": "2026-10-12T14:14:39Z",
-     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
-     "duration": "01:30:06",
-     "id": "tag:soundcloud-2010:tracks-2417592720",
-     "image": "https://i1.sndcdn.com/artworks-TyF9Bp8czpJhOPf4-Ulxs5w-t3000x3000.jpg",
-     "title": "Live @ AL.Festival 2026 - Syrian Cassette Archive & AL.Berlin - 10 Oct 2026",
-     "url": "https://soundcloud.com/refugeworldwide/live-al-festival-2026-syrian-cassette-archive-al"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2417567541-refugeworldwide-live-al-festival-2026-amuleto-manuela-al.mp3",
-     "date": "2026-10-12T13:59:33Z",
-     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
-     "duration": "01:41:23",
-     "id": "tag:soundcloud-2010:tracks-2417567541",
-     "image": "https://i1.sndcdn.com/artworks-j9v2zmM8VGOOHCmU-ZiKdEw-t3000x3000.jpg",
-     "title": "Live @ AL.Festival 2026 - Amuleto Manuela & AL.Berlin - 10 Oct 2026",
-     "url": "https://soundcloud.com/refugeworldwide/live-al-festival-2026-amuleto-manuela-al"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2417460879-refugeworldwide-nova-terra-lounge-ftl-collective-10-oct-2026.mp3",
-     "date": "2026-10-12T11:00:29Z",
-     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
-     "duration": "00:59:45",
-     "id": "tag:soundcloud-2010:tracks-2417460879",
-     "image": "https://i1.sndcdn.com/artworks-z0XrsragqSysmy8P-qtabnw-t3000x3000.jpg",
-     "title": "Nova Terra Lounge - FTL Collective  - 10 Oct 2026",
-     "url": "https://soundcloud.com/refugeworldwide/nova-terra-lounge-ftl-collective-10-oct-2026"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2417450301-refugeworldwide-vibe-operator-fabio-wolkenstein-10-oct-2026.mp3",
-     "date": "2026-10-12T10:37:18Z",
-     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
-     "duration": "00:57:40",
-     "id": "tag:soundcloud-2010:tracks-2417450301",
-     "image": "https://i1.sndcdn.com/artworks-EW7QLYrWDQhSZAUh-9w0Ukg-t3000x3000.jpg",
-     "title": "Vibe Operator - Fabio Wolkenstein - 10 Oct 2026",
-     "url": "https://soundcloud.com/refugeworldwide/vibe-operator-fabio-wolkenstein-10-oct-2026"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2417420505-refugeworldwide-the-spiral-times-jakhi-isaiah-bb-09-oct-2026.mp3",
-     "date": "2026-10-12T09:17:20Z",
-     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: https://www.gofundme.com/f/help-refuge-worldwide-community-radio",
-     "duration": "01:59:59",
-     "id": "tag:soundcloud-2010:tracks-2417420505",
-     "image": "https://i1.sndcdn.com/artworks-Pp8MP5YI9OZEgL2m-zz6JRQ-t3000x3000.jpg",
-     "title": "The Spiral Times: Jakhi Isaiah - BB - 09 Oct 2026",
-     "url": "https://soundcloud.com/refugeworldwide/the-spiral-times-jakhi-isaiah-bb-09-oct-2026"
-    },
-    {
      "audio": "https://feeds.soundcloud.com/stream/2397237405-refugeworldwide-call-and-response-old-child-08.mp3",
      "date": "2026-09-09T10:41:52Z",
      "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: https://www.gofundme.com/f/help-refuge-worldwide-community-radio",
@@ -19548,11 +19607,61 @@
      "image": "https://i1.sndcdn.com/artworks-0iVR2cb1D0RTfqXy-7ixdhw-t3000x3000.jpg",
      "title": "Sound You Need x Sony Music @ KDK 2026 - MALENGO - 23 May 2026",
      "url": "https://soundcloud.com/refugeworldwide/sound-you-need-x-sony-music-kdk-2026-malengo-22-may-2025-2"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2335394489-refugeworldwide-synxsonyxkdkxmikenasa.mp3",
+     "date": "2026-06-17T09:21:49Z",
+     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
+     "duration": "00:20:44",
+     "id": "tag:soundcloud-2010:tracks-2335394489",
+     "image": "https://i1.sndcdn.com/artworks-eGtKtDB1uJ5gfz1x-oS9Aig-t3000x3000.jpg",
+     "title": "Sound You Need x Sony Music @ KDK 2026 - Mike Nasa - 23 May 2026",
+     "url": "https://soundcloud.com/refugeworldwide/synxsonyxkdkxmikenasa"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2335458359-refugeworldwide-syn-x-sony-kdk-paka-24-may-10.mp3",
+     "date": "2026-06-17T09:21:41Z",
+     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
+     "duration": "00:15:00",
+     "id": "tag:soundcloud-2010:tracks-2335458359",
+     "image": "https://i1.sndcdn.com/artworks-q4VDby1sGbWQIy3p-by0Crg-t3000x3000.jpg",
+     "title": "Sound You Need x Sony Music @ KDK 2026 - CHRIST PAKA - 24 May 2026",
+     "url": "https://soundcloud.com/refugeworldwide/syn-x-sony-kdk-paka-24-may-10"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2335458365-refugeworldwide-syn-x-sony-music-kdk-2026-dipped-in-colors-9.mp3",
+     "date": "2026-06-17T09:21:35Z",
+     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
+     "duration": "01:04:45",
+     "id": "tag:soundcloud-2010:tracks-2335458365",
+     "image": "https://i1.sndcdn.com/artworks-oJUHvY5OzpkrqhzO-tTfVmA-t3000x3000.jpg",
+     "title": "Sound You Need x Sony Music @ KDK 2026 - DIPPED IN COLORS -  24 May 2026",
+     "url": "https://soundcloud.com/refugeworldwide/syn-x-sony-music-kdk-2026-dipped-in-colors-9"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2335458377-refugeworldwide-syn-x-sony-music-kdk-2026-hanaby-24-may-2026-8.mp3",
+     "date": "2026-06-17T09:21:26Z",
+     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
+     "duration": "00:57:50",
+     "id": "tag:soundcloud-2010:tracks-2335458377",
+     "image": "https://i1.sndcdn.com/artworks-9XmjzgSFkgxYxxpO-f3avzQ-t3000x3000.jpg",
+     "title": "Sound You Need x Sony Music @ KDK 2026 - HANABY - 24 May 2026",
+     "url": "https://soundcloud.com/refugeworldwide/syn-x-sony-music-kdk-2026-hanaby-24-may-2026-8"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2335458353-refugeworldwide-syn-x-sony-kdk-2026-kaysanova-24-may-2026-7.mp3",
+     "date": "2026-06-17T09:21:18Z",
+     "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
+     "duration": "00:09:59",
+     "id": "tag:soundcloud-2010:tracks-2335458353",
+     "image": "https://i1.sndcdn.com/artworks-gcYvqWcx8Emc9h3F-Lq01Lw-t3000x3000.jpg",
+     "title": "Sound You Need x Sony Music @ KDK 2026 - KAYSANOVA - 24 May 2026",
+     "url": "https://soundcloud.com/refugeworldwide/syn-x-sony-kdk-2026-kaysanova-24-may-2026-7"
     }
    ],
    "kind": "rss",
    "name": "Refuge Worldwide (selected shows)",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-13T14:18:42Z"
   },
   "resident": {
    "home": "https://podcast.hernancattaneo.com/",
@@ -28108,6 +28217,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-13T00:00:00Z",
+     "desc": "Stream a selection of tracks from releases we listened to during the making of our November 2026 issue The full chart: Alya Al-Sultani/Pat Thomas/Khabat Abas Manara ( Discus ) Bad Waitress In The Hollow ( Stomp ) BETHLEHEM BETHLEHEM ( Constellation ) Arthur Brown Nature ( Prophecy ) Nneka Cummins Finding Gills ( nonclassical ) Glass Triangle 3 x 1 ( Relative Pitch ) Kasatriyan Javanese Art Community & Warsaw Gamelan Group Caraka Handayapati: Wayang From Central Java ( Sacral Grooves/1000Herz ) Kepla Outside Time ( SINK ) Limpe Fuchs Pianostops ( Futura Resistenza ) Ans M Likewing Drift ( Scor…",
+     "duration": null,
+     "id": "https:--www.thewire.co.uk-audio-tracks-office-ambience-513",
+     "image": "https://www.thewire.co.uk/img/contain/613/480/2026/10/13/charts_crop.jpg",
+     "title": "Office Ambience 513",
+     "url": "https://www.thewire.co.uk/audio/tracks/office-ambience-513"
+    },
+    {
+     "audio": null,
      "date": "2026-10-09T00:00:00Z",
      "desc": "Listen to the music we played to Liz Harris aka Grouper during her Invisible Jukebox interview in The Wire 513 Each month in the magazine we play an artist or group a series of tracks which they are asked to comment on – with no prior knowledge of what they are about to hear. In The Wire 513 it is the turn of Liz Harris aka Grouper. Here you can listen to a mix of the tracks our correspondent Leah Kardos played to Harris during the interview, which is published in full in The Wire 513 . To find out what she said about them, subscribers can read the interview in our online magazine library her…",
      "duration": null,
@@ -28345,21 +28464,11 @@
      "image": "https://www.thewire.co.uk/img/contain/613/480/2026/08/13/Wire_Morganne_for_web.jpg",
      "title": "Invisible Jukebox mix: Jennifer Herrema",
      "url": "https://www.thewire.co.uk/about/artists/jennifer-herrema/invisible-jukebox-mix-jennifer-herrema"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-10T00:00:00Z",
-     "desc": "Volume 51 of The Wire 's subscriber only download compilation includes tracks by Willow Swan & Ellis Berwick, Jemima, ST AGNIS, DJ GAWAD & Pierre Pepe, Trigger Object, Ureuk & The Gypsies, and more Take out a print or digital subscription to The Wire to stream and download every edition of Below The Radar",
-     "duration": null,
-     "id": "https:--www.thewire.co.uk-audio-btr-below-the-radar-51",
-     "image": "https://www.thewire.co.uk/img/contain/480/480/2026/08/06/BTR_51.jpg",
-     "title": "Below The Radar  51",
-     "url": "https://www.thewire.co.uk/audio/btr/below-the-radar-51"
     }
    ],
    "kind": "rss",
    "name": "The Wire",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-13T14:18:42Z"
   },
   "time-to-track": {
    "home": "https://soundcloud.com/andrew-wowk",
@@ -30980,82 +31089,82 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-13T08:43:21Z",
+  "lastRun": "2026-10-13T14:18:42Z",
   "sources": {
    "21c-progressive": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-10T06:27:28Z",
     "ok": true
    },
    "all-songs-considered": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 20,
-    "newest": "2026-10-06T09:00:00Z",
+    "newest": "2026-10-13T09:00:00Z",
     "ok": true
    },
    "anjunadeep-edition": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T15:05:50Z",
     "ok": true
    },
    "balance-music": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-13T00:00:00Z",
     "ok": true
    },
    "balearic-breakfast": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
-    "newest": "2026-10-06T12:05:24Z",
+    "newest": "2026-10-13T11:38:16Z",
     "ok": true
    },
    "bandcamp-daily": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
-    "newest": "2026-10-12T00:00:00Z",
+    "newest": "2026-10-13T00:00:00Z",
     "ok": true
    },
    "bandcamp-radio": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 20,
     "newest": "2026-10-12T00:00:00Z",
     "ok": true
    },
    "bbc-introducing-mixtape": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 10,
     "newest": "2026-10-09T11:00:00Z",
     "ok": true
    },
    "butter-sessions": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-12T04:40:12Z",
     "ok": true
    },
    "citr-techno-progressivo": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-01T23:00:00Z",
     "ok": true
    },
    "coldwired": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T05:48:01Z",
     "ok": true
    },
    "crack-magazine": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-09T11:45:03Z",
     "ok": true
    },
    "crack-mix": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-27T12:56:17Z",
     "ok": true
@@ -31067,31 +31176,31 @@
     "ok": true
    },
    "days-like-nights": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
-    "newest": "2026-10-05T12:00:10Z",
+    "newest": "2026-10-12T12:00:11Z",
     "ok": true
    },
    "dekmantel-podcast": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-12T07:58:32Z",
     "ok": true
    },
    "dialekt-radio": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-11T19:00:00Z",
     "ok": true
    },
    "dissect": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-01T09:31:00Z",
     "ok": true
    },
    "dr-packer": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-29T01:22:39Z",
     "ok": true
@@ -31103,13 +31212,13 @@
     "ok": true
    },
    "fbi-midday-mix": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-08-29T19:32:52Z",
     "ok": true
    },
    "fbi-sunset": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-10T09:19:31Z",
     "ok": true
@@ -31121,7 +31230,7 @@
     "ok": true
    },
    "flow-state": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 20,
     "newest": "2026-10-13T07:03:05Z",
     "ok": true
@@ -31133,37 +31242,37 @@
     "ok": true
    },
    "gai-barone-patterns": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-09T04:28:53Z",
     "ok": true
    },
    "gilles-peterson": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-10T16:37:22Z",
     "ok": true
    },
    "gorilla-vs-bear": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-30T11:07:50Z",
     "ok": true
    },
    "group-therapy": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-09T20:10:21Z",
     "ok": true
    },
    "guardian-au-music": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 20,
     "newest": "2026-10-12T07:27:08Z",
     "ok": true
    },
    "hearing-things": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 15,
     "newest": "2026-10-06T14:55:08Z",
     "ok": true
@@ -31175,50 +31284,49 @@
     "ok": true
    },
    "ilian-tape": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-16T08:16:08Z",
     "ok": true
    },
    "in-our-headphones": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T07:00:00Z",
     "ok": true
    },
    "in-sheeps-clothing": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 10,
     "newest": "2026-10-12T17:00:02Z",
     "ok": true
    },
    "indiecast": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-09T08:00:00Z",
     "ok": true
    },
    "inverted-audio": {
-    "at": "2026-10-13T08:43:21Z",
-    "count": 0,
-    "error": "HTTPError: HTTP Error 500: Internal Server Error",
-    "newest": null,
-    "ok": false
+    "at": "2026-10-13T14:18:42Z",
+    "count": 10,
+    "newest": "2026-10-05T11:00:02Z",
+    "ok": true
    },
    "inverted-audio-mix": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-08-20T09:14:23Z",
     "ok": true
    },
    "last-donut": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 15,
     "newest": "2026-10-13T08:00:00Z",
     "ok": true
    },
    "lefto-early-bird": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-11T20:47:54Z",
     "ok": true
@@ -31230,37 +31338,37 @@
     "ok": true
    },
    "love-is-the-message": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T11:15:00Z",
     "ok": true
    },
    "manual-movement": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-14T10:51:00Z",
     "ok": true
    },
    "mixmag-anz": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-13T05:08:28Z",
     "ok": true
    },
    "music-not-diving": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-07T03:00:00Z",
     "ok": true
    },
    "nialler9": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-12T15:18:56Z",
     "ok": true
    },
    "no-skips": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 2,
     "newest": "2026-10-07T05:26:52Z",
     "ok": true
@@ -31272,571 +31380,571 @@
     "ok": true
    },
    "nora-en-pure": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-12T08:00:00Z",
     "ok": true
    },
    "nts-a-colourful-storm": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-11T20:00:00Z",
     "ok": true
    },
    "nts-ad93": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-27T19:00:00Z",
     "ok": true
    },
    "nts-anz": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-24T16:00:00Z",
     "ok": true
    },
    "nts-batu": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-09T22:00:00Z",
     "ok": true
    },
    "nts-ben-sims": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-05T23:00:00Z",
     "ok": true
    },
    "nts-courtesy": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-09T14:00:00Z",
     "ok": true
    },
    "nts-daniel-avery": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-08-18T21:00:00Z",
     "ok": true
    },
    "nts-david-holmes": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-28T12:00:00Z",
     "ok": true
    },
    "nts-deep-medi": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-25T21:00:00Z",
     "ok": true
    },
    "nts-dj-persuasion": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-24T20:00:00Z",
     "ok": true
    },
    "nts-donna-leake": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-28T14:00:00Z",
     "ok": true
    },
    "nts-early-bird-pam": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-08T06:00:00Z",
     "ok": true
    },
    "nts-edna-martinez": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-06T18:00:00Z",
     "ok": true
    },
    "nts-field-work": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-10T19:00:00Z",
     "ok": true
    },
    "nts-floating-points": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-21T12:00:00Z",
     "ok": true
    },
    "nts-gigi-fm": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-07T21:00:00Z",
     "ok": true
    },
    "nts-great-southern-lands": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-15T11:00:00Z",
     "ok": true
    },
    "nts-hd": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-08-31T18:00:00Z",
     "ok": true
    },
    "nts-hooversound": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-23T20:00:00Z",
     "ok": true
    },
    "nts-if-music": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-27T12:00:00Z",
     "ok": true
    },
    "nts-in-focus": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-09T10:00:00Z",
     "ok": true
    },
    "nts-kit-grill": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-04T15:00:00Z",
     "ok": true
    },
    "nts-laurel-halo": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-22T15:00:00Z",
     "ok": true
    },
    "nts-loraine-james": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-29T13:00:00Z",
     "ok": true
    },
    "nts-lukid": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-22T11:00:00Z",
     "ok": true
    },
    "nts-moxie": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-30T14:00:00Z",
     "ok": true
    },
    "nts-nabihah-iqbal": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-26T13:00:00Z",
     "ok": true
    },
    "nts-nia-archives": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-09T16:00:00Z",
     "ok": true
    },
    "nts-ok-williams": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-01T16:00:00Z",
     "ok": true
    },
    "nts-optimo": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-29T16:00:00Z",
     "ok": true
    },
    "nts-pender-street-steppers": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-15T17:00:00Z",
     "ok": true
    },
    "nts-rhythm-section": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-30T13:00:00Z",
     "ok": true
    },
    "nts-ross-allen": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-03T11:00:00Z",
     "ok": true
    },
    "nts-rupture": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-15T19:00:00Z",
     "ok": true
    },
    "nts-shanti-celeste": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-10-08T12:00:00Z",
     "ok": true
    },
    "nts-skee-mask": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-11T15:00:00Z",
     "ok": true
    },
    "nts-sofie-birch": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-08-24T17:00:00Z",
     "ok": true
    },
    "nts-tim-reaper": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-23T17:00:00Z",
     "ok": true
    },
    "nts-touching-bass": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-16T17:00:00Z",
     "ok": true
    },
    "nts-upsammy": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-03T12:00:00Z",
     "ok": true
    },
    "nts-yu-su": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 12,
     "newest": "2026-09-15T16:00:00Z",
     "ok": true
    },
    "odd-one-out": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-07T17:00:00Z",
     "ok": true
    },
    "phonica-mix": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-01T11:10:55Z",
     "ok": true
    },
    "pitchfork-bna": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-13T05:54:08Z",
     "ok": true
    },
    "pitchfork-review": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
-    "newest": "2026-10-06T09:00:00Z",
+    "newest": "2026-10-13T09:00:00Z",
     "ok": true
    },
    "pjenne": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 21,
     "newest": "2026-07-28T01:31:15Z",
     "ok": true
    },
    "popcast": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 2,
     "newest": "2026-10-09T09:00:00Z",
     "ok": true
    },
    "pow-mag": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 20,
     "newest": "2026-10-12T16:34:44Z",
     "ok": true
    },
    "questlove-show": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-13T04:00:00Z",
     "ok": true
    },
    "quietus-radio": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-23T21:21:49Z",
     "ok": true
    },
    "ra-exchange": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-30T12:03:23Z",
     "ok": true
    },
    "ra-podcast": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-11T22:00:33Z",
     "ok": true
    },
    "radio-cazimi": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T05:15:43Z",
     "ok": true
    },
    "ransom-note": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 10,
     "newest": "2026-10-12T10:20:51Z",
     "ok": true
    },
    "refuge-worldwide": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
-    "newest": "2026-10-12T14:14:39Z",
+    "newest": "2026-09-09T10:41:52Z",
     "ok": true
    },
    "resident": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-11T06:00:00Z",
     "ok": true
    },
    "rinse-bryan-gee": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-23T18:00:00Z",
     "ok": true
    },
    "rinse-crucast": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-03T20:00:00Z",
     "ok": true
    },
    "rinse-dametalmessiah": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 11,
     "newest": "2026-10-11T20:00:00Z",
     "ok": true
    },
    "rinse-dj-flight": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-09T18:00:00Z",
     "ok": true
    },
    "rinse-dj-hype": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-24T18:00:00Z",
     "ok": true
    },
    "rinse-eclecticist": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-07T12:00:00Z",
     "ok": true
    },
    "rinse-ed-gillett": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 15,
     "newest": "2026-09-21T12:00:00Z",
     "ok": true
    },
    "rinse-emerald": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 11,
     "newest": "2026-09-12T18:00:00Z",
     "ok": true
    },
    "rinse-esk": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-30T09:00:00Z",
     "ok": true
    },
    "rinse-fabio-grooverider": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-16T18:00:00Z",
     "ok": true
    },
    "rinse-fracture": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-22T21:00:00Z",
     "ok": true
    },
    "rinse-hi-fidelity": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T11:00:00Z",
     "ok": true
    },
    "rinse-hodge": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 24,
     "newest": "2026-09-01T20:00:00Z",
     "ok": true
    },
    "rinse-i-jordan": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-25T21:00:00Z",
     "ok": true
    },
    "rinse-kara": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 5,
     "newest": "2026-09-19T20:00:00Z",
     "ok": true
    },
    "rinse-klute": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-28T22:00:00Z",
     "ok": true
    },
    "rinse-papaoul": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-06T09:00:00Z",
     "ok": true
    },
    "rinse-pariah": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-01T21:00:00Z",
     "ok": true
    },
    "rinse-planet-wax": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-04T18:00:00Z",
     "ok": true
    },
    "rinse-plastician": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 14,
     "newest": "2026-09-27T17:00:00Z",
     "ok": true
    },
    "rinse-settle-down": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 6,
     "newest": "2026-09-23T22:00:00Z",
     "ok": true
    },
    "rinse-stones-taro": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 24,
     "newest": "2026-09-14T22:00:00Z",
     "ok": true
    },
    "rinse-tim-garcia": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-12T09:00:00Z",
     "ok": true
    },
    "rinse-tom-ravenscroft": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T14:00:00Z",
     "ok": true
    },
    "rinse-transparent-audio": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 5,
     "newest": "2026-10-03T22:00:00Z",
     "ok": true
    },
    "rinse-utopia": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-07T14:00:00Z",
     "ok": true
    },
    "rinse-yazmin-lacey": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T09:00:00Z",
     "ok": true
    },
    "rtr2": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-02T04:03:26Z",
     "ok": true
    },
    "selador-sessions": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T00:00:00Z",
     "ok": true
    },
    "song-exploder": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-07T14:00:00Z",
     "ok": true
    },
    "soulection": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-09T13:26:35Z",
     "ok": true
    },
    "sound-opinions": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-09T05:00:00Z",
     "ok": true
    },
    "spectrum-radio": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-08T10:13:00Z",
     "ok": true
    },
    "stereogum-aotw": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-06T15:00:16Z",
     "ok": true
    },
    "sudbeat": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-07T00:00:00Z",
     "ok": true
    },
    "super-progressive": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-05T06:00:00Z",
     "ok": true
    },
    "switched-on-pop": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-06T04:00:00Z",
     "ok": true
    },
    "tape-notes": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-06T23:00:00Z",
     "ok": true
@@ -31848,7 +31956,7 @@
     "ok": true
    },
    "the-lot-radio": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-09-24T19:23:46Z",
     "ok": true
@@ -31860,13 +31968,13 @@
     "ok": true
    },
    "the-wire": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
-    "newest": "2026-10-09T00:00:00Z",
+    "newest": "2026-10-13T00:00:00Z",
     "ok": true
    },
    "time-to-track": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-07T03:44:15Z",
     "ok": true
@@ -31878,19 +31986,19 @@
     "ok": true
    },
    "transitions": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-09T15:00:50Z",
     "ok": true
    },
    "transmissions": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-10-07T07:00:00Z",
     "ok": true
    },
    "truancy-volume": {
-    "at": "2026-10-13T08:43:21Z",
+    "at": "2026-10-13T14:18:42Z",
     "count": 25,
     "newest": "2026-08-20T12:58:15Z",
     "ok": true

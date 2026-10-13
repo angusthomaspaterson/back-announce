@@ -3,6 +3,16 @@
  "id": "balearic-breakfast",
  "items": [
   {
+   "date": "2026-10-13T11:38:16Z",
+   "desc": "",
+   "duration": "7480",
+   "id": "-colleencosmomurphy-colleen-cosmo-murphys-balearic-breakfast-20261013-085955-",
+   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/b/c/5/6623-9e82-454d-accc-ee3f2f11dde2",
+   "tags": "Yacht rock, Balearic, Soulful house, Broken beat",
+   "title": "Colleen 'Cosmo' Murphy's Balearic Breakfast 13.10.26",
+   "url": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261013-085955/"
+  },
+  {
    "date": "2026-10-06T12:05:24Z",
    "desc": "",
    "duration": "8375",
@@ -241,19 +251,9 @@
    "tags": "Balearic, Nu-disco, Soulful house",
    "title": "Colleen 'Cosmo' Murphy's Balearic Breakfast 21.4.26",
    "url": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20260421-090009/"
-  },
-  {
-   "date": "2026-04-14T11:33:20Z",
-   "desc": "",
-   "duration": "7240",
-   "id": "-colleencosmomurphy-colleen-cosmo-murphys-balearic-breakfast-20260414-085957-",
-   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/9/5/2/bc6a-706d-41f7-953c-80958a9167af",
-   "tags": "Balearic, Deep house, Nu-disco",
-   "title": "Colleen 'Cosmo' Murphy's Balearic Breakfast 14.4.26",
-   "url": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20260414-085957/"
   }
  ],
  "kind": "mixcloud",
  "name": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T14:18:42Z"
 }

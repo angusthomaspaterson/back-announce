@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-13T00:00:00Z",
+   "desc": "Stream a selection of tracks from releases we listened to during the making of our November 2026 issue The full chart: Alya Al-Sultani/Pat Thomas/Khabat Abas Manara ( Discus ) Bad Waitress In The Hollow ( Stomp ) BETHLEHEM BETHLEHEM ( Constellation ) Arthur Brown Nature ( Prophecy ) Nneka Cummins Finding Gills ( nonclassical ) Glass Triangle 3 x 1 ( Relative Pitch ) Kasatriyan Javanese Art Community & Warsaw Gamelan Group Caraka Handayapati: Wayang From Central Java ( Sacral Grooves/1000Herz ) Kepla Outside Time ( SINK ) Limpe Fuchs Pianostops ( Futura Resistenza ) Ans M Likewing Drift ( Scor…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-tracks-office-ambience-513",
+   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/10/13/charts_crop.jpg",
+   "title": "Office Ambience 513",
+   "url": "https://www.thewire.co.uk/audio/tracks/office-ambience-513"
+  },
+  {
+   "audio": null,
    "date": "2026-10-09T00:00:00Z",
    "desc": "Listen to the music we played to Liz Harris aka Grouper during her Invisible Jukebox interview in The Wire 513 Each month in the magazine we play an artist or group a series of tracks which they are asked to comment on – with no prior knowledge of what they are about to hear. In The Wire 513 it is the turn of Liz Harris aka Grouper. Here you can listen to a mix of the tracks our correspondent Leah Kardos played to Harris during the interview, which is published in full in The Wire 513 . To find out what she said about them, subscribers can read the interview in our online magazine library her…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/613/480/2026/08/13/Wire_Morganne_for_web.jpg",
    "title": "Invisible Jukebox mix: Jennifer Herrema",
    "url": "https://www.thewire.co.uk/about/artists/jennifer-herrema/invisible-jukebox-mix-jennifer-herrema"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-10T00:00:00Z",
-   "desc": "Volume 51 of The Wire 's subscriber only download compilation includes tracks by Willow Swan & Ellis Berwick, Jemima, ST AGNIS, DJ GAWAD & Pierre Pepe, Trigger Object, Ureuk & The Gypsies, and more Take out a print or digital subscription to The Wire to stream and download every edition of Below The Radar",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-btr-below-the-radar-51",
-   "image": "https://www.thewire.co.uk/img/contain/480/480/2026/08/06/BTR_51.jpg",
-   "title": "Below The Radar  51",
-   "url": "https://www.thewire.co.uk/audio/btr/below-the-radar-51"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T14:18:42Z"
 }

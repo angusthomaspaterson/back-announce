@@ -3,6 +3,16 @@
  "id": "all-songs-considered",
  "items": [
   {
+   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/9a4bd3e5-6024-4ef2-9856-f1573adbeb3c/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=9a4bd3e5-6024-4ef2-9856-f1573adbeb3c&feed=uwsqics_&t=podcast&e=nx-s1-5996649&p=g-s1-111189&d=3066&size=98132741",
+   "date": "2026-10-13T09:00:00Z",
+   "desc": "Who’s the Mariah Carey of Halloween? Labels and artists are trying to capitalize on spooky season, but these are the songs that belong in the creepy canon, from the truly terrifying to simply seasonal and nostalgic. Note: An earlier version of this episode appeared on All Songs Considered in 2025. Tell us what you think with a review on Apple or Spotify wherever you listen to podcasts. Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.org Featured artists and songs: Phoebe Bridgers: “Killer” from ‘Stranger in the Alps’ Fever Ray: “If I Had A Heart,” from ‘F…",
+   "duration": "3066",
+   "id": "b5adb64e-2f95-4e30-bf7a-50fecb4b1691",
+   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fde%2F830c750541b68709e1abe0ade585%2F3d4a1477-d4ec-4e85-b831-9d40c704e4d3.jpg",
+   "title": "A new canon of Halloween music",
+   "url": "https://www.npr.org/2026/10/13/nx-s1-5996649/a-new-canon-of-halloween-music"
+  },
+  {
    "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/35ded002-b5ee-4c0b-aea6-42f6f3636b09/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=35ded002-b5ee-4c0b-aea6-42f6f3636b09&feed=uwsqics_&t=podcast&e=nx-s1-5991943&p=g-s1-111189&d=2487&size=79614643",
    "date": "2026-10-06T09:00:00Z",
    "desc": "A super deluxe box set of The Beatles' legendary 1965 album Rubber Soul has just been released with brand new mixes, demos and outtakes that show The Beatles breaking up with the past, their fans and everything people knew and loved about the band. In this conversation with All Songs Considered host Robin Hilton, Giles Martin, the producer behind the new mixes and son of late Beatles producer George Martin, talks about why Rubber Soul was such a pivotal album for the band, how the music was changing, and why it sounds “reasonably bleak.” Martin also explains how the AI tools he used to update…",
@@ -191,19 +201,9 @@
    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2Fec%2F2fffa2894a369e75700310f846a0%2F8aa8688c-e482-413b-9b6e-60699a09287f.png",
    "title": "Wet Leg, Vince Staples, Radiohead’s Ed O’Brien",
    "url": "https://www.npr.org/2026/06/02/nx-s1-5843307/wet-leg-vince-staples-radioheads-ed-obrien"
-  },
-  {
-   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/da5a55fe-1d65-451b-8554-782478b8e789/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=da5a55fe-1d65-451b-8554-782478b8e789&feed=uwsqics_&t=podcast&e=nx-s1-5833935&p=g-s1-111189&d=3858&size=123457725",
-   "date": "2026-05-26T07:00:00Z",
-   "desc": "We weigh the options and attempt to pick the one song that best captures the Millennial generation's experience, from the dizzying highs of the dot-com boom, when anything seemed possible, to the post-9-11 bust, the hope of the Obama years, and prolonged period of generational disillusionment. NPR Music millennials Hazel Cills and Sheldon Pearce join host Robin Hilton. A good review helps! So, leave us one on Apple , Spotify , or wherever you listen to podcasts. And tell a friend to listen! Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.org See pcm.adswi…",
-   "duration": "3858",
-   "id": "0556a8f8-9c71-479d-808c-8032ffb46a2e",
-   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F43%2Ff9203ddf4d408d748062debb8814%2F477d04de-c96e-4020-a9c3-a62141c2552c.png",
-   "title": "What’s the defining Millennial song?",
-   "url": "https://www.npr.org/2026/05/26/nx-s1-5833935/whats-the-defining-millennial-song"
   }
  ],
  "kind": "rss",
  "name": "NPR: All Songs Considered",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T14:18:42Z"
 }
