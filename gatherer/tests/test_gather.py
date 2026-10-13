@@ -179,6 +179,19 @@ class Finish(unittest.TestCase):
         self.assertEqual(len(gather.finish(items, src)), 25)
 
 
+class SelectSources(unittest.TestCase):
+    SRC = [{"id": "a", "url": "https://x.substack.com/feed", "home": "https://x.substack.com/"},
+           {"id": "b", "url": "https://api.substack.com/feed/podcast/1.rss", "home": "https://notags.substack.com/"},
+           {"id": "c", "slug": "moxie", "home": "https://www.nts.live/shows/moxie"}]
+
+    def test_match_skip_only(self):
+        ids = lambda xs: [s["id"] for s in xs]  # noqa: E731
+        self.assertEqual(ids(gather.select_sources(self.SRC, match="substack.com")), ["a", "b"])
+        self.assertEqual(ids(gather.select_sources(self.SRC, skip="Substack.com")), ["c"])
+        self.assertEqual(ids(gather.select_sources(self.SRC, only="c, a")), ["a", "c"])
+        self.assertEqual(ids(gather.select_sources(self.SRC)), ["a", "b", "c"])
+
+
 class Run(unittest.TestCase):
     """The whole run against fixture files, with a fake fetch."""
 

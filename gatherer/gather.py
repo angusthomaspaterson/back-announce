@@ -453,20 +453,34 @@ def run(sources, feed_dir, status_path, fetcher=fetch, workers=WORKERS, now=None
     return status
 
 
+def select_sources(sources, only="", match="", skip=""):
+    """Narrow the source list: by id (--only), or by a substring of the url/home (--match, --skip)."""
+    def where(s):
+        return f"{s.get('url', '')} {s.get('home', '')}".lower()
+    if only:
+        wanted = set(x.strip() for x in only.split(",") if x.strip())
+        sources = [s for s in sources if s["id"] in wanted]
+    if match:
+        sources = [s for s in sources if match.lower() in where(s)]
+    if skip:
+        sources = [s for s in sources if skip.lower() not in where(s)]
+    return sources
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description="Gather the Back Announce feed.")
     ap.add_argument("--data", default="data", help="the data folder (default: data)")
     ap.add_argument("--only", default="", help="comma-separated source ids to gather (for testing)")
+    ap.add_argument("--match", default="", help="only sources whose url or home contains this, e.g. substack.com")
+    ap.add_argument("--skip", default="", help="leave out sources whose url or home contains this")
     ap.add_argument("--workers", type=int, default=WORKERS)
     args = ap.parse_args(argv)
     cfg = load_json(os.path.join(args.data, "sources.json"), {"items": []})
-    sources = cfg["items"]
-    if args.only:
-        wanted = set(args.only.split(","))
-        sources = [s for s in sources if s["id"] in wanted]
+    sources = select_sources(cfg["items"], args.only, args.match, args.skip)
     status = run(sources, os.path.join(args.data, "feed"), os.path.join(args.data, "status.json"), workers=args.workers)
-    failed = [k for k, v in status["sources"].items() if not v.get("ok")]
-    print(f"done: {len(status['sources']) - len(failed)} ok, {len(failed)} failed", file=sys.stderr)
+    ran = {s["id"] for s in sources}
+    failed = [k for k, v in status["sources"].items() if k in ran and not v.get("ok")]
+    print(f"done: {len(ran) - len(failed)} ok, {len(failed)} failed", file=sys.stderr)
     return 0
 
 

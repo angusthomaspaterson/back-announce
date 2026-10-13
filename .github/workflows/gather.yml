@@ -20,34 +20,33 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Run the parser tests
         run: python3 -m unittest discover -s gatherer/tests
 
-      - name: Gather every source
-        run: python3 gatherer/gather.py --data data
-
-      - name: Commit and push
+      - name: Gather, commit and push
+        # Substack refuses requests from GitHub's servers, so those sources are
+        # gathered by the helper on Angus's laptop (tools/laptop-substack.ps1).
+        # If the push is rejected because the apps or the laptop pushed first,
+        # start again from the newest commit rather than trying to merge.
         run: |
           git config user.name "Back Announce gatherer"
           git config user.email "gatherer@users.noreply.github.com"
-          git add data/feed data/status.json
-          if git diff --cached --quiet; then
-            echo "Nothing changed."
-            exit 0
-          fi
-          stamp=$(TZ=Australia/Perth date "+%a %-d %b %H:%M AWST")
-          git commit -m "feed: refresh $stamp"
-          # The apps may have pushed a change to state.json or sources.json while we
-          # were running. Rebase onto whatever is there now and try again, a few times.
           for attempt in 1 2 3 4 5; do
+            python3 gatherer/gather.py --data data --skip substack.com
+            git add data/feed data/status.json
+            if git diff --cached --quiet; then
+              echo "Nothing changed."
+              exit 0
+            fi
+            stamp=$(TZ=Australia/Perth date "+%a %-d %b %H:%M AWST")
+            git commit -q -m "feed: refresh $stamp"
             if git push; then
               exit 0
             fi
-            echo "Push rejected (attempt $attempt), rebasing..."
-            git pull --rebase
+            echo "Push rejected (attempt $attempt); refreshing from the newest commit..."
+            git fetch origin
+            git reset -q --hard origin/main
           done
           echo "Could not push after 5 attempts." >&2
           exit 1

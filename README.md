@@ -21,7 +21,11 @@ A GitHub Actions workflow, `.github/workflows/gather.yml`, runs every 6 hours an
 
 - A source that fails keeps its previous items. The error is recorded in `data/status.json`, so the apps can show "failed" against it.
 - Bandcamp Daily and Bandcamp Radio sit behind a bot check that sometimes refuses scripts. When that happens the source is marked `linkOnly` and the apps show a card that opens the site. The gatherer tries again every run and recovers on its own.
-- If the apps push a change while the gatherer is running, the gatherer rebases and pushes again.
+- If the apps push a change while the gatherer is running, the gatherer starts again from the newest commit and pushes again.
+
+### Substack is gathered from the laptop
+
+Substack puts a browser check in front of its feeds for requests from cloud servers, including GitHub's, so the workflow skips every source whose address contains `substack.com`. Those are gathered by a small scheduled task on Angus's laptop instead, `tools/laptop-substack.ps1`, which keeps its own copy of the repository under `%LOCALAPPDATA%\BackAnnounce\repo`, runs about every three hours while the laptop is on, and commits as `feed: refresh Substack ... (laptop)`. Install or remove it with `tools/install-laptop-task.ps1`. Its log is `%LOCALAPPDATA%\BackAnnounce\laptop-substack.log`.
 
 ### If the schedule ever stops
 
