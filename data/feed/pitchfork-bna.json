@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-13T05:54:08Z",
+   "desc": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
+   "duration": null,
+   "id": "6acd1c5be40a73d39f25c837",
+   "image": null,
+   "title": "A Mile South of Heaven",
+   "url": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-12T04:03:00Z",
    "desc": "Modeled after the literary concept of the hero’s journey, the Catalan composer’s latest album is her most ambitious yet: It’s weirder, wilder, and more dazzling than anything she’s done to date.",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "An Undying Love for a Burning World",
    "url": "https://pitchfork.com/reviews/albums/neurosis-an-undying-love-for-a-burning-world/"
-  },
-  {
-   "audio": null,
-   "date": "2026-03-23T04:03:00Z",
-   "desc": "The former electro-pop enfant terrible swings big on her latest album, compressing all her split personalities and eclectic tastes into a high-gloss, high-stakes gamble to remake pop on her own terms.",
-   "duration": null,
-   "id": "69bd7c7e1c60b28f16246e90",
-   "image": null,
-   "title": "U",
-   "url": "https://pitchfork.com/reviews/albums/underscores-u/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T08:43:21Z"
 }

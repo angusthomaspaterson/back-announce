@@ -3,6 +3,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2418058059-balance-series-powel-live-from-balance.mp3",
+   "date": "2026-10-13T00:00:00Z",
+   "desc": "Recording of Powel's vinyl-only set from Balance Croatia 2026. @powel ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ SIGN UP FOR FINAL RELEASE TIX: laylo.com/balancecroatia/L1zh7A _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
+   "duration": "03:00:05",
+   "id": "tag:soundcloud-2010:tracks-2418058059",
+   "image": "https://i1.sndcdn.com/artworks-234rBYHi2CVVMyai-a86hWw-t3000x3000.jpg",
+   "title": "Powel: Live from Balance Croatia 2026",
+   "url": "https://soundcloud.com/balance-series/powel-live-from-balance"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2415747888-balance-series-balance-selections-387-solis.mp3",
    "date": "2026-10-09T00:00:00Z",
    "desc": "Solis [US] is the progressive and organic house project of Madison, Wisconsin-based producer David Hammond. His sound moves between melancholy and uplift, pairing rich melodic arrangements with organic textures and syncopated rhythms. That sensibility is evident on the Tisno EP, his recent two-track collaboration with Simply City and debut on Balance Music. Hammond’s ear for unexpected melodies lends the release much of its character. On his Balance Selections mix, Solis [US] delivers a two-hour journey fit for immersion. Featuring tracks from Alex O’Rion, Mike Rish, Tonaco and more, the mix …",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-n0ypO9ezIX3t3QaL-k51p4g-t3000x3000.jpg",
    "title": "Kabi: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/kabi-live-from-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2390058234-balance-series-balance-selections-381-camila.mp3",
-   "date": "2026-08-28T00:00:00Z",
-   "desc": "CAMILA (AR) is an emerging electronic music artist from the province of Chaco, in northeastern Argentina. With a sound that is rooted in progressive house, she regularly explores the edges of the sound. It's a space where bright, emotive passages give way to darker, immersive stretches. The result is music built as much for introspection as the dancefloor. It’s this ability that has seen her sign with Balance Music, with a forthcoming release set to further underline the depth and versatility of her sound. On this Balance Selections, the producer has compiled a journey of deep progressive fil…",
-   "duration": "01:07:48",
-   "id": "tag:soundcloud-2010:tracks-2390058234",
-   "image": "https://i1.sndcdn.com/artworks-XGIRHqDqroACQzNe-UvrXLw-t3000x3000.jpg",
-   "title": "Balance Selections 381: Camila (AR)",
-   "url": "https://soundcloud.com/balance-series/balance-selections-381-camila"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T08:43:21Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-13T08:00:00Z",
+   "desc": "",
+   "duration": null,
+   "id": "6ac94b9c9db4910001d0afff",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/digger.jpg",
+   "title": "Screen Memories: Digger, Crocodile Dose, Castration Movie",
+   "url": "https://last-donut-of-the-night.ghost.io/screen-memories-digger-crocodile-dose-castration-movie/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-12T15:51:22Z",
    "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/09/unnamed--1-.png",
    "title": "L'Rain on Surprising Herself, Animal Collective, and Passing the Art World Torch",
    "url": "https://last-donut-of-the-night.ghost.io/lrain-interview-2/"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-22T13:53:14Z",
-   "desc": "",
-   "duration": null,
-   "id": "6ab08fb4f669100001c68856",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/09/limpetarice.jpg",
-   "title": "Baker's Dozen: Wet Leg, James Blake, My New Band Believe",
-   "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-149/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T08:43:21Z"
 }

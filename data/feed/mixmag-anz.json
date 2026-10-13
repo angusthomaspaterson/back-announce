@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-13T05:08:28Z",
+   "desc": "Writer Marianne Astrid Close sits down with Milkpaste to discuss the music and movements behind her brand-new FLINTA-focused record label: Spot Dial Recordings. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-love-is-the-message-and-flinta-are-the-focus",
+   "image": null,
+   "title": "Love is the Message, and FLINTA are the focus",
+   "url": "https://mixmag.net.au/feature/love-is-the-message-and-flinta-are-the-focus"
+  },
+  {
+   "audio": null,
    "date": "2026-10-11T22:13:00Z",
    "desc": "Magda Bytnerowicz, DJ Luv You, Kasun and WTP join Canberra’s a.y.x. and Skunks for eleven hours at a secret site outside the city. Continue reading...",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/SURPLUS-Cover-2026.png",
    "title": "SURPLUS taps Rainbow Disco Club, Planet Trip and Mixmag ANZ for NAS revival",
    "url": "https://mixmag.net.au/read/surplus-taps-rainbow-disco-club-planet-trip-and-mixmag-anz-for-nas-revival-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-20T04:49:07Z",
-   "desc": "The festival returns to its home at Riverwood Downs Mountain Resort on Worimi Country this November. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-subsonic-reveals-lineup-for-its-17th-year-at-riverwood-downs-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Subsonic-Cover-2026.png",
-   "title": "Subsonic reveals lineup for its 17th year at Riverwood Downs",
-   "url": "https://mixmag.net.au/read/subsonic-reveals-lineup-for-its-17th-year-at-riverwood-downs-news"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T08:43:21Z"
 }

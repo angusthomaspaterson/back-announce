@@ -3,14 +3,6 @@
  "id": "rinse-hodge",
  "items": [
   {
-   "date": "2026-11-06T21:00:00Z",
-   "desc": "",
-   "id": "hodge-06-11-2026-2100",
-   "image": "https://image.rinse.fm/_/Hodge_Press-Shot_1600x.jpg?w=1200&h=630",
-   "title": "Hodge, 6 Nov 2026",
-   "url": "https://www.rinse.fm/episodes/hodge-06-11-2026-2100"
-  },
-  {
    "date": "2026-09-01T20:00:00Z",
    "desc": "",
    "id": "hodge-01-09-2026-2100",
@@ -205,5 +197,5 @@
  ],
  "kind": "rinse",
  "name": "Hodge",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T08:43:21Z"
 }

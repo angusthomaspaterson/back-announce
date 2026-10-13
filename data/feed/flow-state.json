@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/220144105/3e2e14d84e015a0acb2bd648b068f921.mp3",
+   "date": "2026-10-13T07:03:05Z",
+   "desc": "Today’s mix opens with a new ambient track by Líom, followed by a dub ambient track by Acid Springfield.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-347",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 347",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-347"
+  },
+  {
    "audio": null,
    "date": "2026-10-12T07:03:52Z",
    "desc": "Today we’re listening to Windy & Carl, an American space rock duo consisting of Windy Weber and Carl Hultgren.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!FKF5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef946b94-77d7-4bff-bfa7-14f7e75f5817_1200x800.png",
    "title": "Across the Horizon Ep. 70: Sarah Davachi (Pt. 2)",
    "url": "https://www.flowstate.fm/p/across-the-horizon-ep-70-sarah-davachi"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/215765169/db8811d0d8b00f25cc096298787e1936.mp3",
-   "date": "2026-09-15T07:02:48Z",
-   "desc": "Today’s mix premieres the new Corntuth record, The Nightingale Floor, which comes out next week on Flow State Records and Aural Canyon.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-flow-state-ep-343-corntuth-premiere",
-   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
-   "title": "Flow State Ep. 343: Corntuth Premiere",
-   "url": "https://www.flowstate.fm/p/flow-state-ep-343-corntuth-premiere"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-13T08:43:21Z"
 }
