@@ -588,7 +588,8 @@ def write_glance(data_dir, now=None, limit=20):
     releases.sort(key=lambda r: r["out"])
     saved = sorted(({"t": v.get("title", ""), "u": v.get("url", ""), "s": v.get("sname", ""), "at": v.get("savedAt", "")}
                     for v in (state.get("saved") or {}).values()), key=lambda r: r["at"], reverse=True)
-    glance = {"updated": status.get("lastRun") or now, "newCount": new, "sources": len(sources), "paused": len(paused),
+    glance = {"updated": status.get("lastRun") or now, "lastSeen": last_seen or None, "newCount": new,
+              "sources": len(sources), "paused": len(paused),
               "items": items[:limit], "releases": releases[:8], "saved": saved[:10]}
     dump_json(os.path.join(data_dir, "glance.json"), glance)
     return glance
