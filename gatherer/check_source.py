@@ -230,7 +230,7 @@ def check(raw, sources, fetcher=gather.fetch, now=None):
         src = {"id": sid, "name": name, **src}
         items, notes = [], []
         if note == "substack":
-            notes.append("Substack turns GitHub away, so there's no preview. The laptop gathers Substack newsletters every three hours while it's on; if this address is wrong, the source will show as failed.")
+            notes.append("Substack turns GitHub away, so there's no preview. The laptop gathers Substack newsletters once a day, in the morning or as soon as it's next on; if this address is wrong, the source will show as failed.")
         else:
             try:
                 items = gather.gather_one(src, fetcher, None, now)[:PREVIEW]

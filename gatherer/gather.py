@@ -545,6 +545,55 @@ def write_bundle(data_dir):
     return bundle
 
 
+def spotify_query(src, it):
+    """What to search Spotify for, matching the web app: podcast episodes and release schedules."""
+    if src.get("upcoming"):
+        return it.get("title") or None
+    feed = src.get("url") or ""
+    if it.get("audio") and src.get("kind") == "rss" and "soundcloud.com" not in (feed + " " + it["audio"]).lower():
+        return f"{src.get('name', '')} {it.get('title', '')}".strip()
+    return None
+
+
+def write_glance(data_dir, now=None, limit=20):
+    """Write data/glance.json, a small summary for the Back Announce page in Claude.
+
+    The newest items from sources that aren't paused, how many are new since Mark all seen,
+    the upcoming releases, and the Saved list. A Claude routine copies it into that page
+    once a day, because Claude pages can't read other websites themselves.
+    """
+    now = now or iso(datetime.datetime.now(UTC))
+    sources = load_json(os.path.join(data_dir, "sources.json"), {"items": []}).get("items", [])
+    state = load_json(os.path.join(data_dir, "state.json"), {}) or {}
+    status = load_json(os.path.join(data_dir, "status.json"), {}) or {}
+    paused, last_seen = set(state.get("paused") or []), state.get("lastSeen") or ""
+    items, releases, new = [], [], 0
+    yesterday = iso(datetime.datetime.fromisoformat(now.replace("Z", "+00:00")) - datetime.timedelta(days=1))
+    for src in sources:
+        doc = load_json(os.path.join(data_dir, "feed", f"{src['id']}.json"), None) or {}
+        for it in doc.get("items") or []:
+            if src.get("upcoming") and (it.get("out") or "") >= yesterday:
+                releases.append({"t": it["title"], "u": it["url"], "out": it["out"], "k": it.get("tags", "")})
+            if src["id"] in paused or not it.get("date"):
+                continue
+            if it["date"] > last_seen:
+                new += 1
+            row = {"t": it.get("title", ""), "u": it.get("url", ""), "d": it["date"], "s": src.get("name", src["id"]),
+                   "g": src.get("group", "Other"), "sid": src["id"]}
+            q = spotify_query(src, it)
+            if q:
+                row["sp"] = q
+            items.append(row)
+    items.sort(key=lambda r: r["d"], reverse=True)
+    releases.sort(key=lambda r: r["out"])
+    saved = sorted(({"t": v.get("title", ""), "u": v.get("url", ""), "s": v.get("sname", ""), "at": v.get("savedAt", "")}
+                    for v in (state.get("saved") or {}).values()), key=lambda r: r["at"], reverse=True)
+    glance = {"updated": status.get("lastRun") or now, "newCount": new, "sources": len(sources), "paused": len(paused),
+              "items": items[:limit], "releases": releases[:8], "saved": saved[:10]}
+    dump_json(os.path.join(data_dir, "glance.json"), glance)
+    return glance
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description="Gather the Back Announce feed.")
     ap.add_argument("--data", default="data", help="the data folder (default: data)")
@@ -557,6 +606,7 @@ def main(argv=None):
     sources = select_sources(cfg["items"], args.only, args.match, args.skip)
     status = run(sources, os.path.join(args.data, "feed"), os.path.join(args.data, "status.json"), workers=args.workers)
     write_bundle(args.data)
+    write_glance(args.data)
     ran = {s["id"] for s in sources}
     failed = [k for k, v in status["sources"].items() if k in ran and not v.get("ok")]
     print(f"done: {len(ran) - len(failed)} ok, {len(failed)} failed", file=sys.stderr)

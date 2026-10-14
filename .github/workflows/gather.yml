@@ -2,8 +2,9 @@ name: Gather the feed
 
 on:
   schedule:
-    # Every 6 hours. GitHub runs cron in UTC; minute 17 avoids the busy top of the hour.
-    - cron: "17 */6 * * *"
+    # Once a day at 21:17 UTC, which is 5:17 am in Perth. Minute 17 avoids the busy top of
+    # the hour; GitHub can still start it a little late.
+    - cron: "17 21 * * *"
   workflow_dispatch:
   # When the app adds or edits a source, gather straight away so its episodes appear.
   push:
@@ -42,7 +43,7 @@ jobs:
           git config user.email "gatherer@users.noreply.github.com"
           for attempt in 1 2 3 4 5; do
             python3 gatherer/gather.py --data data --skip substack.com
-            git add data/feed data/status.json data/bundle.json
+            git add data/feed data/status.json data/bundle.json data/glance.json
             if git diff --cached --quiet; then
               echo "Nothing changed."
               exit 0

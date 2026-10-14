@@ -329,6 +329,35 @@ class Run(unittest.TestCase):
         with open(os.path.join(data, "bundle.json"), encoding="utf-8") as f:
             self.assertEqual(json.load(f), bundle)
 
+    def test_glance_summarises_for_the_claude_page(self):
+        data = self.tmp.name
+        srcs = [dict(self.SOURCES[0], group="Radio"), dict(self.SOURCES[1], group="NTS"),
+                {"id": "pod", "name": "A Podcast (Network)", "kind": "rss", "url": "https://feeds.example.com/pod.rss", "group": "Podcasts"},
+                {"id": "label", "name": "Label releases", "kind": "manual", "home": "https://x", "group": "Progressive", "upcoming": True}]
+        with open(os.path.join(data, "sources.json"), "w", encoding="utf-8") as f:
+            json.dump({"items": srcs}, f)
+        gather.run(srcs[:2], self.feed, self.status, fetcher=self.fake_fetch, now="2026-10-13T00:00:00Z", log=lambda *a: None)
+        gather.dump_json(os.path.join(self.feed, "pod.json"), {"items": [gather.item("e1", "Episode one", "https://p/e1", "2026-10-12T23:00:00Z", "", {"audio": "https://cdn.example.com/e1.mp3"})]})
+        gather.dump_json(os.path.join(self.feed, "label.json"), {"items": [
+            gather.item("r1", "Artist – Soon", "https://l/r1", "2026-10-12T05:00:00Z", "", {"out": "2026-11-20T00:00:00Z"}),
+            gather.item("r0", "Artist – Old", "https://l/r0", "2026-09-01T00:00:00Z", "", {"out": "2026-09-01T00:00:00Z"})]})
+        with open(os.path.join(data, "state.json"), "w", encoding="utf-8") as f:
+            json.dump({"paused": ["nts-gigi-fm"], "lastSeen": "2026-10-12T22:00:00Z",
+                       "saved": {"k": {"title": "Kept", "url": "https://k", "sname": "Somewhere", "savedAt": "2026-10-07T01:00:00Z"}}}, f)
+        g = gather.write_glance(data, now="2026-10-13T00:00:00Z")
+        self.assertEqual(len(g["items"]), 20)
+        self.assertFalse(any(i["sid"] == "nts-gigi-fm" for i in g["items"]), "paused sources are left out")
+        dates = [i["d"] for i in g["items"]]
+        self.assertEqual(dates, sorted(dates, reverse=True))
+        ep = next(i for i in g["items"] if i["sid"] == "pod")
+        self.assertEqual(ep["sp"], "A Podcast (Network) Episode one", "podcast episodes get a Spotify search")
+        self.assertFalse(any("sp" in i for i in g["items"] if i["sid"] == "time-to-track"), "SoundCloud doesn't")
+        self.assertEqual([r["t"] for r in g["releases"]], ["Artist – Soon"], "only releases not yet out")
+        self.assertEqual(g["saved"], [{"t": "Kept", "u": "https://k", "s": "Somewhere", "at": "2026-10-07T01:00:00Z"}])
+        self.assertGreaterEqual(g["newCount"], 1)
+        self.assertEqual((g["sources"], g["paused"]), (4, 1))
+        self.assertLess(len(json.dumps(g)), 20000, "small enough to copy in one go")
+
     def test_blocked_bandcamp_becomes_link_only(self):
         def blocked(url, timeout=25):
             raise OSError("HTTP Error 403: Forbidden")

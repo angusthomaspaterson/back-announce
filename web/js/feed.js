@@ -185,7 +185,7 @@ function renderStream(items, saved) {
   const vis = pool.filter(i => S.groups[i.group] !== false);
   let html;
   if (inSaved && !saved.length) html = empty('Nothing saved yet. Tap the heart on any card to keep it here. Saved cards stay even after the show drops out of the feed.');
-  else if (!pool.length) html = empty('Nothing gathered yet. The first run fills this in; after that it refreshes every six hours.');
+  else if (!pool.length) html = empty('Nothing gathered yet. The first run fills this in; after that it refreshes once a day.');
   else if (!vis.length) html = empty('Every group is switched off. Tap a chip above to bring one back.');
   else {
     html = dayList(vis, inSaved ? 'saved' : 'feed', S.limit);
@@ -211,7 +211,7 @@ function renderSrcHead() {
 function renderSrcPage() {
   const items = srcItems(S.srcId);
   $('srcPage').innerHTML = items.length ? dayList(items, 'source', 999)
-    : empty('Nothing gathered from this source yet. A source you have just added fills in within a few minutes: press Refresh. Otherwise it is checked every six hours.');
+    : empty('Nothing gathered from this source yet. A source you have just added fills in within a few minutes: press Refresh. Otherwise it is checked once a day.');
 }
 
 function renderSources() {

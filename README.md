@@ -17,7 +17,9 @@ This repository is the one place that holds everything:
 
 ## How the feed refreshes
 
-A GitHub Actions workflow, `.github/workflows/gather.yml`, runs every 6 hours and whenever you press **Run workflow** on the Actions tab. It reads every source in parallel (6 at a time), keeps the newest 25 items per source, and commits the result with a message like `feed: refresh Tue 13 Oct 14:17 AWST`.
+A GitHub Actions workflow, `.github/workflows/gather.yml`, runs once a day at about 5:17 am Perth time, whenever `data/sources.json` changes (so a new source arrives within minutes), and whenever you press **Run workflow** on the Actions tab. It reads every source in parallel (6 at a time), keeps the newest 25 items per source, and commits the result with a message like `feed: refresh Wed 14 Oct 05:17 AWST`.
+
+It also writes `data/glance.json`, a small summary (the newest 20 items from sources that aren't paused, the count of new ones, upcoming releases and the Saved list). A Claude routine copies it into the Back Announce page in Claude each morning at 7 am, because Claude pages can't read other websites themselves.
 
 - A source that fails keeps its previous items. The error is recorded in `data/status.json`, so the apps can show "failed" against it.
 - Bandcamp Daily and Bandcamp Radio sit behind a bot check that sometimes refuses scripts. When that happens the source is marked `linkOnly` and the apps show a card that opens the site. The gatherer tries again every run and recovers on its own.
@@ -25,7 +27,7 @@ A GitHub Actions workflow, `.github/workflows/gather.yml`, runs every 6 hours an
 
 ### Substack is gathered from the laptop
 
-Substack puts a browser check in front of its feeds for requests from cloud servers, including GitHub's, so the workflow skips every source whose address contains `substack.com`. Those are gathered by a small scheduled task on Angus's laptop instead, `tools/laptop-substack.ps1`, which keeps its own copy of the repository under `%LOCALAPPDATA%\BackAnnounce\repo`, runs about every three hours while the laptop is on, and commits as `feed: refresh Substack ... (laptop)`. Install or remove it with `tools/install-laptop-task.ps1`. Its log is `%LOCALAPPDATA%\BackAnnounce\laptop-substack.log`.
+Substack puts a browser check in front of its feeds for requests from cloud servers, including GitHub's, so the workflow skips every source whose address contains `substack.com`. Those are gathered by a small scheduled task on Angus's laptop instead, `tools/laptop-substack.ps1`, which keeps its own copy of the repository under `%LOCALAPPDATA%\BackAnnounce\repo`, runs once a day at 5:30 am (or as soon as the laptop is next on), and commits as `feed: refresh Substack ... (laptop)`. Install or remove it with `tools/install-laptop-task.ps1`. Its log is `%LOCALAPPDATA%\BackAnnounce\laptop-substack.log`.
 
 ### If the schedule ever stops
 
