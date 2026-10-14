@@ -29,9 +29,8 @@ const APPS = [
   {host: /(^|\.)soundcloud\.com$/i, pkg: 'com.soundcloud.android'},
   {host: /(^|\.)mixcloud\.com$/i, pkg: 'com.mixcloud.player'},
   {host: /^open\.spotify\.com$/i, pkg: 'com.spotify.music'},
-  // Rinse FM's own app (Play Store, 14 Oct 2026). rinse.fm publishes no assetlinks.json, so
-  // if the app doesn't accept rinse.fm links, Chrome falls back to the website as before.
-  {host: /(^|\.)rinse\.fm$/i, pkg: 'fm.rinse.player'},
+  // Not Rinse FM: its app (fm.rinse.player) accepts no links from other apps, so Chrome only
+  // bounced to the website (tested on the Pixel, 14 Oct 2026).
 ];
 /** A Spotify search for a podcast episode or a release, or null where Spotify won't have it. */
 export function spotifySearch(query) {
