@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-14T16:34:14Z",
+   "desc": "June McDoom 's Follow the Light is out this Friday . Video directed, filmed, and edited by Rena Johnson ... Continue reading…",
+   "duration": null,
+   "id": "https:--www.gorillavsbear.net--p-388065",
+   "image": "https://townsquare.media/site/833/files/2026/10/attachment-june-mcdoom-follow-the-light.jpg?format=natural",
+   "title": "June McDoom – Human Angel",
+   "url": "https://www.gorillavsbear.net/june-mcdoom-human-angel/"
+  },
+  {
+   "audio": null,
    "date": "2026-09-30T11:07:50Z",
    "desc": "Video by Betty Krag . Fine 's Jazz Dreams is out October 23rd ... Continue reading…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://townsquare.media/site/833/files/2026/02/attachment-ms-ray-melt.jpg?format=natural",
    "title": "Ms Ray – Miss You (feat. Nourished By Time)",
    "url": "https://www.gorillavsbear.net/ms-ray-miss-you-feat-nourished-by-time/"
-  },
-  {
-   "audio": null,
-   "date": "2026-02-11T14:09:48Z",
-   "desc": "Video by Stephanie Staal ... Continue reading…",
-   "duration": null,
-   "id": "https:--www.gorillavsbear.net--p-387893",
-   "image": "https://townsquare.media/site/833/files/2026/02/attachment-molina-1.jpg?format=natural",
-   "title": "Molina – Golden Brown Sugar",
-   "url": "https://www.gorillavsbear.net/molina-golden-brown-sugar/"
   }
  ],
  "kind": "rss",
  "name": "Gorilla vs. Bear",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T23:57:27Z"
 }

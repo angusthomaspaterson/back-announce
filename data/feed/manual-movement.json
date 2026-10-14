@@ -3,6 +3,16 @@
  "id": "manual-movement",
  "items": [
   {
+   "audio": "https://mcdn.podbean.com/mf/web/cn739ypdz98mka82/Manual_Movement_202610_Bodai.mp3",
+   "date": "2026-10-14T12:21:00Z",
+   "desc": "Bodai is one of the artists making her way to Amsterdam for this months ADE. She'll make an appearance at our annual Manual ADE Family Get Together which takes place on Saturday night. Have a listen to her exclusive guest mix for Manual Movement and know what to expect!",
+   "duration": "3540",
+   "id": "manualmovement.podbean.com-fcbfea05-5338-3f96-9c6f-6979d457eef5",
+   "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7789622/202610-ManualMovement-Bodai_9i5txc.jpg",
+   "title": "Manual Movement October 2026: Bodai",
+   "url": "https://manualmovement.podbean.com/e/manual-movement-october-2026-bodai/"
+  },
+  {
    "audio": "https://mcdn.podbean.com/mf/web/3dtyacyyeqpau5b7/Manual_Movement_202609_ShellRobinson.mp3",
    "date": "2026-09-14T10:51:00Z",
    "desc": "To celebrate the release of her Energy Surrounds You single we've invited Shell Robinson to record an exclusive guest mix for this months Manual Movement podcast!",
@@ -241,19 +251,9 @@
    "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7789622/202410-ManualMovement-Danae.jpg",
    "title": "Manual Movement October 2024: Danae",
    "url": "https://manualmovement.podbean.com/e/manual-movement-october-2024-danae/"
-  },
-  {
-   "audio": "https://mcdn.podbean.com/mf/web/8uziqma2jmr4appt/Manual_Movement_202409_DWachman.mp3",
-   "date": "2024-09-14T08:58:00Z",
-   "desc": "This month we welcome Spanish veteran DJ and producer D'Wachman on board for an exclusive guest mix to celebrate the release of his 'We Will Never Forget That Never Happened' single on Manual Music.",
-   "duration": "3364",
-   "id": "manualmovement.podbean.com-bb59582d-2187-3941-a833-70b0679e6728",
-   "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7789622/202409-ManualMovement-DWachman.jpg",
-   "title": "Manual Movement September 2024: D'Wachman",
-   "url": "https://manualmovement.podbean.com/e/manual-movement-september-2024-dwachman/"
   }
  ],
  "kind": "rss",
  "name": "Manual Movement (Manual Music)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T23:57:27Z"
 }

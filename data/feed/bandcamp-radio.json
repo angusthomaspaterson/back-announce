@@ -3,6 +3,15 @@
  "id": "bandcamp-radio",
  "items": [
   {
+   "date": "2026-10-14T00:00:00Z",
+   "desc": "Caroline Rose stops by the Indie Show to talk about self-releasing her latest record plus we hear new tracks from Soup Activists, Chastity Belt, and more. Hosted by Mariana Timony . Featuring Caroline Rose .",
+   "id": "radio-the-indie-show-991",
+   "image": "https://f4.bcbits.com/img/0046863059_170.jpg",
+   "tags": "The Indie Show",
+   "title": "The Indie Show: Caroline Rose",
+   "url": "https://bandcamp.com/radio/the-indie-show/991"
+  },
+  {
    "date": "2026-10-12T00:00:00Z",
    "desc": "Swiss-Ecuadorian duo Hermanos Gutiérrez talk to us about their filmic new album Hosted by Tina Edwards . Featuring Hermanos Gutiérrez .",
    "id": "radio-bandcamp-selects-1009",
@@ -172,18 +181,9 @@
    "tags": "The Game Show",
    "title": "The Game Show: Tee Lopes",
    "url": "https://bandcamp.com/radio/the-game-show/995"
-  },
-  {
-   "date": "2026-08-28T00:00:00Z",
-   "desc": "Thom Longdin and Jade Ashleigh Squires of the UK sludge duo Kulk discuss their gutting new album, 'Choosing to Die.' Hosted by Brad Sanders . Featuring Kulk .",
-   "id": "radio-the-metal-show-987",
-   "image": "https://f4.bcbits.com/img/0046797992_170.jpg",
-   "tags": "The Metal Show",
-   "title": "The Metal Show: Kulk",
-   "url": "https://bandcamp.com/radio/the-metal-show/987"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Radio",
- "updatedAt": "2026-10-13T04:34:37Z"
+ "updatedAt": "2026-10-14T23:57:27Z"
 }

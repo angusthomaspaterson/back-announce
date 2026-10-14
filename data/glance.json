@@ -1,76 +1,63 @@
 {
  "items": [
   {
-   "d": "2026-10-14T08:45:50Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "PLUTONIC w/ Bowen - EP 3",
-   "u": "https://soundcloud.com/radio-cazimi/plutonic-w-bowen-ep-3"
+   "d": "2026-10-14T19:00:00Z",
+   "g": "Podcasts",
+   "s": "Song Exploder",
+   "sid": "song-exploder",
+   "sp": "Song Exploder DJ Shadow - Mutual Slump",
+   "t": "DJ Shadow - Mutual Slump",
+   "u": "https://play.prx.org/listen?ge=prx_93_e442f410-2bff-4106-8a44-4e6289ea056d&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
   },
   {
-   "d": "2026-10-14T08:45:45Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "DUBWISE & OTHERWISE w/ Jesse Yuen, Lia T & Rok Riley - EP 3",
-   "u": "https://soundcloud.com/radio-cazimi/dubwise-otherwise-w-jesse-2"
+   "d": "2026-10-14T16:34:14Z",
+   "g": "Writing",
+   "s": "Gorilla vs. Bear",
+   "sid": "gorilla-vs-bear",
+   "t": "June McDoom – Human Angel",
+   "u": "https://www.gorillavsbear.net/june-mcdoom-human-angel/"
   },
   {
-   "d": "2026-10-14T08:45:35Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "MORNING DESIRES w/ Rory Glacken",
-   "u": "https://soundcloud.com/radio-cazimi/morning-desires-w-rory-2"
+   "d": "2026-10-14T15:56:50Z",
+   "g": "Podcasts",
+   "s": "No Tags",
+   "sid": "no-tags",
+   "sp": "No Tags 74: What does it take to run a clubnight for 20 years?",
+   "t": "74: What does it take to run a clubnight for 20 years?",
+   "u": "https://notagspodcast.substack.com/p/74-what-does-it-take-to-run-a-clubnight"
   },
   {
-   "d": "2026-10-14T08:45:28Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "LISTENING HOUR w/ Grace & Reece - EP 4",
-   "u": "https://soundcloud.com/radio-cazimi/listening-hour-w-grace-reece"
+   "d": "2026-10-14T15:29:24Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 14 Oct: 3 records",
+   "u": "https://firstfloor.substack.com/p/basma-and-temir-alcy-nad"
   },
   {
-   "d": "2026-10-14T08:40:28Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "NYINALANGINY w/ Cole Baxter & Dylan Collard - EP 2",
-   "u": "https://soundcloud.com/radio-cazimi/nyinalanginy-w-cole-baxter-1"
+   "d": "2026-10-14T12:21:00Z",
+   "g": "Progressive",
+   "s": "Manual Movement (Manual Music)",
+   "sid": "manual-movement",
+   "sp": "Manual Movement (Manual Music) Manual Movement October 2026: Bodai",
+   "t": "Manual Movement October 2026: Bodai",
+   "u": "https://manualmovement.podbean.com/e/manual-movement-october-2026-bodai/"
   },
   {
-   "d": "2026-10-14T08:39:31Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "WEST CAPE RECORDS w/ Jeremy S - EP 4",
-   "u": "https://soundcloud.com/radio-cazimi/west-cape-records-w-jeremy-s-2"
+   "d": "2026-10-14T10:02:38Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Nexcyia Has Better Taste Than I Do",
+   "u": "https://firstfloor.substack.com/p/nexcyia-has-better-taste-than-i-do"
   },
   {
-   "d": "2026-10-14T08:38:44Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "DESIRE PATH w/ Liv Pickering - EP 1",
-   "u": "https://soundcloud.com/radio-cazimi/desire-path-w-liv-pickering-ep"
-  },
-  {
-   "d": "2026-10-14T08:37:11Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "GOODBYE BEHAVIOUR  w/ Zev - EP 1",
-   "u": "https://soundcloud.com/radio-cazimi/goodbye-behaviour-w-zev-ep-1"
-  },
-  {
-   "d": "2026-10-14T08:31:58Z",
-   "g": "Perth",
-   "s": "Radio Cazimi (Fremantle)",
-   "sid": "radio-cazimi",
-   "t": "CLANG ASSOC. w/ Timo - EP 3",
-   "u": "https://soundcloud.com/radio-cazimi/clang-assoc-w-timo-ep-3"
+   "d": "2026-10-14T09:00:00Z",
+   "g": "Rinse FM",
+   "s": "Esk",
+   "sid": "rinse-esk",
+   "t": "Esk, 14 Oct 2026",
+   "u": "https://www.rinse.fm/episodes/esk-14-10-2026-1000"
   },
   {
    "d": "2026-10-14T07:02:54Z",
@@ -162,23 +149,44 @@
   },
   {
    "d": "2026-10-14T00:00:00Z",
-   "g": "Progressive",
-   "s": "Anjunadeep releases",
-   "sid": "anjunadeep-releases",
-   "sp": "foglight – Coda / Golden Hour",
-   "t": "foglight – Coda / Golden Hour",
-   "u": "https://anjunadeep.com/products/621098-coda-golden-hour"
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Kou Records Builds Community the Old-School Way",
+   "u": "https://daily.bandcamp.com/label-profile/kou-records-label-profile"
+  },
+  {
+   "d": "2026-10-14T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Esoctrilihum, “Annochiül Xar Sorthïlazur”",
+   "u": "https://daily.bandcamp.com/album-of-the-day/esoctrilihum-annochiul-xar-sorthilazur-review"
+  },
+  {
+   "d": "2026-10-14T00:00:00Z",
+   "g": "Radio",
+   "s": "Bandcamp Radio",
+   "sid": "bandcamp-radio",
+   "t": "The Indie Show: Caroline Rose",
+   "u": "https://bandcamp.com/radio/the-indie-show/991"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 60,
- "paused": 16,
+ "newCount": 62,
+ "paused": 17,
  "releases": [
   {
    "k": "Single · Anjunadeep Explorations",
    "out": "2026-10-14T00:00:00Z",
    "t": "foglight – Coda / Golden Hour",
    "u": "https://anjunadeep.com/products/621098-coda-golden-hour"
+  },
+  {
+   "k": "EP · Anjunadeep",
+   "out": "2026-10-14T00:00:00Z",
+   "t": "Anjunadeep Archive 02",
+   "u": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
   },
   {
    "k": "Album · Anjunadeep",
@@ -220,5 +228,5 @@
   }
  ],
  "sources": 153,
- "updated": "2026-10-14T12:00:17Z"
+ "updated": "2026-10-14T23:57:27Z"
 }

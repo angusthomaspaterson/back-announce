@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-14T15:22:22Z",
+   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+   "duration": null,
+   "id": "6ace619724fcaf0001012c39",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/Actress-_LBY_LEAD_CREDIT_AnnaVanDerVelde-1.jpg",
+   "title": "Actress on Persona, Performance, and Musical Paradoxes",
+   "url": "https://last-donut-of-the-night.ghost.io/actress-on-persona-performance-and-musical-paradoxes/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-13T08:00:00Z",
    "desc": "",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/09/austinabrams.jpg",
    "title": "Screen Memories: Resident Evil, For the Plasma, the Psycho franchise",
    "url": "https://last-donut-of-the-night.ghost.io/screen-memories-resident-evil-for-the-plasma-the-psycho-franchise/"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-23T15:31:57Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6ab2f2e7f7f6540001a11454",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/09/unnamed--1-.png",
-   "title": "L'Rain on Surprising Herself, Animal Collective, and Passing the Art World Torch",
-   "url": "https://last-donut-of-the-night.ghost.io/lrain-interview-2/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-13T08:43:21Z"
+ "updatedAt": "2026-10-14T23:57:27Z"
 }

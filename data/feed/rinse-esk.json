@@ -3,6 +3,14 @@
  "id": "rinse-esk",
  "items": [
   {
+   "date": "2026-10-14T09:00:00Z",
+   "desc": "",
+   "id": "esk-14-10-2026-1000",
+   "image": "https://image.rinse.fm/_/eskpic.JPG?w=1200&h=630",
+   "title": "Esk, 14 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/esk-14-10-2026-1000"
+  },
+  {
    "date": "2026-09-30T09:00:00Z",
    "desc": "",
    "id": "esk-30-09-2026-1000",
@@ -187,14 +195,6 @@
    "url": "https://www.rinse.fm/episodes/esk-12-11-2025-0900"
   },
   {
-   "date": "2025-10-29T09:00:00Z",
-   "desc": "",
-   "id": "esk-29-10-2025-0900",
-   "image": "https://image.rinse.fm/_/eskpic.JPG?w=1200&h=630",
-   "title": "Esk, 29 Oct 2025",
-   "url": "https://www.rinse.fm/episodes/esk-29-10-2025-0900"
-  },
-  {
    "date": null,
    "desc": "",
    "id": "esk-05-11-2025-0900-2",
@@ -205,5 +205,5 @@
  ],
  "kind": "rinse",
  "name": "Esk",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T23:57:27Z"
 }

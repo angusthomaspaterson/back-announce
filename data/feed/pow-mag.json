@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-14T16:03:54Z",
+   "desc": "The latest edition of Douglas Martin’s Dirty Shoes finds the author trailing the D.C. art-punks.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-sexfaces-across-the-great-evergreen-state",
+   "image": "https://substackcdn.com/image/fetch/$s_!OcU2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a040e6a-77a6-4ae1-a780-515834b72f3d_1200x1200.png",
+   "title": "SEXFACES Across the Great Evergreen State",
+   "url": "https://www.powmag.net/p/sexfaces-across-the-great-evergreen-state"
+  },
+  {
+   "audio": null,
    "date": "2026-10-13T19:31:22Z",
    "desc": "Customer Service is a weekly feature to help you cut through the digital weeds and find the music you want.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!W7dg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0a0d6ab-8590-4123-a03b-bbddf2d15127_1200x1200.png",
    "title": "You Can Scare the Moment Away: An Interview with doseone",
    "url": "https://www.powmag.net/p/doseone-interview-sighting"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-21T17:17:57Z",
-   "desc": "Jeff Weiss returns from Nevada reflecting on 30 years of American conspiracies, 2Pac’s long, strange afterlife, and the power to end it all.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-until-the-end-of-time-2pac-trial-trinity-test",
-   "image": "https://substackcdn.com/image/fetch/$s_!zbWk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5193ece-8eb1-4b5e-bee2-af7e6b7fac9a_1200x1200.png",
-   "title": "Until the End of Time",
-   "url": "https://www.powmag.net/p/until-the-end-of-time-2pac-trial-trinity-test"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-13T22:50:30Z"
+ "updatedAt": "2026-10-14T23:57:27Z"
 }

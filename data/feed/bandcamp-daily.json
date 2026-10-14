@@ -3,10 +3,28 @@
  "id": "bandcamp-daily",
  "items": [
   {
+   "date": "2026-10-14T00:00:00Z",
+   "desc": "The cutting-edge Brooklyn label are driven by process, not genre.",
+   "id": "label-profile-kou-records-label-profile",
+   "image": "https://f4.bcbits.com/img/0047834668_180",
+   "tags": "Label Profile",
+   "title": "Kou Records Builds Community the Old-School Way",
+   "url": "https://daily.bandcamp.com/label-profile/kou-records-label-profile"
+  },
+  {
+   "date": "2026-10-14T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-esoctrilihum-annochiul-xar-sorthilazur-review",
+   "image": "https://f4.bcbits.com/img/0047946151_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Esoctrilihum, “Annochiül Xar Sorthïlazur”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/esoctrilihum-annochiul-xar-sorthilazur-review"
+  },
+  {
    "date": "2026-10-13T00:00:00Z",
-   "desc": "Here's what the darkwave duo is listening to on Bandcamp right now.",
+   "desc": "",
    "id": "big-ups-boy-harsher-big-ups",
-   "image": "https://f4.bcbits.com/img/0047808925_180",
+   "image": "https://f4.bcbits.com/img/0047808925_150.jpg",
    "tags": "Big Ups",
    "title": "Boy Harsher Pick Their Bandcamp Favorites",
    "url": "https://daily.bandcamp.com/big-ups/boy-harsher-big-ups"
@@ -208,27 +226,9 @@
    "tags": "Best Electronic",
    "title": "The Best Electronic Music on Bandcamp, September 2026",
    "url": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-september-2026"
-  },
-  {
-   "date": "2026-10-02T00:00:00Z",
-   "desc": "",
-   "id": "best-punk-the-best-punk-on-bandcamp-september-2026",
-   "image": "https://f4.bcbits.com/img/0047698800_150.jpg",
-   "tags": "Best Punk",
-   "title": "The Best Punk on Bandcamp, September 2026",
-   "url": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-september-2026"
-  },
-  {
-   "date": "2026-10-02T00:00:00Z",
-   "desc": "",
-   "id": "hotlist-the-hotlist-fall-2026",
-   "image": "https://f4.bcbits.com/img/0047408066_150.jpg",
-   "tags": "Hotlist",
-   "title": "The Hotlist, Fall 2026",
-   "url": "https://daily.bandcamp.com/hotlist/the-hotlist-fall-2026"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-13T14:18:42Z"
+ "updatedAt": "2026-10-14T23:57:27Z"
 }
