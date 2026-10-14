@@ -1,0 +1,65 @@
+{
+ "at": "2026-10-14T04:45:47Z",
+ "items": [
+  {
+   "date": "2026-10-09T12:00:00Z",
+   "desc": "Beaming direct from NYC, 100 Elements brings a monthly round up of beats, unreleased exclusives and hip-hop adjacent offerings, curated by YL.",
+   "id": "100-elements-9th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/14e32154-722e-4c2d-acf9-f7cee36e9c26_1791417600.jpeg",
+   "location": "New York",
+   "tags": "Rap, Hip Hop ",
+   "title": "100 Elements w/ YL",
+   "url": "https://www.nts.live/shows/100-elements/episodes/100-elements-9th-october-2026"
+  },
+  {
+   "date": "2026-09-08T21:00:00Z",
+   "desc": "Beaming direct from NYC, 100 Elements brings a monthly round up of beats, unreleased exclusives and hip-hop adjacent offerings, curated by YL.",
+   "id": "100-elements-8th-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/ef52ccfa-b2dd-47aa-8bb1-cdb3adc1dfad_1788739200.png",
+   "location": "New York",
+   "tags": "Rap, Hip Hop , RNB",
+   "title": "100 Elements w/ YL",
+   "url": "https://www.nts.live/shows/100-elements/episodes/100-elements-8th-september-2026"
+  },
+  {
+   "date": "2026-03-24T17:00:00Z",
+   "desc": "Beaming direct from NYC, 100 Elements brings a monthly round up of beats, unreleased exclusives and hip-hop adjacent offerings, curated by YL.",
+   "id": "100-elements-25th-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/fe9242df-6b07-4ba1-b656-ec6562ba6421_1774396800.jpeg",
+   "location": "New York",
+   "tags": "Rap, Beats, Hip Hop ",
+   "title": "100 Elements w/ YL",
+   "url": "https://www.nts.live/shows/100-elements/episodes/100-elements-25th-march-2026"
+  },
+  {
+   "date": "2025-11-14T15:00:00Z",
+   "desc": "Beaming direct from NYC, 100 Elements brings a monthly round up of beats, unreleased exclusives and hip-hop adjacent offerings, curated by YL.",
+   "id": "100-elements-14th-november-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/7f34368d-f64d-4534-be8a-84f4ed4079cd_1763078400.jpeg",
+   "location": "New York",
+   "tags": "Live Performance, Rap, Hip Hop ",
+   "title": "100 Elements w/ YL, PAPO2OO4 + LORD UNKNOWN",
+   "url": "https://www.nts.live/shows/100-elements/episodes/100-elements-14th-november-2025"
+  },
+  {
+   "date": "2025-07-01T18:00:00Z",
+   "desc": "Beaming direct from NYC, 100 Elements brings a monthly round up of beats, unreleased exclusives and hip-hop adjacent offerings, curated by YL.",
+   "id": "100-elements-1st-july-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/6af21556-96cc-4b68-a954-34b9202cd393_1751414400.jpeg",
+   "location": "New York",
+   "tags": "Beats, Chopped N Screwed, Hip Hop ",
+   "title": "100 Elements w/ YL",
+   "url": "https://www.nts.live/shows/100-elements/episodes/100-elements-1st-july-2025"
+  }
+ ],
+ "note": "",
+ "ok": true,
+ "source": {
+  "home": "https://www.nts.live/shows/100-elements",
+  "id": "nts-100-elements",
+  "kind": "nts",
+  "name": "100 Elements w/ YL",
+  "slug": "100-elements"
+ },
+ "url": "https://www.nts.live/shows/100-elements"
+}
