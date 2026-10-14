@@ -28,7 +28,13 @@ export function dur(s) { if (!s) return ''; s = String(s); if (/^\d+$/.test(s)) 
 const APPS = [
   {host: /(^|\.)soundcloud\.com$/i, pkg: 'com.soundcloud.android'},
   {host: /(^|\.)mixcloud\.com$/i, pkg: 'com.mixcloud.player'},
+  {host: /^open\.spotify\.com$/i, pkg: 'com.spotify.music'},
 ];
+/** A Spotify search for a podcast episode or a release, or null where Spotify won't have it. */
+export function spotifySearch(query) {
+  const q = String(query || '').replace(/\s*\([^)]*\)/g, ' ').replace(/[–—:|]/g, ' ').replace(/\s+/g, ' ').trim();
+  return q ? `https://open.spotify.com/search/${encodeURIComponent(q)}` : null;
+}
 export function appIntent(href) {
   let u;
   try { u = new URL(href); } catch (e) { return null; }

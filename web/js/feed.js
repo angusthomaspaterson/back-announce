@@ -1,7 +1,7 @@
 // The Feed tab: the timeline, the Saved view, the Source page and the Sources screen.
 // Each view has its own container, so going to a source and back leaves the feed exactly
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
-import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso} from './util.js';
+import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch} from './util.js';
 import {play} from './player.js';
 
 export const S = {
@@ -81,6 +81,20 @@ function savedList() {
   return Object.entries(S.saved).map(([k, v]) => ({...v, _key: k})).sort((x, y) => (y.savedAt || '').localeCompare(x.savedAt || ''));
 }
 
+/**
+ * Where to find this item in Spotify: podcast episodes (audio from a podcast feed, not
+ * SoundCloud) are searched as "show name + episode title", and releases from a release
+ * schedule (upcoming: true) by "artist + title". Mixes, radio and writing are left out.
+ */
+function spotifyLink(it) {
+  if (it.linkOnly) return null;
+  const c = cfgFor(it.sid) || {};
+  if (c.upcoming) return spotifySearch(it.title);
+  const feed = c.url || '';
+  if (it.audio && c.kind === 'rss' && !/soundcloud\.com/i.test(feed + ' ' + it.audio)) return spotifySearch(`${it.sname} ${it.title}`);
+  return null;
+}
+
 // ---- cards ----
 const cardMap = new Map();   // data-save key -> item, for the click handler
 function heartInner(saved) { return `<span aria-hidden="true">${saved ? '♥' : '♡'}</span>${saved ? 'Saved' : 'Save'}`; }
@@ -96,6 +110,8 @@ function card(it, mode) {
   const when = inSaved ? it.savedAt : it.date;
   const heart = S.canWrite && !it.linkOnly ? `<button class="btn heart" data-save="${esc(key)}" aria-pressed="${saved}" aria-label="${saved ? 'Remove from Saved' : 'Save'}">${heartInner(saved)}</button>` : '';
   const audio = it.audio ? `<button class="btn" data-play="${esc(it.audio)}" data-name="${esc(it.title)}" data-sub="${esc(it.sname)}" data-art="${esc(it.image || '')}">▶ Play</button>` : '';
+  const sp = spotifyLink(it);
+  const spotify = sp ? `<a class="btn spot" href="${esc(sp)}" target="_blank" rel="noopener" title="Search Spotify for this">Spotify ↗</a>` : '';
   const pause = S.canWrite && !inSaved && !inSrc ? `<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this source until you switch it back on">Pause source</button>` : '';
   return `<article class="card${it.linkOnly ? ' linkonly' : ''}" style="--sc:${gcol(it.group)}">
     <div class="who"><button class="srcbtn" data-src="${esc(it.sid)}" ${inSrc ? 'disabled' : ''} aria-label="See recent posts from ${esc(it.sname)}"><span class="av" aria-hidden="true">${esc(initials(it.sname))}</span>
@@ -105,7 +121,7 @@ function card(it, mode) {
     ${it.desc ? `<div class="txt" title="Tap to expand">${esc(it.desc)}</div>` : ''}
     ${links ? `<div class="links">${links}</div>` : ''}
     ${it.image ? `<a class="pic${square ? ' sq' : ''}" href="${esc(it.url)}" target="_blank" rel="noopener"><img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>` : ''}
-    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">Open ↗</a>${heart}${audio}${pause}${tags ? `<span class="tag">${esc(tags)}</span>` : ''}</div>
+    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">Open ↗</a>${heart}${audio}${spotify}${pause}${tags ? `<span class="tag">${esc(tags)}</span>` : ''}</div>
   </article>`;
 }
 function dayList(list, mode, limit) {

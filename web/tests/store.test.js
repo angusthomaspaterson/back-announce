@@ -1,6 +1,6 @@
 // Tests for js/store.js against a pretend GitHub. Open tests/index.html on a local server.
 import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage, repoFiles} from '../js/store.js';
-import {appIntent} from '../js/util.js';
+import {appIntent, spotifySearch} from '../js/util.js';
 
 const out = document.getElementById('out');
 let passed = 0, failed = 0;
@@ -193,6 +193,12 @@ const tests = {
     eq(appIntent('https://feeds.soundcloud.com/users/soundcloud:users:1/sounds.rss'), null, 'feed addresses stay as they are');
     eq(appIntent('https://www.nts.live/shows/moxie'), null, 'other sites stay as they are');
     eq(appIntent('not a link'), null, 'junk');
+    ok(appIntent('https://open.spotify.com/search/Song%20Exploder').startsWith('intent://open.spotify.com/search/Song%20Exploder#Intent;scheme=https;package=com.spotify.music;'), 'spotify');
+  },
+  'Spotify searches are tidy'() {
+    eq(spotifySearch('Popcast (New York Times) Has Taylor Swift jumped the shark?'), 'https://open.spotify.com/search/Popcast%20Has%20Taylor%20Swift%20jumped%20the%20shark%3F', 'drops the bracketed part');
+    eq(spotifySearch('Quivver – Alternate Futures'), 'https://open.spotify.com/search/Quivver%20Alternate%20Futures', 'drops the dash');
+    eq(spotifySearch('  '), null, 'nothing to search');
   },
   async 'checkToken: 409 on the dummy write means writes are allowed'() {
     const gh = fakeGitHub({paused: []});
