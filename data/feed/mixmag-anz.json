@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-14T03:13:00Z",
+   "desc": "Writer Laura McInnes speaks to the Aotearoa musician-turned producer about paying homage to music's history in a multitude of ways. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-clova-composing-her-way-into-club-culture",
+   "image": null,
+   "title": "CLOVA: Composing her way into club culture",
+   "url": "https://mixmag.net.au/feature/clova-composing-her-way-into-club-culture"
+  },
+  {
+   "audio": null,
    "date": "2026-10-13T05:08:28Z",
    "desc": "Writer Marianne Astrid Close sits down with Milkpaste to discuss the music and movements behind her brand-new FLINTA-focused record label: Spot Dial Recordings. Continue reading...",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "Miss Kaninna: The blueprint is Black",
    "url": "https://mixmag.net.au/feature/miss-kaninna-the-blueprint-is-black"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-20T04:53:08Z",
-   "desc": "The 17-year-old Shizuoka institution lands at the National Art School on Sunday, October 18 Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-surplus-taps-rainbow-disco-club-planet-trip-and-mixmag-anz-for-nas-revival-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/SURPLUS-Cover-2026.png",
-   "title": "SURPLUS taps Rainbow Disco Club, Planet Trip and Mixmag ANZ for NAS revival",
-   "url": "https://mixmag.net.au/read/surplus-taps-rainbow-disco-club-planet-trip-and-mixmag-anz-for-nas-revival-news"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-10-13T08:43:21Z"
+ "updatedAt": "2026-10-14T03:26:56Z"
 }
