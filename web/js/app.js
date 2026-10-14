@@ -17,7 +17,7 @@ let current = '';
 // ---- routing ----
 function parseHash() {
   const h = (location.hash || '#feed').replace(/^#/, '');
-  if (h === 'onair') return {tab: 'onair'};
+  if (h === 'onair' || h === 'help') return {tab: h};
   if (h === 'saved' || h === 'sources') return {tab: 'feed', view: h};
   const m = h.match(/^source\/(.+)$/);
   if (m) return {tab: 'feed', view: 'source', srcId: decodeURIComponent(m[1])};
@@ -26,13 +26,14 @@ function parseHash() {
 function route() {
   const r = parseHash(), hash = location.hash || '#feed';
   if (stack.length && stack[stack.length - 1] === hash) stack.pop();   // this was a Back
-  const key = r.tab === 'onair' ? 'onair' : r.view;
+  const key = r.tab === 'feed' ? r.view : r.tab;
   if (current) scrollMemo[current] = window.scrollY;
-  $('feed').hidden = r.tab !== 'feed'; $('onair').hidden = r.tab !== 'onair';
+  $('feed').hidden = r.tab !== 'feed'; $('onair').hidden = r.tab !== 'onair'; $('help').hidden = r.tab !== 'help';
   $('tabFeed').setAttribute('aria-current', r.tab === 'feed' ? 'page' : 'false');
   $('tabOnair').setAttribute('aria-current', r.tab === 'onair' ? 'page' : 'false');
   $('meta').hidden = r.tab !== 'feed'; $('clocks').hidden = r.tab !== 'onair';
-  if (r.tab === 'onair') { $('title').textContent = 'On Air'; onair.start(); onair.render(); }
+  if (r.tab === 'help') $('title').textContent = 'Help';
+  else if (r.tab === 'onair') { $('title').textContent = 'On Air'; onair.start(); onair.render(); }
   else {
     if (r.view === 'source') { if (current !== 'source') S.prevView = current || 'feed'; S.srcId = r.srcId; }
     const lists = v => v === 'feed' || v === 'saved';

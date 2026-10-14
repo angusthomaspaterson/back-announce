@@ -207,6 +207,15 @@ footer p{margin:0 0 6px}
 .oa .srow .n{font-weight:600;font-size:13px}
 .oa .srow .b{display:flex;gap:6px}
 
+/* ---- help ---- */
+.hp{padding-block:6px 30px;font-size:14.5px;line-height:1.55}
+.hp .lead{font-size:15.5px;margin:14px 0 4px}
+.hp h2{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-family:var(--body);font-weight:600;margin:24px 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.hp ul,.hp ol{padding-left:20px;margin:0;display:grid;gap:7px}
+.hp p{margin:0}
+.hp b{font-weight:600}
+footer a{color:var(--fg)}
+
 /* ---- player and toast ---- */
 .player{position:fixed;left:50%;bottom:calc(10px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);width:min(680px,calc(100vw - 20px));background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:0 6px 24px rgba(0,0,0,.18);padding:10px 12px;display:grid;grid-template-columns:1fr auto;gap:4px 10px;z-index:15}
 .player .pinfo{display:flex;flex-direction:column;min-width:0;line-height:1.2}

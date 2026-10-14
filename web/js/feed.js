@@ -2,7 +2,7 @@
 // Each view has its own container, so going to a source and back leaves the feed exactly
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
 import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso} from './util.js';
-import {play, playable} from './player.js';
+import {play} from './player.js';
 
 export const S = {
   sources: [],          // the source list from data/sources.json
@@ -95,8 +95,7 @@ function card(it, mode) {
   const links = (it.links || []).map(l => `<a href="${esc(l.u)}" target="_blank" rel="noopener">↗ ${esc(l.t)}</a>`).join('');
   const when = inSaved ? it.savedAt : it.date;
   const heart = S.canWrite && !it.linkOnly ? `<button class="btn heart" data-save="${esc(key)}" aria-pressed="${saved}" aria-label="${saved ? 'Remove from Saved' : 'Save'}">${heartInner(saved)}</button>` : '';
-  const audio = it.audio && playable(it.audio) ? `<button class="btn" data-play="${esc(it.audio)}" data-name="${esc(it.title)}" data-sub="${esc(it.sname)}">▶ Play</button>`
-    : it.audio ? `<a class="btn" href="${esc(it.audio)}" target="_blank" rel="noopener">Audio file</a>` : '';
+  const audio = it.audio ? `<button class="btn" data-play="${esc(it.audio)}" data-name="${esc(it.title)}" data-sub="${esc(it.sname)}" data-art="${esc(it.image || '')}">▶ Play</button>` : '';
   const pause = S.canWrite && !inSaved && !inSrc ? `<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this source until you switch it back on">Pause source</button>` : '';
   return `<article class="card${it.linkOnly ? ' linkonly' : ''}" style="--sc:${gcol(it.group)}">
     <div class="who"><button class="srcbtn" data-src="${esc(it.sid)}" ${inSrc ? 'disabled' : ''} aria-label="See recent posts from ${esc(it.sname)}"><span class="av" aria-hidden="true">${esc(initials(it.sname))}</span>
@@ -262,7 +261,7 @@ export function wire() {
       const l = t.parentElement.querySelector('.links'); if (l) l.classList.toggle('open', t.classList.contains('open'));
     } else if (t.dataset.save != null) { const it = cardMap.get(t.dataset.save); if (it) S.onSave(it); }
     else if (t.dataset.pause) S.onPause([t.dataset.pause], true, `Paused ${nameOf(t.dataset.pause)}`);
-    else if (t.dataset.play) play(t.dataset.play, t.dataset.name, t.dataset.sub);
+    else if (t.dataset.play) play(t.dataset.play, {title: t.dataset.name, sub: t.dataset.sub, art: t.dataset.art || ''});
     else if (t.dataset.src && !t.disabled) S.onNavigate('#source/' + encodeURIComponent(t.dataset.src));
     else if (t.id === 'more') { S.limit += 60; rendered.stream = null; show(); }
   };

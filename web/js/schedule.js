@@ -9,10 +9,12 @@ export const STATIONS = {
   rinse: {name: 'Rinse FM', tz: LON, colour: '#8a4bd6', live: 'https://www.rinse.fm/', page: 'https://www.rinse.fm/schedule', stream: 'https://admin.stream.rinse.fm/proxy/rinse_uk/stream'},
   nts: {name: 'NTS', tz: LON, colour: '#1b1d22', colourDark: '#ecebe4', live: 'https://www.nts.live/', page: 'https://www.nts.live/my-nts', stream: 'http://stream-relay-geo.ntslive.net/stream', stream2: 'http://stream-relay-geo.ntslive.net/stream2'},
   rtr: {name: 'RTRFM', tz: PERTH, colour: '#e0508a', live: 'https://rtrfm.com.au/', page: 'https://rtrfm.com.au/program-guide/', stream: 'https://live.rtrfm.com.au/stream1'},
-  jjj: {name: 'triple j', tz: SYD, colour: '#d3441c', live: 'https://www.abc.net.au/listen/live/triplej', page: 'https://www.abc.net.au/triplej', stream: 'http://live-radio01.mediahubaustralia.com/2TJW/aac/'},
-  dj: {name: 'Double J', tz: SYD, colour: '#2b6cb0', live: 'https://www.abc.net.au/listen/live/doublej', page: 'https://www.abc.net.au/doublej', stream: 'http://live-radio01.mediahubaustralia.com/DJDW/aac/'},
+  // webPlay: false = the address does not play inside the site. The ABC addresses refused every
+  // connection when checked on 14 Oct 2026; FluxFM's secure address redirects to an insecure one.
+  jjj: {name: 'triple j', tz: SYD, colour: '#d3441c', live: 'https://www.abc.net.au/listen/live/triplej', page: 'https://www.abc.net.au/triplej', stream: 'http://live-radio01.mediahubaustralia.com/2TJW/aac/', webPlay: false},
+  dj: {name: 'Double J', tz: SYD, colour: '#2b6cb0', live: 'https://www.abc.net.au/listen/live/doublej', page: 'https://www.abc.net.au/doublej', stream: 'http://live-radio01.mediahubaustralia.com/DJDW/aac/', webPlay: false},
   bc: {name: 'Bandcamp Radio', tz: PERTH, colour: '#1da0c3', live: 'https://bandcamp.com/radio', page: 'https://bandcamp.com/radio'},
-  flux: {name: 'FluxFM', tz: BER, colour: '#555b66', live: 'https://www.fluxfm.de/', page: 'https://www.fluxfm.de/', stream: 'http://streams.fluxfm.de/live/mp3-320/audio/'},
+  flux: {name: 'FluxFM', tz: BER, colour: '#555b66', live: 'https://www.fluxfm.de/', page: 'https://www.fluxfm.de/', stream: 'http://streams.fluxfm.de/live/mp3-320/audio/', webPlay: false},
 };
 
 export const SHOWS = [

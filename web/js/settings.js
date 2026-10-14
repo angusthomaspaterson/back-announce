@@ -20,6 +20,7 @@ export function wireSettings({store, fetchImpl, onToken}) {
 
   $('settingsBtn').addEventListener('click', () => { refresh(); dlg.showModal(); });
   dlg.addEventListener('click', e => { if (e.target === dlg) dlg.close(); });   // tap outside to close
+  $('helpLink').addEventListener('click', () => dlg.close());
 
   $('tokenSave').addEventListener('click', async () => {
     const t = input.value.trim();

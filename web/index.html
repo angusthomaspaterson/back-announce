@@ -49,7 +49,7 @@
     <div class="mng" id="mng"></div>
     <div id="sources"></div>
   </section>
-  <footer id="feedFoot">Gathered every six hours by a scheduled job on GitHub, and the Substack newsletters by a small task on the laptop: SoundCloud, Mixcloud and podcast feeds, Substack and magazine feeds, the NTS API, Rinse show pages, and the Bandcamp Daily and Radio pages. New cards stay marked until you press Mark all seen. Saved keeps a full copy of a card, so it stays after the episode drops out of the feed. Paused sources keep being gathered in the background, so switching one back on brings its recent episodes straight in.</footer>
+  <footer id="feedFoot">Gathered every six hours by a scheduled job on GitHub, and the Substack newsletters by a small task on the laptop: SoundCloud, Mixcloud and podcast feeds, Substack and magazine feeds, the NTS API, Rinse show pages, and the Bandcamp Daily and Radio pages. New cards stay marked until you press Mark all seen. Saved keeps a full copy of a card, so it stays after the episode drops out of the feed. Paused sources keep being gathered in the background, so switching one back on brings its recent episodes straight in. <a href="#help">How to use Back Announce</a>.</footer>
 </main>
 
 <main id="onair" class="oa" hidden>
@@ -81,6 +81,75 @@
   </footer>
 </main>
 
+<main id="help" class="hp" hidden>
+  <p class="lead">Radio shows, mixes, podcasts and writing from about 150 sources you chose, in one timeline, plus what's live now on your stations. Everything lives in your GitHub repository <a href="https://github.com/angusthomaspaterson/back-announce" target="_blank" rel="noopener">back-announce</a>; this app and any other device read and write the same copy.</p>
+
+  <h2>Set up each device once</h2>
+  <ol>
+    <li><b>Install it.</b> On the Pixel, open the site in Chrome, tap the three dots, then <b>Add to Home screen</b> and <b>Install</b>. On the laptop, use the install icon at the right of Chrome's address bar.</li>
+    <li><b>Turn on saving.</b> Tap the Settings button (the two sliders, top right), paste a GitHub token and press <b>Save token</b>. Settings has the steps for making one under "How to make a token". Make a separate token for each device.</li>
+    <li>Without a token the app still works, but read only: no Save, Pause or Mark all seen.</li>
+  </ol>
+
+  <h2>Feed</h2>
+  <ul>
+    <li><b>Newest first,</b> under day headings in Perth time. <b>New</b> marks anything since you last pressed <b>Mark all seen</b>; the number on the Feed tab counts them.</li>
+    <li><b>Tap a card's text</b> to read all of it. On a First Floor recommendations card this also lists each record with its link.</li>
+    <li><b>Tap the round initials or the source's name</b> to see everything stored from that source. <b>Back</b> returns you to the same spot.</li>
+    <li><b>Group chips</b> (Bass, NTS, Writing and so on) hide or show a group. This is remembered on this device only.</li>
+    <li><b>Open</b> goes to the episode or article. <b>Play</b> plays it in the player at the bottom; the lock screen shows it, with play, pause, back 15 seconds and forward 30.</li>
+    <li><b>Save</b> (the heart) keeps a full copy in Saved, so it stays after the episode drops out of the feed.</li>
+    <li><b>Pause source</b> hides that source on every device. It is still gathered, so resuming it brings its recent episodes straight back.</li>
+    <li>Every Save, Pause and Mark all seen shows a message at the bottom with <b>Undo</b>.</li>
+    <li><b>Refresh</b> (the circular arrow, top right) fetches the latest feed and any changes from your other device. It also happens by itself when you come back to the app after a few minutes.</li>
+  </ul>
+
+  <h2>Saved</h2>
+  <ul>
+    <li>Tap the <b>Saved</b> chip at the start of the row. Newest saves first, under the day you saved them.</li>
+    <li>Tap the heart to remove one; <b>Undo</b> brings it back.</li>
+  </ul>
+
+  <h2>Sources</h2>
+  <ul>
+    <li>Tap the <b>Sources</b> chip at the end of the row. Each source has a switch; <b>Pause group</b> and <b>Resume group</b> do a whole group.</li>
+    <li><b>All, Following, Paused</b> filter the list. <b>Keep only my original 20</b>, the "added 1 Oct" and "added 11 Oct" buttons and <b>Resume everything</b> work on whole batches.</li>
+    <li>The right-hand column shows the date of the newest item, or <b>failed</b> (the last fetch didn't work, the older items are kept), or <b>link only</b> (the site refused the gatherer, and the card opens the site instead).</li>
+    <li>Tap a name to open that source's page.</li>
+  </ul>
+
+  <h2>On Air</h2>
+  <ul>
+    <li><b>On now</b> with time left, <b>Next 24 hours</b>, and <b>This week</b> by day. Everything is in Perth time, and UK, Sydney and Berlin clock changes are handled automatically.</li>
+    <li><b>Station chips</b> hide or show a station on this device.</li>
+    <li><b>Listen live</b> opens the station's own player. <b>Play here</b> plays it in the app, and the lock screen shows the show on now, updating when the next one starts.</li>
+    <li><b>Copy stream</b> copies the address for a radio app. triple j, Double J and FluxFM can't play inside the app; use Listen live for those.</li>
+  </ul>
+
+  <h2>Offline</h2>
+  <p>The app keeps the last feed and your recent pictures, so it opens with no signal. Saves and pauses made offline are sent when the connection is back. Playing audio needs a connection.</p>
+
+  <h2>When things update</h2>
+  <ul>
+    <li><b>The feed</b> is gathered on GitHub every six hours, at about 2:17, 8:17, 14:17 and 20:17 Perth time. GitHub sometimes runs these a little late.</li>
+    <li><b>The Substack newsletters</b> (First Floor, No Tags, Futurism Restated, Tone Glow, Erratic Aesthetic, and five you've paused) are gathered by the laptop every three hours while it's on, because Substack turns GitHub away.</li>
+    <li><b>The app</b> picks up a new gather a few minutes after it finishes.</li>
+    <li><b>Your saves and pauses</b> reach GitHub a couple of seconds after you tap. The status line says "saving…" until they have.</li>
+  </ul>
+
+  <h2>If something looks wrong</h2>
+  <ul>
+    <li><b>The status line says "not saved".</b> Open Settings; it says why. Usually the token has expired, so make a new one and paste it in.</li>
+    <li><b>The "Updated" time is more than about seven hours old.</b> On GitHub, open the repository's <a href="https://github.com/angusthomaspaterson/back-announce/actions" target="_blank" rel="noopener">Actions</a> tab and choose <b>Gather the feed</b>. If a yellow banner says it was disabled, press <b>Enable workflow</b>. Then press <b>Run workflow</b>.</li>
+    <li><b>The Substack sources are behind.</b> The laptop has been off; they catch up next time it's on.</li>
+    <li><b>A source says "failed" for days.</b> The site may have moved its feed. Ask Claude in the back-announce folder to look into it.</li>
+    <li><b>You see an old version of the app.</b> Close it fully and open it again.</li>
+  </ul>
+
+  <h2>Adding or changing sources</h2>
+  <p>Not in the app yet. For now, open Claude in the back-announce folder and say, for example, "Add this source to the Writing group:" followed by the link.</p>
+</main>
+
 <div class="player" id="player" hidden>
   <div class="pinfo"><span class="pname" id="pName"></span><span class="psub" id="pSub"></span></div>
   <audio id="audio" controls preload="none"></audio>
@@ -107,6 +176,7 @@
       </ol>
       <p class="hint">Treat it like a password. Make a separate one for each device, so you can cancel one without affecting the other.</p>
     </details>
+    <p class="hint"><a href="#help" id="helpLink">How to use Back Announce</a></p>
     <p class="hint" id="versionLine"></p>
     <div class="setrow end"><button class="btn" value="close">Close</button></div>
   </form>

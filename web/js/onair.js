@@ -2,7 +2,14 @@
 // Intl handles daylight saving for every station's zone.
 import {$, esc, isDark} from './util.js';
 import {STATIONS, SHOWS, FOLLOW, EXTRA_STREAMS, PERTH, LON, SYD} from './schedule.js';
-import {play, playable} from './player.js';
+import {play} from './player.js';
+
+/** Play a station's stream; the player shows the show on now and keeps it current. */
+export function playStation(k) {
+  const st = STATIONS[k];
+  const describe = () => { const o = nowOn(k); return o ? {title: o.sh.n, sub: `${st.name} · live until ${hm(o.end, PERTH)}`} : {title: st.name, sub: 'Live'}; };
+  play(st.stream, {...describe(), live: true, describe});
+}
 
 const fmtCache = {};
 function fmt(tz) { return fmtCache[tz] || (fmtCache[tz] = new Intl.DateTimeFormat('en-GB', {timeZone: tz, hourCycle: 'h23', year: 'numeric', month: '2-digit', day: '2-digit', weekday: 'short', hour: '2-digit', minute: '2-digit', second: '2-digit'})); }
@@ -53,13 +60,13 @@ function sc(st) { return (isDark() && st.colourDark) || st.colour; }
 function mins(ms) { const m = Math.round(ms / 60000); if (m < 60) return m + ' min'; const h = Math.floor(m / 60), r = m % 60; return r ? h + 'h ' + r + 'm' : h + 'h'; }
 
 function renderFilters() {
-  $('oaFilters').innerHTML = Object.entries(STATIONS).map(([k, st]) => `<button class="chip" id="chip-${k}" aria-pressed="${enabled[k]}" data-k="${k}" style="--sc:${sc(st)}"><span class="sw"></span>${esc(st.name)}</button>`).join('');
-  $('oaFilters').querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => { enabled[b.dataset.k] = !enabled[b.dataset.k]; save(); render(); }));
+  $('oaFilters').innerHTML = Object.entries(STATIONS).map(([k, st]) => `<button class="chip" id="chip-${k}" aria-pressed="${enabled[k]}" data-station="${k}" style="--sc:${sc(st)}"><span class="sw"></span>${esc(st.name)}</button>`).join('');
+  $('oaFilters').querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => { enabled[b.dataset.station] = !enabled[b.dataset.station]; save(); renderFilters(); render(); }));
 }
 
 function playBtn(st, label) {
-  if (!st.stream || !playable(st.stream)) return '';
-  return `<button class="btn q" data-play="${esc(st.stream)}" data-name="${esc(st.name)}" data-k="${esc(Object.keys(STATIONS).find(k => STATIONS[k] === st) || '')}">▶ ${label || 'Play here'}</button>`;
+  if (!st.stream || st.webPlay === false) return '';
+  return `<button class="btn q" data-k="${esc(Object.keys(STATIONS).find(k => STATIONS[k] === st) || '')}">▶ ${label || 'Play here'}</button>`;
 }
 
 function card(o, now) {
@@ -104,12 +111,19 @@ export function render() {
   const week = occ.filter(o => o.start >= ds && o.start < de).sort((a, b) => a.start - b.start);
   $('week').innerHTML = week.length ? week.map(o => row(o, now)).join('') : `<div class="empty">Nothing on this day for the stations you have on.</div>`;
   $('follow').innerHTML = FOLLOW.filter(f => enabled[f.st]).map(f => { const st = STATIONS[f.st]; return `<div class="frow" style="--sc:${sc(st)}"><div class="n"><a href="${esc(f.u)}" target="_blank" rel="noopener">${esc(f.n)}</a></div><div class="c">${esc(f.c)}</div><div class="m">${esc(st.name)} · ${esc(f.m)}</div></div>`; }).join('');
-  const streams = Object.values(STATIONS).filter(s => s.stream).map(s => ({name: s.name, stream: s.stream})).concat(EXTRA_STREAMS);
-  $('streams').innerHTML = streams.map(s => `<div class="srow"><div><div class="n">${esc(s.name)}</div><code>${esc(s.stream)}</code></div><div class="b">${playable(s.stream) ? `<button class="btn q" data-play="${esc(s.stream)}" data-name="${esc(s.name)}">▶</button>` : ''}<button class="btn q" data-copy="${esc(s.stream)}">Copy</button></div></div>`).join('')
-    + `<div class="srow"><div><div class="n">BBC and ABC streams</div><code>The BBC addresses are HLS, which only Safari plays in the browser; use a radio app for those. ABC streams may be geo-blocked outside Australia.</code></div></div>`;
+  const streams = Object.entries(STATIONS).filter(([, s]) => s.stream).map(([k, s]) => ({k, name: s.name, stream: s.stream, webPlay: s.webPlay}))
+    .concat(EXTRA_STREAMS.map((s, i) => ({...s, x: i})));
+  $('streams').innerHTML = streams.map(s => `<div class="srow"><div><div class="n">${esc(s.name)}</div><code>${esc(s.stream)}</code></div><div class="b">${s.webPlay === false ? '' : `<button class="btn q" ${s.k ? `data-k="${s.k}"` : `data-x="${s.x}"`} aria-label="Play ${esc(s.name)}">▶</button>`}<button class="btn q" data-copy="${esc(s.stream)}">Copy</button></div></div>`).join('')
+    + `<div class="srow"><div><div class="n">Not playable in the site</div><code>triple j and Double J: these ABC addresses refused every connection when checked on 14 October 2026, so use the ABC listen app or the Listen live link. FluxFM: its secure address hands over to an insecure one, which browsers block; use Listen live or a radio app.</code></div></div>`;
   clocks();
-  document.querySelectorAll('#onair [data-copy]').forEach(b => b.addEventListener('click', () => copy(b.dataset.copy)));
-  document.querySelectorAll('#onair [data-play]').forEach(b => b.addEventListener('click', () => { const o = b.dataset.k ? nowOn(b.dataset.k, Date.now()) : null; play(b.dataset.play, b.dataset.name, o ? o.sh.n : 'Live'); }));
+}
+function wireOnAir() {
+  $('onair').addEventListener('click', e => {
+    const b = e.target.closest('button'); if (!b) return;
+    if (b.dataset.copy) copy(b.dataset.copy);
+    else if (b.dataset.k && STATIONS[b.dataset.k]) playStation(b.dataset.k);
+    else if (b.dataset.x != null) { const s = EXTRA_STREAMS[+b.dataset.x]; play(s.stream, {title: s.name, sub: 'Live', live: true}); }
+  });
 }
 
 export function clocks() {
@@ -132,6 +146,7 @@ function copy(text) {
 let started = false;
 export function start() {
   if (started) return; started = true;
+  wireOnAir();
   renderFilters(); render();
   setInterval(clocks, 15000);
   setInterval(() => { if (!$('onair').hidden) render(); }, 60000);

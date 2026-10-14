@@ -24,8 +24,26 @@ self.addEventListener('fetch', e => {
     } else e.respondWith(cacheFirst(e.request, SHELL_CACHE));
   } else if (/fonts\.(googleapis|gstatic)\.com$/.test(url.hostname)) {
     e.respondWith(staleWhileRevalidate(e.request, FONT_CACHE));
+  } else if (e.request.destination === 'image') {
+    e.respondWith(cachedPicture(e.request));
   }
 });
+
+// Card pictures come straight from each source's site. Keep the most recent ones so the
+// feed still has its pictures offline, capped so the cache cannot grow without limit.
+const IMAGE_CACHE = 'ba-images', IMAGE_LIMIT = 150;
+async function cachedPicture(req) {
+  const cache = await caches.open(IMAGE_CACHE);
+  const hit = await cache.match(req);
+  if (hit) return hit;
+  const res = await fetch(req);
+  if (res.ok || res.type === 'opaque') {
+    // Store and trim in the background, so the picture shows without waiting.
+    cache.put(req, res.clone()).then(() => cache.keys()).then(keys =>   // oldest first
+      Promise.all(keys.slice(0, Math.max(0, keys.length - IMAGE_LIMIT)).map(k => cache.delete(k)))).catch(() => {});
+  }
+  return res;
+}
 
 async function networkFirst(req, cacheName) {
   const cache = await caches.open(cacheName);
