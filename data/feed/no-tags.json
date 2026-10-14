@@ -3,6 +3,16 @@
  "id": "no-tags",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/220217166/bd2cf13696539ecc417edd13eb093592.mp3",
+   "date": "2026-10-14T15:56:50Z",
+   "desc": "For 20 years, Mantra and Double O have been running Rupture, the London-based party that’s become guiding light for 160-inclined ravers. As any promoter will tell you, that’s a damn good shift. Next month they celebrate two decades with a book – We Are Rupture: Signals From The Heart of the Rave – which gathers stories and reflections from their community, from international pilgrimages to processing grief on the dancefloor. They’re also working on perhaps the world’s first junglist play , Ferry to the Underworld – a theatrical prelude to their London and Bristol parties this November. A play…",
+   "duration": "5693",
+   "id": "substack:post:220217166",
+   "image": "https://substackcdn.com/feed/podcast/2037294/post/220217166/94bc6ec77d3256d225f98485f7f27638.jpg",
+   "title": "74: What does it take to run a clubnight for 20 years?",
+   "url": "https://notagspodcast.substack.com/p/74-what-does-it-take-to-run-a-clubnight"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/217992374/cacccfa50f5c351c9ebec33a157b420b.mp3",
    "date": "2026-09-30T09:52:28Z",
    "desc": "We need to talk about this event flyer , and not just because of how Big Beat Cinema -coded it is. Prospa , Josh Baker and Kettama have worked their way into the uppermost stratum of dance music – a rarefied zone which might seem a million miles away to No Tags listeners, but which has officially become too big to ignore. The massive Finsbury Park show that this photo shoot is advertising received 220,000 presale sign-ups and sold out in a day. At the time of writing, the boys have just added a third date. Clearly their Guy Ritchie-style promo video did the business. So what’s the secret reci…",
@@ -241,19 +251,9 @@
    "image": "https://substackcdn.com/feed/podcast/2037294/post/168743255/3f6164037037333f8cc5adc68ff73563.jpg",
    "title": "50: Jeff Weiss is still waiting for Britney Spears",
    "url": "https://notagspodcast.substack.com/p/50-jeff-weiss-britney-spears"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/166816330/0f4012f99b99acc7a7017a95a4a42de0.mp3",
-   "date": "2025-06-26T11:04:04Z",
-   "desc": "It’s Glastonbury weekend, and we’re back with the Big Questions. Not a sentence we expected to be saying on No Tags, but we kick off by talking about Will Smith – specifically his recent appearance with London streamer du jour DJ AG. The Fresh Prince is in the middle of a generationally cringe promo run and we’ve been wanting to discuss AG’s streams for a while now, so these two forces colliding over a dubstep remix of the Men in Black theme felt like the perfect opportunity. If you’re looking for something more high-brow, well, you still have to get through Tom’s full review of the Cooper’s …",
-   "duration": "2879",
-   "id": "substack:post:166816330",
-   "image": "https://substackcdn.com/feed/podcast/2037294/post/166816330/eb95e1e0e6463c7628da9785f9e961d2.jpg",
-   "title": "49: When does a simulation become a dystopia?",
-   "url": "https://notagspodcast.substack.com/p/49-when-does-a-simulation-become"
   }
  ],
  "kind": "rss",
  "name": "No Tags",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T21:30:10Z"
 }

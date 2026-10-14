@@ -3337,6 +3337,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-14T17:42:24Z",
+     "desc": "This week’s events include Marc Ribot Quartet / Razor-N-Tape pres. ‘A Joyful Noise’ / Mei Semones / Groovy Groovy pres. ‘A Spiritual Boogie’ / Shed / Growing + Ryan Sawyer Shaker Ensemble / and more",
+     "duration": null,
+     "id": "https:--dadastrain.substack.com-p-bklyn-sounds-1014202610202026",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/12cab1a1-7eb0-4f40-87f2-0004bec5e809_1500x1013.jpeg",
+     "title": "Bklyn Sounds 10/14/2026—10/20/2026",
+     "url": "https://dadastrain.substack.com/p/bklyn-sounds-1014202610202026"
+    },
+    {
+     "audio": null,
      "date": "2026-10-08T20:35:40Z",
      "desc": "This week’s events include ‘Pi Records 25th Anniversary’ / Horse Lords / Ava Rocha / Djrum / Unheard: Emilio Modeste & friends / Chocolate Genius Incorporated / and much more",
      "duration": null,
@@ -3524,21 +3534,11 @@
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/4b080774-1cc4-4a9d-a3bf-a042cf0ba555_1500x1013.jpeg",
      "title": "Bklyn Sounds 5/28/2026—6/2/2026",
      "url": "https://dadastrain.substack.com/p/bklyn-sounds-5282026622026"
-    },
-    {
-     "audio": null,
-     "date": "2026-05-21T20:27:26Z",
-     "desc": "This week's events include Bill Frisell scores Bill Morrison and Buster Keaton films / Nia Archives (live + DJ) / Moritz von Oswald + Exos + Loidis / Leila Bordreuil & Lee Ranaldo + medium. / + more",
-     "duration": null,
-     "id": "https:--dadastrain.substack.com-p-bklyn-sounds-52120265262026-a-personalized",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/ffcd7973-ee62-4df5-be43-0a656726add9_1500x1013.jpeg",
-     "title": "A Personalized Guide to NYC Music Listings 2026 | Bklyn Sounds 5/21/2026—5/26/2026",
-     "url": "https://dadastrain.substack.com/p/bklyn-sounds-52120265262026-a-personalized"
     }
    ],
    "kind": "rss",
    "name": "Dada Strain (Piotr Orlov)",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-14T21:30:10Z"
   },
   "days-like-nights": {
    "home": "https://soundcloud.com/eelkekleijn",
@@ -5567,6 +5567,38 @@
    "id": "first-floor",
    "items": [
     {
+     "date": "2026-10-14T15:29:24Z",
+     "desc": "Holy Tongue – Basilikum (AD 93) Claudio PRC – Self Surrender Deconstructed (Delsin) Basma & Temir Alcy – NAD (ناض) (STROOM)",
+     "id": "rollup-2026-10-14",
+     "image": "https://substackcdn.com/image/fetch/$s_!TrLF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30597dbc-8b15-4828-8eb2-0208cd9dd635_1456x1048.jpeg",
+     "links": [
+      {
+       "t": "Holy Tongue – Basilikum",
+       "u": "https://firstfloor.substack.com/p/holy-tongue-basilikum"
+      },
+      {
+       "t": "Claudio PRC – Self Surrender Deconstructed",
+       "u": "https://firstfloor.substack.com/p/claudio-prc-self-surrender-deconstructed"
+      },
+      {
+       "t": "Basma & Temir Alcy – NAD (ناض)",
+       "u": "https://firstfloor.substack.com/p/basma-and-temir-alcy-nad"
+      }
+     ],
+     "title": "First Floor recommendations, 14 Oct: 3 records",
+     "url": "https://firstfloor.substack.com/p/basma-and-temir-alcy-nad"
+    },
+    {
+     "audio": null,
+     "date": "2026-10-14T10:02:38Z",
+     "desc": "A guest recommendation from the Berlin-based ambient and experimental artist.",
+     "duration": null,
+     "id": "https:--firstfloor.substack.com-p-nexcyia-has-better-taste-than-i-do",
+     "image": "https://substackcdn.com/image/fetch/$s_!YaZd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7585bb79-08d0-46d8-8fa0-6a8d6b8bee0b_1456x1048.jpeg",
+     "title": "Nexcyia Has Better Taste Than I Do",
+     "url": "https://firstfloor.substack.com/p/nexcyia-has-better-taste-than-i-do"
+    },
+    {
      "date": "2026-10-13T14:25:52Z",
      "desc": "girlscoutcookies – course (danks)",
      "id": "rollup-2026-10-13",
@@ -5696,26 +5728,10 @@
     },
     {
      "date": "2026-09-30T18:51:19Z",
-     "desc": "R A L L Y – Residue (SPE:C) SPF 50 – Ett Inre Rum (Bliss Point) Ghost Dubs – Oblique (Pressure) Giulio Aldinucci – Materia (Karlrecords) claire rousay & Martyna Basta – hotel room (Unsound) Clima – Healing Patterns (appendix.files)",
+     "desc": "claire rousay & Martyna Basta – hotel room (Unsound) Clima – Healing Patterns (appendix.files)",
      "id": "rollup-2026-09-30",
-     "image": "https://substackcdn.com/image/fetch/$s_!xF3f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F198f46f3-922e-4d08-afb5-27de28f3af9b_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!fIlb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c189e61-225d-4b6c-a035-6d569951cd82_1456x1048.jpeg",
      "links": [
-      {
-       "t": "R A L L Y – Residue",
-       "u": "https://firstfloor.substack.com/p/r-a-l-l-y-residue"
-      },
-      {
-       "t": "SPF 50 – Ett Inre Rum",
-       "u": "https://firstfloor.substack.com/p/spf-50-ett-inre-rum"
-      },
-      {
-       "t": "Ghost Dubs – Oblique",
-       "u": "https://firstfloor.substack.com/p/ghost-dubs-oblique"
-      },
-      {
-       "t": "Giulio Aldinucci – Materia",
-       "u": "https://firstfloor.substack.com/p/giulio-aldinucci-materia"
-      },
       {
        "t": "claire rousay & Martyna Basta – hotel room",
        "u": "https://firstfloor.substack.com/p/claire-rousay-and-martyna-basta-hotel"
@@ -5725,13 +5741,13 @@
        "u": "https://firstfloor.substack.com/p/clima-healing-patterns"
       }
      ],
-     "title": "First Floor recommendations, 30 Sep: 6 records",
+     "title": "First Floor recommendations, 30 Sep: 2 records",
      "url": "https://firstfloor.substack.com/p/clima-healing-patterns"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-10-13T14:54:30Z"
+   "updatedAt": "2026-10-14T21:30:10Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -10974,6 +10990,16 @@
    "id": "no-tags",
    "items": [
     {
+     "audio": "https://api.substack.com/feed/podcast/220217166/bd2cf13696539ecc417edd13eb093592.mp3",
+     "date": "2026-10-14T15:56:50Z",
+     "desc": "For 20 years, Mantra and Double O have been running Rupture, the London-based party that’s become guiding light for 160-inclined ravers. As any promoter will tell you, that’s a damn good shift. Next month they celebrate two decades with a book – We Are Rupture: Signals From The Heart of the Rave – which gathers stories and reflections from their community, from international pilgrimages to processing grief on the dancefloor. They’re also working on perhaps the world’s first junglist play , Ferry to the Underworld – a theatrical prelude to their London and Bristol parties this November. A play…",
+     "duration": "5693",
+     "id": "substack:post:220217166",
+     "image": "https://substackcdn.com/feed/podcast/2037294/post/220217166/94bc6ec77d3256d225f98485f7f27638.jpg",
+     "title": "74: What does it take to run a clubnight for 20 years?",
+     "url": "https://notagspodcast.substack.com/p/74-what-does-it-take-to-run-a-clubnight"
+    },
+    {
      "audio": "https://api.substack.com/feed/podcast/217992374/cacccfa50f5c351c9ebec33a157b420b.mp3",
      "date": "2026-09-30T09:52:28Z",
      "desc": "We need to talk about this event flyer , and not just because of how Big Beat Cinema -coded it is. Prospa , Josh Baker and Kettama have worked their way into the uppermost stratum of dance music – a rarefied zone which might seem a million miles away to No Tags listeners, but which has officially become too big to ignore. The massive Finsbury Park show that this photo shoot is advertising received 220,000 presale sign-ups and sold out in a day. At the time of writing, the boys have just added a third date. Clearly their Guy Ritchie-style promo video did the business. So what’s the secret reci…",
@@ -11212,21 +11238,11 @@
      "image": "https://substackcdn.com/feed/podcast/2037294/post/168743255/3f6164037037333f8cc5adc68ff73563.jpg",
      "title": "50: Jeff Weiss is still waiting for Britney Spears",
      "url": "https://notagspodcast.substack.com/p/50-jeff-weiss-britney-spears"
-    },
-    {
-     "audio": "https://api.substack.com/feed/podcast/166816330/0f4012f99b99acc7a7017a95a4a42de0.mp3",
-     "date": "2025-06-26T11:04:04Z",
-     "desc": "It’s Glastonbury weekend, and we’re back with the Big Questions. Not a sentence we expected to be saying on No Tags, but we kick off by talking about Will Smith – specifically his recent appearance with London streamer du jour DJ AG. The Fresh Prince is in the middle of a generationally cringe promo run and we’ve been wanting to discuss AG’s streams for a while now, so these two forces colliding over a dubstep remix of the Men in Black theme felt like the perfect opportunity. If you’re looking for something more high-brow, well, you still have to get through Tom’s full review of the Cooper’s …",
-     "duration": "2879",
-     "id": "substack:post:166816330",
-     "image": "https://substackcdn.com/feed/podcast/2037294/post/166816330/eb95e1e0e6463c7628da9785f9e961d2.jpg",
-     "title": "49: When does a simulation become a dystopia?",
-     "url": "https://notagspodcast.substack.com/p/49-when-does-a-simulation-become"
     }
    ],
    "kind": "rss",
    "name": "No Tags",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-14T21:30:10Z"
   },
   "nora-en-pure": {
    "home": "https://soundcloud.com/noraenpure",
@@ -31375,7 +31391,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-14T12:00:17Z",
+  "lastRun": "2026-10-14T21:30:10Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-14T12:00:17Z",
@@ -31462,9 +31478,9 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 20,
-    "newest": "2026-10-08T20:35:40Z",
+    "newest": "2026-10-14T17:42:24Z",
     "ok": true
    },
    "days-like-nights": {
@@ -31498,7 +31514,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -31516,9 +31532,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-10-13T14:54:30Z",
-    "count": 9,
-    "newest": "2026-10-13T14:25:52Z",
+    "at": "2026-10-14T21:30:10Z",
+    "count": 11,
+    "newest": "2026-10-14T15:29:24Z",
     "ok": true
    },
    "flow-state": {
@@ -31528,7 +31544,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 20,
     "newest": "2026-10-13T10:31:06Z",
     "ok": true
@@ -31570,7 +31586,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 20,
     "newest": "2026-10-11T13:30:59Z",
     "ok": true
@@ -31624,7 +31640,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 20,
     "newest": "2026-10-12T16:20:44Z",
     "ok": true
@@ -31666,9 +31682,9 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 25,
-    "newest": "2026-09-30T09:52:28Z",
+    "newest": "2026-10-14T15:56:50Z",
     "ok": true
    },
    "nora-en-pure": {
@@ -32242,7 +32258,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 20,
     "newest": "2026-10-10T14:03:45Z",
     "ok": true
@@ -32254,7 +32270,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 20,
     "newest": "2026-10-12T09:02:28Z",
     "ok": true
@@ -32272,7 +32288,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-10-13T14:54:30Z",
+    "at": "2026-10-14T21:30:10Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true

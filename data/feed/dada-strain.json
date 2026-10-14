@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-14T17:42:24Z",
+   "desc": "This week’s events include Marc Ribot Quartet / Razor-N-Tape pres. ‘A Joyful Noise’ / Mei Semones / Groovy Groovy pres. ‘A Spiritual Boogie’ / Shed / Growing + Ryan Sawyer Shaker Ensemble / and more",
+   "duration": null,
+   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-1014202610202026",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/12cab1a1-7eb0-4f40-87f2-0004bec5e809_1500x1013.jpeg",
+   "title": "Bklyn Sounds 10/14/2026—10/20/2026",
+   "url": "https://dadastrain.substack.com/p/bklyn-sounds-1014202610202026"
+  },
+  {
+   "audio": null,
    "date": "2026-10-08T20:35:40Z",
    "desc": "This week’s events include ‘Pi Records 25th Anniversary’ / Horse Lords / Ava Rocha / Djrum / Unheard: Emilio Modeste & friends / Chocolate Genius Incorporated / and much more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/4b080774-1cc4-4a9d-a3bf-a042cf0ba555_1500x1013.jpeg",
    "title": "Bklyn Sounds 5/28/2026—6/2/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-5282026622026"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-21T20:27:26Z",
-   "desc": "This week's events include Bill Frisell scores Bill Morrison and Buster Keaton films / Nia Archives (live + DJ) / Moritz von Oswald + Exos + Loidis / Leila Bordreuil & Lee Ranaldo + medium. / + more",
-   "duration": null,
-   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-52120265262026-a-personalized",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/ffcd7973-ee62-4df5-be43-0a656726add9_1500x1013.jpeg",
-   "title": "A Personalized Guide to NYC Music Listings 2026 | Bklyn Sounds 5/21/2026—5/26/2026",
-   "url": "https://dadastrain.substack.com/p/bklyn-sounds-52120265262026-a-personalized"
   }
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T21:30:10Z"
 }
