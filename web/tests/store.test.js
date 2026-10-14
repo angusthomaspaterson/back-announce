@@ -192,6 +192,7 @@ const tests = {
     ok(appIntent('https://www.mixcloud.com/johndigweed/transitions-1154/').startsWith('intent://www.mixcloud.com/johndigweed/transitions-1154/#Intent;scheme=https;package=com.mixcloud.player;'), 'mixcloud');
     eq(appIntent('https://feeds.soundcloud.com/users/soundcloud:users:1/sounds.rss'), null, 'feed addresses stay as they are');
     eq(appIntent('https://www.nts.live/shows/moxie'), null, 'other sites stay as they are');
+    eq(appIntent('https://www.rinse.fm/'), 'intent://www.rinse.fm/#Intent;scheme=https;package=fm.rinse.player;S.browser_fallback_url=https%3A%2F%2Fwww.rinse.fm%2F;end', 'rinse');
     eq(appIntent('not a link'), null, 'junk');
     ok(appIntent('https://open.spotify.com/search/Song%20Exploder').startsWith('intent://open.spotify.com/search/Song%20Exploder#Intent;scheme=https;package=com.spotify.music;'), 'spotify');
   },
