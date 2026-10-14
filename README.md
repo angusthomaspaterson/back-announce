@@ -95,7 +95,7 @@ The tests read saved copies of real feeds from `gatherer/tests/fixtures/` and ne
 {"id": "nts-moxie", "name": "Moxie", "kind": "nts", "group": "NTS", "home": "https://www.nts.live/shows/moxie", "added": "start", "slug": "moxie"}
 ```
 
-`kind` is one of `rss` (needs `url`), `nts` (needs `slug`), `rinse` (needs `slug`), `mixcloud` (needs `user`) or `manual` (Bandcamp, read from `home`). Optional: `rollup` folds matching titles into one item per day, and `image` is a fallback picture.
+`kind` is one of `rss` (needs `url`), `nts` (needs `slug`), `rinse` (needs `slug`), `mixcloud` (needs `user`) or `manual` (a web page read from `home`: Bandcamp Daily, Bandcamp Radio, or Anjunadeep's release list at anjunadeep.com/music). Optional: `rollup` folds matching titles into one item per day, `image` is a fallback picture, and `upcoming: true` (for a release schedule) dates an unreleased item by when it was first seen, so it appears when announced and returns to the top on release day.
 
 **A feed file** (`data/feed/<id>.json`):
 

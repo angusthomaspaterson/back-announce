@@ -727,6 +727,265 @@
    "name": "The Anjunadeep Edition",
    "updatedAt": "2026-10-13T04:20:38Z"
   },
+  "anjunadeep-releases": {
+   "home": "https://anjunadeep.com/music",
+   "id": "anjunadeep-releases",
+   "items": [
+    {
+     "date": "2026-10-14T03:26:15Z",
+     "desc": "EP on Anjunadeep, out 10 Dec 2026.",
+     "id": "630928-anjunadeep-essentials-04",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/f555b671-6cb8-4d3f-a1b9-62be277ee8f7.jpg",
+     "out": "2026-12-10T00:00:00Z",
+     "tags": "EP · Anjunadeep",
+     "title": "Anjunadeep Essentials 04",
+     "url": "https://anjunadeep.com/products/630928-anjunadeep-essentials-04"
+    },
+    {
+     "date": "2026-10-14T03:26:15Z",
+     "desc": "Album on Anjunachill, out 3 Dec 2026.",
+     "id": "617925-above-beyond-pres-anjunachilled-01",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/617925.jpg",
+     "out": "2026-12-03T00:00:00Z",
+     "tags": "Album · Anjunachill",
+     "title": "Above & Beyond pres. Anjuna:Chilled 01",
+     "url": "https://anjunadeep.com/products/617925-above-beyond-pres-anjunachilled-01"
+    },
+    {
+     "date": "2026-10-14T03:26:15Z",
+     "desc": "Album on Anjunadeep Explorations, out 25 Nov 2026.",
+     "id": "622289-alternate-futures",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/622289.jpg",
+     "out": "2026-11-25T00:00:00Z",
+     "tags": "Album · Anjunadeep Explorations",
+     "title": "Quivver – Alternate Futures",
+     "url": "https://anjunadeep.com/products/622289-alternate-futures"
+    },
+    {
+     "date": "2026-10-14T03:26:15Z",
+     "desc": "Album on Anjunadeep, out 13 Nov 2026.",
+     "id": "610831-because-of-art",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/610831.jpg",
+     "out": "2026-11-13T00:00:00Z",
+     "tags": "Album · Anjunadeep",
+     "title": "Because of Art – Because of Art",
+     "url": "https://anjunadeep.com/products/610831-because-of-art"
+    },
+    {
+     "date": "2026-10-14T00:00:00Z",
+     "desc": "Single on Anjunadeep Explorations, out 14 Oct 2026.",
+     "id": "621098-coda-golden-hour",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621098.jpg",
+     "out": "2026-10-14T00:00:00Z",
+     "tags": "Single · Anjunadeep Explorations",
+     "title": "foglight – Coda / Golden Hour",
+     "url": "https://anjunadeep.com/products/621098-coda-golden-hour"
+    },
+    {
+     "date": "2026-10-09T00:00:00Z",
+     "desc": "EP on Anjunadeep, out 9 Oct 2026.",
+     "id": "618220-moonlight-ep",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/618220.jpg",
+     "out": "2026-10-09T00:00:00Z",
+     "tags": "EP · Anjunadeep",
+     "title": "Eric Luttrell – Moonlight EP",
+     "url": "https://anjunadeep.com/products/618220-moonlight-ep"
+    },
+    {
+     "date": "2026-10-08T00:00:00Z",
+     "desc": "Album on Anjunachill, out 8 Oct 2026.",
+     "id": "618503-lumiere-remixed",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/618503.jpg",
+     "out": "2026-10-08T00:00:00Z",
+     "tags": "Album · Anjunachill",
+     "title": "Planet Of Souls – Lumiere (Remixed)",
+     "url": "https://anjunadeep.com/products/618503-lumiere-remixed"
+    },
+    {
+     "date": "2026-10-07T00:00:00Z",
+     "desc": "Single on Anjunadeep Explorations, out 7 Oct 2026.",
+     "id": "618501-find-my-home-brainbreak",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/618501.jpg",
+     "out": "2026-10-07T00:00:00Z",
+     "tags": "Single · Anjunadeep Explorations",
+     "title": "Rosbeh – Find My Home / Brainbreak",
+     "url": "https://anjunadeep.com/products/618501-find-my-home-brainbreak"
+    },
+    {
+     "date": "2026-10-06T00:00:00Z",
+     "desc": "Single on Anjunadeep, out 6 Oct 2026.",
+     "id": "618502-shift-focus",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/618502.jpg",
+     "out": "2026-10-06T00:00:00Z",
+     "tags": "Single · Anjunadeep",
+     "title": "Because of Art feat. Blair – Shift Focus",
+     "url": "https://anjunadeep.com/products/618502-shift-focus"
+    },
+    {
+     "date": "2026-10-02T00:00:00Z",
+     "desc": "EP on Anjunadeep, out 2 Oct 2026.",
+     "id": "615945-neverending-summer-ep",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/615945.jpg",
+     "out": "2026-10-02T00:00:00Z",
+     "tags": "EP · Anjunadeep",
+     "title": "Ryan Davis – Neverending Summer EP",
+     "url": "https://anjunadeep.com/products/615945-neverending-summer-ep"
+    },
+    {
+     "date": "2026-10-01T00:00:00Z",
+     "desc": "Single on Anjunachill, out 1 Oct 2026.",
+     "id": "616517-sky-falls-down-downtempo-version",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
+     "out": "2026-10-01T00:00:00Z",
+     "tags": "Single · Anjunachill",
+     "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
+     "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
+    },
+    {
+     "date": "2026-10-01T00:00:00Z",
+     "desc": "Single on Anjunachill, out 1 Oct 2026.",
+     "id": "616515-solitude-vr-sofandi-rework",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616515.jpg",
+     "out": "2026-10-01T00:00:00Z",
+     "tags": "Single · Anjunachill",
+     "title": "Tontario feat. Lake Jons – Solitude (Vár Sofandi Rework)",
+     "url": "https://anjunadeep.com/products/616515-solitude-vr-sofandi-rework"
+    },
+    {
+     "date": "2026-09-30T00:00:00Z",
+     "desc": "Single on Anjunadeep Explorations, out 30 Sep 2026.",
+     "id": "616516-illusions",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616516.jpg",
+     "out": "2026-09-30T00:00:00Z",
+     "tags": "Single · Anjunadeep Explorations",
+     "title": "Quivver – Illusions",
+     "url": "https://anjunadeep.com/products/616516-illusions"
+    },
+    {
+     "date": "2026-09-29T00:00:00Z",
+     "desc": "Single on Anjunadeep, out 29 Sep 2026.",
+     "id": "615909-sparklestar",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/615909.jpg",
+     "out": "2026-09-29T00:00:00Z",
+     "tags": "Single · Anjunadeep",
+     "title": "Nicky Elisabeth – Sparklestar",
+     "url": "https://anjunadeep.com/products/615909-sparklestar"
+    },
+    {
+     "date": "2026-09-25T00:00:00Z",
+     "desc": "Album on Anjunadeep, out 25 Sep 2026.",
+     "id": "605656-signals",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605656.jpg",
+     "out": "2026-09-25T00:00:00Z",
+     "tags": "Album · Anjunadeep",
+     "title": "Dusky – Signals",
+     "url": "https://anjunadeep.com/products/605656-signals"
+    },
+    {
+     "date": "2026-09-24T00:00:00Z",
+     "desc": "EP on Anjunachill, out 24 Sep 2026.",
+     "id": "615157-found-our-way-ep",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/615157.jpg",
+     "out": "2026-09-24T00:00:00Z",
+     "tags": "EP · Anjunachill",
+     "title": "Noé Solange – Found Our Way EP",
+     "url": "https://anjunadeep.com/products/615157-found-our-way-ep"
+    },
+    {
+     "date": "2026-09-23T00:00:00Z",
+     "desc": "Single on Anjunadeep Explorations, out 23 Sep 2026.",
+     "id": "615155-mila-kira",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/615155.jpg",
+     "out": "2026-09-23T00:00:00Z",
+     "tags": "Single · Anjunadeep Explorations",
+     "title": "Tomas Novoa – Mila / Kira",
+     "url": "https://anjunadeep.com/products/615155-mila-kira"
+    },
+    {
+     "date": "2026-09-21T00:00:00Z",
+     "desc": "Single on Anjunachill, out 21 Sep 2026.",
+     "id": "614590-variation-vi-chihei-hatakeyama-remix",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/614590.jpg",
+     "out": "2026-09-21T00:00:00Z",
+     "tags": "Single · Anjunachill",
+     "title": "Mark Barrott – Variation (vi) [Chihei Hatakeyama Remix]",
+     "url": "https://anjunadeep.com/products/614590-variation-vi-chihei-hatakeyama-remix"
+    },
+    {
+     "date": "2026-09-18T00:00:00Z",
+     "desc": "EP on Anjunadeep, out 18 Sep 2026.",
+     "id": "613892-dreamer-ep",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613892.jpg",
+     "out": "2026-09-18T00:00:00Z",
+     "tags": "EP · Anjunadeep",
+     "title": "Maty Owl – Dreamer EP",
+     "url": "https://anjunadeep.com/products/613892-dreamer-ep"
+    },
+    {
+     "date": "2026-09-17T00:00:00Z",
+     "desc": "Single on Anjunachill, out 17 Sep 2026.",
+     "id": "613891-he-dreams-of-friends-kloyd-remix",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613891.jpg",
+     "out": "2026-09-17T00:00:00Z",
+     "tags": "Single · Anjunachill",
+     "title": "obli – He Dreams of Friends (Kloyd Remix)",
+     "url": "https://anjunadeep.com/products/613891-he-dreams-of-friends-kloyd-remix"
+    },
+    {
+     "date": "2026-09-16T00:00:00Z",
+     "desc": "EP on Anjunadeep Explorations, out 16 Sep 2026.",
+     "id": "614108-holding-pattern-ep",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/614108.jpg",
+     "out": "2026-09-16T00:00:00Z",
+     "tags": "EP · Anjunadeep Explorations",
+     "title": "Choopsie – Holding Pattern EP",
+     "url": "https://anjunadeep.com/products/614108-holding-pattern-ep"
+    },
+    {
+     "date": "2026-09-15T00:00:00Z",
+     "desc": "Single on Anjunadeep, out 15 Sep 2026.",
+     "id": "613888-breathing-orbit-remix",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613888.jpg",
+     "out": "2026-09-15T00:00:00Z",
+     "tags": "Single · Anjunadeep",
+     "title": "Ben Böhmer, Nils Hoffmann & Malou – Breathing (orbit Remix)",
+     "url": "https://anjunadeep.com/products/613888-breathing-orbit-remix"
+    },
+    {
+     "date": "2026-09-15T00:00:00Z",
+     "desc": "Single on Anjunadeep, out 15 Sep 2026.",
+     "id": "614667-breathing-7-year-anniversary-release",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/614667.jpg",
+     "out": "2026-09-15T00:00:00Z",
+     "tags": "Single · Anjunadeep",
+     "title": "Ben Böhmer, Nils Hoffmann & Malou – Breathing [7 Year Anniversary Release]",
+     "url": "https://anjunadeep.com/products/614667-breathing-7-year-anniversary-release"
+    },
+    {
+     "date": "2026-09-14T00:00:00Z",
+     "desc": "Single on Anjunachill, out 14 Sep 2026.",
+     "id": "613107-sun-moon-downtempo-version",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613107.jpg",
+     "out": "2026-09-14T00:00:00Z",
+     "tags": "Single · Anjunachill",
+     "title": "Above & Beyond feat. Richard Bedford – Sun & Moon (Downtempo Version)",
+     "url": "https://anjunadeep.com/products/613107-sun-moon-downtempo-version"
+    },
+    {
+     "date": "2026-09-11T00:00:00Z",
+     "desc": "Single on Anjunadeep, out 11 Sep 2026.",
+     "id": "613108-magnolia-jody-wisternoff-james-grant-remix",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613108.jpg",
+     "out": "2026-09-11T00:00:00Z",
+     "tags": "Single · Anjunadeep",
+     "title": "John Monkman – Magnolia (Jody Wisternoff & James Grant Remix)",
+     "url": "https://anjunadeep.com/products/613108-magnolia-jody-wisternoff-james-grant-remix"
+    }
+   ],
+   "kind": "manual",
+   "name": "Anjunadeep releases",
+   "updatedAt": "2026-10-14T03:26:15Z"
+  },
   "balance-music": {
    "home": "https://soundcloud.com/balancemusic",
    "id": "balance-music",
@@ -31104,10 +31363,19 @@
    "kind": "rss",
    "name": "21C Progressive House",
    "url": "https://feeds.soundcloud.com/users/soundcloud:users:732625912/sounds.rss"
+  },
+  {
+   "added": "oct14",
+   "group": "Progressive",
+   "home": "https://anjunadeep.com/music",
+   "id": "anjunadeep-releases",
+   "kind": "manual",
+   "name": "Anjunadeep releases",
+   "upcoming": true
   }
  ],
  "status": {
-  "lastRun": "2026-10-13T22:50:30Z",
+  "lastRun": "2026-10-14T03:26:15Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-13T22:50:30Z",
@@ -31125,6 +31393,12 @@
     "at": "2026-10-13T22:50:30Z",
     "count": 25,
     "newest": "2026-10-08T15:05:50Z",
+    "ok": true
+   },
+   "anjunadeep-releases": {
+    "at": "2026-10-14T03:26:15Z",
+    "count": 25,
+    "newest": "2026-10-14T03:26:15Z",
     "ok": true
    },
    "balance-music": {

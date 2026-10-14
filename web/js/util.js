@@ -5,7 +5,7 @@ export const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&'
 
 export const GROUP_COLOURS = {'NTS': '#1b1d22', 'Rinse FM': '#8a4bd6', 'SoundCloud': '#ff5500', 'Podcasts': '#2b6cb0', 'Writing': '#2f7d5b', 'Radio': '#1da0c3', 'Mixes': '#c98a1a', 'Perth': '#e0508a', 'Bass': '#6f9a1f', 'Progressive': '#0d8080', 'Other': '#6b6f78'};
 const GROUP_COLOURS_DARK = {'NTS': '#5a5f6a'};
-export const BATCHES = {sweep: '1 Oct', oct11: '11 Oct'};
+export const BATCHES = {sweep: '1 Oct', oct11: '11 Oct', oct14: '14 Oct'};
 export const addedLabel = a => a === 'start' ? 'Original pick' : BATCHES[a] ? 'Added ' + BATCHES[a] : (a ? 'Added ' + a : '');
 export const isDark = () => document.documentElement.dataset.theme === 'dark' || (document.documentElement.dataset.theme !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches);
 export const gcol = g => (isDark() && GROUP_COLOURS_DARK[g]) || GROUP_COLOURS[g] || GROUP_COLOURS.Other;

@@ -1369,6 +1369,15 @@
    "kind": "rss",
    "name": "21C Progressive House",
    "url": "https://feeds.soundcloud.com/users/soundcloud:users:732625912/sounds.rss"
+  },
+  {
+   "added": "oct14",
+   "group": "Progressive",
+   "home": "https://anjunadeep.com/music",
+   "id": "anjunadeep-releases",
+   "kind": "manual",
+   "name": "Anjunadeep releases",
+   "upcoming": true
   }
  ]
 }

@@ -140,6 +140,39 @@ class ParseBandcamp(unittest.TestCase):
             gather.parse_bandcamp_radio("<html></html>", {})
 
 
+class ParseAnjunadeep(unittest.TestCase):
+    SRC = {"id": "anjunadeep-releases", "name": "Anjunadeep releases", "kind": "manual", "home": "https://anjunadeep.com/music", "upcoming": True}
+
+    def test_releases(self):
+        items = gather.parse_anjunadeep(fixture("anjunadeep-music.html"), self.SRC)
+        self.assertGreater(len(items), 20)
+        a = next(i for i in items if i["id"] == "630928-anjunadeep-essentials-04")
+        self.assertEqual(a["title"], "Anjunadeep Essentials 04")          # Various Artists left off
+        self.assertEqual(a["url"], "https://anjunadeep.com/products/630928-anjunadeep-essentials-04")
+        self.assertEqual(a["out"], "2026-12-10T00:00:00Z")
+        self.assertEqual(a["desc"], "EP on Anjunadeep, out 10 Dec 2026.")
+        self.assertEqual(a["tags"], "EP · Anjunadeep")
+        self.assertTrue(a["image"].startswith("https://d1rgjmn2wmqeif.cloudfront.net/"))
+        self.assertTrue(any(" – " in i["title"] for i in items), "artist names are included")
+        labels = {i["tags"].split(" · ")[1] for i in items}
+        self.assertTrue(labels <= {"Anjunadeep", "Anjunadeep Explorations", "Anjunachill"}, labels)
+
+    def test_upcoming_enters_when_announced_and_returns_on_release_day(self):
+        items = gather.parse_anjunadeep(fixture("anjunadeep-music.html"), self.SRC)
+        day1 = "2026-10-14T03:00:00Z"
+        first = {i["id"]: i for i in gather.gather_one(self.SRC, lambda u, timeout=25: fixture("anjunadeep-music.html"), None, day1)}
+        ess = first["630928-anjunadeep-essentials-04"]
+        self.assertEqual(ess["date"], day1, "upcoming release dated when first seen")
+        past = next(i for i in first.values() if i["out"] < day1)
+        self.assertEqual(past["date"], past["out"], "released items keep their release date")
+        # a week later it is still dated by when it was announced
+        later = gather.settle_upcoming([dict(i) for i in items], list(first.values()), "2026-10-21T03:00:00Z")
+        self.assertEqual(next(i for i in later if i["id"] == ess["id"])["date"], day1)
+        # on release day it takes its release date and comes back to the top
+        out = gather.settle_upcoming([dict(i) for i in items], list(first.values()), "2026-12-10T01:00:00Z")
+        self.assertEqual(next(i for i in out if i["id"] == ess["id"])["date"], "2026-12-10T00:00:00Z")
+
+
 class Rollup(unittest.TestCase):
     SRC = {"id": "first-floor", "name": "First Floor", "kind": "rss", "url": "x",
            "rollup": {"match": "^[^–]+ – [^–]+$", "title": "Recommendations"}}

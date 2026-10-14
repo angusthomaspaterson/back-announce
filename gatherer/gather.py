@@ -297,6 +297,52 @@ def parse_bandcamp_radio(page, src):
     return out
 
 
+def parse_anjunadeep(page, src):
+    """anjunadeep.com/music: the label's releases, including upcoming ones.
+
+    The page embeds its data as Next.js JSON (Apollo cache): product_groups with title, type,
+    release_date, slug and artwork, pointing at artists and labels by reference.
+    """
+    if isinstance(page, bytes):
+        page = page.decode("utf-8", "ignore")
+    m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', page, re.S)
+    if not m:
+        raise ValueError("no release data on the Anjunadeep music page")
+    cache = json.loads(m.group(1))["props"]["pageProps"]["__APOLLO_STATE__"]
+    ref = lambda r: cache.get((r or {}).get("__ref", ""), {})  # noqa: E731
+    out = []
+    for key, g in cache.items():
+        if not key.startswith("product_groups:") or g.get("reference_type") != "release" or not g.get("slug"):
+            continue
+        artist = (ref(g.get("artist")).get("name") or "").strip()
+        label = (ref(g.get("label")).get("name") or "Anjunadeep").strip()
+        kind = (g.get("type") or "release").replace("_", " ")
+        kind = kind.upper() if kind in ("ep", "lp") else kind.capitalize()
+        title = g.get("title") or ""
+        if artist and artist.lower() != "various artists":
+            title = f"{artist} – {title}"
+        out_date = parse_date((g.get("release_date") or "")[:10] + "T00:00:00Z") if g.get("release_date") else None
+        when = datetime.datetime.fromisoformat(out_date.replace("Z", "+00:00")) if out_date else None
+        images = {i.get("size"): i.get("url") for i in (g.get("images") or [])}
+        out.append(item(g["slug"], title, f"https://anjunadeep.com/products/{g['slug']}", out_date,
+                        f"{kind} on {label}" + (f", out {day_month(when)} {when.year}." if when else "."),
+                        {"tags": f"{kind} · {label}", "out": out_date, "image": images.get("m") or g.get("image_url")}))
+    return out
+
+
+def settle_upcoming(items, prev_items, now_iso):
+    """For a release schedule: date a not-yet-released item by when it was first seen.
+
+    It enters the feed on the day it is announced (its release date is in the description),
+    and comes back to the top on release day, when its date becomes the release date.
+    """
+    first_seen = {i["id"]: i.get("date") for i in (prev_items or []) if i.get("date") and i["date"] <= now_iso}
+    for i in items:
+        out = i.get("out") or i.get("date")
+        i["date"] = first_seen.get(i["id"], now_iso) if out and out > now_iso else out
+    return items
+
+
 # ---------- kinds (fetch + parse) ----------
 
 def do_rss(src, fetcher):
@@ -330,6 +376,8 @@ def do_manual(src, fetcher):
         return parse_bandcamp_daily(_bandcamp_page(home, fetcher), src)
     if "bandcamp.com/radio" in home:
         return parse_bandcamp_radio(_bandcamp_page(home, fetcher), src)
+    if "anjunadeep.com/music" in home:
+        return parse_anjunadeep(fetcher(home), src)
     raise ValueError(f"no parser for manual source {home}")
 
 
@@ -385,8 +433,11 @@ def finish(items, src, now=None):
     return unique[:KEEP]
 
 
-def gather_one(src, fetcher=fetch):
-    return finish(KINDS[src["kind"]](src, fetcher), src)
+def gather_one(src, fetcher=fetch, prev_items=None, now=None):
+    items = KINDS[src["kind"]](src, fetcher)
+    if src.get("upcoming"):
+        items = settle_upcoming(items, prev_items, now or iso(datetime.datetime.now(UTC)))
+    return finish(items, src)
 
 
 # ---------- the run ----------
@@ -421,7 +472,8 @@ def run(sources, feed_dir, status_path, fetcher=fetch, workers=WORKERS, now=None
 
     def work(src):
         try:
-            return src, gather_one(src, fetcher), None
+            prev = load_json(os.path.join(feed_dir, f"{src['id']}.json"), None) if src.get("upcoming") else None
+            return src, gather_one(src, fetcher, (prev or {}).get("items"), now), None
         except Exception as e:  # noqa: BLE001 - any failure keeps the old file
             return src, None, f"{type(e).__name__}: {e}"[:200]
 
