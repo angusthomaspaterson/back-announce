@@ -1,6 +1,7 @@
 // Bootstrap: load the data, route by hash, switch tabs, and connect the buttons to the store.
-// Routes: #feed, #saved, #sources, #source/<id>, #onair.
-import {$, wireToast, toast, nowIso} from './util.js';
+// Routes: #feed, #saved, #sources, #source/<id>, #add, #onair, #help.
+import {$, wireToast, toast, nowIso, appIntent, isAndroid} from './util.js';
+import {wireAdd, showAdd} from './add.js';
 import {loadAll} from './data.js';
 import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, findSavedKey, savedKey, snapshot, nameOf} from './feed.js';
 import * as onair from './onair.js';
@@ -18,7 +19,7 @@ let current = '';
 function parseHash() {
   const h = (location.hash || '#feed').replace(/^#/, '');
   if (h === 'onair' || h === 'help') return {tab: h};
-  if (h === 'saved' || h === 'sources') return {tab: 'feed', view: h};
+  if (h === 'saved' || h === 'sources' || h === 'add') return {tab: 'feed', view: h};
   const m = h.match(/^source\/(.+)$/);
   if (m) return {tab: 'feed', view: 'source', srcId: decodeURIComponent(m[1])};
   return {tab: 'feed', view: 'feed'};
@@ -35,7 +36,7 @@ function route() {
   if (r.tab === 'help') $('title').textContent = 'Help';
   else if (r.tab === 'onair') { $('title').textContent = 'On Air'; onair.start(); onair.render(); }
   else {
-    if (r.view === 'source') { if (current !== 'source') S.prevView = current || 'feed'; S.srcId = r.srcId; }
+    if (r.view === 'source') { if (current !== 'source') S.prevView = current === 'add' ? 'sources' : current || 'feed'; S.srcId = r.srcId; }
     const lists = v => v === 'feed' || v === 'saved';
     if (lists(r.view) && lists(S.view) && r.view !== S.view) S.limit = 60;
     S.view = r.view;
@@ -49,8 +50,23 @@ function route() {
 S.onNavigate = hash => { const cur = location.hash || '#feed'; if (hash === cur) return; stack.push(cur); location.hash = hash; };
 S.onBack = () => {
   if (stack.length) history.back();
+  else if (S.view === 'add') location.hash = '#sources';
   else location.hash = '#' + (S.view === 'source' && ['saved', 'sources'].includes(S.prevView) ? S.prevView : 'feed');
 };
+
+// ---- add source ----
+let sharedLink = null;   // a link shared into the app from another app
+const addedHere = [];    // sources added on this device that the published copy doesn't show yet
+S.onShowAdd = () => { const p = sharedLink; sharedLink = null; showAdd(p); };
+function sourceAdded(entry) {
+  if (!S.sources.some(s => s.id === entry.id)) { S.sources = [...S.sources, entry]; addedHere.push(entry); }
+  invalidate();
+  toast(`Added ${entry.name}. Its episodes arrive in a few minutes.`);
+  location.replace('#source/' + encodeURIComponent(entry.id));
+  // GitHub gathers the new source straight away, then republishes; look again twice.
+  setTimeout(() => refreshAll(false), 150000);
+  setTimeout(() => refreshAll(false), 300000);
+}
 
 function rerender() { if (!$('feed').hidden) renderFeed(); else invalidate(); }
 
@@ -106,6 +122,11 @@ S.onMarkSeen = () => {
 async function loadData() {
   const {bundle, state} = await loadAll();
   S.sources = bundle.sources || []; S.feed = bundle.feed || {}; S.status = bundle.status || null;
+  // Keep sources added on this device until the published copy includes them.
+  for (let i = addedHere.length - 1; i >= 0; i--) {
+    if (S.sources.some(s => s.id === addedHere[i].id)) addedHere.splice(i, 1);
+    else S.sources = [...S.sources, addedHere[i]];
+  }
   pagesState = state; lastLoad = Date.now();
   S.canWrite = store.hasToken();
   if (S.canWrite) { store.seed(state); applyState(store.view()); }
@@ -134,6 +155,19 @@ async function boot() {
   const fetchImpl = isLocal && sessionStorage.getItem('ba.mock') === '1' ? (await import('./dev-mock.js')).mockFetch : (...a) => fetch(...a);
   store = createStore({fetchImpl, onChange: syncFromStore});
   wireSettings({store, fetchImpl, onToken: tokenChanged});
+  wireAdd({store, added: sourceAdded});
+  // A link shared from another app arrives as ?url=… or ?text=… (see share_target in the manifest).
+  const qs = new URLSearchParams(location.search);
+  const shared = qs.get('url') || qs.get('text') || qs.get('title');
+  if (shared) { sharedLink = shared; history.replaceState(null, '', location.pathname + '#add'); }
+  // On Android, SoundCloud and Mixcloud links open in their apps.
+  if (isAndroid()) document.addEventListener('click', e => {
+    const a = e.target.closest('a[href]');
+    const intent = a && appIntent(a.href);
+    if (!intent) return;
+    e.preventDefault();
+    location.href = intent;
+  }, true);
   window.addEventListener('hashchange', route);
   $('refreshBtn').addEventListener('click', () => refreshAll(true));
   try { await loadData(); }

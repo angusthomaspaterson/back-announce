@@ -1,0 +1,45 @@
+name: Check a new source
+
+# The app's Add source screen writes data/requests/<id>.json with the link to check.
+# This answers in data/requests/<id>.result.json, which the app is watching for.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/requests/*.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-source
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check, commit and push
+        run: |
+          git config user.name "Back Announce gatherer"
+          git config user.email "gatherer@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            python3 gatherer/check_source.py --data data
+            git add -A data/requests
+            if git diff --cached --quiet; then
+              echo "Nothing to answer."
+              exit 0
+            fi
+            git commit -q -m "sources: answer add-source request"
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt); starting again from the newest commit..."
+            git fetch origin
+            git reset -q --hard origin/main
+          done
+          exit 1

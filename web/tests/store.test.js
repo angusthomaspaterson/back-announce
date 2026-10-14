@@ -1,5 +1,6 @@
 // Tests for js/store.js against a pretend GitHub. Open tests/index.html on a local server.
-import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage} from '../js/store.js';
+import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage, repoFiles} from '../js/store.js';
+import {appIntent} from '../js/util.js';
 
 const out = document.getElementById('out');
 let passed = 0, failed = 0;
@@ -161,6 +162,37 @@ const tests = {
     await st2.refresh();
     eq(st2.view().paused, ['from-phone'], 'paused from the phone');
     eq(kind, 'state', 'told the app the state changed');
+  },
+  async 'repo files: missing file, create, and an edit that meets a conflict'() {
+    const files = {'data/sources.json': {text: serialise({items: [{id: 'a'}]}), sha: 'x1'}};
+    let shaN = 1, beforePut = null;
+    const fetchImpl = async (url, opts = {}) => {
+      const path = decodeURIComponent(url.split('/contents/')[1].split('?')[0]);
+      const f = files[path];
+      if ((opts.method || 'GET') === 'GET') return f ? resp(200, {sha: f.sha, content: b64encode(f.text)}) : resp(404, {message: 'Not Found'});
+      const body = JSON.parse(opts.body);
+      if (beforePut) { const fn = beforePut; beforePut = null; fn(); }
+      const now = files[path];
+      if (now && body.sha !== now.sha) return resp(409, {message: 'does not match'});
+      files[path] = {text: b64decode(body.content), sha: 'x' + (++shaN)};
+      return resp(now ? 200 : 201, {content: {sha: files[path].sha}});
+    };
+    const rf = repoFiles(fetchImpl, () => 'test-token');
+    eq(await rf.get('data/requests/nope.result.json'), null, 'missing file is null');
+    await rf.create('data/requests/r1.json', {url: 'https://x'}, 'check');
+    eq(JSON.parse(files['data/requests/r1.json'].text), {url: 'https://x'}, 'created');
+    beforePut = () => { files['data/sources.json'] = {text: serialise({items: [{id: 'a'}, {id: 'from-phone'}]}), sha: 'x99'}; };
+    await rf.edit('data/sources.json', cfg => ({...cfg, items: [...cfg.items, {id: 'new'}]}), 'add');
+    eq(JSON.parse(files['data/sources.json'].text).items.map(s => s.id), ['a', 'from-phone', 'new'], 'both additions kept');
+    let threw = null; try { await repoFiles(fetchImpl, () => '').get('data/sources.json'); } catch (e) { threw = e.status; }
+    eq(threw, 401, 'no token refuses');
+  },
+  'SoundCloud and Mixcloud links become app links'() {
+    eq(appIntent('https://soundcloud.com/andrew-wowk/time-to-track?in=x'), 'intent://soundcloud.com/andrew-wowk/time-to-track?in=x#Intent;scheme=https;package=com.soundcloud.android;S.browser_fallback_url=https%3A%2F%2Fsoundcloud.com%2Fandrew-wowk%2Ftime-to-track%3Fin%3Dx;end', 'soundcloud');
+    ok(appIntent('https://www.mixcloud.com/johndigweed/transitions-1154/').startsWith('intent://www.mixcloud.com/johndigweed/transitions-1154/#Intent;scheme=https;package=com.mixcloud.player;'), 'mixcloud');
+    eq(appIntent('https://feeds.soundcloud.com/users/soundcloud:users:1/sounds.rss'), null, 'feed addresses stay as they are');
+    eq(appIntent('https://www.nts.live/shows/moxie'), null, 'other sites stay as they are');
+    eq(appIntent('not a link'), null, 'junk');
   },
   async 'checkToken: 409 on the dummy write means writes are allowed'() {
     const gh = fakeGitHub({paused: []});

@@ -1,0 +1,10 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"podcast", "artistId":850139119, "collectionId":788236947, "trackId":788236947, "artistName":"Hrishikesh Hirway", "collectionName":"Song Exploder", "trackName":"Song Exploder", "collectionCensoredName":"Song Exploder", "trackCensoredName":"Song Exploder", "artistViewUrl":"https://podcasts.apple.com/us/artist/radiotopia/850139119?uo=4", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/song-exploder/id788236947?uo=4", "feedUrl":"https://feed.songexploder.net/SongExploder", "trackViewUrl":"https://podcasts.apple.com/us/podcast/song-exploder/id788236947?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "collectionHdPrice":0, "releaseDate":"2026-09-23T14:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"cleaned", "trackCount":378, "trackTimeMillis":1577, "country":"USA", "currency":"USD", "primaryGenreName":"Music", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/600x600bb.jpg", "genreIds":["1310", "26"], "genres":["Music", "Podcasts"]}]
+}
+
+

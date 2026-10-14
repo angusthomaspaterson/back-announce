@@ -22,6 +22,23 @@ export const nowIso = () => new Date().toISOString().replace(/\.\d{3}Z$/, 'Z');
 export function rel(iso) { if (!dateOk(iso)) return ''; const diff = Date.now() - new Date(iso); const h = Math.round(diff / 36e5); if (h < 1) return 'just now'; if (h < 24) return h + 'h ago'; const dd = Math.round(h / 24); return dd + 'd ago'; }
 export function dur(s) { if (!s) return ''; s = String(s); if (/^\d+$/.test(s)) return Math.round(+s / 60) + ' min'; const p = s.split(':').map(Number); if (p.length === 3) return (p[0] * 60 + p[1]) + ' min'; if (p.length === 2) return p[0] + ' min'; return s; }
 
+// On Android, SoundCloud and Mixcloud links open in their apps. An intent: link names the
+// app's package (checked on the Play Store, 14 Oct 2026); if the app isn't installed,
+// Chrome opens the fallback web address instead.
+const APPS = [
+  {host: /(^|\.)soundcloud\.com$/i, pkg: 'com.soundcloud.android'},
+  {host: /(^|\.)mixcloud\.com$/i, pkg: 'com.mixcloud.player'},
+];
+export function appIntent(href) {
+  let u;
+  try { u = new URL(href); } catch (e) { return null; }
+  if (!/^https?:$/.test(u.protocol) || /^(api|feeds)\./i.test(u.hostname)) return null;
+  const app = APPS.find(a => a.host.test(u.hostname));
+  if (!app) return null;
+  return `intent://${u.host}${u.pathname}${u.search}#Intent;scheme=https;package=${app.pkg};S.browser_fallback_url=${encodeURIComponent(u.href)};end`;
+}
+export const isAndroid = () => /Android/i.test(navigator.userAgent);
+
 let toastTimer = null, toastUndo = null;
 export function toast(msg, undo) {
   const t = $('toast'); $('toastTxt').textContent = msg; toastUndo = undo; $('toastUndo').hidden = !undo; t.hidden = false;

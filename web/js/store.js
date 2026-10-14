@@ -7,7 +7,8 @@
 // The token is kept in localStorage on this device and only ever sent to api.github.com.
 import {REPO} from './data.js';
 
-const API = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/data/state.json`;
+const CONTENTS = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/`;
+const STATE = 'data/state.json';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 export class HttpError extends Error {
@@ -65,8 +66,9 @@ export function commitMessage(batch, source = 'web') {
 }
 
 // ---- talking to GitHub ----
-async function call(fetchImpl, token, method, body) {
-  const url = method === 'GET' ? `${API}?ref=${REPO.branch}&_=${Date.now()}` : API;
+async function call(fetchImpl, token, method, body, path = STATE) {
+  const api = CONTENTS + path.split('/').map(encodeURIComponent).join('/');
+  const url = method === 'GET' ? `${api}?ref=${REPO.branch}&_=${Date.now()}` : api;
   const headers = {Accept: 'application/vnd.github+json', Authorization: `Bearer ${token}`};
   if (body) headers['Content-Type'] = 'application/json';
   const r = await fetchImpl(url, {method, cache: 'no-store', headers, body: body ? JSON.stringify(body) : undefined});
@@ -107,6 +109,43 @@ export async function checkToken(token, fetchImpl = (...a) => fetch(...a)) {
   } catch (e) {
     return {ok: false, message: explain(e, {checking: true})};
   }
+}
+
+/**
+ * Other files in the repository, for Add source: read one, create one, or edit one with
+ * the same re-read-and-retry on a 409 as state.json.
+ */
+export function repoFiles(fetchImpl, getToken) {
+  const t = () => { const tok = getToken(); if (!tok) throw new HttpError(401, 'no token'); return tok; };
+  async function get(path) {
+    try {
+      const j = await call(fetchImpl, t(), 'GET', null, path);
+      return {data: JSON.parse(b64decode(j.content || '')), sha: j.sha};
+    } catch (e) {
+      if (e.status === 404) return null;
+      throw e;
+    }
+  }
+  async function create(path, data, message) {
+    return call(fetchImpl, t(), 'PUT', {message, content: b64encode(serialise(data)), branch: REPO.branch}, path);
+  }
+  /** fn(current) returns the new document, or null to leave the file alone. */
+  async function edit(path, fn, message) {
+    for (let attempt = 1; ; attempt++) {
+      const cur = await get(path);
+      if (!cur) throw new HttpError(404, `${path} not found`);
+      const next = fn(cur.data);
+      if (!next) return cur.data;
+      try {
+        await call(fetchImpl, t(), 'PUT', {message, content: b64encode(serialise(next)), sha: cur.sha, branch: REPO.branch}, path);
+        return next;
+      } catch (e) {
+        if ((e.status === 409 || e.status === 422) && attempt < 5) { await sleep(300 * attempt); continue; }
+        throw e;
+      }
+    }
+  }
+  return {get, create, edit};
 }
 
 export function createStore({fetchImpl = (...a) => fetch(...a), onChange = () => {}, delay = 2000, source = 'web', keyPrefix = 'ba.'} = {}) {
@@ -193,6 +232,7 @@ export function createStore({fetchImpl = (...a) => fetch(...a), onChange = () =>
   return {
     view,
     hasToken: () => !!token,
+    files: repoFiles(fetchImpl, () => token),
     status: () => ({saving, error, pending: pending.length}),
     /** Start from the published copy when nothing better is cached yet. */
     seed(state) { if (!base) { base = normalise(state); sha = null; } },

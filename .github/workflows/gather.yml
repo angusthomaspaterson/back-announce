@@ -5,6 +5,11 @@ on:
     # Every 6 hours. GitHub runs cron in UTC; minute 17 avoids the busy top of the hour.
     - cron: "17 */6 * * *"
   workflow_dispatch:
+  # When the app adds or edits a source, gather straight away so its episodes appear.
+  push:
+    branches: [main]
+    paths:
+      - "data/sources.json"
 
 permissions:
   contents: write

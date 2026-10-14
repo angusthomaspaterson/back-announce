@@ -20,7 +20,7 @@ export const S = {
   canWrite: false,
   syncNote: '', syncError: '',
   // set by app.js
-  onNavigate: null, onBack: null, onPause: null, onSave: null, onMarkSeen: null,
+  onNavigate: null, onBack: null, onPause: null, onSave: null, onMarkSeen: null, onShowAdd: null,
 };
 try { S.groups = JSON.parse(localStorage.getItem('ba.groups') || '{}') || {}; } catch (e) {}
 function saveLocal() { try { localStorage.setItem('ba.groups', JSON.stringify(S.groups)); } catch (e) {} }
@@ -133,6 +133,8 @@ export function show() {
   $('filters').hidden = !listView; $('stream').hidden = !listView;
   $('srcHead').hidden = v !== 'source'; $('srcPage').hidden = v !== 'source';
   $('sourcesView').hidden = v !== 'sources';
+  $('addView').hidden = v !== 'add';
+  if (v === 'add') { S.onShowAdd(); renderMeta(items); return; }
   if (listView) {
     $('title').textContent = v === 'saved' ? 'Saved' : 'Back Announce';
     renderFilters(items, saved);
@@ -192,7 +194,8 @@ function renderSrcHead() {
 }
 function renderSrcPage() {
   const items = srcItems(S.srcId);
-  $('srcPage').innerHTML = items.length ? dayList(items, 'source', 999) : empty('Nothing gathered from this source yet. It refreshes every six hours.');
+  $('srcPage').innerHTML = items.length ? dayList(items, 'source', 999)
+    : empty('Nothing gathered from this source yet. A source you have just added fills in within a few minutes: press Refresh. Otherwise it is checked every six hours.');
 }
 
 function renderSources() {
@@ -202,7 +205,7 @@ function renderSources() {
   const extraOn = extra.filter(s => !P.has(s.id)).length;
   const batches = Object.keys(BATCHES).map(k => ({k, label: BATCHES[k], list: all.filter(s => s.added === k)})).filter(b => b.list.length);
   const views = [['all', 'All ' + total], ['on', 'Following ' + (total - nP)], ['off', 'Paused ' + nP]];
-  $('mng').innerHTML = `<div class="sum"><b>${total - nP}</b> of ${total} sources in the feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ' Add a GitHub token in Settings to pause and resume sources from here.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
+  $('mng').innerHTML = `${W ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} sources in the feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ' Add a GitHub token in Settings to pause and resume sources from here.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
     <div class="row">${views.map(([k, l]) => `<button class="chip" data-view="${k}" aria-pressed="${S.srcView === k}">${esc(l)}</button>`).join('')}</div>
     ${W ? `<div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
       const on = b.list.filter(s => !P.has(s.id)).length;
@@ -286,6 +289,7 @@ export function wire() {
     const b = e.target.closest('button'); if (!b) return;
     const P = S.paused, all = sourceList();
     if (b.id === 'sourcesBack') S.onBack();
+    else if (b.id === 'openAdd') S.onNavigate('#add');
     else if (b.dataset.view) { S.srcView = b.dataset.view; rendered.sources = false; show(); }
     else if (b.id === 'slim') { const ids = all.filter(s => s.added && s.added !== 'start' && !P.has(s.id)).map(s => s.id); S.onPause(ids, true, `Paused ${ids.length} sources`); }
     else if (b.dataset.batch) { const off = b.dataset.to === 'off'; const ids = all.filter(s => s.added === b.dataset.batch && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${ids.length} sources`); }

@@ -44,6 +44,10 @@
   <div id="stream"><div class="empty">Loading the feed…</div></div>
   <div class="srchead" id="srcHead" hidden></div>
   <div id="srcPage" hidden></div>
+  <section id="addView" hidden>
+    <div class="srchead"><button class="chip back" id="addBack">‹ Back</button></div>
+    <div class="add" id="addBody"></div>
+  </section>
   <section id="sourcesView" hidden>
     <div class="srchead"><button class="chip back" id="sourcesBack">‹ Back to the feed</button></div>
     <div class="mng" id="mng"></div>
@@ -146,8 +150,17 @@
     <li><b>You see an old version of the app.</b> Close it fully and open it again.</li>
   </ul>
 
-  <h2>Adding or changing sources</h2>
-  <p>Not in the app yet. For now, open Claude in the back-announce folder and say, for example, "Add this source to the Writing group:" followed by the link.</p>
+  <h2>Adding a source</h2>
+  <ul>
+    <li>On the Sources screen, tap <b>+ Add source</b> and paste a link. Or, in another app such as NTS, SoundCloud, Mixcloud or Apple Podcasts, tap <b>Share</b> and choose <b>Back Announce</b>.</li>
+    <li>Links that work: NTS and Rinse FM shows or episodes, Mixcloud and SoundCloud accounts or tracks, Apple Podcasts shows, any podcast or newsletter feed, Substack newsletters, and magazine websites that publish a feed. Spotify, YouTube and Bandcamp pages don't have feeds.</li>
+    <li>GitHub checks the link, which takes about a minute, then shows the latest episodes. Check the name, pick a group (or make a new one) and tap <b>Add to Back Announce</b>. Its episodes arrive a few minutes later.</li>
+    <li>If you already follow it, the app says so and takes you to its page.</li>
+    <li>To rename, regroup or remove a source, ask Claude in the back-announce folder for now.</li>
+  </ul>
+
+  <h2>SoundCloud and Mixcloud links</h2>
+  <p>On the Pixel, SoundCloud and Mixcloud links open in their own apps. If either app isn't installed, the link opens the website instead.</p>
 </main>
 
 <div class="player" id="player" hidden>
