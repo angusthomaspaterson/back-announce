@@ -3,6 +3,16 @@
  "id": "nts-pender-street-steppers",
  "items": [
   {
+   "date": "2026-10-13T17:00:00Z",
+   "desc": "From the host:'calling in from somewhere between Bilbao and Burnaby'",
+   "id": "pender-street-steppers-13th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/bbdf6765-c58c-4d29-87aa-f77a939fc58a_1791849600.jpeg",
+   "location": "Vancouver",
+   "tags": "Trip Hop, Leftfield House, Ambient Techno, Dub",
+   "title": "Pender Street Steppers",
+   "url": "https://www.nts.live/shows/pender-street-steppers/episodes/pender-street-steppers-13th-october-2026"
+  },
+  {
    "date": "2026-09-15T17:00:00Z",
    "desc": "From the Host:'somewhere between gabriola island and grachtengordel'",
    "id": "pender-street-steppers-15th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Electronica, Ambient, Indie Rock, Ambient Techno",
    "title": "Pender Street Steppers w/ Second Spring",
    "url": "https://www.nts.live/shows/pender-street-steppers/episodes/pender-street-steppers-9th-december-2025"
-  },
-  {
-   "date": "2025-11-11T18:00:00Z",
-   "desc": "The breezy sound of the Canadian Riviera, from Mood Hut's Pender Street Steppers. From the host: \"Slow Riffs joins the PSSS in celebration of his new LP 'Simulacra' on Mood Hut Records\"",
-   "id": "pender-street-steppers-11th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/af0eaf59-5985-40e8-9f04-b83c4c3b626c_1762732800.png",
-   "location": "Vancouver",
-   "tags": "Fourth World, Ambient, New Age",
-   "title": "Pender Street Steppers w/ Slow Riffs",
-   "url": "https://www.nts.live/shows/pender-street-steppers/episodes/pender-street-steppers-11th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Pender Street Steppers",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T12:00:17Z"
 }

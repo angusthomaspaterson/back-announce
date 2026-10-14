@@ -3,6 +3,16 @@
  "id": "transmissions",
  "items": [
   {
+   "audio": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI8854543182.mp3",
+   "date": "2026-10-14T07:00:00Z",
+   "desc": "Hippies, Thugs, and Heroes finds guitarist Richard Thompson sounding as savage, lyrical, and eloquent as ever. This week on Aquarium Drunkard Transmissions, we're pleased to welcome Thompson back to the show. If you dig this show, there’s a pretty solid chance that you already know that he's one of the founding fathers of British folk rock, known for his work with Fairport Convention, Sandy Denny, his former wife Linda Thompson, Nick Drake and others. Writing about Thompson, Aquarium Drunkard’s own Tyler Wilcox praised his “unparalleled instrumental prowess, his superhumanly sensitive tone, a…",
+   "duration": "3851",
+   "id": "6ead0700-c727-11f1-95ed-cb38b0527366",
+   "image": "https://megaphone.imgix.net/podcasts/6ead0700-c727-11f1-95ed-cb38b0527366/image/d94480bc8ed59492d0f1af80660920ea.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "Transmissions :: Richard Thompson (2026)",
+   "url": "https://aquariumdrunkard.com/2026/10/14/transmissions-richard-thompson-2026/"
+  },
+  {
    "audio": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI9511929044.mp3",
    "date": "2026-10-07T07:00:00Z",
    "desc": "Stones Throw is one of the most dynamic labels of the 21st century. The label's founder, Peanut Butter Wolf, joins us to discuss the label’s journey, from a small backpacker hip-hop imprint to an Adult Swim-boosted powerhouse, to the diverse roster of post punk, electro, and R&B artists taking the stage to celebrate Stones Throw’s 30th anniversary on Saturday, October 16, 17, and 18th in Highland Park. Presented by Lodge Room and KCRW, Stones Throw 30 speaks to just how expansive the the label’s sound is in 2026, from the fuzzed out synth punk of N8NOFACE to the violin powered art-soul of Sud…",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/08020d46-434e-11f1-9b4f-27855f3d24d3/image/8200753251fe13a462a0df0cd4f8fb9c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "All One Song :: Micah Nelson on \"Change Your Mind\"",
    "url": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI1981254259.mp3?updated=1777414661"
-  },
-  {
-   "audio": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI9427558913.mp3",
-   "date": "2026-04-22T07:00:00Z",
-   "desc": "Welcome back to All One Song. We're spending the spring of 2026 talking to some great musicians, writers and artists about their one favorite Neil Young song. But even if the concept is simple, one thing is for sure: these conversations go all over the place, kind of like a long Old Black solo on “Like Hurricane.” And that’s how it should be, right? Now, host Tyler Wilcox has been contributing to Aquarium Drunkard for well over a decade now, serving as the site’s resident Neil Young aficionado. But he's got competition! Scott Bunn is one of AD’s excellent writers, and his Shakey knowledge is …",
-   "duration": "3486",
-   "id": "959b443e-3db7-11f1-b8de-a77e2ee51af3",
-   "image": "https://megaphone.imgix.net/podcasts/959b443e-3db7-11f1-b8de-a77e2ee51af3/image/2df46fc5bddb45dc7379d26ef4ee13cb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "All Song Song :: Scott Bunn on \"Boom Boom Boom\"",
-   "url": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI9427558913.mp3"
   }
  ],
  "kind": "rss",
  "name": "Transmissions (Aquarium Drunkard)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T12:00:17Z"
 }

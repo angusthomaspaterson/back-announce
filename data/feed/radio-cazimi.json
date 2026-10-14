@@ -3,6 +3,96 @@
  "id": "radio-cazimi",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2418718371-radio-cazimi-plutonic-w-bowen-ep-3.mp3",
+   "date": "2026-10-14T08:45:50Z",
+   "desc": "PLUTONIC w/ Bowen - EP 3 by Radio Cazimi",
+   "duration": "02:01:53",
+   "id": "tag:soundcloud-2010:tracks-2418718371",
+   "image": "https://i1.sndcdn.com/artworks-TaNuhITzP7lD722j-WYqKXQ-t3000x3000.jpg",
+   "title": "PLUTONIC w/ Bowen - EP 3",
+   "url": "https://soundcloud.com/radio-cazimi/plutonic-w-bowen-ep-3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2418718353-radio-cazimi-dubwise-otherwise-w-jesse-2.mp3",
+   "date": "2026-10-14T08:45:45Z",
+   "desc": "DUBWISE & OTHERWISE w/ Jesse Yuen, Lia T & Rok Riley - EP 3 by Radio Cazimi",
+   "duration": "01:59:41",
+   "id": "tag:soundcloud-2010:tracks-2418718353",
+   "image": "https://i1.sndcdn.com/artworks-Bzn6FtLnzh8M4yFC-29yXlA-t3000x3000.jpg",
+   "title": "DUBWISE & OTHERWISE w/ Jesse Yuen, Lia T & Rok Riley - EP 3",
+   "url": "https://soundcloud.com/radio-cazimi/dubwise-otherwise-w-jesse-2"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2418718293-radio-cazimi-morning-desires-w-rory-2.mp3",
+   "date": "2026-10-14T08:45:35Z",
+   "desc": "MORNING DESIRES w/ Rory Glacken by Radio Cazimi",
+   "duration": "01:59:36",
+   "id": "tag:soundcloud-2010:tracks-2418718293",
+   "image": "https://i1.sndcdn.com/artworks-EwjPZA1lVX92WVzo-YYnQUw-t3000x3000.jpg",
+   "title": "MORNING DESIRES w/ Rory Glacken",
+   "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-rory-2"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2418718194-radio-cazimi-listening-hour-w-grace-reece.mp3",
+   "date": "2026-10-14T08:45:28Z",
+   "desc": "LISTENING HOUR w/ Grace & Reece - EP 4 by Radio Cazimi",
+   "duration": "01:02:37",
+   "id": "tag:soundcloud-2010:tracks-2418718194",
+   "image": "https://i1.sndcdn.com/artworks-CAwCFKpvikNz3rYD-Q46ivg-t3000x3000.jpg",
+   "title": "LISTENING HOUR w/ Grace & Reece - EP 4",
+   "url": "https://soundcloud.com/radio-cazimi/listening-hour-w-grace-reece"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2418716928-radio-cazimi-nyinalanginy-w-cole-baxter-1.mp3",
+   "date": "2026-10-14T08:40:28Z",
+   "desc": "NYINALANGINY w/ Cole Baxter & Dylan Collard - EP 2 by Radio Cazimi",
+   "duration": "01:56:45",
+   "id": "tag:soundcloud-2010:tracks-2418716928",
+   "image": "https://i1.sndcdn.com/artworks-oRoryf6rxM0dPvTW-343c5g-t3000x3000.jpg",
+   "title": "NYINALANGINY w/ Cole Baxter & Dylan Collard - EP 2",
+   "url": "https://soundcloud.com/radio-cazimi/nyinalanginy-w-cole-baxter-1"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2418716736-radio-cazimi-west-cape-records-w-jeremy-s-2.mp3",
+   "date": "2026-10-14T08:39:31Z",
+   "desc": "WEST CAPE RECORDS w/ Jeremy S - EP 4 by Radio Cazimi",
+   "duration": "01:59:58",
+   "id": "tag:soundcloud-2010:tracks-2418716736",
+   "image": "https://i1.sndcdn.com/artworks-Ny8v32hysu6jxUGN-bjDCeA-t3000x3000.jpg",
+   "title": "WEST CAPE RECORDS w/ Jeremy S - EP 4",
+   "url": "https://soundcloud.com/radio-cazimi/west-cape-records-w-jeremy-s-2"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2418716529-radio-cazimi-desire-path-w-liv-pickering-ep.mp3",
+   "date": "2026-10-14T08:38:44Z",
+   "desc": "DESIRE PATH w/ Liv Pickering - EP 1 by Radio Cazimi",
+   "duration": "01:00:03",
+   "id": "tag:soundcloud-2010:tracks-2418716529",
+   "image": "https://i1.sndcdn.com/artworks-j3SLyXINua6by23g-ISxCYQ-t3000x3000.jpg",
+   "title": "DESIRE PATH w/ Liv Pickering - EP 1",
+   "url": "https://soundcloud.com/radio-cazimi/desire-path-w-liv-pickering-ep"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2418716013-radio-cazimi-goodbye-behaviour-w-zev-ep-1.mp3",
+   "date": "2026-10-14T08:37:11Z",
+   "desc": "GOODBYE BEHAVIOUR w/ Zev - EP 1 by Radio Cazimi",
+   "duration": "02:00:01",
+   "id": "tag:soundcloud-2010:tracks-2418716013",
+   "image": "https://i1.sndcdn.com/artworks-dlg0Dcy2tgWnDYP1-3KXOlg-t3000x3000.jpg",
+   "title": "GOODBYE BEHAVIOUR  w/ Zev - EP 1",
+   "url": "https://soundcloud.com/radio-cazimi/goodbye-behaviour-w-zev-ep-1"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2418714870-radio-cazimi-clang-assoc-w-timo-ep-3.mp3",
+   "date": "2026-10-14T08:31:58Z",
+   "desc": "CLANG ASSOC. w/ Timo - EP 3 by Radio Cazimi",
+   "duration": "02:03:32",
+   "id": "tag:soundcloud-2010:tracks-2418714870",
+   "image": "https://i1.sndcdn.com/artworks-uZ8OQhVKhRfaOd0l-0j5opA-t3000x3000.jpg",
+   "title": "CLANG ASSOC. w/ Timo - EP 3",
+   "url": "https://soundcloud.com/radio-cazimi/clang-assoc-w-timo-ep-3"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2415113022-radio-cazimi-textures-w-champion-sound-ep-3.mp3",
    "date": "2026-10-08T05:15:43Z",
    "desc": "TEXTURES w/ Champion Sound - EP 3 by Radio Cazimi",
@@ -161,99 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-2taJwbfxemHTj3QA-Idy4qg-t3000x3000.jpg",
    "title": "GRITSTONE w/ Undercling - EP 2",
    "url": "https://soundcloud.com/radio-cazimi/gritstone-w-undercling-ep-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410322394-radio-cazimi-best-to-come-w-kaitlyn.mp3",
-   "date": "2026-09-30T06:14:02Z",
-   "desc": "BEST TO COME w/ Kaitlyn Veronica - EP 2 by Radio Cazimi",
-   "duration": "01:00:02",
-   "id": "tag:soundcloud-2010:tracks-2410322394",
-   "image": "https://i1.sndcdn.com/artworks-o2UMDyPghjzD4xD9-52rIiw-t3000x3000.jpg",
-   "title": "BEST TO COME w/ Kaitlyn Veronica - EP 2",
-   "url": "https://soundcloud.com/radio-cazimi/best-to-come-w-kaitlyn"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410321815-radio-cazimi-oceanic-drive-w-ruza-ep-2.mp3",
-   "date": "2026-09-30T06:11:25Z",
-   "desc": "A genre-blending journey exploring the facets of pop, rock, electronica, UK dance and beyond.",
-   "duration": "01:55:30",
-   "id": "tag:soundcloud-2010:tracks-2410321815",
-   "image": "https://i1.sndcdn.com/artworks-oVNWkdgzTavkYPyC-6JiiHQ-t3000x3000.jpg",
-   "title": "OCEANIC DRIVE w/ Ruža - EP 2",
-   "url": "https://soundcloud.com/radio-cazimi/oceanic-drive-w-ruza-ep-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410321251-radio-cazimi-driving-blind-w-lidl-2.mp3",
-   "date": "2026-09-30T06:08:49Z",
-   "desc": "DRIVING BLIND w/ Lidl & Wetpuddlss - EP 4 by Radio Cazimi",
-   "duration": "02:02:41",
-   "id": "tag:soundcloud-2010:tracks-2410321251",
-   "image": "https://i1.sndcdn.com/artworks-J3NtHdrd4CUgUwnN-L6XFyQ-t3000x3000.jpg",
-   "title": "DRIVING BLIND  w/ Lidl & Wetpuddlss - EP 4",
-   "url": "https://soundcloud.com/radio-cazimi/driving-blind-w-lidl-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410321215-radio-cazimi-zipless-w-dj-sliding-doors-ep.mp3",
-   "date": "2026-09-30T06:08:34Z",
-   "desc": "ZIPLESS w/ DJ Sliding Doors - EP 4 by Radio Cazimi",
-   "duration": "02:00:04",
-   "id": "tag:soundcloud-2010:tracks-2410321215",
-   "image": "https://i1.sndcdn.com/artworks-Ruy7TZPtUqFM4MNY-Xb54pQ-t3000x3000.jpg",
-   "title": "ZIPLESS w/ DJ Sliding Doors - EP 4",
-   "url": "https://soundcloud.com/radio-cazimi/zipless-w-dj-sliding-doors-ep"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410321161-radio-cazimi-outsiders-together-w-takeo-k-1.mp3",
-   "date": "2026-09-30T06:08:22Z",
-   "desc": "OUTSIDERS, TOGETHER w/ Takeo.K - EP 2 by Radio Cazimi",
-   "duration": "01:59:59",
-   "id": "tag:soundcloud-2010:tracks-2410321161",
-   "image": "https://i1.sndcdn.com/artworks-Lyom94Z1m3yMfBRd-rhGOxg-t3000x3000.jpg",
-   "title": "OUTSIDERS, TOGETHER w/ Takeo.K - EP 2",
-   "url": "https://soundcloud.com/radio-cazimi/outsiders-together-w-takeo-k-1"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410319736-radio-cazimi-peninsula-w-voss-ep-3.mp3",
-   "date": "2026-09-30T06:04:47Z",
-   "desc": "PENINSULA w/ Voss - EP 3 by Radio Cazimi",
-   "duration": "01:59:29",
-   "id": "tag:soundcloud-2010:tracks-2410319736",
-   "image": "https://i1.sndcdn.com/artworks-zRY5akk9QuISWywS-dZbFaw-t3000x3000.jpg",
-   "title": "PENINSULA w/ Voss - EP 3",
-   "url": "https://soundcloud.com/radio-cazimi/peninsula-w-voss-ep-3"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410318005-radio-cazimi-joy-in-the-morning-w-callum-2.mp3",
-   "date": "2026-09-30T05:57:32Z",
-   "desc": "JOY IN THE MORNING w/ Callum Dewar & Robbie - EP3 by Radio Cazimi",
-   "duration": "02:00:21",
-   "id": "tag:soundcloud-2010:tracks-2410318005",
-   "image": "https://i1.sndcdn.com/artworks-MSMCjKgxSCCMyVGB-prXbpA-t3000x3000.jpg",
-   "title": "JOY IN THE MORNING w/ Callum Dewar & Robbie - EP3",
-   "url": "https://soundcloud.com/radio-cazimi/joy-in-the-morning-w-callum-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2400007344-radio-cazimi-instrumental-health-w-kavi-1.mp3",
-   "date": "2026-09-14T09:55:12Z",
-   "desc": "Unpack the emotion behind music. Episode 2 explores the feeling of romance. 05/09/2026",
-   "duration": "02:14:42",
-   "id": "tag:soundcloud-2010:tracks-2400007344",
-   "image": "https://i1.sndcdn.com/artworks-H4HpDY76nx0nH8Oi-7vp6mQ-t3000x3000.jpg",
-   "title": "INSTRUMENTAL HEALTH w/ Kavi Guppta - EP 2",
-   "url": "https://soundcloud.com/radio-cazimi/instrumental-health-w-kavi-1"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2400008523-radio-cazimi-conflicts-of-interest-w-1.mp3",
-   "date": "2026-09-14T09:54:52Z",
-   "desc": "C.O.I is up late and it's past your bedtime. 05/09/2026",
-   "duration": "01:55:52",
-   "id": "tag:soundcloud-2010:tracks-2400008523",
-   "image": "https://i1.sndcdn.com/artworks-ER7kSHKd9UdQuR9M-mZ4XmQ-t3000x3000.jpg",
-   "title": "CONFLICTS OF INTEREST w/ Sacha Alexiou & Algorithm Meat - EP3",
-   "url": "https://soundcloud.com/radio-cazimi/conflicts-of-interest-w-1"
   }
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T12:00:17Z"
 }

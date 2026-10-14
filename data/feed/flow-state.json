@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/220306654/3d8693413d86a1b4f6244a4e90a5bd4c.mp3",
+   "date": "2026-10-14T07:02:54Z",
+   "desc": "On today’s episode of Across the Horizon, Bob Holmes of the band SUSS has a conversation with marisa anderson and Alan Sparhawk (formerly of Low).",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-72-marisa-anderson",
+   "image": "https://substackcdn.com/image/fetch/$s_!AMhS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facf15d9d-cf9d-42e8-9664-d1ff0020c765_2164x1650.png",
+   "title": "Across the Horizon Ep. 72: Marisa Anderson & Alan Sparhawk",
+   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-72-marisa-anderson"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/220144105/3e2e14d84e015a0acb2bd648b068f921.mp3",
    "date": "2026-10-13T07:03:05Z",
    "desc": "Today’s mix opens with a new ambient track by Líom, followed by a dub ambient track by Acid Springfield.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!V8mC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a582336-a6d7-4203-a0bf-21d7edf5a667_3130x2075.jpeg",
    "title": "Go Kurosawa (Guest rec by Sofie Birch)",
    "url": "https://www.flowstate.fm/p/go-kurosawa-guest-rec-by-sofie-birch"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/215888654/f9123b1c9bbc5ea537b5545741fb5751.mp3",
-   "date": "2026-09-16T07:03:59Z",
-   "desc": "On today’s episode of Across the Horizon, host Bob Holmes from the band SUSS finishes his conversation with Sarah Davachi from last week.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-70-sarah-davachi",
-   "image": "https://substackcdn.com/image/fetch/$s_!FKF5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef946b94-77d7-4bff-bfa7-14f7e75f5817_1200x800.png",
-   "title": "Across the Horizon Ep. 70: Sarah Davachi (Pt. 2)",
-   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-70-sarah-davachi"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-13T08:43:21Z"
+ "updatedAt": "2026-10-14T12:00:17Z"
 }

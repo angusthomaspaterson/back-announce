@@ -53,6 +53,16 @@
    "url": "https://anjunadeep.com/products/621098-coda-golden-hour"
   },
   {
+   "date": "2026-10-13T00:00:00Z",
+   "desc": "Single on Anjunadeep, out 13 Oct 2026.",
+   "id": "621100-tidal-shift",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621100.jpg",
+   "out": "2026-10-13T00:00:00Z",
+   "tags": "Single · Anjunadeep",
+   "title": "Nordfold – Tidal Shift",
+   "url": "https://anjunadeep.com/products/621100-tidal-shift"
+  },
+  {
    "date": "2026-10-09T00:00:00Z",
    "desc": "EP on Anjunadeep, out 9 Oct 2026.",
    "id": "618220-moonlight-ep",
@@ -215,22 +225,22 @@
   {
    "date": "2026-09-15T00:00:00Z",
    "desc": "Single on Anjunadeep, out 15 Sep 2026.",
-   "id": "613888-breathing-orbit-remix",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613888.jpg",
-   "out": "2026-09-15T00:00:00Z",
-   "tags": "Single · Anjunadeep",
-   "title": "Ben Böhmer, Nils Hoffmann & Malou – Breathing (orbit Remix)",
-   "url": "https://anjunadeep.com/products/613888-breathing-orbit-remix"
-  },
-  {
-   "date": "2026-09-15T00:00:00Z",
-   "desc": "Single on Anjunadeep, out 15 Sep 2026.",
    "id": "614667-breathing-7-year-anniversary-release",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/614667.jpg",
    "out": "2026-09-15T00:00:00Z",
    "tags": "Single · Anjunadeep",
    "title": "Ben Böhmer, Nils Hoffmann & Malou – Breathing [7 Year Anniversary Release]",
    "url": "https://anjunadeep.com/products/614667-breathing-7-year-anniversary-release"
+  },
+  {
+   "date": "2026-09-15T00:00:00Z",
+   "desc": "Single on Anjunadeep, out 15 Sep 2026.",
+   "id": "613888-breathing-orbit-remix",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613888.jpg",
+   "out": "2026-09-15T00:00:00Z",
+   "tags": "Single · Anjunadeep",
+   "title": "Ben Böhmer, Nils Hoffmann & Malou – Breathing (orbit Remix)",
+   "url": "https://anjunadeep.com/products/613888-breathing-orbit-remix"
   },
   {
    "date": "2026-09-14T00:00:00Z",
@@ -241,19 +251,9 @@
    "tags": "Single · Anjunachill",
    "title": "Above & Beyond feat. Richard Bedford – Sun & Moon (Downtempo Version)",
    "url": "https://anjunadeep.com/products/613107-sun-moon-downtempo-version"
-  },
-  {
-   "date": "2026-09-11T00:00:00Z",
-   "desc": "Single on Anjunadeep, out 11 Sep 2026.",
-   "id": "613108-magnolia-jody-wisternoff-james-grant-remix",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613108.jpg",
-   "out": "2026-09-11T00:00:00Z",
-   "tags": "Single · Anjunadeep",
-   "title": "John Monkman – Magnolia (Jody Wisternoff & James Grant Remix)",
-   "url": "https://anjunadeep.com/products/613108-magnolia-jody-wisternoff-james-grant-remix"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-14T03:26:15Z"
+ "updatedAt": "2026-10-14T12:00:17Z"
 }

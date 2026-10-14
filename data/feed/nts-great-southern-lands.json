@@ -3,6 +3,16 @@
  "id": "nts-great-southern-lands",
  "items": [
   {
+   "date": "2026-10-13T11:00:00Z",
+   "desc": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
+   "id": "great-southern-lands-13th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/acc2c2f8-538e-4ccd-87bd-d46616e7b175_1627430400.jpeg",
+   "location": "Melbourne",
+   "tags": "Post Rock, Drone",
+   "title": "Great Southern Lands w/ James W",
+   "url": "https://www.nts.live/shows/great-southern-lands/episodes/great-southern-lands-13th-october-2026"
+  },
+  {
    "date": "2026-09-15T11:00:00Z",
    "desc": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
    "id": "great-southern-lands-15th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Post Rock, Ambient, Drone",
    "title": "Great Southern Lands w/ James W",
    "url": "https://www.nts.live/shows/great-southern-lands/episodes/great-southern-lands-11th-november-2025"
-  },
-  {
-   "date": "2025-10-14T11:00:00Z",
-   "desc": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
-   "id": "great-southern-lands-14th-october-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/acc2c2f8-538e-4ccd-87bd-d46616e7b175_1627430400.jpeg",
-   "location": "Melbourne",
-   "tags": "Indie Rock, Psychedelic Folk",
-   "title": "Great Southern Lands w/ James W",
-   "url": "https://www.nts.live/shows/great-southern-lands/episodes/great-southern-lands-14th-october-2025"
   }
  ],
  "kind": "nts",
  "name": "Great Southern Lands w/ James W",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-14T12:00:17Z"
 }

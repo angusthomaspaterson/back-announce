@@ -1,6 +1,105 @@
 {
  "items": [
   {
+   "d": "2026-10-14T08:45:50Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "PLUTONIC w/ Bowen - EP 3",
+   "u": "https://soundcloud.com/radio-cazimi/plutonic-w-bowen-ep-3"
+  },
+  {
+   "d": "2026-10-14T08:45:45Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "DUBWISE & OTHERWISE w/ Jesse Yuen, Lia T & Rok Riley - EP 3",
+   "u": "https://soundcloud.com/radio-cazimi/dubwise-otherwise-w-jesse-2"
+  },
+  {
+   "d": "2026-10-14T08:45:35Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "MORNING DESIRES w/ Rory Glacken",
+   "u": "https://soundcloud.com/radio-cazimi/morning-desires-w-rory-2"
+  },
+  {
+   "d": "2026-10-14T08:45:28Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "LISTENING HOUR w/ Grace & Reece - EP 4",
+   "u": "https://soundcloud.com/radio-cazimi/listening-hour-w-grace-reece"
+  },
+  {
+   "d": "2026-10-14T08:40:28Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "NYINALANGINY w/ Cole Baxter & Dylan Collard - EP 2",
+   "u": "https://soundcloud.com/radio-cazimi/nyinalanginy-w-cole-baxter-1"
+  },
+  {
+   "d": "2026-10-14T08:39:31Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "WEST CAPE RECORDS w/ Jeremy S - EP 4",
+   "u": "https://soundcloud.com/radio-cazimi/west-cape-records-w-jeremy-s-2"
+  },
+  {
+   "d": "2026-10-14T08:38:44Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "DESIRE PATH w/ Liv Pickering - EP 1",
+   "u": "https://soundcloud.com/radio-cazimi/desire-path-w-liv-pickering-ep"
+  },
+  {
+   "d": "2026-10-14T08:37:11Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "GOODBYE BEHAVIOUR  w/ Zev - EP 1",
+   "u": "https://soundcloud.com/radio-cazimi/goodbye-behaviour-w-zev-ep-1"
+  },
+  {
+   "d": "2026-10-14T08:31:58Z",
+   "g": "Perth",
+   "s": "Radio Cazimi (Fremantle)",
+   "sid": "radio-cazimi",
+   "t": "CLANG ASSOC. w/ Timo - EP 3",
+   "u": "https://soundcloud.com/radio-cazimi/clang-assoc-w-timo-ep-3"
+  },
+  {
+   "d": "2026-10-14T07:02:54Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "sp": "Flow State Across the Horizon Ep. 72: Marisa Anderson & Alan Sparhawk",
+   "t": "Across the Horizon Ep. 72: Marisa Anderson & Alan Sparhawk",
+   "u": "https://www.flowstate.fm/p/across-the-horizon-ep-72-marisa-anderson"
+  },
+  {
+   "d": "2026-10-14T07:00:00Z",
+   "g": "Podcasts",
+   "s": "Transmissions (Aquarium Drunkard)",
+   "sid": "transmissions",
+   "sp": "Transmissions (Aquarium Drunkard) Transmissions :: Richard Thompson (2026)",
+   "t": "Transmissions :: Richard Thompson (2026)",
+   "u": "https://aquariumdrunkard.com/2026/10/14/transmissions-richard-thompson-2026/"
+  },
+  {
+   "d": "2026-10-14T05:00:00Z",
+   "g": "Podcasts",
+   "s": "Sound Opinions",
+   "sid": "sound-opinions",
+   "sp": "Sound Opinions Musical Comedy with Kyle Gordon",
+   "t": "Musical Comedy with Kyle Gordon",
+   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/920b931d-9b6f-49e1-8dbc-65e148857bbe.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
    "d": "2026-10-14T04:23:46Z",
    "g": "Writing",
    "s": "Mixmag Australia/Asia",
@@ -62,14 +161,6 @@
    "u": "https://mixmag.net.au/feature/clova-composing-her-way-into-club-culture"
   },
   {
-   "d": "2026-10-14T03:00:21Z",
-   "g": "Perth",
-   "s": "RTRFM: No Skips",
-   "sid": "no-skips",
-   "t": "No Skips with Mimi Gilbert",
-   "u": "https://rtrfm.com.au/podcasts/no-skips/no-skips-with-mimi-gilbert/"
-  },
-  {
    "d": "2026-10-14T00:00:00Z",
    "g": "Progressive",
    "s": "Anjunadeep releases",
@@ -77,101 +168,9 @@
    "sp": "foglight – Coda / Golden Hour",
    "t": "foglight – Coda / Golden Hour",
    "u": "https://anjunadeep.com/products/621098-coda-golden-hour"
-  },
-  {
-   "d": "2026-10-13T16:18:57Z",
-   "g": "Radio",
-   "s": "KEXP: In Our Headphones",
-   "sid": "in-our-headphones",
-   "sp": "KEXP: In Our Headphones KEXP’s Dirk Whitebreast on Indigenous Peoples Day and the Music of Amisut and Hun Lynch",
-   "t": "KEXP’s Dirk Whitebreast on Indigenous Peoples Day and the Music of Amisut and Hun Lynch",
-   "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dirk-whitebreast-on-indigenous-peoples-day-and-the-music-of-amisut-and-hun-lynch"
-  },
-  {
-   "d": "2026-10-13T14:38:41Z",
-   "g": "Writing",
-   "s": "Stereogum: Album of the Week",
-   "sid": "stereogum-aotw",
-   "t": "Album Of The Week: Sophia Stel the greatest album of all time",
-   "u": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/"
-  },
-  {
-   "d": "2026-10-13T14:25:52Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 13 Oct: 1 record",
-   "u": "https://firstfloor.substack.com/p/girlscoutcookies-course"
-  },
-  {
-   "d": "2026-10-13T11:38:16Z",
-   "g": "Radio",
-   "s": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
-   "sid": "balearic-breakfast",
-   "t": "Colleen 'Cosmo' Murphy's Balearic Breakfast 13.10.26",
-   "u": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261013-085955/"
-  },
-  {
-   "d": "2026-10-13T10:31:06Z",
-   "g": "Writing",
-   "s": "Futurism Restated (Philip Sherburne)",
-   "sid": "futurism-restated",
-   "t": "FR 194: SML’s Jeremiah Chiu Is Activating Wildly",
-   "u": "https://futurismrestated.substack.com/p/fr-194-smls-jeremiah-chiu-is-activating"
-  },
-  {
-   "d": "2026-10-13T10:00:36Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "Vladislav Delay Is in His Bandcamp Loosies Era",
-   "u": "https://firstfloor.substack.com/p/vladislav-delay-is-in-his-bandcamp"
-  },
-  {
-   "d": "2026-10-13T09:00:00Z",
-   "g": "Rinse FM",
-   "s": "Papaoul",
-   "sid": "rinse-papaoul",
-   "t": "Papaoul, 13 Oct 2026",
-   "u": "https://www.rinse.fm/episodes/papaoul-13-10-2026-1000"
-  },
-  {
-   "d": "2026-10-13T09:00:00Z",
-   "g": "Radio",
-   "s": "NPR: All Songs Considered",
-   "sid": "all-songs-considered",
-   "sp": "NPR: All Songs Considered A new canon of Halloween music",
-   "t": "A new canon of Halloween music",
-   "u": "https://www.npr.org/2026/10/13/nx-s1-5996649/a-new-canon-of-halloween-music"
-  },
-  {
-   "d": "2026-10-13T09:00:00Z",
-   "g": "Podcasts",
-   "s": "The Pitchfork Review",
-   "sid": "pitchfork-review",
-   "sp": "The Pitchfork Review From One More Question: Ethan Hawke",
-   "t": "From One More Question: Ethan Hawke",
-   "u": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE1326927988.mp3"
-  },
-  {
-   "d": "2026-10-13T07:03:05Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "sp": "Flow State Flow State Episode 347",
-   "t": "Flow State Episode 347",
-   "u": "https://www.flowstate.fm/p/flow-state-episode-347"
-  },
-  {
-   "d": "2026-10-13T05:54:08Z",
-   "g": "Writing",
-   "s": "Pitchfork: Best New Albums",
-   "sid": "pitchfork-bna",
-   "t": "A Mile South of Heaven",
-   "u": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/"
   }
  ],
- "newCount": 44,
+ "newCount": 60,
  "paused": 16,
  "releases": [
   {
@@ -220,5 +219,5 @@
   }
  ],
  "sources": 153,
- "updated": "2026-10-14T04:59:31Z"
+ "updated": "2026-10-14T12:00:17Z"
 }
