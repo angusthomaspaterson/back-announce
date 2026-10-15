@@ -3,6 +3,16 @@
  "id": "nts-rhythm-section",
  "items": [
   {
+   "date": "2026-10-14T13:00:00Z",
+   "desc": "Rhythm Section Radio was founded in 2009 and moved to NTS in 2012, and has since pulled out the stops breaking new music, promoting independent labels and paying homage to the greatest music from the past, through a perhaps unhealthy obsession with record digging.",
+   "id": "rhythmsection-14th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/3f7d33de-053f-4981-8f11-c7ab8b83cfb8_1791936000.jpeg",
+   "location": "London",
+   "tags": "Deep House, House, Leftfield Disco",
+   "title": "Bradley Zero Presents: Rhythm Section",
+   "url": "https://www.nts.live/shows/rhythmsection/episodes/rhythmsection-14th-october-2026"
+  },
+  {
    "date": "2026-09-30T13:00:00Z",
    "desc": "Rhythm Section Radio was founded in 2009 and moved to NTS in 2012, and has since pulled out the stops breaking new music, promoting independent labels and paying homage to the greatest music from the past, through a perhaps unhealthy obsession with record digging.",
    "id": "rhythmsection-30th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Funk, House, Broken Beat",
    "title": "Rhythm Section w/ Marvin Jupiter",
    "url": "https://www.nts.live/shows/rhythmsection/episodes/rhythmsection-13th-may-2026"
-  },
-  {
-   "date": "2026-04-29T13:00:00Z",
-   "desc": "Rhythm Section Radio was founded in 2009 and moved to NTS in 2012, and has since pulled out the stops breaking new music, promoting independent labels and paying homage to the greatest music from the past, through a perhaps unhealthy obsession with record digging.",
-   "id": "rhythmsection-29th-april-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/e022aef5-650d-46e7-8f3b-61228bb0becb_1629936000.jpeg",
-   "location": "London",
-   "tags": "Deep House, Tech House",
-   "title": "Bradley Zero Presents: Rhythm Section",
-   "url": "https://www.nts.live/shows/rhythmsection/episodes/rhythmsection-29th-april-2026"
   }
  ],
  "kind": "nts",
  "name": "Bradley Zero Presents: Rhythm Section",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

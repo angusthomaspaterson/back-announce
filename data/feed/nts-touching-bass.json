@@ -3,6 +3,16 @@
  "id": "nts-touching-bass",
  "items": [
   {
+   "date": "2026-10-14T17:00:00Z",
+   "desc": "Join Errol and the Touching Bass family every month for regular voyages into inner-city, concrete jungle productions plus astral-facing funk, jazz, broken beat and anything else with a soulful pulse.",
+   "id": "touching-bass-14th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/1f3df8ab-7c15-47c4-b187-f884c8bda50f_1744329600.jpeg",
+   "location": "London",
+   "tags": "Deep House, Contemporary Jazz, Dub, Broken Beat",
+   "title": "Errol & Alex Rita present Touching Bass",
+   "url": "https://www.nts.live/shows/touching-bass/episodes/touching-bass-14th-october-2026"
+  },
+  {
    "date": "2026-09-16T17:00:00Z",
    "desc": "Join Errol and the Touching Bass family every month for regular voyages into inner-city, concrete jungle productions plus astral-facing funk, jazz, broken beat and anything else with a soulful pulse.",
    "id": "touching-bass-16th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Soul, Contemporary Jazz, Hip Hop , RNB",
    "title": "Errol & Alex Rita present Touching Bass",
    "url": "https://www.nts.live/shows/touching-bass/episodes/touching-bass-15th-october-2025"
-  },
-  {
-   "date": "2025-09-17T17:00:00Z",
-   "desc": "Join Errol and the Touching Bass family every month for regular voyages into inner-city, concrete jungle productions plus astral-facing funk, jazz, broken beat and anything else with a soulful pulse.",
-   "id": "touching-bass-17th-september-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/1f3df8ab-7c15-47c4-b187-f884c8bda50f_1744329600.jpeg",
-   "location": "London",
-   "tags": "Dub, RNB, Broken Beat, Soul",
-   "title": "Errol & Alex Rita present Touching Bass",
-   "url": "https://www.nts.live/shows/touching-bass/episodes/touching-bass-17th-september-2025"
   }
  ],
  "kind": "nts",
  "name": "Touching Bass",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

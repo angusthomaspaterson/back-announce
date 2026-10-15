@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-15T16:42:47Z",
+   "desc": "Sparklmami traces the long road to her debut album, ‘in this body.’",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-sparklmami-interview-in-this-body",
+   "image": "https://substackcdn.com/image/fetch/$s_!h6Ha!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8be74199-e6a7-4103-8cd1-6f3624585dc8_1200x1200.png",
+   "title": "I’m 12, Feeling Guilty for Listening to Coldplay",
+   "url": "https://www.powmag.net/p/sparklmami-interview-in-this-body"
+  },
+  {
+   "audio": null,
    "date": "2026-10-14T16:03:54Z",
    "desc": "The latest edition of Douglas Martin’s Dirty Shoes finds the author trailing the D.C. art-punks.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!msDh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c69c0b3-f8f4-43d6-8f68-2a76305389a6_1200x1200.png",
    "title": "Still Supreme: John Coltrane at 100",
    "url": "https://www.powmag.net/p/john-coltrane-100-years-a-love-supreme"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-22T18:19:18Z",
-   "desc": "The anticon. co-founder talks about his new album, David Lynch, Mark Rothko’s suicide, and much more.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-doseone-interview-sighting",
-   "image": "https://substackcdn.com/image/fetch/$s_!W7dg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0a0d6ab-8590-4123-a03b-bbddf2d15127_1200x1200.png",
-   "title": "You Can Scare the Moment Away: An Interview with doseone",
-   "url": "https://www.powmag.net/p/doseone-interview-sighting"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-14T23:57:27Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

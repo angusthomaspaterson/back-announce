@@ -3,6 +3,14 @@
  "id": "rinse-dj-flight",
  "items": [
   {
+   "date": "2026-10-14T18:00:00Z",
+   "desc": "",
+   "id": "dj-flight-14-10-2026-1900",
+   "image": "https://image.rinse.fm/_/DJ-Flight-April-2023.jpeg?w=1200&h=630",
+   "title": "DJ Flight, 14 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/dj-flight-14-10-2026-1900"
+  },
+  {
    "date": "2026-09-09T18:00:00Z",
    "desc": "",
    "id": "dj-flight-09-09-2026-1900",
@@ -193,17 +201,9 @@
    "image": "https://image.rinse.fm/_/DJ-Flight-April-2023.jpeg?w=1200&h=630",
    "title": "DJ Flight, 20 Sep 2023",
    "url": "https://www.rinse.fm/episodes/dj-flight-20-09-2023-2100"
-  },
-  {
-   "date": "2009-10-28T15:29:00Z",
-   "desc": "",
-   "id": "dj-flight-28-10-2009-1529",
-   "image": "https://image.rinse.fm/_/DJ-Flight-April-2023.jpeg?w=1200&h=630",
-   "title": "DJ Flight, 28 Oct 2009",
-   "url": "https://www.rinse.fm/episodes/dj-flight-28-10-2009-1529"
   }
  ],
  "kind": "rinse",
  "name": "DJ Flight",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

@@ -3,6 +3,16 @@
  "id": "dialekt-radio",
  "items": [
   {
+   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/ec9f96f6-2f73-4eff-901c-c961c0443210/group-item/7f242dfb-3a42-45b9-ae71-e3666b9e6f46/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
+   "date": "2026-10-15T18:36:59Z",
+   "desc": "1. 16B - Virus 00:00:40 2. New Order - Crystal (Lee Coombs Remix) 00:08:08 3. Jondi & Spesh - We Are Connected 00:15:00 4. Holden & Thompson - Nothing (93 Returning Mix) 00:22:13 5. Der Dritte Raum - Hale Bopp 00:27:57 6. Andy Ling - Fixation 00:34:59 7. Luzon - Manila Sunrise (Markus Schulz Moscow Mix) 00:42:15 8. Saints & Sinners - Pushin Too Hard 00:46:00 9. Sander Kleinenberg - Sacred (The Sunrise Mix) 00:51:49 10. The Cosmos - Take Me With You 01:00:33",
+   "duration": "01:04:40",
+   "id": "bdc48a8e-b33b-4f64-b007-7bcdbfdc3c1f",
+   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
+   "title": "Dialekt Radio #349",
+   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-349-lNiKQ_Tx"
+  },
+  {
    "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/c3aa55dc-19c2-4f3c-b387-094775152190/group-item/b0d7db27-e3ad-49cf-a8d5-990862ca5659/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
    "date": "2026-10-11T19:00:00Z",
    "desc": "1. Irresistible Force & Coldcut - Autumn Leaves Return 00:00:40 2. Luke Chable - Melburn (Am Bee En Tea Mix) 00:07:44 3. Ólafur Arnalds, Loreen & SAGES - Unknowing 00:11:49 4. M83 - Gone 00:15:13 5. Spooky - Belong (Echospace Mix) 00:20:45 6. Aphex Twin - Alberto Balsalm 00:25:50 7. Four Tet - Angel Echoes 00:30:48 8. Peter Benisch - Skymning 00:34:11 9. UNKLE ft. Petter - What Are You To Me? (Sasha's Involver Remix) 00:39:08 10. Lamb - Gorecki 00:46:56 11. Moby - God Moving Over The Face Of The Waters 00:51:40 12. The Chemical Brothers - One Too Many Mornings 00:58:20",
@@ -241,19 +251,9 @@
    "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
    "title": "Dialekt RADIO #325",
    "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-325-gu8_Iz7Z"
-  },
-  {
-   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/21ec2cee-7690-4133-97ca-0076af078a3b/group-item/8ae2ef92-872f-4c78-85c8-6284ff4fb296/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
-   "date": "2026-04-26T19:00:00Z",
-   "desc": "1. Naws, Tris & Phoebe Tsen - Endless Nights 00:00:40 2. CRi & DJ Cinéma Quartier Latin - Unsaid 00:06:07 3. Braxton - Green To Gold 00:09:44 4. HAFT - Distant Blue 00:14:15 5. Parallel Voices - Retrospect 00:19:25 6. Amber Long & Sergio Vilas - Separation (Lexicon Avenue Remix) 00:23:48 7. M.O.S. - Dark Hills 00:29:29- DIALEKT TRACK OF THE WEEK 8. Das Pharaoh - Blissful Thinking (Supacooks Remix) 00:34:56 9. Township Rebellion - Birds Fly First Class 00:41:07 10. Pavel Petrov - La Bamba 00:46:40 11. Josh Gigante & Kimonos - Feel So Right 00:50:32 12. Steve Angello - Tivoli 00:54:56- CLASSIC …",
-   "duration": "01:00:55",
-   "id": "d291189d-2766-4b29-8198-67c537beeec9",
-   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
-   "title": "Dialekt Radio #324",
-   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-324-zdTr1542"
   }
  ],
  "kind": "rss",
  "name": "Sultan + Shepard: Dialekt Radio",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

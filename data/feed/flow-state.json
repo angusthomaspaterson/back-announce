@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": null,
+   "date": "2026-10-15T07:02:54Z",
+   "desc": "Today we’re listening to The Sweet Enoughs, an Australian trio led by bassist Paul Bender.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-the-sweet-enoughs",
+   "image": "https://substackcdn.com/image/fetch/$s_!HVbo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F906c8865-6da5-4cc5-9bf5-1535ee8f9dd0_1174x1200.jpeg",
+   "title": "The Sweet Enoughs",
+   "url": "https://www.flowstate.fm/p/the-sweet-enoughs"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/220306654/3d8693413d86a1b4f6244a4e90a5bd4c.mp3",
    "date": "2026-10-14T07:02:54Z",
    "desc": "On today’s episode of Across the Horizon, Bob Holmes of the band SUSS has a conversation with marisa anderson and Alan Sparhawk (formerly of Low).",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!U8Hl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22f1cb74-adad-4984-8ae6-226132aea219_2382x1982.png",
    "title": "Professor Kazkaz",
    "url": "https://www.flowstate.fm/p/professor-kazkaz"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-17T07:02:50Z",
-   "desc": "Today we have a guest recommendation from Sofie Birch, a sound artist and composer, whose newsletter Ambient Abracadabra we highly recommend.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-go-kurosawa-guest-rec-by-sofie-birch",
-   "image": "https://substackcdn.com/image/fetch/$s_!V8mC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a582336-a6d7-4203-a0bf-21d7edf5a667_3130x2075.jpeg",
-   "title": "Go Kurosawa (Guest rec by Sofie Birch)",
-   "url": "https://www.flowstate.fm/p/go-kurosawa-guest-rec-by-sofie-birch"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-14T12:00:17Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

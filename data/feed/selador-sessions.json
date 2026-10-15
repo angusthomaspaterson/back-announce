@@ -3,6 +3,16 @@
  "id": "selador-sessions",
  "items": [
   {
+   "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-388-maze28-1.mp3",
+   "date": "2026-10-15T00:00:00Z",
+   "desc": "Welcoming our first Albanian artist to the Selador Sessions this week, as the young and exciting DJ and Producer Maze 28 delivers this weeks show. This is a recreation of his warm up set that he played for us at Seladoria Barcelona a few weeks ago. Its an hour of deep and quality flavours, showcasing his musical depth. And don't forget that his remix of 'Infusion - Legacy' made in collaboration, with Freedo Mosho, GMJ & Matter is available to stream & download too! https://found.ee/Infusion2 Enjoy The Mix! Tracklist : Maze 28 - Intro Addex - Focus Remix & Nova 500 (M28 Mashup) Dotti - Mick Wh…",
+   "duration": "59:58",
+   "id": "https:--app.syndicast.co.uk-site-show-selador-sessions-selador-sessions-388-maze28",
+   "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-388-maze28.jpeg/d3ef01116727b92b6a8afee9932231e6.png",
+   "title": "Selador Sessions 388 | Maze28",
+   "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-388-maze28"
+  },
+  {
    "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-387-gmj-matter-1.mp3",
    "date": "2026-10-08T00:00:00Z",
    "desc": "Coinciding with the release of their high flying new remix for Selador of the Infusion classic, 'Legacy' which they've created together with Freedo Mosho & Maze 28, this week's guest mix comes courtesy of two of the hottest producers on today's Progressive House scene. Straight outta Melbourne Australia, please give it up for GMJ & Matter exclusively in the mix for Selador Sessions.. 1. GMJ - Quintessence [Meanwhile] 2. ID - ID 3. GMJ & Matter - ID 4. Kebin Van Reeken - Something About You 5. GMJ & Matter - ID 6. Infusion - Legacy [FM, Maze 28, GMJ, Matter Remix] [Selador] 7. Sam Scheme - ID …",
@@ -241,19 +251,9 @@
    "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-364-zuccasam.jpeg/0fdbd59f0da8dca4035f5319aa119eee.png",
    "title": "Selador Sessions 364 | Zuccasam",
    "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-364-zuccasam"
-  },
-  {
-   "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-363-derderwandert-1.mp3",
-   "date": "2026-04-23T00:00:00Z",
-   "desc": "We've been watching and enjoying the music of Cologne's Derderwandert, and now he lands on Selador with both his debut for the Selador Sessions, as well as a new remix of the next Zuccasam track 'Jomi\" released 1st May thats featured in this mix!. He's rapidly rising through the ranks with his music gracing Bedrock and Renaissance, and now our beloved Selador too! Enjoy! Tracklisting 1. Magdalena - Mountains of es Cubells 2 . Ditian - Etnika 3. Liminal Mx - With Me (derderwandert Remix) unreleased. 4 Zuccasam - Jomi ( derderwandert Remix Story Version) - Selador 5. Danito & derderwandert - Yo…",
-   "duration": "1:01:07",
-   "id": "https:--app.syndicast.co.uk-site-show-selador-sessions-selador-sessions-363-derderwandert",
-   "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-363-derderwandert.jpeg/ef168a1a6cecc05aa8f48393d9703d8e.png",
-   "title": "Selador Sessions 363 | Derderwandert.",
-   "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-363-derderwandert"
   }
  ],
  "kind": "rss",
  "name": "Selador Sessions (Dave Seaman & Steve Parry)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

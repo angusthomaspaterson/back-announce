@@ -3,6 +3,16 @@
  "id": "spectrum-radio",
  "items": [
   {
+   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_494__Joris_Voorn_sc.mp3?dest-id=504876",
+   "date": "2026-10-15T14:32:00Z",
+   "desc": "Live from Into The Woods, Amsterdam",
+   "duration": "01:00:50",
+   "id": "107c1663-a7c7-41ad-82f6-7f7f868d189c",
+   "image": "https://static.libsyn.com/p/assets/8/6/e/3/86e3e514a9783fcf88c4a68c3ddbc4f2/Spectrum_Radio_494.jpg",
+   "title": "Spectrum Radio 494",
+   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-494"
+  },
+  {
    "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_493__Joris_Voorn_sc_v2.mp3?dest-id=504876",
    "date": "2026-10-08T10:13:00Z",
    "desc": "Live from Into The Woods, Amsterdam",
@@ -241,19 +251,9 @@
    "image": "https://static.libsyn.com/p/assets/0/c/0/e/0c0e24363615b99016c3140a3186d450/Spectrum_Radio_470.jpg",
    "title": "Spectrum Radio 470",
    "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-470"
-  },
-  {
-   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_469__Joris_Voorn_sc.mp3?dest-id=504876",
-   "date": "2026-04-23T10:07:00Z",
-   "desc": "Joris Voorn & Korolova live from Ultra Miami 2026",
-   "duration": "59:53",
-   "id": "0919700a-9f9e-48ca-aeb9-f131fc5feed1",
-   "image": "https://static.libsyn.com/p/assets/f/5/2/c/f52c98d177ea4cb8d959afa2a1bf1c87/Spectrum_Radio_469.jpg",
-   "title": "Spectrum Radio 469",
-   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-469"
   }
  ],
  "kind": "rss",
  "name": "Joris Voorn: Spectrum Radio",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

@@ -3,6 +3,16 @@
  "id": "coldwired",
  "items": [
   {
+   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-October2026ptII.mp3",
+   "date": "2026-10-15T06:22:01Z",
+   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
+   "duration": "1:28:05",
+   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-October2026ptII.mp3",
+   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-October2026ptII.jpg",
+   "title": "October 2026 Selection pt II (featuring Enlusion, Framewerk, Exotek, Pico Boulevard, James Holden, CLOSE PROXIMITY, Dosem, Doug Crawford, Markus Schulz, Brother Brown, Frank'ee, Starecase, Boxer, Matt Fax, Blake Jarrell, UNWA, Sam T Harper, Simon Vuarambon, Sam T Harper, Vril, Rodd Sim, Virgil Hill, Elias Erium, Tre Turner, Transpose (CA), Scatterbrain)",
+   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-October2026ptII.mp3"
+  },
+  {
    "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-Contrasts023.mp3",
    "date": "2026-10-08T05:48:01Z",
    "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
@@ -241,19 +251,9 @@
    "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-Contrasts021.jpg",
    "title": "Contrasts 021: Simon Templar vs Cosmithex",
    "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-Contrasts021.mp3"
-  },
-  {
-   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-FriDaze013.mp3",
-   "date": "2026-06-07T11:31:01Z",
-   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
-   "duration": "3:12:00",
-   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-FriDaze013.mp3",
-   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-FriDaze013.jpg",
-   "title": "'FriDaze' 013: Live Stream 05/06/26 (Progressive Psy-Trance + Drum n Bass)",
-   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-FriDaze013.mp3"
   }
  ],
  "kind": "rss",
  "name": "Coldwired Podcast (Nick Clark)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

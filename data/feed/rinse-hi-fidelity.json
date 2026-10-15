@@ -3,6 +3,14 @@
  "id": "rinse-hi-fidelity",
  "items": [
   {
+   "date": "2026-10-15T11:00:00Z",
+   "desc": "",
+   "id": "hi-fidelity-15-10-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 15 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-15-10-2026-1200"
+  },
+  {
    "date": "2026-10-08T11:00:00Z",
    "desc": "",
    "id": "hi-fidelity-08-10-2026-1200",
@@ -193,17 +201,9 @@
    "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
    "title": "Hi-Fidelity, 28 Feb 2026",
    "url": "https://www.rinse.fm/episodes/hi-fidelity-28-02-2026-1100"
-  },
-  {
-   "date": "2026-02-21T11:00:00Z",
-   "desc": "",
-   "id": "hi-fidelity-21-02-2026-1100",
-   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
-   "title": "Hi-Fidelity, 21 Feb 2026",
-   "url": "https://www.rinse.fm/episodes/hi-fidelity-21-02-2026-1100"
   }
  ],
  "kind": "rinse",
  "name": "Hi-Fidelity",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

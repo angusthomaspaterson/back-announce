@@ -3,6 +3,16 @@
  "id": "nts-moxie",
  "items": [
   {
+   "date": "2026-10-14T14:00:00Z",
+   "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
+   "id": "moxie-14th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/72233a94-3d05-4876-bd99-135c10426546_1791849600.jpeg",
+   "location": "London",
+   "tags": "Deep House, House, Tech House",
+   "title": "Moxie W/ Theo Kottis",
+   "url": "https://www.nts.live/shows/moxie/episodes/moxie-14th-october-2026"
+  },
+  {
    "date": "2026-09-30T14:00:00Z",
    "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
    "id": "moxie-30th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Deep House, House",
    "title": "Moxie W/ Ariane V (Nervous Records feature)",
    "url": "https://www.nts.live/shows/moxie/episodes/moxie-29th-april-2026"
-  },
-  {
-   "date": "2026-04-15T14:00:00Z",
-   "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
-   "id": "moxie-15th-april-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/e0bfd7bc-8ac0-4b19-8fcf-ae037f8d9f78_1775174400.jpeg",
-   "location": "London",
-   "tags": "Deep House, Techno, Bass, Minimal",
-   "title": "Leon Vynehall",
-   "url": "https://www.nts.live/shows/moxie/episodes/moxie-15th-april-2026"
   }
  ],
  "kind": "nts",
  "name": "Moxie",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

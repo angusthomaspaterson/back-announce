@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-15T14:57:57Z",
+   "desc": "Plus a Must Hear anthem about a boss baby and more",
+   "duration": null,
+   "id": "6ad0e26ee03ff10001f0dbab",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/10/Copy-of-Five-Songs-Template-1_1.png",
+   "title": "Here's Your Song of the Spooky Season",
+   "url": "https://www.hearingthings.co/heres-your-song-of-the-spooky-season/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-13T15:32:57Z",
    "desc": "Plus imaginative DIY guitar music",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Five-Songs-Template-11--17-.png",
    "title": "The Twink Robin to Charli's Batman",
    "url": "https://www.hearingthings.co/the-twink-robin-to-charlis-batman/"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-18T19:21:26Z",
-   "desc": "Plus Must Hear experimental pop, emotive música Mexicana for the club, emo-pop to bring you out of your shell, and a follow up to an 11-year-old New Jersey hardcore hip-hop cult classic.",
-   "duration": null,
-   "id": "6a833cd0c61f9a00016e0bcc",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Album-Covers-43--5-.png",
-   "title": "Pummeling Art Punk Straight From Detroit",
-   "url": "https://www.hearingthings.co/pummeling-art-punk-straight-from-detroit/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-10-13T22:50:30Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

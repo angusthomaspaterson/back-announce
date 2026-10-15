@@ -3,6 +3,16 @@
  "id": "in-our-headphones",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/d1629c61-7a3f-4c99-a596-b4e2015b7af5/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
+   "date": "2026-10-15T19:11:07Z",
+   "desc": "Host Evie Stokes sits down again with KEXP DJ Dirk Whitebreast, one of the hosts of KEXP’s Indigenous music show Sounds of Survivance . This time, Dirk brings in a new track from School Fair and dives deep into the Māori music scene. The two also dig into Dirk’s biggest love: death metal. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones”  playlist on Spotify or the “What’s In Our Headphones”  playlist on YouTube. Support the show: https://www.kexp.org/donate See omnystudio.com/listener for privacy inform…",
+   "duration": "847",
+   "id": "d1629c61-7a3f-4c99-a596-b4e2015b7af5",
+   "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
+   "title": "KEXP’s Dirk Whitebreast on School Fair, the Māori Music Scene, and His Love of Death Metal",
+   "url": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dirk-whitebreast-on-school-fair-the-m-ori-music-scene-and-his-love-of-death-metal"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/82fa341d-faae-4bc3-9b53-b4de017fb242/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
    "date": "2026-10-13T16:18:57Z",
    "desc": "Host Evie Stokes sits down with KEXP DJ Dirk Whitebreast, one of the new hosts of KEXP’s Indigenous music show Sounds of Survivance . The two talk about Dirk’s background in music, his work with Daybreak Star Radio, and KEXP’s Indigenous Peoples Day programming. As a special treat, Dirk also brings in two songs for this episode, one each from Amisut and Hun Lynch. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones”  playlist on Spotify or the “What’s In Our Headphones”  playlist on YouTube. Support the pod…",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/120fa78a-0f82-48ef-9bf5-b4930163f692/image.jpg?t=1785433279&size=Large",
    "title": "Snail Mail on Loving Her Tour Mates Armlock",
    "url": "https://omny.fm/shows/kexp-song-of-the-day/snail-mail-on-loving-her-tour-mates-armlock"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/92050c4e-649c-450a-aa91-b48f014175ef/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-   "date": "2026-07-23T07:00:00Z",
-   "desc": "Host Evie Stokes sits down again with indie pop sensation Gelli Haha to share music from a fellow Angeleno. The two get into Gelli’s friendship with Tia Rabinovitz, aka Nymphlord, and the band’s off-kilter optimism. “Garden” comes from Nymphlord’s latest album, Shedding Velvet , out now on Lauren Records. Produced by: William Myers and Dusty Henry Mastered by: William Myers Production support: Serafima Healy Listen to the full songs on KEXP's \" In Our Headphones \" playlist on Spotify or the “ What's In Our Headphones ” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us a…",
-   "duration": "602",
-   "id": "92050c4e-649c-450a-aa91-b48f014175ef",
-   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/92050c4e-649c-450a-aa91-b48f014175ef/image.jpg?t=1784765565&size=Large",
-   "title": "Gelli Haha on Experimental Optimism of Nymphlord",
-   "url": "https://omny.fm/shows/kexp-song-of-the-day/gelli-haha-on-experimental-optimism-of-nymphlord"
   }
  ],
  "kind": "rss",
  "name": "KEXP: In Our Headphones",
- "updatedAt": "2026-10-13T22:50:30Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }

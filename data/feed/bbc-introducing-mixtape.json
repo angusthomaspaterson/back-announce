@@ -3,6 +3,16 @@
  "id": "bbc-introducing-mixtape",
  "items": [
   {
+   "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgsgv9.mp3",
+   "date": "2026-10-15T11:00:00Z",
+   "desc": "Emily Pilbeam presents a mixtape of her personal selection of tracks from BBC Introducing, with music from Wyatt, Cyn Cwsg, Esme Emerson, Pearl2, Cowboy Hunters, redolent, Lily Juniper, whosmeg?, cordelia gartside, Mandrake Handshake, Johanna Warren, lochre, NinaRosa, two blinks, I love you, Pearly Gates, and a new Track of the Week by Bruise Control. Produced in Salford by BBC Audio for BBC Radio 6 Music.",
+   "duration": "3600",
+   "id": "urn:bbc:podcast:p0pgrw0m",
+   "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0d7j1yy.jpg",
+   "title": "With a new Track of the Week by Bruise Control",
+   "url": "http://www.bbc.co.uk/programmes/p0pgrw0m"
+  },
+  {
    "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pf7v8y.mp3",
    "date": "2026-10-09T11:00:00Z",
    "desc": "Emily Pilbeam presents a mixtape of her personal selection of tracks from BBC Introducing, with music from Body Horror, Sandhouse, Galore, Long Distance Runner, Clea May feat. Cash Green, KinKai feat. ENNY, Kofi Stone, Steven Bamidele feat. Scarlett Fae, Tokomololo, Troutflies, Eistir, Sally Stenning, Harriet Rock, and a new Track of the Week from Pearl2 Produced by BBC Audio for BBC Radio 6 Music.",
@@ -105,5 +115,5 @@
  ],
  "kind": "rss",
  "name": "BBC Music Introducing Mixtape (6 Music)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-15T23:42:13Z"
 }
