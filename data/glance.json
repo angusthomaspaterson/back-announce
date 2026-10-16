@@ -61,6 +61,14 @@
    "u": "https://www.rinse.fm/episodes/hi-fidelity-15-10-2026-1200"
   },
   {
+   "d": "2026-10-15T10:03:22Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 15 Oct: 1 record",
+   "u": "https://firstfloor.substack.com/p/first-floor-332-not-the-center-of"
+  },
+  {
    "d": "2026-10-15T10:00:06Z",
    "g": "Writing",
    "s": "Crack Magazine",
@@ -158,19 +166,10 @@
    "sid": "gorilla-vs-bear",
    "t": "June McDoom – Human Angel",
    "u": "https://www.gorillavsbear.net/june-mcdoom-human-angel/"
-  },
-  {
-   "d": "2026-10-14T15:56:50Z",
-   "g": "Podcasts",
-   "s": "No Tags",
-   "sid": "no-tags",
-   "sp": "No Tags 74: What does it take to run a clubnight for 20 years?",
-   "t": "74: What does it take to run a clubnight for 20 years?",
-   "u": "https://notagspodcast.substack.com/p/74-what-does-it-take-to-run-a-clubnight"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 81,
+ "newCount": 82,
  "paused": 17,
  "releases": [
   {
@@ -213,5 +212,5 @@
   }
  ],
  "sources": 153,
- "updated": "2026-10-15T23:42:13Z"
+ "updated": "2026-10-16T00:13:58Z"
 }

@@ -5577,6 +5577,20 @@
    "id": "first-floor",
    "items": [
     {
+     "date": "2026-10-15T10:03:22Z",
+     "desc": "First Floor #332 – Not the Center of the Universe",
+     "id": "rollup-2026-10-15",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/782ba028-e6a3-4453-bd60-fe100fe1ad2f_1456x1048.png",
+     "links": [
+      {
+       "t": "First Floor #332 – Not the Center of the Universe",
+       "u": "https://firstfloor.substack.com/p/first-floor-332-not-the-center-of"
+      }
+     ],
+     "title": "First Floor recommendations, 15 Oct: 1 record",
+     "url": "https://firstfloor.substack.com/p/first-floor-332-not-the-center-of"
+    },
+    {
      "date": "2026-10-14T15:29:24Z",
      "desc": "Holy Tongue – Basilikum (AD 93) Claudio PRC – Self Surrender Deconstructed (Delsin) Basma & Temir Alcy – NAD (ناض) (STROOM)",
      "id": "rollup-2026-10-14",
@@ -5738,26 +5752,22 @@
     },
     {
      "date": "2026-09-30T18:51:19Z",
-     "desc": "claire rousay & Martyna Basta – hotel room (Unsound) Clima – Healing Patterns (appendix.files)",
+     "desc": "Clima – Healing Patterns (appendix.files)",
      "id": "rollup-2026-09-30",
-     "image": "https://substackcdn.com/image/fetch/$s_!fIlb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c189e61-225d-4b6c-a035-6d569951cd82_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!5BZx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff24b2ef4-95ce-4b80-b96d-6c907db4933e_1456x1048.jpeg",
      "links": [
-      {
-       "t": "claire rousay & Martyna Basta – hotel room",
-       "u": "https://firstfloor.substack.com/p/claire-rousay-and-martyna-basta-hotel"
-      },
       {
        "t": "Clima – Healing Patterns",
        "u": "https://firstfloor.substack.com/p/clima-healing-patterns"
       }
      ],
-     "title": "First Floor recommendations, 30 Sep: 2 records",
+     "title": "First Floor recommendations, 30 Sep: 1 record",
      "url": "https://firstfloor.substack.com/p/clima-healing-patterns"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-10-14T21:30:10Z"
+   "updatedAt": "2026-10-16T00:13:58Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -11020,10 +11030,10 @@
      "url": "https://notagspodcast.substack.com/p/73-proteinmaxxed-dance-music"
     },
     {
-     "audio": "https://api.substack.com/feed/podcast/214746790/40ca7392637c5e88310aaf52d3d71103.mp3",
+     "audio": "https://api.substack.com/feed/podcast/214746790/ec7232cf8484cc139b9018a235eb45c0.mp3",
      "date": "2026-09-10T11:33:43Z",
      "desc": "Is this the way they say the future’s meant to feel? Or just 20,000 people milling about at the White Claw gazebo? This summer Tom and Chal attended a LOT of different festivals, which got us thinking about not just what makes a festival good , but what makes a festival a festival . As well as rating and slating our 2026 jollies, we look back at the half-forgotten lifestyles that birthed British festival culture in the first place, talk about our personal festival histories (guess who hates camping!) and figure out what distinguishes a proper festival from a temporary cluster of outdoor stage…",
-     "duration": "6010",
+     "duration": "5992",
      "id": "substack:post:214746790",
      "image": "https://substackcdn.com/feed/podcast/2037294/post/214746790/9fe389af45d5d5009eefe84fbc0bc220.jpg",
      "title": "72: When is a festival not a festival?",
@@ -11252,7 +11262,7 @@
    ],
    "kind": "rss",
    "name": "No Tags",
-   "updatedAt": "2026-10-14T21:30:10Z"
+   "updatedAt": "2026-10-16T00:13:58Z"
   },
   "nora-en-pure": {
    "home": "https://soundcloud.com/noraenpure",
@@ -27843,6 +27853,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-14T23:15:02Z",
+     "desc": "A postcard from Paris, and an email from Gary Burton.",
+     "duration": null,
+     "id": "https:--thegig.substack.com-p-monks-moods",
+     "image": "https://substackcdn.com/image/fetch/$s_!iDPL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1632d04-1f9d-42b8-ab6c-518a6c822197_1524x1536.png",
+     "title": "Monk’s Moods",
+     "url": "https://thegig.substack.com/p/monks-moods"
+    },
+    {
+     "audio": null,
      "date": "2026-10-10T14:03:45Z",
      "desc": "Miles Okazaki and Frank Kimbrough, going all the way in",
      "duration": null,
@@ -28030,21 +28050,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!peXI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba97000f-8a41-445c-980b-26252e12f0df_407x500.jpeg",
      "title": "Remembering Clifford",
      "url": "https://thegig.substack.com/p/remembering-clifford"
-    },
-    {
-     "audio": "https://api.substack.com/feed/podcast/202352111/d3a3f152205625026f1495394aeb9a96.mp3",
-     "date": "2026-06-18T10:05:27Z",
-     "desc": "A composer & a critic on creative practice vs. the attention economy",
-     "duration": null,
-     "id": "https:--thegig.substack.com-p-honest-songcraft-in-the-slop-era-92e",
-     "image": "https://substackcdn.com/image/fetch/$s_!43MV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bb5f09d-16d6-4525-a94c-d3aea48e0ae5_200x200.png",
-     "title": "Honest Songcraft in the Slop Era",
-     "url": "https://thegig.substack.com/p/honest-songcraft-in-the-slop-era-92e"
     }
    ],
    "kind": "rss",
    "name": "The Gig (Nate Chinen)",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-16T00:13:58Z"
   },
   "the-lot-radio": {
    "home": "https://www.thelotradio.com/",
@@ -31401,7 +31411,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-15T23:42:13Z",
+  "lastRun": "2026-10-16T00:13:58Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-15T23:42:13Z",
@@ -31488,7 +31498,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 20,
     "newest": "2026-10-14T17:42:24Z",
     "ok": true
@@ -31524,7 +31534,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -31542,9 +31552,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-10-14T21:30:10Z",
-    "count": 11,
-    "newest": "2026-10-14T15:29:24Z",
+    "at": "2026-10-16T00:13:58Z",
+    "count": 12,
+    "newest": "2026-10-15T10:03:22Z",
     "ok": true
    },
    "flow-state": {
@@ -31554,7 +31564,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 20,
     "newest": "2026-10-13T10:31:06Z",
     "ok": true
@@ -31596,7 +31606,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 20,
     "newest": "2026-10-11T13:30:59Z",
     "ok": true
@@ -31650,7 +31660,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 20,
     "newest": "2026-10-12T16:20:44Z",
     "ok": true
@@ -31692,7 +31702,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 25,
     "newest": "2026-10-14T15:56:50Z",
     "ok": true
@@ -32268,9 +32278,9 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 20,
-    "newest": "2026-10-10T14:03:45Z",
+    "newest": "2026-10-14T23:15:02Z",
     "ok": true
    },
    "the-lot-radio": {
@@ -32280,7 +32290,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 20,
     "newest": "2026-10-12T09:02:28Z",
     "ok": true
@@ -32298,7 +32308,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-10-14T21:30:10Z",
+    "at": "2026-10-16T00:13:58Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true

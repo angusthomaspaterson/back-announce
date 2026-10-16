@@ -3,6 +3,20 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-10-15T10:03:22Z",
+   "desc": "First Floor #332 – Not the Center of the Universe",
+   "id": "rollup-2026-10-15",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/782ba028-e6a3-4453-bd60-fe100fe1ad2f_1456x1048.png",
+   "links": [
+    {
+     "t": "First Floor #332 – Not the Center of the Universe",
+     "u": "https://firstfloor.substack.com/p/first-floor-332-not-the-center-of"
+    }
+   ],
+   "title": "First Floor recommendations, 15 Oct: 1 record",
+   "url": "https://firstfloor.substack.com/p/first-floor-332-not-the-center-of"
+  },
+  {
    "date": "2026-10-14T15:29:24Z",
    "desc": "Holy Tongue – Basilikum (AD 93) Claudio PRC – Self Surrender Deconstructed (Delsin) Basma & Temir Alcy – NAD (ناض) (STROOM)",
    "id": "rollup-2026-10-14",
@@ -164,24 +178,20 @@
   },
   {
    "date": "2026-09-30T18:51:19Z",
-   "desc": "claire rousay & Martyna Basta – hotel room (Unsound) Clima – Healing Patterns (appendix.files)",
+   "desc": "Clima – Healing Patterns (appendix.files)",
    "id": "rollup-2026-09-30",
-   "image": "https://substackcdn.com/image/fetch/$s_!fIlb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c189e61-225d-4b6c-a035-6d569951cd82_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!5BZx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff24b2ef4-95ce-4b80-b96d-6c907db4933e_1456x1048.jpeg",
    "links": [
-    {
-     "t": "claire rousay & Martyna Basta – hotel room",
-     "u": "https://firstfloor.substack.com/p/claire-rousay-and-martyna-basta-hotel"
-    },
     {
      "t": "Clima – Healing Patterns",
      "u": "https://firstfloor.substack.com/p/clima-healing-patterns"
     }
    ],
-   "title": "First Floor recommendations, 30 Sep: 2 records",
+   "title": "First Floor recommendations, 30 Sep: 1 record",
    "url": "https://firstfloor.substack.com/p/clima-healing-patterns"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-14T21:30:10Z"
+ "updatedAt": "2026-10-16T00:13:58Z"
 }

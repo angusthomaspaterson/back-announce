@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-14T23:15:02Z",
+   "desc": "A postcard from Paris, and an email from Gary Burton.",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-monks-moods",
+   "image": "https://substackcdn.com/image/fetch/$s_!iDPL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1632d04-1f9d-42b8-ab6c-518a6c822197_1524x1536.png",
+   "title": "Monk’s Moods",
+   "url": "https://thegig.substack.com/p/monks-moods"
+  },
+  {
+   "audio": null,
    "date": "2026-10-10T14:03:45Z",
    "desc": "Miles Okazaki and Frank Kimbrough, going all the way in",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!peXI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba97000f-8a41-445c-980b-26252e12f0df_407x500.jpeg",
    "title": "Remembering Clifford",
    "url": "https://thegig.substack.com/p/remembering-clifford"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/202352111/d3a3f152205625026f1495394aeb9a96.mp3",
-   "date": "2026-06-18T10:05:27Z",
-   "desc": "A composer & a critic on creative practice vs. the attention economy",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-honest-songcraft-in-the-slop-era-92e",
-   "image": "https://substackcdn.com/image/fetch/$s_!43MV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bb5f09d-16d6-4525-a94c-d3aea48e0ae5_200x200.png",
-   "title": "Honest Songcraft in the Slop Era",
-   "url": "https://thegig.substack.com/p/honest-songcraft-in-the-slop-era-92e"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-16T00:13:58Z"
 }
