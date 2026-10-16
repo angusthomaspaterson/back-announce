@@ -3,6 +3,16 @@
  "id": "indiecast",
  "items": [
   {
+   "audio": "https://rss.art19.com/episodes/f3012b9d-467a-424d-97bf-8e382c9ee6ee.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+   "date": "2026-10-16T08:30:00Z",
+   "desc": "Steven and Ian do a quick Sportscast about Steve's book tour coinciding with the Brewers' magical playoffs run (2:29) before pivoting to a conversation about allegations against Geordie Greep and how the story broke (9:41). After that, they discuss a recent list of emo albums and what Ian thought about it (24:50). Then they talk about the week's big indie releases, including albums by Dummy, Eels, Geologist, and The Avalanches (32:20) before focusing on the latest by Fontaines D.C. and what it means for their overall standing (38:39). In Recommendation Corner, they discuss new albums by Juno …",
+   "duration": "00:55:48",
+   "id": "gid:--art19-episode-locator-V0-LqSfxT0lS8l2vwAhVsfZcQsJ8xFcL2Jroi7djr9_-Ts",
+   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
+   "title": "A Big New Fontaines DC Album + The 200 Greatest Emo Albums",
+   "url": "https://rss.art19.com/episodes/f3012b9d-467a-424d-97bf-8e382c9ee6ee.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
    "audio": "https://rss.art19.com/episodes/b7a730be-449f-4b3d-b2ac-1e4cea255f7f.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
    "date": "2026-10-09T08:00:00Z",
    "desc": "Steven and Ian begin with a quick Sportscast on the Brewers vs. Padres playoffs series (2:27) before discussing the legendary \"Indiecast bump\" that possibly caused reunions for the braintrusts of Deerhunter and Drive-By Truckers (11:21). Then they discuss Turnstile's appearance on \"SNL\" and some of the stranger reactions on social media (22:20). After that they cover new releases by Jess Williamson, Teenage Fanclub, and The Tallest Man on Earth (35:20) before discussing Cameron Winter's new live album recorded at Carnegie Hall (44:39). In Recommendation Corner they discuss new albums by Margo…",
@@ -241,19 +251,9 @@
    "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
    "title": "Broken Social Scene Returns, Greta Van Fleet Breaks Up (Almost), Ween vs. Tenacious D, and The Greatest Guitar Solos Of All Time",
    "url": "https://rss.art19.com/episodes/0b426941-5873-4697-9939-56f7769e660e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "audio": "https://rss.art19.com/episodes/baf49245-6357-433d-b383-b6a882dc368d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-   "date": "2026-05-01T10:00:00Z",
-   "desc": "Steven and Ian start with a Moviecast about the new Michael Jackson biopic, a huge blockbuster that Steven saw and Ian probably won't (3:16). From there they talk about the pros and cons of concert tourism (17:55) and Ian's recent experience seeing the cult emo band Everyone Asked About You (23:26). Then they talk about some of the week's new releases, including albums by Hiss Golden Messenger, Lip Critic, The Black Keys, and Tori Amos (32:15) before landing on an extended conversation about the band American Football and their new self-titled LP (41:58). Finally, in Recommendation Corner Ian…",
-   "duration": "01:00:50",
-   "id": "gid:--art19-episode-locator-V0-7zuFNxRfl3L5m_dmmBgGL0LkkONP4aH8HH3EEtt_pL0",
-   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
-   "title": "The Thrill Of American Football and The Agony Of \"Michael\"",
-   "url": "https://rss.art19.com/episodes/baf49245-6357-433d-b383-b6a882dc368d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "kind": "rss",
  "name": "Indiecast",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-16T17:02:34Z",
+   "desc": "Bobbyy speaks at length about his remarkable new album, TACKYY.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-bobbyy-tackyy-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!AasW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83fa4eff-9def-4a7b-a581-ac561d476060_1200x1200.png",
+   "title": "Your Soul Is Smart",
+   "url": "https://www.powmag.net/p/bobbyy-tackyy-interview"
+  },
+  {
+   "audio": null,
    "date": "2026-10-15T16:42:47Z",
    "desc": "Sparklmami traces the long road to her debut album, ‘in this body.’",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!Nx8m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb834095a-3295-4672-95f8-95674b16a56d_744x494.png",
    "title": "The Reports of San Francisco’s Death Are Greatly Exaggerated",
    "url": "https://www.powmag.net/p/we-outside-portola-music-festival-san-francisco-danny-bell"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-23T16:06:25Z",
-   "desc": "Jeff Weiss traces the vision and indomitable work ethic that led Coltrane to, through, and beyond A Love Supreme.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-john-coltrane-100-years-a-love-supreme",
-   "image": "https://substackcdn.com/image/fetch/$s_!msDh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c69c0b3-f8f4-43d6-8f68-2a76305389a6_1200x1200.png",
-   "title": "Still Supreme: John Coltrane at 100",
-   "url": "https://www.powmag.net/p/john-coltrane-100-years-a-love-supreme"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

@@ -3,6 +3,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2420008785-balance-series-karl-pilbrow-live-from-balance-croatia.mp3",
+   "date": "2026-10-16T00:00:00Z",
+   "desc": "Recording of Karl Pilbrow's set from Balance Croatia 2026. @karl-pilbrow ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ SIGN UP FOR FINAL RELEASE TIX: laylo.com/balancecroatia/L1zh7A _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
+   "duration": "02:00:22",
+   "id": "tag:soundcloud-2010:tracks-2420008785",
+   "image": "https://i1.sndcdn.com/artworks-LouQnYHALmf8SEj8-DWaTuA-t3000x3000.jpg",
+   "title": "Karl Pilbrow: Live from Balance Croatia 2026",
+   "url": "https://soundcloud.com/balance-series/karl-pilbrow-live-from-balance-croatia"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2418058059-balance-series-powel-live-from-balance.mp3",
    "date": "2026-10-13T00:00:00Z",
    "desc": "Recording of Powel's vinyl-only set from Balance Croatia 2026. @powel ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ SIGN UP FOR FINAL RELEASE TIX: laylo.com/balancecroatia/L1zh7A _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-6AEokeCCILYmy7rN-QJzzHg-t3000x3000.jpg",
    "title": "Zankee Gulati: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/zankee-gulati-live-from-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2390687778-balance-series-kabi-live-from-balance-croatia.mp3",
-   "date": "2026-08-29T00:00:00Z",
-   "desc": "Recording of Kabi's set from Balance Croatia 2026. @kabi-ar __________________________________________________ SIGN UP FOR BALANCE CROATIA 2027: laylo.com/balancecroatia/sgbvg ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "02:00:29",
-   "id": "tag:soundcloud-2010:tracks-2390687778",
-   "image": "https://i1.sndcdn.com/artworks-n0ypO9ezIX3t3QaL-k51p4g-t3000x3000.jpg",
-   "title": "Kabi: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/kabi-live-from-balance-croatia"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-10-13T08:43:21Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

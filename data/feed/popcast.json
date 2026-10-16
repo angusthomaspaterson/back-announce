@@ -3,6 +3,16 @@
  "id": "popcast",
  "items": [
   {
+   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/c1b55712-42b0-4eb4-a099-229262869d6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=c1b55712-42b0-4eb4-a099-229262869d6b&feed=TzbxCT1l",
+   "date": "2026-10-16T09:00:00Z",
+   "desc": "The Swedish pop star Zara Larsson sat down with Joe and Jon to discuss her stratospheric year of taking control of her career and stepping into a new era of bonafide pop superstardom. She spoke about her surge in cultural relevance — from the TikTok resurrection of her 2015 hit “Lush Life” to her remix version of “Stateside” by PinkPantheress being skated to by gold medalist Alysa Liu at the 2026 Winter Olympics —  as well as taking joyful music seriously, learning to embrace self-promotion and whether any amount of money is worth trading for being politically outspoken. Popcast is The New Yo…",
+   "duration": "01:07:20",
+   "id": "91d80cc1-20c6-4e99-895d-f63526be0ffc",
+   "image": "https://image.simplecastcdn.com/images/b570f4e2-2ec9-4f50-90e8-55519f0f2550/39feb56f-b088-4108-af12-f7ff6b413e62/3000x3000/cropped_1791476779087.jpg?aid=rss_feed",
+   "title": "Why Zara Larsson Refuses to Censor Herself – or Dim Her Joy",
+   "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+  },
+  {
    "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/2c3e1e5b-a6f0-4beb-8fce-4775107fa746/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=2c3e1e5b-a6f0-4beb-8fce-4775107fa746&feed=TzbxCT1l",
    "date": "2026-10-09T09:00:00Z",
    "desc": "The Colombian pop star Karol G sat down with Joe and Jon to discuss her recent stadium run of touring her albums – 2025’s “Tropicoqueta” and 2026’s “No Me Arrepiento de Sentir Tanto” – as well as headlining Coachella 2026. She also discusses representing Latin culture on global stages, turning heartbreak into hits like “BbY WOW,” collaborating with Bruno Mars, teaching Drake Spanish and more.   Subscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=po…",
@@ -11,19 +21,9 @@
    "image": "https://image.simplecastcdn.com/images/b570f4e2-2ec9-4f50-90e8-55519f0f2550/39feb56f-b088-4108-af12-f7ff6b413e62/3000x3000/cropped_1791476779087.jpg?aid=rss_feed",
    "title": "Karol G on Bringing Latin Culture to the World’s Biggest Stages",
    "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
-  },
-  {
-   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/1662419b-7f53-434b-b5ae-f9f7e4e6a852/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=1662419b-7f53-434b-b5ae-f9f7e4e6a852&feed=TzbxCT1l",
-   "date": "2026-10-02T09:00:00Z",
-   "desc": "Miranda Lambert rose as one of country’s true female superstars throughout the 2000s and 2010s — an era when women with her level of success in Nashville were few and far between. Lambert sat down with Joe and Jon to discuss country music’s long-running cold war with female performers having a front-row seat to a new version of success as the co-writer of Ella Langley’s record-setting “Choosin’ Texas.” She also talks about her new country disco album “Crisco” — out Oct. 2. — reconciling with Kacey Musgraves on their song “Horses and Divorces, remembering Dolly Parton and more. Subscribe today…",
-   "duration": "01:11:23",
-   "id": "7e67115c-db20-438f-8fa5-54ffb81bb015",
-   "image": "https://image.simplecastcdn.com/images/b570f4e2-2ec9-4f50-90e8-55519f0f2550/39feb56f-b088-4108-af12-f7ff6b413e62/3000x3000/cropped_1791476779087.jpg?aid=rss_feed",
-   "title": "Miranda Lambert on Mentoring Ella Langley, Reconciling with Kacey Musgraves & Country’s New Era",
-   "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
   }
  ],
  "kind": "rss",
  "name": "Popcast (New York Times)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

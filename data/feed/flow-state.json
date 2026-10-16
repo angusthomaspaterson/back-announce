@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-16T07:03:32Z",
+   "desc": "Today we’re listening to Charanjit Singh, an Indian composer and electronic musician from Bombay.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-charanjit-singh",
+   "image": "https://substackcdn.com/image/fetch/$s_!L1tV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bb60be4-7f82-418e-b3f0-cd369a15a356_2574x1532.png",
+   "title": "Charanjit Singh",
+   "url": "https://www.flowstate.fm/p/charanjit-singh"
+  },
+  {
+   "audio": null,
    "date": "2026-10-15T07:02:54Z",
    "desc": "Today we’re listening to The Sweet Enoughs, an Australian trio led by bassist Paul Bender.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!Pwjy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e4ad81-a6b3-43c5-97e1-797cf1058a59_2558x1944.png",
    "title": "Joel Noct Brinson",
    "url": "https://www.flowstate.fm/p/joel-noct-brinson"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-18T07:04:40Z",
-   "desc": "Today we’re listening to Professor Kazkaz, a collaboration between German electronic musicians Gregor Tresher and Marcus Schmahl.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-professor-kazkaz",
-   "image": "https://substackcdn.com/image/fetch/$s_!U8Hl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22f1cb74-adad-4984-8ae6-226132aea219_2382x1982.png",
-   "title": "Professor Kazkaz",
-   "url": "https://www.flowstate.fm/p/professor-kazkaz"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

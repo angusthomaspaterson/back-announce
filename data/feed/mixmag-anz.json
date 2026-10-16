@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-16T01:27:39Z",
+   "desc": "The independent Tallarook-based camping festival returns to Taungurung Country over Easter 2027, pairing an international crate-digger bill with a deep run of local live acts. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-sonder-returns-for-easter-2027-with-egyptian-lover-and-bradley-zero-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Sonder-2027-Cover.png",
+   "title": "Sonder returns for Easter 2027 with Egyptian Lover and Bradley Zero",
+   "url": "https://mixmag.net.au/read/sonder-returns-for-easter-2027-with-egyptian-lover-and-bradley-zero-news"
+  },
+  {
+   "audio": null,
    "date": "2026-10-14T04:23:46Z",
    "desc": "Ahead of their SURPLUS takeover, Western Sydney collective Beat Kitchen Records talk us through the bill, the Marrickville house parties that started it all, and why Sydney's multicultural sound deserves the same respect as London or New York. Continue reading...",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "homebody’s 'prefrontal cortex': Healing, Heritage and Honesty",
    "url": "https://mixmag.net.au/feature/homebodys-prefrontal-cortex-healing-heritage-and-honesty"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-26T05:12:00Z",
-   "desc": "Writer Ben Madden speaks to the Meanjin rapper, now fresh off the release of her debut record, the provocatively named 'C**T'. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-sidney-phillips-the-mayor-of-morayfield",
-   "image": null,
-   "title": "Sidney Phillips: The Mayor Of Morayfield",
-   "url": "https://mixmag.net.au/feature/sidney-phillips-the-mayor-of-morayfield"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-10-14T04:59:31Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

@@ -3,6 +3,15 @@
  "id": "bandcamp-radio",
  "items": [
   {
+   "date": "2026-10-16T00:00:00Z",
+   "desc": "This week, on The Hip Hop Show, we listen. Nelson Bandela, 1Alkebulan, and lee hooper share \"COMPKILLER VOL.1.\" A poetic listening experience where three sonic worlds combine. Hosted by Stoney Creation . Featuring Nelson Bandela, 1Alkebulan, lee hooper .",
+   "id": "radio-1010",
+   "image": "https://f4.bcbits.com/img/0047792404_170.jpg",
+   "tags": "",
+   "title": "COMPKILLER VOL.1",
+   "url": "https://bandcamp.com/radio/1010"
+  },
+  {
    "date": "2026-10-14T00:00:00Z",
    "desc": "Caroline Rose stops by the Indie Show to talk about self-releasing her latest record plus we hear new tracks from Soup Activists, Chastity Belt, and more. Hosted by Mariana Timony . Featuring Caroline Rose .",
    "id": "radio-the-indie-show-991",
@@ -172,18 +181,9 @@
    "tags": "The Indie Show",
    "title": "The Indie Show: This is Lorelei",
    "url": "https://bandcamp.com/radio/the-indie-show/986"
-  },
-  {
-   "date": "2026-08-31T00:00:00Z",
-   "desc": "Tee Lopes takes us behind the music of \"Denshattack!\", one of 2026's most anticipated OSTs.",
-   "id": "radio-the-game-show-995",
-   "image": "https://f4.bcbits.com/img/0046863033_170.jpg",
-   "tags": "The Game Show",
-   "title": "The Game Show: Tee Lopes",
-   "url": "https://bandcamp.com/radio/the-game-show/995"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Radio",
- "updatedAt": "2026-10-14T23:57:27Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

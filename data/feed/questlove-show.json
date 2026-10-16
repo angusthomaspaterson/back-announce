@@ -3,6 +3,16 @@
  "id": "questlove-show",
  "items": [
   {
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/22a7ddfc-d269-4d82-9280-b4e500df8ea3/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
+   "date": "2026-10-16T13:46:23Z",
+   "desc": "The Questlove Show hoped to record an episode with DJ Shadow while he was on the East Coast for the 30th-anniversary tour of Endtroducing….. , but scheduling didn’t work out this time. Instead, Open Mike Eagle—who is performing on some of Shadow’s current tour dates—and Cousin Jake celebrate Shadow’s landmark debut, its lasting impact, and more. They talk about crate-digging in dollar bins, Shadow’s little-known production work for Paris, Gift of Gab’s verse on “Midnight in a Perfect World,” and the difference between a beatmaker and a producer. They also explain why Shadow’s music demands ac…",
+   "duration": "1276",
+   "id": "22a7ddfc-d269-4d82-9280-b4e500df8ea3",
+   "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/22a7ddfc-d269-4d82-9280-b4e500df8ea3/image.jpg?t=1792158373&size=Large",
+   "title": "A Quick Salute To 30 Years Of DJ Shadow's Endtroducing",
+   "url": "https://omny.fm/shows/questlove-supreme/a-quick-salute-to-30-years-of-dj-shadows-endtroducing"
+  },
+  {
    "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/faebb939-6e66-42e2-ac2d-b4ba0102036b/70aecd9c-612e-4642-bf11-b4bf015621f4/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
    "date": "2026-10-13T04:00:00Z",
    "desc": "Join legendary producer and musician Nile Rodgers as he travels across the country in his Lincoln Navigator® SUV, sitting down with some of music's biggest names to uncover the turning points that defined them. Experience Before the Moment: A Lincoln Original Series on the iHeartRadio App, YouTube or wherever you get your podcasts. See omnystudio.com/listener for privacy information.",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/06647f0a-68cc-42fc-94c0-b4a500d4d5ca/image.jpg?t=1786711530&size=Large",
    "title": "Maseo of De La Soul",
    "url": "https://omny.fm/shows/questlove-supreme/maseo-of-de-la-soul"
-  },
-  {
-   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/209ba347-011c-4983-b5ba-ae3200b3858c/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
-   "date": "2026-08-16T12:45:00Z",
-   "desc": "Back in late 2019, Seth Rogen joined Questlove Supreme in-studio to trace his journey from Vancouver teen comic and Superbad writer to Hollywood multi-hyphenate, unpacking weed culture, comedy craft, and the struggles and rewards of making big, risky movies. See omnystudio.com/listener for privacy information.",
-   "duration": "5826",
-   "id": "fcccbaac-1a96-11ea-a871-3b2862743d74",
-   "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/209ba347-011c-4983-b5ba-ae3200b3858c/image.jpg?t=1643972024&size=Large",
-   "title": "QLS Classic: Seth Rogen",
-   "url": "https://omny.fm/shows/questlove-supreme/seth-rogen"
   }
  ],
  "kind": "rss",
  "name": "The Questlove Show",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

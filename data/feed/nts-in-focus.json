@@ -3,6 +3,16 @@
  "id": "nts-in-focus",
  "items": [
   {
+   "date": "2026-10-16T10:00:00Z",
+   "desc": "American composer and synthesist, Pauline Anna Strom first began releasing music in the early 1980s under the moniker Trans-Millenia Consort. Working for the most part in isolation, she crafted immersive synth soundscapes, conjuring imagined worlds between ancient myth and imagined futures. After her early records fell out of circulation, her work was introduced to new audiences in 2017 through the compilation Trans-Milenia Music. She returned to releasing original work with the 2020 album Angel Tears in Sunlight, released by RVNG Intl just months after her passing.",
+   "id": "in-focus-pauline-anna-strom-16th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/8ca58095-1dcd-4d22-a9d2-e787d88bf9d6_1792022400.jpeg",
+   "location": "",
+   "tags": "Ambient, New Age",
+   "title": "In Focus: pauline anna strom",
+   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-pauline-anna-strom-16th-october-2026"
+  },
+  {
    "date": "2026-10-09T10:00:00Z",
    "desc": "Emerging from the creative crucible of LA's loose \"beat scene\" collective of the mid-2000s alongside fellow artists such as Ras G, Thundercat, and Nosaj Thing, Steven Ellison aka Flying Lotus took a painterly approach to the structure of hip hop production. Part of a jazz and soul lineage that includes Motown songwriter Marilyn McLeod and spiritual jazz matriarch Alice Coltrane, Ellison infused instrumentals with loose improvisational flourishes and an experimental spirit that frequently breaks beyond the definitions of hip hop. His style has expanded further incorporating R&B, jazz, IDM, and…",
    "id": "in-focus-flying-lotus-9th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Arabic Pop, Arabic Traditional",
    "title": "In Focus: Talal Maddah",
    "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-talal-maddah-31st-july-2026"
-  },
-  {
-   "date": "2026-07-24T10:00:00Z",
-   "desc": "In the early 1990s, Margo Guryan was living a quiet life as a piano teacher in Los Angeles, with her past life as budding '60s pop star far behind her. Until royalty cheques started arriving at her house. The cheques were coming from bootleggers of her music, first from Japan, and later from Spain. In Japan she was known as \"The Soft Pop Queen\", and original copies of her records were incredibly hard to find. Her profile rose over the decade, and her debut album \"Take A Picture\" was reissued in 2000, followed by a demos compilation the following year. The public interest in her music now far …",
-   "id": "in-focus-margo-guryan-24th-july-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/9b861f1f-d721-42f4-8ede-f0ee67c00521_1784592000.jpeg",
-   "location": "New York",
-   "tags": "Pop, Soft Rock",
-   "title": "In Focus: Margo Guryan",
-   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-margo-guryan-24th-july-2026"
   }
  ],
  "kind": "nts",
  "name": "NTS In Focus",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

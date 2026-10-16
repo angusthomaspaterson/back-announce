@@ -4,6 +4,26 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-16T16:36:08Z",
+   "desc": "An essential read; Richard Greenan (Kit Records) guides us through the remarkable, surreal jazz of Swiss musician Andreas Tschopp The post We Oscillate, We Modulate: The Interconnected Worlds of Andreas Tschopp appeared first on Ransom Note .",
+   "duration": null,
+   "id": "https:--www.theransomnote.com--p-44882",
+   "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
+   "title": "We Oscillate, We Modulate: The Interconnected Worlds of Andreas Tschopp",
+   "url": "https://www.theransomnote.com/music/we-oscillate-we-modulate-the-interconnected-worlds-of-andreas-tschopp/"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-16T10:52:26Z",
+   "desc": "Ibiza’s seven-piece live band on Nathan Haines, their mini-album Find Your Way and the island’s lack of live music infrastructure. The post Finding A Way: In Conversation with The Illusions appeared first on Ransom Note .",
+   "duration": null,
+   "id": "https:--www.theransomnote.com--p-46200",
+   "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
+   "title": "Finding A Way: In Conversation with The Illusions",
+   "url": "https://www.theransomnote.com/music/interviews/finding-a-way-in-conversation-with-the-illusions/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-15T11:53:02Z",
    "desc": "Downtempo dub chuggers, acid, proto house and balearic as Vanity Project returns to Claptrap The post Premiere: Vanity Project – File Management Blues appeared first on Ransom Note .",
    "duration": null,
@@ -81,29 +101,9 @@
    "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
    "title": "Seeds Mix 014: A Walk in Pollok Park with Spritz Editions",
    "url": "https://www.theransomnote.com/music/mixes/seeds-mix-014-a-walk-in-pollok-park-with-spritz-editions/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-02T16:06:06Z",
-   "desc": "Sook-Yin Lee walks us through the ten tracks of '72RHR' - donut pillows, broken legs, a Buddhist mantra and a door-to-door meat-selling acid trip all included. The post Track By Track: Sook-Yin Lee – 72RHR’ appeared first on Ransom Note .",
-   "duration": null,
-   "id": "https:--www.theransomnote.com--p-46121",
-   "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
-   "title": "Track By Track: Sook-Yin Lee – 72RHR’",
-   "url": "https://www.theransomnote.com/music/playlists/track-by-track-sook-yin-lee-72rhr/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-02T14:55:05Z",
-   "desc": "Stranded after a Croatian wedding - turning a bad connection into a Before Sunrise stopover. The post Vienna, the long way round appeared first on Ransom Note .",
-   "duration": null,
-   "id": "https:--www.theransomnote.com--p-46102",
-   "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
-   "title": "Vienna, the long way round",
-   "url": "https://www.theransomnote.com/art-culture/travel/vienna-the-long-way-round/"
   }
  ],
  "kind": "rss",
  "name": "Ransom Note",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-16T04:03:00Z",
+   "desc": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
+   "duration": null,
+   "id": "6ad1237f897ef4ba5187c687",
+   "image": null,
+   "title": "Autosmile",
+   "url": "https://pitchfork.com/reviews/albums/at-sign-autosmile/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-13T05:54:08Z",
    "desc": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "WOR$T GIRL IN AMERICA",
    "url": "https://pitchfork.com/reviews/albums/slayyyter-worst-girl-in-america/"
-  },
-  {
-   "audio": null,
-   "date": "2026-03-26T04:03:00Z",
-   "desc": "On their surprise-released first album in 10 years, the psychedelic Bay Area metal veterans launch a vital and affirming second act with new vocalist Aaron Turner.",
-   "duration": null,
-   "id": "69c43956192ce26a1c0f6c2d",
-   "image": null,
-   "title": "An Undying Love for a Burning World",
-   "url": "https://pitchfork.com/reviews/albums/neurosis-an-undying-love-for-a-burning-world/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-10-13T08:43:21Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }

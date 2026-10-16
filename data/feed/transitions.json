@@ -3,6 +3,16 @@
  "id": "transitions",
  "items": [
   {
+   "date": "2026-10-16T15:00:34Z",
+   "desc": "",
+   "duration": "7243",
+   "id": "-johndigweed-transitions-john-digweed-and-martin-garcia-",
+   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/0/0/9/f362-9de0-420b-a688-50b7ffd03ed4",
+   "tags": "Electronica, Progressive house, Melodic house, Deep Techno",
+   "title": "Transitions with John Digweed and Martin Garcia",
+   "url": "https://www.mixcloud.com/johndigweed/transitions-john-digweed-and-martin-garcia/"
+  },
+  {
    "date": "2026-10-09T15:00:50Z",
    "desc": "",
    "duration": "7015",
@@ -241,19 +251,9 @@
    "tags": "Techno, Deep Techno, Club, Underground",
    "title": "Transitions with John Digweed and Dany Rodriguez",
    "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-dany-rodriguez/"
-  },
-  {
-   "date": "2026-06-05T11:00:27Z",
-   "desc": "",
-   "duration": "3380",
-   "id": "-johndigweed-compiled-mixed-041-",
-   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/9/9/2/8/6325-9601-40db-a068-6a76427dffcf",
-   "tags": "Breaks, Techno, Electronica",
-   "title": "Compiled & Mixed 041",
-   "url": "https://www.mixcloud.com/johndigweed/compiled-mixed-041/"
   }
  ],
  "kind": "mixcloud",
  "name": "John Digweed: Transitions",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-16T23:38:59Z"
 }
