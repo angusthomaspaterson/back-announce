@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-16T15:23:53Z",
+   "desc": "INVITE: The year’s final installment of Dada Strain's rhythm-improvisation-community series at the private Greenpoint loft, features two of New York’s crucial artists of the moment",
+   "duration": null,
+   "id": "https:--dadastrain.substack.com-p-dada-strain-l-and-sd-sunday-october",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/8bbe489f-42ac-4558-a61f-5a4d210b9b8e_1170x786.png",
+   "title": "Dada Strain @ L&SD, Sunday, October 25th: Mali Obomsawin & Andrew Broder + Caroline Davis",
+   "url": "https://dadastrain.substack.com/p/dada-strain-l-and-sd-sunday-october"
+  },
+  {
+   "audio": null,
    "date": "2026-10-14T17:42:24Z",
    "desc": "This week’s events include Marc Ribot Quartet / Razor-N-Tape pres. ‘A Joyful Noise’ / Mei Semones / Groovy Groovy pres. ‘A Spiritual Boogie’ / Shed / Growing + Ryan Sawyer Shaker Ensemble / and more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/f7de771e-cabd-42af-b10b-5aa3cff5d276_1500x1013.jpeg",
    "title": "A Community Buries a Friend (on Doug Shaw) | Bklyn Sounds 6/4/2026—6/9/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-642026692026-a-community"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-28T18:08:53Z",
-   "desc": "This week's events include Fernanda Abreu / 'Steam Down presents Sounds of the Diaspora' / Maurice Fulton + Razor-N-Tape + Soul Summit / TAK ensemble / 'Pique-nique presents Take Two: Donuts' / + more",
-   "duration": null,
-   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-5282026622026",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/4b080774-1cc4-4a9d-a3bf-a042cf0ba555_1500x1013.jpeg",
-   "title": "Bklyn Sounds 5/28/2026—6/2/2026",
-   "url": "https://dadastrain.substack.com/p/bklyn-sounds-5282026622026"
   }
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-10-14T21:30:10Z"
+ "updatedAt": "2026-10-16T21:30:08Z"
 }

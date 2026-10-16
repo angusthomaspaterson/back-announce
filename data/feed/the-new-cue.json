@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-16T09:01:26Z",
+   "desc": "Are you ready to be heartbroken…?",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-634-october-16-fontaines",
+   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+   "title": "The New Cue #634 October 16: Fontaines D.C., Marika Hackman, Eels, Richard Thompson, Jess Williamson, Troye Sivan, dEUS, Sam Herlihy, Orbi, Ferguson Hi-Fi",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-634-october-16-fontaines"
+  },
+  {
+   "audio": null,
    "date": "2026-10-12T09:02:28Z",
    "desc": "“Who’s shouting now?",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!sGc2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8c9796-b822-4640-bab5-d634eb6e79ac_5000x1860.png",
    "title": "The New Cue #615 August 7: DIIV, The Cindys, Overmono, Keyside, TV For Cats, Rowena Wise, Westside Cowboy, Sam Burton, The Wow! Scenario",
    "url": "https://thenewcue.substack.com/p/the-new-cue-615-august-7-diiv-the"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-03T09:01:49Z",
-   "desc": "\"A huge underrated thing at this point in history is boredom\"",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-614-august-3-james-ellis",
-   "image": "https://substackcdn.com/image/fetch/$s_!N8tm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27128dd7-f9f2-49fd-b43c-9b9031ef886b_1153x2048.jpeg",
-   "title": "The New Cue #614 August 3: James Ellis Ford",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-614-august-3-james-ellis"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-16T21:30:08Z"
 }
