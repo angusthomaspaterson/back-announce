@@ -3,6 +3,16 @@
  "id": "nts-ross-allen",
  "items": [
   {
+   "date": "2026-10-17T11:00:00Z",
+   "desc": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
+   "id": "ross-allen-17th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/31494dc8-3567-419d-8f51-00a5b487f3fc_1792195200.jpeg",
+   "location": "London",
+   "tags": "Contemporary Jazz, Dub, Boogie, RNB",
+   "title": "Ross Allen",
+   "url": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-17th-october-2026"
+  },
+  {
    "date": "2026-10-03T11:00:00Z",
    "desc": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
    "id": "ross-allen-3rd-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Electronica, Soul, House, Broken Beat",
    "title": "Ross Allen",
    "url": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-16th-may-2026"
-  },
-  {
-   "date": "2026-05-02T11:00:00Z",
-   "desc": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
-   "id": "ross-allen-2nd-may-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/6d3f51b7-454b-49ef-b4c6-f9f38eb32a9c_1761004800.jpeg",
-   "location": "London",
-   "tags": "Funk, House, Contemporary Jazz, Broken Beat",
-   "title": "Ross Allen",
-   "url": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-2nd-may-2026"
   }
  ],
  "kind": "nts",
  "name": "Ross Allen",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-17T23:10:40Z"
 }

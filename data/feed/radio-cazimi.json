@@ -45,7 +45,7 @@
   {
    "audio": "https://feeds.soundcloud.com/stream/2418716928-radio-cazimi-nyinalanginy-w-cole-baxter-1.mp3",
    "date": "2026-10-14T08:40:28Z",
-   "desc": "NYINALANGINY w/ Cole Baxter & Dylan Collard - EP 2 by Radio Cazimi",
+   "desc": "https://podcasts.apple.com/au/podcast/kalyakoorl-waangkaniny/id1816829252",
    "duration": "01:56:45",
    "id": "tag:soundcloud-2010:tracks-2418716928",
    "image": "https://i1.sndcdn.com/artworks-oRoryf6rxM0dPvTW-343c5g-t3000x3000.jpg",
@@ -255,5 +255,5 @@
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-10-14T12:00:17Z"
+ "updatedAt": "2026-10-17T23:10:40Z"
 }

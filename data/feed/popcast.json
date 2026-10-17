@@ -3,7 +3,7 @@
  "id": "popcast",
  "items": [
   {
-   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/c1b55712-42b0-4eb4-a099-229262869d6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=c1b55712-42b0-4eb4-a099-229262869d6b&feed=TzbxCT1l",
+   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/c1b55712-42b0-4eb4-a099-229262869d6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=c1b55712-42b0-4eb4-a099-229262869d6b&feed=TzbxCT1l",
    "date": "2026-10-16T09:00:00Z",
    "desc": "The Swedish pop star Zara Larsson sat down with Joe and Jon to discuss her stratospheric year of taking control of her career and stepping into a new era of bonafide pop superstardom. She spoke about her surge in cultural relevance — from the TikTok resurrection of her 2015 hit “Lush Life” to her remix version of “Stateside” by PinkPantheress being skated to by gold medalist Alysa Liu at the 2026 Winter Olympics —  as well as taking joyful music seriously, learning to embrace self-promotion and whether any amount of money is worth trading for being politically outspoken. Popcast is The New Yo…",
    "duration": "01:07:20",
@@ -13,7 +13,7 @@
    "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
   },
   {
-   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/2c3e1e5b-a6f0-4beb-8fce-4775107fa746/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=2c3e1e5b-a6f0-4beb-8fce-4775107fa746&feed=TzbxCT1l",
+   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/2c3e1e5b-a6f0-4beb-8fce-4775107fa746/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=2c3e1e5b-a6f0-4beb-8fce-4775107fa746&feed=TzbxCT1l",
    "date": "2026-10-09T09:00:00Z",
    "desc": "The Colombian pop star Karol G sat down with Joe and Jon to discuss her recent stadium run of touring her albums – 2025’s “Tropicoqueta” and 2026’s “No Me Arrepiento de Sentir Tanto” – as well as headlining Coachella 2026. She also discusses representing Latin culture on global stages, turning heartbreak into hits like “BbY WOW,” collaborating with Bruno Mars, teaching Drake Spanish and more.   Subscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=po…",
    "duration": "01:02:14",
@@ -25,5 +25,5 @@
  ],
  "kind": "rss",
  "name": "Popcast (New York Times)",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-17T23:10:40Z"
 }

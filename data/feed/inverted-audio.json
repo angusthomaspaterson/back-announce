@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-17T08:17:09Z",
+   "desc": "We’re excited to introduce Community Cuts, a new monthly all-vinyl DJ series celebrating the record collectors, selectors and music lovers who make up the Inverted Audio Continue Reading The post Community Cuts: A Monthly All-Vinyl DJ Series at Inverted Audio Record Store appeared first on Inverted Audio .",
+   "duration": null,
+   "id": "https:--inverted-audio.com--p-95042",
+   "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+   "title": "Community Cuts: A Monthly All-Vinyl DJ Series at Inverted Audio Record Store",
+   "url": "https://inverted-audio.com/community-cuts/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-05T11:00:02Z",
    "desc": "An uncovered early-1990s transmission from Gerald Donald aka Heinrich Mueller – the producer behind Drexciya, Arpanet, Dopplereffekt and a constellation of further aliases – surfaces under Continue Reading The post Heinrich Mueller’s lost Intellitronic transmissions surface on Rubadub appeared first on Inverted Audio .",
    "duration": null,
@@ -91,19 +101,9 @@
    "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
    "title": "Premiere: Euglossine – chebyshev poly",
    "url": "https://inverted-audio.com/premiere-euglossine-chebyshev-poly/"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-26T14:02:17Z",
-   "desc": "Bristol producer Henry Murray returns to Scissor and Thread as fka boursin with From Space Between – his second release for the label following his 2025 Continue Reading The post fka boursin returns to Scissor and Thread with From Space Between appeared first on Inverted Audio .",
-   "duration": null,
-   "id": "https:--inverted-audio.com--p-94858",
-   "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
-   "title": "fka boursin returns to Scissor and Thread with From Space Between",
-   "url": "https://inverted-audio.com/fka-boursin-from-space-between/"
   }
  ],
  "kind": "rss",
  "name": "Inverted Audio",
- "updatedAt": "2026-10-13T14:18:42Z"
+ "updatedAt": "2026-10-17T23:10:40Z"
 }

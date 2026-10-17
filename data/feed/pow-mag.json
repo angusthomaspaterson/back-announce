@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-17T16:23:54Z",
+   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Anthony Seaman reviews new work from Gabe ‘Nandez, Draft Day, and the recently arrested Nino Paid.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-somewhere-over-the-rainbow-the-rap-up-nino-paid",
+   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/V8ASadXNlOY",
+   "title": "Somewhere Over the Rainbow",
+   "url": "https://www.powmag.net/p/somewhere-over-the-rainbow-the-rap-up-nino-paid"
+  },
+  {
+   "audio": null,
    "date": "2026-10-16T17:02:34Z",
    "desc": "Bobbyy speaks at length about his remarkable new album, TACKYY.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!iUcx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2511c240-51a8-4d16-b25b-424f75b6da18_1200x1200.png",
    "title": "Outkast, Ovrkast., and the History of Other People’s Names",
    "url": "https://www.powmag.net/p/outkast-ovrkast-lawsuit"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-24T16:05:53Z",
-   "desc": "As part of We Outside, his ongoing project to document the industry of live music, Pranav Trewn speaks to Portola Music Festival founder Danny Bell.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-we-outside-portola-music-festival-san-francisco-danny-bell",
-   "image": "https://substackcdn.com/image/fetch/$s_!Nx8m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb834095a-3295-4672-95f8-95674b16a56d_744x494.png",
-   "title": "The Reports of San Francisco’s Death Are Greatly Exaggerated",
-   "url": "https://www.powmag.net/p/we-outside-portola-music-festival-san-francisco-danny-bell"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-17T23:10:40Z"
 }

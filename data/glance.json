@@ -1,6 +1,39 @@
 {
  "items": [
   {
+   "d": "2026-10-17T11:00:00Z",
+   "g": "NTS",
+   "s": "Ross Allen",
+   "sid": "nts-ross-allen",
+   "t": "Ross Allen",
+   "u": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-17th-october-2026"
+  },
+  {
+   "d": "2026-10-17T09:14:54Z",
+   "g": "Bass",
+   "s": "FBi Sunset (club and bass)",
+   "sid": "fbi-sunset",
+   "sp": "FBi Sunset (club and bass) Sunset with Dot Zip - 2026-10-17",
+   "t": "Sunset with Dot Zip - 2026-10-17",
+   "u": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-17"
+  },
+  {
+   "d": "2026-10-17T08:17:09Z",
+   "g": "Writing",
+   "s": "Inverted Audio",
+   "sid": "inverted-audio",
+   "t": "Community Cuts: A Monthly All-Vinyl DJ Series at Inverted Audio Record Store",
+   "u": "https://inverted-audio.com/community-cuts/"
+  },
+  {
+   "d": "2026-10-17T04:00:00Z",
+   "g": "Writing",
+   "s": "Pitchfork: Best New Albums",
+   "sid": "pitchfork-bna",
+   "t": "DJ-Kicks",
+   "u": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/"
+  },
+  {
    "d": "2026-10-16T20:10:38Z",
    "g": "Progressive",
    "s": "Above & Beyond: Group Therapy",
@@ -124,51 +157,17 @@
    "u": "https://soundcloud.com/balance-series/karl-pilbrow-live-from-balance-croatia"
   },
   {
-   "d": "2026-10-15T19:11:07Z",
-   "g": "Radio",
-   "s": "KEXP: In Our Headphones",
-   "sid": "in-our-headphones",
-   "sp": "KEXP: In Our Headphones KEXP’s Dirk Whitebreast on School Fair, the Māori Music Scene, and His Love of Death Metal",
-   "t": "KEXP’s Dirk Whitebreast on School Fair, the Māori Music Scene, and His Love of Death Metal",
-   "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dirk-whitebreast-on-school-fair-the-m-ori-music-scene-and-his-love-of-death-metal"
-  },
-  {
-   "d": "2026-10-15T18:36:59Z",
+   "d": "2026-10-16T00:00:00Z",
    "g": "Progressive",
-   "s": "Sultan + Shepard: Dialekt Radio",
-   "sid": "dialekt-radio",
-   "sp": "Sultan + Shepard: Dialekt Radio Dialekt Radio #349",
-   "t": "Dialekt Radio #349",
-   "u": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-349-lNiKQ_Tx"
-  },
-  {
-   "d": "2026-10-15T15:05:46Z",
-   "g": "Progressive",
-   "s": "The Anjunadeep Edition",
-   "sid": "anjunadeep-edition",
-   "t": "The Anjunadeep Edition 615 with Dusky (Live at Explorations)",
-   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-615-with-dusky-live-at-explorations/"
-  },
-  {
-   "d": "2026-10-15T14:32:00Z",
-   "g": "Progressive",
-   "s": "Joris Voorn: Spectrum Radio",
-   "sid": "spectrum-radio",
-   "sp": "Joris Voorn: Spectrum Radio Spectrum Radio 494",
-   "t": "Spectrum Radio 494",
-   "u": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-494"
-  },
-  {
-   "d": "2026-10-15T14:00:00Z",
-   "g": "Rinse FM",
-   "s": "Tom Ravenscroft",
-   "sid": "rinse-tom-ravenscroft",
-   "t": "Tom Ravenscroft, 15 Oct 2026",
-   "u": "https://www.rinse.fm/episodes/tom-ravenscroft-15-10-2026-1500"
+   "s": "Anjunadeep releases",
+   "sid": "anjunadeep-releases",
+   "sp": "Dusky, Nadeem Karim & Pritt – Kadhalan (Loverboy Mix)",
+   "t": "Dusky, Nadeem Karim & Pritt – Kadhalan (Loverboy Mix)",
+   "u": "https://anjunadeep.com/products/621097-kadhalan-loverboy-mix"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 97,
+ "newCount": 102,
  "paused": 17,
  "releases": [
   {
@@ -223,5 +222,5 @@
   }
  ],
  "sources": 153,
- "updated": "2026-10-16T23:38:59Z"
+ "updated": "2026-10-17T23:10:40Z"
 }

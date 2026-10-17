@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-17T04:00:00Z",
+   "desc": "The UK selector throws caution—and genre—to the winds on an audacious 82-minute set that careens between ambient, drill’n’bass, post-punk, breakcore, and more.",
+   "duration": null,
+   "id": "6ad0ea0f056973d40b8be8a3",
+   "image": null,
+   "title": "DJ-Kicks",
+   "url": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-16T04:03:00Z",
    "desc": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "Wendy Eisenberg",
    "url": "https://pitchfork.com/reviews/albums/wendy-eisenberg-wendy-eisenberg/"
-  },
-  {
-   "audio": null,
-   "date": "2026-04-02T04:03:00Z",
-   "desc": "Smelling like burnt rubber and mall body mist, the pop provocateur’s loud, wild new album swerves hard into club antagonism.",
-   "duration": null,
-   "id": "69cd5b5f02588de6f6cc983f",
-   "image": null,
-   "title": "WOR$T GIRL IN AMERICA",
-   "url": "https://pitchfork.com/reviews/albums/slayyyter-worst-girl-in-america/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-17T23:10:40Z"
 }
