@@ -1,6 +1,40 @@
 {
  "items": [
   {
+   "d": "2026-10-18T22:00:08Z",
+   "g": "Mixes",
+   "s": "RA Podcast",
+   "sid": "ra-podcast",
+   "t": "RA.1061 Andy Martin",
+   "u": "https://soundcloud.com/resident-advisor/ra-1061-andy-martin"
+  },
+  {
+   "d": "2026-10-18T19:00:00Z",
+   "g": "Progressive",
+   "s": "Sultan + Shepard: Dialekt Radio",
+   "sid": "dialekt-radio",
+   "sp": "Sultan + Shepard: Dialekt Radio Dialekt Radio #350",
+   "t": "Dialekt Radio #350",
+   "u": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-350-IEdwR7ei"
+  },
+  {
+   "d": "2026-10-18T15:06:53Z",
+   "g": "Radio",
+   "s": "Gilles Peterson (6 Music show)",
+   "sid": "gilles-peterson",
+   "t": "Gilles Peterson -  Marc Hollander + Jimetta Rose + Freddie Jackson - 10.10.26",
+   "u": "https://soundcloud.com/gillespeterson/gilles-peterson-marc-hollander"
+  },
+  {
+   "d": "2026-10-18T06:00:00Z",
+   "g": "Progressive",
+   "s": "Resident by Hernan Cattaneo",
+   "sid": "resident",
+   "sp": "Resident by Hernan Cattaneo Resident / Episode 806 / October 17 2026",
+   "t": "Resident / Episode 806 / October 17 2026",
+   "u": "https://podcast.hernancattaneo.com/e/resident-episode-806-october-17-2026/"
+  },
+  {
    "d": "2026-10-17T11:00:00Z",
    "g": "NTS",
    "s": "Ross Allen",
@@ -131,43 +165,10 @@
    "sid": "bandcamp-daily",
    "t": "The Best Latin Music on Bandcamp, September 2026",
    "u": "https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-september-2026"
-  },
-  {
-   "d": "2026-10-16T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Pardoner, “Target Practice”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/pardoner-target-practice-review"
-  },
-  {
-   "d": "2026-10-16T00:00:00Z",
-   "g": "Radio",
-   "s": "Bandcamp Radio",
-   "sid": "bandcamp-radio",
-   "t": "COMPKILLER VOL.1",
-   "u": "https://bandcamp.com/radio/1010"
-  },
-  {
-   "d": "2026-10-16T00:00:00Z",
-   "g": "Progressive",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "Karl Pilbrow: Live from Balance Croatia 2026",
-   "u": "https://soundcloud.com/balance-series/karl-pilbrow-live-from-balance-croatia"
-  },
-  {
-   "d": "2026-10-16T00:00:00Z",
-   "g": "Progressive",
-   "s": "Anjunadeep releases",
-   "sid": "anjunadeep-releases",
-   "sp": "Dusky, Nadeem Karim & Pritt – Kadhalan (Loverboy Mix)",
-   "t": "Dusky, Nadeem Karim & Pritt – Kadhalan (Loverboy Mix)",
-   "u": "https://anjunadeep.com/products/621097-kadhalan-loverboy-mix"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 102,
+ "newCount": 106,
  "paused": 17,
  "releases": [
   {
@@ -222,5 +223,5 @@
   }
  ],
  "sources": 153,
- "updated": "2026-10-17T23:10:40Z"
+ "updated": "2026-10-18T23:18:59Z"
 }

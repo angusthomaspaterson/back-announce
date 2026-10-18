@@ -43,16 +43,6 @@
    "url": "http://www.bbc.co.uk/programmes/p0pcgmm0"
   },
   {
-   "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pb3xn0.mp3",
-   "date": "2026-09-18T11:00:00Z",
-   "desc": "Emily Pilbeam presents a mixtape of her personal selection of tracks from BBC Introducing, with music from Monks, Sage Todz, Sweet Giant, cosign, c.o.m.b., Dave Shurr, Pip Millett, Theo and Sahra, Fright Years, Alice Faye, British Birds, green star, ladylike, and a new Track of the Week from MM'99 Produced by BBC Audio for BBC Radio 6 Music.",
-   "duration": "3599",
-   "id": "urn:bbc:podcast:p0pb3yx1",
-   "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0d7j1yy.jpg",
-   "title": "With a new Track of the Week from MM'99",
-   "url": "http://www.bbc.co.uk/programmes/p0pb3yx1"
-  },
-  {
    "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08463b4.mp3",
    "date": "2020-02-24T03:00:00Z",
    "desc": "An hour of top tunes from The Dowling Poole, HMS Morris, D-Saro, Paul Lappin, Hivemind, Goan Dogs, Bitmap, Flo, Animal Noise, Ell Ivy, The False Memories, Valeras, Seazoo, Stark, The Daydream Club, Jessie Reid and Moa Moa, handpicked by Tom Robinson from the BBC Introducing Uploader.",
@@ -115,5 +105,5 @@
  ],
  "kind": "rss",
  "name": "BBC Music Introducing Mixtape (6 Music)",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-18T23:18:59Z"
 }

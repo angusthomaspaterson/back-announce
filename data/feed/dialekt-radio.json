@@ -3,6 +3,16 @@
  "id": "dialekt-radio",
  "items": [
   {
+   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/54727805-c96c-499a-ae37-7147fdb6d307/group-item/f884943f-ffac-4c5b-a52c-356d84a2fa9b/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
+   "date": "2026-10-18T19:00:00Z",
+   "desc": "1. ID-ID 00:00:40 2. Jon Gurd & Reset Robot - Waiting For The Love 00:06:30 3. ID-ID 00:09:02 4. Sultan + Shepard - Pikachew 00:14:38 5. Kostya Outta & Liam Garcia - Deja Vu 00:20:59 6. Yotto - Aero 00:27:04 7. Guy J - Worlds Apart 00:32:24 8. ID-ID 00:39:31 9. Township Rebellion - Birds Fly First Class 00:43:42 10. Demon - You Are My High (Sultan + Shepard Remix) 00:49:25 11. George FitzGerald - Burns (Lane 8 Club Mix) 00:53:37 12. CamelPhat & Kölsch - Waste My Time 00:57:40 13. Abstract Vision & Hydro Poison - Floating 01:02:45 14. Le Youth x Kosheen - Hiding From U Cause I'm Broken (Sultan…",
+   "duration": "01:49:25",
+   "id": "97fa9b73-a2c3-4329-bafc-6b562c075d89",
+   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
+   "title": "Dialekt Radio #350",
+   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-350-IEdwR7ei"
+  },
+  {
    "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/ec9f96f6-2f73-4eff-901c-c961c0443210/group-item/7f242dfb-3a42-45b9-ae71-e3666b9e6f46/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
    "date": "2026-10-15T18:36:59Z",
    "desc": "1. 16B - Virus 00:00:40 2. New Order - Crystal (Lee Coombs Remix) 00:08:08 3. Jondi & Spesh - We Are Connected 00:15:00 4. Holden & Thompson - Nothing (93 Returning Mix) 00:22:13 5. Der Dritte Raum - Hale Bopp 00:27:57 6. Andy Ling - Fixation 00:34:59 7. Luzon - Manila Sunrise (Markus Schulz Moscow Mix) 00:42:15 8. Saints & Sinners - Pushin Too Hard 00:46:00 9. Sander Kleinenberg - Sacred (The Sunrise Mix) 00:51:49 10. The Cosmos - Take Me With You 01:00:33",
@@ -241,19 +251,9 @@
    "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
    "title": "Dialekt Radio #326",
    "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-326-hG_nDkFL"
-  },
-  {
-   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/180a2c06-49ec-453c-8ce6-c3318412b7ba/group-item/549d22e0-388d-4373-865b-1a51422789cf/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
-   "date": "2026-05-03T19:00:00Z",
-   "desc": "1. yehno - Falling Into You 00:00:41 2. Ankhoi, LUCH - THE FUTURE 00:06:01 3. Christian Smith - Golden Point 00:12:18 4. PROFF - Izumo Sunrise 00:17:48 5. Marsh - Beside 00:22:57 6. Lloyd Barwood - Behind The Shades 00:27:05 7. Lane 8, Kasbo & BJOERN - World Is Mine 00:32:28- DIALEKT TRACK OF THE WEEK 8. Max Day - Denouement 00:37:05 9. Sultan + Shepard x Le Youth - Morning at Skipping Stones 00:41:59 10. J Ribbon - Man On Fire 00:47:08 11. BT feat. Jan Johnston - Anomaly [Calling Your Name] 00:52:47- CLASSIC OF THE WEEK",
-   "duration": "00:59:54",
-   "id": "2f728873-1ac0-4495-8280-a359c4e25271",
-   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
-   "title": "Dialekt RADIO #325",
-   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-325-gu8_Iz7Z"
   }
  ],
  "kind": "rss",
  "name": "Sultan + Shepard: Dialekt Radio",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-18T23:18:59Z"
 }

@@ -3,6 +3,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2418772233-resident-advisor-ra-1061-andy-martin.mp3",
+   "date": "2026-10-18T22:00:08Z",
+   "desc": "A 100 percent production mix from the dubwise don. “You can find inspiration in everything, as insignificant as it seems,” Andy Martin told 15 Questions earlier this year. For the Mexican-Jamaican producer, that stretches from dub to Mexican literature, ancestral knowledge and science fiction, all fed into techno that sounds otherworldly but never forgets the floor. Dub is the skeleton of Martin’s music. Sometimes it’s explicit, as on his collaboration with Lee “Scratch” Perry. Sometimes it’s subtler, as on this year’s “Tierra de Nahuales” for Animalia, where a dub siren and decayed reverb pu…",
+   "duration": "01:34:36",
+   "id": "tag:soundcloud-2010:tracks-2418772233",
+   "image": "https://i1.sndcdn.com/artworks-OOEOSDYj9gSuqx1g-1J3NgA-t3000x3000.jpg",
+   "title": "RA.1061 Andy Martin",
+   "url": "https://soundcloud.com/resident-advisor/ra-1061-andy-martin"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2416059324-resident-advisor-ra-1060-ogazon.mp3",
    "date": "2026-10-11T22:00:33Z",
    "desc": "The Berlin DJ, one of the brightest of her generation, makes a patient case for house and techno on vinyl. We’ve all heard the phrase “DJ’s DJ.” Too often, it’s lazy shorthand for a technical skill so esoteric it’s lost on the dance floor. But Nathalie Ogazón Faber embodies the craft in its fullest sense, commanding respect from the regulars at the booth to the sound technician at the back. Known simply as Ogazón, she played her first gig in 2018 and made her Berghain debut in 2022. Since then she’s become the quintessential Panorama Bar DJ, a resident in spirit alongside ItaloJohnson, Steffi…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-3dbLUweIWdkcck4F-aQkpiQ-t3000x3000.png",
    "title": "RA.1038 The Trip",
    "url": "https://soundcloud.com/resident-advisor/ra-1038-the-trip"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2313388457-resident-advisor-ra-1037-lola-haro.mp3",
-   "date": "2026-05-03T22:00:27Z",
-   "desc": "The emergent star of the Belgian underground delivers 80 minutes of spectral techno, electro and leftfield obscurities. Lola Haro has clubbing in her DNA. The Brussels-based DJ grew up around electronic music, with parents who were regulars at Antwerp’s Café d’Anvers and a childhood shaped by record stores and a household soundtracked by Villalobos mixes. Since emerging in the late 2010s, she’s become a key figure in the Belgian underground, moving within a loose network of “diggers” exploring the deeper corners of electro, techno and house. That sensibility comes through clearly on RA.1037, …",
-   "duration": "01:19:21",
-   "id": "tag:soundcloud-2010:tracks-2313388457",
-   "image": "https://i1.sndcdn.com/artworks-2tAMKuT7B0wtUbif-rdo0hQ-t3000x3000.png",
-   "title": "RA.1037 Lola Haro",
-   "url": "https://soundcloud.com/resident-advisor/ra-1037-lola-haro"
   }
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-18T23:18:59Z"
 }

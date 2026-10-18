@@ -3,6 +3,16 @@
  "id": "gilles-peterson",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2421397365-gillespeterson-gilles-peterson-marc-hollander.mp3",
+   "date": "2026-10-18T15:06:53Z",
+   "desc": "Gilles Peterson - Marc Hollander + Jimetta Rose + Freddie Jackson - 10.10.26 by gillespeterson",
+   "duration": "02:59:43",
+   "id": "tag:soundcloud-2010:tracks-2421397365",
+   "image": "https://i1.sndcdn.com/artworks-ynvNHpbBmrCGZM3c-M84fmQ-t3000x3000.jpg",
+   "title": "Gilles Peterson -  Marc Hollander + Jimetta Rose + Freddie Jackson - 10.10.26",
+   "url": "https://soundcloud.com/gillespeterson/gilles-peterson-marc-hollander"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2416655277-gillespeterson-gilles-peterson-new-music.mp3",
    "date": "2026-10-10T16:37:22Z",
    "desc": "Gilles Peterson - New Music + Farewell Tas - 03.10.26 by gillespeterson",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-QNCUuqlb9rJRk0r0-g3Xygw-t3000x3000.png",
    "title": "Gilles Peterson -  Music Music Music! - 04.04.26",
    "url": "https://soundcloud.com/gillespeterson/gilles-peterson-music-music"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2284243004-gillespeterson-gilles-peterson-sessa-in.mp3",
-   "date": "2026-03-15T17:04:58Z",
-   "desc": "Gilles Peterson - Sessa in Session & More! - 14.03.26 by gillespeterson",
-   "duration": "02:58:51",
-   "id": "tag:soundcloud-2010:tracks-2284243004",
-   "image": "https://i1.sndcdn.com/artworks-ZaUEcfKf8ADTzvUJ-oTIqwg-t3000x3000.jpg",
-   "title": "Gilles Peterson - Sessa in Session & More! - 14.03.26",
-   "url": "https://soundcloud.com/gillespeterson/gilles-peterson-sessa-in"
   }
  ],
  "kind": "rss",
  "name": "Gilles Peterson (6 Music show)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-18T23:18:59Z"
 }

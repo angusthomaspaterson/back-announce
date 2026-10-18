@@ -3,6 +3,16 @@
  "id": "questlove-show",
  "items": [
   {
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/3f72c316-bbb6-4bcc-b2ff-ae4c006be7d8/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
+   "date": "2026-10-18T13:01:00Z",
+   "desc": "In early 2022, Questlove and Team Supreme spoke to one of the most beautiful voices in all of music — Deniece Williams. She recalls her working with Stevie Wonder and Earth Wind & Fire, before breaking out into a Grammy-winning solo career that has spanned decades and multiple genres. Hear the stories behind the songs and relive the greatness. See omnystudio.com/listener for privacy information.",
+   "duration": "6288",
+   "id": "0426db98-997a-11ec-9da4-fbed8d1c84f3",
+   "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/3f72c316-bbb6-4bcc-b2ff-ae4c006be7d8/image.jpg?t=1762381198&size=Large",
+   "title": "QLS Classic: Deniece Williams",
+   "url": "https://omny.fm/shows/questlove-supreme/deniece-williams"
+  },
+  {
    "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/22a7ddfc-d269-4d82-9280-b4e500df8ea3/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
    "date": "2026-10-16T13:46:23Z",
    "desc": "The Questlove Show hoped to record an episode with DJ Shadow while he was on the East Coast for the 30th-anniversary tour of Endtroducing….. , but scheduling didn’t work out this time. Instead, Open Mike Eagle—who is performing on some of Shadow’s current tour dates—and Cousin Jake celebrate Shadow’s landmark debut, its lasting impact, and more. They talk about crate-digging in dollar bins, Shadow’s little-known production work for Paris, Gift of Gab’s verse on “Midnight in a Perfect World,” and the difference between a beatmaker and a producer. They also explain why Shadow’s music demands ac…",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/afa2b468-e59e-4ae9-9b57-b4ad00e3dd85/image.jpg?t=1787331540&size=Large",
    "title": "A Reaction To The DJ Muggs Episode Of The Questlove Show",
    "url": "https://omny.fm/shows/questlove-supreme/a-reaction-to-the-dj-muggs-episode-of-the-questlove-show"
-  },
-  {
-   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/06647f0a-68cc-42fc-94c0-b4a500d4d5ca/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
-   "date": "2026-08-17T04:01:00Z",
-   "desc": "De La Soul’s Maseo sits down with Questlove for an unfiltered deep dive into his Hip-Hop journey, his approach to deejaying, and the making of a true original. From volatile days in Brooklyn and Long Island to early block parties and the creation of classics like “Me Myself and I,” “Afro Connections,” and the epic “Cool Breeze on the Rocks” splice session, Mase breaks down the art, risk, and innovation behind De La’s catalog. He explains how a skipping record sparked a 20-minute freestyle, how an eight-second guitar pedal became his first sampler, and how the same laugh he was once teased abo…",
-   "duration": "8022",
-   "id": "06647f0a-68cc-42fc-94c0-b4a500d4d5ca",
-   "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/06647f0a-68cc-42fc-94c0-b4a500d4d5ca/image.jpg?t=1786711530&size=Large",
-   "title": "Maseo of De La Soul",
-   "url": "https://omny.fm/shows/questlove-supreme/maseo-of-de-la-soul"
   }
  ],
  "kind": "rss",
  "name": "The Questlove Show",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-18T23:18:59Z"
 }
