@@ -3,6 +3,16 @@
  "id": "the-gig",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/221030305/312b608d3e356cfe86499ed0db5f907d.mp3",
+   "date": "2026-10-19T11:02:25Z",
+   "desc": "His sound is everywhere. His concept is deceptively clear.",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-a-conversation-with-josh-johnson",
+   "image": "https://substackcdn.com/image/fetch/$s_!43MV!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bb5f09d-16d6-4525-a94c-d3aea48e0ae5_200x200.png",
+   "title": "A Conversation with Josh Johnson",
+   "url": "https://thegig.substack.com/p/a-conversation-with-josh-johnson"
+  },
+  {
    "audio": null,
    "date": "2026-10-14T23:15:02Z",
    "desc": "A postcard from Paris, and an email from Gary Burton.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!GfHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63c731ce-aece-47df-a43d-dd1a23ef19b1_2119x1266.jpeg",
    "title": "Take Five: Mid-Year Forecast Edition",
    "url": "https://thegig.substack.com/p/take-five-mid-year-forecast-edition"
-  },
-  {
-   "audio": null,
-   "date": "2026-06-26T10:30:20Z",
-   "desc": "An elegy in the form of a thought experiment",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-remembering-clifford",
-   "image": "https://substackcdn.com/image/fetch/$s_!peXI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba97000f-8a41-445c-980b-26252e12f0df_407x500.jpeg",
-   "title": "Remembering Clifford",
-   "url": "https://thegig.substack.com/p/remembering-clifford"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-10-16T00:13:58Z"
+ "updatedAt": "2026-10-19T21:30:06Z"
 }

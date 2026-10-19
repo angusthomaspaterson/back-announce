@@ -3,6 +3,28 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-10-19T08:33:23Z",
+   "desc": "Dyslecta – Sleck Dust (Nerve Collect) Alien D – Smoker’s Choice (Theory Therapy) Lamin Fofana – Corps Perdu (Shelter Press)",
+   "id": "rollup-2026-10-19",
+   "image": "https://substackcdn.com/image/fetch/$s_!Daui!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e633010-675d-4249-bc55-a60567ba93b1_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "Dyslecta – Sleck Dust",
+     "u": "https://firstfloor.substack.com/p/dyslecta-sleck-dust"
+    },
+    {
+     "t": "Alien D – Smoker’s Choice",
+     "u": "https://firstfloor.substack.com/p/alien-d-smokers-choice"
+    },
+    {
+     "t": "Lamin Fofana – Corps Perdu",
+     "u": "https://firstfloor.substack.com/p/lamin-fofana-corps-perdu"
+    }
+   ],
+   "title": "First Floor recommendations, 19 Oct: 3 records",
+   "url": "https://firstfloor.substack.com/p/lamin-fofana-corps-perdu"
+  },
+  {
    "date": "2026-10-15T10:03:22Z",
    "desc": "First Floor #332 – Not the Center of the Universe",
    "id": "rollup-2026-10-15",
@@ -147,51 +169,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/217eee2c-079d-4813-aa0f-b67127261c77_1456x1048.jpeg",
    "title": "Underground Acquiescence",
    "url": "https://firstfloor.substack.com/p/underground-acquiescence"
-  },
-  {
-   "date": "2026-10-05T14:28:57Z",
-   "desc": "Helen – Linda’s Head (kranky)",
-   "id": "rollup-2026-10-05",
-   "image": "https://substackcdn.com/image/fetch/$s_!pnYM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea3ddcc6-d80b-4706-8393-310e49f78683_1456x1048.jpeg",
-   "links": [
-    {
-     "t": "Helen – Linda’s Head",
-     "u": "https://firstfloor.substack.com/p/helen-lindas-head"
-    }
-   ],
-   "title": "First Floor recommendations, 5 Oct: 1 record",
-   "url": "https://firstfloor.substack.com/p/helen-lindas-head"
-  },
-  {
-   "date": "2026-10-01T10:03:26Z",
-   "desc": "First Floor #330 – Flying out the Door",
-   "id": "rollup-2026-10-01",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/a4b0980f-38cd-4a8d-bf3d-87ba111dcf0a_1456x1048.png",
-   "links": [
-    {
-     "t": "First Floor #330 – Flying out the Door",
-     "u": "https://firstfloor.substack.com/p/first-floor-330-flying-out-the-door"
-    }
-   ],
-   "title": "First Floor recommendations, 1 Oct: 1 record",
-   "url": "https://firstfloor.substack.com/p/first-floor-330-flying-out-the-door"
-  },
-  {
-   "date": "2026-09-30T18:51:19Z",
-   "desc": "Clima – Healing Patterns (appendix.files)",
-   "id": "rollup-2026-09-30",
-   "image": "https://substackcdn.com/image/fetch/$s_!5BZx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff24b2ef4-95ce-4b80-b96d-6c907db4933e_1456x1048.jpeg",
-   "links": [
-    {
-     "t": "Clima – Healing Patterns",
-     "u": "https://firstfloor.substack.com/p/clima-healing-patterns"
-    }
-   ],
-   "title": "First Floor recommendations, 30 Sep: 1 record",
-   "url": "https://firstfloor.substack.com/p/clima-healing-patterns"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-16T00:13:58Z"
+ "updatedAt": "2026-10-19T21:30:06Z"
 }

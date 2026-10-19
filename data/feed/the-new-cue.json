@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-19T09:02:51Z",
+   "desc": "“I’ve got a sensitive body”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-635-october-19-james",
+   "image": "https://substackcdn.com/image/fetch/$s_!CkJc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe959b670-00c3-40e8-85bc-183d01830bd7_1446x1928.jpeg",
+   "title": "The New Cue #635 October 19: James Acaster",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-635-october-19-james"
+  },
+  {
+   "audio": null,
    "date": "2026-10-16T09:01:26Z",
    "desc": "Are you ready to be heartbroken…?",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!WaF7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62743437-0847-4b2f-82e6-f6104d97f973_1280x960.jpeg",
    "title": "The New Cue #616 August 10: Saul Williams",
    "url": "https://thenewcue.substack.com/p/the-new-cue-616-august-10-saul-williams"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-07T09:02:08Z",
-   "desc": "\"Three-word bio for...\"",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-615-august-7-diiv-the",
-   "image": "https://substackcdn.com/image/fetch/$s_!sGc2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8c9796-b822-4640-bab5-d634eb6e79ac_5000x1860.png",
-   "title": "The New Cue #615 August 7: DIIV, The Cindys, Overmono, Keyside, TV For Cats, Rowena Wise, Westside Cowboy, Sam Burton, The Wow! Scenario",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-615-august-7-diiv-the"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-10-16T21:30:08Z"
+ "updatedAt": "2026-10-19T21:30:06Z"
 }

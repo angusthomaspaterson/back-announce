@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-10-19T08:33:23Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 19 Oct: 3 records",
+   "u": "https://firstfloor.substack.com/p/lamin-fofana-corps-perdu"
+  },
+  {
    "d": "2026-10-18T22:00:08Z",
    "g": "Mixes",
    "s": "RA Podcast",
@@ -157,18 +165,10 @@
    "sid": "bandcamp-daily",
    "t": "Essential Releases, October 16, 2026",
    "u": "https://daily.bandcamp.com/essential-releases/essential-releases-october-16-2026"
-  },
-  {
-   "d": "2026-10-16T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Best Latin Music on Bandcamp, September 2026",
-   "u": "https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-september-2026"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 106,
+ "newCount": 107,
  "paused": 17,
  "releases": [
   {
@@ -223,5 +223,5 @@
   }
  ],
  "sources": 153,
- "updated": "2026-10-19T04:20:06Z"
+ "updated": "2026-10-19T21:30:06Z"
 }

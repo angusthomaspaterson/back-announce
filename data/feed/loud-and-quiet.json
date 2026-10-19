@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-19T10:53:58Z",
+   "desc": "The Avalanches makes both the fun and the thinky-thinky register simultaneously on No Bad Memories – a big dumb record precision-arranged to make you dance",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-why-stupid-little-noises-can-mean-so-much-the-avalanchest-no-bad-memories-review",
+   "image": "https://substackcdn.com/image/fetch/$s_!mQQa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F337c2b9b-74d8-4f4f-afff-a2724a6c7535_1000x750.jpeg",
+   "title": "Why stupid little noises can mean so much",
+   "url": "https://loudandquiet.substack.com/p/why-stupid-little-noises-can-mean-so-much-the-avalanchest-no-bad-memories-review"
+  },
+  {
+   "audio": null,
    "date": "2026-10-12T16:20:44Z",
    "desc": "The band’s 5th album is a continuation of Romance – a little neater, a little more Depeche Mode, playing in a stadium near you, not pandering",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!xfoy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd78256a6-c3bf-41ab-ac25-0cf6921f6aef_3000x1687.jpeg",
    "title": "Music for mind and body: a weekend at End of the Road festival",
    "url": "https://loudandquiet.substack.com/p/music-for-mind-and-body-a-weekend-at-end-of-the-road-live-review-2026"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/213707968/151d5d35805bc29a3fa696a5a7004031.mp3",
-   "date": "2026-09-02T23:01:26Z",
-   "desc": "Boris = Port",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-roundtable-the-strokes-phoebe-bridgers",
-   "image": "https://substackcdn.com/image/fetch/$s_!xLSk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff95fbbcb-4843-4a40-9584-44e2268743cd_1400x1400.png",
-   "title": "Roundtable: The Strokes, Phoebe Bridgers, Charli XCX, and British Prime Ministers’ drugs of choice",
-   "url": "https://loudandquiet.substack.com/p/roundtable-the-strokes-phoebe-bridgers"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-19T21:30:06Z"
 }
