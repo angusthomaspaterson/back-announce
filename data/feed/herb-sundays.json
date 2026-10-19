@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-18T18:15:44Z",
+   "desc": "The Chicago legend, now in Memphis, on his music and legacy. Plus a deep dive into the Heard catalogue (Mr. Fingers, etc) from Michael Cina.",
+   "duration": null,
+   "id": "https:--herbsundays.substack.com-p-herb-sundays-200-an-interview-with",
+   "image": "https://substackcdn.com/image/fetch/$s_!UbNh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63078d99-e343-40f3-8a05-1630642f4f2d_3000x3000.jpeg",
+   "title": "Herb Sundays 200: An interview with Larry Heard",
+   "url": "https://herbsundays.substack.com/p/herb-sundays-200-an-interview-with"
+  },
+  {
+   "audio": null,
    "date": "2026-10-11T13:30:59Z",
    "desc": "Nathan Jenkins builds masterpieces in miniature, all endless depth: an impossible pop.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!vplE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe301a636-5a93-4055-9aa5-e6d7802388ad_3000x3000.heic",
    "title": "Herb Sundays 186: Noah Kalina",
    "url": "https://herbsundays.substack.com/p/herb-sundays-186-noah-kalina"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-10T14:56:15Z",
-   "desc": "Chicago suburbs can barely conceal the raw power of Angel Marcloid. \"These songs regulate me, and don't demand some huge reaction.\"",
-   "duration": null,
-   "id": "https:--herbsundays.substack.com-p-herb-sundays-185-fire-toolz",
-   "image": "https://substackcdn.com/image/fetch/$s_!xNMt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21533683-e53b-46e6-b964-d7e3bb12cd34_3000x3000.png",
-   "title": "Herb Sundays 185: Fire-Toolz",
-   "url": "https://herbsundays.substack.com/p/herb-sundays-185-fire-toolz"
   }
  ],
  "kind": "rss",
  "name": "Herb Sundays",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-19T04:20:06Z"
 }

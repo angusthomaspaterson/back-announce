@@ -3432,7 +3432,7 @@
      "duration": null,
      "id": "https:--dadastrain.substack.com-p-bklyn-sounds-81320268182026-dada",
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/bbf5d802-4bc3-41d7-a973-5e35adfa3c57_1500x1013.jpeg",
-     "title": "Bklyn Sounds 8/13/2026—8/18/2026 + Dada Art (Late Summer Edition)",
+     "title": "Dada Art (Late Summer Edition) + Bklyn Sounds 8/13/2026—8/18/2026",
      "url": "https://dadastrain.substack.com/p/bklyn-sounds-81320268182026-dada"
     },
     {
@@ -3538,7 +3538,7 @@
    ],
    "kind": "rss",
    "name": "Dada Strain (Piotr Orlov)",
-   "updatedAt": "2026-10-16T21:30:08Z"
+   "updatedAt": "2026-10-19T04:20:06Z"
   },
   "days-like-nights": {
    "home": "https://soundcloud.com/eelkekleijn",
@@ -7587,6 +7587,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-18T18:15:44Z",
+     "desc": "The Chicago legend, now in Memphis, on his music and legacy. Plus a deep dive into the Heard catalogue (Mr. Fingers, etc) from Michael Cina.",
+     "duration": null,
+     "id": "https:--herbsundays.substack.com-p-herb-sundays-200-an-interview-with",
+     "image": "https://substackcdn.com/image/fetch/$s_!UbNh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63078d99-e343-40f3-8a05-1630642f4f2d_3000x3000.jpeg",
+     "title": "Herb Sundays 200: An interview with Larry Heard",
+     "url": "https://herbsundays.substack.com/p/herb-sundays-200-an-interview-with"
+    },
+    {
+     "audio": null,
      "date": "2026-10-11T13:30:59Z",
      "desc": "Nathan Jenkins builds masterpieces in miniature, all endless depth: an impossible pop.",
      "duration": null,
@@ -7774,21 +7784,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!vplE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe301a636-5a93-4055-9aa5-e6d7802388ad_3000x3000.heic",
      "title": "Herb Sundays 186: Noah Kalina",
      "url": "https://herbsundays.substack.com/p/herb-sundays-186-noah-kalina"
-    },
-    {
-     "audio": null,
-     "date": "2026-05-10T14:56:15Z",
-     "desc": "Chicago suburbs can barely conceal the raw power of Angel Marcloid. \"These songs regulate me, and don't demand some huge reaction.\"",
-     "duration": null,
-     "id": "https:--herbsundays.substack.com-p-herb-sundays-185-fire-toolz",
-     "image": "https://substackcdn.com/image/fetch/$s_!xNMt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21533683-e53b-46e6-b964-d7e3bb12cd34_3000x3000.png",
-     "title": "Herb Sundays 185: Fire-Toolz",
-     "url": "https://herbsundays.substack.com/p/herb-sundays-185-fire-toolz"
     }
    ],
    "kind": "rss",
    "name": "Herb Sundays",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-10-19T04:20:06Z"
   },
   "ilian-tape": {
    "home": "https://soundcloud.com/iliantape",
@@ -31401,7 +31401,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-18T23:18:59Z",
+  "lastRun": "2026-10-19T04:20:06Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-18T23:18:59Z",
@@ -31488,7 +31488,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 20,
     "newest": "2026-10-16T15:23:53Z",
     "ok": true
@@ -31524,7 +31524,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -31542,7 +31542,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 12,
     "newest": "2026-10-15T10:03:22Z",
     "ok": true
@@ -31554,7 +31554,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 20,
     "newest": "2026-10-13T10:31:06Z",
     "ok": true
@@ -31596,9 +31596,9 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 20,
-    "newest": "2026-10-11T13:30:59Z",
+    "newest": "2026-10-18T18:15:44Z",
     "ok": true
    },
    "ilian-tape": {
@@ -31650,7 +31650,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 20,
     "newest": "2026-10-12T16:20:44Z",
     "ok": true
@@ -31692,7 +31692,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 25,
     "newest": "2026-10-14T15:56:50Z",
     "ok": true
@@ -32268,7 +32268,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 20,
     "newest": "2026-10-14T23:15:02Z",
     "ok": true
@@ -32280,7 +32280,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 20,
     "newest": "2026-10-16T09:01:26Z",
     "ok": true
@@ -32298,7 +32298,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-10-16T21:30:08Z",
+    "at": "2026-10-19T04:20:06Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
