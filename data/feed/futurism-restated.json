@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-20T11:07:37Z",
+   "desc": "New music from Marina Herlop, more eaze, Grouper, and more.",
+   "duration": null,
+   "id": "https:--futurismrestated.substack.com-p-fr-195-sketches-and-structures",
+   "image": "https://substackcdn.com/image/fetch/$s_!_usY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6d875e3-968b-46fb-a499-ae8996ae1ceb_4032x3024.jpeg",
+   "title": "FR 195: Sketches and Structures",
+   "url": "https://futurismrestated.substack.com/p/fr-195-sketches-and-structures"
+  },
+  {
+   "audio": null,
    "date": "2026-10-13T10:31:06Z",
    "desc": "The L.A. electronic improviser brings it all together on his latest album, Edge Conditions",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!9g0o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcff26ed3-3838-41f9-af5d-e87383fc45b7_3088x2048.jpeg",
    "title": "FR 178: Ben Vida, Booker Stardrum, and Will Epstein Are Play Time",
    "url": "https://futurismrestated.substack.com/p/fr-178-ben-vida-booker-stardrum-and"
-  },
-  {
-   "audio": null,
-   "date": "2026-06-30T12:19:27Z",
-   "desc": "Collaborative impulses, spontaneous eruptions—and a giveaway",
-   "duration": null,
-   "id": "https:--futurismrestated.substack.com-p-fr-177-the-20-best-albums-of-2026",
-   "image": "https://substackcdn.com/image/fetch/$s_!-6Hi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc652d5ec-ffc2-4eb0-8d61-d55adb195d09_4032x3024.jpeg",
-   "title": "FR 177: The 20 Best Albums of 2026 So Far",
-   "url": "https://futurismrestated.substack.com/p/fr-177-the-20-best-albums-of-2026"
   }
  ],
  "kind": "rss",
  "name": "Futurism Restated (Philip Sherburne)",
- "updatedAt": "2026-10-13T14:54:30Z"
+ "updatedAt": "2026-10-20T21:30:08Z"
 }

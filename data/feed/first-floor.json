@@ -3,6 +3,16 @@
  "id": "first-floor",
  "items": [
   {
+   "audio": null,
+   "date": "2026-10-20T16:46:54Z",
+   "desc": "The music world’s growing embrace of social media and content creation has diluted the discourse, cultivated a lot of bad habits and normalized a worrying amount of unpaid labor.",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-instagram-is-not-my-job",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/b907f88a-531b-4e89-ab47-bdad6a2b25ee_1456x1048.jpeg",
+   "title": "Instagram Is Not My Job",
+   "url": "https://firstfloor.substack.com/p/instagram-is-not-my-job"
+  },
+  {
    "date": "2026-10-19T08:33:23Z",
    "desc": "Dyslecta – Sleck Dust (Nerve Collect) Alien D – Smoker’s Choice (Theory Therapy) Lamin Fofana – Corps Perdu (Shelter Press)",
    "id": "rollup-2026-10-19",
@@ -159,19 +169,9 @@
    ],
    "title": "First Floor recommendations, 7 Oct: 6 records",
    "url": "https://firstfloor.substack.com/p/nthng-last-light-of-the-sun"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-06T17:32:48Z",
-   "desc": "Thoughts on San Francisco’s Portola festival, the state of the “underground” and what happens when independent music scenes fail to stand up to creeping corporate interests.",
-   "duration": null,
-   "id": "https:--firstfloor.substack.com-p-underground-acquiescence",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/217eee2c-079d-4813-aa0f-b67127261c77_1456x1048.jpeg",
-   "title": "Underground Acquiescence",
-   "url": "https://firstfloor.substack.com/p/underground-acquiescence"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-19T21:30:06Z"
+ "updatedAt": "2026-10-20T21:30:08Z"
 }

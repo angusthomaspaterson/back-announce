@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-20T16:03:10Z",
+   "desc": "A: The amount I’m consuming, usually in my car",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-how-much-nostalgia-is-bad-for-you",
+   "image": "https://substackcdn.com/image/fetch/$s_!K57c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45abab7e-3030-40c4-804d-12257cc6e85a_1000x750.jpeg",
+   "title": "How much nostalgia is bad for you?",
+   "url": "https://loudandquiet.substack.com/p/how-much-nostalgia-is-bad-for-you"
+  },
+  {
+   "audio": null,
    "date": "2026-10-19T10:53:58Z",
    "desc": "The Avalanches makes both the fun and the thinky-thinky register simultaneously on No Bad Memories – a big dumb record precision-arranged to make you dance",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!nx3D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F592d5ddc-df14-4a8f-969e-cf8f55ed4021_949x666.jpeg",
    "title": "The Drift: the month’s best in weird and experimental music",
    "url": "https://loudandquiet.substack.com/p/the-drift-the-months-best-in-weird-and-experimental-music-august-2026"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-08T15:51:52Z",
-   "desc": "From Pulp rarities to alien jazz-rock, the 20th EOTR combined thinking and dancing like never before",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-music-for-mind-and-body-a-weekend-at-end-of-the-road-live-review-2026",
-   "image": "https://substackcdn.com/image/fetch/$s_!xfoy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd78256a6-c3bf-41ab-ac25-0cf6921f6aef_3000x1687.jpeg",
-   "title": "Music for mind and body: a weekend at End of the Road festival",
-   "url": "https://loudandquiet.substack.com/p/music-for-mind-and-body-a-weekend-at-end-of-the-road-live-review-2026"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-10-19T21:30:06Z"
+ "updatedAt": "2026-10-20T21:30:08Z"
 }

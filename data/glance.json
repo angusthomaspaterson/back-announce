@@ -1,6 +1,31 @@
 {
  "items": [
   {
+   "d": "2026-10-20T18:00:33Z",
+   "g": "Progressive",
+   "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
+   "sid": "underground-live-forever",
+   "sp": "Underground Live Forever Episode 046",
+   "t": "Underground Live Forever - ULF046",
+   "u": "https://www.youtube.com/watch?v=zXmFFPzy2ag"
+  },
+  {
+   "d": "2026-10-20T16:46:54Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Instagram Is Not My Job",
+   "u": "https://firstfloor.substack.com/p/instagram-is-not-my-job"
+  },
+  {
+   "d": "2026-10-20T11:07:37Z",
+   "g": "Writing",
+   "s": "Futurism Restated (Philip Sherburne)",
+   "sid": "futurism-restated",
+   "t": "FR 195: Sketches and Structures",
+   "u": "https://futurismrestated.substack.com/p/fr-195-sketches-and-structures"
+  },
+  {
    "d": "2026-10-20T07:03:01Z",
    "g": "Writing",
    "s": "Flow State",
@@ -141,34 +166,10 @@
    "sid": "bandcamp-daily",
    "t": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
    "u": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups"
-  },
-  {
-   "d": "2026-10-19T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Various Artists, “Beirut City Pop”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/various-artists-beirut-city-pop-review"
-  },
-  {
-   "d": "2026-10-19T00:00:00Z",
-   "g": "Radio",
-   "s": "Bandcamp Radio",
-   "sid": "bandcamp-radio",
-   "t": "Bandcamp Selects: Omasta",
-   "u": "https://bandcamp.com/radio/bandcamp-selects/1008"
-  },
-  {
-   "d": "2026-10-19T00:00:00Z",
-   "g": "Progressive",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "Balance Selections 388: NAJEYS",
-   "u": "https://soundcloud.com/balance-series/balance-selections-najeys"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 135,
+ "newCount": 138,
  "paused": 17,
  "releases": [
   {
@@ -229,5 +230,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-20T08:42:24Z"
+ "updated": "2026-10-20T21:30:08Z"
 }
