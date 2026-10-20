@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/221264786/77412385556b0178ee8ccc00e10481d6.mp3",
+   "date": "2026-10-20T07:03:01Z",
+   "desc": "Today’s mix opens with a piece from Ari Balouzian’s score for the film You Can See Everything. We continue with new ambient by Gollden and Space Ghost, followed by a favorite from Stars of the Lid. There are two tracks from the new experimental compilation",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-348",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 348",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-348"
+  },
+  {
    "audio": null,
    "date": "2026-10-19T07:03:56Z",
    "desc": "Today we’re listening to Stuart Bogie, an American clarinetist and saxophonist from Illinois.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!KgzB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2799eee8-8687-40e7-97df-949cb7499552_1200x1200.jpeg",
    "title": "Corntuth (Interview)",
    "url": "https://www.flowstate.fm/p/corntuth-interview"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/216846427/27b989be8590486a0f4eab59c1b57633.mp3",
-   "date": "2026-09-22T07:03:59Z",
-   "desc": "Today’s mix opens with new ambient music by Hayes Bradley, Asio Silver, and The Black Dog.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-flow-state-episode-344",
-   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
-   "title": "Flow State Episode 344",
-   "url": "https://www.flowstate.fm/p/flow-state-episode-344"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-20T08:42:24Z"
 }

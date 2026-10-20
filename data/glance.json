@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "d": "2026-10-20T07:03:01Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "sp": "Flow State Flow State Episode 348",
+   "t": "Flow State Episode 348",
+   "u": "https://www.flowstate.fm/p/flow-state-episode-348"
+  },
+  {
+   "d": "2026-10-20T07:01:00Z",
+   "g": "Podcasts",
+   "s": "Switched On Pop",
+   "sid": "switched-on-pop",
+   "sp": "Switched On Pop The rise of surrealist pop: KATSEYE and ADÉLA",
+   "t": "The rise of surrealist pop: KATSEYE and ADÉLA",
+   "u": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2522822538.mp3"
+  },
+  {
+   "d": "2026-10-20T07:00:00Z",
+   "g": "Radio",
+   "s": "KEXP: In Our Headphones",
+   "sid": "in-our-headphones",
+   "sp": "KEXP: In Our Headphones Melanie C Spices Up Our Life With a Song From Melé",
+   "t": "Melanie C Spices Up Our Life With a Song From Melé",
+   "u": "https://omny.fm/shows/kexp-song-of-the-day/melanie-c-spices-up-our-life-with-a-song-from-mel"
+  },
+  {
    "d": "2026-10-20T01:46:00Z",
    "g": "Writing",
    "s": "Mixmag Australia/Asia",
@@ -43,28 +70,12 @@
    "u": "https://www.buzzsprout.com/1864521/episodes/19986329-the-role-of-booking-agencies-in-the-modern-electronic-music-landscape-with-jon-sax.mp3"
   },
   {
-   "d": "2026-10-19T13:59:05Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "Record Roulette - Esé Oghene - 17 Oct 2026",
-   "u": "https://soundcloud.com/refugeworldwide/record-roulette-ese-oghene-17"
-  },
-  {
    "d": "2026-10-19T12:00:09Z",
    "g": "Progressive",
    "s": "Eelke Kleijn: DAYS like NIGHTS Radio",
    "sid": "days-like-nights",
    "t": "DAYS like NIGHTS 466 - Stereo Montreal. Part 4",
    "u": "https://soundcloud.com/eelke-kleijn/days-like-nights-466-stereo"
-  },
-  {
-   "d": "2026-10-19T10:45:37Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "Bath Time Radio - Dane Joe - 16 Oct 2026",
-   "u": "https://soundcloud.com/refugeworldwide/bath-time-radio-dane-joe-16"
   },
   {
    "d": "2026-10-19T08:33:23Z",
@@ -154,18 +165,10 @@
    "sid": "balance-music",
    "t": "Balance Selections 388: NAJEYS",
    "u": "https://soundcloud.com/balance-series/balance-selections-najeys"
-  },
-  {
-   "d": "2026-10-18T22:00:08Z",
-   "g": "Mixes",
-   "s": "RA Podcast",
-   "sid": "ra-podcast",
-   "t": "RA.1061 Andy Martin",
-   "u": "https://soundcloud.com/resident-advisor/ra-1061-andy-martin"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 134,
+ "newCount": 135,
  "paused": 17,
  "releases": [
   {
@@ -226,5 +229,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-20T08:42:00Z"
+ "updated": "2026-10-20T08:42:24Z"
 }

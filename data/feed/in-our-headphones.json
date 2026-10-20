@@ -3,6 +3,16 @@
  "id": "in-our-headphones",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/6bad1e3c-2ae1-4a1c-961f-b4e801524d23/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
+   "date": "2026-10-20T07:00:00Z",
+   "desc": "Host Evie Stokes sits down with Melanie C – yes, Sporty Spice herself – backstage at the Portola Music Festival in San Francisco to hear about the music that’s moving her. The two talk about Melanie’s newfound love for DJing, marriage, and why she loves ​​Melé’s  song “Ay Si.” Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones@kexp.org . Support the show: https://www…",
+   "duration": "410",
+   "id": "6bad1e3c-2ae1-4a1c-961f-b4e801524d23",
+   "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
+   "title": "Melanie C Spices Up Our Life With a Song From Melé",
+   "url": "https://omny.fm/shows/kexp-song-of-the-day/melanie-c-spices-up-our-life-with-a-song-from-mel"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/d1629c61-7a3f-4c99-a596-b4e2015b7af5/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
    "date": "2026-10-15T19:11:07Z",
    "desc": "Host Evie Stokes sits down again with KEXP DJ Dirk Whitebreast, one of the hosts of KEXP’s Indigenous music show Sounds of Survivance . This time, Dirk brings in a new track from School Fair and dives deep into the Māori music scene. The two also dig into Dirk’s biggest love: death metal. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones”  playlist on Spotify or the “What’s In Our Headphones”  playlist on YouTube. Support the show: https://www.kexp.org/donate See omnystudio.com/listener for privacy inform…",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/35f2b185-e0cd-4cc8-bee0-b495015f724c/image.jpg?t=1785433310&size=Large",
    "title": "Snail Mail on Peel Dream Magazine’s Dazzling Dynamics",
    "url": "https://omny.fm/shows/kexp-song-of-the-day/snail-mail-on-peel-dream-magazine-s-dazzling-dynamics"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/120fa78a-0f82-48ef-9bf5-b4930163f692/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-   "date": "2026-07-28T16:04:29Z",
-   "desc": "Host Evie Stokes sits down with Lindsey Jordan of Snail Mail to talk about life on the road touring behind her latest album, Ricochet , and the music that’s moving her right now. The two geek out over Jordan’s tour mates, Armlock, and what it’s like getting to share the stage every night. “Strobe” is the band’s latest single, out now on Run For Cover Records. Produced by: William Myers and Dusty Henry Mastered by: William Myers Production support: Serafima Healy Listen to the full songs on KEXP's \" In Our Headphones \" playlist on Spotify or the “ What's In Our Headphones ” playlist on YouTube…",
-   "duration": "677",
-   "id": "120fa78a-0f82-48ef-9bf5-b4930163f692",
-   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/120fa78a-0f82-48ef-9bf5-b4930163f692/image.jpg?t=1785433279&size=Large",
-   "title": "Snail Mail on Loving Her Tour Mates Armlock",
-   "url": "https://omny.fm/shows/kexp-song-of-the-day/snail-mail-on-loving-her-tour-mates-armlock"
   }
  ],
  "kind": "rss",
  "name": "KEXP: In Our Headphones",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-20T08:42:24Z"
 }

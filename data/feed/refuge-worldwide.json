@@ -3,26 +3,6 @@
  "id": "refuge-worldwide",
  "items": [
   {
-   "audio": "https://feeds.soundcloud.com/stream/2421914070-refugeworldwide-record-roulette-ese-oghene-17.mp3",
-   "date": "2026-10-19T13:59:05Z",
-   "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
-   "duration": "02:21:02",
-   "id": "tag:soundcloud-2010:tracks-2421914070",
-   "image": "https://i1.sndcdn.com/artworks-s8LGlZNXhF4H6Ec9-ekmzyw-t3000x3000.jpg",
-   "title": "Record Roulette - Esé Oghene - 17 Oct 2026",
-   "url": "https://soundcloud.com/refugeworldwide/record-roulette-ese-oghene-17"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2421791262-refugeworldwide-bath-time-radio-dane-joe-16.mp3",
-   "date": "2026-10-19T10:45:37Z",
-   "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
-   "duration": "01:00:00",
-   "id": "tag:soundcloud-2010:tracks-2421791262",
-   "image": "https://i1.sndcdn.com/artworks-6tPgJuXMmjIUx5t9-SQplXA-t3000x3000.jpg",
-   "title": "Bath Time Radio - Dane Joe - 16 Oct 2026",
-   "url": "https://soundcloud.com/refugeworldwide/bath-time-radio-dane-joe-16"
-  },
-  {
    "audio": "https://feeds.soundcloud.com/stream/2397237405-refugeworldwide-call-and-response-old-child-08.mp3",
    "date": "2026-09-09T10:41:52Z",
    "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: https://www.gofundme.com/f/help-refuge-worldwide-community-radio",
@@ -251,9 +231,29 @@
    "image": "https://i1.sndcdn.com/artworks-oJUHvY5OzpkrqhzO-tTfVmA-t3000x3000.jpg",
    "title": "Sound You Need x Sony Music @ KDK 2026 - DIPPED IN COLORS -  24 May 2026",
    "url": "https://soundcloud.com/refugeworldwide/syn-x-sony-music-kdk-2026-dipped-in-colors-9"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2335458377-refugeworldwide-syn-x-sony-music-kdk-2026-hanaby-24-may-2026-8.mp3",
+   "date": "2026-06-17T09:21:26Z",
+   "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
+   "duration": "00:57:50",
+   "id": "tag:soundcloud-2010:tracks-2335458377",
+   "image": "https://i1.sndcdn.com/artworks-9XmjzgSFkgxYxxpO-f3avzQ-t3000x3000.jpg",
+   "title": "Sound You Need x Sony Music @ KDK 2026 - HANABY - 24 May 2026",
+   "url": "https://soundcloud.com/refugeworldwide/syn-x-sony-music-kdk-2026-hanaby-24-may-2026-8"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2335458353-refugeworldwide-syn-x-sony-kdk-2026-kaysanova-24-may-2026-7.mp3",
+   "date": "2026-06-17T09:21:18Z",
+   "desc": "🌐 Refuge Worldwide is a radio station and community space based in Berlin-Neukölln. ➡️ More info, more music: www.refugeworldwide.com Help us stay on air by donating to our fundraiser: www.gofundme.com/f/help-refuge-wo…-community-radio",
+   "duration": "00:09:59",
+   "id": "tag:soundcloud-2010:tracks-2335458353",
+   "image": "https://i1.sndcdn.com/artworks-gcYvqWcx8Emc9h3F-Lq01Lw-t3000x3000.jpg",
+   "title": "Sound You Need x Sony Music @ KDK 2026 - KAYSANOVA - 24 May 2026",
+   "url": "https://soundcloud.com/refugeworldwide/syn-x-sony-kdk-2026-kaysanova-24-may-2026-7"
   }
  ],
  "kind": "rss",
  "name": "Refuge Worldwide (selected shows)",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-20T08:42:24Z"
 }
