@@ -26,6 +26,14 @@
    "u": "https://promodj.com/alexeysonar/radioshows/7983960/Alexey_Sonar_SkyTop_Residency_448_448"
   },
   {
+   "d": "2026-10-19T21:00:00Z",
+   "g": "NTS",
+   "s": "Day Care w/ DJ Randy Ellis & The Alaia of CQQL Records",
+   "sid": "nts-day-care",
+   "t": "Day Care w/ Quaid, DJ Randy Ellis, & The Alaia",
+   "u": "https://www.nts.live/shows/day-care/episodes/day-care-19th-october-2026"
+  },
+  {
    "d": "2026-10-19T20:00:00Z",
    "g": "Progressive",
    "s": "Super Progressive Podcast",
@@ -154,19 +162,10 @@
    "sid": "ra-podcast",
    "t": "RA.1061 Andy Martin",
    "u": "https://soundcloud.com/resident-advisor/ra-1061-andy-martin"
-  },
-  {
-   "d": "2026-10-18T19:00:00Z",
-   "g": "Progressive",
-   "s": "Sultan + Shepard: Dialekt Radio",
-   "sid": "dialekt-radio",
-   "sp": "Sultan + Shepard: Dialekt Radio Dialekt Radio #350",
-   "t": "Dialekt Radio #350",
-   "u": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-350-IEdwR7ei"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 128,
+ "newCount": 134,
  "paused": 17,
  "releases": [
   {
@@ -226,6 +225,6 @@
    "u": "https://daily.bandcamp.com/features/chyna-baejing-interview"
   }
  ],
- "sources": 156,
- "updated": "2026-10-20T05:04:44Z"
+ "sources": 179,
+ "updated": "2026-10-20T08:42:00Z"
 }

@@ -1410,6 +1410,213 @@
    "name": "John 00 Fleming: JOOF Radio",
    "spotify": "John 00 Fleming JOOF Radio {num}",
    "url": "https://www.john00fleming.co.uk/mixes/podcasts/Nov08/podcast.xml"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/mutualism",
+   "id": "nts-mutualism",
+   "kind": "nts",
+   "name": "Mutualism",
+   "slug": "mutualism"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/dark-entries-record",
+   "id": "nts-dark-entries-record",
+   "kind": "nts",
+   "name": "DARK ENTRIES w/ Josh Cheon",
+   "slug": "dark-entries-record"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/funkineven",
+   "id": "nts-funkineven",
+   "kind": "nts",
+   "name": "Steven Julien Presents: The Apron Show",
+   "slug": "funkineven"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/day-care",
+   "id": "nts-day-care",
+   "kind": "nts",
+   "name": "Day Care w/ DJ Randy Ellis & The Alaia of CQQL Records",
+   "slug": "day-care"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/secret-sundaze",
+   "id": "nts-secret-sundaze",
+   "kind": "nts",
+   "name": "Secretsundaze",
+   "slug": "secret-sundaze"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/mala-junta",
+   "id": "nts-mala-junta",
+   "kind": "nts",
+   "name": "Mala Junta",
+   "slug": "mala-junta"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris",
+   "id": "nts-canyoufeelthesun-w-call-super-parris",
+   "kind": "nts",
+   "name": "CAN YOU FEEL THE SUN W/ CALL SUPER & PARRIS",
+   "slug": "canyoufeelthesun-w-call-super-parris"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/danielle",
+   "id": "nts-danielle",
+   "kind": "nts",
+   "name": "Danielle",
+   "slug": "danielle"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/zaltan",
+   "id": "nts-zaltan",
+   "kind": "nts",
+   "name": "Antinote w/ Zaltan",
+   "slug": "zaltan"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/the-trilogy-tapes",
+   "id": "nts-the-trilogy-tapes",
+   "kind": "nts",
+   "name": "The Trilogy Tapes",
+   "slug": "the-trilogy-tapes"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/bill-brewster",
+   "id": "nts-bill-brewster",
+   "kind": "nts",
+   "name": "Low Life Loves You w/ Bill Brewster",
+   "slug": "bill-brewster"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/circuits",
+   "id": "nts-circuits",
+   "kind": "nts",
+   "name": "Circuits w/ Olly Chubb",
+   "slug": "circuits"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/kevin-saunderson",
+   "id": "nts-kevin-saunderson",
+   "kind": "nts",
+   "name": "Origins w/ Kevin Saunderson",
+   "slug": "kevin-saunderson"
+  },
+  {
+   "added": "20 Oct",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/motor-system",
+   "id": "nts-motor-system",
+   "kind": "nts",
+   "name": "Motor System",
+   "slug": "motor-system"
+  },
+  {
+   "added": "20 Oct",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/introspekt",
+   "id": "nts-introspekt",
+   "kind": "nts",
+   "name": "Spaces In Between w/ Introspekt",
+   "slug": "introspekt"
+  },
+  {
+   "added": "20 Oct",
+   "group": "Bass",
+   "home": "https://www.nts.live/shows/travs-presents",
+   "id": "nts-travs-presents",
+   "kind": "nts",
+   "name": "TRAVS PRESENTS",
+   "slug": "travs-presents"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/calm-roots",
+   "id": "nts-calm-roots",
+   "kind": "nts",
+   "name": "Calm Roots w/ Alex Rita",
+   "slug": "calm-roots"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/space-afrika",
+   "id": "nts-space-afrika",
+   "kind": "nts",
+   "name": "Space Afrika",
+   "slug": "space-afrika"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/moin",
+   "id": "nts-moin",
+   "kind": "nts",
+   "name": "Moin",
+   "slug": "moin"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/carmen-villain",
+   "id": "nts-carmen-villain",
+   "kind": "nts",
+   "name": "Omriss w/ Carmen Villain",
+   "slug": "carmen-villain"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/soundsofthedawn",
+   "id": "nts-soundsofthedawn",
+   "kind": "nts",
+   "name": "Sounds Of The Dawn",
+   "slug": "soundsofthedawn"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/organic-music",
+   "id": "nts-organic-music",
+   "kind": "nts",
+   "name": "Organic Music Tokyo w/ Chee Shimizu",
+   "slug": "organic-music"
+  },
+  {
+   "added": "20 Oct",
+   "group": "NTS",
+   "home": "https://www.nts.live/shows/alexander-nut",
+   "id": "nts-alexander-nut",
+   "kind": "nts",
+   "name": "Alexander Nut",
+   "slug": "alexander-nut"
   }
  ]
 }

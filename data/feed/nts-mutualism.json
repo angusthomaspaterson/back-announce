@@ -1,0 +1,129 @@
+{
+ "home": "https://www.nts.live/shows/mutualism",
+ "id": "nts-mutualism",
+ "items": [
+  {
+   "date": "2026-10-03T18:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
+   "id": "mutualism-3rd-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/ff545b71-2a45-428a-a00e-168e5ceebf70_1790899200.jpeg",
+   "location": "Manchester",
+   "tags": "Dub Techno, Leftfield Techno, Ambient Techno",
+   "title": "Mutualism w/ BFTT",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-3rd-october-2026"
+  },
+  {
+   "date": "2026-09-05T18:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration. From the host: \"Playing tunes exclusively found on or through discord servers - Klang Academy, Oneohtrix Point Never, Iglooghost, SHYGIRL, Ninajirachi, Giant Claw, Mumdance, WWW - https://discord.gg/nts-chat represent your server - Thanks for sending your tune/letting me play it\"",
+   "id": "mutualism-5th-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/2854303f-996e-40a3-b8d3-d235e18b4ec7_1788480000.png",
+   "location": "Manchester",
+   "tags": "Electronica, Experimental, Ambient",
+   "title": "Mutualism w/ Kore-S. Presenting “Discordia I”",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-5th-september-2026"
+  },
+  {
+   "date": "2026-08-08T18:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration. From the host: \"Murky dancefloor mutations and experimental sounds from Clemency.\"",
+   "id": "mutualism-8th-august-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/ff81bf3e-87c1-41d1-90fc-385654f5af49_1786147200.jpeg",
+   "location": "Manchester",
+   "tags": "Leftfield Techno, Dub, Bass",
+   "title": "Mutualism w/ Clemency",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-8th-august-2026"
+  },
+  {
+   "date": "2026-07-11T18:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration. From the host: \"Muggy House and pitched down Techno for the heatwave avoiders\"",
+   "id": "mutualism-11th-july-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/fb71639d-94b7-4d0a-abf8-19722ffd7532_1783641600.jpeg",
+   "location": "Manchester",
+   "tags": "Techno, Leftfield House",
+   "title": "Mutualism W/ BFTT",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-11th-july-2026"
+  },
+  {
+   "date": "2026-06-13T18:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
+   "id": "mutualism-13th-june-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/3febca46-1363-4e6a-b2ee-c1232e8aff10_1781222400.jpeg",
+   "location": "Manchester",
+   "tags": "Folk, Experimental, Ambient",
+   "title": "Mutualism w/ BFTT",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-13th-june-2026"
+  },
+  {
+   "date": "2026-05-16T18:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
+   "id": "mutualism-16th-may-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/1eb4d7d6-0a54-4592-a6ac-186ba6e34148_1778889600.jpeg",
+   "location": "Manchester",
+   "tags": "Bass, Experimental, Leftfield Techno",
+   "title": "Mutualism w/ Clemency",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-16th-may-2026"
+  },
+  {
+   "date": "2026-04-18T18:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
+   "id": "mutualism-18th-april-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/99800928-dcff-485c-8794-e2365e97e105_1776297600.jpeg",
+   "location": "Manchester",
+   "tags": "Bass, Ambient, Leftfield Techno",
+   "title": "Mutualism",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-18th-april-2026"
+  },
+  {
+   "date": "2026-03-21T19:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration. From the host: \"Egg Meat take over the show in celebration of their debut album ' The most Pathetic poem is small people on fire' out this week!\"",
+   "id": "mutualism-21st-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/5507259a-2581-4d05-b4ec-68aeecdd014e_1773878400.jpeg",
+   "location": "Manchester",
+   "tags": "Experimental, Leftfield Techno",
+   "title": "Mutualism w/ Egg Meat",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-21st-march-2026"
+  },
+  {
+   "date": "2026-02-21T19:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration. From the host: \"I feel like the apocalypse is creeping under the door, UK rappers always know how to soundtrack the apocalypse, thus and therefore.\"",
+   "id": "mutualism-21st-february-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/22528346-8193-4f46-a3d8-a68435890279_1571788800.jpeg",
+   "location": "Manchester",
+   "tags": "Rap, Trap",
+   "title": "Mutualism w/ Iceboy Violet",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-21st-february-2026"
+  },
+  {
+   "date": "2026-01-24T19:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
+   "id": "mutualism-24th-january-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/d5439009-cd36-449d-a9df-c71faabc6ac7_1769212800.jpeg",
+   "location": "Manchester",
+   "tags": "Electronica, Club, Hyperpop",
+   "title": "Mutualism w/ Kore S",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-24th-january-2026"
+  },
+  {
+   "date": "2025-11-29T19:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
+   "id": "mutualism-29th-november-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/dee70468-aeae-4e67-b377-6bbc6bcb9dde_1764460800.png",
+   "location": "Manchester",
+   "tags": "Experimental, Drone, Musique Concrete, Noise",
+   "title": "Mutualism w/ In Atoms",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-29th-november-2025"
+  },
+  {
+   "date": "2025-11-01T19:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
+   "id": "mutualism-1st-november-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0fc55d81-8142-4b56-9285-407c38e2d71c_1761955200.jpeg",
+   "location": "Manchester",
+   "tags": "Punk, Bass, Industrial , Dancehall",
+   "title": "Mutualism w/ Clemency",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-1st-november-2025"
+  }
+ ],
+ "kind": "nts",
+ "name": "Mutualism",
+ "updatedAt": "2026-10-20T08:42:00Z"
+}

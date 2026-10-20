@@ -1,0 +1,129 @@
+{
+ "home": "https://www.nts.live/shows/the-trilogy-tapes",
+ "id": "nts-the-trilogy-tapes",
+ "items": [
+  {
+   "date": "2026-10-12T16:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-12th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/bf3dc527-4ad0-4660-8541-6e6351f9d802_1791763200.jpeg",
+   "location": "London",
+   "tags": "Experimental, Modern Classical, Minimalism, Musique Concrete",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-12th-october-2026"
+  },
+  {
+   "date": "2026-09-14T16:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-14th-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/21eb7feb-67b8-4527-be61-687e930d238a_1789344000.jpeg",
+   "location": "London",
+   "tags": "Folk, Soul, Experimental, Modern Classical",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-14th-september-2026"
+  },
+  {
+   "date": "2026-08-17T16:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-17th-august-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0f2fb867-9720-4c9f-a6aa-6ed0788f7f46_1786924800.jpeg",
+   "location": "London",
+   "tags": "Experimental, Grindcore, Ghetto House, Modern Classical",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-17th-august-2026"
+  },
+  {
+   "date": "2026-07-20T16:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-20th-july-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/f292b323-1506-41a1-a6d4-beb67ddbe705_1784505600.jpeg",
+   "location": "London",
+   "tags": "Experimental, Grindcore, Modern Classical, Musique Concrete",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-20th-july-2026"
+  },
+  {
+   "date": "2026-06-22T16:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-22nd-june-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/15b75c6b-48d3-4f5f-bfe4-8df032f4dbc7_1782086400.jpeg",
+   "location": "London",
+   "tags": "Modern Classical, Musique Concrete, Folk, Experimental",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-22nd-june-2026"
+  },
+  {
+   "date": "2026-05-25T16:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-25th-may-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/45e8cdd7-cd3c-4906-a684-764ba1de7061_1779580800.jpeg",
+   "location": "London",
+   "tags": "Folk, Experimental, Minimalism, New Age",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-25th-may-2026"
+  },
+  {
+   "date": "2026-04-27T16:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-27th-april-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/272479f0-c971-463e-b5de-612515189f1c_1777248000.jpeg",
+   "location": "London",
+   "tags": "New Age, Free Jazz, Folk, Experimental",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-27th-april-2026"
+  },
+  {
+   "date": "2026-03-30T16:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-30th-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/fc04ee68-ff3d-486f-b52c-f63894e6d03f_1774828800.jpeg",
+   "location": "London",
+   "tags": "Classical",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-30th-march-2026"
+  },
+  {
+   "date": "2026-03-02T17:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-2nd-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/3ca757bb-cba3-42ad-92e0-8561b7ce06d7_1772409600.jpeg",
+   "location": "London",
+   "tags": "Experimental, Black Metal, Drone, Musique Concrete",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-2nd-march-2026"
+  },
+  {
+   "date": "2026-02-02T17:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-2nd-february-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0794572f-aee1-40a9-b3c9-8847b3c2e85a_1769990400.jpeg",
+   "location": "London",
+   "tags": "Experimental, Modern Classical, Minimalism, Free Jazz",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-2nd-february-2026"
+  },
+  {
+   "date": "2026-01-05T17:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-5th-january-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/311d6932-3ab8-4b94-a0e4-75b4fd2cd474_1767571200.jpeg",
+   "location": "London",
+   "tags": "Experimental, Black Metal, Minimalism, Indian Classical",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-5th-january-2026"
+  },
+  {
+   "date": "2025-12-08T17:00:00Z",
+   "desc": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
+   "id": "the-trilogy-tapes-8th-december-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/6342a7fa-b49a-4f26-bad6-6d6a1e06cca4_1765152000.jpeg",
+   "location": "London",
+   "tags": "Experimental, Modern Classical, Musique Concrete",
+   "title": "The Trilogy Tapes",
+   "url": "https://www.nts.live/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-8th-december-2025"
+  }
+ ],
+ "kind": "nts",
+ "name": "The Trilogy Tapes",
+ "updatedAt": "2026-10-20T08:42:00Z"
+}

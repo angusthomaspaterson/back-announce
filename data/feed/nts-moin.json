@@ -1,0 +1,129 @@
+{
+ "home": "https://www.nts.live/shows/moin",
+ "id": "nts-moin",
+ "items": [
+  {
+   "date": "2026-09-08T11:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-8th-september-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/cba4d69d-64bb-413c-bb57-7b60969fefcd_1788134400.jpeg",
+   "location": "London",
+   "tags": "Dub Techno, Ambient, Dub",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-8th-september-2026"
+  },
+  {
+   "date": "2026-07-14T11:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-14th-july-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/451995b4-f267-4b11-a852-c31be29b0dfb_1783900800.jpeg",
+   "location": "London",
+   "tags": "Ambient, Leftfield Techno, Dub",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-14th-july-2026"
+  },
+  {
+   "date": "2026-05-19T11:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-19th-may-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/84d4b48f-4358-4aa0-b3df-7635bd72d15b_1779148800.jpeg",
+   "location": "London",
+   "tags": "Post Punk, Ambient, Leftfield Techno, Dub",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-19th-may-2026"
+  },
+  {
+   "date": "2026-03-24T12:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-24th-march-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/44acafa4-5924-4f4a-8403-c7598c654f29_1774224000.jpeg",
+   "location": "London",
+   "tags": "Electronica, Ambient, Leftfield Techno",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-24th-march-2026"
+  },
+  {
+   "date": "2026-01-27T12:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-27th-january-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/be4952e8-1c67-4a6c-b586-059f12b42bf9_1769385600.png",
+   "location": "London",
+   "tags": "Post Rock, Shoegaze, Industrial , Leftfield Techno",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-27th-january-2026"
+  },
+  {
+   "date": "2025-12-02T12:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-2nd-december-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/92e05869-e707-4536-b00f-446f46f528a7_1764547200.jpeg",
+   "location": "London",
+   "tags": "Bass, Trip Hop, Ambient, Dub",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-2nd-december-2025"
+  },
+  {
+   "date": "2025-10-07T11:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-7th-october-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/b6c11922-1070-4f37-b7f6-9919450cad9d_1759708800.jpeg",
+   "location": "London",
+   "tags": "Experimental, Leftfield Techno, Dub, Art Rock",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-7th-october-2025"
+  },
+  {
+   "date": "2025-08-12T11:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-12th-august-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/f68c5379-572e-4786-8767-1142fd804ad2_1754870400.jpeg",
+   "location": "London",
+   "tags": "Electronica, Experimental, Ambient",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-12th-august-2025"
+  },
+  {
+   "date": "2025-06-17T11:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-17th-june-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0fe2e63c-1e2e-4cb7-948a-00957667a2b0_1750118400.jpeg",
+   "location": "London",
+   "tags": "Experimental, Leftfield Pop, Art Rock",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-17th-june-2025"
+  },
+  {
+   "date": "2025-04-22T11:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-22nd-april-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/a0c056f9-da3e-4ff0-9acc-eca4aab3948c_1745280000.jpeg",
+   "location": "London",
+   "tags": "Electronica, Experimental, Leftfield Pop",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-22nd-april-2025"
+  },
+  {
+   "date": "2025-02-25T12:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-25th-february-2025",
+   "image": "https://media.ntslive.co.uk/resize/400x400/10091471-71b1-40bc-9135-ca81859093e6_1740441600.jpeg",
+   "location": "London",
+   "tags": "Electronica, Experimental, Leftfield Pop, Art Rock",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-25th-february-2025"
+  },
+  {
+   "date": "2024-11-05T14:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-5th-november-2024",
+   "image": "https://media.ntslive.co.uk/resize/400x400/f660d3b5-156b-426d-bee4-4e5afcb09296_1730851200.jpeg",
+   "location": "London",
+   "tags": "Post Punk, Indie Rock, Art Rock, Dream Pop",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-5th-november-2024"
+  }
+ ],
+ "kind": "nts",
+ "name": "Moin",
+ "updatedAt": "2026-10-20T08:42:00Z"
+}
