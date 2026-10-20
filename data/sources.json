@@ -1400,6 +1400,16 @@
    "name": "SkyTop Residency (Alexey Sonar)",
    "spotify": "Alexey Sonar SkyTop Residency {num}",
    "url": "https://promodj.com/alexeysonar/rss.xml"
+  },
+  {
+   "added": "20 Oct",
+   "group": "Progressive",
+   "home": "https://www.john00fleming.com",
+   "id": "joof-radio",
+   "kind": "rss",
+   "name": "John 00 Fleming: JOOF Radio",
+   "spotify": "John 00 Fleming JOOF Radio {num}",
+   "url": "https://www.john00fleming.co.uk/mixes/podcasts/Nov08/podcast.xml"
   }
  ]
 }
