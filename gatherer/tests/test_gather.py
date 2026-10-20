@@ -263,6 +263,8 @@ class SelectSources(unittest.TestCase):
         self.assertEqual(ids(gather.select_sources(self.SRC, skip="Substack.com")), ["c"])
         self.assertEqual(ids(gather.select_sources(self.SRC, only="c, a")), ["a", "c"])
         self.assertEqual(ids(gather.select_sources(self.SRC)), ["a", "b", "c"])
+        self.assertEqual(ids(gather.select_sources(self.SRC, match="substack.com, nts.live")), ["a", "b", "c"])
+        self.assertEqual(ids(gather.select_sources(self.SRC, skip="substack.com,nts.live")), [])
 
 
 class Run(unittest.TestCase):

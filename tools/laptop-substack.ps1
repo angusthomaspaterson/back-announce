@@ -1,9 +1,10 @@
-# Back Announce: gather the Substack sources from this laptop.
+# Back Announce: gather the Substack and YouTube sources from this laptop.
 #
-# Substack refuses requests from GitHub's servers, so this script runs on
-# Angus's laptop as a scheduled task (see install-laptop-task.ps1). It keeps
-# its own clone of the repository under %LOCALAPPDATA%\BackAnnounce\repo,
-# gathers only the sources whose address contains "substack.com", commits
+# Substack and YouTube refuse requests from GitHub's servers, so this script
+# runs on Angus's laptop as a scheduled task (see install-laptop-task.ps1). It
+# keeps its own clone of the repository under %LOCALAPPDATA%\BackAnnounce\repo,
+# gathers only the sources whose address contains "substack.com" or
+# "youtube.com", commits
 # and pushes. If the push is rejected because GitHub or an app pushed first,
 # it starts again from the newest commit. Everything it does is logged to
 # %LOCALAPPDATA%\BackAnnounce\laptop-substack.log.
@@ -45,7 +46,7 @@ $done = $false
 for ($attempt = 1; $attempt -le 3 -and -not $done; $attempt++) {
     & $git fetch -q origin 2>&1 | ForEach-Object { Log "  fetch: $_" }
     & $git reset -q --hard origin/main 2>&1 | ForEach-Object { Log "  reset: $_" }
-    $out = & $python gatherer/gather.py --data data --match substack.com 2>&1
+    $out = & $python gatherer/gather.py --data data --match substack.com,youtube.com 2>&1
     $out | Where-Object { "$_" -match '^(FAIL|done)' } | ForEach-Object { Log "  $_" }
     & $git add data/feed data/status.json data/bundle.json data/glance.json
     # Commit only when an item or a source's result changed, not just the run times.
@@ -54,9 +55,9 @@ for ($attempt = 1; $attempt -le 3 -and -not $done; $attempt++) {
     $statusChanged = @(& $git diff --cached -U0 -- data/status.json | Where-Object { $_ -match '^[+-]\s+"' -and $_ -notmatch '"(at|lastRun)":' }).Count -gt 0
     if (-not $feedChanged -and -not $statusChanged) { Log 'nothing changed'; $done = $true; break }
     $stamp = (Get-Date).ToString('ddd d MMM HH:mm', [Globalization.CultureInfo]::InvariantCulture) + ' AWST'
-    & $git commit -q -m "feed: refresh Substack $stamp (laptop)" 2>&1 | ForEach-Object { Log "  commit: $_" }
+    & $git commit -q -m "feed: refresh Substack and YouTube $stamp (laptop)" 2>&1 | ForEach-Object { Log "  commit: $_" }
     & $git push -q 2>&1 | ForEach-Object { Log "  push: $_" }
-    if ($LASTEXITCODE -eq 0) { Log "pushed: feed: refresh Substack $stamp (laptop)"; $done = $true }
+    if ($LASTEXITCODE -eq 0) { Log "pushed: feed: refresh Substack and YouTube $stamp (laptop)"; $done = $true }
     else { Log "push rejected (attempt $attempt), starting again from the newest commit" }
 }
 if (-not $done) { Log 'ERROR gave up after 3 attempts' }

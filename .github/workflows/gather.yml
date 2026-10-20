@@ -32,8 +32,8 @@ jobs:
         run: python3 -m unittest discover -s gatherer/tests
 
       - name: Gather, commit and push
-        # Substack refuses requests from GitHub's servers, so those sources are
-        # gathered by the helper on Angus's laptop (tools/laptop-substack.ps1).
+        # Substack and YouTube refuse requests from GitHub's servers, so those sources
+        # are gathered by the helper on Angus's laptop (tools/laptop-substack.ps1).
         # If the push is rejected because the apps or the laptop pushed first,
         # start again from the newest commit rather than trying to merge.
         env:
@@ -42,7 +42,7 @@ jobs:
           git config user.name "Back Announce gatherer"
           git config user.email "gatherer@users.noreply.github.com"
           for attempt in 1 2 3 4 5; do
-            python3 gatherer/gather.py --data data --skip substack.com
+            python3 gatherer/gather.py --data data --skip substack.com,youtube.com
             git add data/feed data/status.json data/bundle.json data/glance.json
             if git diff --cached --quiet; then
               echo "Nothing changed."

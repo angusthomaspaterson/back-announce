@@ -530,10 +530,12 @@ def select_sources(sources, only="", match="", skip=""):
     if only:
         wanted = set(x.strip() for x in only.split(",") if x.strip())
         sources = [s for s in sources if s["id"] in wanted]
+    # --match and --skip take one or more comma-separated pieces of address.
+    pieces = lambda text: [p.strip().lower() for p in text.split(",") if p.strip()]  # noqa: E731
     if match:
-        sources = [s for s in sources if match.lower() in where(s)]
+        sources = [s for s in sources if any(p in where(s) for p in pieces(match))]
     if skip:
-        sources = [s for s in sources if skip.lower() not in where(s)]
+        sources = [s for s in sources if not any(p in where(s) for p in pieces(skip))]
     return sources
 
 
