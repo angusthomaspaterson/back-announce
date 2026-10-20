@@ -52,6 +52,37 @@ class ParseRss(unittest.TestCase):
         self.assertTrue(items[0]["url"].startswith("https://github.com/python/cpython/releases/tag/"))
         self.assertRegex(items[0]["date"], r"^\d{4}-\d{2}-\d{2}T")
 
+    def test_youtube_channel_feed(self):
+        src = {"id": "ulf", "name": "Underground Live Forever", "kind": "rss", "url": "x",
+               "match": r"^Underground Live Forever - ULF\d", "spotify": "Underground Live Forever Episode {num}"}
+        items = gather.parse_rss(fixture("youtube-uv.atom"), src)
+        self.assertEqual(len(items), 15)
+        self.assertTrue(all(i["url"].startswith(("https://www.youtube.com/watch?v=", "https://www.youtube.com/shorts/")) for i in items))
+        self.assertTrue(all(i["image"].startswith("https://i") for i in items), "thumbnails come through")
+        self.assertTrue(any(i["desc"] for i in items), "descriptions come through")
+        kept = gather.finish(items, src, now=datetime.datetime(2026, 10, 20, tzinfo=datetime.timezone.utc))
+        titles = [i["title"] for i in kept]
+        self.assertTrue(titles and all(t.startswith("Underground Live Forever - ULF") for t in titles), titles)
+        self.assertNotIn("Underground Live Forever teaser - Luke Brancaccio", titles)
+        self.assertEqual(titles[0], "Underground Live Forever - ULF045: UV's 350th release celebratory mix by Paul Thomas")
+        self.assertEqual(gather.spotify_query(src, kept[0]), "Underground Live Forever Episode 045")
+
+    def test_accumulate_keeps_earlier_items(self):
+        src = {"id": "ulf", "name": "ULF", "kind": "rss", "url": "x", "match": r"^Underground Live Forever - ULF\d", "accumulate": True}
+        old = [gather.item("yt:video:old1", "Underground Live Forever - ULF030", "https://www.youtube.com/watch?v=old1", "2026-07-07T18:00:00Z"),
+               gather.item("yt:video:old2", "Underground Live Forever teaser - someone", "https://www.youtube.com/watch?v=old2", "2026-07-06T18:00:00Z")]
+        out = gather.gather_one(src, lambda u, timeout=25: fixture("youtube-uv.atom"), old, "2026-10-20T00:00:00Z")
+        titles = [i["title"] for i in out]
+        self.assertIn("Underground Live Forever - ULF030", titles, "earlier episodes stay")
+        self.assertNotIn("Underground Live Forever teaser - someone", titles, "the filter still applies")
+        self.assertEqual(len(titles), len(set(i["id"] for i in out)))
+        self.assertEqual(titles[0], "Underground Live Forever - ULF045: UV's 350th release celebratory mix by Paul Thomas")
+
+    def test_spotify_template_needs_a_number_when_it_asks_for_one(self):
+        self.assertEqual(gather.spotify_template("SkyTop Residency {num}", "Alexey Sonar - SkyTop Residency 448 #448"), "SkyTop Residency 448")
+        self.assertIsNone(gather.spotify_template("SkyTop Residency {num}", "SkyFall Autumn (DJ Mix)"))
+        self.assertEqual(gather.spotify_template("{title}", "A mix"), "A mix")
+
     def test_description_is_stripped_and_capped(self):
         self.assertEqual(gather.strip("<p>Hello &amp;   world</p>"), "Hello & world")
         self.assertEqual(len(gather.strip("x" * 1000)), 600)

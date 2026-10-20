@@ -1378,6 +1378,28 @@
    "kind": "manual",
    "name": "Anjunadeep releases",
    "upcoming": true
+  },
+  {
+   "accumulate": true,
+   "added": "20 Oct",
+   "group": "Progressive",
+   "home": "https://www.youtube.com/@officialuvmusic",
+   "id": "underground-live-forever",
+   "kind": "rss",
+   "match": "^Underground Live Forever - ULF\\d",
+   "name": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
+   "spotify": "Underground Live Forever Episode {num}",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8XJQOVDGXlzWRBz9hF2QRQ"
+  },
+  {
+   "added": "20 Oct",
+   "group": "Progressive",
+   "home": "https://promodj.com/alexeysonar",
+   "id": "skytop-residency",
+   "kind": "rss",
+   "name": "SkyTop Residency (Alexey Sonar)",
+   "spotify": "Alexey Sonar SkyTop Residency {num}",
+   "url": "https://promodj.com/alexeysonar/rss.xml"
   }
  ]
 }

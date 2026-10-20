@@ -89,6 +89,12 @@ function savedList() {
 function spotifyLink(it) {
   if (it.linkOnly) return null;
   const c = cfgFor(it.sid) || {};
+  if (c.spotify) {
+    // A source can name its Spotify search: {title}, and {num} for the episode number.
+    const m = String(it.title || '').match(/(\d{2,4})/);
+    if (c.spotify.includes('{num}') && !m) return null;
+    return spotifySearch(c.spotify.replace('{title}', it.title || '').replace('{num}', m ? m[1] : ''));
+  }
   if (c.upcoming) return spotifySearch(it.title);
   const feed = c.url || '';
   if (it.audio && c.kind === 'rss' && !/soundcloud\.com/i.test(feed + ' ' + it.audio)) return spotifySearch(`${it.sname} ${it.title}`);

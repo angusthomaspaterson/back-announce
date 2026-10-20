@@ -182,8 +182,11 @@ def parse_rss(data, src):
                     link = le.get("href") or ""
                     break
             date = parse_date(_text(e, "atom:published") or _text(e, "atom:updated"))
-            desc = _text(e, "atom:summary") or _text(e, "atom:content")
-            out.append(item(_text(e, "atom:id") or link, title, link, date, desc))
+            # YouTube channel feeds keep the description and thumbnail in a media:group.
+            desc = _text(e, "atom:summary") or _text(e, "atom:content") or _text(e, "media:group/media:description")
+            thumb = e.find("media:group/media:thumbnail", NS)
+            out.append(item(_text(e, "atom:id") or link, title, link, date, desc,
+                            {"image": thumb.get("url")} if thumb is not None and thumb.get("url") else None))
     return out
 
 
@@ -417,6 +420,11 @@ def finish(items, src, now=None):
     """
     horizon = iso((now or datetime.datetime.now(UTC)) + datetime.timedelta(days=1))
     items = [i for i in items if i.get("url") and not (i.get("date") and i["date"] > horizon)]
+    if src.get("match"):
+        # Keep only the titles this regex matches, e.g. the full episodes in a channel that
+        # also posts single tracks and teasers.
+        keep = re.compile(src["match"], re.I)
+        items = [i for i in items if keep.search(i.get("title") or "")]
     if src.get("image"):
         for i in items:
             if not i.get("image"):
@@ -435,6 +443,11 @@ def finish(items, src, now=None):
 
 def gather_one(src, fetcher=fetch, prev_items=None, now=None):
     items = KINDS[src["kind"]](src, fetcher)
+    if src.get("accumulate") and prev_items:
+        # The source's feed only shows its latest few (a YouTube channel shows 15 uploads),
+        # so keep earlier items too; finish() still keeps the newest 25.
+        ids = {i["id"] for i in items}
+        items = items + [dict(i) for i in prev_items if i.get("id") not in ids]
     if src.get("upcoming"):
         items = settle_upcoming(items, prev_items, now or iso(datetime.datetime.now(UTC)))
     return finish(items, src)
@@ -472,7 +485,7 @@ def run(sources, feed_dir, status_path, fetcher=fetch, workers=WORKERS, now=None
 
     def work(src):
         try:
-            prev = load_json(os.path.join(feed_dir, f"{src['id']}.json"), None) if src.get("upcoming") else None
+            prev = load_json(os.path.join(feed_dir, f"{src['id']}.json"), None) if (src.get("upcoming") or src.get("accumulate")) else None
             return src, gather_one(src, fetcher, (prev or {}).get("items"), now), None
         except Exception as e:  # noqa: BLE001 - any failure keeps the old file
             return src, None, f"{type(e).__name__}: {e}"[:200]
@@ -545,8 +558,18 @@ def write_bundle(data_dir):
     return bundle
 
 
+def spotify_template(template, title):
+    """Fill a source's Spotify search template: {title}, and {num} for the episode number."""
+    m = re.search(r"(\d{2,4})", title or "")
+    if "{num}" in template and not m:
+        return None
+    return template.replace("{title}", title or "").replace("{num}", m.group(1) if m else "").strip()
+
+
 def spotify_query(src, it):
     """What to search Spotify for, matching the web app: podcast episodes and release schedules."""
+    if src.get("spotify"):
+        return spotify_template(src["spotify"], it.get("title"))
     if src.get("upcoming"):
         return it.get("title") or None
     feed = src.get("url") or ""

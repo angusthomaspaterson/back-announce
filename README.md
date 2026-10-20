@@ -97,7 +97,7 @@ The tests read saved copies of real feeds from `gatherer/tests/fixtures/` and ne
 {"id": "nts-moxie", "name": "Moxie", "kind": "nts", "group": "NTS", "home": "https://www.nts.live/shows/moxie", "added": "start", "slug": "moxie"}
 ```
 
-`kind` is one of `rss` (needs `url`), `nts` (needs `slug`), `rinse` (needs `slug`), `mixcloud` (needs `user`) or `manual` (a web page read from `home`: Bandcamp Daily, Bandcamp Radio, or Anjunadeep's release list at anjunadeep.com/music). Optional: `rollup` folds matching titles into one item per day, `image` is a fallback picture, and `upcoming: true` (for a release schedule) dates an unreleased item by when it was first seen, so it appears when announced and returns to the top on release day.
+`kind` is one of `rss` (needs `url`), `nts` (needs `slug`), `rinse` (needs `slug`), `mixcloud` (needs `user`) or `manual` (a web page read from `home`: Bandcamp Daily, Bandcamp Radio, or Anjunadeep's release list at anjunadeep.com/music). Optional: `rollup` folds matching titles into one item per day, `image` is a fallback picture, and `upcoming: true` (for a release schedule) dates an unreleased item by when it was first seen, so it appears when announced and returns to the top on release day. `match` keeps only the titles a regex matches (for a YouTube channel that also posts single tracks and teasers), `accumulate: true` keeps earlier items when the feed only shows its latest few (YouTube channel feeds show 15 uploads), and `spotify` names the Spotify search for the app's Spotify button, with `{title}` and `{num}` (the episode number) filled in.
 
 **A feed file** (`data/feed/<id>.json`):
 
