@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-20T17:31:25Z",
+   "desc": "The electronic legend’s most misunderstood album was ahead of its time—but not anymore.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-man-vs-machine-aphex-twin-drukqs",
+   "image": "https://substackcdn.com/image/fetch/$s_!UWy7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c05bff9-be5b-4665-80d3-0bee63d41643_1200x1200.png",
+   "title": "Man Vs. Machine: Aphex Twin’s Drukqs at 25",
+   "url": "https://www.powmag.net/p/man-vs-machine-aphex-twin-drukqs"
+  },
+  {
+   "audio": null,
    "date": "2026-10-19T17:32:44Z",
    "desc": "The legendary Harlem rapper will be honored by the Paid In Full Foundation this weekend in Las Vegas.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!aU0m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b165d74-dc4e-4b6a-b48a-9afcff41f5a3_1200x1200.png",
    "title": "(Don’t) Enjoy Your Stay",
    "url": "https://www.powmag.net/p/protomartyr-hotel-usona-review"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-26T14:03:03Z",
-   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Harley Geffner reviews new work from JRedie, 50Droppin, Sayy Dat, and more.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-never-stop-wiping-me-down-the-rap",
-   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/GlLAP7FwC4E",
-   "title": "Never Stop Wiping Me Down",
-   "url": "https://www.powmag.net/p/never-stop-wiping-me-down-the-rap"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-20T23:56:21Z"
 }

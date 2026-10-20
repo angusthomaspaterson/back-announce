@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-20T17:51:53Z",
+   "desc": "The post Album Of The Week: Josh Johnson <em>Animative</em> appeared first on Stereogum .",
+   "duration": null,
+   "id": "https:--stereogum.com--p-2515021",
+   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Animative.jpg?w=564",
+   "title": "Album Of The Week: Josh Johnson Animative",
+   "url": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-13T14:38:41Z",
    "desc": "The post Album Of The Week: Sophia Stel <em>the greatest album of all time</em> appeared first on Stereogum .",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/Train-On-The-Island.png?w=564",
    "title": "Album Of The Week: Aldous Harding Train On The Island",
    "url": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/"
-  },
-  {
-   "audio": null,
-   "date": "2026-04-28T16:01:05Z",
-   "desc": "The post Album Of The Week: Lip Critic <em>Theft World</em> appeared first on Stereogum .",
-   "duration": null,
-   "id": "https:--stereogum.com--p-2497108",
-   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Theft-World.jpg?w=564",
-   "title": "Album Of The Week: Lip Critic Theft World",
-   "url": "https://stereogum.com/2497108/album-of-the-week-lip-critic-theft-world/reviews/album-of-the-week/"
   }
  ],
  "kind": "rss",
  "name": "Stereogum: Album of the Week",
- "updatedAt": "2026-10-13T22:50:30Z"
+ "updatedAt": "2026-10-20T23:56:21Z"
 }

@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "d": "2026-10-20T23:00:00Z",
+   "g": "Podcasts",
+   "s": "Tape Notes",
+   "sid": "tape-notes",
+   "sp": "Tape Notes TN:192 Troye Sivan & Tyde Levi",
+   "t": "TN:192 Troye Sivan & Tyde Levi",
+   "u": "https://traffic.megaphone.fm/TNL8863906564.mp3"
+  },
+  {
    "d": "2026-10-20T18:00:33Z",
    "g": "Progressive",
    "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
@@ -8,6 +17,14 @@
    "sp": "Underground Live Forever Episode 046",
    "t": "Underground Live Forever - ULF046",
    "u": "https://www.youtube.com/watch?v=zXmFFPzy2ag"
+  },
+  {
+   "d": "2026-10-20T17:51:53Z",
+   "g": "Writing",
+   "s": "Stereogum: Album of the Week",
+   "sid": "stereogum-aotw",
+   "t": "Album Of The Week: Josh Johnson Animative",
+   "u": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/"
   },
   {
    "d": "2026-10-20T16:46:54Z",
@@ -24,6 +41,41 @@
    "sid": "futurism-restated",
    "t": "FR 195: Sketches and Structures",
    "u": "https://futurismrestated.substack.com/p/fr-195-sketches-and-structures"
+  },
+  {
+   "d": "2026-10-20T09:38:23Z",
+   "g": "Writing",
+   "s": "Inverted Audio",
+   "sid": "inverted-audio",
+   "t": "Premiere: Sven Tasnadi – Explorer",
+   "u": "https://inverted-audio.com/premiere-sven-tasnadi-explorer/"
+  },
+  {
+   "d": "2026-10-20T09:31:00Z",
+   "g": "Podcasts",
+   "s": "Dissect",
+   "sid": "dissect",
+   "sp": "Dissect J. Cole's Best Features Dissected Line-By-Line",
+   "t": "J. Cole's Best Features Dissected Line-By-Line",
+   "u": "https://traffic.megaphone.fm/GLT3996329891.mp3"
+  },
+  {
+   "d": "2026-10-20T09:00:00Z",
+   "g": "Radio",
+   "s": "NPR: All Songs Considered",
+   "sid": "all-songs-considered",
+   "sp": "NPR: All Songs Considered The rapturous, heartbreaking story of Elephant 6",
+   "t": "The rapturous, heartbreaking story of Elephant 6",
+   "u": "https://www.npr.org/2026/10/20/nx-s1-6008050/the-rapturous-heartbreaking-story-of-elephant-6"
+  },
+  {
+   "d": "2026-10-20T09:00:00Z",
+   "g": "Podcasts",
+   "s": "The Pitchfork Review",
+   "sid": "pitchfork-review",
+   "sp": "The Pitchfork Review From One More Question: Prince Harry",
+   "t": "From One More Question: Prince Harry",
+   "u": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE8413288429.mp3"
   },
   {
    "d": "2026-10-20T07:03:01Z",
@@ -69,6 +121,22 @@
    "u": "https://mixmag.net.au/read/pitch-music-arts-reveals-2027-lineup-for-its-tenth-edition-news"
   },
   {
+   "d": "2026-10-20T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "How Dev Lemons Is the Nathan Fielder of Music",
+   "u": "https://daily.bandcamp.com/features/dev-lemons-hunting-what-we-already-killed-feature"
+  },
+  {
+   "d": "2026-10-20T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Shabazz Palaces, “It’s A Style Sport”",
+   "u": "https://daily.bandcamp.com/album-of-the-day/shabazz-palaces-its-a-style-sport-review"
+  },
+  {
    "d": "2026-10-19T22:45:00Z",
    "g": "Progressive",
    "s": "SkyTop Residency (Alexey Sonar)",
@@ -101,75 +169,10 @@
    "sid": "days-like-nights",
    "t": "DAYS like NIGHTS 466 - Stereo Montreal. Part 4",
    "u": "https://soundcloud.com/eelke-kleijn/days-like-nights-466-stereo"
-  },
-  {
-   "d": "2026-10-19T08:33:23Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 19 Oct: 3 records",
-   "u": "https://firstfloor.substack.com/p/lamin-fofana-corps-perdu"
-  },
-  {
-   "d": "2026-10-19T08:00:00Z",
-   "g": "Progressive",
-   "s": "Nora En Pure: Purified Radio",
-   "sid": "nora-en-pure",
-   "sp": "Nora En Pure: Purified Radio Purified Radio 530",
-   "t": "Purified Radio 530",
-   "u": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_530_Podcast-1792055386495926571-NDMyMjctODUxOTIyMDE=.mp3"
-  },
-  {
-   "d": "2026-10-19T07:03:56Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Stuart Bogie (Interview)",
-   "u": "https://www.flowstate.fm/p/stuart-bogie-interview-554"
-  },
-  {
-   "d": "2026-10-19T05:07:56Z",
-   "g": "Writing",
-   "s": "Gorilla vs. Bear",
-   "sid": "gorilla-vs-bear",
-   "t": "photos: ML Buch – live in Los Angeles",
-   "u": "https://www.gorillavsbear.net/photos-ml-buch-live-in-los-angeles-2026/"
-  },
-  {
-   "d": "2026-10-19T04:04:00Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "Stephen Raoul Jones, former member of Severed Heads, has died aged 75",
-   "u": "https://mixmag.net.au/read/stephen-raoul-jones-former-member-of-severed-heads-has-died-aged-75-news"
-  },
-  {
-   "d": "2026-10-19T04:03:00Z",
-   "g": "Writing",
-   "s": "Pitchfork: Best New Albums",
-   "sid": "pitchfork-bna",
-   "t": "Stick Around for Tea",
-   "u": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/"
-  },
-  {
-   "d": "2026-10-19T00:57:46Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
-   "u": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns"
-  },
-  {
-   "d": "2026-10-19T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
-   "u": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 138,
+ "newCount": 148,
  "paused": 17,
  "releases": [
   {
@@ -230,5 +233,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-20T21:30:08Z"
+ "updated": "2026-10-20T23:56:21Z"
 }

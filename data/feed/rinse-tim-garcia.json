@@ -3,6 +3,14 @@
  "id": "rinse-tim-garcia",
  "items": [
   {
+   "date": "2026-10-19T09:00:00Z",
+   "desc": "",
+   "id": "tim-garcia-19-10-2026-1000",
+   "image": "https://image.rinse.fm/_/IMG-6961-Tim-Garcia.jpeg?w=1200&h=630",
+   "title": "Tim Garcia, 19 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/tim-garcia-19-10-2026-1000"
+  },
+  {
    "date": "2026-10-12T09:00:00Z",
    "desc": "",
    "id": "tim-garcia-12-10-2026-1000",
@@ -193,17 +201,9 @@
    "image": "https://image.rinse.fm/_/IMG-6961-Tim-Garcia.jpeg?w=1200&h=630",
    "title": "Tim Garcia, 2 Mar 2026",
    "url": "https://www.rinse.fm/episodes/tim-garcia-02-03-2026-0900"
-  },
-  {
-   "date": "2026-02-16T09:00:00Z",
-   "desc": "",
-   "id": "tim-garcia-16-02-2026-0900",
-   "image": "https://image.rinse.fm/_/IMG-6961-Tim-Garcia.jpeg?w=1200&h=630",
-   "title": "Tim Garcia, 16 Feb 2026",
-   "url": "https://www.rinse.fm/episodes/tim-garcia-16-02-2026-0900"
   }
  ],
  "kind": "rinse",
  "name": "Tim Garcia",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-20T23:56:21Z"
 }

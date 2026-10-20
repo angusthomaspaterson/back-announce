@@ -3,10 +3,28 @@
  "id": "bandcamp-daily",
  "items": [
   {
+   "date": "2026-10-20T00:00:00Z",
+   "desc": "The absurdist comic and musician creates dizzying music that balances darkness and light.",
+   "id": "features-dev-lemons-hunting-what-we-already-killed-feature",
+   "image": "https://f4.bcbits.com/img/0048045759_180",
+   "tags": "Features",
+   "title": "How Dev Lemons Is the Nathan Fielder of Music",
+   "url": "https://daily.bandcamp.com/features/dev-lemons-hunting-what-we-already-killed-feature"
+  },
+  {
+   "date": "2026-10-20T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-shabazz-palaces-its-a-style-sport-review",
+   "image": "https://f4.bcbits.com/img/0048061102_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Shabazz Palaces, “It’s A Style Sport”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/shabazz-palaces-its-a-style-sport-review"
+  },
+  {
    "date": "2026-10-19T00:00:00Z",
-   "desc": "The Aussie producer and tastemaker's recommendations double as a vital scene report.",
+   "desc": "",
    "id": "big-ups-anna-lunoe-big-ups",
-   "image": "https://f4.bcbits.com/img/0048055740_180",
+   "image": "https://f4.bcbits.com/img/0048055740_150.jpg",
    "tags": "Big Ups",
    "title": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
    "url": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups"
@@ -208,27 +226,9 @@
    "tags": "Underground Medicine",
    "title": "Underground Medicine #7: Region Rock, USA",
    "url": "https://daily.bandcamp.com/underground-medicine/underground-medicine-7"
-  },
-  {
-   "date": "2026-10-07T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-helen-lindas-head-review",
-   "image": "https://f4.bcbits.com/img/0047696124_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Helen, “Linda’s Head”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review"
-  },
-  {
-   "date": "2026-10-06T00:00:00Z",
-   "desc": "",
-   "id": "features-chyna-baejing-interview",
-   "image": "https://f4.bcbits.com/img/0047671330_150.jpg",
-   "tags": "Features",
-   "title": "Chyna Baejing Contains Multitudes",
-   "url": "https://daily.bandcamp.com/features/chyna-baejing-interview"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-20T23:56:21Z"
 }

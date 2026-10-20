@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-20T15:30:18Z",
+   "desc": "Plus satirical alt-rap for the tech-averse",
+   "duration": null,
+   "id": "6ad665d606c86900014e7ee9",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/10/download.png",
+   "title": "An Existential Film Score That Sees Right Through You",
+   "url": "https://www.hearingthings.co/an-existential-film-score-that-sees-right-through-you/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-15T14:57:57Z",
    "desc": "Plus a Must Hear anthem about a boss baby and more",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Album-Covers-43--6-.png",
    "title": "Real Rockers Fostering Real Community (Seriously)",
    "url": "https://www.hearingthings.co/real-rockers-fostering-real-community/"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-20T15:44:35Z",
-   "desc": "Presenting one of the year's best pop singles",
-   "duration": null,
-   "id": "6a8715d521570c0001697110",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Five-Songs-Template-11--17-.png",
-   "title": "The Twink Robin to Charli's Batman",
-   "url": "https://www.hearingthings.co/the-twink-robin-to-charlis-batman/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-20T23:56:21Z"
 }

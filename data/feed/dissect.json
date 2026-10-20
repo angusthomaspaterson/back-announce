@@ -3,6 +3,16 @@
  "id": "dissect",
  "items": [
   {
+   "audio": "https://traffic.megaphone.fm/GLT3996329891.mp3",
+   "date": "2026-10-20T09:31:00Z",
+   "desc": "Our three-part series dedicated to hip-hop features begins with J. Cole. We trace the history of Cole’s feature catalog, explore his two legendary feature runs, and dissect his best bars along the way. Plus a line-by-line breakdown of his legendary “Johnny P’s Caddy\" verse. ⁠PLAYLIST⁠ of J. Cole features in this episode. Host/Writer/EP: Cole Cuchna Editor: Kevin Pooler Theme Music: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "duration": "2339",
+   "id": "7fc1873e-c10d-11f1-8f99-13e8156597f3",
+   "image": "https://megaphone.imgix.net/podcasts/7fc1873e-c10d-11f1-8f99-13e8156597f3/image/dab396a6647755a402b5b3ea32d3f199.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "J. Cole's Best Features Dissected Line-By-Line",
+   "url": "https://traffic.megaphone.fm/GLT3996329891.mp3"
+  },
+  {
    "audio": "https://traffic.megaphone.fm/GLT1592198834.mp3",
    "date": "2026-09-01T09:31:00Z",
    "desc": "Rapsody breaks down her fantastic new album 'God Gotta Afro & Gold Hoops.' Learn about how her trip to Africa inspired its themes and sound, the reverence she has for hip hop, and why she views herself as a guardian of the culture she loves so dearly. Listen to ⁠'God Gotta Afro & Gold Hoops'⁠ on Spotify. Host: Cole Cuchna Editor: Kevin Pooler Engineer: Jon Jones Producer: Justin Sayles Theme Music: Birocratic Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/779cea08-2f90-11f1-98ac-2399024be4b3/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "E4 - Dissecting \"One More Time\" & \"Aerodynamic\" by Daft Punk",
    "url": "https://traffic.megaphone.fm/GLT9400244704.mp3?updated=1775245050"
-  },
-  {
-   "audio": "https://traffic.megaphone.fm/GLT1813844924.mp3?updated=1774565486",
-   "date": "2026-03-31T09:29:00Z",
-   "desc": "Revealing the hidden brilliance behind one of Daft Punk’s most deceptively simple songs. Follow @dissectpodcast on Instagram, TikTok, and Twitter. Host/Writer/EP: Cole Cuchna Audio/Video Editing: Kevin Pooler & Iulia Ciobanu Theme Music: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "duration": "1976",
-   "id": "27342ede-2930-11f1-bfd0-5babb8025562",
-   "image": "https://megaphone.imgix.net/podcasts/27342ede-2930-11f1-bfd0-5babb8025562/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "E3 - Dissecting \"Around The World\" by Daft Punk",
-   "url": "https://traffic.megaphone.fm/GLT1813844924.mp3?updated=1774565486"
   }
  ],
  "kind": "rss",
  "name": "Dissect",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-20T23:56:21Z"
 }
