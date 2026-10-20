@@ -3,13 +3,22 @@
  "id": "bandcamp-daily",
  "items": [
   {
-   "date": "2026-10-16T00:00:00Z",
-   "desc": "Alternative folk, experimental rock, industrial electronic, and more.",
-   "id": "essential-releases-essential-releases-october-16-2026",
-   "image": "https://f4.bcbits.com/img/0047986678_180",
-   "tags": "Essential Releases",
-   "title": "Essential Releases, October 16, 2026",
-   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-16-2026"
+   "date": "2026-10-19T00:00:00Z",
+   "desc": "The Aussie producer and tastemaker's recommendations double as a vital scene report.",
+   "id": "big-ups-anna-lunoe-big-ups",
+   "image": "https://f4.bcbits.com/img/0048055740_180",
+   "tags": "Big Ups",
+   "title": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
+   "url": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups"
+  },
+  {
+   "date": "2026-10-19T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-various-artists-beirut-city-pop-review",
+   "image": "https://f4.bcbits.com/img/0047945722_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Various Artists, “Beirut City Pop”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-beirut-city-pop-review"
   },
   {
    "date": "2026-10-16T00:00:00Z",
@@ -19,6 +28,15 @@
    "tags": "Best Latin",
    "title": "The Best Latin Music on Bandcamp, September 2026",
    "url": "https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-september-2026"
+  },
+  {
+   "date": "2026-10-16T00:00:00Z",
+   "desc": "",
+   "id": "essential-releases-essential-releases-october-16-2026",
+   "image": "https://f4.bcbits.com/img/0047986678_150.jpg",
+   "tags": "Essential Releases",
+   "title": "Essential Releases, October 16, 2026",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-16-2026"
   },
   {
    "date": "2026-10-16T00:00:00Z",
@@ -86,20 +104,20 @@
   {
    "date": "2026-10-12T00:00:00Z",
    "desc": "",
-   "id": "features-instant-self-titled-feature",
-   "image": "https://f4.bcbits.com/img/0047655551_150.jpg",
-   "tags": "Features",
-   "title": "The French Prog Classic That Barely Escaped Oblivion",
-   "url": "https://daily.bandcamp.com/features/instant-self-titled-feature"
-  },
-  {
-   "date": "2026-10-12T00:00:00Z",
-   "desc": "",
    "id": "best-country-the-best-country-music-on-bandcamp-september-2026",
    "image": "https://f4.bcbits.com/img/0047928486_150.jpg",
    "tags": "Best Country",
    "title": "The Best Country Music on Bandcamp, September 2026",
    "url": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-september-2026"
+  },
+  {
+   "date": "2026-10-12T00:00:00Z",
+   "desc": "",
+   "id": "features-instant-self-titled-feature",
+   "image": "https://f4.bcbits.com/img/0047655551_150.jpg",
+   "tags": "Features",
+   "title": "The French Prog Classic That Barely Escaped Oblivion",
+   "url": "https://daily.bandcamp.com/features/instant-self-titled-feature"
   },
   {
    "date": "2026-10-12T00:00:00Z",
@@ -208,27 +226,9 @@
    "tags": "Features",
    "title": "Chyna Baejing Contains Multitudes",
    "url": "https://daily.bandcamp.com/features/chyna-baejing-interview"
-  },
-  {
-   "date": "2026-10-06T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-ivm-trio-explain-yourselves-review",
-   "image": "https://f4.bcbits.com/img/0047728320_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "IVM Trio, “Explain Yourselves”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/ivm-trio-explain-yourselves-review"
-  },
-  {
-   "date": "2026-10-06T00:00:00Z",
-   "desc": "",
-   "id": "lists-m-geddes-gengras-album-guide",
-   "image": "https://f4.bcbits.com/img/0047655330_150.jpg",
-   "tags": "Lists",
-   "title": "M. Geddes Gengras Is Still Figuring It Out",
-   "url": "https://daily.bandcamp.com/lists/m-geddes-gengras-album-guide"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

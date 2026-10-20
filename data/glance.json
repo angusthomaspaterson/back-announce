@@ -1,12 +1,126 @@
 {
  "items": [
   {
+   "d": "2026-10-19T20:00:00Z",
+   "g": "Progressive",
+   "s": "Super Progressive Podcast",
+   "sid": "super-progressive",
+   "sp": "Super Progressive Podcast The Role Of Booking Agencies in the Modern Electronic Music Landscape with Jon Sax",
+   "t": "The Role Of Booking Agencies in the Modern Electronic Music Landscape with Jon Sax",
+   "u": "https://www.buzzsprout.com/1864521/episodes/19986329-the-role-of-booking-agencies-in-the-modern-electronic-music-landscape-with-jon-sax.mp3"
+  },
+  {
+   "d": "2026-10-19T13:59:05Z",
+   "g": "Mixes",
+   "s": "Refuge Worldwide (selected shows)",
+   "sid": "refuge-worldwide",
+   "t": "Record Roulette - Esé Oghene - 17 Oct 2026",
+   "u": "https://soundcloud.com/refugeworldwide/record-roulette-ese-oghene-17"
+  },
+  {
+   "d": "2026-10-19T12:00:09Z",
+   "g": "Progressive",
+   "s": "Eelke Kleijn: DAYS like NIGHTS Radio",
+   "sid": "days-like-nights",
+   "t": "DAYS like NIGHTS 466 - Stereo Montreal. Part 4",
+   "u": "https://soundcloud.com/eelke-kleijn/days-like-nights-466-stereo"
+  },
+  {
+   "d": "2026-10-19T10:45:37Z",
+   "g": "Mixes",
+   "s": "Refuge Worldwide (selected shows)",
+   "sid": "refuge-worldwide",
+   "t": "Bath Time Radio - Dane Joe - 16 Oct 2026",
+   "u": "https://soundcloud.com/refugeworldwide/bath-time-radio-dane-joe-16"
+  },
+  {
    "d": "2026-10-19T08:33:23Z",
    "g": "Writing",
    "s": "First Floor",
    "sid": "first-floor",
    "t": "First Floor recommendations, 19 Oct: 3 records",
    "u": "https://firstfloor.substack.com/p/lamin-fofana-corps-perdu"
+  },
+  {
+   "d": "2026-10-19T08:00:00Z",
+   "g": "Progressive",
+   "s": "Nora En Pure: Purified Radio",
+   "sid": "nora-en-pure",
+   "sp": "Nora En Pure: Purified Radio Purified Radio 530",
+   "t": "Purified Radio 530",
+   "u": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_530_Podcast-1792055386495926571-NDMyMjctODUxOTIyMDE=.mp3"
+  },
+  {
+   "d": "2026-10-19T07:03:56Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "t": "Stuart Bogie (Interview)",
+   "u": "https://www.flowstate.fm/p/stuart-bogie-interview-554"
+  },
+  {
+   "d": "2026-10-19T05:07:56Z",
+   "g": "Writing",
+   "s": "Gorilla vs. Bear",
+   "sid": "gorilla-vs-bear",
+   "t": "photos: ML Buch – live in Los Angeles",
+   "u": "https://www.gorillavsbear.net/photos-ml-buch-live-in-los-angeles-2026/"
+  },
+  {
+   "d": "2026-10-19T04:04:00Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Stephen Raoul Jones, former member of Severed Heads, has died aged 75",
+   "u": "https://mixmag.net.au/read/stephen-raoul-jones-former-member-of-severed-heads-has-died-aged-75-news"
+  },
+  {
+   "d": "2026-10-19T04:03:00Z",
+   "g": "Writing",
+   "s": "Pitchfork: Best New Albums",
+   "sid": "pitchfork-bna",
+   "t": "Stick Around for Tea",
+   "u": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/"
+  },
+  {
+   "d": "2026-10-19T00:57:46Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+   "u": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns"
+  },
+  {
+   "d": "2026-10-19T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
+   "u": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups"
+  },
+  {
+   "d": "2026-10-19T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Various Artists, “Beirut City Pop”",
+   "u": "https://daily.bandcamp.com/album-of-the-day/various-artists-beirut-city-pop-review"
+  },
+  {
+   "d": "2026-10-19T00:00:00Z",
+   "g": "Radio",
+   "s": "Bandcamp Radio",
+   "sid": "bandcamp-radio",
+   "t": "Bandcamp Selects: Omasta",
+   "u": "https://bandcamp.com/radio/bandcamp-selects/1008"
+  },
+  {
+   "d": "2026-10-19T00:00:00Z",
+   "g": "Progressive",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "Balance Selections 388: NAJEYS",
+   "u": "https://soundcloud.com/balance-series/balance-selections-najeys"
   },
   {
    "d": "2026-10-18T22:00:08Z",
@@ -49,126 +163,10 @@
    "sid": "nts-ross-allen",
    "t": "Ross Allen",
    "u": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-17th-october-2026"
-  },
-  {
-   "d": "2026-10-17T09:14:54Z",
-   "g": "Bass",
-   "s": "FBi Sunset (club and bass)",
-   "sid": "fbi-sunset",
-   "sp": "FBi Sunset (club and bass) Sunset with Dot Zip - 2026-10-17",
-   "t": "Sunset with Dot Zip - 2026-10-17",
-   "u": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-17"
-  },
-  {
-   "d": "2026-10-17T08:17:09Z",
-   "g": "Writing",
-   "s": "Inverted Audio",
-   "sid": "inverted-audio",
-   "t": "Community Cuts: A Monthly All-Vinyl DJ Series at Inverted Audio Record Store",
-   "u": "https://inverted-audio.com/community-cuts/"
-  },
-  {
-   "d": "2026-10-17T04:00:00Z",
-   "g": "Writing",
-   "s": "Pitchfork: Best New Albums",
-   "sid": "pitchfork-bna",
-   "t": "DJ-Kicks",
-   "u": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/"
-  },
-  {
-   "d": "2026-10-16T20:10:38Z",
-   "g": "Progressive",
-   "s": "Above & Beyond: Group Therapy",
-   "sid": "group-therapy",
-   "t": "Group Therapy 698 with Above & Beyond and Super8 & Tab",
-   "u": "https://www.mixcloud.com/aboveandbeyond/group-therapy-698-with-above-beyond-and-super8-tab/"
-  },
-  {
-   "d": "2026-10-16T15:00:34Z",
-   "g": "Progressive",
-   "s": "John Digweed: Transitions",
-   "sid": "transitions",
-   "t": "Transitions with John Digweed and Martin Garcia",
-   "u": "https://www.mixcloud.com/johndigweed/transitions-john-digweed-and-martin-garcia/"
-  },
-  {
-   "d": "2026-10-16T10:00:00Z",
-   "g": "NTS",
-   "s": "NTS In Focus",
-   "sid": "nts-in-focus",
-   "t": "In Focus: pauline anna strom",
-   "u": "https://www.nts.live/shows/in-focus/episodes/in-focus-pauline-anna-strom-16th-october-2026"
-  },
-  {
-   "d": "2026-10-16T09:00:00Z",
-   "g": "Podcasts",
-   "s": "Popcast (New York Times)",
-   "sid": "popcast",
-   "sp": "Popcast (New York Times) Why Zara Larsson Refuses to Censor Herself – or Dim Her Joy",
-   "t": "Why Zara Larsson Refuses to Censor Herself – or Dim Her Joy",
-   "u": "https://www.nytimes.com/column/popcast-pop-music-podcast"
-  },
-  {
-   "d": "2026-10-16T08:30:00Z",
-   "g": "Podcasts",
-   "s": "Indiecast",
-   "sid": "indiecast",
-   "sp": "Indiecast A Big New Fontaines DC Album + The 200 Greatest Emo Albums",
-   "t": "A Big New Fontaines DC Album + The 200 Greatest Emo Albums",
-   "u": "https://rss.art19.com/episodes/f3012b9d-467a-424d-97bf-8e382c9ee6ee.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-10-16T07:03:32Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Charanjit Singh",
-   "u": "https://www.flowstate.fm/p/charanjit-singh"
-  },
-  {
-   "d": "2026-10-16T05:00:00Z",
-   "g": "Podcasts",
-   "s": "Sound Opinions",
-   "sid": "sound-opinions",
-   "sp": "Sound Opinions Fall Review Roundup: Opinions on Neil Young, This is Lorelei, Michael Kiwanuka & More",
-   "t": "Fall Review Roundup: Opinions on Neil Young, This is Lorelei, Michael Kiwanuka & More",
-   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/7f361e60-cb92-4021-8496-89a324be4ae6.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-10-16T04:55:10Z",
-   "g": "Progressive",
-   "s": "Gai Barone: Patterns",
-   "sid": "gai-barone-patterns",
-   "t": "Patterns 722",
-   "u": "https://soundcloud.com/gai-barone/patterns-722"
-  },
-  {
-   "d": "2026-10-16T04:03:00Z",
-   "g": "Writing",
-   "s": "Pitchfork: Best New Albums",
-   "sid": "pitchfork-bna",
-   "t": "Autosmile",
-   "u": "https://pitchfork.com/reviews/albums/at-sign-autosmile/"
-  },
-  {
-   "d": "2026-10-16T01:27:39Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "Sonder returns for Easter 2027 with Egyptian Lover and Bradley Zero",
-   "u": "https://mixmag.net.au/read/sonder-returns-for-easter-2027-with-egyptian-lover-and-bradley-zero-news"
-  },
-  {
-   "d": "2026-10-16T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Essential Releases, October 16, 2026",
-   "u": "https://daily.bandcamp.com/essential-releases/essential-releases-october-16-2026"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 107,
+ "newCount": 122,
  "paused": 17,
  "releases": [
   {
@@ -223,5 +221,5 @@
   }
  ],
  "sources": 153,
- "updated": "2026-10-19T21:30:06Z"
+ "updated": "2026-10-20T00:24:49Z"
 }

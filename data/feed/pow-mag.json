@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-19T17:32:44Z",
+   "desc": "The legendary Harlem rapper will be honored by the Paid In Full Foundation this weekend in Las Vegas.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-kurtis-blow-remembers-it-all-interview-paid-in-full",
+   "image": "https://substackcdn.com/image/fetch/$s_!cnV-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02af9f93-b50e-4e39-a332-f74c5984a5bf_1200x1200.png",
+   "title": "Kurtis Blow Remembers It All",
+   "url": "https://www.powmag.net/p/kurtis-blow-remembers-it-all-interview-paid-in-full"
+  },
+  {
+   "audio": null,
    "date": "2026-10-17T16:23:54Z",
    "desc": "The Rap-Up considers the most notable singles of the past week. Today, Anthony Seaman reviews new work from Gabe ‘Nandez, Draft Day, and the recently arrested Nino Paid.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/GlLAP7FwC4E",
    "title": "Never Stop Wiping Me Down",
    "url": "https://www.powmag.net/p/never-stop-wiping-me-down-the-rap"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-25T17:22:14Z",
-   "desc": "Big Boi and Andre 3000 are suing an up-and-coming rapper over a practice that predates all parties involved.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-outkast-ovrkast-lawsuit",
-   "image": "https://substackcdn.com/image/fetch/$s_!iUcx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2511c240-51a8-4d16-b25b-424f75b6da18_1200x1200.png",
-   "title": "Outkast, Ovrkast., and the History of Other People’s Names",
-   "url": "https://www.powmag.net/p/outkast-ovrkast-lawsuit"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-17T23:10:40Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

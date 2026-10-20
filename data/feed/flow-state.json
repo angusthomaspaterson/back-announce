@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-19T07:03:56Z",
+   "desc": "Today we’re listening to Stuart Bogie, an American clarinetist and saxophonist from Illinois.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-stuart-bogie-interview-554",
+   "image": "https://substackcdn.com/image/fetch/$s_!WxSV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5842abbe-bc41-46a2-b010-2df9dddce786_2154x1810.png",
+   "title": "Stuart Bogie (Interview)",
+   "url": "https://www.flowstate.fm/p/stuart-bogie-interview-554"
+  },
+  {
+   "audio": null,
    "date": "2026-10-16T07:03:32Z",
    "desc": "Today we’re listening to Charanjit Singh, an Indian composer and electronic musician from Bombay.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
    "title": "Flow State Episode 344",
    "url": "https://www.flowstate.fm/p/flow-state-episode-344"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-21T07:04:23Z",
-   "desc": "Today we’re listening to Joel Noct Brinson, an American ambient musician based in Portland, Oregon.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-joel-noct-brinson",
-   "image": "https://substackcdn.com/image/fetch/$s_!Pwjy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e4ad81-a6b3-43c5-97e1-797cf1058a59_2558x1944.png",
-   "title": "Joel Noct Brinson",
-   "url": "https://www.flowstate.fm/p/joel-noct-brinson"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

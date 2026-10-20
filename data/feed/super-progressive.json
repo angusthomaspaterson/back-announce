@@ -3,6 +3,16 @@
  "id": "super-progressive",
  "items": [
   {
+   "audio": "https://www.buzzsprout.com/1864521/episodes/19986329-the-role-of-booking-agencies-in-the-modern-electronic-music-landscape-with-jon-sax.mp3",
+   "date": "2026-10-19T20:00:00Z",
+   "desc": "Jon Sax, Booking Agent and Data Lead for Liaison Artists and Developer for Data Operative, joins the Super Progressive Podcast to give an inside look at the role of Booking Agencies in the current electronic music landscape. This conversation is for any DJ who is trying to better understand how working with a booking agency can help them take the next step in their career. I hope you all enjoy... Let's Go!",
+   "duration": "2583",
+   "id": "Buzzsprout-19986329",
+   "image": "https://storage.buzzsprout.com/strtv5o9y6zhirkk30ldt6lh2qmb?.jpg",
+   "title": "The Role Of Booking Agencies in the Modern Electronic Music Landscape with Jon Sax",
+   "url": "https://www.buzzsprout.com/1864521/episodes/19986329-the-role-of-booking-agencies-in-the-modern-electronic-music-landscape-with-jon-sax.mp3"
+  },
+  {
    "audio": "https://www.buzzsprout.com/1864521/episodes/19910541-jody-wisternoff-feature-interview-and-ade-preview-with-dave-seaman-steve-parry-and-graziano-raffa.mp3",
    "date": "2026-10-05T06:00:00Z",
    "desc": "We have a VERY special episode of the Super Progressive Podcast today as one of my all-time favorite producers Jody Wisternoff joins us for an in-depth chat about his roots in hip-hop, Way Out West with Nick Warren, and all of his work with Anjunadeep. Then, we are joined by Dave Seaman, Steve Parry, and Graziano Raffa representing the Selador x Sudbeat ADE Event in partnership with Emerge and Progressive Hub. I hope you all enjoy... LET'S GO!",
@@ -241,19 +251,9 @@
    "image": "https://storage.buzzsprout.com/eaqfo3uruze57ali8dg2t8m8ut3e?.jpg",
    "title": "Sinca's Breakthrough Year: Bedrock Release, John Digweed's Live in Stereo, and Future Plans",
    "url": "https://www.buzzsprout.com/1864521/episodes/16013922-sinca-s-breakthrough-year-bedrock-release-john-digweed-s-live-in-stereo-and-future-plans.mp3"
-  },
-  {
-   "audio": "https://www.buzzsprout.com/1864521/episodes/16007482-mike-rish-super-progressive-034.mp3",
-   "date": "2024-10-28T23:00:00Z",
-   "desc": "Following ADE, Mike Rish stops by the Super Progressive podcast to discuss his latest release with Anjunadeep on the Explorations label 'Tu Attair', how he first got into underground music, the Vapour and Meanwhile ADE Showcase, the emergence of the Australian progressive sound, group chats with his producer friends, releasing on Guy J's Lost & Found label, and of course, what progressive music means to him. Mike has quickly become a favorite here at Super Progressive, so there was a huge level of excitement heading into this interview. 00:00 - Introduction 01:21 - ADE 2024 04:27 - Mike's fri…",
-   "duration": "3535",
-   "id": "Buzzsprout-16007482",
-   "image": "https://storage.buzzsprout.com/eaqfo3uruze57ali8dg2t8m8ut3e?.jpg",
-   "title": "Mike Rish | Super Progressive 034",
-   "url": "https://www.buzzsprout.com/1864521/episodes/16007482-mike-rish-super-progressive-034.mp3"
   }
  ],
  "kind": "rss",
  "name": "Super Progressive Podcast",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

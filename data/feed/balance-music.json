@@ -3,6 +3,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2421848133-balance-series-balance-selections-najeys.mp3",
+   "date": "2026-10-19T00:00:00Z",
+   "desc": "Colombian DJ NAJEYS has developed a sound rooted in the melodic and hypnotic strains of progressive house. With a background in vocals and percussion, she began exploring electronic music in 2016, developing an approach to DJing that balances driving rhythms, atmospheric textures and emotive melodies. A resident at Medellín’s Club Sonorama and winner of Colombia’s Best Progressive DJ award in 2022, NAJEYS has performed at major festivals across Colombia, Mexico, Curaçao and Argentina. She next opens for Martin Garrix at Medellín’s Davi Arena on December 5th, with new music also on the horizon…",
+   "duration": "01:05:38",
+   "id": "tag:soundcloud-2010:tracks-2421848133",
+   "image": "https://i1.sndcdn.com/artworks-UIUE3onoTrkD53Ro-VUswpQ-t3000x3000.jpg",
+   "title": "Balance Selections 388: NAJEYS",
+   "url": "https://soundcloud.com/balance-series/balance-selections-najeys"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2420008785-balance-series-karl-pilbrow-live-from-balance-croatia.mp3",
    "date": "2026-10-16T00:00:00Z",
    "desc": "Recording of Karl Pilbrow's set from Balance Croatia 2026. @karl-pilbrow ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ SIGN UP FOR FINAL RELEASE TIX: laylo.com/balancecroatia/L1zh7A _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-JXcsD8wU6IFJggwh-2EPa2w-t3000x3000.jpg",
    "title": "Eichenbaum: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/eichenbaum-live-from-balance"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2391521244-balance-series-zankee-gulati-live-from-balance-croatia.mp3",
-   "date": "2026-08-31T00:00:00Z",
-   "desc": "Recording of Zankee Gulati's set from Balance Croatia 2026. @zankee-gulati",
-   "duration": "01:56:25",
-   "id": "tag:soundcloud-2010:tracks-2391521244",
-   "image": "https://i1.sndcdn.com/artworks-6AEokeCCILYmy7rN-QJzzHg-t3000x3000.jpg",
-   "title": "Zankee Gulati: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/zankee-gulati-live-from-balance-croatia"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

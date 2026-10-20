@@ -3,6 +3,16 @@
  "id": "nora-en-pure",
  "items": [
   {
+   "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_530_Podcast-1792055386495926571-NDMyMjctODUxOTIyMDE=.mp3",
+   "date": "2026-10-19T08:00:00Z",
+   "desc": "Tracklisting: 01. Adam Marcos, Chris Howard - All We’ve Got (Original Mix) ** 02. Fahlberg - My Mind (Original Mix) 03. SAFARIS - Past Midnight (Extended Mix) 04. Estiva - The Wave (Extended Mix) 05. Michael Cassette - United (Extended Club Mix) * 06. Adriatique - Palm Of Your Hands (Extended Mix) 07. Huminal - On and On (Extended Mix) 08. Glusko - I Can’t Leave You (Extended Mix) 09. foglight - Golden Hour (Extended Mix) 10. Natascha Polké & PÆDE - Fever (Extended Mix) 11. dorothy - Untersee (Extended Mix) 12. Rafa'EL x Matt Leger - When The Storm (Extended Mix) 13. Blended x Oxbin - Let You…",
+   "duration": "00:59:10",
+   "id": "http:--audio.thisisdistorted.com-repository-audio-episodes-NORA_530_Podcast-1792055386495926571-NDMyMjctODUxOTIyMDE-.mp3",
+   "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
+   "title": "Purified Radio 530",
+   "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_530_Podcast-1792055386495926571-NDMyMjctODUxOTIyMDE=.mp3"
+  },
+  {
    "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_529_Podcast-1791546859040251219-NDMyMTMtODgzNzMyODg=.mp3",
    "date": "2026-10-12T08:00:00Z",
    "desc": "Tracklisting: 01. Eynka - Make You Happy (Extended Mix) 02. ADZ & Harry Diamond - Lycia (Extended Mix) 03. Corren Cavini x EAST-97 - Darkness Into Day (Extended Mix) 04. Gus One - Closer to You Again (Instrumental Mix) 05. Karen Fagan - Change In my Heart (Extended Mix) 06. Daniel Portman - Eternal Drift (Extended Mix) 07. Amonita - Neon Light (Extended Mix) 08. Rivo & Nohr - All Your Love feat. Paige Cavell (Original Mix) 09. maXure - Better Than This (Extended Mix) 10. Estiva - Noo Tacchi (Extended Mix) * 11. Mark Lennon - Remember Who You Are (Extended Mix) 12. Cornelius SA, Alan Green Ft.…",
@@ -241,19 +251,9 @@
    "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
    "title": "Purified Radio 506",
    "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_506_Podcast-1777463355095963716-NDI1NDYtODY5NTcwMzQ=.mp3"
-  },
-  {
-   "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_505_Podcast-1776961981779041126-NDI1MjMtODgzODc3MDg=.mp3",
-   "date": "2026-04-27T08:00:00Z",
-   "desc": "Tracklisting: 01. Paradoks - Granular (Extended Mix) 02. Drilla - Naked Sunday (Extended Mix) 03. Glusko x Rob Tirea - Broken Dreams (Extended Mix) 04. Mark Eteson & Bluebird Wood - Sasha (Alexander Orue Remix) 05. Mitch de Klein - Beyond Tomorrow (Extended Mix) 06. Alley SA - In The Forest (Extended Mix) 07. Fahlberg - Feeling Good (Extended Mix) 08. Thysma - Resolved (Extended Mix) ** 09. Mölly, MØØNE - Find You (Extended Mix) * 10. Thaylo - Lost Thought (Extended Mix) 11. Einmusik - Do You Think Of Me (Extended Mix) 12. Trilucid Esque - The Key (Extended Mix) 13. Jarod Glawe x Chris Howard…",
-   "duration": "01:01:23",
-   "id": "http:--audio.thisisdistorted.com-repository-audio-episodes-NORA_505_Podcast-1776961981779041126-NDI1MjMtODgzODc3MDg-.mp3",
-   "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
-   "title": "Purified Radio 505",
-   "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_505_Podcast-1776961981779041126-NDI1MjMtODgzODc3MDg=.mp3"
   }
  ],
  "kind": "rss",
  "name": "Nora En Pure: Purified Radio",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

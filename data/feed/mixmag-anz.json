@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-19T04:04:00Z",
+   "desc": "The renowned musician and video artist is alleged to have been attacked outside of his studio on Gadigal Land/Sydney last week. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-stephen-raoul-jones-former-member-of-severed-heads-has-died-aged-75-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/RIP-Stephen-Raoul-Jones-Cover.png",
+   "title": "Stephen Raoul Jones, former member of Severed Heads, has died aged 75",
+   "url": "https://mixmag.net.au/read/stephen-raoul-jones-former-member-of-severed-heads-has-died-aged-75-news"
+  },
+  {
+   "audio": null,
    "date": "2026-10-16T01:27:39Z",
    "desc": "The independent Tallarook-based camping festival returns to Taungurung Country over Easter 2027, pairing an international crate-digger bill with a deep run of local live acts. Continue reading...",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Pill-Testing-Cover-2026.png",
    "title": "NSW makes pill testing permanent at music festivals",
    "url": "https://mixmag.net.au/read/nsw-makes-pill-testing-permanent-at-music-festivals-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-01T05:56:00Z",
-   "desc": "The Muloobinba/Newcastle artist’s debut album is a refreshing and real addition to Australia’s electronic music conversation. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-homebodys-prefrontal-cortex-healing-heritage-and-honesty",
-   "image": null,
-   "title": "homebody’s 'prefrontal cortex': Healing, Heritage and Honesty",
-   "url": "https://mixmag.net.au/feature/homebodys-prefrontal-cortex-healing-heritage-and-honesty"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

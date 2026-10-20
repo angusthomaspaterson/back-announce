@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-19T15:22:50Z",
+   "desc": "",
+   "duration": null,
+   "id": "6ad53ec65df0a10001c920f7",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/youcanseeeverything.jpg",
+   "title": "Screen Memories: You Can See Everything, The Devils, The History of Concrete",
+   "url": "https://last-donut-of-the-night.ghost.io/screen-memories-you-can-see-everything-the-devils-the-history-of-concrete/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-16T08:00:00Z",
    "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/09/Screenshot-2026-09-26-at-1.16.40---PM.png",
    "title": "Baker's Dozen: BTS, Dylan Brady, Courtney Barnett",
    "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-bts-dylan-brady-courtney-barnett/"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-28T08:00:43Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6ab68ec5ddb28e0001b84814",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/09/xf-cora-045A5131.png",
-   "title": "Jam City on Nostalgia, Clubbing, and the Freedom of Collaboration",
-   "url": "https://last-donut-of-the-night.ghost.io/jam-city-on-nostalgia-clubbing-and-the-freedom-of-collaboration/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

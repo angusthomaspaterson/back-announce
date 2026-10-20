@@ -54,16 +54,6 @@
   },
   {
    "date": "2026-10-14T00:00:00Z",
-   "desc": "EP on Anjunadeep, out 14 Oct 2026.",
-   "id": "605957-anjunadeep-archive-02",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605957.jpg",
-   "out": "2026-10-14T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "Anjunadeep Archive 02",
-   "url": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
-  },
-  {
-   "date": "2026-10-14T00:00:00Z",
    "desc": "Single on Anjunadeep Explorations, out 14 Oct 2026.",
    "id": "621098-coda-golden-hour",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621098.jpg",
@@ -71,6 +61,16 @@
    "tags": "Single · Anjunadeep Explorations",
    "title": "foglight – Coda / Golden Hour",
    "url": "https://anjunadeep.com/products/621098-coda-golden-hour"
+  },
+  {
+   "date": "2026-10-14T00:00:00Z",
+   "desc": "EP on Anjunadeep, out 14 Oct 2026.",
+   "id": "605957-anjunadeep-archive-02",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605957.jpg",
+   "out": "2026-10-14T00:00:00Z",
+   "tags": "EP · Anjunadeep",
+   "title": "Anjunadeep Archive 02",
+   "url": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
   },
   {
    "date": "2026-10-13T00:00:00Z",
@@ -135,22 +135,22 @@
   {
    "date": "2026-10-01T00:00:00Z",
    "desc": "Single on Anjunachill, out 1 Oct 2026.",
-   "id": "616517-sky-falls-down-downtempo-version",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
-   "out": "2026-10-01T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
-   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
-  },
-  {
-   "date": "2026-10-01T00:00:00Z",
-   "desc": "Single on Anjunachill, out 1 Oct 2026.",
    "id": "616515-solitude-vr-sofandi-rework",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616515.jpg",
    "out": "2026-10-01T00:00:00Z",
    "tags": "Single · Anjunachill",
    "title": "Tontario feat. Lake Jons – Solitude (Vár Sofandi Rework)",
    "url": "https://anjunadeep.com/products/616515-solitude-vr-sofandi-rework"
+  },
+  {
+   "date": "2026-10-01T00:00:00Z",
+   "desc": "Single on Anjunachill, out 1 Oct 2026.",
+   "id": "616517-sky-falls-down-downtempo-version",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
+   "out": "2026-10-01T00:00:00Z",
+   "tags": "Single · Anjunachill",
+   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
+   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
   },
   {
    "date": "2026-09-30T00:00:00Z",
@@ -245,15 +245,15 @@
   {
    "date": "2026-09-15T00:00:00Z",
    "desc": "Single on Anjunadeep, out 15 Sep 2026.",
-   "id": "613888-breathing-orbit-remix",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613888.jpg",
+   "id": "614667-breathing-7-year-anniversary-release",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/614667.jpg",
    "out": "2026-09-15T00:00:00Z",
    "tags": "Single · Anjunadeep",
-   "title": "Ben Böhmer, Nils Hoffmann & Malou – Breathing (orbit Remix)",
-   "url": "https://anjunadeep.com/products/613888-breathing-orbit-remix"
+   "title": "Ben Böhmer, Nils Hoffmann & Malou – Breathing [7 Year Anniversary Release]",
+   "url": "https://anjunadeep.com/products/614667-breathing-7-year-anniversary-release"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-17T23:10:40Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }

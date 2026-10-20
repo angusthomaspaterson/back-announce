@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-19T04:03:00Z",
+   "desc": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
+   "duration": null,
+   "id": "6ad13346f0019c9f78235476",
+   "image": null,
+   "title": "Stick Around for Tea",
+   "url": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-17T04:00:00Z",
    "desc": "The UK selector throws caution—and genre—to the winds on an audacious 82-minute set that careens between ambient, drill’n’bass, post-punk, breakcore, and more.",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "My New Band Believe",
    "url": "https://pitchfork.com/reviews/albums/my-new-band-believe-my-new-band-believe/"
-  },
-  {
-   "audio": null,
-   "date": "2026-04-09T04:03:00Z",
-   "desc": "On a daring new album, the singer-songwriter and guitar virtuoso examines happiness, love, and memory with a forensic curiosity.",
-   "duration": null,
-   "id": "69d6a619fb43b4012c9d2cee",
-   "image": null,
-   "title": "Wendy Eisenberg",
-   "url": "https://pitchfork.com/reviews/albums/wendy-eisenberg-wendy-eisenberg/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-10-17T23:10:40Z"
+ "updatedAt": "2026-10-20T00:24:49Z"
 }
