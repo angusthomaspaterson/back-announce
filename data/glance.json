@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "d": "2026-10-20T01:46:00Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Golden Plains announces its 2027 lineup",
+   "u": "https://mixmag.net.au/read/golden-plains-announces-its-2027-lineup-news"
+  },
+  {
+   "d": "2026-10-20T01:20:46Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Pitch Music & Arts reveals 2027 lineup for its tenth edition",
+   "u": "https://mixmag.net.au/read/pitch-music-arts-reveals-2027-lineup-for-its-tenth-edition-news"
+  },
+  {
    "d": "2026-10-19T22:45:00Z",
    "g": "Progressive",
    "s": "SkyTop Residency (Alexey Sonar)",
@@ -147,27 +163,10 @@
    "sp": "Sultan + Shepard: Dialekt Radio Dialekt Radio #350",
    "t": "Dialekt Radio #350",
    "u": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-350-IEdwR7ei"
-  },
-  {
-   "d": "2026-10-18T15:06:53Z",
-   "g": "Radio",
-   "s": "Gilles Peterson (6 Music show)",
-   "sid": "gilles-peterson",
-   "t": "Gilles Peterson -  Marc Hollander + Jimetta Rose + Freddie Jackson - 10.10.26",
-   "u": "https://soundcloud.com/gillespeterson/gilles-peterson-marc-hollander"
-  },
-  {
-   "d": "2026-10-18T06:00:00Z",
-   "g": "Progressive",
-   "s": "Resident by Hernan Cattaneo",
-   "sid": "resident",
-   "sp": "Resident by Hernan Cattaneo Resident / Episode 806 / October 17 2026",
-   "t": "Resident / Episode 806 / October 17 2026",
-   "u": "https://podcast.hernancattaneo.com/e/resident-episode-806-october-17-2026/"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 126,
+ "newCount": 128,
  "paused": 17,
  "releases": [
   {
@@ -228,5 +227,5 @@
   }
  ],
  "sources": 156,
- "updated": "2026-10-20T05:04:23Z"
+ "updated": "2026-10-20T05:04:44Z"
 }

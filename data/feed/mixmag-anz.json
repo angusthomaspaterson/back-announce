@@ -4,6 +4,26 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-20T01:46:00Z",
+   "desc": "Golden Plains has announced its 19th edition lineup, headlined by Geese and Underworld, and a swathe of local talent. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-golden-plains-announces-its-2027-lineup-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/GP2027_photo-credit-Chip-Mooney_2.jpg",
+   "title": "Golden Plains announces its 2027 lineup",
+   "url": "https://mixmag.net.au/read/golden-plains-announces-its-2027-lineup-news"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-20T01:20:46Z",
+   "desc": "Chris Stassy, Chlär and Peach lead the international bill for the anniversary edition at Moyston. HAAi, X CLUB. and a large Australian roster join them. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-pitch-music-arts-reveals-2027-lineup-for-its-tenth-edition-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Pitch-10-year-Cover.png",
+   "title": "Pitch Music & Arts reveals 2027 lineup for its tenth edition",
+   "url": "https://mixmag.net.au/read/pitch-music-arts-reveals-2027-lineup-for-its-tenth-edition-news"
+  },
+  {
+   "audio": null,
    "date": "2026-10-19T04:04:00Z",
    "desc": "The renowned musician and video artist is alleged to have been attacked outside of his studio on Gadigal Land/Sydney last week. Continue reading...",
    "duration": null,
@@ -231,29 +251,9 @@
    "image": null,
    "title": "DJ Plead: Neither here nor there",
    "url": "https://mixmag.net.au/feature/dj-plead-neither-here-nor-there"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-02T04:04:00Z",
-   "desc": "Major Lazer, Don West, DJ Seinfeld, Flight Facilities, Todd Terje, Helena Hauff, a secret guest and a stacked crew of locals join together at the Sidney Myer Music Bowl for the festival’s round two this NYE. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-new-years-at-the-bowl-returns-to-naarm-for-year-two-shares-its-lineup-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/image.jpg",
-   "title": "New Year’s At The Bowl returns to Naarm for year two & shares its lineup",
-   "url": "https://mixmag.net.au/read/new-years-at-the-bowl-returns-to-naarm-for-year-two-shares-its-lineup-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-02T02:14:00Z",
-   "desc": "Pill testing is now permanent in NSW, but with sniffer dogs, strip searches and personal searches still standard at festival gates, how far does the state's commitment to drug safety really go? Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-nsw-makes-pill-testing-permanent-at-music-festivals-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Pill-Testing-Cover-2026.png",
-   "title": "NSW makes pill testing permanent at music festivals",
-   "url": "https://mixmag.net.au/read/nsw-makes-pill-testing-permanent-at-music-festivals-news"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-20T05:04:44Z"
 }
