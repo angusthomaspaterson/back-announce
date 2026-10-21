@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "d": "2026-10-21T18:28:55Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 21 Oct: 5 records",
+   "u": "https://firstfloor.substack.com/p/shelley-parker-screed"
+  },
+  {
+   "d": "2026-10-21T10:03:36Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Pugilist Has Better Taste Than I Do",
+   "u": "https://firstfloor.substack.com/p/pugilist-has-better-taste-than-i"
+  },
+  {
    "d": "2026-10-20T23:00:00Z",
    "g": "Podcasts",
    "s": "Tape Notes",
@@ -15,7 +31,7 @@
    "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
    "sid": "underground-live-forever",
    "sp": "Underground Live Forever Episode 046",
-   "t": "Underground Live Forever - ULF046",
+   "t": "Underground Live Forever - ULF046 with Paul Thomas",
    "u": "https://www.youtube.com/watch?v=zXmFFPzy2ag"
   },
   {
@@ -152,27 +168,10 @@
    "sid": "nts-day-care",
    "t": "Day Care w/ Quaid, DJ Randy Ellis, & The Alaia",
    "u": "https://www.nts.live/shows/day-care/episodes/day-care-19th-october-2026"
-  },
-  {
-   "d": "2026-10-19T20:00:00Z",
-   "g": "Progressive",
-   "s": "Super Progressive Podcast",
-   "sid": "super-progressive",
-   "sp": "Super Progressive Podcast The Role Of Booking Agencies in the Modern Electronic Music Landscape with Jon Sax",
-   "t": "The Role Of Booking Agencies in the Modern Electronic Music Landscape with Jon Sax",
-   "u": "https://www.buzzsprout.com/1864521/episodes/19986329-the-role-of-booking-agencies-in-the-modern-electronic-music-landscape-with-jon-sax.mp3"
-  },
-  {
-   "d": "2026-10-19T12:00:09Z",
-   "g": "Progressive",
-   "s": "Eelke Kleijn: DAYS like NIGHTS Radio",
-   "sid": "days-like-nights",
-   "t": "DAYS like NIGHTS 466 - Stereo Montreal. Part 4",
-   "u": "https://soundcloud.com/eelke-kleijn/days-like-nights-466-stereo"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 148,
+ "newCount": 150,
  "paused": 17,
  "releases": [
   {
@@ -233,5 +232,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-20T23:56:21Z"
+ "updated": "2026-10-21T21:30:09Z"
 }

@@ -3,6 +3,46 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-10-21T18:28:55Z",
+   "desc": "Hysterical Love Project – February’s Album (Motion Ward) nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
+   "id": "rollup-2026-10-21",
+   "image": "https://substackcdn.com/image/fetch/$s_!JGTs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f2769e-b04e-40b4-918f-2ad07c23f28e_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "Hysterical Love Project – February’s Album",
+     "u": "https://firstfloor.substack.com/p/hysterical-love-project-februarys"
+    },
+    {
+     "t": "nextdimensional – mind surf / deep space",
+     "u": "https://firstfloor.substack.com/p/nextdimensional-mind-surf-deep-space"
+    },
+    {
+     "t": "Nectax – Cash4Gold / Close2Mine",
+     "u": "https://firstfloor.substack.com/p/nectax-cash4gold-close2mine"
+    },
+    {
+     "t": "Charlie May – Trusted Farms",
+     "u": "https://firstfloor.substack.com/p/charlie-may-trusted-farms"
+    },
+    {
+     "t": "Shelley Parker – Screed",
+     "u": "https://firstfloor.substack.com/p/shelley-parker-screed"
+    }
+   ],
+   "title": "First Floor recommendations, 21 Oct: 5 records",
+   "url": "https://firstfloor.substack.com/p/shelley-parker-screed"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-21T10:03:36Z",
+   "desc": "A guest recommendation from the Australian-based low-end specialist.",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-pugilist-has-better-taste-than-i",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/9972259d-1f39-429f-a09a-343ec7964880_1456x1048.jpeg",
+   "title": "Pugilist Has Better Taste Than I Do",
+   "url": "https://firstfloor.substack.com/p/pugilist-has-better-taste-than-i"
+  },
+  {
    "audio": null,
    "date": "2026-10-20T16:46:54Z",
    "desc": "The music world’s growing embrace of social media and content creation has diluted the discourse, cultivated a lot of bad habits and normalized a worrying amount of unpaid labor.",
@@ -135,43 +175,9 @@
    ],
    "title": "First Floor recommendations, 8 Oct: 1 record",
    "url": "https://firstfloor.substack.com/p/first-floor-331-the-corporations"
-  },
-  {
-   "date": "2026-10-07T23:31:01Z",
-   "desc": "The Melting Hours – The Melting Hours (Beyond Space and Time) worriedaboutsatan – Outland (Constellation Tatsu) Harmony – Real Love / Inner Space / Elevate (Deep Jungle) Hodge – Big Splash (Local Action) Struktur – Levitation (Maloca) nthng – Last Light of the Sun (topo2)",
-   "id": "rollup-2026-10-07",
-   "image": "https://substackcdn.com/image/fetch/$s_!v6D8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16350946-f93b-4332-888c-67559b64abd4_1456x1048.jpeg",
-   "links": [
-    {
-     "t": "The Melting Hours – The Melting Hours",
-     "u": "https://firstfloor.substack.com/p/the-melting-hours-the-melting-hours"
-    },
-    {
-     "t": "worriedaboutsatan – Outland",
-     "u": "https://firstfloor.substack.com/p/worriedaboutsatan-outland"
-    },
-    {
-     "t": "Harmony – Real Love / Inner Space / Elevate",
-     "u": "https://firstfloor.substack.com/p/harmony-real-love-inner-space-elevate"
-    },
-    {
-     "t": "Hodge – Big Splash",
-     "u": "https://firstfloor.substack.com/p/hodge-big-splash"
-    },
-    {
-     "t": "Struktur – Levitation",
-     "u": "https://firstfloor.substack.com/p/struktur-levitation"
-    },
-    {
-     "t": "nthng – Last Light of the Sun",
-     "u": "https://firstfloor.substack.com/p/nthng-last-light-of-the-sun"
-    }
-   ],
-   "title": "First Floor recommendations, 7 Oct: 6 records",
-   "url": "https://firstfloor.substack.com/p/nthng-last-light-of-the-sun"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-20T21:30:08Z"
+ "updatedAt": "2026-10-21T21:30:09Z"
 }

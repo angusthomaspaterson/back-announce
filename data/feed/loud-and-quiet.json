@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-21T16:02:01Z",
+   "desc": "A column on the best cult bands of Loud And Quiet's past, fishing in the bottomless lake of music made since 2005",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-critical-retention-wooden-shjips",
+   "image": "https://substackcdn.com/image/fetch/$s_!8G1l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ede1f88-85a3-4fa9-80be-eb8ff1e99161_900x600.gif",
+   "title": "Critical retention: Wooden Shjips",
+   "url": "https://loudandquiet.substack.com/p/critical-retention-wooden-shjips"
+  },
+  {
+   "audio": null,
    "date": "2026-10-20T16:03:10Z",
    "desc": "A: The amount I’m consuming, usually in my car",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AWdG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a141789-c5c1-428e-a2af-7553fcdf3ba5_1200x842.jpeg",
    "title": "L&Q Weekly",
    "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-441"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-09T16:02:33Z",
-   "desc": "Cal Cashin rounds up August’s best in avant-garde music from around the world",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-the-drift-the-months-best-in-weird-and-experimental-music-august-2026",
-   "image": "https://substackcdn.com/image/fetch/$s_!nx3D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F592d5ddc-df14-4a8f-969e-cf8f55ed4021_949x666.jpeg",
-   "title": "The Drift: the month’s best in weird and experimental music",
-   "url": "https://loudandquiet.substack.com/p/the-drift-the-months-best-in-weird-and-experimental-music-august-2026"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-10-20T21:30:08Z"
+ "updatedAt": "2026-10-21T21:30:09Z"
 }
