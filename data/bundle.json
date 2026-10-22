@@ -5567,6 +5567,24 @@
    "id": "first-floor",
    "items": [
     {
+     "date": "2026-10-22T10:31:06Z",
+     "desc": "Sunju Hargun – The Golden Triangle (Chapter Two) (Siamese Twins) First Floor #333 – Slop Fatigue Is Already Happening",
+     "id": "rollup-2026-10-22",
+     "image": "https://substackcdn.com/image/fetch/$s_!9zz6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef441a6c-6240-4072-ad79-57ddbc880565_1456x1048.jpeg",
+     "links": [
+      {
+       "t": "Sunju Hargun – The Golden Triangle (Chapter Two)",
+       "u": "https://firstfloor.substack.com/p/sunju-hargun-the-golden-triangle"
+      },
+      {
+       "t": "First Floor #333 – Slop Fatigue Is Already Happening",
+       "u": "https://firstfloor.substack.com/p/first-floor-333-slop-fatigue-is-already"
+      }
+     ],
+     "title": "First Floor recommendations, 22 Oct: 2 records",
+     "url": "https://firstfloor.substack.com/p/first-floor-333-slop-fatigue-is-already"
+    },
+    {
      "date": "2026-10-21T18:28:55Z",
      "desc": "Hysterical Love Project – February’s Album (Motion Ward) nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
      "id": "rollup-2026-10-21",
@@ -5710,40 +5728,22 @@
     },
     {
      "date": "2026-10-12T17:59:00Z",
-     "desc": "Pete Swanson & Ilyas Ahmed – Things Left Unseen (Geographic North) Steffi – Half an Owl and a Full Moon Rising (Dekmantel)",
+     "desc": "Steffi – Half an Owl and a Full Moon Rising (Dekmantel)",
      "id": "rollup-2026-10-12",
-     "image": "https://substackcdn.com/image/fetch/$s_!IRME!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61f2ddf4-c6db-493e-85ba-f3ab5dac9d9b_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!1XXN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0425af60-6aba-4025-8807-8a371d960b7c_1456x1048.jpeg",
      "links": [
-      {
-       "t": "Pete Swanson & Ilyas Ahmed – Things Left Unseen",
-       "u": "https://firstfloor.substack.com/p/pete-swanson-and-ilyas-ahmed-things"
-      },
       {
        "t": "Steffi – Half an Owl and a Full Moon Rising",
        "u": "https://firstfloor.substack.com/p/steffi-half-an-owl-and-a-full-moon"
       }
      ],
-     "title": "First Floor recommendations, 12 Oct: 2 records",
+     "title": "First Floor recommendations, 12 Oct: 1 record",
      "url": "https://firstfloor.substack.com/p/steffi-half-an-owl-and-a-full-moon"
-    },
-    {
-     "date": "2026-10-08T11:14:28Z",
-     "desc": "First Floor #331 – The Corporations Are More Patient Than the Cool Kids",
-     "id": "rollup-2026-10-08",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/c42ca180-0bfc-4292-b159-6c616c5ad45b_1456x1048.png",
-     "links": [
-      {
-       "t": "First Floor #331 – The Corporations Are More Patient Than the Cool Kids",
-       "u": "https://firstfloor.substack.com/p/first-floor-331-the-corporations"
-      }
-     ],
-     "title": "First Floor recommendations, 8 Oct: 1 record",
-     "url": "https://firstfloor.substack.com/p/first-floor-331-the-corporations"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-10-21T21:30:09Z"
+   "updatedAt": "2026-10-22T21:30:08Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -31251,6 +31251,16 @@
    "id": "the-gig",
    "items": [
     {
+     "audio": null,
+     "date": "2026-10-21T23:45:05Z",
+     "desc": "A couple of wins, and a winning look ahead",
+     "duration": null,
+     "id": "https:--thegig.substack.com-p-always-hope",
+     "image": "https://substackcdn.com/image/fetch/$s_!KgXP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd899c57a-8778-47d7-9d10-1d2654449886_5712x4284.jpeg",
+     "title": "Always Hope",
+     "url": "https://thegig.substack.com/p/always-hope"
+    },
+    {
      "audio": "https://api.substack.com/feed/podcast/221030305/312b608d3e356cfe86499ed0db5f907d.mp3",
      "date": "2026-10-19T11:02:25Z",
      "desc": "His sound is everywhere. His concept is deceptively clear.",
@@ -31439,21 +31449,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!JA7J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F512d7421-896b-46f8-b0d2-25b74d821818_1920x1219.png",
      "title": "This Pop Pageant May Contain Jazz",
      "url": "https://thegig.substack.com/p/this-pop-pageant-may-contain-jazz"
-    },
-    {
-     "audio": null,
-     "date": "2026-07-07T11:02:10Z",
-     "desc": "Listening for what lies just ahead of us",
-     "duration": null,
-     "id": "https:--thegig.substack.com-p-take-five-mid-year-forecast-edition",
-     "image": "https://substackcdn.com/image/fetch/$s_!GfHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63c731ce-aece-47df-a43d-dd1a23ef19b1_2119x1266.jpeg",
-     "title": "Take Five: Mid-Year Forecast Edition",
-     "url": "https://thegig.substack.com/p/take-five-mid-year-forecast-edition"
     }
    ],
    "kind": "rss",
    "name": "The Gig (Nate Chinen)",
-   "updatedAt": "2026-10-19T21:30:06Z"
+   "updatedAt": "2026-10-22T21:30:08Z"
   },
   "the-lot-radio": {
    "home": "https://www.thelotradio.com/",
@@ -35098,7 +35098,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-22T07:27:53Z",
+  "lastRun": "2026-10-22T21:30:08Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-22T07:27:53Z",
@@ -35185,7 +35185,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 20,
     "newest": "2026-10-16T15:23:53Z",
     "ok": true
@@ -35221,7 +35221,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -35239,9 +35239,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 11,
-    "newest": "2026-10-21T18:28:55Z",
+    "newest": "2026-10-22T10:31:06Z",
     "ok": true
    },
    "flow-state": {
@@ -35251,7 +35251,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 20,
     "newest": "2026-10-20T11:07:37Z",
     "ok": true
@@ -35293,7 +35293,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 20,
     "newest": "2026-10-18T18:15:44Z",
     "ok": true
@@ -35353,7 +35353,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 20,
     "newest": "2026-10-21T16:02:01Z",
     "ok": true
@@ -35396,7 +35396,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 25,
     "newest": "2026-10-14T15:56:50Z",
     "ok": true
@@ -36117,9 +36117,9 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 20,
-    "newest": "2026-10-19T11:02:25Z",
+    "newest": "2026-10-21T23:45:05Z",
     "ok": true
    },
    "the-lot-radio": {
@@ -36129,7 +36129,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 20,
     "newest": "2026-10-19T09:02:51Z",
     "ok": true
@@ -36147,7 +36147,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
@@ -36171,7 +36171,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-10-21T21:30:09Z",
+    "at": "2026-10-22T21:30:08Z",
     "count": 5,
     "newest": "2026-10-20T18:00:33Z",
     "ok": true

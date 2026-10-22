@@ -9,6 +9,14 @@
    "u": "https://soundcloud.com/balance-series/preview-nick-warren-run-for"
   },
   {
+   "d": "2026-10-22T10:31:06Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 22 Oct: 2 records",
+   "u": "https://firstfloor.substack.com/p/first-floor-333-slop-fatigue-is-already"
+  },
+  {
    "d": "2026-10-22T07:02:59Z",
    "g": "Writing",
    "s": "Flow State",
@@ -158,18 +166,10 @@
    "sp": "Sound Opinions Much More Than a One-Hit Wonder",
    "t": "Much More Than a One-Hit Wonder",
    "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/1cdda4ba-f5fa-4cac-b61f-29af7c04a141.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-10-21T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Life, Death, and Afterlife of Astor Piazzolla",
-   "u": "https://daily.bandcamp.com/features/astor-piazzolla-album-guide"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 176,
+ "newCount": 177,
  "paused": 17,
  "releases": [
   {
@@ -230,5 +230,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-22T07:27:53Z"
+ "updated": "2026-10-22T21:30:08Z"
 }

@@ -3,6 +3,24 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-10-22T10:31:06Z",
+   "desc": "Sunju Hargun – The Golden Triangle (Chapter Two) (Siamese Twins) First Floor #333 – Slop Fatigue Is Already Happening",
+   "id": "rollup-2026-10-22",
+   "image": "https://substackcdn.com/image/fetch/$s_!9zz6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef441a6c-6240-4072-ad79-57ddbc880565_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "Sunju Hargun – The Golden Triangle (Chapter Two)",
+     "u": "https://firstfloor.substack.com/p/sunju-hargun-the-golden-triangle"
+    },
+    {
+     "t": "First Floor #333 – Slop Fatigue Is Already Happening",
+     "u": "https://firstfloor.substack.com/p/first-floor-333-slop-fatigue-is-already"
+    }
+   ],
+   "title": "First Floor recommendations, 22 Oct: 2 records",
+   "url": "https://firstfloor.substack.com/p/first-floor-333-slop-fatigue-is-already"
+  },
+  {
    "date": "2026-10-21T18:28:55Z",
    "desc": "Hysterical Love Project – February’s Album (Motion Ward) nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
    "id": "rollup-2026-10-21",
@@ -146,38 +164,20 @@
   },
   {
    "date": "2026-10-12T17:59:00Z",
-   "desc": "Pete Swanson & Ilyas Ahmed – Things Left Unseen (Geographic North) Steffi – Half an Owl and a Full Moon Rising (Dekmantel)",
+   "desc": "Steffi – Half an Owl and a Full Moon Rising (Dekmantel)",
    "id": "rollup-2026-10-12",
-   "image": "https://substackcdn.com/image/fetch/$s_!IRME!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61f2ddf4-c6db-493e-85ba-f3ab5dac9d9b_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!1XXN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0425af60-6aba-4025-8807-8a371d960b7c_1456x1048.jpeg",
    "links": [
-    {
-     "t": "Pete Swanson & Ilyas Ahmed – Things Left Unseen",
-     "u": "https://firstfloor.substack.com/p/pete-swanson-and-ilyas-ahmed-things"
-    },
     {
      "t": "Steffi – Half an Owl and a Full Moon Rising",
      "u": "https://firstfloor.substack.com/p/steffi-half-an-owl-and-a-full-moon"
     }
    ],
-   "title": "First Floor recommendations, 12 Oct: 2 records",
+   "title": "First Floor recommendations, 12 Oct: 1 record",
    "url": "https://firstfloor.substack.com/p/steffi-half-an-owl-and-a-full-moon"
-  },
-  {
-   "date": "2026-10-08T11:14:28Z",
-   "desc": "First Floor #331 – The Corporations Are More Patient Than the Cool Kids",
-   "id": "rollup-2026-10-08",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/c42ca180-0bfc-4292-b159-6c616c5ad45b_1456x1048.png",
-   "links": [
-    {
-     "t": "First Floor #331 – The Corporations Are More Patient Than the Cool Kids",
-     "u": "https://firstfloor.substack.com/p/first-floor-331-the-corporations"
-    }
-   ],
-   "title": "First Floor recommendations, 8 Oct: 1 record",
-   "url": "https://firstfloor.substack.com/p/first-floor-331-the-corporations"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-21T21:30:09Z"
+ "updatedAt": "2026-10-22T21:30:08Z"
 }

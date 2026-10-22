@@ -3,6 +3,16 @@
  "id": "the-gig",
  "items": [
   {
+   "audio": null,
+   "date": "2026-10-21T23:45:05Z",
+   "desc": "A couple of wins, and a winning look ahead",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-always-hope",
+   "image": "https://substackcdn.com/image/fetch/$s_!KgXP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd899c57a-8778-47d7-9d10-1d2654449886_5712x4284.jpeg",
+   "title": "Always Hope",
+   "url": "https://thegig.substack.com/p/always-hope"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/221030305/312b608d3e356cfe86499ed0db5f907d.mp3",
    "date": "2026-10-19T11:02:25Z",
    "desc": "His sound is everywhere. His concept is deceptively clear.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!JA7J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F512d7421-896b-46f8-b0d2-25b74d821818_1920x1219.png",
    "title": "This Pop Pageant May Contain Jazz",
    "url": "https://thegig.substack.com/p/this-pop-pageant-may-contain-jazz"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-07T11:02:10Z",
-   "desc": "Listening for what lies just ahead of us",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-take-five-mid-year-forecast-edition",
-   "image": "https://substackcdn.com/image/fetch/$s_!GfHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63c731ce-aece-47df-a43d-dd1a23ef19b1_2119x1266.jpeg",
-   "title": "Take Five: Mid-Year Forecast Edition",
-   "url": "https://thegig.substack.com/p/take-five-mid-year-forecast-edition"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-10-19T21:30:06Z"
+ "updatedAt": "2026-10-22T21:30:08Z"
 }
