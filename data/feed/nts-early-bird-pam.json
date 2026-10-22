@@ -3,6 +3,16 @@
  "id": "nts-early-bird-pam",
  "items": [
   {
+   "date": "2026-10-22T06:00:00Z",
+   "desc": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
+   "id": "early-bird-show-w-pam-22nd-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0fc2ca98-11ea-4d92-8d88-ec8fb2308e11_1792627200.jpeg",
+   "location": "Paris",
+   "tags": "Post Rock, Ambient, Indie Rock",
+   "title": "The Early Bird Show w/ PAM & noé & noé",
+   "url": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-22nd-october-2026"
+  },
+  {
    "date": "2026-10-15T06:00:00Z",
    "desc": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
    "id": "early-bird-show-w-pam-15th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "New Wave, Modern Classical, Leftfield Pop, Art Rock",
    "title": "The Early Bird Show w/ PAM & DJ FINE",
    "url": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-16th-july-2026"
-  },
-  {
-   "date": "2026-07-09T06:00:00Z",
-   "desc": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-   "id": "early-bird-show-w-pam-9th-july-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/4e3037e2-2ab1-4d03-96d2-c930ceabae5d_1783555200.jpeg",
-   "location": "Paris",
-   "tags": "Synth Pop, Rap, Minimalism, Art Rock",
-   "title": "The Early Bird Show w/ PAM",
-   "url": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-9th-july-2026"
   }
  ],
  "kind": "nts",
  "name": "The Early Bird Show w/ PAM",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-22T22:22:40Z"
 }

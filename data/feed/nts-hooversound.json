@@ -3,6 +3,16 @@
  "id": "nts-hooversound",
  "items": [
   {
+   "date": "2026-10-21T20:00:00Z",
+   "desc": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
+   "id": "hooversound-21st-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0cd746d1-8e36-4462-bba1-712e5a1845a7_1792627200.jpeg",
+   "location": "London",
+   "tags": "Breakbeat Hardcore, Drum & Bass, Jungle",
+   "title": "Hooversound w/ Sherelle",
+   "url": "https://www.nts.live/shows/hooversound/episodes/hooversound-21st-october-2026"
+  },
+  {
    "date": "2026-09-23T20:00:00Z",
    "desc": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
    "id": "hooversound-23rd-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Techno, Drum & Bass, Grime",
    "title": "Hooversound w/ Slinki",
    "url": "https://www.nts.live/shows/hooversound/episodes/hooversound-slinki-17th-december-2025"
-  },
-  {
-   "date": "2025-11-19T21:00:00Z",
-   "desc": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
-   "id": "hooversound-19th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/712ac53a-a7e5-461a-9e7d-36b8feed4c94_1763510400.jpeg",
-   "location": "London",
-   "tags": "Drum & Bass, Jungle",
-   "title": "Hooversound w/ Jolie P & VXRGO",
-   "url": "https://www.nts.live/shows/hooversound/episodes/hooversound-19th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Hooversound w/ Sherelle & Naina",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-22T22:22:40Z"
 }

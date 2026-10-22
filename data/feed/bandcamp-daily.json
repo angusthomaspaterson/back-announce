@@ -3,10 +3,28 @@
  "id": "bandcamp-daily",
  "items": [
   {
+   "date": "2026-10-22T00:00:00Z",
+   "desc": "Artists of all genre are revisiting centuries past for inspiration.",
+   "id": "scene-report-contemporary-medieval-music-scene-report",
+   "image": "https://f4.bcbits.com/img/0048081808_180",
+   "tags": "Scene Report",
+   "title": "Return of the Dark Ages: The Rise of the Medieval Underground",
+   "url": "https://daily.bandcamp.com/scene-report/contemporary-medieval-music-scene-report"
+  },
+  {
+   "date": "2026-10-22T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-kill-alters-we-can-rot-together-review",
+   "image": "https://f4.bcbits.com/img/0048080645_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Kill Alters, “We Can Rot Together”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/kill-alters-we-can-rot-together-review"
+  },
+  {
    "date": "2026-10-21T00:00:00Z",
-   "desc": "The legendary tango artist composed music that has become staples for violinists, pianists, and string quartets.",
+   "desc": "",
    "id": "features-astor-piazzolla-album-guide",
-   "image": "https://f4.bcbits.com/img/0048068155_180",
+   "image": "https://f4.bcbits.com/img/0048068155_150.jpg",
    "tags": "Features",
    "title": "The Life, Death, and Afterlife of Astor Piazzolla",
    "url": "https://daily.bandcamp.com/features/astor-piazzolla-album-guide"
@@ -208,27 +226,9 @@
    "tags": "Features",
    "title": "Particle Acceleration: Pitchblende Reclaim Their Legacy",
    "url": "https://daily.bandcamp.com/features/pitchblende-feature"
-  },
-  {
-   "date": "2026-10-08T00:00:00Z",
-   "desc": "",
-   "id": "features-dave-holland-interview",
-   "image": "https://f4.bcbits.com/img/0047670931_150.jpg",
-   "tags": "Features",
-   "title": "Still Modern: Dave Holland at 80",
-   "url": "https://daily.bandcamp.com/features/dave-holland-interview"
-  },
-  {
-   "date": "2026-10-08T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-various-artists-antiyano-progresivo-review",
-   "image": "https://f4.bcbits.com/img/0047728487_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Various Artists, “Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-antiyano-progresivo-review"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-22T00:01:40Z"
+ "updatedAt": "2026-10-22T22:22:40Z"
 }

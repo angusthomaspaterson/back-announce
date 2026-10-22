@@ -3,6 +3,16 @@
  "id": "nts-canyoufeelthesun-w-call-super-parris",
  "items": [
   {
+   "date": "2026-10-22T00:00:00Z",
+   "desc": "\"A kind of music\" - the duo behind the new label come together for a regular hour long session, weaving through unexpected dancefloor sounds…",
+   "id": "canyoufeelthesun-w-call-super-parris-22nd-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/c84cb750-b0ff-4077-9e24-623a16dffdb4_1791849600.jpeg",
+   "location": "London",
+   "tags": "House, Tech House",
+   "title": "CAN YOU FEEL THE SUN W/ PARRIS",
+   "url": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-22nd-october-2026"
+  },
+  {
    "date": "2026-09-24T00:00:00Z",
    "desc": "\"A kind of music\" - the duo behind the new label come together for a regular hour long session, weaving through unexpected dancefloor sounds…",
    "id": "canyoufeelthesun-w-call-super-parris-24th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Shoegaze, Trip Hop, Leftfield Techno, Drum & Bass",
    "title": "CAN YOU FEEL THE SUN W/ CALL SUPER",
    "url": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-18th-december-2025"
-  },
-  {
-   "date": "2025-11-20T01:00:00Z",
-   "desc": "\"A kind of music\" - the duo behind the new label come together for a regular hour long session, weaving through unexpected dancefloor sounds…",
-   "id": "canyoufeelthesun-w-call-super-parris-20th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/0bbc091b-9ef0-40c5-ab41-ad7e77db10d7_1763596800.jpeg",
-   "location": "London",
-   "tags": "Deep House, House",
-   "title": "CAN YOU FEEL THE SUN W/ CALL SUPER & PARRIS",
-   "url": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-20th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "CAN YOU FEEL THE SUN W/ CALL SUPER & PARRIS",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-10-22T22:22:40Z"
 }

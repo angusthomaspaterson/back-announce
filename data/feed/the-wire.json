@@ -35,6 +35,16 @@
   {
    "audio": null,
    "date": "2026-10-14T00:00:00Z",
+   "desc": "To accompany his Global Ear feature in The Wire 513, Christiaan de Wit compiles an annotated playlist of tracks from the neighbouring Dutch cities Though only 13 minutes apart by train, Tilburg and Breda have very different characters and different musical histories. Nonetheless, they benefit from a quiet symbiosis in their fermentation of noise, tekno (the Netherlands’ free party/underground brand of techno), gabber and jungle. Psychick Warriors Ov Gaia “The Challenge (Part Two)” From Ov Biospheres And Sacred Grooves: A Document Ov New Edge Folk Classics (Forever Records) 1992 Originally rel…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-tracks-global-ear-tilburg-breda",
+   "image": "https://www.thewire.co.uk/img/contain/612/480/2026/10/22/StekBredaPhotoforGlobalEar_1_for_online.jpg",
+   "title": "Global Ear: Tilburg & Breda",
+   "url": "https://www.thewire.co.uk/audio/tracks/global-ear-tilburg-breda"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-14T00:00:00Z",
    "desc": "The 15 October edition of The Wire 's weekly radio show featured music by Otomo Yoshihide & Quentin Rollet, BETHLEHEM بيت لحم, Coil, Ans M and more Tracklist Otomo Yoshihide & Quentin Rollet “Flying Kaiju” From Flying Kaiju ( Bisou ) BETHLEHEM بيت لحم “Buzuq For Four Hands (Live Recording)” From BETHLEHEM بيت لحم ( Constellation ) Willow Swan & Ellis Berwick “The Beginning Is Near (Live Performance)” From Below The Radar 51 ( BTR 51 ) Kill Alters “OCCAMS RAZOR” From We Can Rot Together ( Hausu Mountain ) Coil “Either His, Or Yours” From Gold Is The Metal (With The Broadest Shoulders) ( Mute )…",
    "duration": null,
    "id": "https:--www.thewire.co.uk-audio-on-air-misha-farrant-presents-adventures-in-sound-and-music-79784",
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/600/480/2026/09/03/mike_watt-51_for_web.jpg",
    "title": "Office Ambience 512",
    "url": "https://www.thewire.co.uk/audio/tracks/office-ambience-512"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-02T00:00:00Z",
-   "desc": "Listen to the music we played to Pamela Z during her Invisible Jukebox interview in The Wire 512 Each month in the magazine we play an artist or group a series of tracks which they are asked to comment on – with no prior knowledge of what they are about to hear. In The Wire 512 it is the turn of composer and vocalist Pamela Z. Here you can listen to a mix of the tracks our correspondent Marc Weidenbaum played to Z during the interview, which is published in full in The Wire 512 . To find out what she said about them, subscribers can read the interview in our online magazine library here . Or …",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-tracks-invisible-jukebox-mix-pamelaz",
-   "image": "https://www.thewire.co.uk/img/contain/612/480/2026/09/07/pamz_wire2_CMYK_copy.jpg",
-   "title": "Invisible Jukebox mix: Pamela Z",
-   "url": "https://www.thewire.co.uk/audio/tracks/invisible-jukebox-mix-pamelaz"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-10-22T00:01:40Z"
+ "updatedAt": "2026-10-22T22:22:40Z"
 }

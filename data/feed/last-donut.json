@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-22T08:00:00Z",
+   "desc": "",
+   "duration": null,
+   "id": "6ad919edd9abe400019d5a13",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/allunderheaven.jpg",
+   "title": "Baker's Dozen: Central Cee, French Montana, Jack White",
+   "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-central-cee-french-montana-jack-white/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-21T15:17:15Z",
    "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/Logic1000-by-Kasia-Kim-Zacharko.jpg",
    "title": "Logic1000 on Catholicism, Repairing Relationships, and Walking Away from Optimization",
    "url": "https://last-donut-of-the-night.ghost.io/logic1000-on-catholicism-repairing-relationships-and-walking-away-from-optimization/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-01T16:53:29Z",
-   "desc": "",
-   "duration": null,
-   "id": "6abe74fe8650350001fee068",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/fjord.jpg",
-   "title": "Screen Memories: Bucking Fastard, Fjord, Primetime",
-   "url": "https://last-donut-of-the-night.ghost.io/screen-memories-bucking-fastard-fjord-primetime/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-22T00:01:40Z"
+ "updatedAt": "2026-10-22T22:22:40Z"
 }
