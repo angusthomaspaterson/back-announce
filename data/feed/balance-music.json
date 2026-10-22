@@ -3,6 +3,26 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2423677839-balance-series-preview-nick-warren-run-for.mp3",
+   "date": "2026-10-23T00:00:00Z",
+   "desc": "The title track ‘Run For Cover’ taps into the wide-eyed escapism of the mid-’90s without slipping into nostalgia. Psychedelic details flicker across the drums like LED trails in a dark room, while a restless walking bassline gives the whole thing a wonderfully physical pull. Elements drift in and out of focus, resisting an obvious genre tag while maintaining an easy, heads-down momentum. It’s progressive music in the literal sense: constantly moving, never particularly interested in announcing where it’s going next.",
+   "duration": "00:04:00",
+   "id": "tag:soundcloud-2010:tracks-2423677839",
+   "image": "https://i1.sndcdn.com/artworks-vwVU8oXWgXJJ917X-VFkbPQ-t3000x3000.jpg",
+   "title": "[PREVIEW] Nick Warren - Run For Cover",
+   "url": "https://soundcloud.com/balance-series/preview-nick-warren-run-for"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2423678364-balance-series-preview-nick-warren-stupa.mp3",
+   "date": "2026-10-22T00:00:00Z",
+   "desc": "On “Stupa”, the mood opens outward. There’s an unmistakable Balearic quality to its sun-warmed percussion and serrated bassline,a groove that immediately suggests open-air dancefloors and late-afternoon light. A woozy synth gradually sends proceedings into more narcotic territory, while soft vocal fragments, keyboard flourishes and flashes of guitar keep one foot planted somewhere recognisably human. Nothing is hurried or overplayed. Instead, Warren lets each element breathe, resulting in the kind of patient, transportive dance music that comes from knowing exactly how little you need to do.",
+   "duration": "00:03:59",
+   "id": "tag:soundcloud-2010:tracks-2423678364",
+   "image": "https://i1.sndcdn.com/artworks-zciUfzxWZyxY1GzW-b6aS4w-t3000x3000.jpg",
+   "title": "[PREVIEW] Nick Warren - Stupa",
+   "url": "https://soundcloud.com/balance-series/preview-nick-warren-stupa"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2421848133-balance-series-balance-selections-najeys.mp3",
    "date": "2026-10-19T00:00:00Z",
    "desc": "Colombian DJ NAJEYS has developed a sound rooted in the melodic and hypnotic strains of progressive house. With a background in vocals and percussion, she began exploring electronic music in 2016, developing an approach to DJing that balances driving rhythms, atmospheric textures and emotive melodies. A resident at Medellín’s Club Sonorama and winner of Colombia’s Best Progressive DJ award in 2022, NAJEYS has performed at major festivals across Colombia, Mexico, Curaçao and Argentina. She next opens for Martin Garrix at Medellín’s Davi Arena on December 5th, with new music also on the horizon…",
@@ -231,29 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-iGVikWwnjA0waAOY-qNPCuQ-t3000x3000.jpg",
    "title": "Balance Selections 382: Pau Grossi",
    "url": "https://soundcloud.com/balance-series/balance-selections-382-pau"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2393461830-balance-series-aubrey-fry-nick-stoynoff-live.mp3",
-   "date": "2026-09-03T01:19:04Z",
-   "desc": "Recording of Aubrey Fry & Nick Stoynoff's set from Balance Croatia 2026. @aubreyfry @nickstoynoff __________________________________________________ SIGN UP FOR BALANCE CROATIA 2027: laylo.com/balancecroatia/sgbvg ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "02:03:58",
-   "id": "tag:soundcloud-2010:tracks-2393461830",
-   "image": "https://i1.sndcdn.com/artworks-Be6Azh7DvsAnSfvq-zxnRaA-t3000x3000.jpg",
-   "title": "Aubrey Fry & Nick Stoynoff: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/aubrey-fry-nick-stoynoff-live"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2392798428-balance-series-eichenbaum-live-from-balance.mp3",
-   "date": "2026-09-02T00:00:00Z",
-   "desc": "Recording of Eichenbaum's set from Balance Croatia 2026. @eichenbaumofficial __________________________________________________ SIGN UP FOR BALANCE CROATIA 2027: laylo.com/balancecroatia/sgbvg ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "02:01:21",
-   "id": "tag:soundcloud-2010:tracks-2392798428",
-   "image": "https://i1.sndcdn.com/artworks-JXcsD8wU6IFJggwh-2EPa2w-t3000x3000.jpg",
-   "title": "Eichenbaum: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/eichenbaum-live-from-balance"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-22T07:27:53Z"
 }

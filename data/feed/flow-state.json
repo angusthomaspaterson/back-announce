@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-22T07:02:59Z",
+   "desc": "Today we’re listening to Hermanos Gutiérrez, Ecuadorian-Swiss guitarists Alejandro and Estevan.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-hermanos-gutierrez-c55",
+   "image": "https://substackcdn.com/image/fetch/$s_!emCj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2a7a276-fb36-4f48-9104-d1ad4942ee5c_1200x1200.jpeg",
+   "title": "Hermanos Gutiérrez",
+   "url": "https://www.flowstate.fm/p/hermanos-gutierrez-c55"
+  },
+  {
+   "audio": null,
    "date": "2026-10-21T07:03:13Z",
    "desc": "Today we’re listening to Julia Gjertsen, a Norwegian pianist and composer based in Oslo.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!3sLU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feed56eff-32f2-414a-a430-199d5939e681_1200x1200.jpeg",
    "title": "Patrick Cowley",
    "url": "https://www.flowstate.fm/p/patrick-cowley"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-24T07:02:46Z",
-   "desc": "Today we’re listening to Egberto Gismonti, a Brazilian composer, guitarist, and pianist from Carmo.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-egberto-gismonti",
-   "image": "https://substackcdn.com/image/fetch/$s_!su5B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb519531f-df13-46f5-9a6b-07ebe3c30259_4928x3264.jpeg",
-   "title": "Egberto Gismonti",
-   "url": "https://www.flowstate.fm/p/egberto-gismonti"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-22T00:01:40Z"
+ "updatedAt": "2026-10-22T07:27:53Z"
 }

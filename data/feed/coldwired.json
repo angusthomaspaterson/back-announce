@@ -3,6 +3,16 @@
  "id": "coldwired",
  "items": [
   {
+   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-CruiseControl002.mp3",
+   "date": "2026-10-22T06:22:01Z",
+   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
+   "duration": "1:35:13",
+   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-CruiseControl002.mp3",
+   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-CruiseControl002.jpg",
+   "title": "'Cruise Control' 002 (Progressive Trance)",
+   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-CruiseControl002.mp3"
+  },
+  {
    "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-October2026ptII.mp3",
    "date": "2026-10-15T06:22:01Z",
    "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
@@ -241,19 +251,9 @@
    "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-TDJsOMPJune2026.jpg",
    "title": "Twitch DJs Progressive Raid Train: June 2026 (Live Stream 06/06/26)",
    "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-TDJsOMPJune2026.mp3"
-  },
-  {
-   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-Contrasts021.mp3",
-   "date": "2026-06-11T06:27:01Z",
-   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
-   "duration": "1:28:35",
-   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-Contrasts021.mp3",
-   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-Contrasts021.jpg",
-   "title": "Contrasts 021: Simon Templar vs Cosmithex",
-   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-Contrasts021.mp3"
   }
  ],
  "kind": "rss",
  "name": "Coldwired Podcast (Nick Clark)",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-22T07:27:53Z"
 }

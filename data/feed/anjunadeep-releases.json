@@ -3,6 +3,16 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-10-21T00:00:00Z",
+   "desc": "Single on Anjunadeep Explorations, out 21 Oct 2026.",
+   "id": "622290-when-we-look-away",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/622290.jpg",
+   "out": "2026-10-21T00:00:00Z",
+   "tags": "Single · Anjunadeep Explorations",
+   "title": "Quivver feat. Ruth Royall – When We Look Away",
+   "url": "https://anjunadeep.com/products/622290-when-we-look-away"
+  },
+  {
    "date": "2026-10-20T00:00:00Z",
    "desc": "EP on Anjunadeep, out 20 Oct 2026.",
    "id": "622291-ready-to-fall",
@@ -241,19 +251,9 @@
    "tags": "Single · Anjunachill",
    "title": "obli – He Dreams of Friends (Kloyd Remix)",
    "url": "https://anjunadeep.com/products/613891-he-dreams-of-friends-kloyd-remix"
-  },
-  {
-   "date": "2026-09-16T00:00:00Z",
-   "desc": "EP on Anjunadeep Explorations, out 16 Sep 2026.",
-   "id": "614108-holding-pattern-ep",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/614108.jpg",
-   "out": "2026-09-16T00:00:00Z",
-   "tags": "EP · Anjunadeep Explorations",
-   "title": "Choopsie – Holding Pattern EP",
-   "url": "https://anjunadeep.com/products/614108-holding-pattern-ep"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-22T00:01:40Z"
+ "updatedAt": "2026-10-22T07:27:53Z"
 }

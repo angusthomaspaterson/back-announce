@@ -3,6 +3,16 @@
  "id": "spectrum-radio",
  "items": [
   {
+   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_495__Joris_Voorn_sc.mp3?dest-id=504876",
+   "date": "2026-10-22T00:00:00Z",
+   "desc": "Live from AMK Club, Buenos Aires",
+   "duration": "01:01:17",
+   "id": "74794a8f-4ad5-4f1d-bdd0-4610e431c14d",
+   "image": "https://static.libsyn.com/p/assets/f/0/b/2/f0b2dade07792508a04421dee9605cbd/Spectrum_Radio_495.jpg",
+   "title": "Spectrum Radio 495",
+   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-495"
+  },
+  {
    "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_494__Joris_Voorn_sc.mp3?dest-id=504876",
    "date": "2026-10-15T14:32:00Z",
    "desc": "Live from Into The Woods, Amsterdam",
@@ -241,19 +251,9 @@
    "image": "https://static.libsyn.com/p/assets/d/c/6/e/dc6e9151bc675d95d959afa2a1bf1c87/Spectrum_Radio_471-20260505-4uk1unfy99.jpg",
    "title": "Spectrum Radio 471",
    "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-471"
-  },
-  {
-   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_470__Joris_Voorn_sc.mp3?dest-id=504876",
-   "date": "2026-04-30T00:00:00Z",
-   "desc": "Live from Fabric, London",
-   "duration": "01:01:14",
-   "id": "6f0d50e1-e2f7-4092-aa61-6640cd9c572c",
-   "image": "https://static.libsyn.com/p/assets/0/c/0/e/0c0e24363615b99016c3140a3186d450/Spectrum_Radio_470.jpg",
-   "title": "Spectrum Radio 470",
-   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-470"
   }
  ],
  "kind": "rss",
  "name": "Joris Voorn: Spectrum Radio",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-22T07:27:53Z"
 }

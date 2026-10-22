@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-22T04:03:00Z",
+   "desc": "For their collaborative full-length debut, Eris Drew and Octo Octa hunkered down in their New Hampshire cabin to craft a celebratory, sample-heavy tribute to the maximalist dance music of yore.",
+   "duration": null,
+   "id": "6ad90934307e18bf9f5d1871",
+   "image": null,
+   "title": "Alchemical Sisters",
+   "url": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-19T04:03:00Z",
    "desc": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "LIVING TYPE DANGEROUS Vol. 1",
    "url": "https://pitchfork.com/reviews/albums/starker-living-type-dangerous-vol-1/"
-  },
-  {
-   "audio": null,
-   "date": "2026-04-10T04:03:00Z",
-   "desc": "Former Black Midi bassist Cameron Picton’s dazzlingly complicated solo debut is a tangle of baroque melodies, chamber-punk arrangements, and garden-path lyrics.",
-   "duration": null,
-   "id": "69d6aea9d5a5f88194a75c99",
-   "image": null,
-   "title": "My New Band Believe",
-   "url": "https://pitchfork.com/reviews/albums/my-new-band-believe-my-new-band-believe/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-22T07:27:53Z"
 }

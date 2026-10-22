@@ -1,6 +1,74 @@
 {
  "items": [
   {
+   "d": "2026-10-23T00:00:00Z",
+   "g": "Progressive",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "[PREVIEW] Nick Warren - Run For Cover",
+   "u": "https://soundcloud.com/balance-series/preview-nick-warren-run-for"
+  },
+  {
+   "d": "2026-10-22T07:02:59Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "t": "Hermanos Gutiérrez",
+   "u": "https://www.flowstate.fm/p/hermanos-gutierrez-c55"
+  },
+  {
+   "d": "2026-10-22T07:00:00Z",
+   "g": "Radio",
+   "s": "KEXP: In Our Headphones",
+   "sid": "in-our-headphones",
+   "sp": "KEXP: In Our Headphones Melanie C on DJing and the Brilliance of Violet Skies",
+   "t": "Melanie C on DJing and the Brilliance of Violet Skies",
+   "u": "https://omny.fm/shows/kexp-song-of-the-day/melanie-c-on-djing-and-the-brilliance-of-violet-skies"
+  },
+  {
+   "d": "2026-10-22T06:58:00Z",
+   "g": "Podcasts",
+   "s": "Love Is The Message",
+   "sid": "love-is-the-message",
+   "sp": "Love Is The Message Transfiguration: Spiritual Jazz pt.2",
+   "t": "Transfiguration: Spiritual Jazz pt.2",
+   "u": "https://podcasters.spotify.com/pod/show/lovemessagepod/episodes/Transfiguration-Spiritual-Jazz-pt-2-e3qrsd8"
+  },
+  {
+   "d": "2026-10-22T06:22:01Z",
+   "g": "Progressive",
+   "s": "Coldwired Podcast (Nick Clark)",
+   "sid": "coldwired",
+   "sp": "Coldwired Podcast (Nick Clark) 'Cruise Control' 002 (Progressive Trance)",
+   "t": "'Cruise Control' 002 (Progressive Trance)",
+   "u": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-CruiseControl002.mp3"
+  },
+  {
+   "d": "2026-10-22T04:03:00Z",
+   "g": "Writing",
+   "s": "Pitchfork: Best New Albums",
+   "sid": "pitchfork-bna",
+   "t": "Alchemical Sisters",
+   "u": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/"
+  },
+  {
+   "d": "2026-10-22T00:00:00Z",
+   "g": "Progressive",
+   "s": "Joris Voorn: Spectrum Radio",
+   "sid": "spectrum-radio",
+   "sp": "Joris Voorn: Spectrum Radio Spectrum Radio 495",
+   "t": "Spectrum Radio 495",
+   "u": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-495"
+  },
+  {
+   "d": "2026-10-22T00:00:00Z",
+   "g": "Progressive",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "[PREVIEW] Nick Warren - Stupa",
+   "u": "https://soundcloud.com/balance-series/preview-nick-warren-stupa"
+  },
+  {
    "d": "2026-10-21T18:28:55Z",
    "g": "Writing",
    "s": "First Floor",
@@ -98,77 +166,10 @@
    "sid": "bandcamp-daily",
    "t": "The Life, Death, and Afterlife of Astor Piazzolla",
    "u": "https://daily.bandcamp.com/features/astor-piazzolla-album-guide"
-  },
-  {
-   "d": "2026-10-21T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "June McDoom, “Follow The Light”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/june-mcdoom-follow-the-light-review"
-  },
-  {
-   "d": "2026-10-21T00:00:00Z",
-   "g": "Radio",
-   "s": "Bandcamp Radio",
-   "sid": "bandcamp-radio",
-   "t": "Bandcamp Electronic: Marla Kether",
-   "u": "https://bandcamp.com/radio/bandcamp-electronic/1012"
-  },
-  {
-   "d": "2026-10-21T00:00:00Z",
-   "g": "Progressive",
-   "s": "Selador Sessions (Dave Seaman & Steve Parry)",
-   "sid": "selador-sessions",
-   "sp": "Selador Sessions (Dave Seaman & Steve Parry) Selador Sessions 389 | Kevin Di Serna",
-   "t": "Selador Sessions 389 | Kevin Di Serna",
-   "u": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-389-kevin-di-serna"
-  },
-  {
-   "d": "2026-10-20T23:00:00Z",
-   "g": "Podcasts",
-   "s": "Tape Notes",
-   "sid": "tape-notes",
-   "sp": "Tape Notes TN:192 Troye Sivan & Tyde Levi",
-   "t": "TN:192 Troye Sivan & Tyde Levi",
-   "u": "https://traffic.megaphone.fm/TNL8863906564.mp3"
-  },
-  {
-   "d": "2026-10-20T18:00:33Z",
-   "g": "Progressive",
-   "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
-   "sid": "underground-live-forever",
-   "sp": "Underground Live Forever Episode 046",
-   "t": "Underground Live Forever - ULF046 with Paul Thomas",
-   "u": "https://www.youtube.com/watch?v=zXmFFPzy2ag"
-  },
-  {
-   "d": "2026-10-20T17:51:53Z",
-   "g": "Writing",
-   "s": "Stereogum: Album of the Week",
-   "sid": "stereogum-aotw",
-   "t": "Album Of The Week: Josh Johnson Animative",
-   "u": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/"
-  },
-  {
-   "d": "2026-10-20T16:46:54Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "Instagram Is Not My Job",
-   "u": "https://firstfloor.substack.com/p/instagram-is-not-my-job"
-  },
-  {
-   "d": "2026-10-20T15:00:00Z",
-   "g": "NTS",
-   "s": "Awe w/ Laurel Halo",
-   "sid": "nts-laurel-halo",
-   "t": "Awe w/ Laurel Halo",
-   "u": "https://www.nts.live/shows/laurel-halo/episodes/laurel-halo-20th-october-2026"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 167,
+ "newCount": 176,
  "paused": 17,
  "releases": [
   {
@@ -229,5 +230,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-22T00:01:40Z"
+ "updated": "2026-10-22T07:27:53Z"
 }
