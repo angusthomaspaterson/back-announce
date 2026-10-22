@@ -46,7 +46,7 @@ On first setup, import `seed/` into `data/`. Move `likes.json` into `state.json`
 - Fetch in parallel with at most 6 at a time. A failing source keeps its previous `feed/<id>.json` and records the error in `status.json`. Keep the newest 25 items per source.
 - No thumbnails step is needed. Store the original `image` URL. Both front ends load pictures directly.
 - `manual` (Bandcamp Daily and Bandcamp Radio): try fetching and parsing from the runner. Bandcamp blocked Claude's cloud servers and may block GitHub's too. If it does, mark the source as link-only and the front ends show a card that opens the site.
-- Schedule: once a day at about 5:17 am Perth time (Angus changed this from every 6 hours on 14 Oct 2026), plus manual `workflow_dispatch`. Commit only when files changed, with the message `feed: refresh <time>`.
+- Schedule: once a day (Angus changed this from every 6 hours on 14 Oct 2026). The cron is 3:17 am Perth time, moved from 5:17 am on 22 Oct 2026 because GitHub starts scheduled runs 2 to 3 hours late and the feed must be ready before the 7 am Claude glance routine. Plus manual `workflow_dispatch`. Commit only when files changed, with the message `feed: refresh <time>`.
 - GitHub disables scheduled workflows in a public repository after 60 days without repository activity. Make sure the refresh commits keep the repo active. If they don't count, add a safe keep-alive, and tell Angus how to re-enable the workflow if it is ever switched off.
 - Handle a push race with the apps' writes: rebase and retry.
 

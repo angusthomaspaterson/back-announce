@@ -6,7 +6,7 @@ Back Announce is your feed of radio shows, mixes, podcasts and writing, rebuilt 
 
 - **The app:** https://angusthomaspaterson.github.io/back-announce/ , installed on the Pixel and the laptop. Its **Help** page (Settings, then "How to use Back Announce", or the link at the bottom of the feed) explains every button.
 - **The one place that holds everything:** the GitHub repository https://github.com/angusthomaspaterson/back-announce . Your sources, pauses, saves and the gathered feed are all in its `data/` folder.
-- **The refresh:** GitHub gathers the feed once a day, at about 5:20 am Perth time. The laptop gathers the Substack newsletters once a day too, at 5:30 am or as soon as it's next on, because Substack turns GitHub away.
+- **The refresh:** GitHub gathers the feed once a day, early in the morning. It's set for 3:17 am Perth time, but GitHub often starts it a couple of hours late, so it's usually done by about 6 am. The laptop gathers the Substack newsletters once a day too, at 5:30 am or as soon as it's next on, because Substack turns GitHub away.
 - **In Claude:** the Back Announce page in Claude (https://claude.ai/artifact/BvZShUoXQLBo3KJg1xPq97) shows the latest episodes, your Saved list and upcoming releases, copied in by a small Claude routine at 7 am each day ("Back Announce glance", at https://claude.ai/code/routines/trig_01Pyus7tWa612XP9mPAMHVx9).
 - **This folder** is your copy of that repository. `seed/` and `reference/` are the export from the old Claude version, kept for reference.
 

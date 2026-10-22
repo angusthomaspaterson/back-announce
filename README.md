@@ -17,7 +17,7 @@ This repository is the one place that holds everything:
 
 ## How the feed refreshes
 
-A GitHub Actions workflow, `.github/workflows/gather.yml`, runs once a day at about 5:17 am Perth time, whenever `data/sources.json` changes (so a new source arrives within minutes), and whenever you press **Run workflow** on the Actions tab. It reads every source in parallel (6 at a time), keeps the newest 25 items per source, and commits the result with a message like `feed: refresh Wed 14 Oct 05:17 AWST`.
+A GitHub Actions workflow, `.github/workflows/gather.yml`, runs once a day, scheduled for 3:17 am Perth time (GitHub often starts it 2 to 3 hours late, so it usually lands by about 6 am, before the 7 am Claude routine below), whenever `data/sources.json` changes (so a new source arrives within minutes), and whenever you press **Run workflow** on the Actions tab. It reads every source in parallel (6 at a time), keeps the newest 25 items per source, and commits the result with a message like `feed: refresh Wed 14 Oct 05:17 AWST`.
 
 It also writes `data/glance.json`, a small summary (the newest 20 items from sources that aren't paused, the count of new ones, upcoming releases and the Saved list). A Claude routine copies it into the Back Announce page in Claude each morning at 7 am, because Claude pages can't read other websites themselves.
 

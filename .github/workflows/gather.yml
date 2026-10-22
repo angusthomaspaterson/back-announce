@@ -2,9 +2,10 @@ name: Gather the feed
 
 on:
   schedule:
-    # Once a day at 21:17 UTC, which is 5:17 am in Perth. Minute 17 avoids the busy top of
-    # the hour; GitHub can still start it a little late.
-    - cron: "17 21 * * *"
+    # Once a day at 19:17 UTC, which is 3:17 am in Perth. Minute 17 avoids the busy top of
+    # the hour. GitHub often starts scheduled runs 2 to 3 hours late, so this early slot
+    # means the feed is ready before the 7 am Claude glance routine reads it.
+    - cron: "17 19 * * *"
   workflow_dispatch:
   # When the app adds or edits a source, gather straight away so its episodes appear.
   push:
