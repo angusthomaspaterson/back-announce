@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": null,
+   "date": "2026-10-21T07:03:13Z",
+   "desc": "Today we’re listening to Julia Gjertsen, a Norwegian pianist and composer based in Oslo.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-julia-gjertsen-c0c",
+   "image": "https://substackcdn.com/image/fetch/$s_!dTu0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1fa9609-8a7c-4740-a44a-503c24146369_1822x916.png",
+   "title": "Julia Gjertsen",
+   "url": "https://www.flowstate.fm/p/julia-gjertsen-c0c"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/221264786/77412385556b0178ee8ccc00e10481d6.mp3",
    "date": "2026-10-20T07:03:01Z",
    "desc": "Today’s mix opens with a piece from Ari Balouzian’s score for the film You Can See Everything. We continue with new ambient by Gollden and Space Ghost, followed by a favorite from Stars of the Lid. There are two tracks from the new experimental compilation",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!su5B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb519531f-df13-46f5-9a6b-07ebe3c30259_4928x3264.jpeg",
    "title": "Egberto Gismonti",
    "url": "https://www.flowstate.fm/p/egberto-gismonti"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-23T07:03:13Z",
-   "desc": "Today we’re listening to Corntuth, an American ambient musician based in Brooklyn.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-corntuth-interview",
-   "image": "https://substackcdn.com/image/fetch/$s_!KgzB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2799eee8-8687-40e7-97df-949cb7499552_1200x1200.jpeg",
-   "title": "Corntuth (Interview)",
-   "url": "https://www.flowstate.fm/p/corntuth-interview"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-20T08:42:24Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

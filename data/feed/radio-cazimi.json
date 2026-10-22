@@ -3,6 +3,86 @@
  "id": "radio-cazimi",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2423036022-radio-cazimi-driving-blind-w-lidl-3.mp3",
+   "date": "2026-10-21T02:54:27Z",
+   "desc": "DRIVING BLIND w/ Lidl & Wetpuddlss - EP 4 by Radio Cazimi",
+   "duration": "02:25:38",
+   "id": "tag:soundcloud-2010:tracks-2423036022",
+   "image": "https://i1.sndcdn.com/artworks-zhjWxfIGqhqU2YoW-Lgyw1g-t3000x3000.jpg",
+   "title": "DRIVING BLIND w/ Lidl & Wetpuddlss - EP 4",
+   "url": "https://soundcloud.com/radio-cazimi/driving-blind-w-lidl-3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2423034495-radio-cazimi-zipless-w-dj-sliding-doors-1.mp3",
+   "date": "2026-10-21T02:48:06Z",
+   "desc": "ZIPLESS w/ DJ Sliding Doors - EP 4 by Radio Cazimi",
+   "duration": "02:01:25",
+   "id": "tag:soundcloud-2010:tracks-2423034495",
+   "image": "https://i1.sndcdn.com/artworks-IgPMoQ1YwZDkWnOj-pdxpQw-t3000x3000.jpg",
+   "title": "ZIPLESS w/ DJ Sliding Doors - EP 4",
+   "url": "https://soundcloud.com/radio-cazimi/zipless-w-dj-sliding-doors-1"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2423033013-radio-cazimi-pleiades-scorpio-season-w.mp3",
+   "date": "2026-10-21T02:44:59Z",
+   "desc": "It’s nearly the sun season of Scorpio (23 Oct - 22 Nov) and we are going DEEP in the underworld on Pleiades w/ Astro Tash. Subterranean inclinations permeate into every corner with deep minimal techno, acid jazz trips and hypnotic house rhythms the translator for this illuminating season. Things might feel a little topsy-turvy with Mercury joining Venus in retrograde (or upgrade?) through Scorpio; expect secrets to be revealed, truths realised and mysteries solved…. Let Pleiades be the guiding light in the dark.",
+   "duration": "01:00:29",
+   "id": "tag:soundcloud-2010:tracks-2423033013",
+   "image": "https://i1.sndcdn.com/artworks-dqSvvIBYqy5y3SPW-PY6yFA-t3000x3000.jpg",
+   "title": "PLEIADES [Scorpio Season] w/ Astro Tash - EP 4",
+   "url": "https://soundcloud.com/radio-cazimi/pleiades-scorpio-season-w"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2423032887-radio-cazimi-home-within-w-marion-ep-3.mp3",
+   "date": "2026-10-21T02:44:55Z",
+   "desc": "a journey into the three stages of transformation by Nietzsche. from the camel, to the lion, to the child, we reach home.",
+   "duration": "00:58:08",
+   "id": "tag:soundcloud-2010:tracks-2423032887",
+   "image": "https://i1.sndcdn.com/artworks-yWBPqAEfEnzCrKuo-PVdcjQ-t3000x3000.jpg",
+   "title": "HOME WITHIN w/ Marion - EP 3",
+   "url": "https://soundcloud.com/radio-cazimi/home-within-w-marion-ep-3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2423032737-radio-cazimi-peninsula-w-voss-ep-4.mp3",
+   "date": "2026-10-21T02:44:50Z",
+   "desc": "PENINSULA w/ Voss - Ep 4 by Radio Cazimi",
+   "duration": "02:00:10",
+   "id": "tag:soundcloud-2010:tracks-2423032737",
+   "image": "https://i1.sndcdn.com/artworks-Sd3Th7tYM5oPOFkr-7mLQvA-t3000x3000.jpg",
+   "title": "PENINSULA w/ Voss  - Ep 4",
+   "url": "https://soundcloud.com/radio-cazimi/peninsula-w-voss-ep-4"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2423032041-radio-cazimi-morning-desires-w-helen-2.mp3",
+   "date": "2026-10-21T02:44:23Z",
+   "desc": "MORNING DESIRES w/ Helen Objartel by Radio Cazimi",
+   "duration": "01:59:13",
+   "id": "tag:soundcloud-2010:tracks-2423032041",
+   "image": "https://i1.sndcdn.com/artworks-zDbhFDMVGgzRVZ3H-SJGcug-t3000x3000.jpg",
+   "title": "MORNING DESIRES w/ Helen Objartel",
+   "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-helen-2"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2423026842-radio-cazimi-cuv-e-marguerite-w-paul-jager.mp3",
+   "date": "2026-10-21T02:38:42Z",
+   "desc": "CUV´ÉE MARGUERITE w/Paul Jager - EP 2 by Radio Cazimi",
+   "duration": "02:00:47",
+   "id": "tag:soundcloud-2010:tracks-2423026842",
+   "image": "https://i1.sndcdn.com/artworks-nT3eX2PzXhSYtzpl-gW6vzw-t3000x3000.jpg",
+   "title": "CUV´ÉE MARGUERITE w/Paul Jager - EP 2",
+   "url": "https://soundcloud.com/radio-cazimi/cuv-e-marguerite-w-paul-jager"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2423025600-radio-cazimi-joy-in-the-morning-w-callum-3.mp3",
+   "date": "2026-10-21T02:34:21Z",
+   "desc": "JOY IN THE MORNING w/ Callum Dewar - EP 4 by Radio Cazimi",
+   "duration": "02:02:22",
+   "id": "tag:soundcloud-2010:tracks-2423025600",
+   "image": "https://i1.sndcdn.com/artworks-mN0bqyxD9UjAoEax-mXTqsQ-t3000x3000.jpg",
+   "title": "JOY IN THE MORNING w/ Callum Dewar - EP 4",
+   "url": "https://soundcloud.com/radio-cazimi/joy-in-the-morning-w-callum-3"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2418718371-radio-cazimi-plutonic-w-bowen-ep-3.mp3",
    "date": "2026-10-14T08:45:50Z",
    "desc": "PLUTONIC w/ Bowen - EP 3 by Radio Cazimi",
@@ -171,89 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-foLo1ZDNKq4q5zRv-1KOSmw-t3000x3000.jpg",
    "title": "GUEST MIX w/ Elsie",
    "url": "https://soundcloud.com/radio-cazimi/guest-mix-w-elsie"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410846080-radio-cazimi-pleiades-w-astro-tash-ep3.mp3",
-   "date": "2026-10-01T02:16:38Z",
-   "desc": "PLEIADES w/ Astro Tash - EP3 Libra Season by Radio Cazimi",
-   "duration": "01:00:01",
-   "id": "tag:soundcloud-2010:tracks-2410846080",
-   "image": "https://i1.sndcdn.com/artworks-uju0qJR9SsmOKleV-hznizw-t3000x3000.jpg",
-   "title": "PLEIADES w/ Astro Tash - EP3 Libra Season",
-   "url": "https://soundcloud.com/radio-cazimi/pleiades-w-astro-tash-ep3"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410842117-radio-cazimi-home-within-w-marion-louie-ep2.mp3",
-   "date": "2026-10-01T02:16:09Z",
-   "desc": "HOME WITHIN w/ Marion & Louie - EP2 by Radio Cazimi",
-   "duration": "01:00:00",
-   "id": "tag:soundcloud-2010:tracks-2410842117",
-   "image": "https://i1.sndcdn.com/artworks-1iKz8vjXzIa4Sx6v-l4b3Pw-t3000x3000.jpg",
-   "title": "HOME WITHIN  w/ Marion & Louie - EP2",
-   "url": "https://soundcloud.com/radio-cazimi/home-within-w-marion-louie-ep2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410345323-radio-cazimi-guest-mix-mrs-plow.mp3",
-   "date": "2026-09-30T07:36:45Z",
-   "desc": "GUEST MIX - Mrs Plow by Radio Cazimi",
-   "duration": "01:38:43",
-   "id": "tag:soundcloud-2010:tracks-2410345323",
-   "image": "https://i1.sndcdn.com/artworks-v07NOPy6Oxyi8L2q-b6c2ag-t3000x3000.jpg",
-   "title": "GUEST MIX - Mrs Plow",
-   "url": "https://soundcloud.com/radio-cazimi/guest-mix-mrs-plow"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410324356-radio-cazimi-day-music-w-billie-burrows-ep.mp3",
-   "date": "2026-09-30T06:22:27Z",
-   "desc": "DAY MUSIC w/ Billie Burrows - EP 2 by Radio Cazimi",
-   "duration": "01:57:29",
-   "id": "tag:soundcloud-2010:tracks-2410324356",
-   "image": "https://i1.sndcdn.com/artworks-LLXJjVEKBaPABAnN-y81gPg-t3000x3000.jpg",
-   "title": "DAY MUSIC w/ Billie Burrows - EP 2",
-   "url": "https://soundcloud.com/radio-cazimi/day-music-w-billie-burrows-ep"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410324092-radio-cazimi-paper-bark-w-side-note-ep-1.mp3",
-   "date": "2026-09-30T06:21:12Z",
-   "desc": "A deep dive into sounds resonating with the southwest coastline by artists across the country",
-   "duration": "02:00:00",
-   "id": "tag:soundcloud-2010:tracks-2410324092",
-   "image": "https://i1.sndcdn.com/artworks-WDL6ycBt0qmK9T42-0beVGA-t3000x3000.jpg",
-   "title": "PAPER BARK w/ Side Note - EP 1",
-   "url": "https://soundcloud.com/radio-cazimi/paper-bark-w-side-note-ep-1"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410323393-radio-cazimi-guest-mix-w-mintox.mp3",
-   "date": "2026-09-30T06:18:06Z",
-   "desc": "GUEST MIX w/ Mintox by Radio Cazimi",
-   "duration": "01:59:12",
-   "id": "tag:soundcloud-2010:tracks-2410323393",
-   "image": "https://i1.sndcdn.com/artworks-zgElfEwiBObORcgt-WvJIyQ-t3000x3000.jpg",
-   "title": "GUEST MIX w/ Mintox",
-   "url": "https://soundcloud.com/radio-cazimi/guest-mix-w-mintox"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410323330-radio-cazimi-discover-the-underground-w-1.mp3",
-   "date": "2026-09-30T06:17:51Z",
-   "desc": "DISCOVER THE UNDERGROUND w/ Hugz - EP 2 by Radio Cazimi",
-   "duration": "01:59:53",
-   "id": "tag:soundcloud-2010:tracks-2410323330",
-   "image": "https://i1.sndcdn.com/artworks-mTgbiFGkQngNi5j9-qxaXBw-t3000x3000.jpg",
-   "title": "DISCOVER THE UNDERGROUND w/ Hugz - EP 2",
-   "url": "https://soundcloud.com/radio-cazimi/discover-the-underground-w-1"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2410323114-radio-cazimi-gritstone-w-undercling-ep-2.mp3",
-   "date": "2026-09-30T06:16:54Z",
-   "desc": "GRITSTONE w/ Undercling - EP 2 by Radio Cazimi",
-   "duration": "02:02:15",
-   "id": "tag:soundcloud-2010:tracks-2410323114",
-   "image": "https://i1.sndcdn.com/artworks-2taJwbfxemHTj3QA-Idy4qg-t3000x3000.jpg",
-   "title": "GRITSTONE w/ Undercling - EP 2",
-   "url": "https://soundcloud.com/radio-cazimi/gritstone-w-undercling-ep-2"
   }
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-10-17T23:10:40Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

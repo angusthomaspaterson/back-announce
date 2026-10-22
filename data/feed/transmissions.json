@@ -3,6 +3,16 @@
  "id": "transmissions",
  "items": [
   {
+   "audio": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI3297666742.mp3",
+   "date": "2026-10-21T07:00:00Z",
+   "desc": "Social media is a strange thing. Not long ago, Transmissions host Jason P. Woodbury was retweeted by famed MTV News legend Kurt Loder. Loder was sharing a repost of a viral video featuring Detroit band Protomartyr, performing their song “Jumbo’s” at a BBQ in 2011. In the video, frontman Joe Casey smokes a cigarette and sips whiskey, alternating between deadpan ambivalence and dark menace as he prowls the stage and the band churns behind him. Loder noted, \"Apparently [rock & roll] actually will never die…\" This week on Transmissions, w're speaking with return guest Joe Casey of Protomartyr, a …",
+   "duration": "5045",
+   "id": "05426adc-ccb6-11f1-a88a-3710f3dc674c",
+   "image": "https://megaphone.imgix.net/podcasts/05426adc-ccb6-11f1-a88a-3710f3dc674c/image/7b52dfce611ba0d76432e3ac9c15407e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "Transmissions :: Joe Casey of Protomartyr (2026)",
+   "url": "https://aquariumdrunkard.com/2026/10/21/transmissions-joe-casey-of-protomartyr-2026/"
+  },
+  {
    "audio": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI8854543182.mp3",
    "date": "2026-10-14T07:00:00Z",
    "desc": "Hippies, Thugs, and Heroes finds guitarist Richard Thompson sounding as savage, lyrical, and eloquent as ever. This week on Aquarium Drunkard Transmissions, we're pleased to welcome Thompson back to the show. If you dig this show, there’s a pretty solid chance that you already know that he's one of the founding fathers of British folk rock, known for his work with Fairport Convention, Sandy Denny, his former wife Linda Thompson, Nick Drake and others. Writing about Thompson, Aquarium Drunkard’s own Tyler Wilcox praised his “unparalleled instrumental prowess, his superhumanly sensitive tone, a…",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/cc9a57c4-48be-11f1-ace5-a3d5160fac9e/image/ce91884ec1b3407c8d7d114e2684edb0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "All One Song :: Simon Joyner on \"After The Gold Rush\"",
    "url": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI8774128171.mp3"
-  },
-  {
-   "audio": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI1981254259.mp3?updated=1777414661",
-   "date": "2026-04-29T07:00:00Z",
-   "desc": "Hello and welcome back to All One Song, a Neil Young podcast with your host, Tyler Wilcox. Though he's never spoken with Neil himself, over at Aquarium Drunkard you can check out Wilcox's interviews with several of Neil’s associates: Guitarist Frank “Poncho” Sampedro; bassist Billy Talbot; and multi-instrumentalist Nils Lofgren. Chatting with these musicians, who have spent a good portion of their lives onstage or in the studio with Neil, offers a look behind the curtain into Shakey’s creative process. And now, add Micah Nelson to that esteemed list. Since 2014, Nelson has served as one of Ne…",
-   "duration": "4387",
-   "id": "08020d46-434e-11f1-9b4f-27855f3d24d3",
-   "image": "https://megaphone.imgix.net/podcasts/08020d46-434e-11f1-9b4f-27855f3d24d3/image/8200753251fe13a462a0df0cd4f8fb9c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "All One Song :: Micah Nelson on \"Change Your Mind\"",
-   "url": "https://tracking.swap.fm/track/8fvJdZ1Y8SQ0SkCuaYDp/traffic.megaphone.fm/THI1981254259.mp3?updated=1777414661"
   }
  ],
  "kind": "rss",
  "name": "Transmissions (Aquarium Drunkard)",
- "updatedAt": "2026-10-14T12:00:17Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

@@ -3,6 +3,16 @@
  "id": "nts-lukid",
  "items": [
   {
+   "date": "2026-10-20T11:00:00Z",
+   "desc": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes.",
+   "id": "lukid-20th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/4c242396-523c-430e-a1ad-9b579bd7e9d0_1792368000.jpeg",
+   "location": "London",
+   "tags": "Post Punk, Experimental, Industrial , Leftfield Techno",
+   "title": "Lukid",
+   "url": "https://www.nts.live/shows/lukid/episodes/lukid-20th-october-2026"
+  },
+  {
    "date": "2026-09-22T11:00:00Z",
    "desc": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes.",
    "id": "lukid-22nd-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Industrial , Leftfield Techno, Dub",
    "title": "Lukid",
    "url": "https://www.nts.live/shows/lukid/episodes/lukid-16th-december-2025"
-  },
-  {
-   "date": "2025-11-18T12:00:00Z",
-   "desc": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes.",
-   "id": "lukid-18th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/746a02e9-257a-482f-87cf-8d272487655d_1763337600.jpeg",
-   "location": "London",
-   "tags": "Experimental, Leftfield Techno, Grime, Noise",
-   "title": "Lukid",
-   "url": "https://www.nts.live/shows/lukid/episodes/lukid-18th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Lukid",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

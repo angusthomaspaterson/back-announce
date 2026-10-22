@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-21T17:12:27Z",
+   "desc": "The West Coast (by way of Dallas) legend, who will be honored by the Paid In Full Foundation this weekend in Las Vegas, reflects on a storied career.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-the-doc-interview-paid-in-full",
+   "image": "https://substackcdn.com/image/fetch/$s_!82Ly!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c44b994-6442-498f-b9ab-58b8c3336161_1200x1200.png",
+   "title": "No One Did It Better Than The D.O.C.",
+   "url": "https://www.powmag.net/p/the-doc-interview-paid-in-full"
+  },
+  {
+   "audio": null,
    "date": "2026-10-20T17:31:25Z",
    "desc": "The electronic legend’s most misunderstood album was ahead of its time—but not anymore.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!dt5v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bf6fe60-ddd3-4234-baa6-6c99cb0b1bb4_1200x1200.png",
    "title": "The Lost Stevie Wonder Sessions",
    "url": "https://www.powmag.net/p/the-lost-stevie-wonder-sessions"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-28T15:43:59Z",
-   "desc": "Protomartyr’s latest record, Hotel Usona, is an examination of this American moment. It’s not exactly subtle—but what about the present is?",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-protomartyr-hotel-usona-review",
-   "image": "https://substackcdn.com/image/fetch/$s_!aU0m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b165d74-dc4e-4b6a-b48a-9afcff41f5a3_1200x1200.png",
-   "title": "(Don’t) Enjoy Your Stay",
-   "url": "https://www.powmag.net/p/protomartyr-hotel-usona-review"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-20T23:56:21Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

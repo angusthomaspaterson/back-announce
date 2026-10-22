@@ -3,6 +3,15 @@
  "id": "bandcamp-radio",
  "items": [
   {
+   "date": "2026-10-21T00:00:00Z",
+   "desc": "It's a Lisbon special! DJ, producer and bassist Marla Kether joins Emily to break down the influences on her EP 'Luso' on Strut, written between the Portuguese capital and Brazil. Plus Emily takes you into heart of the city, reflecting on MiL Lisboa festival and hearing from local artists Zino and PXMP. Hosted by Emily Dust . Featuring Marla Kether , Zino and PXMP.",
+   "id": "radio-bandcamp-electronic-1012",
+   "image": "https://f4.bcbits.com/img/0048081074_170.jpg",
+   "tags": "Bandcamp Electronic",
+   "title": "Bandcamp Electronic: Marla Kether",
+   "url": "https://bandcamp.com/radio/bandcamp-electronic/1012"
+  },
+  {
    "date": "2026-10-19T00:00:00Z",
    "desc": "Polish band Omasta return with their streetwise, contemporary take on jazz. Hosted by Tina Edwards . Featuring Omasta .",
    "id": "radio-bandcamp-selects-1008",
@@ -172,18 +181,9 @@
    "tags": "Bandcamp Selects",
    "title": "Bandcamp Selects: corto.alto",
    "url": "https://bandcamp.com/radio/bandcamp-selects/993"
-  },
-  {
-   "date": "2026-09-04T00:00:00Z",
-   "desc": "Girl Talk, Michael Christmas & Chris Crack join the show to chat about their new EP, \"Don't Come To My House Sharing Your Location.\" — colorful, detailed, and genuinely fun, built on bars and nonstop ish talking. Hosted by Stoney Creation . Featuring Girl Talk, Michael Christmas, & Chris Crack .",
-   "id": "radio-the-hip-hop-show-990",
-   "image": "https://f4.bcbits.com/img/0046863012_170.jpg",
-   "tags": "The Hip Hop Show",
-   "title": "The Hip Hop Show: Don't Come To My House Sharing Your Location",
-   "url": "https://bandcamp.com/radio/the-hip-hop-show/990"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Radio",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

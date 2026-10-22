@@ -3,6 +3,16 @@
  "id": "nts-laurel-halo",
  "items": [
   {
+   "date": "2026-10-20T15:00:00Z",
+   "desc": "Awe is something you feel when confronted with forces beyond your control: nature, the cosmos, chaos, human error, hallucinations.",
+   "id": "laurel-halo-20th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/ad56f863-7e34-4d12-bc96-5e19fc6aa7ff_1792368000.png",
+   "location": "London",
+   "tags": "Experimental, Ambient, Modern Classical",
+   "title": "Awe w/ Laurel Halo",
+   "url": "https://www.nts.live/shows/laurel-halo/episodes/laurel-halo-20th-october-2026"
+  },
+  {
    "date": "2026-09-22T15:00:00Z",
    "desc": "Awe is something you feel when confronted with forces beyond your control: nature, the cosmos, chaos, human error, hallucinations. From the host: \"some vinyl rips, old favorites and 'Tokai' by Taeko Onuki ♡\"",
    "id": "laurel-halo-22nd-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Ambient, Modern Classical",
    "title": "Awe w/ Laurel Halo",
    "url": "https://www.nts.live/shows/laurel-halo/episodes/laurel-halo-26th-august-2025"
-  },
-  {
-   "date": "2025-07-29T15:00:00Z",
-   "desc": "Awe is something you feel when confronted with forces beyond your control: nature, the cosmos, chaos, human error, hallucinations.",
-   "id": "laurel-halo-29th-july-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/047c82d1-6667-4386-b27f-b86da38a3716_1753747200.jpeg",
-   "location": "London",
-   "tags": "Shoegaze, Folk, Ambient, Dream Pop",
-   "title": "Awe w/ Laurel Halo & ISAbella",
-   "url": "https://www.nts.live/shows/laurel-halo/episodes/laurel-halo-29th-july-2025"
   }
  ],
  "kind": "nts",
  "name": "Awe w/ Laurel Halo",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

@@ -3,6 +3,14 @@
  "id": "rinse-eclecticist",
  "items": [
   {
+   "date": "2026-10-21T12:00:00Z",
+   "desc": "",
+   "id": "eclecticist-21-10-2026-1300",
+   "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
+   "title": "Eclecticist, 21 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/eclecticist-21-10-2026-1300"
+  },
+  {
    "date": "2026-10-07T12:00:00Z",
    "desc": "",
    "id": "eclecticist-07-10-2026-1300",
@@ -193,17 +201,9 @@
    "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
    "title": "Eclecticist, 11 Mar 2026",
    "url": "https://www.rinse.fm/episodes/eclecticist-11-03-2026-1200"
-  },
-  {
-   "date": "2026-03-04T12:00:00Z",
-   "desc": "",
-   "id": "eclecticist-04-03-2026-1200",
-   "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
-   "title": "Eclecticist, 4 Mar 2026",
-   "url": "https://www.rinse.fm/episodes/eclecticist-04-03-2026-1200"
   }
  ],
  "kind": "rinse",
  "name": "Eclecticist",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

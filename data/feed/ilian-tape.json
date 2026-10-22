@@ -3,6 +3,16 @@
  "id": "ilian-tape",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2423132145-ilian-tape-itps132-carista.mp3",
+   "date": "2026-10-21T08:15:43Z",
+   "desc": "Music has always been CARISTA’s way of finding connection. She founded United Identities in Utrecht in 2017, and it has since developed into an independent record label, events and a monthly show on NTS Radio. Her own “No Ego, All Equal” ethos sits at its centre — a belief in openness, and giving music room to find its own. Enjoy!",
+   "duration": "01:03:38",
+   "id": "tag:soundcloud-2010:tracks-2423132145",
+   "image": "https://i1.sndcdn.com/artworks-lRWM8SNzTUAclD3t-sdkpoA-t3000x3000.jpg",
+   "title": "ITPS132 CARISTA",
+   "url": "https://soundcloud.com/ilian-tape/itps132-carista"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2401320375-ilian-tape-itps131-fireground.mp3",
    "date": "2026-09-16T08:16:08Z",
    "desc": "Fireground are known for their high energy live sets and slamming records on Tresor and Ilian Tape. This is a rare DJ mix from the duo, recorded with vinyl only. Enjoy!",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-tzV33WGMDrVcz3zq-rUb8ZQ-t3000x3000.jpg",
    "title": "ITPS108 PUGILIST",
    "url": "https://soundcloud.com/ilian-tape/itps108-pugilist"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/1891088184-ilian-tape-itps107-ogazon.mp3",
-   "date": "2024-08-07T08:43:52Z",
-   "desc": "Nathalie aka Ogazón is a Berlin-based DJ who captivates audiences with her charismatic, purist approach to House and Techno, harking back to the roots of the genres. Armed with an impressive vinyl collection and a passion for creating immersive musical experiences, Ogazón has quietly gained respect in the electronic music scene. Enjoy!",
-   "duration": "01:08:54",
-   "id": "tag:soundcloud-2010:tracks-1891088184",
-   "image": "https://i1.sndcdn.com/artworks-PJYzXUyUyyvFbjxo-P9wcJg-t3000x3000.jpg",
-   "title": "ITPS107 OGAZÓN",
-   "url": "https://soundcloud.com/ilian-tape/itps107-ogazon"
   }
  ],
  "kind": "rss",
  "name": "Ilian Tape Podcast Series",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }

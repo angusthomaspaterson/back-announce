@@ -3,10 +3,28 @@
  "id": "bandcamp-daily",
  "items": [
   {
+   "date": "2026-10-21T00:00:00Z",
+   "desc": "The legendary tango artist composed music that has become staples for violinists, pianists, and string quartets.",
+   "id": "features-astor-piazzolla-album-guide",
+   "image": "https://f4.bcbits.com/img/0048068155_180",
+   "tags": "Features",
+   "title": "The Life, Death, and Afterlife of Astor Piazzolla",
+   "url": "https://daily.bandcamp.com/features/astor-piazzolla-album-guide"
+  },
+  {
+   "date": "2026-10-21T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-june-mcdoom-follow-the-light-review",
+   "image": "https://f4.bcbits.com/img/0048065940_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "June McDoom, “Follow The Light”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/june-mcdoom-follow-the-light-review"
+  },
+  {
    "date": "2026-10-20T00:00:00Z",
-   "desc": "The absurdist comic and musician creates dizzying music that balances darkness and light.",
+   "desc": "",
    "id": "features-dev-lemons-hunting-what-we-already-killed-feature",
-   "image": "https://f4.bcbits.com/img/0048045759_180",
+   "image": "https://f4.bcbits.com/img/0048045759_150.jpg",
    "tags": "Features",
    "title": "How Dev Lemons Is the Nathan Fielder of Music",
    "url": "https://daily.bandcamp.com/features/dev-lemons-hunting-what-we-already-killed-feature"
@@ -208,27 +226,9 @@
    "tags": "Album Of The Day",
    "title": "Various Artists, “Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986”",
    "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-antiyano-progresivo-review"
-  },
-  {
-   "date": "2026-10-07T00:00:00Z",
-   "desc": "",
-   "id": "label-profile-wherethetimegoes-label-profile",
-   "image": "https://f4.bcbits.com/img/0047701619_150.jpg",
-   "tags": "Label Profile",
-   "title": "wherethetimegoes and the Sound of Celtic Futurism",
-   "url": "https://daily.bandcamp.com/label-profile/wherethetimegoes-label-profile"
-  },
-  {
-   "date": "2026-10-07T00:00:00Z",
-   "desc": "",
-   "id": "underground-medicine-underground-medicine-7",
-   "image": "https://f4.bcbits.com/img/0047723252_150.jpg",
-   "tags": "Underground Medicine",
-   "title": "Underground Medicine #7: Region Rock, USA",
-   "url": "https://daily.bandcamp.com/underground-medicine/underground-medicine-7"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-20T23:56:21Z"
+ "updatedAt": "2026-10-22T00:01:40Z"
 }
