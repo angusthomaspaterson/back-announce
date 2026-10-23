@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T14:25:09Z",
+   "desc": "Costello is a Bordeaux-based producer and DJ who has been active since the late 2000s. Initially associated with aesthetics somewhere between house and techno, he has gradually broadened his music toward more melodic, atmospheric and hybrid forms, without abandoning his physical relationship with the club. The post ‘A Loner in Bordeaux’ : a conversation with Costello appeared first on Ransom Note .",
+   "duration": null,
+   "id": "https:--www.theransomnote.com--p-46275",
+   "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
+   "title": "‘A Loner in Bordeaux’ : a conversation with Costello",
+   "url": "https://www.theransomnote.com/music/interviews/a-loner-in-bordeaux-a-conversation-with-costello/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-22T15:47:22Z",
    "desc": "If there's one secret behind a truly successful festival, La Nature's might be the best kept of all. The post La Nature: Getting Lost in the Belgian Woods appeared first on Ransom Note .",
    "duration": null,
@@ -91,19 +101,9 @@
    "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
    "title": "Turin’s Midnight Theorem to host Dada Pogrom in rare appearance",
    "url": "https://www.theransomnote.com/music/news/turins-midnight-theorem-to-host-dada-pogrom-in-rare-appearance/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-06T16:49:37Z",
-   "desc": "As the festival secures three more years in its South-Netherlands forest, a complete redesign brings together the team's unique lighting innovations with one of Europe's densest electronic music programs. The post Review: Draaimolen – A Dutch Nature & Digital Arts Festival Pushing Boundaries In Light Installations & Music appeared first on Ransom Note .",
-   "duration": null,
-   "id": "https:--www.theransomnote.com--p-46087",
-   "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
-   "title": "Review: Draaimolen – A Dutch Nature & Digital Arts Festival Pushing Boundaries In Light Installations & Music",
-   "url": "https://www.theransomnote.com/music/reviews/review-draaimolen-a-dutch-nature-digital-arts-festival-pushing-boundaries-in-light-installations-music/"
   }
  ],
  "kind": "rss",
  "name": "Ransom Note",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

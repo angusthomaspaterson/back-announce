@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-22T00:00:00Z",
+   "desc": "The 22 October edition of The Wire 's weekly radio show featured music by Joshua Burkett, Lisa Nanzaki, Wadada Leo Smith, Test Dept, Deficit & Letargy and more Tracklist Joshua Burkett “Lost Cat City (Excerpt 1)” From M/B/Too/4/T&/M ( Futura Resistenza ) Lisa Nanzaki “The Origin Of Violence That Has Lost Its Source” From [VA#46] – Source Unknown ( Camembert Electrique ) Radical Polish Arkestra “Union Mazurka” From Sielanka ( Tańce ) Felix Kubin “Die Kulturelle Revolution” From Antiphoneys: The Single Collection ( Suezan Studio ) Lý Trang “it was not dead, which is different” From Microhabitat…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-on-air-chris-bohn-presents-adventures-in-sound-and-music-79849",
+   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/10/23/231026.jpg",
+   "title": "Chris Bohn presents  Adventures In Sound And Music",
+   "url": "https://www.thewire.co.uk/audio/on-air/chris-bohn-presents-adventures-in-sound-and-music-79849"
+  },
+  {
+   "audio": null,
    "date": "2026-10-20T00:00:00Z",
    "desc": "As far right ideology and misogyny make gains around the world, metal, a subculture with a troubled relationship to fascism, wonders whether more progressive ideals are still in reach, writes Antonio Poscic in The Wire 513 Metal used to be the music of outsiders. For teenagers who stumbled into it, the subculture offered a place to belong and legitimised intense emotions that had to be suppressed in daily life. Its lyrics and sonic density gave shape to alienation, despair and angst that many struggled to articulate. It offered acceptance for those rejected elsewhere, and an identity chosen r…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/480/480/2026/09/08/environments_12.jpg",
    "title": "Against The Grain: Listening after Palantir",
    "url": "https://www.thewire.co.uk/in-writing/collateral-damage/against-the-grain-listening-after-palantir"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-03T00:00:00Z",
-   "desc": "Stream a selection of tracks from releases we listened to during the making of our October 2026 issue The full chart: A LARGE SHEET OF MUSCLE CHINESE BENEFITS ( Drowned By Locals ) BBBBBBB Poop Disco ( Deathbomb Arc ) Albert Bouchard Imaginos IV: Rhyme Of The Starclock ( Deko ) crys cole Testing The Waters ( Persistence Of Sound ) Erick D’Orion Mes Fantômes ( Ambiances Magnétiques ) Roky Erickson & The Aliens The Evil One ( Fire ) Godflesh Decay ( Relapse ) gyrofield Great Jobs ( Field Research ) Feng Jiangzhou Cicada Clinging ( Badhead ) Leslie Keffer Embody Incarnate ( Frolic Press ) Minute…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-tracks-office-ambience-512",
-   "image": "https://www.thewire.co.uk/img/contain/600/480/2026/09/03/mike_watt-51_for_web.jpg",
-   "title": "Office Ambience 512",
-   "url": "https://www.thewire.co.uk/audio/tracks/office-ambience-512"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

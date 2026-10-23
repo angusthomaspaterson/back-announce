@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "d": "2026-10-23T20:11:23Z",
+   "g": "Progressive",
+   "s": "Above & Beyond: Group Therapy",
+   "sid": "group-therapy",
+   "t": "Group Therapy 699 with Above & Beyond and Lørean",
+   "u": "https://www.mixcloud.com/aboveandbeyond/group-therapy-699-with-above-beyond-and-l%C3%B8rean/"
+  },
+  {
+   "d": "2026-10-23T20:00:00Z",
+   "g": "Podcasts",
+   "s": "Sound Opinions",
+   "sid": "sound-opinions",
+   "sp": "Sound Opinions Trixie Mattel is the Queen of Halloween!",
+   "t": "Trixie Mattel is the Queen of Halloween!",
+   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/903a8f3a-0bd2-41e7-8d02-e8f3aeb9356a.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
+   "d": "2026-10-23T15:30:00Z",
+   "g": "Radio",
+   "s": "BBC Music Introducing Mixtape (6 Music)",
+   "sid": "bbc-introducing-mixtape",
+   "sp": "BBC Music Introducing Mixtape (6 Music) Sŵn Festival special!",
+   "t": "Sŵn Festival special!",
+   "u": "http://www.bbc.co.uk/programmes/p0phvgwy"
+  },
+  {
+   "d": "2026-10-23T15:00:14Z",
+   "g": "Progressive",
+   "s": "John Digweed: Transitions",
+   "sid": "transitions",
+   "t": "Transitions with John Digweed and Tigerhook",
+   "u": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-tigerhook/"
+  },
+  {
+   "d": "2026-10-23T12:08:14Z",
+   "g": "Writing",
+   "s": "Gorilla vs. Bear",
+   "sid": "gorilla-vs-bear",
+   "t": "listen to Boyhood’s <i>I’ll Dream InStead</i>",
+   "u": "https://www.gorillavsbear.net/listen-to-boyhoods-ill-dream-instead/"
+  },
+  {
+   "d": "2026-10-23T11:07:43Z",
+   "g": "Writing",
+   "s": "Gorilla vs. Bear",
+   "sid": "gorilla-vs-bear",
+   "t": "listen to Fine’s <i>Jazz dreams</i>",
+   "u": "https://www.gorillavsbear.net/listen-to-fines-jazz-dreams/"
+  },
+  {
    "d": "2026-10-23T10:31:00Z",
    "g": "Writing",
    "s": "Futurism Restated (Philip Sherburne)",
@@ -9,163 +59,115 @@
    "u": "https://futurismrestated.substack.com/p/mixes-digest-27-interstellar-spirals"
   },
   {
-   "d": "2026-10-23T00:00:00Z",
+   "d": "2026-10-23T10:00:00Z",
+   "g": "NTS",
+   "s": "NTS In Focus",
+   "sid": "nts-in-focus",
+   "t": "In Focus: Robyn",
+   "u": "https://www.nts.live/shows/in-focus/episodes/in-focus-robyn-23rd-october-2026"
+  },
+  {
+   "d": "2026-10-23T09:00:00Z",
+   "g": "Podcasts",
+   "s": "Popcast (New York Times)",
+   "sid": "popcast",
+   "sp": "Popcast (New York Times) Billy Corgan Is Tired of Your ‘Mocking, Bullying, Laughing’",
+   "t": "Billy Corgan Is Tired of Your ‘Mocking, Bullying, Laughing’",
+   "u": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+  },
+  {
+   "d": "2026-10-23T08:00:00Z",
+   "g": "Podcasts",
+   "s": "Indiecast",
+   "sid": "indiecast",
+   "sp": "Indiecast The Legacy Of Elephant 6 and The Rise Of Laptop Twee",
+   "t": "The Legacy Of Elephant 6 and The Rise Of Laptop Twee",
+   "u": "https://rss.art19.com/episodes/d00d874b-1dfb-41cf-9ffe-b12cda540ebd.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
+   "d": "2026-10-23T07:12:46Z",
    "g": "Progressive",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "[PREVIEW] Nick Warren - Run For Cover",
-   "u": "https://soundcloud.com/balance-series/preview-nick-warren-run-for"
+   "s": "Gai Barone: Patterns",
+   "sid": "gai-barone-patterns",
+   "t": "Patterns 723",
+   "u": "https://soundcloud.com/gai-barone/patterns-723"
   },
   {
-   "d": "2026-10-22T15:22:12Z",
-   "g": "Progressive",
-   "s": "The Anjunadeep Edition",
-   "sid": "anjunadeep-edition",
-   "t": "The Anjunadeep Edition 616 with Igor Garanin (Live at Explorations)",
-   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-616-with-igor-garanin-live-at-explorations/"
-  },
-  {
-   "d": "2026-10-22T14:10:06Z",
-   "g": "Writing",
-   "s": "Gorilla vs. Bear",
-   "sid": "gorilla-vs-bear",
-   "t": "Being Dead – Man or Myth / Aquarium",
-   "u": "https://www.gorillavsbear.net/being-dead-man-or-myth-aquarium/"
-  },
-  {
-   "d": "2026-10-22T14:00:00Z",
-   "g": "Rinse FM",
-   "s": "Tom Ravenscroft",
-   "sid": "rinse-tom-ravenscroft",
-   "t": "Tom Ravenscroft, 22 Oct 2026",
-   "u": "https://www.rinse.fm/episodes/tom-ravenscroft-22-10-2026-1500"
-  },
-  {
-   "d": "2026-10-22T12:08:06Z",
-   "g": "Writing",
-   "s": "Gorilla vs. Bear",
-   "sid": "gorilla-vs-bear",
-   "t": "Helena Deland – Tip of My Tongue",
-   "u": "https://www.gorillavsbear.net/helena-deland-tip-of-my-tongue/"
-  },
-  {
-   "d": "2026-10-22T10:31:06Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 22 Oct: 2 records",
-   "u": "https://firstfloor.substack.com/p/first-floor-333-slop-fatigue-is-already"
-  },
-  {
-   "d": "2026-10-22T07:02:59Z",
+   "d": "2026-10-23T07:03:09Z",
    "g": "Writing",
    "s": "Flow State",
    "sid": "flow-state",
-   "t": "Hermanos Gutiérrez",
-   "u": "https://www.flowstate.fm/p/hermanos-gutierrez-c55"
+   "t": "Djrum",
+   "u": "https://www.flowstate.fm/p/djrum-579"
   },
   {
-   "d": "2026-10-22T07:00:00Z",
+   "d": "2026-10-23T07:01:28Z",
    "g": "Radio",
-   "s": "KEXP: In Our Headphones",
-   "sid": "in-our-headphones",
-   "sp": "KEXP: In Our Headphones Melanie C on DJing and the Brilliance of Violet Skies",
-   "t": "Melanie C on DJing and the Brilliance of Violet Skies",
-   "u": "https://omny.fm/shows/kexp-song-of-the-day/melanie-c-on-djing-and-the-brilliance-of-violet-skies"
+   "s": "Soulection Radio",
+   "sid": "soulection",
+   "t": "Show #750 | R&B, Classics, Soul, Blends, & House",
+   "u": "https://soundcloud.com/soulection/show-750-r-b-classics-soul"
   },
   {
-   "d": "2026-10-22T06:58:00Z",
+   "d": "2026-10-23T05:00:00Z",
    "g": "Podcasts",
-   "s": "Love Is The Message",
-   "sid": "love-is-the-message",
-   "sp": "Love Is The Message Transfiguration: Spiritual Jazz pt.2",
-   "t": "Transfiguration: Spiritual Jazz pt.2",
-   "u": "https://podcasters.spotify.com/pod/show/lovemessagepod/episodes/Transfiguration-Spiritual-Jazz-pt-2-e3qrsd8"
+   "s": "Sound Opinions",
+   "sid": "sound-opinions",
+   "sp": "Sound Opinions A Sound Opinions Halloween!",
+   "t": "A Sound Opinions Halloween!",
+   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/111453b9-b937-4722-b273-368125f97fc0.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   },
   {
-   "d": "2026-10-22T06:00:00Z",
-   "g": "NTS",
-   "s": "The Early Bird Show w/ PAM",
-   "sid": "nts-early-bird-pam",
-   "t": "The Early Bird Show w/ PAM & noé & noé",
-   "u": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-22nd-october-2026"
-  },
-  {
-   "d": "2026-10-22T04:03:00Z",
+   "d": "2026-10-23T04:03:00Z",
    "g": "Writing",
    "s": "Pitchfork: Best New Albums",
    "sid": "pitchfork-bna",
-   "t": "Alchemical Sisters",
-   "u": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/"
+   "t": "Jazz dreams",
+   "u": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/"
   },
   {
-   "d": "2026-10-22T00:00:00Z",
+   "d": "2026-10-23T01:07:03Z",
+   "g": "Progressive",
+   "s": "21C Progressive House",
+   "sid": "21c-progressive",
+   "t": "Robert Glenn | The Racket Club",
+   "u": "https://soundcloud.com/21cprogressivehouse/robert-glenn-the-racket-club"
+  },
+  {
+   "d": "2026-10-23T00:00:00Z",
    "g": "Writing",
    "s": "Bandcamp Daily",
    "sid": "bandcamp-daily",
-   "t": "Return of the Dark Ages: The Rise of the Medieval Underground",
-   "u": "https://daily.bandcamp.com/scene-report/contemporary-medieval-music-scene-report"
+   "t": "The Contemporary Scandinavian Jazz Scene Through the Years",
+   "u": "https://daily.bandcamp.com/scene-report/contemporary-scandinavian-jazz-scene-report"
   },
   {
-   "d": "2026-10-22T00:00:00Z",
+   "d": "2026-10-23T00:00:00Z",
    "g": "Writing",
    "s": "Bandcamp Daily",
    "sid": "bandcamp-daily",
-   "t": "Kill Alters, “We Can Rot Together”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/kill-alters-we-can-rot-together-review"
+   "t": "The Power of P.E.E.",
+   "u": "https://daily.bandcamp.com/features/pee-now-more-charm-and-more-tender-feature"
   },
   {
-   "d": "2026-10-22T00:00:00Z",
-   "g": "Progressive",
-   "s": "Joris Voorn: Spectrum Radio",
-   "sid": "spectrum-radio",
-   "sp": "Joris Voorn: Spectrum Radio Spectrum Radio 495",
-   "t": "Spectrum Radio 495",
-   "u": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-495"
-  },
-  {
-   "d": "2026-10-22T00:00:00Z",
-   "g": "Progressive",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "[PREVIEW] Nick Warren - Stupa",
-   "u": "https://soundcloud.com/balance-series/preview-nick-warren-stupa"
-  },
-  {
-   "d": "2026-10-22T00:00:00Z",
-   "g": "NTS",
-   "s": "CAN YOU FEEL THE SUN W/ CALL SUPER & PARRIS",
-   "sid": "nts-canyoufeelthesun-w-call-super-parris",
-   "t": "CAN YOU FEEL THE SUN W/ PARRIS",
-   "u": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-22nd-october-2026"
-  },
-  {
-   "d": "2026-10-21T20:00:00Z",
-   "g": "Bass",
-   "s": "Hooversound w/ Sherelle & Naina",
-   "sid": "nts-hooversound",
-   "t": "Hooversound w/ Sherelle",
-   "u": "https://www.nts.live/shows/hooversound/episodes/hooversound-21st-october-2026"
-  },
-  {
-   "d": "2026-10-21T18:28:55Z",
+   "d": "2026-10-23T00:00:00Z",
    "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 21 Oct: 5 records",
-   "u": "https://firstfloor.substack.com/p/shelley-parker-screed"
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Essential Releases, October 23, 2026",
+   "u": "https://daily.bandcamp.com/essential-releases/essential-releases-october-23-2026"
   },
   {
-   "d": "2026-10-21T17:00:00Z",
-   "g": "Bass",
-   "s": "Tim Reaper",
-   "sid": "nts-tim-reaper",
-   "t": "Tim Reaper",
-   "u": "https://www.nts.live/shows/tim-reaper/episodes/tim-reaper-21st-october-2026"
+   "d": "2026-10-23T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Water Damage, “Repair”",
+   "u": "https://daily.bandcamp.com/album-of-the-day/water-damage-repair-review"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 187,
+ "newCount": 211,
  "paused": 18,
  "releases": [
   {
@@ -226,5 +228,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-23T21:30:08Z"
+ "updated": "2026-10-23T22:14:30Z"
 }

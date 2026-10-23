@@ -3,6 +3,16 @@
  "id": "nts-in-focus",
  "items": [
   {
+   "date": "2026-10-23T10:00:00Z",
+   "desc": "60 minutes of essential pop music from Robyn, the Swedish singer, songwriter and producer whose formula for melancholic dance pop took over the charts. Selected and mixed by Lil C.",
+   "id": "in-focus-robyn-23rd-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/6406135c-c0ad-4920-829f-843bc8453b29_1792627200.png",
+   "location": "Stockholm",
+   "tags": "Pop",
+   "title": "In Focus: Robyn",
+   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-robyn-23rd-october-2026"
+  },
+  {
    "date": "2026-10-16T10:00:00Z",
    "desc": "American composer and synthesist, Pauline Anna Strom first began releasing music in the early 1980s under the moniker Trans-Millenia Consort. Working for the most part in isolation, she crafted immersive synth soundscapes, conjuring imagined worlds between ancient myth and imagined futures. After her early records fell out of circulation, her work was introduced to new audiences in 2017 through the compilation Trans-Milenia Music. She returned to releasing original work with the 2020 album Angel Tears in Sunlight, released by RVNG Intl just months after her passing.",
    "id": "in-focus-pauline-anna-strom-16th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Indie Rock",
    "title": "In Focus: Elliott Smith",
    "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-elliott-smith-7th-august-2026"
-  },
-  {
-   "date": "2026-07-31T10:00:00Z",
-   "desc": "60 minutes of recordings from beloved Saudi Arabian composer, singer, and multi-instrumentalist Talal Maddah. Known as \"The Earth's Voice\" he has become an influential figure in Arabian pop culture. Created by Leila Samir.",
-   "id": "in-focus-talal-maddah-31st-july-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/5fa35f89-6d7f-46bc-999f-83c4ecb2697a_1785369600.jpeg",
-   "location": "Mecca",
-   "tags": "Arabic Pop, Arabic Traditional",
-   "title": "In Focus: Talal Maddah",
-   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-talal-maddah-31st-july-2026"
   }
  ],
  "kind": "nts",
  "name": "NTS In Focus",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

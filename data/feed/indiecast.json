@@ -3,6 +3,16 @@
  "id": "indiecast",
  "items": [
   {
+   "audio": "https://rss.art19.com/episodes/d00d874b-1dfb-41cf-9ffe-b12cda540ebd.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+   "date": "2026-10-23T08:00:00Z",
+   "desc": "In this episode Steven and Ian talk about new albums by The Olivia Tremor Control and Worldpeace DMT, and also sports and Jay-Z at the Super Bowl. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+   "duration": "01:02:23",
+   "id": "gid:--art19-episode-locator-V0-_Ic8jW1pxSEEhrbRkWX4Da7ijD-W69aYX44ObzKpozs",
+   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
+   "title": "The Legacy Of Elephant 6 and The Rise Of Laptop Twee",
+   "url": "https://rss.art19.com/episodes/d00d874b-1dfb-41cf-9ffe-b12cda540ebd.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
    "audio": "https://rss.art19.com/episodes/f3012b9d-467a-424d-97bf-8e382c9ee6ee.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
    "date": "2026-10-16T08:30:00Z",
    "desc": "Steven and Ian do a quick Sportscast about Steve's book tour coinciding with the Brewers' magical playoffs run (2:29) before pivoting to a conversation about allegations against Geordie Greep and how the story broke (9:41). After that, they discuss a recent list of emo albums and what Ian thought about it (24:50). Then they talk about the week's big indie releases, including albums by Dummy, Eels, Geologist, and The Avalanches (32:20) before focusing on the latest by Fontaines D.C. and what it means for their overall standing (38:39). In Recommendation Corner, they discuss new albums by Juno …",
@@ -241,19 +251,9 @@
    "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
    "title": "Phoebe Bridgers Returns! Tame Impala Has A Real Pop Hit! This Is Lorelei Signs Big!",
    "url": "https://rss.art19.com/episodes/4a910a83-2e8f-4e42-843c-8328893c58cd.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "audio": "https://rss.art19.com/episodes/0b426941-5873-4697-9939-56f7769e660e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-   "date": "2026-05-08T10:00:00Z",
-   "desc": "The guys open with Greta Van Fleet, who is not an indie band, possibly teasing their own breakup or possible new music this week (1:20). Then they offer an update on the Fantasy Albums Draft, discussing recent albums by Aldous Harding and Kneecap (8:15). This leads to a wider conversation about the week's new releases, including Broken Social Scene, Basement, Cola, Social Distortion, The Lemon Twigs, and more (19:24). After that they consider a recent list of the greatest guitar solos of all time, and offer up their picks (33:44). In the first mailbag of the Amazon era, they revisit Ian's neg…",
-   "duration": "01:02:11",
-   "id": "gid:--art19-episode-locator-V0-h4JpdBAkaM_iqrHIJ_ROppMNTPTHCsklugqp_C2bmw4",
-   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
-   "title": "Broken Social Scene Returns, Greta Van Fleet Breaks Up (Almost), Ween vs. Tenacious D, and The Greatest Guitar Solos Of All Time",
-   "url": "https://rss.art19.com/episodes/0b426941-5873-4697-9939-56f7769e660e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "kind": "rss",
  "name": "Indiecast",
- "updatedAt": "2026-10-16T23:38:59Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

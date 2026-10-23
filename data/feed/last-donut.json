@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T08:00:00Z",
+   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+   "duration": null,
+   "id": "6ada062fa1cd4a000105aad7",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/-Hi-Res-Image--Jeremiah-Chiu-by-Charlie-Weinmann-3-1.jpg",
+   "title": "Jeremiah Chiu on Swapping Synths, Chicago, and Going with the Flow",
+   "url": "https://last-donut-of-the-night.ghost.io/jeremiah-chiu-on-swapping-synths-chicago-and-going-with-the-flow/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-22T08:00:00Z",
    "desc": "",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/Wishy-by-Rian-Archer--62.jpg",
    "title": "Wishy on Saint Etienne, Hacky Sacking, and Keeping the Beat Alive",
    "url": "https://last-donut-of-the-night.ghost.io/wishy-on-saint-etienne-hacky-sacking-and-keeping-the-beat-alive/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-02T13:15:37Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6abec4168650350001fee352",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/Logic1000-by-Kasia-Kim-Zacharko.jpg",
-   "title": "Logic1000 on Catholicism, Repairing Relationships, and Walking Away from Optimization",
-   "url": "https://last-donut-of-the-night.ghost.io/logic1000-on-catholicism-repairing-relationships-and-walking-away-from-optimization/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

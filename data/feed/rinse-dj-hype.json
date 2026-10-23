@@ -3,6 +3,14 @@
  "id": "rinse-dj-hype",
  "items": [
   {
+   "date": "2026-10-22T18:00:00Z",
+   "desc": "",
+   "id": "dj-hype-22-10-2026-1900",
+   "image": "https://image.rinse.fm/_/DJ-Hype-April-2023_2.jpeg?w=1200&h=630",
+   "title": "DJ Hype, 22 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/dj-hype-22-10-2026-1900"
+  },
+  {
    "date": "2026-09-24T18:00:00Z",
    "desc": "",
    "id": "dj-hype-24-09-2026-1900",
@@ -187,14 +195,6 @@
    "url": "https://www.rinse.fm/episodes/dj-hype-26-04-2024-1400"
   },
   {
-   "date": "2024-04-12T13:00:00Z",
-   "desc": "",
-   "id": "dj-hype-12-04-2024-1400",
-   "image": "https://image.rinse.fm/_/DJ-Hype-April-2023_2.jpeg?w=1200&h=630",
-   "title": "DJ Hype, 12 Apr 2024",
-   "url": "https://www.rinse.fm/episodes/dj-hype-12-04-2024-1400"
-  },
-  {
    "date": null,
    "desc": "",
    "id": "dj-hype-14-03-2025-1400-2",
@@ -205,5 +205,5 @@
  ],
  "kind": "rinse",
  "name": "DJ Hype",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

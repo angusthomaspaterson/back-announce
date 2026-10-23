@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T04:03:00Z",
+   "desc": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
+   "duration": null,
+   "id": "6ada5d44f00eb0165f8136bf",
+   "image": null,
+   "title": "Jazz dreams",
+   "url": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-22T04:03:00Z",
    "desc": "For their collaborative full-length debut, Eris Drew and Octo Octa hunkered down in their New Hampshire cabin to craft a celebratory, sample-heavy tribute to the maximalist dance music of yore.",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "Poem 1",
    "url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/"
-  },
-  {
-   "audio": null,
-   "date": "2026-04-23T04:03:00Z",
-   "desc": "Retro but never dusty, the rapper’s brilliantly bugged-out new tape sounds like a New York that hardly exists anymore.",
-   "duration": null,
-   "id": "69e917a4556614c9bfc04bd2",
-   "image": null,
-   "title": "LIVING TYPE DANGEROUS Vol. 1",
-   "url": "https://pitchfork.com/reviews/albums/starker-living-type-dangerous-vol-1/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-10-22T07:27:53Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

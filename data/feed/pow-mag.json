@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T17:24:43Z",
+   "desc": "Video Music Box co-founder Ralph McDaniels will be honored by the Paid In Full Foundation this weekend in Las Vegas.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-ralph-mcdaniels-video-music-box-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!KCfr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24319fdb-8343-4949-8a69-ee1437487b22_1200x1200.png",
+   "title": "The Man Who Maintains Hip-Hop History",
+   "url": "https://www.powmag.net/p/ralph-mcdaniels-video-music-box-interview"
+  },
+  {
+   "audio": null,
    "date": "2026-10-22T18:28:16Z",
    "desc": "Amy Winehouse’s masterpiece is a reminder of the way brilliant women have been misunderstood, exploited, and dismissed.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!wEg3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa797ba1d-3956-4a02-82ba-b120c2a7fcb3_1200x1200.png",
    "title": "Rappers Suck: An Interview with Cletus Strap",
    "url": "https://www.powmag.net/p/cletus-strap-interview"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-30T16:30:46Z",
-   "desc": "The fifth installment of our series reexamining hip-hop in the year 2001 is an excerpt from Joseph Rathgeber’s Catch Us Before We Fall Off: a [ch]oral history of anticon.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-the-2001-project-clouddead-anticon-oral-history",
-   "image": "https://substackcdn.com/image/fetch/$s_!BvQk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a400ce3-3491-4879-99f3-fde08341ae08_1200x1200.png",
-   "title": "The 2001 Project: cLOUDDEAD’s Self-Titled Debut",
-   "url": "https://www.powmag.net/p/the-2001-project-clouddead-anticon-oral-history"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

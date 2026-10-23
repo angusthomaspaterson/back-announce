@@ -3,6 +3,16 @@
  "id": "21c-progressive",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2421764667-21cprogressivehouse-robert-glenn-the-racket-club.mp3",
+   "date": "2026-10-23T01:07:03Z",
+   "desc": "The Racket Club welcomes Robert Glenn, resident DJ with The Arena Project, with his guest DJ mix, titled 'Below'. Drawing on his love of progressive and techno, Rob takes inspiration from a night of underground clubbing in a Manchester cellar to explore a progressive warm-up for that setting. Stripped-back grooves, percussion and evolving themes greatly influence the mix, featuring Sam Scheme, Hobin Rude, Julieta Kühnle and Patch Park, alongside remixes from Simos Tagias and Berni Turletti, before closing with Stereo Underground’s In the Middle of Everything. In Rob’s words: “Taking Progressi…",
+   "duration": "02:05:00",
+   "id": "tag:soundcloud-2010:tracks-2421764667",
+   "image": "https://i1.sndcdn.com/artworks-6WyPgwLWm89JmDZ1-ts5hKA-t3000x3000.jpg",
+   "title": "Robert Glenn | The Racket Club",
+   "url": "https://soundcloud.com/21cprogressivehouse/robert-glenn-the-racket-club"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2415881580-21cprogressivehouse-eli-gold-the-racket-club.mp3",
    "date": "2026-10-10T06:27:28Z",
    "desc": "The Racket Club welcomes Melbourne’s Eli Gold with a carefully programmed mix that gives the music room to breathe. Deep, emotional and moody progressive house meets driving grooves, atmospheric melodies, intricate percussion and beautifully chosen breaks. Bringing together familiar artists and lesser-known producers and labels he feels deserve greater attention, Eli shares a personal selection shaped by his connection to the music and the people behind it. A mix built for discovery, with space for each track to contribute to the unfolding journey. 1. Rodd Sim - Glamour (Framewerk Poolside Re…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-EBDhpF8ioCtQlbjN-90AEkQ-t3000x3000.png",
    "title": "Imprint Series | District Records",
    "url": "https://soundcloud.com/21cprogressivehouse/imprint-series-district-records"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2321081378-21cprogressivehouse-mtpl_special_edition_may_2026.mp3",
-   "date": "2026-05-15T10:10:10Z",
-   "desc": "1. Bjonic & Makso - Earth (Original Mix) 2. Holy Moly - Running (Framewerk Breaks Edit) 3. Max Hendricks - Sleep Paralysis (Original Mix) 4. -MTPL+ | Track 3 5. FAERO, Brian Creao, Agustin Massari - Floward (Original Mix) 6. D-Nox, Andre Moret - Heaven (Extended Mix) 7. Tantum - It Has To Be Like This (Original Mix) 8. Dowden - Pacifist (Original Mix) 9. James Harcourt, LOYA - Touch The Sun (Original Mix) 10. Chicola, Guy Mantzur - Neon Bible (Original Mix) 11. Cass & Slide, Cass (UK) - Perception (Cass Is Broken Mix) 12. Kebin Van Reeken - Dual Horizons (Original Mix) 13. Alex O_Rion - Emera…",
-   "duration": "02:00:32",
-   "id": "tag:soundcloud-2010:tracks-2321081378",
-   "image": "https://i1.sndcdn.com/artworks-O8dJ2zzyzXKoCgD3-7a9QCA-t3000x3000.png",
-   "title": "-MTPL+ | Special Edition May 2026",
-   "url": "https://soundcloud.com/21cprogressivehouse/mtpl_special_edition_may_2026"
   }
  ],
  "kind": "rss",
  "name": "21C Progressive House",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

@@ -3,6 +3,16 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-10-22T00:00:00Z",
+   "desc": "Single on Anjunachill, out 22 Oct 2026.",
+   "id": "622527-atlantic-ambient-revisit",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/622527.jpg",
+   "out": "2026-10-22T00:00:00Z",
+   "tags": "Single · Anjunachill",
+   "title": "Jaytech – Atlantic (Ambient Revisit)",
+   "url": "https://anjunadeep.com/products/622527-atlantic-ambient-revisit"
+  },
+  {
    "date": "2026-10-21T00:00:00Z",
    "desc": "Single on Anjunadeep Explorations, out 21 Oct 2026.",
    "id": "622290-when-we-look-away",
@@ -155,22 +165,22 @@
   {
    "date": "2026-10-01T00:00:00Z",
    "desc": "Single on Anjunachill, out 1 Oct 2026.",
-   "id": "616517-sky-falls-down-downtempo-version",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
-   "out": "2026-10-01T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
-   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
-  },
-  {
-   "date": "2026-10-01T00:00:00Z",
-   "desc": "Single on Anjunachill, out 1 Oct 2026.",
    "id": "616515-solitude-vr-sofandi-rework",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616515.jpg",
    "out": "2026-10-01T00:00:00Z",
    "tags": "Single · Anjunachill",
    "title": "Tontario feat. Lake Jons – Solitude (Vár Sofandi Rework)",
    "url": "https://anjunadeep.com/products/616515-solitude-vr-sofandi-rework"
+  },
+  {
+   "date": "2026-10-01T00:00:00Z",
+   "desc": "Single on Anjunachill, out 1 Oct 2026.",
+   "id": "616517-sky-falls-down-downtempo-version",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
+   "out": "2026-10-01T00:00:00Z",
+   "tags": "Single · Anjunachill",
+   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
+   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
   },
   {
    "date": "2026-09-30T00:00:00Z",
@@ -241,19 +251,9 @@
    "tags": "EP · Anjunadeep",
    "title": "Maty Owl – Dreamer EP",
    "url": "https://anjunadeep.com/products/613892-dreamer-ep"
-  },
-  {
-   "date": "2026-09-17T00:00:00Z",
-   "desc": "Single on Anjunachill, out 17 Sep 2026.",
-   "id": "613891-he-dreams-of-friends-kloyd-remix",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613891.jpg",
-   "out": "2026-09-17T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "obli – He Dreams of Friends (Kloyd Remix)",
-   "url": "https://anjunadeep.com/products/613891-he-dreams-of-friends-kloyd-remix"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-22T07:27:53Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

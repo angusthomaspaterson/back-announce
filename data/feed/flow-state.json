@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T07:03:09Z",
+   "desc": "It’s Friday so we’re listening to something more upbeat.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-djrum-579",
+   "image": "https://substackcdn.com/image/fetch/$s_!G_y_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888fffa8-3442-4780-b9e8-3bd9b563fda3_1200x1200.jpeg",
+   "title": "Djrum",
+   "url": "https://www.flowstate.fm/p/djrum-579"
+  },
+  {
+   "audio": null,
    "date": "2026-10-22T07:02:59Z",
    "desc": "Today we’re listening to Hermanos Gutiérrez, Ecuadorian-Swiss guitarists Alejandro and Estevan.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!S_pg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2337f113-91a0-46ba-a179-417b7b5536c4_1396x1406.png",
    "title": "Ryuichi Sakamoto",
    "url": "https://www.flowstate.fm/p/ryuichi-sakamoto-a1b"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-25T07:03:22Z",
-   "desc": "Today we’re listening to Patrick Cowley, an American electronic musician from Buffalo, NY.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-patrick-cowley",
-   "image": "https://substackcdn.com/image/fetch/$s_!3sLU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feed56eff-32f2-414a-a430-199d5939e681_1200x1200.jpeg",
-   "title": "Patrick Cowley",
-   "url": "https://www.flowstate.fm/p/patrick-cowley"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-22T07:27:53Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }

@@ -4,6 +4,26 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T12:08:14Z",
+   "desc": "I'll Dream InStead is out now . Video shot, directed, edited by Monika Kraska ... Continue reading…",
+   "duration": null,
+   "id": "https:--www.gorillavsbear.net--p-388134",
+   "image": "https://townsquare.media/site/833/files/2026/10/attachment-boyhood-dui.jpg?format=natural",
+   "title": "listen to Boyhood’s <i>I’ll Dream InStead</i>",
+   "url": "https://www.gorillavsbear.net/listen-to-boyhoods-ill-dream-instead/"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-23T11:07:43Z",
+   "desc": "Jazz dreams is out now . Video directed + filmed by Louise Le Meur ... Continue reading…",
+   "duration": null,
+   "id": "https:--www.gorillavsbear.net--p-388125",
+   "image": "https://townsquare.media/site/833/files/2026/10/attachment-fine-by-betty-krag-hill.jpg?format=natural",
+   "title": "listen to Fine’s <i>Jazz dreams</i>",
+   "url": "https://www.gorillavsbear.net/listen-to-fines-jazz-dreams/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-22T14:10:06Z",
    "desc": "Both vids directed + edited by Falcon Bitch ... Continue reading…",
    "duration": null,
@@ -231,29 +251,9 @@
    "image": "https://townsquare.media/site/833/files/2026/04/attachment-smerz-spring-summer.jpg?format=natural",
    "title": "Smerz – Spring summer",
    "url": "https://www.gorillavsbear.net/smerz-spring-summer/"
-  },
-  {
-   "audio": null,
-   "date": "2026-03-19T11:07:54Z",
-   "desc": "Taken from Montreal duo Jump Source 's new album Fold , out April 30th ... Continue reading…",
-   "duration": null,
-   "id": "https:--www.gorillavsbear.net--p-387938",
-   "image": "https://townsquare.media/site/833/files/2026/03/attachment-empty-bars.jpg?format=natural",
-   "title": "Jump Source x Billy Woods – Empty Bars",
-   "url": "https://www.gorillavsbear.net/jump-source-x-billy-woods-empty-bars/"
-  },
-  {
-   "audio": null,
-   "date": "2026-03-04T13:08:06Z",
-   "desc": "Carla Dal Forno shares the hauntingly yearning lead single + opening track from her forthcoming album Confession , out next month on her own Kallista Records ... Continue reading…",
-   "duration": null,
-   "id": "https:--www.gorillavsbear.net--p-387930",
-   "image": "https://townsquare.media/site/833/files/2026/03/attachment-carla-dal-forno-going-out-1.jpg?format=natural",
-   "title": "Carla Dal Forno – Going Out",
-   "url": "https://www.gorillavsbear.net/carla-dal-forno-going-out/"
   }
  ],
  "kind": "rss",
  "name": "Gorilla vs. Bear",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-10-23T22:14:30Z"
 }
