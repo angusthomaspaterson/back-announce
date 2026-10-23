@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-10-23T10:31:00Z",
+   "g": "Writing",
+   "s": "Futurism Restated (Philip Sherburne)",
+   "sid": "futurism-restated",
+   "t": "Mixes Digest 27: Interstellar Spirals",
+   "u": "https://futurismrestated.substack.com/p/mixes-digest-27-interstellar-spirals"
+  },
+  {
    "d": "2026-10-23T00:00:00Z",
    "g": "Progressive",
    "s": "Balance Music (Selections)",
@@ -73,15 +81,6 @@
    "sp": "Love Is The Message Transfiguration: Spiritual Jazz pt.2",
    "t": "Transfiguration: Spiritual Jazz pt.2",
    "u": "https://podcasters.spotify.com/pod/show/lovemessagepod/episodes/Transfiguration-Spiritual-Jazz-pt-2-e3qrsd8"
-  },
-  {
-   "d": "2026-10-22T06:22:01Z",
-   "g": "Progressive",
-   "s": "Coldwired Podcast (Nick Clark)",
-   "sid": "coldwired",
-   "sp": "Coldwired Podcast (Nick Clark) 'Cruise Control' 002 (Progressive Trance)",
-   "t": "'Cruise Control' 002 (Progressive Trance)",
-   "u": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-CruiseControl002.mp3"
   },
   {
    "d": "2026-10-22T06:00:00Z",
@@ -166,8 +165,8 @@
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 188,
- "paused": 17,
+ "newCount": 187,
+ "paused": 18,
  "releases": [
   {
    "k": "Album · Anjunadeep",
@@ -227,5 +226,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-22T22:22:40Z"
+ "updated": "2026-10-23T21:30:08Z"
 }

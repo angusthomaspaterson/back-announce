@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T10:31:00Z",
+   "desc": "Five killer DJ sets— Ibiza floor-fillers, psychedelic brain-teasers, crate-digging cumbia, and more",
+   "duration": null,
+   "id": "https:--futurismrestated.substack.com-p-mixes-digest-27-interstellar-spirals",
+   "image": "https://substackcdn.com/image/fetch/$s_!vMif!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a54c974-d52b-4ba8-b11b-61b78b628efa_7728x5152.jpeg",
+   "title": "Mixes Digest 27: Interstellar Spirals",
+   "url": "https://futurismrestated.substack.com/p/mixes-digest-27-interstellar-spirals"
+  },
+  {
+   "audio": null,
    "date": "2026-10-20T11:07:37Z",
    "desc": "New music from Marina Herlop, more eaze, Grouper, and more.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!aOrl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd43f826a-5a36-45ea-b8ec-d9d50098c91f_1525x1525.jpeg",
    "title": "FR 179: Smalltown Supersound Is a Feeling",
    "url": "https://futurismrestated.substack.com/p/fr-179-smalltown-supersound-is-a"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-07T15:14:34Z",
-   "desc": "The improvising trio on Magic Object, its debut album, out now on Balmat",
-   "duration": null,
-   "id": "https:--futurismrestated.substack.com-p-fr-178-ben-vida-booker-stardrum-and",
-   "image": "https://substackcdn.com/image/fetch/$s_!9g0o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcff26ed3-3838-41f9-af5d-e87383fc45b7_3088x2048.jpeg",
-   "title": "FR 178: Ben Vida, Booker Stardrum, and Will Epstein Are Play Time",
-   "url": "https://futurismrestated.substack.com/p/fr-178-ben-vida-booker-stardrum-and"
   }
  ],
  "kind": "rss",
  "name": "Futurism Restated (Philip Sherburne)",
- "updatedAt": "2026-10-20T21:30:08Z"
+ "updatedAt": "2026-10-23T21:30:08Z"
 }

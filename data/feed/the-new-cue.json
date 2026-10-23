@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T09:02:15Z",
+   "desc": "“It’s coming Willie, it’s coming...”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-636-october-23-natalie",
+   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+   "title": "The New Cue #636 October 23: Natalie Bergman, Michael Kiwanuka, Willie J Healey, Dean Blunt, Anderson.Paak & Cordae, Manics, Edgar Jones With The Agnostic 5, Comb, Hank, Bicep, The Avalanches",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-636-october-23-natalie"
+  },
+  {
+   "audio": null,
    "date": "2026-10-19T09:02:51Z",
    "desc": "“I’ve got a sensitive body”",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
    "title": "The New Cue #617 August 14: Rowena Wise, James Ellis Ford, 7ebra, Django Django, Everything Is Recorded, Gurriers, Sadurn, Garefowl",
    "url": "https://thenewcue.substack.com/p/the-new-cue-617-august-14-rowena"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-10T09:01:44Z",
-   "desc": "\"I get mad that people can't read my mind\"",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-616-august-10-saul-williams",
-   "image": "https://substackcdn.com/image/fetch/$s_!WaF7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62743437-0847-4b2f-82e6-f6104d97f973_1280x960.jpeg",
-   "title": "The New Cue #616 August 10: Saul Williams",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-616-august-10-saul-williams"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-10-19T21:30:06Z"
+ "updatedAt": "2026-10-23T21:30:08Z"
 }

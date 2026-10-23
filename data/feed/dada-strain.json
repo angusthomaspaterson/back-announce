@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-23T19:25:16Z",
+   "desc": "This week’s events include Dada Strain @ L&SD / Holland Andrews & yuniya edi kwon / Mark Giuliana / Meshell Ndegeocello + Samora Pinderhughes / more eaze / Love Injection / + 28 more",
+   "duration": null,
+   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-1023202610272026-on",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/8457e049-033c-46eb-9389-6f0038083566_1500x1013.jpeg",
+   "title": "Bklyn Sounds 10/23/2026—10/27/2026 + On Mali Obomsawin’s ‘Automatic’",
+   "url": "https://dadastrain.substack.com/p/bklyn-sounds-1023202610272026-on"
+  },
+  {
+   "audio": null,
    "date": "2026-10-16T15:23:53Z",
    "desc": "INVITE: The year’s final installment of Dada Strain's rhythm-improvisation-community series at the private Greenpoint loft, features two of New York’s crucial artists of the moment",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/0bf68015-d13c-4fca-aae3-04806b37da14_1500x1013.jpeg",
    "title": "Bklyn Sounds 6/10/2026—6/16/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-61020266162026"
-  },
-  {
-   "audio": null,
-   "date": "2026-06-04T17:18:05Z",
-   "desc": "This week's events include 'Pi Recordings 25th Anniversary' / Xenia Rubinos + Lollise / Henrik Schwarz + Love Injection / 'Going In: A 12 Hour Concert of Durational Music' / Sheila E / and much more",
-   "duration": null,
-   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-642026692026-a-community",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/f7de771e-cabd-42af-b10b-5aa3cff5d276_1500x1013.jpeg",
-   "title": "A Community Buries a Friend (on Doug Shaw) | Bklyn Sounds 6/4/2026—6/9/2026",
-   "url": "https://dadastrain.substack.com/p/bklyn-sounds-642026692026-a-community"
   }
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-10-19T04:20:06Z"
+ "updatedAt": "2026-10-23T21:30:08Z"
 }
