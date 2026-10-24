@@ -3,6 +3,16 @@
  "id": "fbi-sunset",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/3d6fa568-cb10-4f5d-b8c5-b4ed0096c84a/audio.mp3?utm_source=Podcast&in_playlist=ee5e3ae0-4d35-419d-97e6-abe601089925",
+   "date": "2026-10-24T09:17:32Z",
+   "desc": "See omnystudio.com/listener for privacy information.",
+   "duration": "7200",
+   "id": "3d6fa568-cb10-4f5d-b8c5-b4ed0096c84a",
+   "image": "https://www.omnycontent.com/d/programs/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/image.jpg?t=1593187402&size=Large",
+   "title": "Sunset with Dot Zip - 2026-10-24",
+   "url": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-24"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/d6a6fb96-6253-4482-bd67-b4e600963757/audio.mp3?utm_source=Podcast&in_playlist=ee5e3ae0-4d35-419d-97e6-abe601089925",
    "date": "2026-10-17T09:14:54Z",
    "desc": "See omnystudio.com/listener for privacy information.",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/programs/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/image.jpg?t=1593187402&size=Large",
    "title": "Sunset with Dot Zip - 2026-5-9",
    "url": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-5-9"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/4b09865b-9ab2-4635-a328-b43e00a78ae1/audio.mp3?utm_source=Podcast&in_playlist=ee5e3ae0-4d35-419d-97e6-abe601089925",
-   "date": "2026-05-02T10:19:37Z",
-   "desc": "See omnystudio.com/listener for privacy information.",
-   "duration": "7200",
-   "id": "4b09865b-9ab2-4635-a328-b43e00a78ae1",
-   "image": "https://www.omnycontent.com/d/programs/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/image.jpg?t=1593187402&size=Large",
-   "title": "Sunset with Dot Zip - 2026-5-2",
-   "url": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-5-2"
   }
  ],
  "kind": "rss",
  "name": "FBi Sunset (club and bass)",
- "updatedAt": "2026-10-17T23:10:40Z"
+ "updatedAt": "2026-10-24T21:38:39Z"
 }

@@ -3,6 +3,16 @@
  "id": "nts-deep-medi",
  "items": [
   {
+   "date": "2026-10-23T21:00:00Z",
+   "desc": "Bass weight and sound system musik from DEEP MEDi - sharing styles from the label's new crop of producers, and picking out gems from their 150+ releases back catalogue. KEEP YOUR MEDi DEEP From the host: \"In celebration of his recent MEDi release, Chad Dubz presents a mix of his own productions! Listen out for tunes from the new Shut Down EP + a VIP of the title track ! - Interested in more, check @chaddubz\"",
+   "id": "deep-medi-23rd-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/e577eae8-cdb0-45a1-a27f-374d2fba8e47_1792713600.png",
+   "location": "London",
+   "tags": "Dub Techno, Bass, Dubstep",
+   "title": "DEEP MEDi w/ Chad Dubz",
+   "url": "https://www.nts.live/shows/deep-medi/episodes/deep-medi-23rd-october-2026"
+  },
+  {
    "date": "2026-09-25T21:00:00Z",
    "desc": "Bass weight and sound system musik from DEEP MEDi - sharing styles from the label's new crop of producers, and picking out gems from their 150+ releases back catalogue. KEEP YOUR MEDi DEEP From the host: \"This time we have a mix from 1 of the original pioneers of Dubstep ! 'All of a sudden / Disko Rekah' with Loefah is an absolute classic release on the label. Can't celebrate 20yrs without some Coki! Happy wobbling !\"",
    "id": "deep-medi-25th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Dub, Lovers Rock, Reggae",
    "title": "DEEP MEDi : Open Ground w/ Mad Professor",
    "url": "https://www.nts.live/shows/deep-medi/episodes/deep-medi-21st-november-2025"
-  },
-  {
-   "date": "2025-10-24T21:00:00Z",
-   "desc": "Bass weight and sound system musik from DEEP MEDi - sharing styles from the label's new crop of producers, and picking out gems from their 150+ releases back catalogue. KEEP YOUR MEDi DEEP From the host: \"We're heading to Open Ground 29th Nov 2025 and we'll be joined by Benny Ill & Tailor Jae. Here's a little taste… of their tastes! Thanks for listening 🎵 (What is Open Ground? \"Is Open Ground the Best-Sounding New Club in the World?\" Resident Advisor)\"",
-   "id": "deep-medi-24th-october-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/28e83688-8ef6-4fc1-8472-be92df99bf5f_1761264000.jpeg",
-   "location": "London",
-   "tags": "Bass, Dub, Dubstep",
-   "title": "DEEP MEDi: Open Ground w/ Benny Ill & Tailor Jae",
-   "url": "https://www.nts.live/shows/deep-medi/episodes/deep-medi-24th-october-2025"
   }
  ],
  "kind": "nts",
  "name": "DEEP MEDi",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-24T21:38:39Z"
 }

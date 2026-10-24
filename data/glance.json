@@ -1,6 +1,47 @@
 {
  "items": [
   {
+   "d": "2026-10-24T17:44:52Z",
+   "g": "Radio",
+   "s": "Gilles Peterson (6 Music show)",
+   "sid": "gilles-peterson",
+   "t": "Gilles Peterson - Tamar Osborn - 17.10.2026",
+   "u": "https://soundcloud.com/gillespeterson/gilles-peterson-tamar-osborn"
+  },
+  {
+   "d": "2026-10-24T09:17:32Z",
+   "g": "Bass",
+   "s": "FBi Sunset (club and bass)",
+   "sid": "fbi-sunset",
+   "sp": "FBi Sunset (club and bass) Sunset with Dot Zip - 2026-10-24",
+   "t": "Sunset with Dot Zip - 2026-10-24",
+   "u": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-24"
+  },
+  {
+   "d": "2026-10-24T02:00:09Z",
+   "g": "Perth",
+   "s": "RTRFM / RTR2 mixes",
+   "sid": "rtr2",
+   "t": "Miris Gala Ep. 3 w/ Manheim Fowles",
+   "u": "https://soundcloud.com/rtrfm-92-1/miris-gala-ep-3-manheim-fowles"
+  },
+  {
+   "d": "2026-10-24T00:00:00Z",
+   "g": "Progressive",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "Balance Selections 389: Juan Ibañez",
+   "u": "https://soundcloud.com/balance-series/balance-selections-389-juan"
+  },
+  {
+   "d": "2026-10-23T21:00:00Z",
+   "g": "Bass",
+   "s": "DEEP MEDi",
+   "sid": "nts-deep-medi",
+   "t": "DEEP MEDi w/ Chad Dubz",
+   "u": "https://www.nts.live/shows/deep-medi/episodes/deep-medi-23rd-october-2026"
+  },
+  {
    "d": "2026-10-23T20:11:23Z",
    "g": "Progressive",
    "s": "Above & Beyond: Group Therapy",
@@ -16,6 +57,14 @@
    "sp": "Sound Opinions Trixie Mattel is the Queen of Halloween!",
    "t": "Trixie Mattel is the Queen of Halloween!",
    "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/903a8f3a-0bd2-41e7-8d02-e8f3aeb9356a.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
+   "d": "2026-10-23T20:00:00Z",
+   "g": "NTS",
+   "s": "Origins w/ Kevin Saunderson",
+   "sid": "nts-kevin-saunderson",
+   "t": "Origins w/ Kevin Saunderson",
+   "u": "https://www.nts.live/shows/kevin-saunderson/episodes/kevin-saunderson-23rd-october-2026"
   },
   {
    "d": "2026-10-23T15:30:00Z",
@@ -116,58 +165,10 @@
    "sp": "Sound Opinions A Sound Opinions Halloween!",
    "t": "A Sound Opinions Halloween!",
    "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/111453b9-b937-4722-b273-368125f97fc0.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-10-23T04:03:00Z",
-   "g": "Writing",
-   "s": "Pitchfork: Best New Albums",
-   "sid": "pitchfork-bna",
-   "t": "Jazz dreams",
-   "u": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/"
-  },
-  {
-   "d": "2026-10-23T01:07:03Z",
-   "g": "Progressive",
-   "s": "21C Progressive House",
-   "sid": "21c-progressive",
-   "t": "Robert Glenn | The Racket Club",
-   "u": "https://soundcloud.com/21cprogressivehouse/robert-glenn-the-racket-club"
-  },
-  {
-   "d": "2026-10-23T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Contemporary Scandinavian Jazz Scene Through the Years",
-   "u": "https://daily.bandcamp.com/scene-report/contemporary-scandinavian-jazz-scene-report"
-  },
-  {
-   "d": "2026-10-23T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Power of P.E.E.",
-   "u": "https://daily.bandcamp.com/features/pee-now-more-charm-and-more-tender-feature"
-  },
-  {
-   "d": "2026-10-23T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Essential Releases, October 23, 2026",
-   "u": "https://daily.bandcamp.com/essential-releases/essential-releases-october-23-2026"
-  },
-  {
-   "d": "2026-10-23T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Water Damage, “Repair”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/water-damage-repair-review"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 211,
+ "newCount": 217,
  "paused": 18,
  "releases": [
   {
@@ -228,5 +229,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-23T22:14:30Z"
+ "updated": "2026-10-24T21:38:39Z"
 }

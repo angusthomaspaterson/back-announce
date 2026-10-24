@@ -3,6 +3,16 @@
  "id": "nts-kevin-saunderson",
  "items": [
   {
+   "date": "2026-10-23T20:00:00Z",
+   "desc": "Journeys through the past, present, and future of dance culture with The co-founder of techno and elevator of house music, Kevin Saunderson. Expect deep blends of house, techno, electro, and disco alongside stories of the scenes and sounds that shaped them. From the host: \"Recorded live at Woo Club in Naples, Italy, and sent your way from ADE in Amsterdam. New E-Dancer cuts incl. Dantiez's Go Deep remix of Detroit, Inner City's Future (Kenny Larkin) and Good Life (House Of Virus), plus Niko Marks, Deetron, Benjamin Damage and Ten City x Floorplan.\"",
+   "id": "kevin-saunderson-23rd-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/1830dd4e-e597-436a-a60f-6446963ab267_1768521600.jpeg",
+   "location": "Detroit",
+   "tags": "Tech House, House",
+   "title": "Origins w/ Kevin Saunderson",
+   "url": "https://www.nts.live/shows/kevin-saunderson/episodes/kevin-saunderson-23rd-october-2026"
+  },
+  {
    "date": "2026-08-07T20:00:00Z",
    "desc": "Journeys through the past, present, and future of dance culture with The co-founder of techno and elevator of house music, Kevin Saunderson. Expect deep blends of house, techno, electro, and disco alongside stories of the scenes and sounds that shaped them.",
    "id": "kevin-saunderson-7th-august-2026",
@@ -75,5 +85,5 @@
  ],
  "kind": "nts",
  "name": "Origins w/ Kevin Saunderson",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-10-24T21:38:39Z"
 }

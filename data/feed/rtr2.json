@@ -3,6 +3,16 @@
  "id": "rtr2",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2418017967-rtrfm-92-1-miris-gala-ep-3-manheim-fowles.mp3",
+   "date": "2026-10-24T02:00:09Z",
+   "desc": "On Episode 3 of Miris Gala we have Manheim Fowles gracing the soundwaves, a selector known for his eclectic and hard hitting track selections tethering tension and release. Having been introduced to EDM by his siblings at a young age and to Latin sounds introduced by now dear-friends passing through town, Manheim has solidified his position within Boorloo's creative scene as a true tastemaker. Pulling across genres spanning the globe, prepare yourself for a fast-paced and club ready mix of EDM, Latin-core, UK, deconstructed club sounds, and much more.",
+   "duration": "01:00:57",
+   "id": "tag:soundcloud-2010:tracks-2418017967",
+   "image": "https://i1.sndcdn.com/artworks-qWFdyMzIV4Er9Acf-5jDUPA-t3000x3000.jpg",
+   "title": "Miris Gala Ep. 3 w/ Manheim Fowles",
+   "url": "https://soundcloud.com/rtrfm-92-1/miris-gala-ep-3-manheim-fowles"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2410929432-rtrfm-92-1-8theclub-mixology-ep-6-w-sofi.mp3",
    "date": "2026-10-02T04:03:26Z",
    "desc": "In the 6th course of 8theclub’s mixology series, Graham and P33don are joined by Sofi. Sofi is a bass-driven DJ with an instinct for the dance floor. Her sound weaves together UK and Latin American influences that are percussion rich and bass heavy. She moves effortlessly through an array of genres and club edits, creating sets that are playful, dynamic and built to keep bodies moving.",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-XYQzQnFDdjqCmxZw-rseDvw-t3000x3000.jpg",
    "title": "8theclub Mixology Ep. 3 w/ Duel1st",
    "url": "https://soundcloud.com/rtrfm-92-1/8theclub-mixology-ep-3-duel1st"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2324126969-rtrfm-92-1-desert-frog-dub-triptych-ep-2-britt-bro.mp3",
-   "date": "2026-05-30T02:00:56Z",
-   "desc": "For the second rendition of Britt Bro's Desert Frog Dub Triptych, we’re set to get somewhat squelchier in the thick mud of the Arrernte claypans - with dub and downtempo moving into some deeper, trancier sounds that draw on the dusty underground dancefloors of Mparntwe, all the while saturated with frog-laden soundscapes.",
-   "duration": "02:06:33",
-   "id": "tag:soundcloud-2010:tracks-2324126969",
-   "image": "https://i1.sndcdn.com/artworks-Ck1qwGB8Y83z8il6-JrPuxQ-t3000x3000.png",
-   "title": "Desert Frog Dub Triptych Ep. 2 w/ Britt Bro",
-   "url": "https://soundcloud.com/rtrfm-92-1/desert-frog-dub-triptych-ep-2-britt-bro"
   }
  ],
  "kind": "rss",
  "name": "RTRFM / RTR2 mixes",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-24T21:38:39Z"
 }

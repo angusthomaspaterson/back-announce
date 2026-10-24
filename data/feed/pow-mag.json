@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-24T14:30:48Z",
+   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Harley Geffner reviews new work from Lucki, Jackboy, and more.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-raps-for-leaving-your-body-behind",
+   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Izu3k-agHEM",
+   "title": "Raps for Leaving Your Body Behind",
+   "url": "https://www.powmag.net/p/raps-for-leaving-your-body-behind"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T17:24:43Z",
    "desc": "Video Music Box co-founder Ralph McDaniels will be honored by the Paid In Full Foundation this weekend in Las Vegas.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!SjkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28b50e45-396f-4628-9262-cb7cfb109815_960x1425.jpeg",
    "title": "Andre 3000 and the Myth of Permanence",
    "url": "https://www.powmag.net/p/andre-3000-7-piano-sketches-short-film"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-01T18:31:41Z",
-   "desc": "The Earl Sweatshirt protege’s latest album is poised and pointed.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-cletus-strap-interview",
-   "image": "https://substackcdn.com/image/fetch/$s_!wEg3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa797ba1d-3956-4a02-82ba-b120c2a7fcb3_1200x1200.png",
-   "title": "Rappers Suck: An Interview with Cletus Strap",
-   "url": "https://www.powmag.net/p/cletus-strap-interview"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-24T21:38:39Z"
 }
