@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-25T15:48:15Z",
+   "desc": "The brutalist king of the North + Notes on Herb @ 200 + Nabihah Iqbal & Goya Gumbani",
+   "duration": null,
+   "id": "https:--herbsundays.substack.com-p-herb-sundays-201-andy-stott",
+   "image": "https://substackcdn.com/image/fetch/$s_!vH59!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8878df57-f5dd-4e16-b106-5903b72c9760_3000x3000.jpeg",
+   "title": "Herb Sundays 201: Andy Stott",
+   "url": "https://herbsundays.substack.com/p/herb-sundays-201-andy-stott"
+  },
+  {
+   "audio": null,
    "date": "2026-10-18T18:15:44Z",
    "desc": "The Chicago legend, now in Memphis, on his music and legacy. Plus a deep dive into the Heard catalogue (Mr. Fingers, etc) from Michael Cina.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!R_73!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe24ffd5-b6ab-4087-8550-2cf651bdfc51_3000x3000.jpeg",
    "title": "Herb Sundays 187: The Field",
    "url": "https://herbsundays.substack.com/p/herb-sundays-187-the-field"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-17T17:16:11Z",
-   "desc": "The beloved artist and photographer shares a playlist for the end of the world.",
-   "duration": null,
-   "id": "https:--herbsundays.substack.com-p-herb-sundays-186-noah-kalina",
-   "image": "https://substackcdn.com/image/fetch/$s_!vplE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe301a636-5a93-4055-9aa5-e6d7802388ad_3000x3000.heic",
-   "title": "Herb Sundays 186: Noah Kalina",
-   "url": "https://herbsundays.substack.com/p/herb-sundays-186-noah-kalina"
   }
  ],
  "kind": "rss",
  "name": "Herb Sundays",
- "updatedAt": "2026-10-19T04:20:06Z"
+ "updatedAt": "2026-10-25T21:30:08Z"
 }

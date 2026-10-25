@@ -7573,6 +7573,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-25T15:48:15Z",
+     "desc": "The brutalist king of the North + Notes on Herb @ 200 + Nabihah Iqbal & Goya Gumbani",
+     "duration": null,
+     "id": "https:--herbsundays.substack.com-p-herb-sundays-201-andy-stott",
+     "image": "https://substackcdn.com/image/fetch/$s_!vH59!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8878df57-f5dd-4e16-b106-5903b72c9760_3000x3000.jpeg",
+     "title": "Herb Sundays 201: Andy Stott",
+     "url": "https://herbsundays.substack.com/p/herb-sundays-201-andy-stott"
+    },
+    {
+     "audio": null,
      "date": "2026-10-18T18:15:44Z",
      "desc": "The Chicago legend, now in Memphis, on his music and legacy. Plus a deep dive into the Heard catalogue (Mr. Fingers, etc) from Michael Cina.",
      "duration": null,
@@ -7760,21 +7770,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!R_73!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe24ffd5-b6ab-4087-8550-2cf651bdfc51_3000x3000.jpeg",
      "title": "Herb Sundays 187: The Field",
      "url": "https://herbsundays.substack.com/p/herb-sundays-187-the-field"
-    },
-    {
-     "audio": null,
-     "date": "2026-05-17T17:16:11Z",
-     "desc": "The beloved artist and photographer shares a playlist for the end of the world.",
-     "duration": null,
-     "id": "https:--herbsundays.substack.com-p-herb-sundays-186-noah-kalina",
-     "image": "https://substackcdn.com/image/fetch/$s_!vplE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe301a636-5a93-4055-9aa5-e6d7802388ad_3000x3000.heic",
-     "title": "Herb Sundays 186: Noah Kalina",
-     "url": "https://herbsundays.substack.com/p/herb-sundays-186-noah-kalina"
     }
    ],
    "kind": "rss",
    "name": "Herb Sundays",
-   "updatedAt": "2026-10-19T04:20:06Z"
+   "updatedAt": "2026-10-25T21:30:08Z"
   },
   "ilian-tape": {
    "home": "https://soundcloud.com/iliantape",
@@ -31262,6 +31262,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-25T16:13:06Z",
+     "desc": "Triple Threat? Don’t sell the man short.",
+     "duration": null,
+     "id": "https:--thegig.substack.com-p-jimmy-heath-at-100",
+     "image": "https://substackcdn.com/image/fetch/$s_!cMSS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F989f305d-889a-451c-aa2b-a3b62eeacc63_1200x630.jpeg",
+     "title": "Jimmy Heath at 100",
+     "url": "https://thegig.substack.com/p/jimmy-heath-at-100"
+    },
+    {
+     "audio": null,
      "date": "2026-10-21T23:45:05Z",
      "desc": "A couple of wins, and a winning look ahead",
      "duration": null,
@@ -31449,21 +31459,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!sgk7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e76fa3-0ecc-4d13-a0ce-a06f6569e0ee_4128x3760.png",
      "title": "Steven Bernstein Wanted a Threesome",
      "url": "https://thegig.substack.com/p/steven-bernstein-wanted-a-threesome"
-    },
-    {
-     "audio": null,
-     "date": "2026-07-14T02:37:00Z",
-     "desc": "What RAYE brings to the crossover equation",
-     "duration": null,
-     "id": "https:--thegig.substack.com-p-this-pop-pageant-may-contain-jazz",
-     "image": "https://substackcdn.com/image/fetch/$s_!JA7J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F512d7421-896b-46f8-b0d2-25b74d821818_1920x1219.png",
-     "title": "This Pop Pageant May Contain Jazz",
-     "url": "https://thegig.substack.com/p/this-pop-pageant-may-contain-jazz"
     }
    ],
    "kind": "rss",
    "name": "The Gig (Nate Chinen)",
-   "updatedAt": "2026-10-22T21:30:08Z"
+   "updatedAt": "2026-10-25T21:30:08Z"
   },
   "the-lot-radio": {
    "home": "https://www.thelotradio.com/",
@@ -35108,7 +35108,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-24T21:38:39Z",
+  "lastRun": "2026-10-25T21:30:08Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-24T21:38:39Z",
@@ -35195,7 +35195,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 20,
     "newest": "2026-10-23T19:25:16Z",
     "ok": true
@@ -35231,7 +35231,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -35249,7 +35249,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 11,
     "newest": "2026-10-22T10:31:06Z",
     "ok": true
@@ -35261,7 +35261,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 20,
     "newest": "2026-10-23T10:31:00Z",
     "ok": true
@@ -35303,9 +35303,9 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 20,
-    "newest": "2026-10-18T18:15:44Z",
+    "newest": "2026-10-25T15:48:15Z",
     "ok": true
    },
    "ilian-tape": {
@@ -35363,7 +35363,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 20,
     "newest": "2026-10-23T07:00:53Z",
     "ok": true
@@ -35405,7 +35405,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 25,
     "newest": "2026-10-14T15:56:50Z",
     "ok": true
@@ -36126,9 +36126,9 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 20,
-    "newest": "2026-10-21T23:45:05Z",
+    "newest": "2026-10-25T16:13:06Z",
     "ok": true
    },
    "the-lot-radio": {
@@ -36138,7 +36138,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 20,
     "newest": "2026-10-23T09:02:15Z",
     "ok": true
@@ -36156,7 +36156,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
@@ -36180,7 +36180,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-10-23T21:30:08Z",
+    "at": "2026-10-25T21:30:08Z",
     "count": 5,
     "newest": "2026-10-20T18:00:33Z",
     "ok": true

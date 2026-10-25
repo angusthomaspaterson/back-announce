@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-25T16:13:06Z",
+   "desc": "Triple Threat? Don’t sell the man short.",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-jimmy-heath-at-100",
+   "image": "https://substackcdn.com/image/fetch/$s_!cMSS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F989f305d-889a-451c-aa2b-a3b62eeacc63_1200x630.jpeg",
+   "title": "Jimmy Heath at 100",
+   "url": "https://thegig.substack.com/p/jimmy-heath-at-100"
+  },
+  {
+   "audio": null,
    "date": "2026-10-21T23:45:05Z",
    "desc": "A couple of wins, and a winning look ahead",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!sgk7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e76fa3-0ecc-4d13-a0ce-a06f6569e0ee_4128x3760.png",
    "title": "Steven Bernstein Wanted a Threesome",
    "url": "https://thegig.substack.com/p/steven-bernstein-wanted-a-threesome"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-14T02:37:00Z",
-   "desc": "What RAYE brings to the crossover equation",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-this-pop-pageant-may-contain-jazz",
-   "image": "https://substackcdn.com/image/fetch/$s_!JA7J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F512d7421-896b-46f8-b0d2-25b74d821818_1920x1219.png",
-   "title": "This Pop Pageant May Contain Jazz",
-   "url": "https://thegig.substack.com/p/this-pop-pageant-may-contain-jazz"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-10-22T21:30:08Z"
+ "updatedAt": "2026-10-25T21:30:08Z"
 }
