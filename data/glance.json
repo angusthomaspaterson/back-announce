@@ -1,6 +1,32 @@
 {
  "items": [
   {
+   "d": "2026-10-25T18:00:00Z",
+   "g": "Progressive",
+   "s": "Sultan + Shepard: Dialekt Radio",
+   "sid": "dialekt-radio",
+   "sp": "Sultan + Shepard: Dialekt Radio Dialekt Radio #351",
+   "t": "Dialekt Radio #351",
+   "u": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-351-l7VnBUjY"
+  },
+  {
+   "d": "2026-10-25T18:00:00Z",
+   "g": "Bass",
+   "s": "Plastician",
+   "sid": "rinse-plastician",
+   "t": "Plastician, 25 Oct 2026",
+   "u": "https://www.rinse.fm/episodes/plastician-25-10-2026-1800"
+  },
+  {
+   "d": "2026-10-25T06:00:00Z",
+   "g": "Progressive",
+   "s": "Resident by Hernan Cattaneo",
+   "sid": "resident",
+   "sp": "Resident by Hernan Cattaneo Resident / Episode 807 / October 24 2026",
+   "t": "Resident / Episode 807 / October 24 2026",
+   "u": "https://podcast.hernancattaneo.com/e/resident-episode-807-october-24-2026/"
+  },
+  {
    "d": "2026-10-24T17:44:52Z",
    "g": "Radio",
    "s": "Gilles Peterson (6 Music show)",
@@ -140,35 +166,10 @@
    "sid": "gai-barone-patterns",
    "t": "Patterns 723",
    "u": "https://soundcloud.com/gai-barone/patterns-723"
-  },
-  {
-   "d": "2026-10-23T07:03:09Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Djrum",
-   "u": "https://www.flowstate.fm/p/djrum-579"
-  },
-  {
-   "d": "2026-10-23T07:01:28Z",
-   "g": "Radio",
-   "s": "Soulection Radio",
-   "sid": "soulection",
-   "t": "Show #750 | R&B, Classics, Soul, Blends, & House",
-   "u": "https://soundcloud.com/soulection/show-750-r-b-classics-soul"
-  },
-  {
-   "d": "2026-10-23T05:00:00Z",
-   "g": "Podcasts",
-   "s": "Sound Opinions",
-   "sid": "sound-opinions",
-   "sp": "Sound Opinions A Sound Opinions Halloween!",
-   "t": "A Sound Opinions Halloween!",
-   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/111453b9-b937-4722-b273-368125f97fc0.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 217,
+ "newCount": 221,
  "paused": 18,
  "releases": [
   {
@@ -229,5 +230,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-25T21:30:08Z"
+ "updated": "2026-10-25T21:50:12Z"
 }

@@ -3,6 +3,16 @@
  "id": "resident",
  "items": [
   {
+   "audio": "https://mcdn.podbean.com/mf/web/j9a8wp8f6fgdgthf/807-HernanCattaneo-2026-10-24.mp3",
+   "date": "2026-10-25T06:00:00Z",
+   "desc": "1 - Eelke Kleijn - Ondine (Tato Seco Rework) 2 - EMPHI - Sion 3 - Will DeKeizer - North Pole 4 - Claudio Cornejo (AR) - Overtake 5 - Bereznitsky - Escape (Katrin Souza Remix) 6 - Abity & Luca Abayan - Afterimage (Cortona Remix) 7 - Artic White - The Signal (Nicolas Viana Remix) 8 - Kostya Outta & Frameloue - Altitude 9 - Dosem - Ornamentz 10 - André Moret - Presence Download episode on MP3 (Right click, save link as...) Help me support NGO Alegría Intensiva, Hospital Clown, in Argentina. Donate now by clicking here!!! Donar desde Argentina haciendo click aquí!!!",
+   "duration": "3630",
+   "id": "hernancattaneo.podbean.com-1e7e5c68-8c4e-3551-aec3-d2e96240d453",
+   "image": "https://pbcdn1.podbean.com/imglogo/image-logo/274700/Urbana_Play_RESIDENT_Feed_ok_2024_wasqf8.jpg",
+   "title": "Resident / Episode 807 / October 24 2026",
+   "url": "https://podcast.hernancattaneo.com/e/resident-episode-807-october-24-2026/"
+  },
+  {
    "audio": "https://mcdn.podbean.com/mf/web/vpw978hswgb8txui/806-HernanCattaneo-2026-10-17.mp3",
    "date": "2026-10-18T06:00:00Z",
    "desc": "1 - Dreamteller - Guardian of Music 2 - Dreamteller - Always By Your Side 3 - Uccelli - Undertone 4 - Sentre - Bosh 5 - Agustin Pietrocola - Profound Concept (Iovino Remix) 6 - Around Us & Gai Barone - Digital Dream 7 - Gowzer - Deception 8 - Gorkiz & Tavaresgui - Solar Wind 9 - Agoostina - ID 10 - André Moret - Now Is Just A Dream Download episode on MP3 (Right click, save link as...) Help me support NGO Alegría Intensiva, Hospital Clown, in Argentina. Donate now by clicking here!!! Donar desde Argentina haciendo click aquí!!!",
@@ -241,19 +251,9 @@
    "image": "https://pbcdn1.podbean.com/imglogo/image-logo/274700/Urbana_Play_RESIDENT_Feed_ok_2024_wasqf8.jpg",
    "title": "Resident / Episode 783 / May 09 2026",
    "url": "https://podcast.hernancattaneo.com/e/783-hernan-cattaneo-podcast-2026-05-09/"
-  },
-  {
-   "audio": "https://mcdn.podbean.com/mf/web/9i8ihffuvx6vy8gb/782-HernanCattaneo-2026-05-02.mp3",
-   "date": "2026-05-03T06:00:00Z",
-   "desc": "1 - Kyotto - Home In The Sky 2 - Paul Deep - Go On 3 - ZAC - April 4 - Brann - Morning After (Gowzer Remix) 5 - Wood Drift - Decanter (Lloyd Barwood Remix) 6 - Gai Barone & Tiefstone - Suddenly (Abity & Luca Abayan Remix) 7 - Paolo Polis - No face, No name 8 - Jakatta - American Dream (Claudio Cornejo (AR) Remix) 9 - Paul James Nolan - Interlinked 10 - Greta Meier & Rolasoul - Reflections Download episode on MP3 (Right click, save link as...) Help me support NGO Alegría Intensiva, Hospital Clown, in Argentina. Donate now by clicking here!!! Donar desde Argentina haciendo click aquí!!!",
-   "duration": "3680",
-   "id": "hernancattaneo.podbean.com-039c5d92-59d1-3e94-9c3a-2548da04cfce",
-   "image": "https://pbcdn1.podbean.com/imglogo/image-logo/274700/Urbana_Play_RESIDENT_Feed_ok_2024_wasqf8.jpg",
-   "title": "Resident / Episode 782 / May 02 2026",
-   "url": "https://podcast.hernancattaneo.com/e/resident-episode-782-may-02-2026/"
   }
  ],
  "kind": "rss",
  "name": "Resident by Hernan Cattaneo",
- "updatedAt": "2026-10-18T23:18:59Z"
+ "updatedAt": "2026-10-25T21:50:12Z"
 }

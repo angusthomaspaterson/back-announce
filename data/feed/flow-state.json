@@ -5,7 +5,7 @@
   {
    "audio": null,
    "date": "2026-10-23T07:03:09Z",
-   "desc": "It’s Friday so we’re listening to something more upbeat.",
+   "desc": "Today we’re listening to Djrum, an English electronic musician and DJ.",
    "duration": null,
    "id": "https:--www.flowstate.fm-p-djrum-579",
    "image": "https://substackcdn.com/image/fetch/$s_!G_y_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888fffa8-3442-4780-b9e8-3bd9b563fda3_1200x1200.jpeg",
@@ -205,5 +205,5 @@
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-25T21:50:12Z"
 }

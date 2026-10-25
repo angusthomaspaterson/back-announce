@@ -3,6 +3,16 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-10-23T00:00:00Z",
+   "desc": "EP on Anjunadeep, out 23 Oct 2026.",
+   "id": "622528-sparklestar",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/622528.jpg",
+   "out": "2026-10-23T00:00:00Z",
+   "tags": "EP · Anjunadeep",
+   "title": "Nicky Elisabeth – Sparklestar",
+   "url": "https://anjunadeep.com/products/622528-sparklestar"
+  },
+  {
    "date": "2026-10-22T00:00:00Z",
    "desc": "Single on Anjunachill, out 22 Oct 2026.",
    "id": "622527-atlantic-ambient-revisit",
@@ -241,19 +251,9 @@
    "tags": "Single · Anjunachill",
    "title": "Mark Barrott – Variation (vi) [Chihei Hatakeyama Remix]",
    "url": "https://anjunadeep.com/products/614590-variation-vi-chihei-hatakeyama-remix"
-  },
-  {
-   "date": "2026-09-18T00:00:00Z",
-   "desc": "EP on Anjunadeep, out 18 Sep 2026.",
-   "id": "613892-dreamer-ep",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613892.jpg",
-   "out": "2026-09-18T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "Maty Owl – Dreamer EP",
-   "url": "https://anjunadeep.com/products/613892-dreamer-ep"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-24T21:38:39Z"
+ "updatedAt": "2026-10-25T21:50:12Z"
 }

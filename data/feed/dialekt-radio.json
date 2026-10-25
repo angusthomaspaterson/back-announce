@@ -3,6 +3,16 @@
  "id": "dialekt-radio",
  "items": [
   {
+   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/3dd0fb46-694e-4df3-a65f-7f72109b1d28/group-item/57e26367-3b53-41ce-9534-d619b22ebcec/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
+   "date": "2026-10-25T18:00:00Z",
+   "desc": "1. Paul Ross & Lost Desert - Shooting Stars 00:00:40 2. AFFKT - Tarabi 00:09:11 3. Mercurio & Sasha - Songstar 00:12:32 4. Chris Luno - Take Ur Time 00:20:59 5. Bicep ft. SOARR - Air 00:25:05 6. Arlo Parks - 2SIDED (Oscar Farrell Remix) 00:28:37- DIALEKT TRACK OF THE WEEK 7. OLING - Ashram 00:31:53 8. Orsay - Day After Day 00:37:49 9. Estiva - Dsir (Estiva Club Mix) 00:42:21 10. ANUQRAM & Julian Nates - Driftline 00:46:51 11. AFFKT - Round & Round 00:51:23 12. Adriatique - Disappear 00:55:55 13. Basement Jaxx - Never Say Never 00:58:30- CLASSIC OF THE WEEK",
+   "duration": "01:02:21",
+   "id": "3560fb6c-4fbe-49dd-84f6-23489b336449",
+   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
+   "title": "Dialekt Radio #351",
+   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-351-l7VnBUjY"
+  },
+  {
    "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/54727805-c96c-499a-ae37-7147fdb6d307/group-item/f884943f-ffac-4c5b-a52c-356d84a2fa9b/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
    "date": "2026-10-18T19:00:00Z",
    "desc": "1. ID-ID 00:00:40 2. Jon Gurd & Reset Robot - Waiting For The Love 00:06:30 3. ID-ID 00:09:02 4. Sultan + Shepard - Pikachew 00:14:38 5. Kostya Outta & Liam Garcia - Deja Vu 00:20:59 6. Yotto - Aero 00:27:04 7. Guy J - Worlds Apart 00:32:24 8. ID-ID 00:39:31 9. Township Rebellion - Birds Fly First Class 00:43:42 10. Demon - You Are My High (Sultan + Shepard Remix) 00:49:25 11. George FitzGerald - Burns (Lane 8 Club Mix) 00:53:37 12. CamelPhat & Kölsch - Waste My Time 00:57:40 13. Abstract Vision & Hydro Poison - Floating 01:02:45 14. Le Youth x Kosheen - Hiding From U Cause I'm Broken (Sultan…",
@@ -241,19 +251,9 @@
    "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
    "title": "Dialekt Radio #327",
    "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-327-8a1DkyQ8"
-  },
-  {
-   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/53c990d3-0420-47a0-85ef-f65db9abf804/group-item/122318ae-f5d1-4a7b-8bdb-b336941a18ea/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
-   "date": "2026-05-10T19:00:00Z",
-   "desc": "1. YOTTO - Stratus 00:00:40 2. Mike Griego ft. David A Diaz - Clarity 00:06:08 3. Ashibah - Golden 00:13:33 4. Louis Vi & Blank Page - You & Me 00:18:27 5. Sultan + Shepard & Shallou - Twilight 00:22:39- DIALEKT TRACK OF THE WEEK 6. Jon Towell & Chris Hover - Orbit (Simos Tagias Remix) 00:29:14 7. Mees Salomé & Thysma - Nova 00:35:06 8. Kostya Outta - Voices 00:40:45 9. Because of Art - Thinkin' Bout You 00:45:30 10. David Di Sabato - Mythos 00:51:07 11. Rinzen & MYRNE - Attacker 00:56:15 12. Dark Globe ft. Amanda Ghost - Break My World 01:01:06 - CLASSIC OF THE WEEK",
-   "duration": "01:06:05",
-   "id": "c674ea3d-53e8-4f7f-88d7-1fe973d1a398",
-   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
-   "title": "Dialekt Radio #326",
-   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-326-hG_nDkFL"
   }
  ],
  "kind": "rss",
  "name": "Sultan + Shepard: Dialekt Radio",
- "updatedAt": "2026-10-18T23:18:59Z"
+ "updatedAt": "2026-10-25T21:50:12Z"
 }
