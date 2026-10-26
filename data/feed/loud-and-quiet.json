@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-26T17:01:03Z",
+   "desc": "A guide to making sure your opinion in 100% correct",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-how-to-make-an-end-of-year-list",
+   "image": "https://images.unsplash.com/photo-1631556759511-6ce895fbf0ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw4fHxzY2llbnRpc3R8ZW58MHx8fHwxNzkzMDE0MjA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "title": "How to make an end of year list",
+   "url": "https://loudandquiet.substack.com/p/how-to-make-an-end-of-year-list"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T07:00:53Z",
    "desc": "Balladry from Threshold, Smerz live in London, First & Best with Sylvan Esso, Jay-Z’s quarterback sneak, will KOL do the right thing on AI?",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!lGPC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F006246b5-302c-4a93-915a-cb763e25aeba_900x600.gif",
    "title": "Critical retention: Electricity In Our Homes",
    "url": "https://loudandquiet.substack.com/p/critical-retention-electricity-in"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-14T11:10:26Z",
-   "desc": "J Mascis, Snail Mail, Charlotte Cornfield and others on what turns browsing into buying and not more streaming",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-what-makes-people-actually-buy-physical-music",
-   "image": "https://substackcdn.com/image/fetch/$s_!yBBx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ca28a2b-3a7b-4b1a-8afe-6cfe398f75d7_1080x720.gif",
-   "title": "What makes people actually buy physical music?",
-   "url": "https://loudandquiet.substack.com/p/what-makes-people-actually-buy-physical-music"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-10-23T21:30:08Z"
+ "updatedAt": "2026-10-26T21:30:07Z"
 }

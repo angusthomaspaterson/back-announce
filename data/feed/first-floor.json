@@ -3,6 +3,20 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-10-26T06:17:23Z",
+   "desc": "Civilistjävel! – Älvgång (Six of Swords)",
+   "id": "rollup-2026-10-26",
+   "image": "https://substackcdn.com/image/fetch/$s_!6Z3T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04bf2d89-c81c-45f3-88e7-74024ac85825_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "Civilistjävel! – Älvgång",
+     "u": "https://firstfloor.substack.com/p/civilistjavel-alvgang"
+    }
+   ],
+   "title": "First Floor recommendations, 26 Oct: 1 record",
+   "url": "https://firstfloor.substack.com/p/civilistjavel-alvgang"
+  },
+  {
    "date": "2026-10-22T10:31:06Z",
    "desc": "Sunju Hargun – The Golden Triangle (Chapter Two) (Siamese Twins) First Floor #333 – Slop Fatigue Is Already Happening",
    "id": "rollup-2026-10-22",
@@ -161,23 +175,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!VkG8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc214251-5498-4d88-8455-d6a035ee7cb6_5184x3456.jpeg",
    "title": "Vladislav Delay Is in His Bandcamp Loosies Era",
    "url": "https://firstfloor.substack.com/p/vladislav-delay-is-in-his-bandcamp"
-  },
-  {
-   "date": "2026-10-12T17:59:00Z",
-   "desc": "Steffi – Half an Owl and a Full Moon Rising (Dekmantel)",
-   "id": "rollup-2026-10-12",
-   "image": "https://substackcdn.com/image/fetch/$s_!1XXN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0425af60-6aba-4025-8807-8a371d960b7c_1456x1048.jpeg",
-   "links": [
-    {
-     "t": "Steffi – Half an Owl and a Full Moon Rising",
-     "u": "https://firstfloor.substack.com/p/steffi-half-an-owl-and-a-full-moon"
-    }
-   ],
-   "title": "First Floor recommendations, 12 Oct: 1 record",
-   "url": "https://firstfloor.substack.com/p/steffi-half-an-owl-and-a-full-moon"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-22T21:30:08Z"
+ "updatedAt": "2026-10-26T21:30:07Z"
 }

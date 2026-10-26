@@ -1,13 +1,12 @@
 {
  "items": [
   {
-   "d": "2026-10-25T18:00:00Z",
-   "g": "Progressive",
-   "s": "Sultan + Shepard: Dialekt Radio",
-   "sid": "dialekt-radio",
-   "sp": "Sultan + Shepard: Dialekt Radio Dialekt Radio #351",
-   "t": "Dialekt Radio #351",
-   "u": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-351-l7VnBUjY"
+   "d": "2026-10-26T06:17:23Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 26 Oct: 1 record",
+   "u": "https://firstfloor.substack.com/p/civilistjavel-alvgang"
   },
   {
    "d": "2026-10-25T18:00:00Z",
@@ -169,8 +168,8 @@
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 221,
- "paused": 18,
+ "newCount": 217,
+ "paused": 19,
  "releases": [
   {
    "k": "Album · Anjunadeep",
@@ -230,5 +229,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-25T21:50:12Z"
+ "updated": "2026-10-26T21:30:07Z"
 }

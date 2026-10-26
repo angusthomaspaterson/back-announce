@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-26T10:07:08Z",
+   "desc": "“I go through a pack of cigarettes a day...”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-637-october-26-rick-witter",
+   "image": "https://substackcdn.com/image/fetch/$s_!vhBJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F877e76d4-ba27-40a9-abe5-e382a1a8465d_1512x2016.heic",
+   "title": "The New Cue #637 October 26: Rick Witter of Shed Seven",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-637-october-26-rick-witter"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T09:02:15Z",
    "desc": "“It’s coming Willie, it’s coming...”",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!uLfe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F943b1565-2b02-435f-a017-e37c644efc9e_1448x1086.jpeg",
    "title": "The New Cue #618 August 17: Greg Dulli",
    "url": "https://thenewcue.substack.com/p/the-new-cue-618-august-17-greg-dulli"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-14T09:01:28Z",
-   "desc": "\"We’ve lost our way as a society.\"",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-617-august-14-rowena",
-   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
-   "title": "The New Cue #617 August 14: Rowena Wise, James Ellis Ford, 7ebra, Django Django, Everything Is Recorded, Gurriers, Sadurn, Garefowl",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-617-august-14-rowena"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-10-23T21:30:08Z"
+ "updatedAt": "2026-10-26T21:30:07Z"
 }
