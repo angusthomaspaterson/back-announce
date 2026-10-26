@@ -3,6 +3,16 @@
  "id": "radio-cazimi",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2425930683-radio-cazimi-sounds-for-big-hearts-w-c-3.mp3",
+   "date": "2026-10-26T05:08:42Z",
+   "desc": "SOUNDS FOR BIG HEARTS w/ c.brom - EP3 by Radio Cazimi",
+   "duration": "02:06:41",
+   "id": "tag:soundcloud-2010:tracks-2425930683",
+   "image": "https://i1.sndcdn.com/artworks-VVMFiMYCHebSWp4N-tte7eA-t3000x3000.jpg",
+   "title": "SOUNDS FOR BIG HEARTS w/ c.brom - EP3",
+   "url": "https://soundcloud.com/radio-cazimi/sounds-for-big-hearts-w-c-3"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2423036022-radio-cazimi-driving-blind-w-lidl-3.mp3",
    "date": "2026-10-21T02:54:27Z",
    "desc": "DRIVING BLIND w/ Lidl & Wetpuddlss - EP 4 by Radio Cazimi",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-qaQm1MAPIEY47rzy-e9naog-t3000x3000.jpg",
    "title": "CONFLICTS OF INTEREST w/ Sacha Alexiou & Algorithim Meat - EP 4",
    "url": "https://soundcloud.com/radio-cazimi/conflicts-of-interest-w-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2415102858-radio-cazimi-guest-mix-w-elsie.mp3",
-   "date": "2026-10-08T04:42:19Z",
-   "desc": "GUEST MIX w/ Elsie by Radio Cazimi",
-   "duration": "00:59:54",
-   "id": "tag:soundcloud-2010:tracks-2415102858",
-   "image": "https://i1.sndcdn.com/artworks-foLo1ZDNKq4q5zRv-1KOSmw-t3000x3000.jpg",
-   "title": "GUEST MIX w/ Elsie",
-   "url": "https://soundcloud.com/radio-cazimi/guest-mix-w-elsie"
   }
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-10-22T00:01:40Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

@@ -54,16 +54,6 @@
   },
   {
    "date": "2026-10-14T03:26:15Z",
-   "desc": "EP on Anjunadeep, out 10 Dec 2026.",
-   "id": "630928-anjunadeep-essentials-04",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/f555b671-6cb8-4d3f-a1b9-62be277ee8f7.jpg",
-   "out": "2026-12-10T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "Anjunadeep Essentials 04",
-   "url": "https://anjunadeep.com/products/630928-anjunadeep-essentials-04"
-  },
-  {
-   "date": "2026-10-14T03:26:15Z",
    "desc": "Album on Anjunachill, out 3 Dec 2026.",
    "id": "617925-above-beyond-pres-anjunachilled-01",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/617925.jpg",
@@ -94,16 +84,6 @@
   },
   {
    "date": "2026-10-14T00:00:00Z",
-   "desc": "EP on Anjunadeep, out 14 Oct 2026.",
-   "id": "605957-anjunadeep-archive-02",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605957.jpg",
-   "out": "2026-10-14T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "Anjunadeep Archive 02",
-   "url": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
-  },
-  {
-   "date": "2026-10-14T00:00:00Z",
    "desc": "Single on Anjunadeep Explorations, out 14 Oct 2026.",
    "id": "621098-coda-golden-hour",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621098.jpg",
@@ -111,6 +91,16 @@
    "tags": "Single · Anjunadeep Explorations",
    "title": "foglight – Coda / Golden Hour",
    "url": "https://anjunadeep.com/products/621098-coda-golden-hour"
+  },
+  {
+   "date": "2026-10-14T00:00:00Z",
+   "desc": "EP on Anjunadeep, out 14 Oct 2026.",
+   "id": "605957-anjunadeep-archive-02",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605957.jpg",
+   "out": "2026-10-14T00:00:00Z",
+   "tags": "EP · Anjunadeep",
+   "title": "Anjunadeep Archive 02",
+   "url": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
   },
   {
    "date": "2026-10-13T00:00:00Z",
@@ -175,22 +165,22 @@
   {
    "date": "2026-10-01T00:00:00Z",
    "desc": "Single on Anjunachill, out 1 Oct 2026.",
-   "id": "616517-sky-falls-down-downtempo-version",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
-   "out": "2026-10-01T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
-   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
-  },
-  {
-   "date": "2026-10-01T00:00:00Z",
-   "desc": "Single on Anjunachill, out 1 Oct 2026.",
    "id": "616515-solitude-vr-sofandi-rework",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616515.jpg",
    "out": "2026-10-01T00:00:00Z",
    "tags": "Single · Anjunachill",
    "title": "Tontario feat. Lake Jons – Solitude (Vár Sofandi Rework)",
    "url": "https://anjunadeep.com/products/616515-solitude-vr-sofandi-rework"
+  },
+  {
+   "date": "2026-10-01T00:00:00Z",
+   "desc": "Single on Anjunachill, out 1 Oct 2026.",
+   "id": "616517-sky-falls-down-downtempo-version",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
+   "out": "2026-10-01T00:00:00Z",
+   "tags": "Single · Anjunachill",
+   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
+   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
   },
   {
    "date": "2026-09-30T00:00:00Z",
@@ -251,9 +241,19 @@
    "tags": "Single · Anjunachill",
    "title": "Mark Barrott – Variation (vi) [Chihei Hatakeyama Remix]",
    "url": "https://anjunadeep.com/products/614590-variation-vi-chihei-hatakeyama-remix"
+  },
+  {
+   "date": "2026-09-18T00:00:00Z",
+   "desc": "EP on Anjunadeep, out 18 Sep 2026.",
+   "id": "613892-dreamer-ep",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613892.jpg",
+   "out": "2026-09-18T00:00:00Z",
+   "tags": "EP · Anjunadeep",
+   "title": "Maty Owl – Dreamer EP",
+   "url": "https://anjunadeep.com/products/613892-dreamer-ep"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-25T21:50:12Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

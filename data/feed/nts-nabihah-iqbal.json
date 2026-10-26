@@ -3,6 +3,16 @@
  "id": "nts-nabihah-iqbal",
  "items": [
   {
+   "date": "2026-10-24T13:00:00Z",
+   "desc": "Nabihah Iqbal talks to friend and neighbour Paul Simonon. The Clash bassist picks out some of his favourite music and talks us through it, with selections from France to Pakistan.",
+   "id": "nabihah-iqbal-24th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/e41886e9-2b07-42d9-b122-47a8ff1427e6_1792540800.jpeg",
+   "location": "London",
+   "tags": "Punk, Interview",
+   "title": "Nabihah Iqbal w/ Paul Simonon",
+   "url": "https://www.nts.live/shows/nabihah-iqbal/episodes/nabihah-iqbal-24th-october-2026"
+  },
+  {
    "date": "2026-09-26T13:00:00Z",
    "desc": "London-based DJ and producer Nabihah Iqbal (formerly known as Throwing Shade) brings you an ethnomusicological perspective on weird and wonderful music from around the world. Expect regular themed special episode; a good dose of history, and above all, good music to broaden your horizons. Monthly, 2-4pm. You can listen back to previous Throwing Shade episodes here From the host: Two hours of John Coltrane, in celebration of his 100th birthday this week. Totally unabridged, cosmic music to satisfy your soul. RIP.",
    "id": "nabihah-iqbal-26th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "House, Classic Disco",
    "title": "NABIHAH IQBAL w/ Shoko Yoshida",
    "url": "https://www.nts.live/shows/nabihah-iqbal/episodes/nabihah-iqbal-9th-september-2025"
-  },
-  {
-   "date": "2025-08-12T12:00:00Z",
-   "desc": "London-based DJ and producer Nabihah Iqbal (formerly known as Throwing Shade) brings you an ethnomusicological perspective on weird and wonderful music from around the world. Expect regular themed special episode; a good dose of history, and above all, good music to broaden your horizons. Monthly, 2-4pm. You can listen back to previous Throwing Shade episodes here",
-   "id": "nabihah-iqbal-12th-august-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/a969ace0-5029-4b83-b565-3439c1b8f699_1778284800.jpeg",
-   "location": "London",
-   "tags": "Funk, Reggae, Classic Disco, Jazz Fusion",
-   "title": "Nabihah Iqbal",
-   "url": "https://www.nts.live/shows/nabihah-iqbal/episodes/nabihah-iqbal-12th-august-2025"
   }
  ],
  "kind": "nts",
  "name": "Nabihah Iqbal",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

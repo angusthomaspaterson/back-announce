@@ -3,6 +3,16 @@
  "id": "nora-en-pure",
  "items": [
   {
+   "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_531_Podcast-1792226681450372011-NDMyNTAtODUwNjc0NDA=.mp3",
+   "date": "2026-10-26T09:00:00Z",
+   "desc": "Tracklisting: 01. Nora En Pure - Space (Paradoks Remix) 02. Path Of Youth - Hypnotic (Original Mix) 03. HAYLA ft. Nelly Furtado - Faded (Nora En Pure Remix) 04. Sonickraft - Vice (Extended Mix) 05. John Lynx & SAFARIS feat. Coulson - Dreaming (Extended Mix) 06. Estiva - Chemicals (Extended Mix) 07. Tomy Wahl, Transformation - Away From You (Extended Mix) 08. Milan Steenwinkel, Deviu - Delusion (Extended Mix) 09. Aplexo - Burn It Down (Original Mix) 10. Einmusik, Estiva - Repeater (Einmusik Extended Remix) 11. Alande - Shades (Extended Midnight Mix) 12. Massane, sadHAPPY - Another Life (Extend…",
+   "duration": "00:59:05",
+   "id": "http:--audio.thisisdistorted.com-repository-audio-episodes-NORA_531_Podcast-1792226681450372011-NDMyNTAtODUwNjc0NDA-.mp3",
+   "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
+   "title": "Purified Radio 531",
+   "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_531_Podcast-1792226681450372011-NDMyNTAtODUwNjc0NDA=.mp3"
+  },
+  {
    "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_530_Podcast-1792055386495926571-NDMyMjctODUxOTIyMDE=.mp3",
    "date": "2026-10-19T08:00:00Z",
    "desc": "Tracklisting: 01. Adam Marcos, Chris Howard - All We’ve Got (Original Mix) ** 02. Fahlberg - My Mind (Original Mix) 03. SAFARIS - Past Midnight (Extended Mix) 04. Estiva - The Wave (Extended Mix) 05. Michael Cassette - United (Extended Club Mix) * 06. Adriatique - Palm Of Your Hands (Extended Mix) 07. Huminal - On and On (Extended Mix) 08. Glusko - I Can’t Leave You (Extended Mix) 09. foglight - Golden Hour (Extended Mix) 10. Natascha Polké & PÆDE - Fever (Extended Mix) 11. dorothy - Untersee (Extended Mix) 12. Rafa'EL x Matt Leger - When The Storm (Extended Mix) 13. Blended x Oxbin - Let You…",
@@ -241,19 +251,9 @@
    "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
    "title": "Purified Radio 507",
    "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_507_Podcast-1778168301417809718-NDI1ODEtODYzMjMxOTk=.mp3"
-  },
-  {
-   "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_506_Podcast-1777463355095963716-NDI1NDYtODY5NTcwMzQ=.mp3",
-   "date": "2026-05-04T08:00:00Z",
-   "desc": "Tracklisting: 01. Nora En Pure - Tibet (Extended Mix) 02. VisionV, Fylo, Nathan Nicholson - Sign Of The Times (Extended Mix) 03. TIAEM & Nothbound - Astral Projection (Extended Mix) 04. By The Light & Alta+mira - Under the Influence (Extended Mix) 05. Adam Marcos, Sky Garden - If We Could Stay (Extended Mix) 06. Slow Ted - Loud Noises (Extended Mix) 07. Jonas Saalbach - Data Romance (Extended Mix) 08. Guy Didden - Only You (Extended Mix) 09. Somyu & Ashryn7 - Glacier (Extended Mix) ** 10. Deltium - Echoes After The Storm (Extended Mix) 11. Joris Voorn, Nathan Nicholson - Moon (Extended Mix) 1…",
-   "duration": "01:00:24",
-   "id": "http:--audio.thisisdistorted.com-repository-audio-episodes-NORA_506_Podcast-1777463355095963716-NDI1NDYtODY5NTcwMzQ-.mp3",
-   "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
-   "title": "Purified Radio 506",
-   "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_506_Podcast-1777463355095963716-NDI1NDYtODY5NTcwMzQ=.mp3"
   }
  ],
  "kind": "rss",
  "name": "Nora En Pure: Purified Radio",
- "updatedAt": "2026-10-20T00:24:49Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

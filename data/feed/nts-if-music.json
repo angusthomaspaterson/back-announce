@@ -3,6 +3,16 @@
  "id": "nts-if-music",
  "items": [
   {
+   "date": "2026-10-25T13:00:00Z",
+   "desc": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs. From the host: \"Our usual mix of all things eclectic, new and old….\"",
+   "id": "ifmusic-25th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/6ef3c894-71e6-4a2d-8cff-7b7daeaa0ad3_1792713600.png",
+   "location": "London",
+   "tags": "Deep House, Soul, Hard Bop, Jazz Fusion",
+   "title": "If Music Presents You Need This w/ Jean-Claude",
+   "url": "https://www.nts.live/shows/ifmusic/episodes/ifmusic-25th-october-2026"
+  },
+  {
    "date": "2026-09-27T12:00:00Z",
    "desc": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs. From the host: \"The usual cornucopia of all things eclectic.\"",
    "id": "ifmusic-27th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Deep House, Soul, Soul Jazz",
    "title": "If Music Presents You Need This w/ Jean-Claude",
    "url": "https://www.nts.live/shows/ifmusic/episodes/ifmusic-21st-december-2025"
-  },
-  {
-   "date": "2025-11-23T13:00:00Z",
-   "desc": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.",
-   "id": "ifmusic-23rd-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/534dec37-6087-4fed-9654-1626370218cd_1763683200.jpeg",
-   "location": "London",
-   "tags": "Funk, Dub, Classic Disco, Jazz Fusion",
-   "title": "If Music Presents You Need This w/ Jean-Claude",
-   "url": "https://www.nts.live/shows/ifmusic/episodes/ifmusic-23rd-november-2025"
   }
  ],
  "kind": "nts",
  "name": "If Music Presents You Need This",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

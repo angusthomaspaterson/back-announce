@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-26T04:03:00Z",
+   "desc": "An album-length EP by the 20-year-old producer is a dizzying and boundless collage of collages, using free-jazz logic and digital overload to chart new emotional terrain.",
+   "duration": null,
+   "id": "6adb862eeb79c260502e9103",
+   "image": null,
+   "title": "cantu of the sower EP",
+   "url": "https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T04:03:00Z",
    "desc": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "Train on the Island",
    "url": "https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-05T04:03:00Z",
-   "desc": "The ambient musician’s new album is a tremendous leap in scale, a quiet conjuring of vast, prayerlike yearning.",
-   "duration": null,
-   "id": "69f8abed85aca10764377bb4",
-   "image": null,
-   "title": "Poem 1",
-   "url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

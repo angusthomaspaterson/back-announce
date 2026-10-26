@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-26T17:41:18Z",
+   "desc": "Thirty years after the landmark album, the producer reflects on the ghosts in old drum machines and the samples that remain uncleared.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-dj-shadow-endtroducing-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!DhI1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F405ca810-3b9e-4ccc-afa4-ec76edb61695_1200x1200.png",
+   "title": "DJ Shadow Tells Us Everything We’ve Ever Wanted To Know About Endtroducing…..",
+   "url": "https://www.powmag.net/p/dj-shadow-endtroducing-interview"
+  },
+  {
+   "audio": null,
    "date": "2026-10-24T14:30:48Z",
    "desc": "The Rap-Up considers the most notable singles of the past week. Today, Harley Geffner reviews new work from Lucki, Jackboy, and more.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Lca7VGqAHaY",
    "title": "Everyday Betrayals",
    "url": "https://www.powmag.net/p/everyday-betrayals-the-rap-up"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-02T17:39:42Z",
-   "desc": "Paul Thompson considers the new short film starring the Outkast legend—and announces an exclusive POW giveaway.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-andre-3000-7-piano-sketches-short-film",
-   "image": "https://substackcdn.com/image/fetch/$s_!SjkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28b50e45-396f-4628-9262-cb7cfb109815_960x1425.jpeg",
-   "title": "Andre 3000 and the Myth of Permanence",
-   "url": "https://www.powmag.net/p/andre-3000-7-piano-sketches-short-film"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-24T21:38:39Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

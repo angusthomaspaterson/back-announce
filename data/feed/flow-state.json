@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-26T07:03:37Z",
+   "desc": "Today we’re listening to Adam Wiltzie, an American ambient musician from New York City.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-adam-wiltzie-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!le2H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5198951b-4641-4898-9b2b-1579b71a8598_800x533.jpeg",
+   "title": "Adam Wiltzie (Interview)",
+   "url": "https://www.flowstate.fm/p/adam-wiltzie-interview"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T07:03:09Z",
    "desc": "Today we’re listening to Djrum, an English electronic musician and DJ.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
    "title": "Flow State Episode 345",
    "url": "https://www.flowstate.fm/p/flow-state-episode-345"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-28T07:03:05Z",
-   "desc": "Today we’re listening to Ryuichi Sakamoto, a Japanese composer and pianist from Tokyo.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-ryuichi-sakamoto-a1b",
-   "image": "https://substackcdn.com/image/fetch/$s_!S_pg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2337f113-91a0-46ba-a179-417b7b5536c4_1396x1406.png",
-   "title": "Ryuichi Sakamoto",
-   "url": "https://www.flowstate.fm/p/ryuichi-sakamoto-a1b"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-25T21:50:12Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

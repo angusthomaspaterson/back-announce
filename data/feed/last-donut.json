@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-26T14:42:55Z",
+   "desc": "",
+   "duration": null,
+   "id": "6adf5b2883ab65000185d415",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/kosoya.jpg",
+   "title": "Baker's Dozen: Polo G, Thundercat, Lorenzo Senni",
+   "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-polo-g-thundercat-lorenzo-senni/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T08:00:00Z",
    "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/prettygirl.jpg",
    "title": "Baker's Dozen: G Perico, Barry Can't Swim, RAYE",
    "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-g-perico-barry-cant-swim-raye/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-05T08:00:51Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6abfb4fe8650350001feeedf",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/Wishy-by-Rian-Archer--62.jpg",
-   "title": "Wishy on Saint Etienne, Hacky Sacking, and Keeping the Beat Alive",
-   "url": "https://last-donut-of-the-night.ghost.io/wishy-on-saint-etienne-hacky-sacking-and-keeping-the-beat-alive/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

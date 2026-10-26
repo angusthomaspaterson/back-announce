@@ -3,13 +3,22 @@
  "id": "bandcamp-daily",
  "items": [
   {
-   "date": "2026-10-23T00:00:00Z",
-   "desc": "Experimental hip-hop, synth punk, jazz, and more.",
-   "id": "essential-releases-essential-releases-october-23-2026",
-   "image": "https://f4.bcbits.com/img/0048115318_180",
-   "tags": "Essential Releases",
-   "title": "Essential Releases, October 23, 2026",
-   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-23-2026"
+   "date": "2026-10-26T00:00:00Z",
+   "desc": "“The Buddha Machine is purposely dumb, but not dumb in a pejorative way. It's dumb in a joyful way.\"",
+   "id": "features-the-buddha-machine-feature",
+   "image": "https://f4.bcbits.com/img/0048138694_180",
+   "tags": "Features",
+   "title": "How the Buddha Machine Built Modern Ambient",
+   "url": "https://daily.bandcamp.com/features/the-buddha-machine-feature"
+  },
+  {
+   "date": "2026-10-26T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-sun-araw-rapid-response-review",
+   "image": "https://f4.bcbits.com/img/0048116694_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "SUN ARAW, “Rapid Response”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
   },
   {
    "date": "2026-10-23T00:00:00Z",
@@ -19,6 +28,15 @@
    "tags": "Scene Report",
    "title": "The Contemporary Scandinavian Jazz Scene Through the Years",
    "url": "https://daily.bandcamp.com/scene-report/contemporary-scandinavian-jazz-scene-report"
+  },
+  {
+   "date": "2026-10-23T00:00:00Z",
+   "desc": "",
+   "id": "essential-releases-essential-releases-october-23-2026",
+   "image": "https://f4.bcbits.com/img/0048115318_150.jpg",
+   "tags": "Essential Releases",
+   "title": "Essential Releases, October 23, 2026",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-23-2026"
   },
   {
    "date": "2026-10-23T00:00:00Z",
@@ -208,27 +226,9 @@
    "tags": "Features",
    "title": "The French Prog Classic That Barely Escaped Oblivion",
    "url": "https://daily.bandcamp.com/features/instant-self-titled-feature"
-  },
-  {
-   "date": "2026-10-12T00:00:00Z",
-   "desc": "",
-   "id": "features-marc-ribots-book-of-guitar",
-   "image": "https://f4.bcbits.com/img/0047856897_150.jpg",
-   "tags": "Features",
-   "title": "Marc Ribot’s Book of Guitar",
-   "url": "https://daily.bandcamp.com/features/marc-ribots-book-of-guitar"
-  },
-  {
-   "date": "2026-10-12T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-karen-y-los-remedios-bestiaria-review",
-   "image": "https://f4.bcbits.com/img/0047829518_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Karen y los Remedios, “Bestiaria”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/karen-y-los-remedios-bestiaria-review"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-24T21:38:39Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }

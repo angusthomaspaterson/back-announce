@@ -3,6 +3,16 @@
  "id": "nts-alexander-nut",
  "items": [
   {
+   "date": "2026-10-24T11:00:00Z",
+   "desc": "Eglo Records' main man Alexander Nut joins us for some slick late night futurism. Broken beat, soul, and whatever else happens to take his fancy.",
+   "id": "alexander-nut-24th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/a257f9a6-d8e9-48c1-b3d1-1b26e0731f54_1572912000.jpeg",
+   "location": "London",
+   "tags": "Hip Hop , Classic Hip Hop",
+   "title": "Alexander Nut",
+   "url": "https://www.nts.live/shows/alexander-nut/episodes/alexander-nut-24th-october-2026"
+  },
+  {
    "date": "2026-10-03T17:00:00Z",
    "desc": "Eglo Records' main man Alexander Nut joins us for some slick late night futurism. Broken beat, soul, and whatever else happens to take his fancy.",
    "id": "alexander-nut-26th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Detroit House, Broken Beat, House, Soul",
    "title": "Alexander Nut",
    "url": "https://www.nts.live/shows/alexander-nut/episodes/alexander-nut-20th-december-2025"
-  },
-  {
-   "date": "2025-11-22T12:00:00Z",
-   "desc": "Eglo Records' main man Alexander Nut joins us for some slick late night futurism. Broken beat, soul, and whatever else happens to take his fancy.",
-   "id": "alexander-nut-22nd-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/2b899ab7-6720-4d22-8400-133dbfdfe597_1763769600.jpeg",
-   "location": "London",
-   "tags": "Deep House, Contemporary Jazz, Hip Hop , Broken Beat",
-   "title": "Alexander Nut",
-   "url": "https://www.nts.live/shows/alexander-nut/episodes/alexander-nut-22nd-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Alexander Nut",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-10-26T23:09:50Z"
 }
