@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-27T20:25:11Z",
+   "desc": "The post Album Of The Week: DIIV <em>ZIRP!</em> appeared first on Stereogum .",
+   "duration": null,
+   "id": "https:--stereogum.com--p-2515261",
+   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/a3856471150_10_047c1d.jpg?w=564",
+   "title": "Album Of The Week: DIIV ZIRP!",
+   "url": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-20T17:51:53Z",
    "desc": "The post Album Of The Week: Josh Johnson <em>Animative</em> appeared first on Stereogum .",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/tgab.jpg?w=564",
    "title": "Album Of The Week: Touch Girl Apple Blossom Graceful",
    "url": "https://stereogum.com/2498695/album-of-the-week-touch-girl-apple-blossom-graceful/reviews/album-of-the-week/"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-05T17:30:31Z",
-   "desc": "The post Album Of The Week: Aldous Harding <em>Train On The Island</em> appeared first on Stereogum .",
-   "duration": null,
-   "id": "https:--stereogum.com--p-2497851",
-   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/Train-On-The-Island.png?w=564",
-   "title": "Album Of The Week: Aldous Harding Train On The Island",
-   "url": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/"
   }
  ],
  "kind": "rss",
  "name": "Stereogum: Album of the Week",
- "updatedAt": "2026-10-20T23:56:21Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

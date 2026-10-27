@@ -84,16 +84,6 @@
   },
   {
    "date": "2026-10-14T00:00:00Z",
-   "desc": "Single on Anjunadeep Explorations, out 14 Oct 2026.",
-   "id": "621098-coda-golden-hour",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621098.jpg",
-   "out": "2026-10-14T00:00:00Z",
-   "tags": "Single · Anjunadeep Explorations",
-   "title": "foglight – Coda / Golden Hour",
-   "url": "https://anjunadeep.com/products/621098-coda-golden-hour"
-  },
-  {
-   "date": "2026-10-14T00:00:00Z",
    "desc": "EP on Anjunadeep, out 14 Oct 2026.",
    "id": "605957-anjunadeep-archive-02",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605957.jpg",
@@ -101,6 +91,16 @@
    "tags": "EP · Anjunadeep",
    "title": "Anjunadeep Archive 02",
    "url": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
+  },
+  {
+   "date": "2026-10-14T00:00:00Z",
+   "desc": "Single on Anjunadeep Explorations, out 14 Oct 2026.",
+   "id": "621098-coda-golden-hour",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621098.jpg",
+   "out": "2026-10-14T00:00:00Z",
+   "tags": "Single · Anjunadeep Explorations",
+   "title": "foglight – Coda / Golden Hour",
+   "url": "https://anjunadeep.com/products/621098-coda-golden-hour"
   },
   {
    "date": "2026-10-13T00:00:00Z",
@@ -255,5 +255,5 @@
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-26T23:09:50Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-27T17:17:49Z",
+   "desc": "From reverb-drenched dub to hair-raising field recordings, these are the most memorable sets that the last month had to offer.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-slam-on-the-cdj-the-best-dj-sets-september-2026",
+   "image": "https://substackcdn.com/image/fetch/$s_!Scao!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8ccb5e7-ed0b-4997-811a-ef8905fad6cf_1200x1200.png",
+   "title": "Slam on the CDJ: The Best DJ Sets of September 2026",
+   "url": "https://www.powmag.net/p/slam-on-the-cdj-the-best-dj-sets-september-2026"
+  },
+  {
+   "audio": null,
    "date": "2026-10-26T17:41:18Z",
    "desc": "Thirty years after the landmark album, the producer reflects on the ghosts in old drum machines and the samples that remain uncleared.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!kqeA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F396574c7-8547-4f3f-9028-a21f75809b98_1200x1200.png",
    "title": "The 2001 Project: Aesop Rock’s Labor Days",
    "url": "https://www.powmag.net/p/the-2001-project-aesop-rock-labor-days"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-03T16:25:18Z",
-   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Donald Morrison reviews new work from Kodak Black, Cash Cobain, Rio Da Yung Og, and more.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-everyday-betrayals-the-rap-up",
-   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Lca7VGqAHaY",
-   "title": "Everyday Betrayals",
-   "url": "https://www.powmag.net/p/everyday-betrayals-the-rap-up"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-26T23:09:50Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

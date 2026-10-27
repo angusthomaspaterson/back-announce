@@ -14,6 +14,16 @@
   },
   {
    "audio": null,
+   "date": "2026-10-21T00:00:00Z",
+   "desc": "To accompany his interview in The Wire 513, maverick songwriter Nick Nicely compiles a mix of his top ten psychedelia tracks Since the release of his second single “Hilly Fields (1892)” in 1982, Nickolas Laurien aka Nick Nicely has maintained a spectral presence in the landscape of British pop. In his interview in The Wire 513, he tells Joseph Stannard how he uses “spoken word, half-heard words, snatches of found sound... The surge of psychedelic use in the 1960s also somehow attached fantasy-style lyrics to the music: weird tales, sci-fi. I confess, I love these things, usually twisted up to…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-tracks-wire-mix-nick-nicely-s-top-10-psychedelic-tracks",
+   "image": "https://www.thewire.co.uk/img/contain/617/480/2026/10/27/nick_nicely_for_web.jpg",
+   "title": "Wire  mix: Nick Nicely’s Psychedelia Top Ten",
+   "url": "https://www.thewire.co.uk/audio/tracks/wire-mix-nick-nicely-s-top-10-psychedelic-tracks"
+  },
+  {
+   "audio": null,
    "date": "2026-10-20T00:00:00Z",
    "desc": "As far right ideology and misogyny make gains around the world, metal, a subculture with a troubled relationship to fascism, wonders whether more progressive ideals are still in reach, writes Antonio Poscic in The Wire 513 Metal used to be the music of outsiders. For teenagers who stumbled into it, the subculture offered a place to belong and legitimised intense emotions that had to be suppressed in daily life. Its lyrics and sonic density gave shape to alienation, despair and angst that many struggled to articulate. It offered acceptance for those rejected elsewhere, and an identity chosen r…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/465/480/2026/09/09/UE_for_online_for_web_.jpg",
    "title": "Unlimited Editions: Aspen Edities",
    "url": "https://www.thewire.co.uk/audio/tracks/unlimited-editions-aspen-edities"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-08T00:00:00Z",
-   "desc": "Machine listening is transforming environmental sound into data points that support surveillance infrastructure, changing what it means to hear, argues Stephen Roddy in The Wire 512 On 28 February 2026, Shajareh Tayyebeh elementary school in Minab, Iran was hit by a missile killing over 150 people, most of them children. Initial investigations have suggested that the US was responsible for the attack. While US data mining giant Palantir has not been conclusively linked to the atrocity, the wider US-led bombing campaign has made extensive use of the Palantir-supplied Maven Smart System to coor…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-in-writing-collateral-damage-against-the-grain-listening-after-palantir",
-   "image": "https://www.thewire.co.uk/img/contain/480/480/2026/09/08/environments_12.jpg",
-   "title": "Against The Grain: Listening after Palantir",
-   "url": "https://www.thewire.co.uk/in-writing/collateral-damage/against-the-grain-listening-after-palantir"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

@@ -3,6 +3,16 @@
  "id": "all-songs-considered",
  "items": [
   {
+   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/6d08fcd8-1558-4350-bbc1-b67f71b79212/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=6d08fcd8-1558-4350-bbc1-b67f71b79212&feed=uwsqics_&t=podcast&e=nx-s1-6018576&p=g-s1-111189&d=3254&size=104136308",
+   "date": "2026-10-27T09:00:00Z",
+   "desc": "It’s been an unprecedented year for arguing about “fake” music, and it’s not just AI. From bot-powered ticket sales and social media campaigns to manufactured artist identities and an endless wave of complaints against nepo babies, 2026 feels like a turning point in the timeless debate about authenticity in music. This week on All Songs Considered , NPR Music’s Ann Powers and Isabella Gomez Sarmiento join host Robin Hilton to break down how we’ve reached this point, what it means, and where we go from here. Tell us what you think with a review on Apple or Spotify wherever you listen to podcas…",
+   "duration": "3254",
+   "id": "4c08d7e6-36df-4008-81af-7516859affcc",
+   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Feb%2F4e04cb044d68a8c9d9ef6dd3d5e8%2F11cf6563-78dd-43e0-ac9b-adef5fb5fab4.png",
+   "title": "Why does everything in music feel fake?",
+   "url": "https://www.npr.org/2026/10/27/nx-s1-6018576/why-does-everything-in-music-feel-fake"
+  },
+  {
    "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/733d7692-c166-456c-9bad-6df5af6ae16e/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=733d7692-c166-456c-9bad-6df5af6ae16e&feed=uwsqics_&t=podcast&e=nx-s1-6008050&p=g-s1-111189&d=3526&size=112859115",
    "date": "2026-10-20T09:00:00Z",
    "desc": "With the arrival of the first new Olivia Tremor Control album in nearly 30 years, we attempt to make sense of the sprawling, enigmatic collective behind it known as Elephant 6. NPR Music’s Lars Gotrich joins host Robin Hilton. Special thanks to Greenwich Entertainment, C.B. Stockfleth and Rob Hatch-Miller for use of audio featured in the 2022 documentary, The Elephant 6 Recording Co . Featured artists and songs: (00:00) Intro with “A New Day” by The Olivia Tremor Control (03:00) The Elephant 6 story in 60 seconds with “Black Foliage (Animation 2)” by The Olivia Tremor Control (04:28) The Appl…",
@@ -191,19 +201,9 @@
    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2Ff8%2F376ee02d41bd9d4e53f71b310fa3%2Fbf61dc39-689b-46c6-bc15-bb88a577b538.png",
    "title": "Songs for any road trip",
    "url": "https://www.npr.org/2026/06/16/nx-s1-5859396/songs-for-any-road-trip"
-  },
-  {
-   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/9998d4b1-1f33-4b32-809d-a0ce275bac65/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=9998d4b1-1f33-4b32-809d-a0ce275bac65&feed=uwsqics_&t=podcast&e=nx-s1-5850713&p=g-s1-111189&d=2215&size=70893506",
-   "date": "2026-06-09T07:00:00Z",
-   "desc": "NPR listeners share the songs they reach for when they need to reset the mood, their day or even their life. This is a followup to our April episode on songs for starting over . NPR’s Dora Levite joins host Robin Hilton. A good review helps! Leave us one on Apple , Spotify , or wherever you listen to podcasts. And tell a friend to listen! Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.org Featured artists and songs: (00:00) Intro (01:13) Quincy Jones: “Dead End” (02:12) Bill Withers: “Lovely Day” (04:51) Florence + the Machine: “Shake It Out” (08:06) Jac…",
-   "duration": "2215",
-   "id": "89419db9-7913-44b4-9532-163221488d69",
-   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F47%2Fede56cfb48fa9bedc1014be09669%2Fffde815a-93f5-418b-8106-f3dea870ae57.png",
-   "title": "11 more songs to reset your mood",
-   "url": "https://www.npr.org/2026/06/09/nx-s1-5850713/need-another-reset"
   }
  ],
  "kind": "rss",
  "name": "NPR: All Songs Considered",
- "updatedAt": "2026-10-20T23:56:21Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

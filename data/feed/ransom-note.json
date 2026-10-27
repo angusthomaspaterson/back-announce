@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-27T15:59:38Z",
+   "desc": "Istanbul-based digger and producer Grup Ses’s mix for Ransom Note is a trip through the cassette underworld of 1980s Turkey, when drum machines and synthesisers went from novelty to the centre of the arrangement. The post Grup Ses – The Ransom Note Mixtape appeared first on Ransom Note .",
+   "duration": null,
+   "id": "https:--www.theransomnote.com--p-46281",
+   "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
+   "title": "Grup Ses – The Ransom Note Mixtape",
+   "url": "https://www.theransomnote.com/music/mixes/grup-ses-the-ransom-note-mixtape/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T14:25:09Z",
    "desc": "Costello is a Bordeaux-based producer and DJ who has been active since the late 2000s. Initially associated with aesthetics somewhere between house and techno, he has gradually broadened his music toward more melodic, atmospheric and hybrid forms, without abandoning his physical relationship with the club. The post ‘A Loner in Bordeaux’ : a conversation with Costello appeared first on Ransom Note .",
    "duration": null,
@@ -91,19 +101,9 @@
    "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
    "title": "Beat Hotel debuting its very first London edition…",
    "url": "https://www.theransomnote.com/music/news/beat-hotel-debuting-its-very-first-london-edition/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-08T13:41:26Z",
-   "desc": "The Dada Pogrom music project was founded by Kenneth Walter Balys in 1989, this will be a rare appearance in the Italian city of Turin. The post Turin’s Midnight Theorem to host Dada Pogrom in rare appearance appeared first on Ransom Note .",
-   "duration": null,
-   "id": "https:--www.theransomnote.com--p-46179",
-   "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
-   "title": "Turin’s Midnight Theorem to host Dada Pogrom in rare appearance",
-   "url": "https://www.theransomnote.com/music/news/turins-midnight-theorem-to-host-dada-pogrom-in-rare-appearance/"
   }
  ],
  "kind": "rss",
  "name": "Ransom Note",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

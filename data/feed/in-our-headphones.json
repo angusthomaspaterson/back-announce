@@ -3,6 +3,16 @@
  "id": "in-our-headphones",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/8c25f944-5e5f-4218-b410-b4ef005494d3/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
+   "date": "2026-10-27T07:00:00Z",
+   "desc": "Host Evie Stokes sits down with KEXP’s Facilities Manager Barry Vail to dig into the music that’s moving him. Barry opens up about his time with the station—going back all the way to the KCMU days—sobriety, and his insatiable love of music. To kick things off this week, he shares the explosive sounds of Pigeon and their song “NRG.” Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones”  playlist on Spotify or the “What’s In Our Headphones”  playlist on YouTube. Support the podcast: kexp.org/headphones Contact…",
+   "duration": "1328",
+   "id": "8c25f944-5e5f-4218-b410-b4ef005494d3",
+   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/8c25f944-5e5f-4218-b410-b4ef005494d3/image.jpg?t=1793127192&size=Large",
+   "title": "KEXP’s Facilities Manager Barry Vail on Keeping It Clean and Pigeon’s Massive NRG",
+   "url": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-facilities-manager-barry-vail-on-keeping-it-clean-and-pigeon-s-massive-nrg"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/783ae4f0-7063-4e17-a930-b4e90006ba53/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
    "date": "2026-10-22T07:00:00Z",
    "desc": "Host Evie Stokes sits down again with Melanie C—yes, Sporty Spice herself—backstage at the Portola Music Festival in San Francisco to hear about the music that’s moving her. This time, she gushes about Violet Skies, what it’s like to watch her work in person, and the majestic nature of her solo work. Melanie also reveals how she finds music and her favorite parts of getting into DJing. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouT…",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/82c2681f-53db-428c-903d-b49c001defaf/image.jpg?t=1785980714&size=Large",
    "title": "Hrishikesh Hirway on Ken Pomeroy’s Perfect Song",
    "url": "https://omny.fm/shows/kexp-song-of-the-day/hrishikesh-hirway-on-ken-pomeroy-s-perfect-song"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/8ae3e969-7dfe-4692-96fb-b499003ffa8e/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-   "date": "2026-08-04T07:00:00Z",
-   "desc": "Host Evie Stokes sits down with Song Exploder  host and musician Hrishikesh Hirway on the music that’s moving him right now. Hirway shares a story about the kinship he feels with his Keeled Scales labelmate – and later collaborator – Emily Hines and his love for her song “My Own Way.” The song comes from Hines’ latest album, These Days , out now on Keeled Scales. Produced by Dusty Henry Mastered by: William Myers Production support: Serafima Healy Listen to the full songs on KEXP's \" In Our Headphones \" playlist on Spotify or the “ What's In Our Headphones ” playlist on YouTube. Support the p…",
-   "duration": "513",
-   "id": "8ae3e969-7dfe-4692-96fb-b499003ffa8e",
-   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/8ae3e969-7dfe-4692-96fb-b499003ffa8e/image.jpg?t=1785806368&size=Large",
-   "title": "Hrishikesh Hirway on the Light and Sweetness of Emily Hines",
-   "url": "https://omny.fm/shows/kexp-song-of-the-day/hrishikesh-hirway-on-the-light-and-sweetness-of-emily-hines"
   }
  ],
  "kind": "rss",
  "name": "KEXP: In Our Headphones",
- "updatedAt": "2026-10-22T07:27:53Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

@@ -3,6 +3,16 @@
  "id": "pjenne",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2420204727-pjenne-eafhm-pn-394.mp3",
+   "date": "2026-10-27T07:20:31Z",
+   "desc": "Jorge Echaniz aka Eafhm, is a Mexico City-based producer, DJ and sound designer, and the founder and curator of the non-profit digital label Secuencias Temporales. Moving between sound design, art and techno in its many shades, his work explores the depth of the inner self and the beauty of the natural world, building immersive atmospheres that shift from blissful ambient passages to weighty half-time rhythms and deep, understated techno. With releases on Oslated, Melifera, Indefinite Pitch, Predawn Records, Unheard, Accents Records and Profundo, where he was among the label’s earliest artist…",
+   "duration": "00:56:45",
+   "id": "tag:soundcloud-2010:tracks-2420204727",
+   "image": "https://i1.sndcdn.com/artworks-btccZ3IULr4yldaM-rlbXFw-t3000x3000.jpg",
+   "title": "Eafhm - PN 394",
+   "url": "https://soundcloud.com/pjenne/eafhm-pn-394"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2366597396-pjenne-gi-gi-pn-381.mp3",
    "date": "2026-07-28T01:31:15Z",
    "desc": "@gigigigigigigi Texan-born producer and DJ Gi Gi joined me for episode 381 of Passing Notes. Gi Gi shapes worlds of organic ambient and downtempo, lit by glimpses of spellbinding shoegaze and underpinned by dub-inspired heavyweight basslines. He has a rare gift for sampling, assembling found sounds into complete wholes so natural you'd swear they came into existence that way. His cinematic 2021 LP Lumino Pleco was built entirely from samples from icons of the likes Prince, Erykah Badu, Vangelis and Miles Davis, reshaped and recontextualised to say something completely new. An approach that in…",
@@ -215,5 +225,5 @@
  ],
  "kind": "rss",
  "name": "Pjenne (PBS 106.7) mixes",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

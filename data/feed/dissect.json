@@ -3,6 +3,16 @@
  "id": "dissect",
  "items": [
   {
+   "audio": "https://traffic.megaphone.fm/GLT4497605683.mp3",
+   "date": "2026-10-27T09:30:00Z",
+   "desc": "Without a solo rap album, the second half of André 3000’s career has been largely defined by his remarkable catalog of guest features. Today, we trace that catalog from 2007 to the present, dissecting some of his most brilliant verses along the way. ⁠Listen to a playlist of Andre features heard in this episode⁠. Host/Writer/EP: Cole Cuchna Video Editor: Kevin Pooler Additional Production: Justin Sayles Theme: Birocratic Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "duration": "2868",
+   "id": "76585218-c8bf-11f1-a1a4-9b9512030d28",
+   "image": "https://megaphone.imgix.net/podcasts/76585218-c8bf-11f1-a1a4-9b9512030d28/image/dab396a6647755a402b5b3ea32d3f199.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "André 3000's Best Features Dissected Line By Line",
+   "url": "https://traffic.megaphone.fm/GLT4497605683.mp3"
+  },
+  {
    "audio": "https://traffic.megaphone.fm/GLT3996329891.mp3",
    "date": "2026-10-20T09:31:00Z",
    "desc": "Our three-part series dedicated to hip-hop features begins with J. Cole. We trace the history of Cole’s feature catalog, explore his two legendary feature runs, and dissect his best bars along the way. Plus a line-by-line breakdown of his legendary “Johnny P’s Caddy\" verse. ⁠PLAYLIST⁠ of J. Cole features in this episode. Host/Writer/EP: Cole Cuchna Editor: Kevin Pooler Theme Music: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/f8a554be-3503-11f1-939f-6b391a6ea9ec/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "E5 - Dissecting \"Digital Love\" by Daft Punk",
    "url": "https://traffic.megaphone.fm/GLT7805586398.mp3?updated=1776124923"
-  },
-  {
-   "audio": "https://traffic.megaphone.fm/GLT9400244704.mp3?updated=1775245050",
-   "date": "2026-04-07T10:01:00Z",
-   "desc": "Our dissection of Daft Punk's 2001 masterpiece Discovery begins with an in-depth analysis of its opening tracks \"One More Time\" and \"Aerodynamic.\" Follow @dissectpodcast on⁠ Instagram⁠,⁠ TikTok⁠, and⁠ Twitter⁠. Host/Writer/EP: Cole Cuchna Audio/Video Editing: Kevin Pooler & Iulia Ciobanu Theme Music: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "duration": "2797",
-   "id": "779cea08-2f90-11f1-98ac-2399024be4b3",
-   "image": "https://megaphone.imgix.net/podcasts/779cea08-2f90-11f1-98ac-2399024be4b3/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "E4 - Dissecting \"One More Time\" & \"Aerodynamic\" by Daft Punk",
-   "url": "https://traffic.megaphone.fm/GLT9400244704.mp3?updated=1775245050"
   }
  ],
  "kind": "rss",
  "name": "Dissect",
- "updatedAt": "2026-10-20T23:56:21Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

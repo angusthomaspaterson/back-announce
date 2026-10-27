@@ -3,6 +3,16 @@
  "id": "switched-on-pop",
  "items": [
   {
+   "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8996790217.mp3",
+   "date": "2026-10-27T07:01:00Z",
+   "desc": "A few months ago, Nate came across a glittering guitar riff unlike anything he had ever heard before; it managed to perfectly balance careful optimism with plaintive melancholy, stirring the spirit. That melody, played by guitarist Yvette Young, was a shining example of the “midwest emo” sound, a genre pioneered by bands like American Football, Gauge, and Braid. On this episode of Switched On Pop, Nate introduces Charlie to all things midwest and emo, speaking with Young and American Football frontman Mike Kinsella in the process.  CREDITS Reanna Cruz: Producer  Iris Gottlieb: Illustrator  Ch…",
+   "duration": "1820",
+   "id": "42983e80-be65-11f0-9a96-931314594d40",
+   "image": "https://megaphone.imgix.net/podcasts/42983e80-be65-11f0-9a96-931314594d40/image/ac4517c835768c3561a36dca310b713e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "The 'bummer hope' of midwest emo (ft. Yvette Young and Mike Kinsella)",
+   "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8996790217.mp3"
+  },
+  {
    "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2522822538.mp3",
    "date": "2026-10-20T07:01:00Z",
    "desc": "The music of global girl group KATSEYE might be confusing on first listen. A less-generous read might consider their songs to be rudimentary: the lyrics are mostly nonsense, the instrumentals evoke lesser 2010s pop songs, and the aesthetic can’t decide whether it’s targeted to children or adults. However, maybe the nonsensical nature of KATSEYE is also… the point? And maybe that point is tethered to early surrealist movements of the early twentieth century? On this episode of Switched on Pop, producer Reanna makes the case to Nate that KATSEYE and ADÉLA are indicative of a larger shift in pop…",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/c219bdce-612a-11f1-9823-ef087d20c52f/image/53f84d6b2ec9ff0519ab538466811aac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "How a sci-fi dystopia became a personal utopia (ft. Arc Iris)",
    "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7000739079.mp3?updated=1780697732"
-  },
-  {
-   "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5091820996.mp3?updated=1780355924",
-   "date": "2026-06-02T07:00:00Z",
-   "desc": "A culture that rewards easily consumable individual identities produces plenty of pop stars and almost no bands. A significant exception: MUNA, the trio of Katie Gavin, Josette Maskin, and Naomi McPherson. MUNA treats the band as a structure that grounds identity beyond the ego and makes any success feel shared among the three. Their new album, Dancing on the Wall, wraps that conviction in blaring, unapologetic '80s production: slap bass, brightness pushed to the front, and everything connected in one time and place.Links: ⁠Newsletter⁠, ⁠YouTube MUNA, \"It Gets So Hot\" MUNA, \"Dancing on the Wa…",
-   "duration": "3139",
-   "id": "41234bb2-be65-11f0-9a96-1f111ad6f4e0",
-   "image": "https://megaphone.imgix.net/podcasts/41234bb2-be65-11f0-9a96-1f111ad6f4e0/image/dd49db110b45654b573901a6cebb3805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "Why bands give us purpose (ft. MUNA)",
-   "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5091820996.mp3?updated=1780355924"
   }
  ],
  "kind": "rss",
  "name": "Switched On Pop",
- "updatedAt": "2026-10-20T08:42:24Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

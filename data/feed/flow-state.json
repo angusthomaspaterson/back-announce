@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/222289412/19837b56936da5ea001937509925539f.mp3",
+   "date": "2026-10-27T07:03:42Z",
+   "desc": "Today’s mix includes three Ryuichi Sakamoto tracks from across three different decades, inspired by his memoir Music Sets You Free. We play a moving track from the Adam Wiltzie and Jóhann Jóhannsson record and a longform ambient piece by Blanket Swimming. There are a few harp recordings which function as a preview of tomorrow’s guest on Across the Horizon. We picked a single from Andrew W.K.’s jazzy, strange new record",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-349",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 349",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-349"
+  },
+  {
    "audio": null,
    "date": "2026-10-26T07:03:37Z",
    "desc": "Today we’re listening to Adam Wiltzie, an American ambient musician from New York City.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!rWhE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0ed76a-a728-4a09-9b8e-763c4f193497_2728x1536.png",
    "title": "Across the Horizon Ep. 71: Lara Somogyi",
    "url": "https://www.flowstate.fm/p/across-the-horizon-ep-71-lara-somogyi"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/217950821/2dfba02c094607e435924efb9c2a2ea8.mp3",
-   "date": "2026-09-29T07:03:08Z",
-   "desc": "Today’s mix opens with a beautiful new track from Isik Kural, followed by new ambient by Maxime Denuc and elijah jamal asani.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-flow-state-episode-345",
-   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
-   "title": "Flow State Episode 345",
-   "url": "https://www.flowstate.fm/p/flow-state-episode-345"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-26T23:09:50Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

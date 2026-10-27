@@ -3,6 +3,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2426604744-balance-series-cristina-tosio-live-from-balance-croatia.mp3",
+   "date": "2026-10-27T00:00:00Z",
+   "desc": "Recording of Cristina Tosio's set from Balance Croatia 2026. @cristinatosio ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ SIGN UP FOR FINAL RELEASE TIX: laylo.com/balancecroatia/L1zh7A _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
+   "duration": "01:57:48",
+   "id": "tag:soundcloud-2010:tracks-2426604744",
+   "image": "https://i1.sndcdn.com/artworks-N7okAAlN5TjY1bzQ-9zc3sw-t3000x3000.jpg",
+   "title": "Cristina Tosio: Live From Balance Croatia 2026",
+   "url": "https://soundcloud.com/balance-series/cristina-tosio-live-from-balance-croatia"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2424994392-balance-series-balance-selections-389-juan.mp3",
    "date": "2026-10-24T00:00:00Z",
    "desc": "Hailing from La Rioja in Argentina, Juan Ibañez is part of a new generation of South American producers bringing fresh energy to the scene. His growing international profile has taken him across Europe, Asia and Latin America, while his productions continue to find an audience well beyond his native Argentina. In 2026, he collaborated on ‘Auralis’, a richly textured progressive house cut featured on the This Is Balance Croatia 2026 compilation. Beyond the studio, Ibañez is also the founder of Desierto, an event platform dedicated to developing electronic music culture in northern Argentina. O…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-D854eEzdX0L3AyAI-UUFNSg-t3000x3000.jpg",
    "title": "Jeremy Olander: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/jeremy-olander-balance-croatia-2026"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2394784899-balance-series-elliot-moriarty-live-balance-croatia-2026.mp3",
-   "date": "2026-09-05T01:10:08Z",
-   "desc": "Recording of Elliot Moriarty's set from Balance Croatia 2026. @elliot_moriarty __________________________________________________ SIGN UP FOR BALANCE CROATIA 2027: laylo.com/balancecroatia/sgbvg ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "01:28:50",
-   "id": "tag:soundcloud-2010:tracks-2394784899",
-   "image": "https://i1.sndcdn.com/artworks-vJiX7SAUFgd00oTB-l7KASw-t3000x3000.jpg",
-   "title": "Elliot Moriarty: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/elliot-moriarty-live-balance-croatia-2026"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-10-24T21:38:39Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }

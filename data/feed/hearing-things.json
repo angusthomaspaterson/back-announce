@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-27T17:10:35Z",
+   "desc": "Plus Madchester acid-house by way of subterranean rock",
+   "duration": null,
+   "id": "6ae035aa5e244a0001e30b7b",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/10/Copy-of-Album-Covers-4_3--2-.png",
+   "title": "Rap for Making Sense of A Decaying World",
+   "url": "https://www.hearingthings.co/rap-for-making-sense-of-a-decaying-world/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-20T15:30:18Z",
    "desc": "Plus satirical alt-rap for the tech-averse",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Five-Songs-Template-11--18-.png",
    "title": "A Fiddlin’ Funk Fantasy Called “Froggy”",
    "url": "https://www.hearingthings.co/a-fiddlin-funk-fantasy-called-froggy/"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-25T19:12:38Z",
-   "desc": "Plus a Must Hear album from a prolific ambient-rap stalwart, a lovelorn tribute to UK funky house, a frenetic hip-hop reunion, and Weezer's latest nostalgia grab.",
-   "duration": null,
-   "id": "6a8d073a8ffe6500013429ae",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Album-Covers-43--6-.png",
-   "title": "Real Rockers Fostering Real Community (Seriously)",
-   "url": "https://www.hearingthings.co/real-rockers-fostering-real-community/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-10-20T23:56:21Z"
+ "updatedAt": "2026-10-27T22:59:09Z"
 }
