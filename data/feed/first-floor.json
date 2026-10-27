@@ -3,6 +3,16 @@
  "id": "first-floor",
  "items": [
   {
+   "audio": null,
+   "date": "2026-10-27T12:28:22Z",
+   "desc": "After several years of turmoil, the long-running Barcelona festival announced its “death” earlier today, but is it a sincere goodbye, or just another marketing campaign?",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-sonar-is-dead-maybe",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/c70410f2-ed61-42f7-be6e-fea370396593_1456x1048.jpeg",
+   "title": "Sónar Is Dead... Maybe.",
+   "url": "https://firstfloor.substack.com/p/sonar-is-dead-maybe"
+  },
+  {
    "date": "2026-10-26T06:17:23Z",
    "desc": "Civilistjävel! – Älvgång (Six of Swords)",
    "id": "rollup-2026-10-26",
@@ -165,19 +175,9 @@
    ],
    "title": "First Floor recommendations, 13 Oct: 1 record",
    "url": "https://firstfloor.substack.com/p/girlscoutcookies-course"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-13T10:00:36Z",
-   "desc": "The reclusive Finnish producer has been quietly releasing a lot of music in 2026, much of it from his newly rekindled (and much-loved) Luomo alias. First Floor takes a closer look.",
-   "duration": null,
-   "id": "https:--firstfloor.substack.com-p-vladislav-delay-is-in-his-bandcamp",
-   "image": "https://substackcdn.com/image/fetch/$s_!VkG8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc214251-5498-4d88-8455-d6a035ee7cb6_5184x3456.jpeg",
-   "title": "Vladislav Delay Is in His Bandcamp Loosies Era",
-   "url": "https://firstfloor.substack.com/p/vladislav-delay-is-in-his-bandcamp"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-26T21:30:07Z"
+ "updatedAt": "2026-10-27T21:30:09Z"
 }

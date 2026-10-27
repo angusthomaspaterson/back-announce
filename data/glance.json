@@ -1,6 +1,31 @@
 {
  "items": [
   {
+   "d": "2026-10-27T19:00:14Z",
+   "g": "Progressive",
+   "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
+   "sid": "underground-live-forever",
+   "sp": "Underground Live Forever Episode 047",
+   "t": "Underground Live Forever - ULF047 presented by Paul Thomas",
+   "u": "https://www.youtube.com/watch?v=xPYC7JURTus"
+  },
+  {
+   "d": "2026-10-27T12:28:22Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Sónar Is Dead... Maybe.",
+   "u": "https://firstfloor.substack.com/p/sonar-is-dead-maybe"
+  },
+  {
+   "d": "2026-10-27T11:03:05Z",
+   "g": "Writing",
+   "s": "Futurism Restated (Philip Sherburne)",
+   "sid": "futurism-restated",
+   "t": "FR 196: Loidis Leans Into the Ripples",
+   "u": "https://futurismrestated.substack.com/p/fr-196-loidis-leans-into-the-ripples"
+  },
+  {
    "d": "2026-10-26T16:39:56Z",
    "g": "Writing",
    "s": "Crack Magazine",
@@ -138,35 +163,10 @@
    "sid": "nts-nabihah-iqbal",
    "t": "Nabihah Iqbal w/ Paul Simonon",
    "u": "https://www.nts.live/shows/nabihah-iqbal/episodes/nabihah-iqbal-24th-october-2026"
-  },
-  {
-   "d": "2026-10-24T11:00:00Z",
-   "g": "NTS",
-   "s": "Alexander Nut",
-   "sid": "nts-alexander-nut",
-   "t": "Alexander Nut",
-   "u": "https://www.nts.live/shows/alexander-nut/episodes/alexander-nut-24th-october-2026"
-  },
-  {
-   "d": "2026-10-24T09:17:32Z",
-   "g": "Bass",
-   "s": "FBi Sunset (club and bass)",
-   "sid": "fbi-sunset",
-   "sp": "FBi Sunset (club and bass) Sunset with Dot Zip - 2026-10-24",
-   "t": "Sunset with Dot Zip - 2026-10-24",
-   "u": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-24"
-  },
-  {
-   "d": "2026-10-24T02:00:09Z",
-   "g": "Perth",
-   "s": "RTRFM / RTR2 mixes",
-   "sid": "rtr2",
-   "t": "Miris Gala Ep. 3 w/ Manheim Fowles",
-   "u": "https://soundcloud.com/rtrfm-92-1/miris-gala-ep-3-manheim-fowles"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 229,
+ "newCount": 231,
  "paused": 19,
  "releases": [
   {
@@ -221,5 +221,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-26T23:09:50Z"
+ "updated": "2026-10-27T21:30:09Z"
 }

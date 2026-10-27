@@ -5567,6 +5567,16 @@
    "id": "first-floor",
    "items": [
     {
+     "audio": null,
+     "date": "2026-10-27T12:28:22Z",
+     "desc": "After several years of turmoil, the long-running Barcelona festival announced its “death” earlier today, but is it a sincere goodbye, or just another marketing campaign?",
+     "duration": null,
+     "id": "https:--firstfloor.substack.com-p-sonar-is-dead-maybe",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/c70410f2-ed61-42f7-be6e-fea370396593_1456x1048.jpeg",
+     "title": "Sónar Is Dead... Maybe.",
+     "url": "https://firstfloor.substack.com/p/sonar-is-dead-maybe"
+    },
+    {
      "date": "2026-10-26T06:17:23Z",
      "desc": "Civilistjävel! – Älvgång (Six of Swords)",
      "id": "rollup-2026-10-26",
@@ -5729,21 +5739,11 @@
      ],
      "title": "First Floor recommendations, 13 Oct: 1 record",
      "url": "https://firstfloor.substack.com/p/girlscoutcookies-course"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-13T10:00:36Z",
-     "desc": "The reclusive Finnish producer has been quietly releasing a lot of music in 2026, much of it from his newly rekindled (and much-loved) Luomo alias. First Floor takes a closer look.",
-     "duration": null,
-     "id": "https:--firstfloor.substack.com-p-vladislav-delay-is-in-his-bandcamp",
-     "image": "https://substackcdn.com/image/fetch/$s_!VkG8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc214251-5498-4d88-8455-d6a035ee7cb6_5184x3456.jpeg",
-     "title": "Vladislav Delay Is in His Bandcamp Loosies Era",
-     "url": "https://firstfloor.substack.com/p/vladislav-delay-is-in-his-bandcamp"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-10-26T21:30:07Z"
+   "updatedAt": "2026-10-27T21:30:09Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -5960,6 +5960,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-27T11:03:05Z",
+     "desc": "Brian Leeds—aka Huerco S. and Pendant—brings new energy to minimal tech-house",
+     "duration": null,
+     "id": "https:--futurismrestated.substack.com-p-fr-196-loidis-leans-into-the-ripples",
+     "image": "https://substackcdn.com/image/fetch/$s_!az87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89c9e807-e5b1-48d0-82d9-e3fd8724379b_6670x5419.jpeg",
+     "title": "FR 196: Loidis Leans Into the Ripples",
+     "url": "https://futurismrestated.substack.com/p/fr-196-loidis-leans-into-the-ripples"
+    },
+    {
+     "audio": null,
      "date": "2026-10-23T10:31:00Z",
      "desc": "Five killer DJ sets— Ibiza floor-fillers, psychedelic brain-teasers, crate-digging cumbia, and more",
      "duration": null,
@@ -6147,21 +6157,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!QBmI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb294835c-83b4-46b5-a6f4-71640713d167_8192x5464.jpeg",
      "title": "FR 180: Lifted’s Cinema for the Ears",
      "url": "https://futurismrestated.substack.com/p/fr-180-lifteds-cinema-for-the-ears"
-    },
-    {
-     "audio": null,
-     "date": "2026-07-14T16:02:56Z",
-     "desc": "Joakim Haugland on balance, intuition, and the battle between brain and gut",
-     "duration": null,
-     "id": "https:--futurismrestated.substack.com-p-fr-179-smalltown-supersound-is-a",
-     "image": "https://substackcdn.com/image/fetch/$s_!aOrl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd43f826a-5a36-45ea-b8ec-d9d50098c91f_1525x1525.jpeg",
-     "title": "FR 179: Smalltown Supersound Is a Feeling",
-     "url": "https://futurismrestated.substack.com/p/fr-179-smalltown-supersound-is-a"
     }
    ],
    "kind": "rss",
    "name": "Futurism Restated (Philip Sherburne)",
-   "updatedAt": "2026-10-23T21:30:08Z"
+   "updatedAt": "2026-10-27T21:30:09Z"
   },
   "gai-barone-patterns": {
    "home": "https://soundcloud.com/gaibarone",
@@ -33460,6 +33460,14 @@
    "id": "underground-live-forever",
    "items": [
     {
+     "date": "2026-10-27T19:00:14Z",
+     "desc": "Tracklist [00:00:00] - Intro [00:00:38] - Modd - Mega Space [UV] [00:03:26] - Namatjira - Float on Innocence [Vapour Recordings] [00:08:42] - Erdi Irmak - Make a Move [Songuara] [00:13:32] - Navar - Chrono (Alex O’Rion Remix [Solis Records] [00:17:03] - Fran Garay, Diego R - Closed Feelings [Meanwhile] [00:20:09] - Alex O'Rion - Zero [SOLIS] [00:25:10] - Barry Jamieson - Fractured Lens (Gai Barone & Kasey Remix) [Mango Alley] [00:31:04] - Juan Deminicis - Attention [SOLIS] [00:34:22] - Ignacio Hernandez & Marcos Vidou - Lightshiver [Mango Alley] [00:38:17] - Blake Jarrell - Camarilla Pivots (…",
+     "id": "yt:video:xPYC7JURTus",
+     "image": "https://i1.ytimg.com/vi/xPYC7JURTus/hqdefault.jpg",
+     "title": "Underground Live Forever - ULF047 presented by Paul Thomas",
+     "url": "https://www.youtube.com/watch?v=xPYC7JURTus"
+    },
+    {
      "date": "2026-10-20T18:00:33Z",
      "desc": "Presented by Paul Thomas Tracklist [00:00:00] - Intro [00:00:38] - Namatjira - Hea [Worlds Apart] [00:05:48] - Paul Thomas - Celeste [UV] [00:10:01] - Modd - Suizy Wong [UV] [00:14:37] - Gai Barone - Dside [Vapour] [00:19:49] - Luis Damora - Lasting Memories [Clubsonica] [00:24:33] - Chris Cargo - Stratosphere [If You Wait] [00:28:46] - Matias Chilano - Skyline [Mango Alley] [00:33:21] - Gai Barone - Banhof [Vapour] [00:37:39] - Mike Kohl - Rise Up [UV Noir] [00:41:47] - Tiefstone - Univision [UV Noir] [00:45:53] - Blake Jarrell - Caramiilla Pivots [UV] [00:50:10] - Kamilo Sanclemente - Get D…",
      "id": "yt:video:zXmFFPzy2ag",
@@ -33502,7 +33510,7 @@
    ],
    "kind": "rss",
    "name": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
-   "updatedAt": "2026-10-21T21:30:09Z"
+   "updatedAt": "2026-10-27T21:30:09Z"
   }
  },
  "sources": [
@@ -35126,7 +35134,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-26T23:09:50Z",
+  "lastRun": "2026-10-27T21:30:09Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-26T23:09:50Z",
@@ -35213,7 +35221,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 20,
     "newest": "2026-10-23T19:25:16Z",
     "ok": true
@@ -35249,7 +35257,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -35267,9 +35275,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 11,
-    "newest": "2026-10-26T06:17:23Z",
+    "newest": "2026-10-27T12:28:22Z",
     "ok": true
    },
    "flow-state": {
@@ -35279,9 +35287,9 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 20,
-    "newest": "2026-10-23T10:31:00Z",
+    "newest": "2026-10-27T11:03:05Z",
     "ok": true
    },
    "gai-barone-patterns": {
@@ -35321,7 +35329,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 20,
     "newest": "2026-10-25T15:48:15Z",
     "ok": true
@@ -35381,7 +35389,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 20,
     "newest": "2026-10-26T17:01:03Z",
     "ok": true
@@ -35423,7 +35431,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 25,
     "newest": "2026-10-14T15:56:50Z",
     "ok": true
@@ -36143,7 +36151,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 20,
     "newest": "2026-10-25T16:13:06Z",
     "ok": true
@@ -36155,7 +36163,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 20,
     "newest": "2026-10-26T10:07:08Z",
     "ok": true
@@ -36173,7 +36181,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-10-26T21:30:07Z",
+    "at": "2026-10-27T21:30:09Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
@@ -36197,9 +36205,9 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-10-26T21:30:07Z",
-    "count": 5,
-    "newest": "2026-10-20T18:00:33Z",
+    "at": "2026-10-27T21:30:09Z",
+    "count": 6,
+    "newest": "2026-10-27T19:00:14Z",
     "ok": true
    }
   }

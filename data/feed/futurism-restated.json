@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-27T11:03:05Z",
+   "desc": "Brian Leeds—aka Huerco S. and Pendant—brings new energy to minimal tech-house",
+   "duration": null,
+   "id": "https:--futurismrestated.substack.com-p-fr-196-loidis-leans-into-the-ripples",
+   "image": "https://substackcdn.com/image/fetch/$s_!az87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89c9e807-e5b1-48d0-82d9-e3fd8724379b_6670x5419.jpeg",
+   "title": "FR 196: Loidis Leans Into the Ripples",
+   "url": "https://futurismrestated.substack.com/p/fr-196-loidis-leans-into-the-ripples"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T10:31:00Z",
    "desc": "Five killer DJ sets— Ibiza floor-fillers, psychedelic brain-teasers, crate-digging cumbia, and more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!QBmI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb294835c-83b4-46b5-a6f4-71640713d167_8192x5464.jpeg",
    "title": "FR 180: Lifted’s Cinema for the Ears",
    "url": "https://futurismrestated.substack.com/p/fr-180-lifteds-cinema-for-the-ears"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-14T16:02:56Z",
-   "desc": "Joakim Haugland on balance, intuition, and the battle between brain and gut",
-   "duration": null,
-   "id": "https:--futurismrestated.substack.com-p-fr-179-smalltown-supersound-is-a",
-   "image": "https://substackcdn.com/image/fetch/$s_!aOrl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd43f826a-5a36-45ea-b8ec-d9d50098c91f_1525x1525.jpeg",
-   "title": "FR 179: Smalltown Supersound Is a Feeling",
-   "url": "https://futurismrestated.substack.com/p/fr-179-smalltown-supersound-is-a"
   }
  ],
  "kind": "rss",
  "name": "Futurism Restated (Philip Sherburne)",
- "updatedAt": "2026-10-23T21:30:08Z"
+ "updatedAt": "2026-10-27T21:30:09Z"
 }
