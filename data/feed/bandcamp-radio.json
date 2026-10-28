@@ -3,6 +3,15 @@
  "id": "bandcamp-radio",
  "items": [
   {
+   "date": "2026-10-28T00:00:00Z",
+   "desc": "Erica Dunn of Tropical Fuck Storm talks about the Australian band's new live album. Hosted by Mariana Timony . Featuring Tropical Fuckstorm .",
+   "id": "radio-the-indie-show-1014",
+   "image": "https://f4.bcbits.com/img/0048080958_170.jpg",
+   "tags": "The Indie Show",
+   "title": "The Indie Show: Tropical Fuck Storm",
+   "url": "https://bandcamp.com/radio/the-indie-show/1014"
+  },
+  {
    "date": "2026-10-26T00:00:00Z",
    "desc": "We mark Orchestra Baobab's fifty year milestone with their new album 'Made In Senegal' Hosted by Tina Edwards . Featuring Orchestra Baobab .",
    "id": "radio-bandcamp-selects-1019",
@@ -172,18 +181,9 @@
    "tags": "Bandcamp Selects",
    "title": "Bandcamp Selects: Children Of Zeus",
    "url": "https://bandcamp.com/radio/bandcamp-selects/999"
-  },
-  {
-   "date": "2026-09-11T00:00:00Z",
-   "desc": "Filmmaker Wes Orshoski joins the show to talk about his new documentary about the late Iron Maiden singer Paul Di'Anno. Hosted by Brad Sanders . Featuring Wes Orshoski .",
-   "id": "radio-the-metal-show-998",
-   "image": "https://f4.bcbits.com/img/0046976049_170.jpg",
-   "tags": "The Metal Show",
-   "title": "The Metal Show: Di'Anno: Iron Maiden's Lost Singer",
-   "url": "https://bandcamp.com/radio/the-metal-show/998"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Radio",
- "updatedAt": "2026-10-26T23:09:50Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

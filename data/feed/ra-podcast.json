@@ -3,6 +3,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2427514947-resident-advisor-ex-816-boys-noize.mp3",
+   "date": "2026-10-28T13:28:11Z",
+   "desc": "The German producer on touring with Nine Inch Nails, pushing past criticism and his new full-length album, 7LLVSION. Alex Ridha is notoriously private. Ridha, AKA Boys Noize, has been making headlines over the last couple of years: you may have seen him on tour alongside Trent Reznor’s industrial rock band Nine Inch Nails, or in the credits of the soundtracks for Challengers and Tron: Ares. It follows an illustrious run of collaborations with Lady Gaga and Skrillex, discreetly making him one of the most influential producers moving between the underground and pop. But long before all of this,…",
+   "duration": "01:02:36",
+   "id": "tag:soundcloud-2010:tracks-2427514947",
+   "image": "https://i1.sndcdn.com/artworks-uLGPYSzARuYnfIzy-d8rHXw-t3000x3000.jpg",
+   "title": "EX.816 Boys Noize",
+   "url": "https://soundcloud.com/resident-advisor/ex-816-boys-noize"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2424648672-resident-advisor-ra-1062-loraine-james.mp3",
    "date": "2026-10-25T22:00:19Z",
    "desc": "A sonic diary from one of UK experimental music's brightest talents. Loraine James doesn't like to sit still. She first made waves on Hyperdub, where 2019's For You and I and 2021's Reflection reimagined grime, IDM and dub with a mischievous touch. But calling her a club experimentalist has never fit the bill. The London-born artist has collaborated with everyone from Yaeji to TSVI, remixed Kelela and Tirzah, hosts an NTS show steeped in contemporary classical and turns out records at a staggering pace. She also makes some of the most evocative ambient around as Whatever the Weather. What hol…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-uUfoZUJVXOrHvX32-hEqGpQ-t3000x3000.png",
    "title": "RA.1040 Clementaum",
    "url": "https://soundcloud.com/resident-advisor/ra-1040-clementaum"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2321173298-resident-advisor-ra-1039-k-wata.mp3",
-   "date": "2026-05-17T21:00:01Z",
-   "desc": "Sleek, sensual bass science from the NYC SLINK boss, sketching a new blueprint for dub in the 2020s. Kenzo Perron, AKA K Wata, uses bass the way a poet uses punctuation. Sub weight, subtle wobbles and snaking rhythms become commas, dashes and periods—tiny gestures that shape movement, tension and release. Perron's sound sits somewhere between the cavernous minimalism of Rhythm & Sound and the wiry precision of Livity Sound, pulling equally from sound system culture, contemporary minimalism and East Coast club music. His breakthrough 2021 EP, What Do U Wan, sounds like the photo negatives of a…",
-   "duration": "01:24:09",
-   "id": "tag:soundcloud-2010:tracks-2321173298",
-   "image": "https://i1.sndcdn.com/artworks-vpPZn2o2vBXR2czC-6MIOCg-t3000x3000.png",
-   "title": "RA.1039 K Wata",
-   "url": "https://soundcloud.com/resident-advisor/ra-1039-k-wata"
   }
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-10-26T23:09:50Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

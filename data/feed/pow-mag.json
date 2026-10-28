@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-28T17:00:40Z",
+   "desc": "Billy Evans loves to tweet at and about rappers almost as much as he loves to pretend to be Elizabeth online.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-elizabeth-holmes-billy-evans-hip-hop",
+   "image": "https://substackcdn.com/image/fetch/$s_!AAh2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70ae4fd8-347f-4023-bd6f-8e597ef2f62c_1200x1200.png",
+   "title": "On Elizabeth Holmes’s Fake Husband and His Unseemly Obsession With Hip-Hop",
+   "url": "https://www.powmag.net/p/elizabeth-holmes-billy-evans-hip-hop"
+  },
+  {
+   "audio": null,
    "date": "2026-10-27T17:17:49Z",
    "desc": "From reverb-drenched dub to hair-raising field recordings, these are the most memorable sets that the last month had to offer.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!HzR9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4177f576-eff2-494b-94b8-91029797a2ca_1200x1200.png",
    "title": "You Can’t Control Time",
    "url": "https://www.powmag.net/p/megiapa-interview"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-05T18:33:18Z",
-   "desc": "The sixth installment of our series reexamining hip-hop in the year 2001 revisits an album about your boss, your body, your time on Earth.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-the-2001-project-aesop-rock-labor-days",
-   "image": "https://substackcdn.com/image/fetch/$s_!kqeA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F396574c7-8547-4f3f-9028-a21f75809b98_1200x1200.png",
-   "title": "The 2001 Project: Aesop Rock’s Labor Days",
-   "url": "https://www.powmag.net/p/the-2001-project-aesop-rock-labor-days"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

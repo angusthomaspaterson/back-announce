@@ -3,6 +3,16 @@
  "id": "music-not-diving",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/656ee493f95cc60012925da6/e/6ada3ed15de627c54097ef0c/media.mp3",
+   "date": "2026-10-28T04:00:00Z",
+   "desc": "I'm playing all night long at Venue MOT in London on 14 Nov. Grab a ticket here: https://ra.co/events/2527068 Sign up for free to join our community. -- Dusky are a production duo from the UK. Originally emerging on Anjunadeep with their debut album in 2011, they've been an important part of the UK dance scene in the past two decades with albums on Universal and their own label. Their latest full-length, Signals , is out now and sees them back on the label where it all began. We discuss their production process, the challenges of making a record outside their usual genre, and the way the new …",
+   "duration": "1:12:19",
+   "id": "6ada3ed15de627c54097ef0c",
+   "image": "https://assets.pippa.io/shows/656ee493f95cc60012925da6/1792689589144-4bea8d84-4064-4a23-9c83-1cdf72829d29.jpeg",
+   "title": "#58 Dusky on Deep House, Postdubstep, and the future of dance music",
+   "url": "https://shows.acast.com/not-a-diving-podcast-with-scuba/episodes/58-dusky-on-deep-house-postdubstep-and-the-future-of-dance-m"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/656ee493f95cc60012925da6/e/6ac4e61e22e4cb85bd9d8bcf/media.mp3",
    "date": "2026-10-07T03:00:00Z",
    "desc": "I'm playing all night long at Venue MOT in London on 14 Nov. Grab a ticket here: https://ra.co/events/2527068 Sign up for free to join our community. -- Sophie Lloyd is a DJ and producer from the UK. A staple of Defected Records and associated labels and promotions, this year she was invited to dig through the archives of London Records which resulted in standout EP 'London Revisited' - remixes of classics and deep cuts from the storied label. We discuss all that of course, and also her journey from DJing at house parties, corporate events and eventually clubs and festivals, and getting into …",
@@ -241,19 +251,9 @@
    "image": "https://assets.pippa.io/shows/656ee493f95cc60012925da6/1767778455958-373bdccc-e1de-4a3d-95e3-ba7c69b457e5.jpeg",
    "title": "#035 Jagz Kooner: Weatherall, Sabres Of Paradise, and quitting while you're ahead",
    "url": "https://shows.acast.com/not-a-diving-podcast-with-scuba/episodes/035-jagz-kooner-weatherall-sabres-of-paradise-and-quitting-w"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/656ee493f95cc60012925da6/e/695b828d7c30ad75ba5465a5/media.mp3",
-   "date": "2026-01-05T11:00:00Z",
-   "desc": "Music Not Diving is supported by Acid Nation (formerly AC55ID)... head over to www.acidnation.com to check out the fastest growing electronic music marketplace, a central hub for music discovery, streaming and purchasing! -- Watch the video episodes of Music Not Diving over at youtube.com/@WeNotDiving This is a re-up of a podcast we released in mid-2023 which sought to set the table for what was then the coming debate on AI in music and the wider socio-economic world.  It's worth returning to because it covers the big issues that I anticipate will be covered on the podcast this coming year, a…",
-   "duration": "52:17",
-   "id": "695b828d7c30ad75ba5465a5",
-   "image": "https://assets.pippa.io/shows/656ee493f95cc60012925da6/1767604014622-28ebed29-f6db-4ac8-bda0-5c64254bdbe1.jpeg",
-   "title": "The unfolding AI debate: the End Of Recorded Music?",
-   "url": "https://shows.acast.com/not-a-diving-podcast-with-scuba/episodes/the-unfolding-ai-debate-the-end-of-recorded-music"
   }
  ],
  "kind": "rss",
  "name": "Music Not Diving with Scuba",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

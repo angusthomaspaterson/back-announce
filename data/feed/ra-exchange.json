@@ -3,6 +3,16 @@
  "id": "ra-exchange",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6ae1fa73e57912cf6fedf755/media.mp3",
+   "date": "2026-10-28T13:36:51Z",
+   "desc": "The German producer on touring with Nine Inch Nails, pushing past criticism and his new full-length album, 7LLVSION. Alex Ridha is notoriously private. Ridha, AKA Boys Noize, has been making headlines over the last couple of years: you may have seen him on tour alongside Trent Reznor’s industrial rock band Nine Inch Nails, or in the credits of the soundtracks for Challengers and Tron: Ares. It follows an illustrious run of collaborations with Lady Gaga and Skrillex, discreetly making him one of the most influential producers moving between the underground and pop. But long before all of this,…",
+   "duration": "1:02:36",
+   "id": "6ae1fa73e57912cf6fedf755",
+   "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1793194533796-5049c1b9-82ba-4a39-bc48-3a757fd2de86.jpeg",
+   "title": "EX.816 Boys Noize",
+   "url": "https://shows.acast.com/raexchange/episodes/ex816-boys-noize"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6abcfa8c38e6d69a30cd7521/media.mp3",
    "date": "2026-09-30T12:03:23Z",
    "desc": "Kicking off a run of artist-on-artist Exchanges for RA25, the musical multi-hyphenates discuss poetry, religion and their experiences as protectors of oratorical tradition. There's a deep creative current running between music and poetry, and Saul Williams and James Massiah know those waters well. This week’s RA Exchange is the first in a series of intergenerational artist-on-artist conversations we’ll be running to mark our 25th anniversary. In it, Williams—the Grammy-nominated poet, musician, writer and actor—and Massiah—a South London poet and musician—talk about lyricism and what first dr…",
@@ -241,19 +251,9 @@
    "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1774449021199-8ad768e7-a6a9-4e78-9dd2-b6cd830f5e72.jpeg",
    "title": "EX.792 Tiga",
    "url": "https://shows.acast.com/raexchange/episodes/ex792-tiga"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/69ba96257df9481e68780f20/media.mp3",
-   "date": "2026-03-18T12:10:13Z",
-   "desc": "The London artist talks about self-doubt, overcoming creative blocks and her forthcoming album on Hyperdub. Today's guest has spent the last decade proving that electronic music is an insufficient label for what she does. Since her landmark Hyperdub debut, For You and I, in 2019, Loraine James has moved through the world of IDM, glitch and ambient with a rare kind of emotional transparency. Whether producing club music under her own name or making ambient soundscapes under her experimental alias, Whatever The Weather, her work often feels like a diary—not just of her life, but of her creative…",
-   "duration": "47:48",
-   "id": "69ba96257df9481e68780f20",
-   "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1773835790082-b8f97079-33fd-43a4-986a-17f0494c8a7f.jpeg",
-   "title": "EX.791 Loraine James",
-   "url": "https://shows.acast.com/raexchange/episodes/ex791-loraine-james"
   }
  ],
  "kind": "rss",
  "name": "RA Exchange",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

@@ -3,6 +3,14 @@
  "id": "rinse-kara",
  "items": [
   {
+   "date": "2026-10-17T20:00:00Z",
+   "desc": "",
+   "id": "kara-17-10-2026-2100",
+   "image": "https://image.rinse.fm/_/463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg?w=1200&h=630",
+   "title": "Kara, 17 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/kara-17-10-2026-2100"
+  },
+  {
    "date": "2026-09-19T20:00:00Z",
    "desc": "",
    "id": "kara-19-09-2026-2100",
@@ -45,5 +53,5 @@
  ],
  "kind": "rinse",
  "name": "Kara",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

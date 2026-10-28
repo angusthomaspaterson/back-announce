@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-28T15:22:17Z",
+   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+   "duration": null,
+   "id": "6adb7e27a1cd4a000105b939",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/IMG_1276.jpeg",
+   "title": "Joe Gleason on Joe Box, Edy Show Joe, Home Planet, and the Power of Smiling",
+   "url": "https://last-donut-of-the-night.ghost.io/joe-gleason-on-joe-box-edy-show-joe-home-planet-and-the-power-of-smiling/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-26T14:42:55Z",
    "desc": "",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/5DD34321-489F-49F7-9656-E3D5585356C8-1.jpeg",
    "title": "Louise Weard on Castration Movie, Computer Hearts, and the Legacy of the Third Cinema",
    "url": "https://last-donut-of-the-night.ghost.io/louise-weard-on-castration-movie-computer-hearts-and-the-legacy-of-the-third-cinema/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-06T14:22:30Z",
-   "desc": "",
-   "duration": null,
-   "id": "6ac29b678650350001fef132",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/prettygirl.jpg",
-   "title": "Baker's Dozen: G Perico, Barry Can't Swim, RAYE",
-   "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-g-perico-barry-cant-swim-raye/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-26T23:09:50Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

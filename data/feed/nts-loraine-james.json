@@ -3,6 +3,16 @@
  "id": "nts-loraine-james",
  "items": [
   {
+   "date": "2026-10-27T14:00:00Z",
+   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
+   "id": "loraine-james-27th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/a0a0db3a-237a-48fd-8173-b3dab8c6abc2_1793059200.jpeg",
+   "location": "London",
+   "tags": "Electronica, Dub Techno, Trip Hop",
+   "title": "Loraine James",
+   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-27th-october-2026"
+  },
+  {
    "date": "2026-09-29T13:00:00Z",
    "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.",
    "id": "loraine-james-29th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Electronica, Nu Metal, Hip Hop , Drum & Bass",
    "title": "Loraine James - 30th Birthday Special",
    "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-18th-december-2025"
-  },
-  {
-   "date": "2025-11-20T20:00:00Z",
-   "desc": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. From the host: \"A Julius Eastman special. playing some music from Building Something Beautiful For Me, the album that pays homage to the late Julius Eastman as well as his own scores.\"",
-   "id": "loraine-james-20th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/53a086d3-2e6d-47dd-933f-f9d785597ac1_1763510400.jpeg",
-   "location": "London",
-   "tags": "Electronica, Experimental, Modern Classical",
-   "title": "Loraine James - Julius Eastman special",
-   "url": "https://www.nts.live/shows/loraine-james/episodes/loraine-james-20th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Loraine James",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

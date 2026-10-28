@@ -3,6 +3,14 @@
  "id": "rinse-utopia",
  "items": [
   {
+   "date": "2026-10-28T15:00:00Z",
+   "desc": "",
+   "id": "utopia-presents-28-10-2026-1500",
+   "image": "https://image.rinse.fm/_/Utopia-Presents-June-2025-3.jpg?w=1200&h=630",
+   "title": "Utopia Presents, 28 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/utopia-presents-28-10-2026-1500"
+  },
+  {
    "date": "2026-10-07T14:00:00Z",
    "desc": "",
    "id": "utopia-presents-07-10-2026-1500",
@@ -187,14 +195,6 @@
    "url": "https://www.rinse.fm/episodes/utopia-presents-08-04-2026-1500"
   },
   {
-   "date": "2026-04-01T14:00:00Z",
-   "desc": "",
-   "id": "utopia-presents-01-04-2026-1500",
-   "image": "https://image.rinse.fm/_/Utopia-Presents-June-2025-3.jpg?w=1200&h=630",
-   "title": "Utopia Presents, 1 Apr 2026",
-   "url": "https://www.rinse.fm/episodes/utopia-presents-01-04-2026-1500"
-  },
-  {
    "date": "2025-07-17T18:00:00Z",
    "desc": "",
    "id": "utopia-presents-17-07-2025-1900",
@@ -205,5 +205,5 @@
  ],
  "kind": "rinse",
  "name": "Utopia Presents",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/222246308/ed8734f9ab2605ea9b5b30b4e6a3ad63.mp3",
+   "date": "2026-10-28T07:03:10Z",
+   "desc": "On today’s episode of Across the Horizon, Bob Holmes of the band SUSS is joined by harpist and composer Mary Lattimore, one of the curators of Across the Horizon Volume 2. They talk about her contributions to the series as well as those of her guests, Nailah Hunter and Meg Baird. Mary also brought along a playlist of music she’s been listening to the Italian village of Tatti, her new part-time home. The playlist includes Yo La Tengo, Windsor for the Derby, Daniel Ogren, and more.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-73-mary-lattimore",
+   "image": "https://substackcdn.com/image/fetch/$s_!ikfI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c918c5d-d162-4b1c-a0e9-d02ec2f3160e_942x628.jpeg",
+   "title": "Across the Horizon Ep. 73: Mary Lattimore",
+   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-73-mary-lattimore"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/222289412/19837b56936da5ea001937509925539f.mp3",
    "date": "2026-10-27T07:03:42Z",
    "desc": "Today’s mix includes three Ryuichi Sakamoto tracks from across three different decades, inspired by his memoir Music Sets You Free. We play a moving track from the Adam Wiltzie and Jóhann Jóhannsson record and a longform ambient piece by Blanket Swimming. There are a few harp recordings which function as a preview of tomorrow’s guest on Across the Horizon. We picked a single from Andrew W.K.’s jazzy, strange new record",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!pCYz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1d3d11d-8ddf-45ec-97a7-8d85156280c6_1200x1200.jpeg",
    "title": "TKB (Guest rec from Ryan Mandelbaum)",
    "url": "https://www.flowstate.fm/p/tkb-guest-rec-from-ryan-mandelbaum"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/218105734/8879e536f028ad23a5c885962856752c.mp3",
-   "date": "2026-09-30T07:03:43Z",
-   "desc": "On today’s episode of Across the Horizon, host Bob Holmes of the band SUSS is joined by Lara Somogyi.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-71-lara-somogyi",
-   "image": "https://substackcdn.com/image/fetch/$s_!rWhE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0ed76a-a728-4a09-9b8e-763c4f193497_2728x1536.png",
-   "title": "Across the Horizon Ep. 71: Lara Somogyi",
-   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-71-lara-somogyi"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

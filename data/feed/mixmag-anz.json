@@ -4,6 +4,26 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-28T00:13:00Z",
+   "desc": "With help from some of our biggest and most politically active musicians, the Tasmanian Aboriginal Centre is clearing feral cats from Lungtalanana/Clarke Island to return species wiped out after colonisation. Continue reading...",
+   "duration": null,
+   "id": "s:--mixmag.net.au-read-massive-attack-king-gizzard-and-laneway-are-helping-bring-wombats-back-to-a-tasmanian-island-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Lungtalanana-Cover.png",
+   "title": "Massive Attack, King Gizzard and Laneway are helping bring wombats back to a Tasmanian island",
+   "url": "https://mixmag.net.au/read/massive-attack-king-gizzard-and-laneway-are-helping-bring-wombats-back-to-a-tasmanian-island-news"
+  },
+  {
+   "audio": null,
+   "date": "2026-10-27T23:57:00Z",
+   "desc": "Shot by Dave May ACS of ‘Love On The Spectrum’, the film follows the Gadigal Land/Sydney duo to Lviv and Kyiv in July, where an air raid cleared Atlas Festival minutes before their set. Continue reading...",
+   "duration": null,
+   "id": "tps:--mixmag.net.au-read-breathe-share-a-way-out-of-here-a-documentary-on-their-fundraising-trip-to-wartime-ukraine-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/breathe.-cover.png",
+   "title": "breathe. share 'A Way Out Of Here', a documentary on their fundraising trip to wartime Ukraine",
+   "url": "https://mixmag.net.au/read/breathe-share-a-way-out-of-here-a-documentary-on-their-fundraising-trip-to-wartime-ukraine-news"
+  },
+  {
+   "audio": null,
    "date": "2026-10-27T00:22:00Z",
    "desc": "One of Naarm’s most regularly soundtracked CBD spots has been renewed rather than replaced. We spoke with its new owners Edd Fisher and Jamie Bennett alongside programmer Naomi Salim to find out why. Continue reading...",
    "duration": null,
@@ -231,29 +251,9 @@
    "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/1000002019.jpg",
    "title": "Garden Grooves brings back Spring Sessions and puts its DJs up a tree",
    "url": "https://mixmag.net.au/read/garden-grooves-brings-back-spring-sessions-and-puts-its-djs-up-a-tree-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-16T05:19:37Z",
-   "desc": "Mixmag ANZ up with the hard bounce pioneer ahead of his all-night takeover at Boorloo/Perth’s The Vault. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-inside-francks-biggest-australian-run-yet",
-   "image": null,
-   "title": "Inside franck’s biggest Australian run yet",
-   "url": "https://mixmag.net.au/feature/inside-francks-biggest-australian-run-yet"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-15T06:15:00Z",
-   "desc": "The brand behind some of Naarm’s best community-oriented New Year’s celebrations sets out with its latest venture. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-diega-moves-back-into-the-cbd-and-heides-sculpture-park-with-orta-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Diega-pres.-ORTA-Cover.png",
-   "title": "Diega announces 'ORTA', a one-day festival at Heide's sculpture park",
-   "url": "https://mixmag.net.au/read/diega-moves-back-into-the-cbd-and-heides-sculpture-park-with-orta-news"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

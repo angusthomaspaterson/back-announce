@@ -3,10 +3,37 @@
  "id": "bandcamp-daily",
  "items": [
   {
+   "date": "2026-10-28T00:00:00Z",
+   "desc": "From R&B to indie pop, here's what the ascendant Indiana rockers are listening to right now.",
+   "id": "big-ups-wishy-big-ups",
+   "image": "https://f4.bcbits.com/img/0048137274_180",
+   "tags": "Big Ups",
+   "title": "Wishy Pick Their Bandcamp Favorites",
+   "url": "https://daily.bandcamp.com/big-ups/wishy-big-ups"
+  },
+  {
+   "date": "2026-10-28T00:00:00Z",
+   "desc": "",
+   "id": "label-profile-rer-megacorp-label-profile",
+   "image": "https://f4.bcbits.com/img/0048193890_150.jpg",
+   "tags": "Label Profile",
+   "title": "Rock and Opposition: A Guide to ReR Megacorp",
+   "url": "https://daily.bandcamp.com/label-profile/rer-megacorp-label-profile"
+  },
+  {
+   "date": "2026-10-28T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-josh-johnson-animative-review",
+   "image": "https://f4.bcbits.com/img/0048139808_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Josh Johnson, “Animative”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/josh-johnson-animative-review"
+  },
+  {
    "date": "2026-10-27T00:00:00Z",
-   "desc": "The septet combine pansori—an ancient form of Korean musical storytelling—with funky, off-kilter pop.",
+   "desc": "",
    "id": "features-leenalchi-sugungga-feature",
-   "image": "https://f4.bcbits.com/img/0048115463_180",
+   "image": "https://f4.bcbits.com/img/0048115463_150.jpg",
    "tags": "Features",
    "title": "Brian Eno Agrees: LEENALCHI Are Korea’s Best, Weirdest Band",
    "url": "https://daily.bandcamp.com/features/leenalchi-sugungga-feature"
@@ -50,20 +77,20 @@
   {
    "date": "2026-10-23T00:00:00Z",
    "desc": "",
-   "id": "essential-releases-essential-releases-october-23-2026",
-   "image": "https://f4.bcbits.com/img/0048115318_150.jpg",
-   "tags": "Essential Releases",
-   "title": "Essential Releases, October 23, 2026",
-   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-23-2026"
-  },
-  {
-   "date": "2026-10-23T00:00:00Z",
-   "desc": "",
    "id": "features-pee-now-more-charm-and-more-tender-feature",
    "image": "https://f4.bcbits.com/img/0048112090_150.jpg",
    "tags": "Features",
    "title": "The Power of P.E.E.",
    "url": "https://daily.bandcamp.com/features/pee-now-more-charm-and-more-tender-feature"
+  },
+  {
+   "date": "2026-10-23T00:00:00Z",
+   "desc": "",
+   "id": "essential-releases-essential-releases-october-23-2026",
+   "image": "https://f4.bcbits.com/img/0048115318_150.jpg",
+   "tags": "Essential Releases",
+   "title": "Essential Releases, October 23, 2026",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-23-2026"
   },
   {
    "date": "2026-10-23T00:00:00Z",
@@ -199,36 +226,9 @@
    "tags": "Label Profile",
    "title": "Kou Records Builds Community the Old-School Way",
    "url": "https://daily.bandcamp.com/label-profile/kou-records-label-profile"
-  },
-  {
-   "date": "2026-10-14T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-esoctrilihum-annochiul-xar-sorthilazur-review",
-   "image": "https://f4.bcbits.com/img/0047946151_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Esoctrilihum, “Annochiül Xar Sorthïlazur”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/esoctrilihum-annochiul-xar-sorthilazur-review"
-  },
-  {
-   "date": "2026-10-13T00:00:00Z",
-   "desc": "",
-   "id": "big-ups-boy-harsher-big-ups",
-   "image": "https://f4.bcbits.com/img/0047808925_150.jpg",
-   "tags": "Big Ups",
-   "title": "Boy Harsher Pick Their Bandcamp Favorites",
-   "url": "https://daily.bandcamp.com/big-ups/boy-harsher-big-ups"
-  },
-  {
-   "date": "2026-10-13T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-marina-herlop-dja-dja-review",
-   "image": "https://f4.bcbits.com/img/0047877258_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Marina Herlop, “Dja Dja”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/marina-herlop-dja-dja-review"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }

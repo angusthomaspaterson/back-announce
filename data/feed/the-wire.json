@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-27T00:00:00Z",
+   "desc": "To accompany her feature in The Wire 513, Jo Hutton compiles an annotated mix of tracks that make use of prepared piano The piano can be prepared by placing objects such as pins, screws, bolts, crocodile clips, ball bearings, kitchen utensils, magnets or tin foil on or between the strings. Its history dates back at least to the 1930s, when choreographer Syvilla Fort commissioned a dance piece from John Cage, who proposed his Bacchanale for percussion ensemble. But the performance theatre was too small to fit the intended ensemble, so Cage changed the sound of the house piano by adding screws …",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-tracks-wire-playlist-prepared-piano",
+   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/10/28/web_crop_Siwan_Rhys_Photo_credit_Tricia_Yourkevitch_4_copy.jpg",
+   "title": "Wire  mix: Inside Prepared Piano",
+   "url": "https://www.thewire.co.uk/audio/tracks/wire-playlist-prepared-piano"
+  },
+  {
+   "audio": null,
    "date": "2026-10-22T00:00:00Z",
    "desc": "The 22 October edition of The Wire 's weekly radio show featured music by Joshua Burkett, Lisa Nanzaki, Wadada Leo Smith, Test Dept, Deficit & Letargy and more Tracklist Joshua Burkett “Lost Cat City (Excerpt 1)” From M/B/Too/4/T&/M ( Futura Resistenza ) Lisa Nanzaki “The Origin Of Violence That Has Lost Its Source” From [VA#46] – Source Unknown ( Camembert Electrique ) Radical Polish Arkestra “Union Mazurka” From Sielanka ( Tańce ) Felix Kubin “Die Kulturelle Revolution” From Antiphoneys: The Single Collection ( Suezan Studio ) Lý Trang “it was not dead, which is different” From Microhabitat…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/11/wire_aism_10_sept.jpg",
    "title": "Joseph Stannard presents  Adventures In Sound And Music",
    "url": "https://www.thewire.co.uk/audio/on-air/joseph-stannard-presents-adventures-in-sound-and-music-79475"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-09T00:00:00Z",
-   "desc": "To accompany his article on Aspen Edities in The Wire 512, Peter Margasak compiles an annotated playlist of tracks from the Belgium label There’s nothing unusual about the fact that Belgian guitarist Ruben Machtelinckx started a label to release his own music. But as his Aspen Edities imprint approaches its tenth anniversary next year, the scope of the project has steadily, if quietly, expanded and changed. The label’s carefully curated catalogue has chronicled that development release by release, with almost every subsequent title carving out fresh terrain while simultaneously honouring its …",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-tracks-unlimited-editions-aspen-edities",
-   "image": "https://www.thewire.co.uk/img/contain/465/480/2026/09/09/UE_for_online_for_web_.jpg",
-   "title": "Unlimited Editions: Aspen Edities",
-   "url": "https://www.thewire.co.uk/audio/tracks/unlimited-editions-aspen-edities"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-28T23:15:31Z"
 }
