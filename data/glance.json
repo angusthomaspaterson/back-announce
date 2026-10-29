@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-10-29T00:11:30Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 29 Oct: 1 record",
+   "u": "https://firstfloor.substack.com/p/veneko-noor"
+  },
+  {
    "d": "2026-10-28T19:00:00Z",
    "g": "Bass",
    "s": "Bryan Gee",
@@ -48,6 +56,22 @@
    "sid": "rinse-eclecticist",
    "t": "Eclecticist, 28 Oct 2026",
    "u": "https://www.rinse.fm/episodes/eclecticist-28-10-2026-1300"
+  },
+  {
+   "d": "2026-10-28T11:03:19Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Midori Hirano Has Better Taste Than I Do",
+   "u": "https://firstfloor.substack.com/p/midori-hirano-has-better-taste-than"
+  },
+  {
+   "d": "2026-10-28T10:19:54Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 28 Oct: 3 records",
+   "u": "https://firstfloor.substack.com/p/ex_libris-004"
   },
   {
    "d": "2026-10-28T10:00:00Z",
@@ -141,30 +165,6 @@
    "sid": "bandcamp-radio",
    "t": "The Indie Show: Tropical Fuck Storm",
    "u": "https://bandcamp.com/radio/the-indie-show/1014"
-  },
-  {
-   "d": "2026-10-27T23:57:00Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "breathe. share 'A Way Out Of Here', a documentary on their fundraising trip to wartime Ukraine",
-   "u": "https://mixmag.net.au/read/breathe-share-a-way-out-of-here-a-documentary-on-their-fundraising-trip-to-wartime-ukraine-news"
-  },
-  {
-   "d": "2026-10-27T22:00:00Z",
-   "g": "Bass",
-   "s": "Fracture",
-   "sid": "rinse-fracture",
-   "t": "Fracture, 27 Oct 2026",
-   "u": "https://www.rinse.fm/episodes/fracture-27-10-2026-2200"
-  },
-  {
-   "d": "2026-10-27T20:25:11Z",
-   "g": "Writing",
-   "s": "Stereogum: Album of the Week",
-   "sid": "stereogum-aotw",
-   "t": "Album Of The Week: DIIV ZIRP!",
-   "u": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
@@ -223,5 +223,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-28T23:15:31Z"
+ "updated": "2026-10-29T01:06:02Z"
 }
