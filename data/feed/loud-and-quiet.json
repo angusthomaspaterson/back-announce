@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-29T11:45:50Z",
+   "desc": "Writing from a place of empathy, the Irish band’s folk punk appeals to a broad church, combining indie rock with an ability to summon jagged songs from the miasma of foggy, harmonium-led drones",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-madra-salach-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!7oxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed3e7584-3105-4576-ad0c-c8f089523e89_2000x1496.jpeg",
+   "title": "Madra Salach for everyone",
+   "url": "https://loudandquiet.substack.com/p/madra-salach-interview"
+  },
+  {
+   "audio": null,
    "date": "2026-10-26T17:01:03Z",
    "desc": "A guide to making sure your opinion in 100% correct",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!EQWM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde933cc4-eaa1-4130-971a-33d3007631fc_2767x1772.jpeg",
    "title": "What made us think that the Mercury Prize is an award for independent artists?",
    "url": "https://loudandquiet.substack.com/p/what-made-us-think-that-the-mercury-prize-is-an-award-for-independent-artists"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-15T16:03:33Z",
-   "desc": "A new column on the best cult bands of Loud And Quiet's past, fishing in the bottomless lake of music made since 2005",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-critical-retention-electricity-in",
-   "image": "https://substackcdn.com/image/fetch/$s_!lGPC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F006246b5-302c-4a93-915a-cb763e25aeba_900x600.gif",
-   "title": "Critical retention: Electricity In Our Homes",
-   "url": "https://loudandquiet.substack.com/p/critical-retention-electricity-in"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-10-26T21:30:07Z"
+ "updatedAt": "2026-10-29T23:05:17Z"
 }

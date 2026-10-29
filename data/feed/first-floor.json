@@ -3,18 +3,34 @@
  "id": "first-floor",
  "items": [
   {
-   "date": "2026-10-29T00:11:30Z",
-   "desc": "veneko – noor (Club Moniker)",
+   "date": "2026-10-29T12:48:15Z",
+   "desc": "veneko – noor (Club Moniker) Poison Zcora – How It Feels to Be Plundered (Tiff’s Joints) Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
    "id": "rollup-2026-10-29",
    "image": "https://substackcdn.com/image/fetch/$s_!Kkpn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae692cd9-21c6-4879-bca6-290dabd14627_1456x1048.jpeg",
    "links": [
     {
      "t": "veneko – noor",
      "u": "https://firstfloor.substack.com/p/veneko-noor"
+    },
+    {
+     "t": "Poison Zcora – How It Feels to Be Plundered",
+     "u": "https://firstfloor.substack.com/p/poison-zcora-how-it-feels-to-be-plundered"
+    },
+    {
+     "t": "Gibrana Cervantes – Verdad y Error",
+     "u": "https://firstfloor.substack.com/p/gibrana-cervantes-verdad-y-error"
+    },
+    {
+     "t": "Loidis – From the Toolkit of Lovers",
+     "u": "https://firstfloor.substack.com/p/loidis-from-the-toolkit-of-lovers"
+    },
+    {
+     "t": "First Floor #334 – That Was Probably a Bad Idea",
+     "u": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
     }
    ],
-   "title": "First Floor recommendations, 29 Oct: 1 record",
-   "url": "https://firstfloor.substack.com/p/veneko-noor"
+   "title": "First Floor recommendations, 29 Oct: 5 records",
+   "url": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
   },
   {
    "audio": null,
@@ -139,45 +155,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/b907f88a-531b-4e89-ab47-bdad6a2b25ee_1456x1048.jpeg",
    "title": "Instagram Is Not My Job",
    "url": "https://firstfloor.substack.com/p/instagram-is-not-my-job"
-  },
-  {
-   "date": "2026-10-19T08:33:23Z",
-   "desc": "Dyslecta – Sleck Dust (Nerve Collect) Alien D – Smoker’s Choice (Theory Therapy) Lamin Fofana – Corps Perdu (Shelter Press)",
-   "id": "rollup-2026-10-19",
-   "image": "https://substackcdn.com/image/fetch/$s_!Daui!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e633010-675d-4249-bc55-a60567ba93b1_1456x1048.jpeg",
-   "links": [
-    {
-     "t": "Dyslecta – Sleck Dust",
-     "u": "https://firstfloor.substack.com/p/dyslecta-sleck-dust"
-    },
-    {
-     "t": "Alien D – Smoker’s Choice",
-     "u": "https://firstfloor.substack.com/p/alien-d-smokers-choice"
-    },
-    {
-     "t": "Lamin Fofana – Corps Perdu",
-     "u": "https://firstfloor.substack.com/p/lamin-fofana-corps-perdu"
-    }
-   ],
-   "title": "First Floor recommendations, 19 Oct: 3 records",
-   "url": "https://firstfloor.substack.com/p/lamin-fofana-corps-perdu"
-  },
-  {
-   "date": "2026-10-15T10:03:22Z",
-   "desc": "First Floor #332 – Not the Center of the Universe",
-   "id": "rollup-2026-10-15",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/782ba028-e6a3-4453-bd60-fe100fe1ad2f_1456x1048.png",
-   "links": [
-    {
-     "t": "First Floor #332 – Not the Center of the Universe",
-     "u": "https://firstfloor.substack.com/p/first-floor-332-not-the-center-of"
-    }
-   ],
-   "title": "First Floor recommendations, 15 Oct: 1 record",
-   "url": "https://firstfloor.substack.com/p/first-floor-332-not-the-center-of"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-29T01:06:02Z"
+ "updatedAt": "2026-10-29T23:05:17Z"
 }

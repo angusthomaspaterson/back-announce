@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-29T11:03:54Z",
+   "desc": "A bonus roundup of deep house, minimal techno, leftfield footwork, and more.",
+   "duration": null,
+   "id": "https:--futurismrestated.substack.com-p-fr-197-thirteen-eps",
+   "image": "https://substackcdn.com/image/fetch/$s_!gizn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cb0ecbe-2f7d-4e53-9d8f-d1b21dd5a360_3998x2998.jpeg",
+   "title": "FR 197: Thirteen EPs",
+   "url": "https://futurismrestated.substack.com/p/fr-197-thirteen-eps"
+  },
+  {
+   "audio": null,
    "date": "2026-10-27T11:03:05Z",
    "desc": "Brian Leeds—aka Huerco S. and Pendant—brings new energy to minimal tech-house",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!slsc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf42ad3-2578-46f3-aafe-c2987a82fbc9_3445x2304.jpeg",
    "title": "FR 181: How AD 93’s GB Fused Dire Straits With Coil on His New Album Herzsprung",
    "url": "https://futurismrestated.substack.com/p/fr-181-how-ad-93s-gb-fused-dire-straits"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-21T13:51:21Z",
-   "desc": "Andrew Field-Pickering and Matt Papich on making moving pictures for the mind’s eye",
-   "duration": null,
-   "id": "https:--futurismrestated.substack.com-p-fr-180-lifteds-cinema-for-the-ears",
-   "image": "https://substackcdn.com/image/fetch/$s_!QBmI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb294835c-83b4-46b5-a6f4-71640713d167_8192x5464.jpeg",
-   "title": "FR 180: Lifted’s Cinema for the Ears",
-   "url": "https://futurismrestated.substack.com/p/fr-180-lifteds-cinema-for-the-ears"
   }
  ],
  "kind": "rss",
  "name": "Futurism Restated (Philip Sherburne)",
- "updatedAt": "2026-10-27T21:30:09Z"
+ "updatedAt": "2026-10-29T23:05:17Z"
 }

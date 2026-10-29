@@ -3,6 +3,16 @@
  "id": "the-gig",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/222562033/be6b769c793c332211528bbb78bf9244.mp3",
+   "date": "2026-10-29T11:03:51Z",
+   "desc": "Watch now (47 mins) | On ‘Songs For Sinners,’ the elite London drummer comes full circle",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-a-chat-with-moses-boyd",
+   "image": "https://substackcdn.com/image/fetch/$s_!43MV!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4bb5f09d-16d6-4525-a94c-d3aea48e0ae5_200x200.png",
+   "title": "A Chat with Moses Boyd",
+   "url": "https://thegig.substack.com/p/a-chat-with-moses-boyd"
+  },
+  {
    "audio": null,
    "date": "2026-10-25T16:13:06Z",
    "desc": "Triple Threat? Don’t sell the man short.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!EN3C!,w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc72125d-3b6d-4a6c-a12e-875b9f3fbc32_569x569.png",
    "title": "A Conversation with Makaya McCraven",
    "url": "https://thegig.substack.com/p/a-conversation-with-makaya-mccraven"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-21T10:31:06Z",
-   "desc": "And his ResoNation Trio puts the revel in revelatory",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-steven-bernstein-wanted-a-threesome",
-   "image": "https://substackcdn.com/image/fetch/$s_!sgk7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e76fa3-0ecc-4d13-a0ce-a06f6569e0ee_4128x3760.png",
-   "title": "Steven Bernstein Wanted a Threesome",
-   "url": "https://thegig.substack.com/p/steven-bernstein-wanted-a-threesome"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-10-25T21:30:08Z"
+ "updatedAt": "2026-10-29T23:05:17Z"
 }
