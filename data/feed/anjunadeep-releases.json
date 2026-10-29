@@ -3,6 +3,26 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-10-29T23:19:37Z",
+   "desc": "Album on Anjunadeep, out 21 Jan 2027.",
+   "id": "632654-brainsugar-10-year-anniversary-edition",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/632654.jpg",
+   "out": "2027-01-21T00:00:00Z",
+   "tags": "Album · Anjunadeep",
+   "title": "Cubicolor – Brainsugar (10 Year Anniversary Edition)",
+   "url": "https://anjunadeep.com/products/632654-brainsugar-10-year-anniversary-edition"
+  },
+  {
+   "date": "2026-10-28T00:00:00Z",
+   "desc": "Single on Anjunadeep Explorations, out 28 Oct 2026.",
+   "id": "625968-tarabi-round-round",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/625968.jpg",
+   "out": "2026-10-28T00:00:00Z",
+   "tags": "Single · Anjunadeep Explorations",
+   "title": "AFFKT – Tarabi / Round & Round",
+   "url": "https://anjunadeep.com/products/625968-tarabi-round-round"
+  },
+  {
    "date": "2026-10-23T00:00:00Z",
    "desc": "EP on Anjunadeep, out 23 Oct 2026.",
    "id": "622528-sparklestar",
@@ -84,16 +104,6 @@
   },
   {
    "date": "2026-10-14T00:00:00Z",
-   "desc": "EP on Anjunadeep, out 14 Oct 2026.",
-   "id": "605957-anjunadeep-archive-02",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605957.jpg",
-   "out": "2026-10-14T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "Anjunadeep Archive 02",
-   "url": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
-  },
-  {
-   "date": "2026-10-14T00:00:00Z",
    "desc": "Single on Anjunadeep Explorations, out 14 Oct 2026.",
    "id": "621098-coda-golden-hour",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621098.jpg",
@@ -101,6 +111,16 @@
    "tags": "Single · Anjunadeep Explorations",
    "title": "foglight – Coda / Golden Hour",
    "url": "https://anjunadeep.com/products/621098-coda-golden-hour"
+  },
+  {
+   "date": "2026-10-14T00:00:00Z",
+   "desc": "EP on Anjunadeep, out 14 Oct 2026.",
+   "id": "605957-anjunadeep-archive-02",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605957.jpg",
+   "out": "2026-10-14T00:00:00Z",
+   "tags": "EP · Anjunadeep",
+   "title": "Anjunadeep Archive 02",
+   "url": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
   },
   {
    "date": "2026-10-13T00:00:00Z",
@@ -231,29 +251,9 @@
    "tags": "Single · Anjunadeep Explorations",
    "title": "Tomas Novoa – Mila / Kira",
    "url": "https://anjunadeep.com/products/615155-mila-kira"
-  },
-  {
-   "date": "2026-09-21T00:00:00Z",
-   "desc": "Single on Anjunachill, out 21 Sep 2026.",
-   "id": "614590-variation-vi-chihei-hatakeyama-remix",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/614590.jpg",
-   "out": "2026-09-21T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "Mark Barrott – Variation (vi) [Chihei Hatakeyama Remix]",
-   "url": "https://anjunadeep.com/products/614590-variation-vi-chihei-hatakeyama-remix"
-  },
-  {
-   "date": "2026-09-18T00:00:00Z",
-   "desc": "EP on Anjunadeep, out 18 Sep 2026.",
-   "id": "613892-dreamer-ep",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/613892.jpg",
-   "out": "2026-09-18T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "Maty Owl – Dreamer EP",
-   "url": "https://anjunadeep.com/products/613892-dreamer-ep"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

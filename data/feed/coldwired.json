@@ -3,6 +3,16 @@
  "id": "coldwired",
  "items": [
   {
+   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-November2026.mp3",
+   "date": "2026-10-29T06:24:01Z",
+   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
+   "duration": "1:38:34",
+   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-November2026.mp3",
+   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-November2026.jpg",
+   "title": "November 2026 Selection (featuring Basil O'Glue, Nomas, Calantha, Bicep, Rick Pier O'Neill, F-Act, Pico Boulevard, Narel, Tilt, Golden Girls, Coredata, Blake Jarrell, Hobin Rude, Moshic, Simon Firth, You Are My Salvation, GusGus, T-world, ILYAS TCHORBO, Papa Kuma, TERJE SÆTHER, ROBERT SOLHEIM, Juan Parra Rios, Lauren Duffus, SOARR,  Jacco@Work, Wigs, Foley, Biodive)",
+   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-November2026.mp3"
+  },
+  {
    "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-CruiseControl002.mp3",
    "date": "2026-10-22T06:22:01Z",
    "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
@@ -241,19 +251,9 @@
    "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-June2026ptII.jpg",
    "title": "June 2026 Selection pt II (featuring Yotto, Gai Barone, Danny Howells, LOUT, Hernan Cattaneo, Durante, Ezequiel Arias, Allan McLoud, Abity, Ali Wilson, Latex Zebra, Mista Twist, Lloyd Barwood, Nick Stoynoff, goodkidd, Mind Echoes, Foley, Doug Crawford, Luca Abayan, Lawley, Luke Brancaccio, Chernov, John Fisherman, Andy Olinski, Phil Able, Ekkel, DJ Koncept)",
    "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-June2026ptII.mp3"
-  },
-  {
-   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-TDJsOMPJune2026.mp3",
-   "date": "2026-06-14T06:18:01Z",
-   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
-   "duration": "2:02:25",
-   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-TDJsOMPJune2026.mp3",
-   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-TDJsOMPJune2026.jpg",
-   "title": "Twitch DJs Progressive Raid Train: June 2026 (Live Stream 06/06/26)",
-   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-TDJsOMPJune2026.mp3"
   }
  ],
  "kind": "rss",
  "name": "Coldwired Podcast (Nick Clark)",
- "updatedAt": "2026-10-22T07:27:53Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

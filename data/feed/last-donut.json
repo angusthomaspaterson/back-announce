@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-29T13:25:13Z",
+   "desc": "Hello! This is a very brief but nonetheless official message to my readers and subscribers to let them know that the newsletter is going on a week-long hiatus—specifically, from today through next Wednesday, November 4. I'll be returning next Thursday with your regularly scheduled programming,",
+   "duration": null,
+   "id": "6ae348ef64ceb50001cfff33",
+   "image": "https://last-donut-of-the-night.ghost.io/favicon.png",
+   "title": "Vacation Time",
+   "url": "https://last-donut-of-the-night.ghost.io/vacation-time-3/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-28T15:22:17Z",
    "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/ajsuede.jpg",
    "title": "Baker's Dozen: Willie Nelson, Chief Keef, Slayyyter",
    "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-willie-nelson-chief-keef-slayyyter/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-07T15:53:31Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6ac55774a9f25a0001945129",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/5DD34321-489F-49F7-9656-E3D5585356C8-1.jpeg",
-   "title": "Louise Weard on Castration Movie, Computer Hearts, and the Legacy of the Third Cinema",
-   "url": "https://last-donut-of-the-night.ghost.io/louise-weard-on-castration-movie-computer-hearts-and-the-legacy-of-the-third-cinema/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

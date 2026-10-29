@@ -3,6 +3,16 @@
  "id": "nts-early-bird-pam",
  "items": [
   {
+   "date": "2026-10-29T07:00:00Z",
+   "desc": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
+   "id": "early-bird-show-w-pam-29th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/e1ab04f8-4d21-47ba-8474-803ca1b86eec_1793232000.jpeg",
+   "location": "Paris",
+   "tags": "Indie Rock, Art Rock, Dream Pop, Folk",
+   "title": "The Early Bird Show w/ PAM & Chris Kontos",
+   "url": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-29th-october-2026"
+  },
+  {
    "date": "2026-10-22T06:00:00Z",
    "desc": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
    "id": "early-bird-show-w-pam-22nd-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Electronica, Synth Pop, Jazz Fusion, Classical",
    "title": "The Early Bird Show w/ PAM",
    "url": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-23rd-july-2026"
-  },
-  {
-   "date": "2026-07-16T06:00:00Z",
-   "desc": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond. This week joined by DJ Fine, listen to her bi-monthly show here.",
-   "id": "early-bird-show-w-pam-16th-july-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/c4062a21-ecc0-45e9-bca8-4530e35af722_1784160000.jpeg",
-   "location": "Paris",
-   "tags": "New Wave, Modern Classical, Leftfield Pop, Art Rock",
-   "title": "The Early Bird Show w/ PAM & DJ FINE",
-   "url": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-16th-july-2026"
   }
  ],
  "kind": "nts",
  "name": "The Early Bird Show w/ PAM",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

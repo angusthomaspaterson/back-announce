@@ -3,6 +3,16 @@
  "id": "nts-funkineven",
  "items": [
   {
+   "date": "2026-10-28T19:00:00Z",
+   "desc": "The Apron Records boss takes his anything goes approach to an continually surprising hour of radio every month, featuring everything from dusty leftfield house to energetic jazz, and anything else that he's feeling.",
+   "id": "funkineven-28th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/c8dba77d-e4d1-4c24-8dac-477631e1a878_1793059200.jpeg",
+   "location": "London",
+   "tags": "Electro, Funk",
+   "title": "Steven Julien Presents: The Apron Show",
+   "url": "https://www.nts.live/shows/funkineven/episodes/funkineven-28th-october-2026"
+  },
+  {
    "date": "2026-09-02T18:00:00Z",
    "desc": "The Apron Records boss takes his anything goes approach to an continually surprising hour of radio every month, featuring everything from dusty leftfield house to energetic jazz, and anything else that he's feeling.",
    "id": "funkineven-2nd-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Deep House, Funk, Acid",
    "title": "Steven Julien Presents: The Apron Show w/ Jeyon",
    "url": "https://www.nts.live/shows/funkineven/episodes/funkineven-29th-october-2025"
-  },
-  {
-   "date": "2025-10-01T18:00:00Z",
-   "desc": "The Apron Records boss takes his anything goes approach to an continually surprising hour of radio every month, featuring everything from dusty leftfield house to energetic jazz, and anything else that he's feeling.",
-   "id": "funkineven-1st-october-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/42f17039-96f7-4d1b-b11c-49dcf74e2d5e_1759363200.jpeg",
-   "location": "London",
-   "tags": "Electro, Detroit House, Jazz Fusion, Boogie",
-   "title": "Steven Julien Presents: The Apron Show",
-   "url": "https://www.nts.live/shows/funkineven/episodes/funkineven-1st-october-2025"
   }
  ],
  "kind": "nts",
  "name": "Steven Julien Presents: The Apron Show",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

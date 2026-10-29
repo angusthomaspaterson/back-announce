@@ -3,13 +3,40 @@
  "id": "bandcamp-daily",
  "items": [
   {
-   "date": "2026-10-28T00:00:00Z",
-   "desc": "From R&B to indie pop, here's what the ascendant Indiana rockers are listening to right now.",
-   "id": "big-ups-wishy-big-ups",
-   "image": "https://f4.bcbits.com/img/0048137274_180",
-   "tags": "Big Ups",
-   "title": "Wishy Pick Their Bandcamp Favorites",
-   "url": "https://daily.bandcamp.com/big-ups/wishy-big-ups"
+   "date": "2026-10-29T00:00:00Z",
+   "desc": "The region is exploding with the collision of sounds new and old.",
+   "id": "scene-report-uruguay-indie-scene-report",
+   "image": "https://f4.bcbits.com/img/0048230363_180",
+   "tags": "Scene Report",
+   "title": "In Uruguay, A Treasure Trove of Indie Rock, Synth-Pop, and Candombe",
+   "url": "https://daily.bandcamp.com/scene-report/uruguay-indie-scene-report"
+  },
+  {
+   "date": "2026-10-29T00:00:00Z",
+   "desc": "",
+   "id": "features-andy-shauf-the-party-interview",
+   "image": "https://f4.bcbits.com/img/0048194067_150.jpg",
+   "tags": "Features",
+   "title": "Andy Shauf on Ten Years of “The Party”",
+   "url": "https://daily.bandcamp.com/features/andy-shauf-the-party-interview"
+  },
+  {
+   "date": "2026-10-29T00:00:00Z",
+   "desc": "",
+   "id": "features-teodros-makonnen-with-his-organ-feature",
+   "image": "https://f4.bcbits.com/img/0048194356_150.jpg",
+   "tags": "Features",
+   "title": "Teodros Makonnen’s Synth-Playing Altered Ethio-Jazz’s Destiny",
+   "url": "https://daily.bandcamp.com/features/teodros-makonnen-with-his-organ-feature"
+  },
+  {
+   "date": "2026-10-29T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-darko-the-super-how-to-play-basketball-in-the-rain-and-not-get-wet-review",
+   "image": "https://f4.bcbits.com/img/0048213921_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Darko the Super, “How To Play Basketball in the Rain and Not Get Wet”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/darko-the-super-how-to-play-basketball-in-the-rain-and-not-get-wet-review"
   },
   {
    "date": "2026-10-28T00:00:00Z",
@@ -19,6 +46,15 @@
    "tags": "Label Profile",
    "title": "Rock and Opposition: A Guide to ReR Megacorp",
    "url": "https://daily.bandcamp.com/label-profile/rer-megacorp-label-profile"
+  },
+  {
+   "date": "2026-10-28T00:00:00Z",
+   "desc": "",
+   "id": "big-ups-wishy-big-ups",
+   "image": "https://f4.bcbits.com/img/0048137274_150.jpg",
+   "tags": "Big Ups",
+   "title": "Wishy Pick Their Bandcamp Favorites",
+   "url": "https://daily.bandcamp.com/big-ups/wishy-big-ups"
   },
   {
    "date": "2026-10-28T00:00:00Z",
@@ -190,45 +226,9 @@
    "tags": "Essential Releases",
    "title": "Essential Releases, October 16, 2026",
    "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-16-2026"
-  },
-  {
-   "date": "2026-10-16T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-pardoner-target-practice-review",
-   "image": "https://f4.bcbits.com/img/0047949574_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Pardoner, “Target Practice”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/pardoner-target-practice-review"
-  },
-  {
-   "date": "2026-10-15T00:00:00Z",
-   "desc": "",
-   "id": "features-mali-obomsawin-automatic-feature",
-   "image": "https://f4.bcbits.com/img/0047962141_150.jpg",
-   "tags": "Features",
-   "title": "Bassist and Composer Mali Obomsawin Builds a Bridge Across Time",
-   "url": "https://daily.bandcamp.com/features/mali-obomsawin-automatic-feature"
-  },
-  {
-   "date": "2026-10-15T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-witchthroat-serpent-demons-left-to-roam-review",
-   "image": "https://f4.bcbits.com/img/0047949720_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Witchthroat Serpent, “Demons Left To Roam”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/witchthroat-serpent-demons-left-to-roam-review"
-  },
-  {
-   "date": "2026-10-14T00:00:00Z",
-   "desc": "",
-   "id": "label-profile-kou-records-label-profile",
-   "image": "https://f4.bcbits.com/img/0047834668_150.jpg",
-   "tags": "Label Profile",
-   "title": "Kou Records Builds Community the Old-School Way",
-   "url": "https://daily.bandcamp.com/label-profile/kou-records-label-profile"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

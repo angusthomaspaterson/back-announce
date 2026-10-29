@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": null,
+   "date": "2026-10-29T07:03:05Z",
+   "desc": "Today we’re listening to Jeremiah Chiu, a Taiwanese-American synthesist and composer from Chicago.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-jeremiah-chiu-interview",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/34491955-7ea2-413c-acae-d8f1c7949a2d_2354x1416.png",
+   "title": "Jeremiah Chiu (Interview)",
+   "url": "https://www.flowstate.fm/p/jeremiah-chiu-interview"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/222246308/ed8734f9ab2605ea9b5b30b4e6a3ad63.mp3",
    "date": "2026-10-28T07:03:10Z",
    "desc": "On today’s episode of Across the Horizon, Bob Holmes of the band SUSS is joined by harpist and composer Mary Lattimore, one of the curators of Across the Horizon Volume 2. They talk about her contributions to the series as well as those of her guests, Nailah Hunter and Meg Baird. Mary also brought along a playlist of music she’s been listening to the Italian village of Tatti, her new part-time home. The playlist includes Yo La Tengo, Windsor for the Derby, Daniel Ogren, and more.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!uT6Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f8dd62-5ae0-431a-a11c-d6dfaee10a28_768x576.png",
    "title": "Shinichi Atobe",
    "url": "https://www.flowstate.fm/p/shinichi-atobe-4ba"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-01T07:03:02Z",
-   "desc": "Today we have a guest recommendation from Ryan Mandelbaum, a writer and occasional DJ, whose newsletter ghosttropics is a valuable source of thoughtful curation and honest reflections on the world of experimental sound.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-tkb-guest-rec-from-ryan-mandelbaum",
-   "image": "https://substackcdn.com/image/fetch/$s_!pCYz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1d3d11d-8ddf-45ec-97a7-8d85156280c6_1200x1200.jpeg",
-   "title": "TKB (Guest rec from Ryan Mandelbaum)",
-   "url": "https://www.flowstate.fm/p/tkb-guest-rec-from-ryan-mandelbaum"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

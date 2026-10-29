@@ -3,6 +3,16 @@
  "id": "selador-sessions",
  "items": [
   {
+   "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-390-dave-seamans-radio-therapy.mp3",
+   "date": "2026-10-29T00:00:00Z",
+   "desc": "Keeping you in the tuneage to which you've become accustomed since forever, Dave's back with another delivery of top notch dance floor business, Radio Therapy style. Crank it up! Tracklist.. 1. Monkey Safari & Super Flu ‘Confused’ [Good Vibes From Paradise] 2. Cioz ‘It Goes Again’ [Raamo] 3. Goom Gum ‘Body Crush’ [Siamese] 4. Alaa Jazaeri ‘House Of Love’ (Marc Lenz) [Narratives] 5. Fauxplay & Ranj Kaler ‘Free To Ride’ [Forensic] 6. Gai Barone ‘Banhof’ [Vapour] 7. Matthew Sona ‘Prismatik’[All That Is] 8. Hardt Antoine ‘Reign’ [TGTHER] 9. SOMMERS & REALLMS ‘Illuminate’ (Franky Wah) [SHÈN] 10. D…",
+   "duration": "1:00:11",
+   "id": "https:--app.syndicast.co.uk-site-show-selador-sessions-selador-sessions-390",
+   "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-390.jpeg/35a54d3c48841b1605a79f5c001c7a8d.png",
+   "title": "Selador Sessions 390 | Dave Seaman's Radio Therapy",
+   "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-390"
+  },
+  {
    "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-389-kevin-di-serna-1.mp3",
    "date": "2026-10-21T00:00:00Z",
    "desc": "Kevin Di Serna makes his Selador Sessions debut, and with his recent Selador activity, its much overdue! His remix of Infusion Legacy (with Devlant) was a cracker, his set for us in Barcelona was epic, and this week he joins us in Amsterdam for Selador x Sudbeat! Welcome to the family Kevin! Enjoy The mIx! Tracklist : 01 - Traumprinz - Unknown (Kevin Di Serna Intro Mix) 02 - ID - ID 03 - Applescal - Turned (Kevin Di Serna ‘Recuerda’ Edit) 04 - Christian Engh - Flimmer (Original Mix) 05 - Juani Quartuccio - Last Station (Club Mix) 06 - Hernan Cattaneo & Kevin Di Serna - Isla Paraiso (Original …",
@@ -241,19 +251,9 @@
    "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-366-lexer.jpeg/afe9d61e8d11f262c96169cd2f96ce2c.png",
    "title": "Selador Sessions 366 | Lexer",
    "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-366-lexer"
-  },
-  {
-   "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-365-dave-seamans-radio-therapy-1.mp3",
-   "date": "2026-05-07T00:00:00Z",
-   "desc": "Bravely negotiating the precarious terrain that is today's Electronic Music jungle just so you don't have to, let Dave be your guide through another rip-roaring Radio Therapy adventure. All aboard! Tracklist… 1. Rudy Julius, Blanka Mazimela & Frank Weidemann feat. Xolisiwe ‘Clarke’ [Bridges For Music] 2. Chambord ‘Stay High’ [Kitsuné] 3. Super Flu & Dennis Louvra ‘Can’t Escape’ [Didschn] 4. D-Nox & Beckers and Lexer ‘Conquista’ [Selador] 5. Hardt Antoine ‘Raw’ [Innervisions] 6. Yamil & Martin Herrs ‘Enta Houa’ (Mehill) [Renaissance] 7. Danjo (ITA) ‘Believe In Me’ [Katchuli] 8. Argia ‘Barbara …",
-   "duration": "1:00:37",
-   "id": "https:--app.syndicast.co.uk-site-show-selador-sessions-selador-sessions-365-dave-seaman-s-radio-therapy",
-   "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-365-dave-seamans-radio-therapy.jpeg/55cc4e9acb83a60f310806a30e55a264.png",
-   "title": "Selador Sessions 365 | Dave Seaman's Radio Therapy",
-   "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-365-dave-seaman-s-radio-therapy"
   }
  ],
  "kind": "rss",
  "name": "Selador Sessions (Dave Seaman & Steve Parry)",
- "updatedAt": "2026-10-22T00:01:40Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

@@ -3,6 +3,14 @@
  "id": "rinse-yazmin-lacey",
  "items": [
   {
+   "date": "2026-10-29T10:00:00Z",
+   "desc": "",
+   "id": "yazmin-lacey-29-10-2026-1000",
+   "image": "https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1200&h=630&fp=0.4659%2C0.2473",
+   "title": "Yazmin Lacey: Morning Matters, 29 Oct 2026",
+   "url": "https://www.rinse.fm/episodes/yazmin-lacey-29-10-2026-1000"
+  },
+  {
    "date": "2026-10-22T09:00:00Z",
    "desc": "",
    "id": "yazmin-lacey-22-10-2026-1000",
@@ -193,17 +201,9 @@
    "image": "https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1200&h=630&fp=0.4659%2C0.2473",
    "title": "Yazmin Lacey: Morning Matters, 4 Sep 2025",
    "url": "https://www.rinse.fm/episodes/yazmin-lacey-04-09-2025-0900"
-  },
-  {
-   "date": "2025-08-28T08:00:00Z",
-   "desc": "",
-   "id": "yazmin-lacey-28-08-2025-0900",
-   "image": "https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1200&h=630&fp=0.4659%2C0.2473",
-   "title": "Yazmin Lacey: Morning Matters, 28 Aug 2025",
-   "url": "https://www.rinse.fm/episodes/yazmin-lacey-28-08-2025-0900"
   }
  ],
  "kind": "rinse",
  "name": "Yazmin Lacey: Morning Matters",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-29T15:41:59Z",
+   "desc": "Frightful and unearthly music recommendations for your Halloween",
+   "duration": null,
+   "id": "6ae36318a4165600014bd02b",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/10/Copy-of-Five-Songs-Template-1_1--1-.png",
+   "title": "The Five Spookiest Songs We Can Think Of",
+   "url": "https://www.hearingthings.co/the-five-spookiest-songs-we-can-think-of/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-27T17:10:35Z",
    "desc": "Plus Madchester acid-house by way of subterranean rock",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Album-Covers-43--8-.png",
    "title": "Did Someone Say \"Supergroups\"?",
    "url": "https://www.hearingthings.co/did-someone-say-supergroups/"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-27T15:42:20Z",
-   "desc": "Plus synth music that will make you want to go rodent mode",
-   "duration": null,
-   "id": "6a90435e61adb40001003878",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/08/Copy-of-Five-Songs-Template-11--18-.png",
-   "title": "A Fiddlin’ Funk Fantasy Called “Froggy”",
-   "url": "https://www.hearingthings.co/a-fiddlin-funk-fantasy-called-froggy/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

@@ -3,6 +3,16 @@
  "id": "nts-moxie",
  "items": [
   {
+   "date": "2026-10-28T15:00:00Z",
+   "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
+   "id": "moxie-28th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0fe6029b-7d71-4e5b-a9d3-b19d66f91689_1793145600.jpeg",
+   "location": "London",
+   "tags": "House, Tech House",
+   "title": "Moxie W/ Michelle & Demi Riquísimo",
+   "url": "https://www.nts.live/shows/moxie/episodes/moxie-28th-october-2026"
+  },
+  {
    "date": "2026-10-14T14:00:00Z",
    "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
    "id": "moxie-14th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Deep House, House",
    "title": "Moxie - 15 Year Anniversary Show",
    "url": "https://www.nts.live/shows/moxie/episodes/moxie-13th-may-2026"
-  },
-  {
-   "date": "2026-04-29T14:00:00Z",
-   "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
-   "id": "moxie-29th-april-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/8989622c-b18a-4130-aca4-af52ad3d9f41_1777420800.jpeg",
-   "location": "London",
-   "tags": "Deep House, House",
-   "title": "Moxie W/ Ariane V (Nervous Records feature)",
-   "url": "https://www.nts.live/shows/moxie/episodes/moxie-29th-april-2026"
   }
  ],
  "kind": "nts",
  "name": "Moxie",
- "updatedAt": "2026-10-15T23:42:13Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }

@@ -3,6 +3,26 @@
  "id": "butter-sessions",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2427333822-buttersessions-tangerine-language-of-sound.mp3",
+   "date": "2026-10-30T00:00:00Z",
+   "desc": "Tangerine arrives on Butter Sessions with Language of Sound, the second offering from the Melbourne / Naarm-based artist Clementine Girard-Foley. Four forward-thinking tracks that nod to techno, electro, IDM and bass music, with a playful, slightly rude and quietly optimistic mood that Tangerine pulls off with ease. credits Written and produced by Clementine Girard-Foley. Mixed by Borgqueen at Syntonix. Mastered by Corey Kikos. Artwork and design by Maryos Syawish.",
+   "duration": "00:03:56",
+   "id": "tag:soundcloud-2010:tracks-2427333822",
+   "image": "https://i1.sndcdn.com/artworks-9t1HeSDrAqB5MFjz-pEvqwQ-t3000x3000.jpg",
+   "title": "Tangerine - Language of Sound",
+   "url": "https://soundcloud.com/buttersessions/tangerine-language-of-sound"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2427351192-buttersessions-bsrmix-174-kamome.mp3",
+   "date": "2026-10-29T00:06:07Z",
+   "desc": "Welcoming Kamome to the BSRMIX! The Tokyo-raised DJ and Vinyl Youth member spent some time in Melbourne / Naarm, where he quickly found his place in the local music scene. His eclectic selections made their way into DJ booths and onto dancefloors across town, leaving a lasting impression since his return to Japan. We're very happy to share this recording from his set at Tomoya's secret space at Strawberry Fields 2025. P.S. There are a few moments of silence in the recording, a little reminder of the unpredictable nature of these bush parties (the sound system shut down!)",
+   "duration": "01:38:53",
+   "id": "tag:soundcloud-2010:tracks-2427351192",
+   "image": "https://i1.sndcdn.com/artworks-5DLz6tZC3iUD4v0Z-WfMv0Q-t3000x3000.jpg",
+   "title": "BSRMIX #174 - Kamome",
+   "url": "https://soundcloud.com/buttersessions/bsrmix-174-kamome"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2414466783-buttersessions-bsrmix-173-mosam-howieson.mp3",
    "date": "2026-10-12T04:40:12Z",
    "desc": "Celebrating his recent release with Sleep D on Butter Sessions, the elusive Mosam Howieson returns for his third BSRMIX, a 4 hour serving of pure techno power. Sink in and gear up for his live set at the Syphon Filter launch party this Saturday, October 17. (DM us for ticket access)",
@@ -231,29 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-orqs6VEh9bmPdAiI-Er9ynw-t3000x3000.jpg",
    "title": "BSRMIX #160 - Harold",
    "url": "https://soundcloud.com/buttersessions/bsrmix-160-harold"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2110614180-buttersessions-bsrmix-159-mayurashka.mp3",
-   "date": "2025-06-10T07:35:51Z",
-   "desc": "The BSRMIX presses on with a new session by our dear friend, Tokyo-based DJ and producer @Mayurashka. Hot off the announcement of a new release on Rhythm Section, we're buzzing to share this mix of dubbed-out house and bubbly tones with you.",
-   "duration": "01:02:13",
-   "id": "tag:soundcloud-2010:tracks-2110614180",
-   "image": "https://i1.sndcdn.com/artworks-zYpb5yGyuTUsrk3b-Cqs58g-t3000x3000.png",
-   "title": "BSRMIX #159 - Mayurashka",
-   "url": "https://soundcloud.com/buttersessions/bsrmix-159-mayurashka"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2094738675-buttersessions-kate-miller-sprint-snippets.mp3",
-   "date": "2025-05-23T00:00:00Z",
-   "desc": "Kate's debut EP 'Sprint' celebrates and cements a genre-fluid ethos with four tracks where texture and atmosphere take precedence over convention. The EP’s opener ‘Harpan’ is a bold ambient statement, brimming with otherworldly, bell-like piano riffs, humming pads, long, gliding sweeps and sparse percussion. Written in the stillness of winter, ‘Harpan’ captures the quiet beauty of solitude and anonymity amid movement. The title track ‘Sprint’ shifts gears. A synth-surge launches the track before a slow release into breakdowns, trading the opener’s introspection for unbridled motion. ‘Hoover’ …",
-   "duration": "00:09:04",
-   "id": "tag:soundcloud-2010:tracks-2094738675",
-   "image": "https://i1.sndcdn.com/artworks-sEuxRfktu7E6PoD3-xSiAhg-t3000x3000.png",
-   "title": "Kate Miller - Sprint (BSD07)",
-   "url": "https://soundcloud.com/buttersessions/kate-miller-sprint-snippets"
   }
  ],
  "kind": "rss",
  "name": "Butter Sessions (BSRMIX)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-29T23:19:37Z"
 }
