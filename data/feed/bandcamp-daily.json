@@ -3,10 +3,37 @@
  "id": "bandcamp-daily",
  "items": [
   {
+   "date": "2026-10-30T00:00:00Z",
+   "desc": "A veteran of Filipino indie music on Manila's music scene, it's \"greatest underrated export.\"",
+   "id": "scene-report-manila-philippines-underground-scene-report",
+   "image": "https://f4.bcbits.com/img/0048271725_180",
+   "tags": "Scene Report",
+   "title": "Diego Mapa’s Guide to the Manila Underground",
+   "url": "https://daily.bandcamp.com/scene-report/manila-philippines-underground-scene-report"
+  },
+  {
+   "date": "2026-10-30T00:00:00Z",
+   "desc": "",
+   "id": "essential-releases-essential-releases-october-30-2026",
+   "image": "https://f4.bcbits.com/img/0048230463_150.jpg",
+   "tags": "Essential Releases",
+   "title": "Essential Releases, October 30, 2026",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-30-2026"
+  },
+  {
+   "date": "2026-10-30T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-or-music-for-empty-stadiums-review",
+   "image": "https://f4.bcbits.com/img/0048230912_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "OR, “Music for Empty Stadiums”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/or-music-for-empty-stadiums-review"
+  },
+  {
    "date": "2026-10-29T00:00:00Z",
-   "desc": "The region is exploding with the collision of sounds new and old.",
+   "desc": "",
    "id": "scene-report-uruguay-indie-scene-report",
-   "image": "https://f4.bcbits.com/img/0048230363_180",
+   "image": "https://f4.bcbits.com/img/0048230363_150.jpg",
    "tags": "Scene Report",
    "title": "In Uruguay, A Treasure Trove of Indie Rock, Synth-Pop, and Candombe",
    "url": "https://daily.bandcamp.com/scene-report/uruguay-indie-scene-report"
@@ -41,15 +68,6 @@
   {
    "date": "2026-10-28T00:00:00Z",
    "desc": "",
-   "id": "label-profile-rer-megacorp-label-profile",
-   "image": "https://f4.bcbits.com/img/0048193890_150.jpg",
-   "tags": "Label Profile",
-   "title": "Rock and Opposition: A Guide to ReR Megacorp",
-   "url": "https://daily.bandcamp.com/label-profile/rer-megacorp-label-profile"
-  },
-  {
-   "date": "2026-10-28T00:00:00Z",
-   "desc": "",
    "id": "big-ups-wishy-big-ups",
    "image": "https://f4.bcbits.com/img/0048137274_150.jpg",
    "tags": "Big Ups",
@@ -64,6 +82,15 @@
    "tags": "Album Of The Day",
    "title": "Josh Johnson, “Animative”",
    "url": "https://daily.bandcamp.com/album-of-the-day/josh-johnson-animative-review"
+  },
+  {
+   "date": "2026-10-28T00:00:00Z",
+   "desc": "",
+   "id": "label-profile-rer-megacorp-label-profile",
+   "image": "https://f4.bcbits.com/img/0048193890_150.jpg",
+   "tags": "Label Profile",
+   "title": "Rock and Opposition: A Guide to ReR Megacorp",
+   "url": "https://daily.bandcamp.com/label-profile/rer-megacorp-label-profile"
   },
   {
    "date": "2026-10-27T00:00:00Z",
@@ -199,36 +226,9 @@
    "tags": "Big Ups",
    "title": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
    "url": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups"
-  },
-  {
-   "date": "2026-10-19T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-various-artists-beirut-city-pop-review",
-   "image": "https://f4.bcbits.com/img/0047945722_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Various Artists, “Beirut City Pop”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-beirut-city-pop-review"
-  },
-  {
-   "date": "2026-10-16T00:00:00Z",
-   "desc": "",
-   "id": "best-latin-the-best-latin-music-on-bandcamp-september-2026",
-   "image": "https://f4.bcbits.com/img/0047838098_150.jpg",
-   "tags": "Best Latin",
-   "title": "The Best Latin Music on Bandcamp, September 2026",
-   "url": "https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-september-2026"
-  },
-  {
-   "date": "2026-10-16T00:00:00Z",
-   "desc": "",
-   "id": "essential-releases-essential-releases-october-16-2026",
-   "image": "https://f4.bcbits.com/img/0047986678_150.jpg",
-   "tags": "Essential Releases",
-   "title": "Essential Releases, October 16, 2026",
-   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-16-2026"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-29T23:19:37Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

@@ -3,6 +3,16 @@
  "id": "nts-in-focus",
  "items": [
   {
+   "date": "2026-10-30T11:00:00Z",
+   "desc": "A veteran of the globally connected avant-garde music scene, Hiromi Moritani aka Phew has been active since the late 1970s, when she was the vocalist of Osaka post-punk band Aunt Sally. Going solo in the 1980s, she began a prolific and highly collaborative career, working with Can, Jim O'Rourke, Boredoms, The Raincoats, Ryuichi Sakamoto and numerous other fellow travellers in boundary pushing music. Stylistically, her music features prominent improvisation, and aligns with post-punk, industrial, minimalism, noise and - in later years - electronic compositions. Compiled and mixed by Brian Cone…",
+   "id": "in-focus-phew-30th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/457ed65b-2ea5-486e-9f75-a00dad2803de_1793232000.jpeg",
+   "location": "Osaka",
+   "tags": "Post Punk, Experimental, Industrial , Art Rock",
+   "title": "In Focus: Phew",
+   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-phew-30th-october-2026"
+  },
+  {
    "date": "2026-10-23T10:00:00Z",
    "desc": "60 minutes of essential pop music from Robyn, the Swedish singer, songwriter and producer whose formula for melancholic dance pop took over the charts. Selected and mixed by Lil C.",
    "id": "in-focus-robyn-23rd-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Free Jazz",
    "title": "In Focus: Cecil Taylor",
    "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-cecil-taylor-14th-august-2026"
-  },
-  {
-   "date": "2026-08-07T10:00:00Z",
-   "desc": "Two hours of music from one of the greatest songwriters of the 1990s, Elliott Smith. Already a local hero in Portland with his \"next big thing\" band Heatmiser, Smith left the band to persue a solo career, taking the bleeding heart spirit of grunge into softer, more delicate territory. His talent for finger-picking guitar melodies and intimate, confessional lyrics proved to be a potent combination that earned him an army of obsessive fans. Selected and mixed by Smilegoth.",
-   "id": "in-focus-elliott-smith-7th-august-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/a691b7c6-7349-4e72-8b41-2ae89d563cb5_1785888000.jpeg",
-   "location": "Portland",
-   "tags": "Indie Rock",
-   "title": "In Focus: Elliott Smith",
-   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-elliott-smith-7th-august-2026"
   }
  ],
  "kind": "nts",
  "name": "NTS In Focus",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

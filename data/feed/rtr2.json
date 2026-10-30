@@ -3,6 +3,16 @@
  "id": "rtr2",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2421687312-rtrfm-92-1-it-will-go-forever-ep-1-elena-dakota.mp3",
+   "date": "2026-10-30T07:34:23Z",
+   "desc": "This is a love letter from Elena Dakota to some of her favourite songs, singers and music-makers from Adelaide, wider Australia and America. Very folk heavy but some punk and rock and other surprises too.",
+   "duration": "01:58:08",
+   "id": "tag:soundcloud-2010:tracks-2421687312",
+   "image": "https://i1.sndcdn.com/artworks-Ao0tWtNmyw3JY4FX-zdIesA-t3000x3000.jpg",
+   "title": "It Will Go Forever Ep. 1 w/ Elena Dakota",
+   "url": "https://soundcloud.com/rtrfm-92-1/it-will-go-forever-ep-1-elena-dakota"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2418017967-rtrfm-92-1-miris-gala-ep-3-manheim-fowles.mp3",
    "date": "2026-10-24T02:00:09Z",
    "desc": "On Episode 3 of Miris Gala we have Manheim Fowles gracing the soundwaves, a selector known for his eclectic and hard hitting track selections tethering tension and release. Having been introduced to EDM by his siblings at a young age and to Latin sounds introduced by now dear-friends passing through town, Manheim has solidified his position within Boorloo's creative scene as a true tastemaker. Pulling across genres spanning the globe, prepare yourself for a fast-paced and club ready mix of EDM, Latin-core, UK, deconstructed club sounds, and much more.",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-fxjoB59zgGbCSTJ0-ETaOiw-t3000x3000.jpg",
    "title": "Vertigo Ep. 1 w/ Connor",
    "url": "https://soundcloud.com/rtrfm-92-1/vertigo-ep-1-w-connor"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2324609267-rtrfm-92-1-8theclub-mixology-ep-3-duel1st.mp3",
-   "date": "2026-06-01T02:00:36Z",
-   "desc": "The third dish served by 8theclub mixology has been prepared by guest Duel1st. In this episode Graham and P33don are joined by Duel1st for some chats about music, events and more. Kyle Van Dyk known by his alias Duel1st is a Boorloo-based up and coming DJ. Being highly influenced by the local underground and alternative music scene, Duel1st has cultivated a wide interest in electronic and dance music through local acts and artists. Duel1st has shown a steady foray into alternative and experimental sounds and aims to further develop a unique listening experience.",
-   "duration": "01:02:35",
-   "id": "tag:soundcloud-2010:tracks-2324609267",
-   "image": "https://i1.sndcdn.com/artworks-XYQzQnFDdjqCmxZw-rseDvw-t3000x3000.jpg",
-   "title": "8theclub Mixology Ep. 3 w/ Duel1st",
-   "url": "https://soundcloud.com/rtrfm-92-1/8theclub-mixology-ep-3-duel1st"
   }
  ],
  "kind": "rss",
  "name": "RTRFM / RTR2 mixes",
- "updatedAt": "2026-10-24T21:38:39Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

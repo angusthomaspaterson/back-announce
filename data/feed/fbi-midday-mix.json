@@ -3,6 +3,16 @@
  "id": "fbi-midday-mix",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2429057145-fbiradiosydney-the-midday-mix-seohbin-tommy.mp3",
+   "date": "2026-10-30T04:00:58Z",
+   "desc": "This week's live mix comes to you via a b2b between Tommy Boutros and seohbin. Fanatical community radio DJs, Tommy Boutros and seohbin explore their respective diasporas through a lens of intuitive, percussive rhythms and melodies. Blending the classical, the traditional of East Asian and Arabic sonic landscapes, the two converge in this b2b to give you an hour of introspective bliss. You can find seohbin on Instagram @s.e.o.h.b.i.n [https://www.instagram.com/s.e.o.h.b.i.n/] or on Soundcloud at You can find Tommy Boutros on fbi.radio shows 'Mosaic' [Monday 11:00 PM - 1:00 AM] and 'Marmalade …",
+   "duration": "00:59:42",
+   "id": "tag:soundcloud-2010:tracks-2429057145",
+   "image": "https://i1.sndcdn.com/avatars-ySVmBlBeTzet4sKQ-aeSOFw-original.jpg",
+   "title": "The Midday Mix: seohbin & Tommy Boutros",
+   "url": "https://soundcloud.com/fbiradiosydney/the-midday-mix-seohbin-tommy"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2390951988-fbiradiosydney-the-midday-mix-jazz-doof.mp3",
    "date": "2026-08-29T19:32:52Z",
    "desc": "Yes yes people, this week's pre-record comes from Nali, ahead of the annual Jazz Doof. Jazz Doof is a community event supporting music, dance, community, connection, environmental awareness and love. We come together to support each other’s creative outlets and fall into a cosmic journey of transcendental rhythm and harmony while connecting back to our hearts and the beautiful planet we live on. Dive deep into the depths of the Budawang range where the river runs wild carrying energy and wisdom from centuries while shaking your booty and sharing stories with fellow brothers and sisters. https…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-YLxzdVd6yq6hs4zh-fgRNvw-t3000x3000.png",
    "title": "The Midday Mix - Autogenesis",
    "url": "https://soundcloud.com/fbiradiosydney/themiddaymix-autogenesis"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2282827640-fbiradiosydney-the-midday-mix-shuko.mp3",
-   "date": "2026-03-13T03:40:10Z",
-   "desc": "The Midday Mix - Shuko by fbi.radio",
-   "duration": "00:59:55",
-   "id": "tag:soundcloud-2010:tracks-2282827640",
-   "image": "https://i1.sndcdn.com/artworks-zVawCmbwGAiWmS83-cYKSQQ-t3000x3000.jpg",
-   "title": "The Midday Mix - Shuko",
-   "url": "https://soundcloud.com/fbiradiosydney/the-midday-mix-shuko"
   }
  ],
  "kind": "rss",
  "name": "FBi Radio: The Midday Mix",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

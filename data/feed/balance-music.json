@@ -3,6 +3,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2429000325-balance-series-balance-selections-390-gabriel-dresden.mp3",
+   "date": "2026-10-30T00:00:00Z",
+   "desc": "For over 25 years, Gabriel & Dresden have occupied a distinctive space in electronic music, combining new wave melancholia with the euphoric energy of progressive house and trance. Formed in 2001, the American duo of Josh Gabriel and Dave Dresden established themselves through emotionally charged productions and remixes, earning 21 Billboard Dance Club Play number ones along the way. Their catalogue includes enduring tracks such as As The Rush Comes, released under their Motorcycle alias, Tracking Treasure Down and Dangerous Power. More recently, their creative partnership with vocalist Sub T…",
+   "duration": "01:31:11",
+   "id": "tag:soundcloud-2010:tracks-2429000325",
+   "image": "https://i1.sndcdn.com/artworks-zoPaviWulnDSODIK-4K9MFQ-t3000x3000.jpg",
+   "title": "Balance Selections 390: Gabriel & Dresden",
+   "url": "https://soundcloud.com/balance-series/balance-selections-390-gabriel-dresden"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2426604744-balance-series-cristina-tosio-live-from-balance-croatia.mp3",
    "date": "2026-10-27T00:00:00Z",
    "desc": "Recording of Cristina Tosio's set from Balance Croatia 2026. @cristinatosio ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ SIGN UP FOR FINAL RELEASE TIX: laylo.com/balancecroatia/L1zh7A _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-5QEz5Q1dHlQAflz4-WADROQ-t3000x3000.jpg",
    "title": "Khen: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/khen-live-from-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2395833858-balance-series-jeremy-olander-balance-croatia-2026.mp3",
-   "date": "2026-09-07T00:00:00Z",
-   "desc": "Recording of Jeremy Olander's set from Balance Croatia 2026. @jeremyolander __________________________________________________ SIGN UP FOR BALANCE CROATIA 2027: laylo.com/balancecroatia/sgbvg ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "02:00:04",
-   "id": "tag:soundcloud-2010:tracks-2395833858",
-   "image": "https://i1.sndcdn.com/artworks-D854eEzdX0L3AyAI-UUFNSg-t3000x3000.jpg",
-   "title": "Jeremy Olander: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/jeremy-olander-balance-croatia-2026"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

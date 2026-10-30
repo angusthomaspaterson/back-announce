@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-29T00:00:00Z",
+   "desc": "The 15 October edition of The Wire 's weekly radio show featured music by John Carpenter & Alan Howarth, Allen Ravenstine, Carmen Villain, Leila Bordreuil and more Tracklist John Carpenter & Alan Howarth “Halloween Montage” From Halloween III: Season Of The Witch OST ( Death Waltz ) Earthslayer “Surrounded By Nine Angelic Choirs” From Häxan ( Bandcamp ) The Golden Corpse Of Midas “A Beat Named Revenge” From Beatz For Existing Out Of Spite ( Bandcamp ) Allen Ravenstine “The World According To Nouns” From On The Mountain ( ORG ) Ak'chamel, The Givers of Illness “Blu-Ray Séances And Weather App …",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-on-air-joseph-stannard-presents-adventures-in-sound-and-music-79902",
+   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/10/30/aism_30_october.jpg",
+   "title": "Joseph Stannard presents  Adventures In Sound And Music",
+   "url": "https://www.thewire.co.uk/audio/on-air/joseph-stannard-presents-adventures-in-sound-and-music-79902"
+  },
+  {
+   "audio": null,
    "date": "2026-10-27T00:00:00Z",
    "desc": "To accompany her feature in The Wire 513, Jo Hutton compiles an annotated mix of tracks that make use of prepared piano The piano can be prepared by placing objects such as pins, screws, bolts, crocodile clips, ball bearings, kitchen utensils, magnets or tin foil on or between the strings. Its history dates back at least to the 1930s, when choreographer Syvilla Fort commissioned a dance piece from John Cage, who proposed his Bacchanale for percussion ensemble. But the performance theatre was too small to fit the intended ensemble, so Cage changed the sound of the house piano by adding screws …",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/615/480/2026/09/15/ladybird_for_web.jpg",
    "title": "Jon Brion: Sad Waltzes, Empathic Embrace and Anxious Fits",
    "url": "https://www.thewire.co.uk/in-writing/columns/jon-brion-sad-waltzes-empathic-embrace-and-anxious-fits"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-11T00:00:00Z",
-   "desc": "The 10 September edition of The Wire ’s weekly radio show on Resonance FM and Resonance Extra featured music by Julian Cope, Albert Bouchard, Black Mountain Transmitter, Zodiac Youth and more Tracklist A Tomb Full Of Stars “The Battered Angels Of Our Nature” From 1: When The Reflection Passes ( Varia ) Albert Bouchard featuring Blue Coupe “Four Winds Bar” From Imaginos IV: The Rhyme Of The Starclock ( Deko ) Acid Casuals “Long Time No See” From Omni ( Circuitry Electronic ) Black Mountain Transmitter “The Meal At The Fern Diner” From The Cadabra Tapes ( Bandcamp ) Reigns “Population 206” From…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-on-air-joseph-stannard-presents-adventures-in-sound-and-music-79475",
-   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/11/wire_aism_10_sept.jpg",
-   "title": "Joseph Stannard presents  Adventures In Sound And Music",
-   "url": "https://www.thewire.co.uk/audio/on-air/joseph-stannard-presents-adventures-in-sound-and-music-79475"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

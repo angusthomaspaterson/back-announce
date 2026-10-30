@@ -3,6 +3,16 @@
  "id": "tape-notes",
  "items": [
   {
+   "audio": "https://traffic.megaphone.fm/TNL1262276162.mp3",
+   "date": "2026-10-30T00:00:00Z",
+   "desc": "WATCH THE FULL VIDEO EPISODE @ Patreon.com/tapenotes  In this special bonus episode, John joins Kevin Parker a.k.a. Tame Impala to dive into one more track that didn’t make it into the original conversation. Just in time for Halloween, Kevin takes us behind the scenes of ‘Dracula’, unpacking the multitude of demos, experiments and early ideas that gradually came together to form the track we know today. Along the way, he reveals how some of the most unexpected elements made their way into the song, including a random percussion instrument that happened to be lying around on his desk and would…",
+   "duration": "1483",
+   "id": "d067d600-d163-11f1-99dc-5359f3c79c46",
+   "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "TN: Tame Impala (Bonus Episode)",
+   "url": "https://traffic.megaphone.fm/TNL1262276162.mp3"
+  },
+  {
    "audio": "https://traffic.megaphone.fm/TNL8863906564.mp3",
    "date": "2026-10-20T23:00:00Z",
    "desc": "WATCH THE FULL VIDEO EPISODE @ ⁠Patreon.com/tapenotes⁠  John is joined by Troye Sivan and producer Tyde Levi to talk about how they wrote, recorded and produced the album ‘She’s the Best’. Troye Sivan is an Australian singer-songwriter and producer. He signed with EMI aged just 18 after building a global following as a teen YouTuber. Troye has since released three acclaimed albums blending electropop and dance: ‘Blue Neighbourhood’ (2015), ‘Bloom’ (2018) and the Grammy-nominated ‘Something to Give Each Other’ (2023). His fourth album, ‘She’s the Best’, arrived in October 2026, produced by his…",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "Reissue | TN:46 Rina Sawayama & Clarence Clarity",
    "url": "https://traffic.megaphone.fm/TNL7417457846.mp3?updated=1779102173"
-  },
-  {
-   "audio": "https://traffic.megaphone.fm/TNL9600628984.mp3?updated=1779100507",
-   "date": "2025-12-24T00:00:00Z",
-   "desc": "In this special Xmas episode, John is joined by Adam Buxton and producer Joe Mount to discuss how they wrote, recorded and produced the album Buckle Up. Adam Buxton is a podcaster, actor, comedian and musician, best known for his long-running, award-winning Adam Buxton Podcast. Since launching in 2015, he’s become one of the UK’s most popular podcasters, with guests ranging from Paul McCartney to Tom Hanks. He’s also appeared in films including Hot Fuzz and Stardust, and published two acclaimed memoirs. With his popular jingles at the heart of segments on his podcast and mid-2000s radio show,…",
-   "duration": "6410",
-   "id": "3f134256-db74-11f0-990a-37b225a7ef7a",
-   "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "TN:171 Adam Buxton & Joe Mount",
-   "url": "https://traffic.megaphone.fm/TNL9600628984.mp3?updated=1779100507"
   }
  ],
  "kind": "rss",
  "name": "Tape Notes",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

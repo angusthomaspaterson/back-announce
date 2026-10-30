@@ -3,6 +3,16 @@
  "id": "popcast",
  "items": [
   {
+   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/6151a796-b464-4fae-96c8-5adf90d56582/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=6151a796-b464-4fae-96c8-5adf90d56582&feed=TzbxCT1l",
+   "date": "2026-10-30T09:00:00Z",
+   "desc": "Ahead of his new album “Fresh,” out Nov. 6, the Atlanta rap superstar Lil Baby sat down with Joe and Jon to chat about the project — including his recent Pharrell-produced single “Dead Fresh” — and how it marks a new chapter for him as he expands from his regular circle of local producers and dips into the broader pop universe. He also spoke about relationships with Lil Durk, Drake and Gunna; how fame and success can shrink your world; the plights of his generational peers; and learning to work outside of his comfort zone. Popcast is The New York Times’s weekly pop culture chat show, with int…",
+   "duration": "01:17:11",
+   "id": "98b4b8f0-c41a-47bb-853a-4a1c859610e9",
+   "image": "https://image.simplecastcdn.com/images/b570f4e2-2ec9-4f50-90e8-55519f0f2550/39feb56f-b088-4108-af12-f7ff6b413e62/3000x3000/cropped_1791476779087.jpg?aid=rss_feed",
+   "title": "Lil Baby on Mental Health Struggles, Young Thug, Lil Durk & ‘Dead Fresh’",
+   "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+  },
+  {
    "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/92fb2909-84bd-4034-8d6c-0d70815fd2ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=92fb2909-84bd-4034-8d6c-0d70815fd2ef&feed=TzbxCT1l",
    "date": "2026-10-23T09:00:00Z",
    "desc": "Billy Corgan, the frontman and creative engine of the 90s alt-rockers the Smashing Pumpkins, sat down with Joe and Jon for a frisky conversation about his personal and professional rebirth — including his passion for the emotional intensity of guitar rock; the passion with which his critics dismiss him; and his passion for rubbing his recent re-ascendance in their faces. Subscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher . For more podc…",
@@ -11,19 +21,9 @@
    "image": "https://image.simplecastcdn.com/images/b570f4e2-2ec9-4f50-90e8-55519f0f2550/39feb56f-b088-4108-af12-f7ff6b413e62/3000x3000/cropped_1791476779087.jpg?aid=rss_feed",
    "title": "Billy Corgan Is Tired of Your ‘Mocking, Bullying, Laughing’",
    "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
-  },
-  {
-   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/c1b55712-42b0-4eb4-a099-229262869d6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=c1b55712-42b0-4eb4-a099-229262869d6b&feed=TzbxCT1l",
-   "date": "2026-10-16T09:00:00Z",
-   "desc": "The Swedish pop star Zara Larsson sat down with Joe and Jon to discuss her stratospheric year of taking control of her career and stepping into a new era of bonafide pop superstardom. She spoke about her surge in cultural relevance — from the TikTok resurrection of her 2015 hit “Lush Life” to her remix version of “Stateside” by PinkPantheress being skated to by gold medalist Alysa Liu at the 2026 Winter Olympics —  as well as taking joyful music seriously, learning to embrace self-promotion and whether any amount of money is worth trading for being politically outspoken. Popcast is The New Yo…",
-   "duration": "01:07:20",
-   "id": "91d80cc1-20c6-4e99-895d-f63526be0ffc",
-   "image": "https://image.simplecastcdn.com/images/b570f4e2-2ec9-4f50-90e8-55519f0f2550/39feb56f-b088-4108-af12-f7ff6b413e62/3000x3000/cropped_1791476779087.jpg?aid=rss_feed",
-   "title": "Why Zara Larsson Refuses to Censor Herself – or Dim Her Joy",
-   "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
   }
  ],
  "kind": "rss",
  "name": "Popcast (New York Times)",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-30T19:01:46Z",
+   "desc": "The Cuban trumpet legend Arturo Sandoval speaks about his new album, being mentored by Dizzy Gillespie, and jazz saving his life.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-the-jazz-defector",
+   "image": "https://substackcdn.com/image/fetch/$s_!Ep6C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ced51af-ac7b-439c-bd21-e4f6d25ecbf5_1200x1200.png",
+   "title": "The Jazz Defector",
+   "url": "https://www.powmag.net/p/the-jazz-defector"
+  },
+  {
+   "audio": null,
    "date": "2026-10-29T17:34:06Z",
    "desc": "From German Shepherds to Cocker Spaniels, we survey Chad Hugo and Pharrell’s catalog.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!tyCU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7af7abe1-59a9-460c-9359-226d576bbe99_1200x1200.png",
    "title": "The Ten Most Underrated Rap Albums of 2006",
    "url": "https://www.powmag.net/p/the-ten-most-underrated-rap-albums-2006"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-07T16:27:05Z",
-   "desc": "Arielle Gordon traces the one-time superstar’s drift toward respectability.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-miley-cyrus-grows-up-bass-persuades-review",
-   "image": "https://substackcdn.com/image/fetch/$s_!Vv_h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5138422f-52a3-4e3b-bace-657830b15b6e_1200x1200.png",
-   "title": "Miley Cyrus and the Target Industrial Complex",
-   "url": "https://www.powmag.net/p/miley-cyrus-grows-up-bass-persuades-review"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-29T23:19:37Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

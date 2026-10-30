@@ -3,6 +3,16 @@
  "id": "soulection",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2429477649-soulection-show-751.mp3",
+   "date": "2026-10-30T20:27:45Z",
+   "desc": "Joe digs into early future beats, new cuts, and classics. → Stay connected with us: https://soulection.com →Tracklist: https://radio.soulection.com → Discover: @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
+   "duration": "02:05:38",
+   "id": "tag:soundcloud-2010:tracks-2429477649",
+   "image": "https://i1.sndcdn.com/artworks-MeWDWmjiGAuqZYTy-Wfodaw-t3000x3000.jpg",
+   "title": "Show #751 | Future Beats, R&B, Reggae, & UK Bass",
+   "url": "https://soundcloud.com/soulection/show-751"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2424395295-soulection-show-750-r-b-classics-soul.mp3",
    "date": "2026-10-23T07:01:28Z",
    "desc": "Joe connects R&B, Soul, and House. → Stay connected with us: https://soulection.com →Tracklist: https://radio.soulection.com → Discover: @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-y7MTu9dgOn3HuBoX-4P3Nyw-t3000x3000.png",
    "title": "Show #727 (Sango Takeover) | (R&B, Unreleased, & Rap)",
    "url": "https://soundcloud.com/soulection/show-727-sango-takeover"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2308325387-soulection-show-726.mp3",
-   "date": "2026-04-24T07:00:53Z",
-   "desc": "Joe continues the journey through deep sounds. → Stay connected with us: https://soulection.com →Tracklist: https://radio.soulection.com → Discover: @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
-   "duration": "02:03:45",
-   "id": "tag:soundcloud-2010:tracks-2308325387",
-   "image": "https://i1.sndcdn.com/artworks-DhyTGPdbPte5yUFS-oam1uA-t3000x3000.png",
-   "title": "Show #726 | Alté, R&B, Dancehall, & Afro House",
-   "url": "https://soundcloud.com/soulection/show-726"
   }
  ],
  "kind": "rss",
  "name": "Soulection Radio",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

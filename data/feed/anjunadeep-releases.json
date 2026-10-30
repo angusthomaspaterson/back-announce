@@ -13,6 +13,16 @@
    "url": "https://anjunadeep.com/products/632654-brainsugar-10-year-anniversary-edition"
   },
   {
+   "date": "2026-10-29T00:00:00Z",
+   "desc": "EP on Anjunachill, out 29 Oct 2026.",
+   "id": "625966-footnotes",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/625966.jpg",
+   "out": "2026-10-29T00:00:00Z",
+   "tags": "EP · Anjunachill",
+   "title": "obli – Footnotes",
+   "url": "https://anjunadeep.com/products/625966-footnotes"
+  },
+  {
    "date": "2026-10-28T00:00:00Z",
    "desc": "Single on Anjunadeep Explorations, out 28 Oct 2026.",
    "id": "625968-tarabi-round-round",
@@ -185,22 +195,22 @@
   {
    "date": "2026-10-01T00:00:00Z",
    "desc": "Single on Anjunachill, out 1 Oct 2026.",
-   "id": "616515-solitude-vr-sofandi-rework",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616515.jpg",
-   "out": "2026-10-01T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "Tontario feat. Lake Jons – Solitude (Vár Sofandi Rework)",
-   "url": "https://anjunadeep.com/products/616515-solitude-vr-sofandi-rework"
-  },
-  {
-   "date": "2026-10-01T00:00:00Z",
-   "desc": "Single on Anjunachill, out 1 Oct 2026.",
    "id": "616517-sky-falls-down-downtempo-version",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
    "out": "2026-10-01T00:00:00Z",
    "tags": "Single · Anjunachill",
    "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
    "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
+  },
+  {
+   "date": "2026-10-01T00:00:00Z",
+   "desc": "Single on Anjunachill, out 1 Oct 2026.",
+   "id": "616515-solitude-vr-sofandi-rework",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616515.jpg",
+   "out": "2026-10-01T00:00:00Z",
+   "tags": "Single · Anjunachill",
+   "title": "Tontario feat. Lake Jons – Solitude (Vár Sofandi Rework)",
+   "url": "https://anjunadeep.com/products/616515-solitude-vr-sofandi-rework"
   },
   {
    "date": "2026-09-30T00:00:00Z",
@@ -241,19 +251,9 @@
    "tags": "EP · Anjunachill",
    "title": "Noé Solange – Found Our Way EP",
    "url": "https://anjunadeep.com/products/615157-found-our-way-ep"
-  },
-  {
-   "date": "2026-09-23T00:00:00Z",
-   "desc": "Single on Anjunadeep Explorations, out 23 Sep 2026.",
-   "id": "615155-mila-kira",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/615155.jpg",
-   "out": "2026-09-23T00:00:00Z",
-   "tags": "Single · Anjunadeep Explorations",
-   "title": "Tomas Novoa – Mila / Kira",
-   "url": "https://anjunadeep.com/products/615155-mila-kira"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-10-29T23:19:37Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

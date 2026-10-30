@@ -3,6 +3,16 @@
  "id": "indiecast",
  "items": [
   {
+   "audio": "https://rss.art19.com/episodes/c0e538fb-4471-4ba2-9f08-2981cc8d96ff.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+   "date": "2026-10-30T08:00:00Z",
+   "desc": "Steven and Ian open with a quick Sportscast about the Milwaukee Brewers winning the World Series (0:43) before talking about Turnstile playing a huge free benefit concert in Washington D.C. (6:20). Then they talk about Rolling Stone's recent list of the 200 greatest rock songs of the 21st century (10:56). After a quick Fantasy Albums Draft update (32:49), they discuss new albums out today by DIIV, Clinic and 2nd Grade (35:57) before a deeper conversation about Queens Of The Stone Age and their new album \"Perfecth\" (44:00). In Recommendation Corner, they discuss albums by Loidis and Rainbow Bo…",
+   "duration": "01:01:28",
+   "id": "gid:--art19-episode-locator-V0-H1ikmRDJpPzNYpSXO37vY45xqYGVLpxTTp4q73EStlc",
+   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
+   "title": "A New Queens Of The Stone Age Album + The Greatest Rock Songs Of The 21st Century",
+   "url": "https://rss.art19.com/episodes/c0e538fb-4471-4ba2-9f08-2981cc8d96ff.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
    "audio": "https://rss.art19.com/episodes/d00d874b-1dfb-41cf-9ffe-b12cda540ebd.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
    "date": "2026-10-23T08:00:00Z",
    "desc": "In this episode Steven and Ian talk about new albums by The Olivia Tremor Control and Worldpeace DMT, and also sports and Jay-Z at the Super Bowl. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
@@ -241,19 +251,9 @@
    "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
    "title": "Car Seat Headrest Re-Records \"Teens Of Denial,\" Ed O'Brien Goes Solo (Again), and We Assess a \"Greatest Punk Albums\" List",
    "url": "https://rss.art19.com/episodes/dc983890-8519-4722-a544-c2d4cbce6bfa.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "audio": "https://rss.art19.com/episodes/4a910a83-2e8f-4e42-843c-8328893c58cd.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-   "date": "2026-05-15T10:00:00Z",
-   "desc": "This week's conversation begins with some recent discourse about whether rock is dead and whether it was killed by the CIA or liberal poptimists (2:34). The guys also briefly discuss the backlash against a \"New York Times\" video where the pop critics defended their recent greatest living American songwriters list (17:27). Then they look at a relatively light week for new releases, including albums by Kevin Morby, Rostam and Spencer Krug (22:41). After they pivot to news hinting at an apparent new Phoebe Bridgers album and her prospects for a comeback (29:03). They also discuss the recent Top …",
-   "duration": "00:54:58",
-   "id": "gid:--art19-episode-locator-V0-hPqi1i0mkS2DPgd6nyoHQ5Zce3t20tAJo7391N4R2GQ",
-   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
-   "title": "Phoebe Bridgers Returns! Tame Impala Has A Real Pop Hit! This Is Lorelei Signs Big!",
-   "url": "https://rss.art19.com/episodes/4a910a83-2e8f-4e42-843c-8328893c58cd.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "kind": "rss",
  "name": "Indiecast",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

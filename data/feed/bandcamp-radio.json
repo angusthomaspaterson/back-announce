@@ -3,6 +3,15 @@
  "id": "bandcamp-radio",
  "items": [
   {
+   "date": "2026-10-30T00:00:00Z",
+   "desc": "After a season of quiet growth, Topaz Jones returns with NEW LIFE, a four-song EP built on rebirth. Plus, Arcade turns ten, with a Bandcamp-only bonus track, “Ten Toes.\" Hosted by Stoney Creation . Featuring Topaz Jones .",
+   "id": "radio-the-hip-hop-show-1016",
+   "image": "https://f4.bcbits.com/img/0048139016_170.jpg",
+   "tags": "The Hip Hop Show",
+   "title": "The Hip Hop Show: New Life",
+   "url": "https://bandcamp.com/radio/the-hip-hop-show/1016"
+  },
+  {
    "date": "2026-10-28T00:00:00Z",
    "desc": "Erica Dunn of Tropical Fuck Storm talks about the Australian band's new live album. Hosted by Mariana Timony . Featuring Tropical Fuckstorm .",
    "id": "radio-the-indie-show-1014",
@@ -172,18 +181,9 @@
    "tags": "The Indie Show",
    "title": "The Indie Show: Frankie Rose",
    "url": "https://bandcamp.com/radio/the-indie-show/978"
-  },
-  {
-   "date": "2026-09-14T00:00:00Z",
-   "desc": "For Gilla's final show, UK soul group Children Of Zeus stop by to talk about their new record 'As The World Burns'. Hosted by Gilla . Featuring Children Of Zeus .",
-   "id": "radio-bandcamp-selects-999",
-   "image": "https://f4.bcbits.com/img/0047250448_170.jpg",
-   "tags": "Bandcamp Selects",
-   "title": "Bandcamp Selects: Children Of Zeus",
-   "url": "https://bandcamp.com/radio/bandcamp-selects/999"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Radio",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

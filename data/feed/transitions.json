@@ -3,6 +3,16 @@
  "id": "transitions",
  "items": [
   {
+   "date": "2026-10-30T16:00:36Z",
+   "desc": "",
+   "duration": "7177",
+   "id": "-johndigweed-transitions-with-john-digweed-moshic-",
+   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/9/d/8/2/83ba-416d-4af9-b22a-2a58d510751d",
+   "tags": "Electronica, Progressive house, Melodic house, Underground",
+   "title": "Transitions with John Digweed (Live in Amsterdam) and Moshic",
+   "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-moshic/"
+  },
+  {
    "date": "2026-10-23T15:00:14Z",
    "desc": "",
    "duration": "7093",
@@ -241,19 +251,9 @@
    "tags": "Melodic techno, Progressive house, Deep Techno",
    "title": "Transitions with John Digweed and DAVI",
    "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-davi-_/"
-  },
-  {
-   "date": "2026-06-12T15:00:34Z",
-   "desc": "",
-   "duration": "7722",
-   "id": "-johndigweed-transitions-with-john-digweed-and-spooky-",
-   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/0/7/4/e/a2bd-74b7-4414-a9d1-772b551556c5",
-   "tags": "Electronica, Club, Techno, Deep Techno",
-   "title": "Transitions with John Digweed and Spooky",
-   "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-spooky/"
   }
  ],
  "kind": "mixcloud",
  "name": "John Digweed: Transitions",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }

@@ -3,6 +3,16 @@
  "id": "nts-upsammy",
  "items": [
   {
+   "date": "2026-10-29T13:00:00Z",
+   "desc": "Rising Dutch producer + DJ Upsammy brings her ear for crystalline melody and intricate rhythm to the NTS airwaves for adventurous and narrative mixes once a month.",
+   "id": "upsammy-29th-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/fa11fc3e-23ba-4065-84f7-f0792ff161de_1793145600.jpeg",
+   "location": "Amsterdam",
+   "tags": "Electronica, Ambient",
+   "title": "Pacing The Platform w/ upsammy",
+   "url": "https://www.nts.live/shows/upsammy/episodes/upsammy-29th-october-2026"
+  },
+  {
    "date": "2026-09-03T12:00:00Z",
    "desc": "Rising Dutch producer + DJ Upsammy brings her ear for crystalline melody and intricate rhythm to the NTS airwaves for adventurous and narrative mixes once a month.",
    "id": "upsammy-3rd-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Drum & Bass, Electronica, Ambient",
    "title": "Pacing The Platform w/ upsammy",
    "url": "https://www.nts.live/shows/upsammy/episodes/upsammy-31st-october-2024"
-  },
-  {
-   "date": "2024-09-05T12:00:00Z",
-   "desc": "Rising Dutch producer + DJ Upsammy brings her ear for crystalline melody and intricate rhythm to the NTS airwaves for adventurous and narrative mixes once a month.",
-   "id": "upsammy-5th-september-2024",
-   "image": "https://media.ntslive.co.uk/resize/400x400/bf57c80a-0454-42b0-932a-0ea8010881e7_1725408000.jpeg",
-   "location": "Amsterdam",
-   "tags": "Electronica, Ambient, Ambient Techno",
-   "title": "Pacing The Platform w/ upsammy",
-   "url": "https://www.nts.live/shows/upsammy/episodes/upsammy-5th-september-2024"
   }
  ],
  "kind": "nts",
  "name": "Pacing The Platform w/ upsammy",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-10-30T23:00:03Z"
 }
