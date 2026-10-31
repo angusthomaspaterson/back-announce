@@ -1,6 +1,31 @@
 {
  "items": [
   {
+   "d": "2026-10-31T09:15:29Z",
+   "g": "Bass",
+   "s": "FBi Sunset (club and bass)",
+   "sid": "fbi-sunset",
+   "sp": "FBi Sunset (club and bass) Sunset with Dot Zip - 2026-10-31",
+   "t": "Sunset with Dot Zip - 2026-10-31",
+   "u": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-31"
+  },
+  {
+   "d": "2026-10-31T08:00:00Z",
+   "g": "NTS",
+   "s": "Sounds Of The Dawn",
+   "sid": "nts-soundsofthedawn",
+   "t": "Sounds Of The Dawn - David and Steve Gordon Special",
+   "u": "https://www.nts.live/shows/soundsofthedawn/episodes/soundsofthedawn-31st-october-2026"
+  },
+  {
+   "d": "2026-10-31T06:09:40Z",
+   "g": "Progressive",
+   "s": "Gai Barone: Patterns",
+   "sid": "gai-barone-patterns",
+   "t": "Patterns 724",
+   "u": "https://soundcloud.com/gai-barone/patterns-724"
+  },
+  {
    "d": "2026-10-30T21:11:23Z",
    "g": "Progressive",
    "s": "Above & Beyond: Group Therapy",
@@ -140,34 +165,10 @@
    "sid": "fbi-midday-mix",
    "t": "The Midday Mix: seohbin & Tommy Boutros",
    "u": "https://soundcloud.com/fbiradiosydney/the-midday-mix-seohbin-tommy"
-  },
-  {
-   "d": "2026-10-30T00:47:35Z",
-   "g": "Progressive",
-   "s": "21C Progressive House",
-   "sid": "21c-progressive",
-   "t": "Mark Dempster | Rituals 20",
-   "u": "https://soundcloud.com/21cprogressivehouse/mark-dempster-rituals-20"
-  },
-  {
-   "d": "2026-10-30T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Diego Mapa’s Guide to the Manila Underground",
-   "u": "https://daily.bandcamp.com/scene-report/manila-philippines-underground-scene-report"
-  },
-  {
-   "d": "2026-10-30T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Essential Releases, October 30, 2026",
-   "u": "https://daily.bandcamp.com/essential-releases/essential-releases-october-30-2026"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 308,
+ "newCount": 313,
  "paused": 19,
  "releases": [
   {
@@ -228,5 +229,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-31T07:04:42Z"
+ "updated": "2026-10-31T22:30:49Z"
 }

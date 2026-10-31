@@ -4,21 +4,21 @@
  "items": [
   {
    "date": "2026-10-30T00:00:00Z",
-   "desc": "A veteran of Filipino indie music on Manila's music scene, it's \"greatest underrated export.\"",
-   "id": "scene-report-manila-philippines-underground-scene-report",
-   "image": "https://f4.bcbits.com/img/0048271725_180",
-   "tags": "Scene Report",
-   "title": "Diego Mapa’s Guide to the Manila Underground",
-   "url": "https://daily.bandcamp.com/scene-report/manila-philippines-underground-scene-report"
+   "desc": "Experimental electronic, alternative rock, and more.",
+   "id": "essential-releases-essential-releases-october-30-2026",
+   "image": "https://f4.bcbits.com/img/0048230463_180",
+   "tags": "Essential Releases",
+   "title": "Essential Releases, October 30, 2026",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-30-2026"
   },
   {
    "date": "2026-10-30T00:00:00Z",
    "desc": "",
-   "id": "essential-releases-essential-releases-october-30-2026",
-   "image": "https://f4.bcbits.com/img/0048230463_150.jpg",
-   "tags": "Essential Releases",
-   "title": "Essential Releases, October 30, 2026",
-   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-30-2026"
+   "id": "scene-report-manila-philippines-underground-scene-report",
+   "image": "https://f4.bcbits.com/img/0048271725_150.jpg",
+   "tags": "Scene Report",
+   "title": "Diego Mapa’s Guide to the Manila Underground",
+   "url": "https://daily.bandcamp.com/scene-report/manila-philippines-underground-scene-report"
   },
   {
    "date": "2026-10-30T00:00:00Z",
@@ -41,20 +41,20 @@
   {
    "date": "2026-10-29T00:00:00Z",
    "desc": "",
-   "id": "features-andy-shauf-the-party-interview",
-   "image": "https://f4.bcbits.com/img/0048194067_150.jpg",
-   "tags": "Features",
-   "title": "Andy Shauf on Ten Years of “The Party”",
-   "url": "https://daily.bandcamp.com/features/andy-shauf-the-party-interview"
-  },
-  {
-   "date": "2026-10-29T00:00:00Z",
-   "desc": "",
    "id": "features-teodros-makonnen-with-his-organ-feature",
    "image": "https://f4.bcbits.com/img/0048194356_150.jpg",
    "tags": "Features",
    "title": "Teodros Makonnen’s Synth-Playing Altered Ethio-Jazz’s Destiny",
    "url": "https://daily.bandcamp.com/features/teodros-makonnen-with-his-organ-feature"
+  },
+  {
+   "date": "2026-10-29T00:00:00Z",
+   "desc": "",
+   "id": "features-andy-shauf-the-party-interview",
+   "image": "https://f4.bcbits.com/img/0048194067_150.jpg",
+   "tags": "Features",
+   "title": "Andy Shauf on Ten Years of “The Party”",
+   "url": "https://daily.bandcamp.com/features/andy-shauf-the-party-interview"
   },
   {
    "date": "2026-10-29T00:00:00Z",
@@ -230,5 +230,5 @@
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-10-31T22:30:49Z"
 }

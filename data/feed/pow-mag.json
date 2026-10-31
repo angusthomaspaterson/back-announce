@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-31T17:15:02Z",
+   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Donald Morrison reviews new work from AZ Chike, Milc, and AI Michael Jackson impersonator, and more.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-funny-how-like-a-clown-i-amuse-you",
+   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/OZA5stRFBGw",
+   "title": "Funny How? Like a Clown? I Amuse You?",
+   "url": "https://www.powmag.net/p/funny-how-like-a-clown-i-amuse-you"
+  },
+  {
+   "audio": null,
    "date": "2026-10-30T19:01:46Z",
    "desc": "The Cuban trumpet legend Arturo Sandoval speaks about his new album, being mentored by Dizzy Gillespie, and jazz saving his life.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!gwLX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0255f6bf-ea0f-4dcd-94d0-678087463bb3_1200x1200.png",
    "title": "After Further Review: De La Soul’s Stakes Is High",
    "url": "https://www.powmag.net/p/de-la-soul-stakes-is-high"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-08T17:35:39Z",
-   "desc": "Twenty years after the fact, Andrew Friedman goes deep on ten LPs he insists deserve a second look.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-the-ten-most-underrated-rap-albums-2006",
-   "image": "https://substackcdn.com/image/fetch/$s_!tyCU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7af7abe1-59a9-460c-9359-226d576bbe99_1200x1200.png",
-   "title": "The Ten Most Underrated Rap Albums of 2006",
-   "url": "https://www.powmag.net/p/the-ten-most-underrated-rap-albums-2006"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-10-31T22:30:49Z"
 }

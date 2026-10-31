@@ -3,6 +3,16 @@
  "id": "nts-soundsofthedawn",
  "items": [
   {
+   "date": "2026-10-31T08:00:00Z",
+   "desc": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
+   "id": "soundsofthedawn-31st-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/bca5b236-c08d-4575-b824-82cc47c93d4f_1793232000.png",
+   "location": "Detroit",
+   "tags": "Field Recordings, Ambient, New Age",
+   "title": "Sounds Of The Dawn - David and Steve Gordon Special",
+   "url": "https://www.nts.live/shows/soundsofthedawn/episodes/soundsofthedawn-31st-october-2026"
+  },
+  {
    "date": "2026-10-03T07:00:00Z",
    "desc": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
    "id": "soundsofthedawn-3rd-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Kosmische, Ambient, New Age",
    "title": "Sounds Of The Dawn",
    "url": "https://www.nts.live/shows/soundsofthedawn/episodes/soundsofthedawn-29th-november-2025"
-  },
-  {
-   "date": "2025-10-04T07:00:00Z",
-   "desc": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
-   "id": "soundsofthedawn-4th-october-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/f5fd9769-4f8d-4d60-81a5-d0accefcd1dc_1759363200.png",
-   "location": "Detroit",
-   "tags": "Ambient Jazz, Ambient, New Age",
-   "title": "Sounds Of The Dawn",
-   "url": "https://www.nts.live/shows/soundsofthedawn/episodes/soundsofthedawn-4th-october-2025"
   }
  ],
  "kind": "nts",
  "name": "Sounds Of The Dawn",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-10-31T22:30:49Z"
 }
