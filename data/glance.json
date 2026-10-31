@@ -17,6 +17,15 @@
    "u": "https://soundcloud.com/soulection/show-751"
   },
   {
+   "d": "2026-10-30T16:10:17Z",
+   "g": "Podcasts",
+   "s": "No Tags",
+   "sid": "no-tags",
+   "sp": "No Tags 75: Octo Octa and Eris Drew are better living through alchemy",
+   "t": "75: Octo Octa and Eris Drew are better living through alchemy",
+   "u": "https://notagspodcast.substack.com/p/75-octo-octa-and-eris-drew-are-better"
+  },
+  {
    "d": "2026-10-30T16:00:36Z",
    "g": "Progressive",
    "s": "John Digweed: Transitions",
@@ -155,18 +164,10 @@
    "sid": "bandcamp-daily",
    "t": "Essential Releases, October 30, 2026",
    "u": "https://daily.bandcamp.com/essential-releases/essential-releases-october-30-2026"
-  },
-  {
-   "d": "2026-10-30T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "OR, “Music for Empty Stadiums”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/or-music-for-empty-stadiums-review"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 307,
+ "newCount": 308,
  "paused": 19,
  "releases": [
   {
@@ -227,5 +228,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-10-30T23:00:03Z"
+ "updated": "2026-10-31T07:04:42Z"
 }

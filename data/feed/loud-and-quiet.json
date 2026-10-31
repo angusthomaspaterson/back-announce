@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-30T08:02:20Z",
+   "desc": "Don’t sleep on Sarah Meth, a spiritual Ed O’Brien live in London, First & Best with deBasement, Charli XCX goes method for new role",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-a26",
+   "image": "https://substackcdn.com/image/fetch/$s_!2hZw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fd60287-4fa1-4e54-8315-b766310f0b4f_2122x1368.png",
+   "title": "L&Q Weekly",
+   "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-a26"
+  },
+  {
+   "audio": null,
    "date": "2026-10-29T11:45:50Z",
    "desc": "Writing from a place of empathy, the Irish band’s folk punk appeals to a broad church, combining indie rock with an ability to summon jagged songs from the miasma of foggy, harmonium-led drones",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/dab77880-ef3d-476c-9880-2b8512a89a4e_800x578.png",
    "title": "L&Q Weekly",
    "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-72a"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-16T16:03:09Z",
-   "desc": "In all our disappointment at this year’s shortlist, dominated by major label releases, we forgot to check if the Mercury Prize has any history of being for the indies",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-what-made-us-think-that-the-mercury-prize-is-an-award-for-independent-artists",
-   "image": "https://substackcdn.com/image/fetch/$s_!EQWM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde933cc4-eaa1-4130-971a-33d3007631fc_2767x1772.jpeg",
-   "title": "What made us think that the Mercury Prize is an award for independent artists?",
-   "url": "https://loudandquiet.substack.com/p/what-made-us-think-that-the-mercury-prize-is-an-award-for-independent-artists"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-10-29T23:05:17Z"
+ "updatedAt": "2026-10-31T07:04:42Z"
 }

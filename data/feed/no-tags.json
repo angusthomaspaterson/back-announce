@@ -1,7 +1,17 @@
 {
- "home": "https://notags.substack.com/",
+ "home": "https://notagspodcast.substack.com/",
  "id": "no-tags",
  "items": [
+  {
+   "audio": "https://api.substack.com/feed/podcast/222777778/369bb65a9bd2dc879971de435846115c.mp3",
+   "date": "2026-10-30T16:10:17Z",
+   "desc": "'The big beat defenders are incoming'. An ominous text message to receive moments before meeting Octo Octa and Eris Drew in the flesh, but a sure sign that this would be a very special No Tags conversation. As DJs and life partners, Eris and Maya are capable of making old music sound new, making new music sound timeless, and making even the most questionable retro styles sound cutting edge. Watching them in full flow, scratching and live-sampling over each other’s blends, mixing with all four hands, it’s obvious that these two are a B2B proposition like no other. Although they've been DJing t…",
+   "duration": "8135",
+   "id": "substack:post:222777778",
+   "image": "https://substackcdn.com/feed/podcast/2037294/post/222777778/713ec799f110369314bfaae06e301113.jpg",
+   "title": "75: Octo Octa and Eris Drew are better living through alchemy",
+   "url": "https://notagspodcast.substack.com/p/75-octo-octa-and-eris-drew-are-better"
+  },
   {
    "audio": "https://api.substack.com/feed/podcast/220217166/bd2cf13696539ecc417edd13eb093592.mp3",
    "date": "2026-10-14T15:56:50Z",
@@ -241,19 +251,9 @@
    "image": "https://substackcdn.com/feed/podcast/2037294/post/170795762/33c29397e3d4683a58075b6e494c14ff.jpg",
    "title": "51: The best music of 2025 so far",
    "url": "https://notagspodcast.substack.com/p/51-the-best-music-of-2025-so-far"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/168743255/363a97bb542a13bc4fadc35b9e0ba402.mp3",
-   "date": "2025-07-23T11:10:37Z",
-   "desc": "Who’s on your Mount Rushmore of pop? That’s the question of the week. After welcoming Jeff Weiss back to London for a live show about his tremendous novel-slash-memoir, Waiting For Britney Spears , we got to thinking about our own pop album percies. 2007’s Blackout is certainly up there – ‘a lost weekend of one-more-gram indulgence’ that ‘embodied the hedonistic sleaze of the late Bush years,’ as Jeff sums it up in the book. Waiting For Britney… is a celebrity biography like no other – a gonzo account of Jeff’s time as a rookie in the world of Hollywood gossip rags, back when celebrities stil…",
-   "duration": "5609",
-   "id": "substack:post:168743255",
-   "image": "https://substackcdn.com/feed/podcast/2037294/post/168743255/3f6164037037333f8cc5adc68ff73563.jpg",
-   "title": "50: Jeff Weiss is still waiting for Britney Spears",
-   "url": "https://notagspodcast.substack.com/p/50-jeff-weiss-britney-spears"
   }
  ],
  "kind": "rss",
  "name": "No Tags",
- "updatedAt": "2026-10-16T00:13:58Z"
+ "updatedAt": "2026-10-31T07:04:42Z"
 }

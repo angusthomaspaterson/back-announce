@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-10-30T18:59:02Z",
+   "desc": "This week’s events include Oren Ambarchi x Kou Records / Luke Stewart: Two Nights at SEEDS / Halcyon Veil presents SCRAAATCH / Stephen Bernstein x The Stone / Nu Jazz / plus 28 more",
+   "duration": null,
+   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-103020261142026-dada",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/022e341b-d7aa-49d6-9841-7e356c8ea85e_1500x1013.jpeg",
+   "title": "Bklyn Sounds 10/30/2026—11/4/2026 + Dada Art (Late October Edition)",
+   "url": "https://dadastrain.substack.com/p/bklyn-sounds-103020261142026-dada"
+  },
+  {
+   "audio": null,
    "date": "2026-10-23T19:25:16Z",
    "desc": "This week’s events include Dada Strain @ L&SD / Holland Andrews & yuniya edi kwon / Mark Giuliana / Meshell Ndegeocello + Samora Pinderhughes / more eaze / Love Injection / + 28 more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/5147cfe6-6457-47a4-8fa6-25638f23e14c_1500x1013.jpeg",
    "title": "Bklyn Sounds 6/18/2026—6/23/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-61820266232026"
-  },
-  {
-   "audio": null,
-   "date": "2026-06-10T20:39:00Z",
-   "desc": "This week's events include Glenn Branca’s “Symphony No. 13 (Hallucination City) for 100 Guitars” / Klein: live + \"Rack It\" / \"Saxophone Colossus\" / JWords / Kalia Vandever / Latinoise N4 / + much more",
-   "duration": null,
-   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-61020266162026",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/0bf68015-d13c-4fca-aae3-04806b37da14_1500x1013.jpeg",
-   "title": "Bklyn Sounds 6/10/2026—6/16/2026",
-   "url": "https://dadastrain.substack.com/p/bklyn-sounds-61020266162026"
   }
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-10-29T01:06:02Z"
+ "updatedAt": "2026-10-31T07:04:42Z"
 }

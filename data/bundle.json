@@ -3347,6 +3347,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-30T18:59:02Z",
+     "desc": "This week’s events include Oren Ambarchi x Kou Records / Luke Stewart: Two Nights at SEEDS / Halcyon Veil presents SCRAAATCH / Stephen Bernstein x The Stone / Nu Jazz / plus 28 more",
+     "duration": null,
+     "id": "https:--dadastrain.substack.com-p-bklyn-sounds-103020261142026-dada",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/022e341b-d7aa-49d6-9841-7e356c8ea85e_1500x1013.jpeg",
+     "title": "Bklyn Sounds 10/30/2026—11/4/2026 + Dada Art (Late October Edition)",
+     "url": "https://dadastrain.substack.com/p/bklyn-sounds-103020261142026-dada"
+    },
+    {
+     "audio": null,
      "date": "2026-10-23T19:25:16Z",
      "desc": "This week’s events include Dada Strain @ L&SD / Holland Andrews & yuniya edi kwon / Mark Giuliana / Meshell Ndegeocello + Samora Pinderhughes / more eaze / Love Injection / + 28 more",
      "duration": null,
@@ -3534,21 +3544,11 @@
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5147cfe6-6457-47a4-8fa6-25638f23e14c_1500x1013.jpeg",
      "title": "Bklyn Sounds 6/18/2026—6/23/2026",
      "url": "https://dadastrain.substack.com/p/bklyn-sounds-61820266232026"
-    },
-    {
-     "audio": null,
-     "date": "2026-06-10T20:39:00Z",
-     "desc": "This week's events include Glenn Branca’s “Symphony No. 13 (Hallucination City) for 100 Guitars” / Klein: live + \"Rack It\" / \"Saxophone Colossus\" / JWords / Kalia Vandever / Latinoise N4 / + much more",
-     "duration": null,
-     "id": "https:--dadastrain.substack.com-p-bklyn-sounds-61020266162026",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/0bf68015-d13c-4fca-aae3-04806b37da14_1500x1013.jpeg",
-     "title": "Bklyn Sounds 6/10/2026—6/16/2026",
-     "url": "https://dadastrain.substack.com/p/bklyn-sounds-61020266162026"
     }
    ],
    "kind": "rss",
    "name": "Dada Strain (Piotr Orlov)",
-   "updatedAt": "2026-10-29T01:06:02Z"
+   "updatedAt": "2026-10-31T07:04:42Z"
   },
   "days-like-nights": {
    "home": "https://soundcloud.com/eelkekleijn",
@@ -9703,6 +9703,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-30T08:02:20Z",
+     "desc": "Don’t sleep on Sarah Meth, a spiritual Ed O’Brien live in London, First & Best with deBasement, Charli XCX goes method for new role",
+     "duration": null,
+     "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-a26",
+     "image": "https://substackcdn.com/image/fetch/$s_!2hZw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fd60287-4fa1-4e54-8315-b766310f0b4f_2122x1368.png",
+     "title": "L&Q Weekly",
+     "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-a26"
+    },
+    {
+     "audio": null,
      "date": "2026-10-29T11:45:50Z",
      "desc": "Writing from a place of empathy, the Irish band’s folk punk appeals to a broad church, combining indie rock with an ability to summon jagged songs from the miasma of foggy, harmonium-led drones",
      "duration": null,
@@ -9890,21 +9900,11 @@
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/dab77880-ef3d-476c-9880-2b8512a89a4e_800x578.png",
      "title": "L&Q Weekly",
      "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-72a"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-16T16:03:09Z",
-     "desc": "In all our disappointment at this year’s shortlist, dominated by major label releases, we forgot to check if the Mercury Prize has any history of being for the indies",
-     "duration": null,
-     "id": "https:--loudandquiet.substack.com-p-what-made-us-think-that-the-mercury-prize-is-an-award-for-independent-artists",
-     "image": "https://substackcdn.com/image/fetch/$s_!EQWM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde933cc4-eaa1-4130-971a-33d3007631fc_2767x1772.jpeg",
-     "title": "What made us think that the Mercury Prize is an award for independent artists?",
-     "url": "https://loudandquiet.substack.com/p/what-made-us-think-that-the-mercury-prize-is-an-award-for-independent-artists"
     }
    ],
    "kind": "rss",
    "name": "Loud And Quiet",
-   "updatedAt": "2026-10-29T23:05:17Z"
+   "updatedAt": "2026-10-31T07:04:42Z"
   },
   "love-is-the-message": {
    "home": "https://loveisthemessagepod.co.uk/",
@@ -11251,9 +11251,19 @@
    "updatedAt": "2026-10-26T23:09:50Z"
   },
   "no-tags": {
-   "home": "https://notags.substack.com/",
+   "home": "https://notagspodcast.substack.com/",
    "id": "no-tags",
    "items": [
+    {
+     "audio": "https://api.substack.com/feed/podcast/222777778/369bb65a9bd2dc879971de435846115c.mp3",
+     "date": "2026-10-30T16:10:17Z",
+     "desc": "'The big beat defenders are incoming'. An ominous text message to receive moments before meeting Octo Octa and Eris Drew in the flesh, but a sure sign that this would be a very special No Tags conversation. As DJs and life partners, Eris and Maya are capable of making old music sound new, making new music sound timeless, and making even the most questionable retro styles sound cutting edge. Watching them in full flow, scratching and live-sampling over each other’s blends, mixing with all four hands, it’s obvious that these two are a B2B proposition like no other. Although they've been DJing t…",
+     "duration": "8135",
+     "id": "substack:post:222777778",
+     "image": "https://substackcdn.com/feed/podcast/2037294/post/222777778/713ec799f110369314bfaae06e301113.jpg",
+     "title": "75: Octo Octa and Eris Drew are better living through alchemy",
+     "url": "https://notagspodcast.substack.com/p/75-octo-octa-and-eris-drew-are-better"
+    },
     {
      "audio": "https://api.substack.com/feed/podcast/220217166/bd2cf13696539ecc417edd13eb093592.mp3",
      "date": "2026-10-14T15:56:50Z",
@@ -11493,21 +11503,11 @@
      "image": "https://substackcdn.com/feed/podcast/2037294/post/170795762/33c29397e3d4683a58075b6e494c14ff.jpg",
      "title": "51: The best music of 2025 so far",
      "url": "https://notagspodcast.substack.com/p/51-the-best-music-of-2025-so-far"
-    },
-    {
-     "audio": "https://api.substack.com/feed/podcast/168743255/363a97bb542a13bc4fadc35b9e0ba402.mp3",
-     "date": "2025-07-23T11:10:37Z",
-     "desc": "Who’s on your Mount Rushmore of pop? That’s the question of the week. After welcoming Jeff Weiss back to London for a live show about his tremendous novel-slash-memoir, Waiting For Britney Spears , we got to thinking about our own pop album percies. 2007’s Blackout is certainly up there – ‘a lost weekend of one-more-gram indulgence’ that ‘embodied the hedonistic sleaze of the late Bush years,’ as Jeff sums it up in the book. Waiting For Britney… is a celebrity biography like no other – a gonzo account of Jeff’s time as a rookie in the world of Hollywood gossip rags, back when celebrities stil…",
-     "duration": "5609",
-     "id": "substack:post:168743255",
-     "image": "https://substackcdn.com/feed/podcast/2037294/post/168743255/3f6164037037333f8cc5adc68ff73563.jpg",
-     "title": "50: Jeff Weiss is still waiting for Britney Spears",
-     "url": "https://notagspodcast.substack.com/p/50-jeff-weiss-britney-spears"
     }
    ],
    "kind": "rss",
    "name": "No Tags",
-   "updatedAt": "2026-10-16T00:13:58Z"
+   "updatedAt": "2026-10-31T07:04:42Z"
   },
   "nora-en-pure": {
    "home": "https://soundcloud.com/noraenpure",
@@ -31764,6 +31764,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-10-30T10:03:22Z",
+     "desc": "“Martin & Cliff would’ve been just fine“",
+     "duration": null,
+     "id": "https:--thenewcue.substack.com-p-the-new-cue-638-october-30-queens",
+     "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+     "title": "The New Cue #638 October 30: Queens of the Stone Age, El Michels Affair, Skepta, This Is The Kit, Florence Rose Broomfield, Ex:Re, Nine Perfect Lives, Chvrches, Spanish Horses",
+     "url": "https://thenewcue.substack.com/p/the-new-cue-638-october-30-queens"
+    },
+    {
+     "audio": null,
      "date": "2026-10-26T10:07:08Z",
      "desc": "“I go through a pack of cigarettes a day...”",
      "duration": null,
@@ -31951,21 +31961,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
      "title": "The New Cue #619 August 21: Denzil Curry, Erykah Badu, Getdown Services, The Womack Sisters, Julia Holter, The Cramps, Westside Cowboy, Fontaines D.C., Wishy, Sorry, Biita Houdei",
      "url": "https://thenewcue.substack.com/p/the-new-cue-619-august-21-denzil"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-17T09:02:01Z",
-     "desc": "‘Do you ever play jazz?’",
-     "duration": null,
-     "id": "https:--thenewcue.substack.com-p-the-new-cue-618-august-17-greg-dulli",
-     "image": "https://substackcdn.com/image/fetch/$s_!uLfe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F943b1565-2b02-435f-a017-e37c644efc9e_1448x1086.jpeg",
-     "title": "The New Cue #618 August 17: Greg Dulli",
-     "url": "https://thenewcue.substack.com/p/the-new-cue-618-august-17-greg-dulli"
     }
    ],
    "kind": "rss",
    "name": "The New Cue",
-   "updatedAt": "2026-10-26T21:30:07Z"
+   "updatedAt": "2026-10-31T07:04:42Z"
   },
   "the-wire": {
    "home": "https://www.thewire.co.uk/",
@@ -35150,7 +35150,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-30T23:00:03Z",
+  "lastRun": "2026-10-31T07:04:42Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-30T23:00:03Z",
@@ -35237,9 +35237,9 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 20,
-    "newest": "2026-10-23T19:25:16Z",
+    "newest": "2026-10-30T18:59:02Z",
     "ok": true
    },
    "days-like-nights": {
@@ -35273,7 +35273,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -35291,7 +35291,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 9,
     "newest": "2026-10-29T12:48:15Z",
     "ok": true
@@ -35303,7 +35303,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 20,
     "newest": "2026-10-29T11:03:54Z",
     "ok": true
@@ -35345,7 +35345,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 20,
     "newest": "2026-10-25T15:48:15Z",
     "ok": true
@@ -35405,9 +35405,9 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 20,
-    "newest": "2026-10-29T11:45:50Z",
+    "newest": "2026-10-30T08:02:20Z",
     "ok": true
    },
    "love-is-the-message": {
@@ -35447,9 +35447,9 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 25,
-    "newest": "2026-10-14T15:56:50Z",
+    "newest": "2026-10-30T16:10:17Z",
     "ok": true
    },
    "nora-en-pure": {
@@ -36167,7 +36167,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 20,
     "newest": "2026-10-29T11:03:51Z",
     "ok": true
@@ -36179,9 +36179,9 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 20,
-    "newest": "2026-10-26T10:07:08Z",
+    "newest": "2026-10-30T10:03:22Z",
     "ok": true
    },
    "the-wire": {
@@ -36197,7 +36197,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
@@ -36221,11 +36221,10 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-10-29T23:05:17Z",
+    "at": "2026-10-31T07:04:42Z",
     "count": 6,
-    "error": "HTTPError: HTTP Error 500: Internal Server Error",
     "newest": "2026-10-27T19:00:14Z",
-    "ok": false
+    "ok": true
    }
   }
  }
