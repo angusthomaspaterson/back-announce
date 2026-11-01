@@ -31295,6 +31295,16 @@
    "id": "the-gig",
    "items": [
     {
+     "audio": null,
+     "date": "2026-10-31T19:03:25Z",
+     "desc": "Mazzoli’s ‘Lincoln in the Bardo’ at The Met Opera",
+     "duration": null,
+     "id": "https:--thegig.substack.com-p-history-in-the-haunting",
+     "image": "https://substackcdn.com/image/fetch/$s_!cxBn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb39d99ce-4493-4156-8395-d4d4e6eda8f0_3600x2709.jpeg",
+     "title": "History in the Haunting",
+     "url": "https://thegig.substack.com/p/history-in-the-haunting"
+    },
+    {
      "audio": "https://api.substack.com/feed/podcast/222562033/be6b769c793c332211528bbb78bf9244.mp3",
      "date": "2026-10-29T11:03:51Z",
      "desc": "Watch now (47 mins) | On ‘Songs For Sinners,’ the elite London drummer comes full circle",
@@ -31483,21 +31493,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!3Fap!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f99bd64-c1d8-45fb-b524-334aeb0d2b5c_3600x2415.jpeg",
      "title": "Tony Bennett at 100",
      "url": "https://thegig.substack.com/p/tony-bennett-at-100"
-    },
-    {
-     "audio": "https://api.substack.com/feed/podcast/208387997/8d0e3850feb24ab536bd27e8b18c8edb.mp3",
-     "date": "2026-07-24T22:05:10Z",
-     "desc": "The beat scientist talks inspiration and iteration before his Vanguard debut.",
-     "duration": null,
-     "id": "https:--thegig.substack.com-p-a-conversation-with-makaya-mccraven",
-     "image": "https://substackcdn.com/image/fetch/$s_!EN3C!,w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc72125d-3b6d-4a6c-a12e-875b9f3fbc32_569x569.png",
-     "title": "A Conversation with Makaya McCraven",
-     "url": "https://thegig.substack.com/p/a-conversation-with-makaya-mccraven"
     }
    ],
    "kind": "rss",
    "name": "The Gig (Nate Chinen)",
-   "updatedAt": "2026-10-29T23:05:17Z"
+   "updatedAt": "2026-11-01T03:23:39Z"
   },
   "the-lot-radio": {
    "home": "https://www.thelotradio.com/",
@@ -35150,7 +35150,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-10-31T22:30:49Z",
+  "lastRun": "2026-11-01T03:23:39Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-31T22:30:49Z",
@@ -35237,7 +35237,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 20,
     "newest": "2026-10-30T18:59:02Z",
     "ok": true
@@ -35273,7 +35273,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -35291,7 +35291,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 9,
     "newest": "2026-10-29T12:48:15Z",
     "ok": true
@@ -35303,7 +35303,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 20,
     "newest": "2026-10-29T11:03:54Z",
     "ok": true
@@ -35345,7 +35345,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 20,
     "newest": "2026-10-25T15:48:15Z",
     "ok": true
@@ -35405,7 +35405,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 20,
     "newest": "2026-10-30T08:02:20Z",
     "ok": true
@@ -35447,7 +35447,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -36167,9 +36167,9 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 20,
-    "newest": "2026-10-29T11:03:51Z",
+    "newest": "2026-10-31T19:03:25Z",
     "ok": true
    },
    "the-lot-radio": {
@@ -36179,7 +36179,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 20,
     "newest": "2026-10-30T10:03:22Z",
     "ok": true
@@ -36197,7 +36197,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
@@ -36221,7 +36221,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-10-31T07:04:42Z",
+    "at": "2026-11-01T03:23:39Z",
     "count": 6,
     "newest": "2026-10-27T19:00:14Z",
     "ok": true
