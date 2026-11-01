@@ -1,6 +1,31 @@
 {
  "items": [
   {
+   "d": "2026-11-01T22:00:29Z",
+   "g": "Mixes",
+   "s": "RA Podcast",
+   "sid": "ra-podcast",
+   "t": "RA.1063 Andy Stott",
+   "u": "https://soundcloud.com/resident-advisor/ra-1063-andy-stott"
+  },
+  {
+   "d": "2026-11-01T14:00:14Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Odette on a later-in-life autism diagnosis: ‘It completely revolutionised the way that I exist’",
+   "u": "https://www.theguardian.com/music/ng-interactive/2026/nov/02/odette-on-a-later-in-life-autism-diagnosis-it-completely-revolutionised-the-way-that-i-exist"
+  },
+  {
+   "d": "2026-11-01T06:00:00Z",
+   "g": "Progressive",
+   "s": "Resident by Hernan Cattaneo",
+   "sid": "resident",
+   "sp": "Resident by Hernan Cattaneo Resident / Episode 808 / October 31 2026",
+   "t": "Resident / Episode 808 / October 31 2026",
+   "u": "https://podcast.hernancattaneo.com/e/resident-episode-808-october-31-2026/"
+  },
+  {
    "d": "2026-10-31T09:15:29Z",
    "g": "Bass",
    "s": "FBi Sunset (club and bass)",
@@ -140,35 +165,10 @@
    "sid": "rtr2",
    "t": "It Will Go Forever Ep. 1 w/ Elena Dakota",
    "u": "https://soundcloud.com/rtrfm-92-1/it-will-go-forever-ep-1-elena-dakota"
-  },
-  {
-   "d": "2026-10-30T07:02:56Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Sakura Tsuruta",
-   "u": "https://www.flowstate.fm/p/sakura-tsuruta"
-  },
-  {
-   "d": "2026-10-30T05:00:00Z",
-   "g": "Podcasts",
-   "s": "Sound Opinions",
-   "sid": "sound-opinions",
-   "sp": "Sound Opinions Chuck Berry at 100",
-   "t": "Chuck Berry at 100",
-   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/6a8c65c1-d355-4e29-b891-cb2beab4cefc.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-10-30T04:00:58Z",
-   "g": "Mixes",
-   "s": "FBi Radio: The Midday Mix",
-   "sid": "fbi-midday-mix",
-   "t": "The Midday Mix: seohbin & Tommy Boutros",
-   "u": "https://soundcloud.com/fbiradiosydney/the-midday-mix-seohbin-tommy"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 313,
+ "newCount": 316,
  "paused": 19,
  "releases": [
   {
@@ -229,5 +229,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-11-01T21:30:06Z"
+ "updated": "2026-11-01T22:52:27Z"
 }

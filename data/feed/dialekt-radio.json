@@ -3,6 +3,16 @@
  "id": "dialekt-radio",
  "items": [
   {
+   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/68b2838d-8a5b-4343-8a69-b28097547fa9/group-item/045e9a91-fb47-4467-b6d7-2409a16fea2e/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
+   "date": "2026-11-01T19:00:00Z",
+   "desc": "1. Tim Green - Furnace Creek 00:00:40 2. Paul Prokop - Human Experience (Paul Arcane Remix) 00:07:23 3. Otherwish & Lane 8 - Who We Let Go 00:13:03 4. OLING - Verlune 00:16:09 5. Rodriguez Jr. - Amarillo 00:19:00 6. Sultan + Shepard ft. Delilah - Start Again 00:23:23- DIALEKT TRACK OF THE WEEK 7. Booka Shade - In White Rooms (Hugo Cantarra x sone. Remix) 00:29:03 8. Robby East - Forever In A Second 00:34:13 9. NYKY - Boundaries 00:39:21 10. Envotion - Call The Drum 00:43:42 11. Dosem - Lifegame 00:50:36 12. Dusky - Elm (Lost A Shoe In 92 Mix) 00:54:25 13. Bicep - Glue 00:58:34- CLASSIC OF THE…",
+   "duration": "01:00:49",
+   "id": "aff6c7b0-3753-4b8c-ae9f-b09456a776e9",
+   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
+   "title": "Dialekt Radio #352",
+   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-352-pi2BXCUE"
+  },
+  {
    "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/3dd0fb46-694e-4df3-a65f-7f72109b1d28/group-item/57e26367-3b53-41ce-9534-d619b22ebcec/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
    "date": "2026-10-25T18:00:00Z",
    "desc": "1. Paul Ross & Lost Desert - Shooting Stars 00:00:40 2. AFFKT - Tarabi 00:09:11 3. Mercurio & Sasha - Songstar 00:12:32 4. Chris Luno - Take Ur Time 00:20:59 5. Bicep ft. SOARR - Air 00:25:05 6. Arlo Parks - 2SIDED (Oscar Farrell Remix) 00:28:37- DIALEKT TRACK OF THE WEEK 7. OLING - Ashram 00:31:53 8. Orsay - Day After Day 00:37:49 9. Estiva - Dsir (Estiva Club Mix) 00:42:21 10. ANUQRAM & Julian Nates - Driftline 00:46:51 11. AFFKT - Round & Round 00:51:23 12. Adriatique - Disappear 00:55:55 13. Basement Jaxx - Never Say Never 00:58:30- CLASSIC OF THE WEEK",
@@ -241,19 +251,9 @@
    "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
    "title": "Dialekt Radio #328",
    "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-328-EjccYSod"
-  },
-  {
-   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/a2461942-a6b2-4b57-bd64-f4e809ef6ec9/group-item/d147019a-9ef1-49ae-81aa-d74fe9a2b09e/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
-   "date": "2026-05-17T23:07:47Z",
-   "desc": "1. TOMB & RLSA - Mills 00:00:42 2. Ønawa - Your Calling 00:05:16 3. Solanca ft. Jyll - Siren 00:08:59 4. Oliver & Tom - Lotus 00:13:27 5. Robby East - Incomplete Me 00:19:49 6. Durante & ALLKNIGHT - How Does It Feel (Dub Mix) 00:23:41 7. TOMORA - I DRINK THE LIGHT (Jengi Remix) 00:30:35- DIALEKT TRACK OF THE WEEK 8. Tiefstone - Silver Bullet 00:35:27 9. Matt Fax - Tomorrow 00:41:13 10. M.O.S. - Phoenix 00:45:49 11. Estiva - Noo Tacchi 00:51:27 12. Sasha & Emerson - Scorchio 00:55:48- CLASSIC OF THE WEEK",
-   "duration": "01:03:16",
-   "id": "4677441f-0a2b-4b68-8f44-debeb61413f2",
-   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
-   "title": "Dialekt Radio #327",
-   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-327-8a1DkyQ8"
   }
  ],
  "kind": "rss",
  "name": "Sultan + Shepard: Dialekt Radio",
- "updatedAt": "2026-10-25T21:50:12Z"
+ "updatedAt": "2026-11-01T22:52:27Z"
 }

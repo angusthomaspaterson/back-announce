@@ -3,6 +3,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2429380002-resident-advisor-ra-1063-andy-stott.mp3",
+   "date": "2026-11-01T22:00:29Z",
+   "desc": "The Manchester artist marches back into the club and cranks up the subs. “You don’t need to study music, you need to study sounds.” That was the advice Andy Stott’s piano teacher, Alison Skidmore, gave him as a teenager. Around 2010, stuck in a creative rut and tired of his dub techno sound, Stott slowed things down, started sampling field recordings and brought Skidmore in as his vocalist. Records like Luxury Problems and Faith In Strangers added a pop twist to his cavernous sound and made him a critics’ darling. His new album, Late Loop, out now, is his first in five years, is out this week…",
+   "duration": "01:00:56",
+   "id": "tag:soundcloud-2010:tracks-2429380002",
+   "image": "https://i1.sndcdn.com/artworks-pkeStm8NwKTRcSlg-MSAtrg-t3000x3000.jpg",
+   "title": "RA.1063 Andy Stott",
+   "url": "https://soundcloud.com/resident-advisor/ra-1063-andy-stott"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2427514947-resident-advisor-ex-816-boys-noize.mp3",
    "date": "2026-10-28T13:28:11Z",
    "desc": "The German producer on touring with Nine Inch Nails, pushing past criticism and his new full-length album, 7LLVSION. Alex Ridha is notoriously private. Ridha, AKA Boys Noize, has been making headlines over the last couple of years: you may have seen him on tour alongside Trent Reznor’s industrial rock band Nine Inch Nails, or in the credits of the soundtracks for Challengers and Tron: Ares. It follows an illustrious run of collaborations with Lady Gaga and Skrillex, discreetly making him one of the most influential producers moving between the underground and pop. But long before all of this,…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-hzMKOM2c0tunED8k-mPGveA-t3000x3000.png",
    "title": "RA.1041 Chlär",
    "url": "https://soundcloud.com/resident-advisor/ra1040-chlaer"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2326832165-resident-advisor-ra-1040-clementaum.mp3",
-   "date": "2026-05-25T00:56:48Z",
-   "desc": "The São Paulo-based artist tears through baile funk, ballroom, Latin club and techno in a turbo-charged showcase of global club music's cutting edge. Take one look at Clementaum behind the decks and she seems less like a DJ than a force of nature. Dressed to the nines and usually keeping time with a fan, she mixes impossibly chaotic drum patterns that ricochet from baile funk to ballroom, Baltimore club to kuduro. Her sets are packed with her own productions—deliciously chaotic collisions of two decades of Latin American club music, shaken hard with EDM and techno. Raised in Curitiba, Clement…",
-   "duration": "01:02:19",
-   "id": "tag:soundcloud-2010:tracks-2326832165",
-   "image": "https://i1.sndcdn.com/artworks-uUfoZUJVXOrHvX32-hEqGpQ-t3000x3000.png",
-   "title": "RA.1040 Clementaum",
-   "url": "https://soundcloud.com/resident-advisor/ra-1040-clementaum"
   }
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-11-01T22:52:27Z"
 }
