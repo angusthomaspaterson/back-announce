@@ -7563,6 +7563,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-01T13:53:01Z",
+     "desc": "The massively influential designer/illustrator is quite possibly homesick + fan mail from designers Justin Sloane, Mira Joyce, Wade Jeffree, Shawna X, Erik Carter, and more.",
+     "duration": null,
+     "id": "https:--herbsundays.substack.com-p-herb-sundays-202-braulio-amado",
+     "image": "https://substackcdn.com/image/fetch/$s_!zNiH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90aa5696-0cde-4ee5-b879-222d9e188797_800x800.jpeg",
+     "title": "Herb Sundays 202: Bráulio Amado",
+     "url": "https://herbsundays.substack.com/p/herb-sundays-202-braulio-amado"
+    },
+    {
+     "audio": null,
      "date": "2026-10-25T15:48:15Z",
      "desc": "The brutalist king of the North + Notes on Herb @ 200 + Nabihah Iqbal & Goya Gumbani",
      "duration": null,
@@ -7750,21 +7760,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!-v24!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7462c58d-3542-4628-9341-c2c35fd78497_3000x3000.jpeg",
      "title": "Herb Sundays 188: Car Culture",
      "url": "https://herbsundays.substack.com/p/herb-sundays-188-car-culture"
-    },
-    {
-     "audio": null,
-     "date": "2026-05-24T14:59:49Z",
-     "desc": "Sweden's Axel Willner lives at the edge of an endless loop + a deeper guide to The Field by Heathered Pearls",
-     "duration": null,
-     "id": "https:--herbsundays.substack.com-p-herb-sundays-187-the-field",
-     "image": "https://substackcdn.com/image/fetch/$s_!R_73!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe24ffd5-b6ab-4087-8550-2cf651bdfc51_3000x3000.jpeg",
-     "title": "Herb Sundays 187: The Field",
-     "url": "https://herbsundays.substack.com/p/herb-sundays-187-the-field"
     }
    ],
    "kind": "rss",
    "name": "Herb Sundays",
-   "updatedAt": "2026-10-25T21:30:08Z"
+   "updatedAt": "2026-11-01T21:30:06Z"
   },
   "ilian-tape": {
    "home": "https://soundcloud.com/iliantape",
@@ -35150,7 +35150,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-01T03:23:39Z",
+  "lastRun": "2026-11-01T21:30:06Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-10-31T22:30:49Z",
@@ -35237,7 +35237,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 20,
     "newest": "2026-10-30T18:59:02Z",
     "ok": true
@@ -35273,7 +35273,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -35291,7 +35291,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 9,
     "newest": "2026-10-29T12:48:15Z",
     "ok": true
@@ -35303,7 +35303,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 20,
     "newest": "2026-10-29T11:03:54Z",
     "ok": true
@@ -35345,9 +35345,9 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 20,
-    "newest": "2026-10-25T15:48:15Z",
+    "newest": "2026-11-01T13:53:01Z",
     "ok": true
    },
    "ilian-tape": {
@@ -35405,7 +35405,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 20,
     "newest": "2026-10-30T08:02:20Z",
     "ok": true
@@ -35447,7 +35447,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -36167,7 +36167,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 20,
     "newest": "2026-10-31T19:03:25Z",
     "ok": true
@@ -36179,7 +36179,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 20,
     "newest": "2026-10-30T10:03:22Z",
     "ok": true
@@ -36197,7 +36197,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
@@ -36221,7 +36221,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-01T03:23:39Z",
+    "at": "2026-11-01T21:30:06Z",
     "count": 6,
     "newest": "2026-10-27T19:00:14Z",
     "ok": true

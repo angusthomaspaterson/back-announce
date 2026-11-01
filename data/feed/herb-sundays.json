@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-01T13:53:01Z",
+   "desc": "The massively influential designer/illustrator is quite possibly homesick + fan mail from designers Justin Sloane, Mira Joyce, Wade Jeffree, Shawna X, Erik Carter, and more.",
+   "duration": null,
+   "id": "https:--herbsundays.substack.com-p-herb-sundays-202-braulio-amado",
+   "image": "https://substackcdn.com/image/fetch/$s_!zNiH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90aa5696-0cde-4ee5-b879-222d9e188797_800x800.jpeg",
+   "title": "Herb Sundays 202: Bráulio Amado",
+   "url": "https://herbsundays.substack.com/p/herb-sundays-202-braulio-amado"
+  },
+  {
+   "audio": null,
    "date": "2026-10-25T15:48:15Z",
    "desc": "The brutalist king of the North + Notes on Herb @ 200 + Nabihah Iqbal & Goya Gumbani",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!-v24!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7462c58d-3542-4628-9341-c2c35fd78497_3000x3000.jpeg",
    "title": "Herb Sundays 188: Car Culture",
    "url": "https://herbsundays.substack.com/p/herb-sundays-188-car-culture"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-24T14:59:49Z",
-   "desc": "Sweden's Axel Willner lives at the edge of an endless loop + a deeper guide to The Field by Heathered Pearls",
-   "duration": null,
-   "id": "https:--herbsundays.substack.com-p-herb-sundays-187-the-field",
-   "image": "https://substackcdn.com/image/fetch/$s_!R_73!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe24ffd5-b6ab-4087-8550-2cf651bdfc51_3000x3000.jpeg",
-   "title": "Herb Sundays 187: The Field",
-   "url": "https://herbsundays.substack.com/p/herb-sundays-187-the-field"
   }
  ],
  "kind": "rss",
  "name": "Herb Sundays",
- "updatedAt": "2026-10-25T21:30:08Z"
+ "updatedAt": "2026-11-01T21:30:06Z"
 }
