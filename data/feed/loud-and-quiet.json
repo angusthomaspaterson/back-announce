@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-02T17:02:46Z",
+   "desc": "To buy or not: your guide to this month’s upcoming albums",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-what-records-to-buy-this-month-november",
+   "image": "https://substackcdn.com/image/fetch/$s_!3Zvj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd850279-1901-43fe-bb62-9fc4e37fe27e_1500x1002.gif",
+   "title": "Album stock market: what records to invest in this November",
+   "url": "https://loudandquiet.substack.com/p/what-records-to-buy-this-month-november"
+  },
+  {
+   "audio": null,
    "date": "2026-10-30T08:02:20Z",
    "desc": "Don’t sleep on Sarah Meth, a spiritual Ed O’Brien live in London, First & Best with deBasement, Charli XCX goes method for new role",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!vxJb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f68e967-ccf3-4be0-a068-27ee8e5b8e00_2000x1333.jpeg",
    "title": "To love or be free: Julia Jacklin’s The Gem",
    "url": "https://loudandquiet.substack.com/p/to-love-or-be-free-julia-jacklins"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-18T07:04:24Z",
-   "desc": "A new John Talabot alias, Primal Scream play XTRMNTR, First & Best with Jack Shep, what makes people buy physical music?",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-72a",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/dab77880-ef3d-476c-9880-2b8512a89a4e_800x578.png",
-   "title": "L&Q Weekly",
-   "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-72a"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-10-31T07:04:42Z"
+ "updatedAt": "2026-11-03T01:38:24Z"
 }

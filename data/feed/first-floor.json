@@ -3,6 +3,28 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-11-02T09:17:15Z",
+   "desc": "Sub Basics – Wavelengths 2 (Animalia) Fort Romeau – Sunlight (Rawax) Andy Stott – Late Loop (Modern Love)",
+   "id": "rollup-2026-11-02",
+   "image": "https://substackcdn.com/image/fetch/$s_!5H45!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d6f019-d626-4853-8dd1-44be2df1aec8_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "Sub Basics – Wavelengths 2",
+     "u": "https://firstfloor.substack.com/p/sub-basics-wavelengths-2"
+    },
+    {
+     "t": "Fort Romeau – Sunlight",
+     "u": "https://firstfloor.substack.com/p/fort-romeau-sunlight"
+    },
+    {
+     "t": "Andy Stott – Late Loop",
+     "u": "https://firstfloor.substack.com/p/andy-stott-late-loop"
+    }
+   ],
+   "title": "First Floor recommendations, 2 Nov: 3 records",
+   "url": "https://firstfloor.substack.com/p/andy-stott-late-loop"
+  },
+  {
    "date": "2026-10-29T12:48:15Z",
    "desc": "veneko – noor (Club Moniker) Poison Zcora – How It Feels to Be Plundered (Tiff’s Joints) Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
    "id": "rollup-2026-10-29",
@@ -108,14 +130,10 @@
   },
   {
    "date": "2026-10-21T18:28:55Z",
-   "desc": "Hysterical Love Project – February’s Album (Motion Ward) nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
+   "desc": "nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
    "id": "rollup-2026-10-21",
-   "image": "https://substackcdn.com/image/fetch/$s_!JGTs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f2769e-b04e-40b4-918f-2ad07c23f28e_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!CnZt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc03d2e4b-280a-4e1a-a433-4231af51a557_1456x1048.jpeg",
    "links": [
-    {
-     "t": "Hysterical Love Project – February’s Album",
-     "u": "https://firstfloor.substack.com/p/hysterical-love-project-februarys"
-    },
     {
      "t": "nextdimensional – mind surf / deep space",
      "u": "https://firstfloor.substack.com/p/nextdimensional-mind-surf-deep-space"
@@ -133,31 +151,11 @@
      "u": "https://firstfloor.substack.com/p/shelley-parker-screed"
     }
    ],
-   "title": "First Floor recommendations, 21 Oct: 5 records",
+   "title": "First Floor recommendations, 21 Oct: 4 records",
    "url": "https://firstfloor.substack.com/p/shelley-parker-screed"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-21T10:03:36Z",
-   "desc": "A guest recommendation from the Australian-based low-end specialist.",
-   "duration": null,
-   "id": "https:--firstfloor.substack.com-p-pugilist-has-better-taste-than-i",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/9972259d-1f39-429f-a09a-343ec7964880_1456x1048.jpeg",
-   "title": "Pugilist Has Better Taste Than I Do",
-   "url": "https://firstfloor.substack.com/p/pugilist-has-better-taste-than-i"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-20T16:46:54Z",
-   "desc": "The music world’s growing embrace of social media and content creation has diluted the discourse, cultivated a lot of bad habits and normalized a worrying amount of unpaid labor.",
-   "duration": null,
-   "id": "https:--firstfloor.substack.com-p-instagram-is-not-my-job",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/b907f88a-531b-4e89-ab47-bdad6a2b25ee_1456x1048.jpeg",
-   "title": "Instagram Is Not My Job",
-   "url": "https://firstfloor.substack.com/p/instagram-is-not-my-job"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-10-29T23:05:17Z"
+ "updatedAt": "2026-11-03T01:38:24Z"
 }

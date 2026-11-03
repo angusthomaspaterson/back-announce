@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-02T10:02:01Z",
+   "desc": "“ I like to ape around and not act my age”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-639-november-2-graham",
+   "image": "https://substackcdn.com/image/fetch/$s_!JrYp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd429c87-6f19-4f8f-b305-41947aba6e6e_1344x1600.jpeg",
+   "title": "The New Cue #639 November 2: Graham Coxon",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-639-november-2-graham"
+  },
+  {
+   "audio": null,
    "date": "2026-10-30T10:03:22Z",
    "desc": "“Martin & Cliff would’ve been just fine“",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!Ro8w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a8d012-1de8-476c-9e07-208d5c4f18b8_2500x3750.jpeg",
    "title": "The New Cue #620 August 24: Pauline Black",
    "url": "https://thenewcue.substack.com/p/the-new-cue-620-august-24-pauline"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-21T09:01:57Z",
-   "desc": "“The ocean of music journalese...”",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-619-august-21-denzil",
-   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
-   "title": "The New Cue #619 August 21: Denzil Curry, Erykah Badu, Getdown Services, The Womack Sisters, Julia Holter, The Cramps, Westside Cowboy, Fontaines D.C., Wishy, Sorry, Biita Houdei",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-619-august-21-denzil"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-10-31T07:04:42Z"
+ "updatedAt": "2026-11-03T01:38:24Z"
 }

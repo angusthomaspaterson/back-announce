@@ -3,6 +3,16 @@
  "id": "the-gig",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/223115667/868b9409a37c1a23369049a741ce4afa.mp3",
+   "date": "2026-11-02T11:02:36Z",
+   "desc": "Revisiting a deep exchange, on Frank’s 70th birthday.",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-frank-kimbrough-on-thelonious-monk",
+   "image": "https://substackcdn.com/image/fetch/$s_!2N4x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01434a03-b076-4cba-9d38-e4e1cb43a8bc_1200x900.jpeg",
+   "title": "Frank Kimbrough on Thelonious Monk",
+   "url": "https://thegig.substack.com/p/frank-kimbrough-on-thelonious-monk"
+  },
+  {
    "audio": null,
    "date": "2026-10-31T19:03:25Z",
    "desc": "Mazzoli’s ‘Lincoln in the Bardo’ at The Met Opera",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!QGaK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c48e762-df7a-4199-a8a1-8afec1d911d8_5036x7554.jpeg",
    "title": "Mr. Smith Goes to Newport",
    "url": "https://thegig.substack.com/p/mr-smith-goes-to-newport"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-31T11:00:56Z",
-   "desc": "The song that sums up the singer.",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-tony-bennett-at-100",
-   "image": "https://substackcdn.com/image/fetch/$s_!3Fap!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f99bd64-c1d8-45fb-b524-334aeb0d2b5c_3600x2415.jpeg",
-   "title": "Tony Bennett at 100",
-   "url": "https://thegig.substack.com/p/tony-bennett-at-100"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-11-01T03:23:39Z"
+ "updatedAt": "2026-11-03T01:38:24Z"
 }

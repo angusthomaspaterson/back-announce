@@ -5567,6 +5567,28 @@
    "id": "first-floor",
    "items": [
     {
+     "date": "2026-11-02T09:17:15Z",
+     "desc": "Sub Basics – Wavelengths 2 (Animalia) Fort Romeau – Sunlight (Rawax) Andy Stott – Late Loop (Modern Love)",
+     "id": "rollup-2026-11-02",
+     "image": "https://substackcdn.com/image/fetch/$s_!5H45!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d6f019-d626-4853-8dd1-44be2df1aec8_1456x1048.jpeg",
+     "links": [
+      {
+       "t": "Sub Basics – Wavelengths 2",
+       "u": "https://firstfloor.substack.com/p/sub-basics-wavelengths-2"
+      },
+      {
+       "t": "Fort Romeau – Sunlight",
+       "u": "https://firstfloor.substack.com/p/fort-romeau-sunlight"
+      },
+      {
+       "t": "Andy Stott – Late Loop",
+       "u": "https://firstfloor.substack.com/p/andy-stott-late-loop"
+      }
+     ],
+     "title": "First Floor recommendations, 2 Nov: 3 records",
+     "url": "https://firstfloor.substack.com/p/andy-stott-late-loop"
+    },
+    {
      "date": "2026-10-29T12:48:15Z",
      "desc": "veneko – noor (Club Moniker) Poison Zcora – How It Feels to Be Plundered (Tiff’s Joints) Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
      "id": "rollup-2026-10-29",
@@ -5672,14 +5694,10 @@
     },
     {
      "date": "2026-10-21T18:28:55Z",
-     "desc": "Hysterical Love Project – February’s Album (Motion Ward) nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
+     "desc": "nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
      "id": "rollup-2026-10-21",
-     "image": "https://substackcdn.com/image/fetch/$s_!JGTs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f2769e-b04e-40b4-918f-2ad07c23f28e_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!CnZt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc03d2e4b-280a-4e1a-a433-4231af51a557_1456x1048.jpeg",
      "links": [
-      {
-       "t": "Hysterical Love Project – February’s Album",
-       "u": "https://firstfloor.substack.com/p/hysterical-love-project-februarys"
-      },
       {
        "t": "nextdimensional – mind surf / deep space",
        "u": "https://firstfloor.substack.com/p/nextdimensional-mind-surf-deep-space"
@@ -5697,33 +5715,13 @@
        "u": "https://firstfloor.substack.com/p/shelley-parker-screed"
       }
      ],
-     "title": "First Floor recommendations, 21 Oct: 5 records",
+     "title": "First Floor recommendations, 21 Oct: 4 records",
      "url": "https://firstfloor.substack.com/p/shelley-parker-screed"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-21T10:03:36Z",
-     "desc": "A guest recommendation from the Australian-based low-end specialist.",
-     "duration": null,
-     "id": "https:--firstfloor.substack.com-p-pugilist-has-better-taste-than-i",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/9972259d-1f39-429f-a09a-343ec7964880_1456x1048.jpeg",
-     "title": "Pugilist Has Better Taste Than I Do",
-     "url": "https://firstfloor.substack.com/p/pugilist-has-better-taste-than-i"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-20T16:46:54Z",
-     "desc": "The music world’s growing embrace of social media and content creation has diluted the discourse, cultivated a lot of bad habits and normalized a worrying amount of unpaid labor.",
-     "duration": null,
-     "id": "https:--firstfloor.substack.com-p-instagram-is-not-my-job",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/b907f88a-531b-4e89-ab47-bdad6a2b25ee_1456x1048.jpeg",
-     "title": "Instagram Is Not My Job",
-     "url": "https://firstfloor.substack.com/p/instagram-is-not-my-job"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-10-29T23:05:17Z"
+   "updatedAt": "2026-11-03T01:38:24Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -9693,6 +9691,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-02T17:02:46Z",
+     "desc": "To buy or not: your guide to this month’s upcoming albums",
+     "duration": null,
+     "id": "https:--loudandquiet.substack.com-p-what-records-to-buy-this-month-november",
+     "image": "https://substackcdn.com/image/fetch/$s_!3Zvj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd850279-1901-43fe-bb62-9fc4e37fe27e_1500x1002.gif",
+     "title": "Album stock market: what records to invest in this November",
+     "url": "https://loudandquiet.substack.com/p/what-records-to-buy-this-month-november"
+    },
+    {
+     "audio": null,
      "date": "2026-10-30T08:02:20Z",
      "desc": "Don’t sleep on Sarah Meth, a spiritual Ed O’Brien live in London, First & Best with deBasement, Charli XCX goes method for new role",
      "duration": null,
@@ -9880,21 +9888,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!vxJb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f68e967-ccf3-4be0-a068-27ee8e5b8e00_2000x1333.jpeg",
      "title": "To love or be free: Julia Jacklin’s The Gem",
      "url": "https://loudandquiet.substack.com/p/to-love-or-be-free-julia-jacklins"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-18T07:04:24Z",
-     "desc": "A new John Talabot alias, Primal Scream play XTRMNTR, First & Best with Jack Shep, what makes people buy physical music?",
-     "duration": null,
-     "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-72a",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/dab77880-ef3d-476c-9880-2b8512a89a4e_800x578.png",
-     "title": "L&Q Weekly",
-     "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-72a"
     }
    ],
    "kind": "rss",
    "name": "Loud And Quiet",
-   "updatedAt": "2026-10-31T07:04:42Z"
+   "updatedAt": "2026-11-03T01:38:24Z"
   },
   "love-is-the-message": {
    "home": "https://loveisthemessagepod.co.uk/",
@@ -31285,6 +31283,16 @@
    "id": "the-gig",
    "items": [
     {
+     "audio": "https://api.substack.com/feed/podcast/223115667/868b9409a37c1a23369049a741ce4afa.mp3",
+     "date": "2026-11-02T11:02:36Z",
+     "desc": "Revisiting a deep exchange, on Frank’s 70th birthday.",
+     "duration": null,
+     "id": "https:--thegig.substack.com-p-frank-kimbrough-on-thelonious-monk",
+     "image": "https://substackcdn.com/image/fetch/$s_!2N4x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01434a03-b076-4cba-9d38-e4e1cb43a8bc_1200x900.jpeg",
+     "title": "Frank Kimbrough on Thelonious Monk",
+     "url": "https://thegig.substack.com/p/frank-kimbrough-on-thelonious-monk"
+    },
+    {
      "audio": null,
      "date": "2026-10-31T19:03:25Z",
      "desc": "Mazzoli’s ‘Lincoln in the Bardo’ at The Met Opera",
@@ -31473,21 +31481,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!QGaK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c48e762-df7a-4199-a8a1-8afec1d911d8_5036x7554.jpeg",
      "title": "Mr. Smith Goes to Newport",
      "url": "https://thegig.substack.com/p/mr-smith-goes-to-newport"
-    },
-    {
-     "audio": null,
-     "date": "2026-07-31T11:00:56Z",
-     "desc": "The song that sums up the singer.",
-     "duration": null,
-     "id": "https:--thegig.substack.com-p-tony-bennett-at-100",
-     "image": "https://substackcdn.com/image/fetch/$s_!3Fap!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f99bd64-c1d8-45fb-b524-334aeb0d2b5c_3600x2415.jpeg",
-     "title": "Tony Bennett at 100",
-     "url": "https://thegig.substack.com/p/tony-bennett-at-100"
     }
    ],
    "kind": "rss",
    "name": "The Gig (Nate Chinen)",
-   "updatedAt": "2026-11-01T03:23:39Z"
+   "updatedAt": "2026-11-03T01:38:24Z"
   },
   "the-lot-radio": {
    "home": "https://www.thelotradio.com/",
@@ -31754,6 +31752,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-02T10:02:01Z",
+     "desc": "“ I like to ape around and not act my age”",
+     "duration": null,
+     "id": "https:--thenewcue.substack.com-p-the-new-cue-639-november-2-graham",
+     "image": "https://substackcdn.com/image/fetch/$s_!JrYp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd429c87-6f19-4f8f-b305-41947aba6e6e_1344x1600.jpeg",
+     "title": "The New Cue #639 November 2: Graham Coxon",
+     "url": "https://thenewcue.substack.com/p/the-new-cue-639-november-2-graham"
+    },
+    {
+     "audio": null,
      "date": "2026-10-30T10:03:22Z",
      "desc": "“Martin & Cliff would’ve been just fine“",
      "duration": null,
@@ -31941,21 +31949,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!Ro8w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a8d012-1de8-476c-9e07-208d5c4f18b8_2500x3750.jpeg",
      "title": "The New Cue #620 August 24: Pauline Black",
      "url": "https://thenewcue.substack.com/p/the-new-cue-620-august-24-pauline"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-21T09:01:57Z",
-     "desc": "“The ocean of music journalese...”",
-     "duration": null,
-     "id": "https:--thenewcue.substack.com-p-the-new-cue-619-august-21-denzil",
-     "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
-     "title": "The New Cue #619 August 21: Denzil Curry, Erykah Badu, Getdown Services, The Womack Sisters, Julia Holter, The Cramps, Westside Cowboy, Fontaines D.C., Wishy, Sorry, Biita Houdei",
-     "url": "https://thenewcue.substack.com/p/the-new-cue-619-august-21-denzil"
     }
    ],
    "kind": "rss",
    "name": "The New Cue",
-   "updatedAt": "2026-10-31T07:04:42Z"
+   "updatedAt": "2026-11-03T01:38:24Z"
   },
   "the-wire": {
    "home": "https://www.thewire.co.uk/",
@@ -35140,7 +35138,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-03T01:37:20Z",
+  "lastRun": "2026-11-03T01:38:24Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-03T01:37:20Z",
@@ -35227,7 +35225,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 20,
     "newest": "2026-10-30T18:59:02Z",
     "ok": true
@@ -35263,7 +35261,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -35281,9 +35279,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-01T21:30:06Z",
-    "count": 9,
-    "newest": "2026-10-29T12:48:15Z",
+    "at": "2026-11-03T01:38:24Z",
+    "count": 8,
+    "newest": "2026-11-02T09:17:15Z",
     "ok": true
    },
    "flow-state": {
@@ -35293,7 +35291,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 20,
     "newest": "2026-10-29T11:03:54Z",
     "ok": true
@@ -35335,7 +35333,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 20,
     "newest": "2026-11-01T13:53:01Z",
     "ok": true
@@ -35395,9 +35393,9 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 20,
-    "newest": "2026-10-30T08:02:20Z",
+    "newest": "2026-11-02T17:02:46Z",
     "ok": true
    },
    "love-is-the-message": {
@@ -35437,7 +35435,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -36157,9 +36155,9 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 20,
-    "newest": "2026-10-31T19:03:25Z",
+    "newest": "2026-11-02T11:02:36Z",
     "ok": true
    },
    "the-lot-radio": {
@@ -36169,9 +36167,9 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 20,
-    "newest": "2026-10-30T10:03:22Z",
+    "newest": "2026-11-02T10:02:01Z",
     "ok": true
    },
    "the-wire": {
@@ -36187,7 +36185,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
@@ -36211,7 +36209,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-01T21:30:06Z",
+    "at": "2026-11-03T01:38:24Z",
     "count": 6,
     "newest": "2026-10-27T19:00:14Z",
     "ok": true
