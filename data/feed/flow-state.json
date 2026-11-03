@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-02T08:03:14Z",
+   "desc": "Today we’re listening to Kali Malone, an American organist, synthesist, and composer from Colorado.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-kali-malone-167",
+   "image": "https://substackcdn.com/image/fetch/$s_!tsO-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c81b7a5-f4a5-40c2-a3a2-ab79e7b47ffc_1200x1200.jpeg",
+   "title": "Kali Malone",
+   "url": "https://www.flowstate.fm/p/kali-malone-167"
+  },
+  {
+   "audio": null,
    "date": "2026-10-30T07:02:56Z",
    "desc": "Today we’re listening to Sakura Tsuruta, a Japanese electronic musician from Tokyo.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
    "title": "Flow State Episode 346",
    "url": "https://www.flowstate.fm/p/flow-state-episode-346"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-05T07:03:39Z",
-   "desc": "Today we’re listening to Midori Hirano, a Japanese composer and pianist based in Berlin.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-midori-hirano-interview",
-   "image": "https://substackcdn.com/image/fetch/$s_!grIA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f48ca0f-6ab8-4b31-9a44-5b1b06cd0591_3840x2160.jpeg",
-   "title": "Midori Hirano (Interview)",
-   "url": "https://www.flowstate.fm/p/midori-hirano-interview"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-03T01:37:20Z"
 }

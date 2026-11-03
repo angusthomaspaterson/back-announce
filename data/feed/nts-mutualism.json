@@ -3,6 +3,16 @@
  "id": "nts-mutualism",
  "items": [
   {
+   "date": "2026-10-31T19:00:00Z",
+   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration. From the host: This Halloween mix is intended to sit in the place in which surrealism, horror and sci fi collide, and is a combination of OSTs from video games, movies and television shows that best express that intersection.",
+   "id": "mutualism-31st-october-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/5b4be496-413f-4b1a-a146-28159ea3c907_1793404800.jpeg",
+   "location": "Manchester",
+   "tags": "Soundtrack, Video Game Music",
+   "title": "Mutualism Halloween OST Special",
+   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-31st-october-2026"
+  },
+  {
    "date": "2026-10-03T18:00:00Z",
    "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
    "id": "mutualism-3rd-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Experimental, Drone, Musique Concrete, Noise",
    "title": "Mutualism w/ In Atoms",
    "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-29th-november-2025"
-  },
-  {
-   "date": "2025-11-01T19:00:00Z",
-   "desc": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
-   "id": "mutualism-1st-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/0fc55d81-8142-4b56-9285-407c38e2d71c_1761955200.jpeg",
-   "location": "Manchester",
-   "tags": "Punk, Bass, Industrial , Dancehall",
-   "title": "Mutualism w/ Clemency",
-   "url": "https://www.nts.live/shows/mutualism/episodes/mutualism-1st-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Mutualism",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-11-03T01:37:20Z"
 }

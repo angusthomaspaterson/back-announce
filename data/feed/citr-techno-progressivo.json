@@ -3,6 +3,16 @@
  "id": "citr-techno-progressivo",
  "items": [
   {
+   "audio": "https://api.spreaker.com/download/episode/76129856/techno_progressivo_55373_171047_november_01_20_00_00.mp3",
+   "date": "2026-11-02T03:00:00Z",
+   "desc": "Chris Larson Interview",
+   "duration": "3601",
+   "id": "https:--playlist.citr.ca-podcasting-audio-2026-Techno-Progressivo-55373-171047-November-01-20-00-00.mp3",
+   "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afafa78131b8ffa09273ae30bbd41445.jpg",
+   "title": "Chris Larson Interview",
+   "url": "https://www.spreaker.com/episode/chris-larson-interview--76129856"
+  },
+  {
    "audio": "https://api.spreaker.com/download/episode/75588238/techno_progressivo_55264_170938_october_01_16_00_00.mp3",
    "date": "2026-10-01T23:00:00Z",
    "desc": "Mezraa Interview + Mini Mix",
@@ -241,19 +251,9 @@
    "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afafa78131b8ffa09273ae30bbd41445.jpg",
    "title": "XIE Guest Mix",
    "url": "https://www.spreaker.com/episode/xie-guest-mix--66062987"
-  },
-  {
-   "audio": "https://api.spreaker.com/download/episode/65913263/techno_progressivo_51864_167538_may_04_20_00_00.mp3",
-   "date": "2025-05-05T03:00:00Z",
-   "desc": "Lumia Guest Mix II",
-   "duration": "3601",
-   "id": "https:--playlist.citr.ca-podcasting-audio-2025-Techno-Progressivo-51864-167538-May-04-20-00-00.mp3",
-   "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afafa78131b8ffa09273ae30bbd41445.jpg",
-   "title": "Lumia Guest Mix II",
-   "url": "https://www.spreaker.com/episode/lumia-guest-mix-ii--65913263"
   }
  ],
  "kind": "rss",
  "name": "CiTR: Techno Progressivo",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-03T01:37:20Z"
 }

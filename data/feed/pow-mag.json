@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-02T18:17:07Z",
+   "desc": "Radamiz opens up about his recent EP with Mahershala Ali and the value of taking things slow.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-the-rapper-and-the-movie-star",
+   "image": "https://substackcdn.com/image/fetch/$s_!uf6t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09ecdb64-ff74-400b-ac43-3a4e02be23d3_1200x1200.png",
+   "title": "The Rapper and the Movie Star",
+   "url": "https://www.powmag.net/p/the-rapper-and-the-movie-star"
+  },
+  {
+   "audio": null,
    "date": "2026-10-31T17:15:02Z",
    "desc": "The Rap-Up considers the most notable singles of the past week. Today, Donald Morrison reviews new work from AZ Chike, Milc, and AI Michael Jackson impersonator, and more.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/2Z2TgyC5Y_Q",
    "title": "Not So Italian After All",
    "url": "https://www.powmag.net/p/not-so-italian-after-all"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-09T16:17:29Z",
-   "desc": "Thirty years later, two writers return to the album that served as a crossroads for hip-hop.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-de-la-soul-stakes-is-high",
-   "image": "https://substackcdn.com/image/fetch/$s_!gwLX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0255f6bf-ea0f-4dcd-94d0-678087463bb3_1200x1200.png",
-   "title": "After Further Review: De La Soul’s Stakes Is High",
-   "url": "https://www.powmag.net/p/de-la-soul-stakes-is-high"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-10-31T22:30:49Z"
+ "updatedAt": "2026-11-03T01:37:20Z"
 }

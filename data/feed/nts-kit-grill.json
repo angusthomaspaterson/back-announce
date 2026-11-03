@@ -3,6 +3,16 @@
  "id": "nts-kit-grill",
  "items": [
   {
+   "date": "2026-11-01T16:00:00Z",
+   "desc": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT. kitgrill.com",
+   "id": "kit-grill-1st-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/f6bf1e4e-74e1-4435-ab7e-bac34a528f4e_1793491200.jpeg",
+   "location": "London",
+   "tags": "Psychedelic Rock, Anatolian Rock, Turkish Rock",
+   "title": "Kit Grill w/  Selin Öktem - Aşk, Meşk & Anatolian Psychedelia",
+   "url": "https://www.nts.live/shows/kit-grill/episodes/kit-grill-1st-november-2026"
+  },
+  {
    "date": "2026-10-04T15:00:00Z",
    "desc": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT. kitgrill.com",
    "id": "kit-grill-4th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Minimal Synth, New Wave, Leftfield Pop",
    "title": "KIT GRILL W/ LAURIE LYNCH",
    "url": "https://www.nts.live/shows/kit-grill/episodes/kit-grill-30th-november-2025"
-  },
-  {
-   "date": "2025-11-02T16:00:00Z",
-   "desc": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT. kitgrill.com",
-   "id": "kit-grill-2nd-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/02bf3d5a-e11c-4f24-b47c-1fb05e683c36_1762128000.jpeg",
-   "location": "London",
-   "tags": "New Wave, Ambient, Dub",
-   "title": "Kit Grill",
-   "url": "https://www.nts.live/shows/kit-grill/episodes/kit-grill-2nd-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Kit Grill",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-03T01:37:20Z"
 }

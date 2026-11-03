@@ -3,6 +3,16 @@
  "id": "nts-ben-sims",
  "items": [
   {
+   "date": "2026-11-01T00:00:00Z",
+   "desc": "‘Run it Red’ sees bona fide techno legend Ben Sims showcases 2 hrs of the finest new house and techno he can lay his hands on.",
+   "id": "ben-sims-1st-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/415ef891-6cb2-4351-be04-d8178696ea0c_1793318400.png",
+   "location": "London",
+   "tags": "Deep House, Techno",
+   "title": "Ben Sims Presents: Run It Red",
+   "url": "https://www.nts.live/shows/ben-sims/episodes/ben-sims-1st-november-2026"
+  },
+  {
    "date": "2026-09-05T23:00:00Z",
    "desc": "‘Run it Red’ sees bona fide techno legend Ben Sims showcases 2 hrs of the finest new house and techno he can lay his hands on.",
    "id": "ben-sims-6th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Techno",
    "title": "Ben Sims Presents: Run It Red",
    "url": "https://www.nts.live/shows/ben-sims/episodes/ben-sims-2nd-november-2025"
-  },
-  {
-   "date": "2025-10-04T23:00:00Z",
-   "desc": "‘Run it Red’ sees bona fide techno legend Ben Sims showcases 2 hrs of the finest new house and techno he can lay his hands on.",
-   "id": "ben-sims-5th-october-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/5d9fc413-2d18-470f-ba1a-67329878971e_1759449600.jpeg",
-   "location": "London",
-   "tags": "Techno",
-   "title": "Ben Sims Presents: Run It Red",
-   "url": "https://www.nts.live/shows/ben-sims/episodes/ben-sims-5th-october-2025"
   }
  ],
  "kind": "nts",
  "name": "Ben Sims Presents: Run It Red",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-03T01:37:20Z"
 }

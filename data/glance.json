@@ -1,12 +1,102 @@
 {
  "items": [
   {
+   "d": "2026-11-03T01:36:19Z",
+   "g": "Radio",
+   "s": "Time To Track (Andrew Wowk, 2SER)",
+   "sid": "time-to-track",
+   "t": "Time To Track on 2SER (08/10/2026 - Special Guest Karan From Gigged Out)",
+   "u": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-08-10"
+  },
+  {
+   "d": "2026-11-02T09:00:00Z",
+   "g": "Progressive",
+   "s": "Nora En Pure: Purified Radio",
+   "sid": "nora-en-pure",
+   "sp": "Nora En Pure: Purified Radio Purified Radio 532",
+   "t": "Purified Radio 532",
+   "u": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_532_Podcast-1793275373652532389-NDMyODktODYxOTc4MTE=.mp3"
+  },
+  {
+   "d": "2026-11-02T08:03:14Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "t": "Kali Malone",
+   "u": "https://www.flowstate.fm/p/kali-malone-167"
+  },
+  {
+   "d": "2026-11-02T03:00:00Z",
+   "g": "Progressive",
+   "s": "CiTR: Techno Progressivo",
+   "sid": "citr-techno-progressivo",
+   "sp": "CiTR: Techno Progressivo Chris Larson Interview",
+   "t": "Chris Larson Interview",
+   "u": "https://www.spreaker.com/episode/chris-larson-interview--76129856"
+  },
+  {
+   "d": "2026-11-02T01:27:00Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Techno originator Juan Atkins has died aged 64",
+   "u": "https://mixmag.net.au/read/techno-originator-juan-atkins-has-died-aged-64-news"
+  },
+  {
+   "d": "2026-11-02T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "GDP Had to Disappear to Find Himself",
+   "u": "https://daily.bandcamp.com/features/gdp-rapper-run-for-cover-interview"
+  },
+  {
+   "d": "2026-11-02T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "The Best Punk on Bandcamp, October 2026",
+   "u": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-october-2026"
+  },
+  {
+   "d": "2026-11-02T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "The Best Hip-Hop on Bandcamp, October 2026",
+   "u": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-october-2026"
+  },
+  {
+   "d": "2026-11-02T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Various Artists, “A La Altura: Visionary Mexican Music 1977–1999, Volume 1”",
+   "u": "https://daily.bandcamp.com/album-of-the-day/various-artists-a-la-altura-visionary-mexican-music-1977-1999-volume-1-review"
+  },
+  {
+   "d": "2026-11-02T00:00:00Z",
+   "g": "Radio",
+   "s": "Bandcamp Radio",
+   "sid": "bandcamp-radio",
+   "t": "Bandcamp Selects: Seun Kuti",
+   "u": "https://bandcamp.com/radio/bandcamp-selects/1011"
+  },
+  {
    "d": "2026-11-01T22:00:29Z",
    "g": "Mixes",
    "s": "RA Podcast",
    "sid": "ra-podcast",
    "t": "RA.1063 Andy Stott",
    "u": "https://soundcloud.com/resident-advisor/ra-1063-andy-stott"
+  },
+  {
+   "d": "2026-11-01T16:00:00Z",
+   "g": "NTS",
+   "s": "Kit Grill",
+   "sid": "nts-kit-grill",
+   "t": "Kit Grill w/  Selin Öktem - Aşk, Meşk & Anatolian Psychedelia",
+   "u": "https://www.nts.live/shows/kit-grill/episodes/kit-grill-1st-november-2026"
   },
   {
    "d": "2026-11-01T14:00:14Z",
@@ -24,6 +114,30 @@
    "sp": "Resident by Hernan Cattaneo Resident / Episode 808 / October 31 2026",
    "t": "Resident / Episode 808 / October 31 2026",
    "u": "https://podcast.hernancattaneo.com/e/resident-episode-808-october-31-2026/"
+  },
+  {
+   "d": "2026-11-01T00:00:00Z",
+   "g": "NTS",
+   "s": "Ben Sims Presents: Run It Red",
+   "sid": "nts-ben-sims",
+   "t": "Ben Sims Presents: Run It Red",
+   "u": "https://www.nts.live/shows/ben-sims/episodes/ben-sims-1st-november-2026"
+  },
+  {
+   "d": "2026-10-31T19:00:00Z",
+   "g": "NTS",
+   "s": "Mutualism",
+   "sid": "nts-mutualism",
+   "t": "Mutualism Halloween OST Special",
+   "u": "https://www.nts.live/shows/mutualism/episodes/mutualism-31st-october-2026"
+  },
+  {
+   "d": "2026-10-31T12:00:00Z",
+   "g": "NTS",
+   "s": "Ross Allen",
+   "sid": "nts-ross-allen",
+   "t": "Ross Allen",
+   "u": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-31st-october-2026"
   },
   {
    "d": "2026-10-31T09:15:29Z",
@@ -49,126 +163,10 @@
    "sid": "gai-barone-patterns",
    "t": "Patterns 724",
    "u": "https://soundcloud.com/gai-barone/patterns-724"
-  },
-  {
-   "d": "2026-10-30T21:11:23Z",
-   "g": "Progressive",
-   "s": "Above & Beyond: Group Therapy",
-   "sid": "group-therapy",
-   "t": "Group Therapy 701 with Above & Beyond and Ciaran McAuley",
-   "u": "https://www.mixcloud.com/aboveandbeyond/group-therapy-701-with-above-beyond-and-ciaran-mcauley/"
-  },
-  {
-   "d": "2026-10-30T20:27:45Z",
-   "g": "Radio",
-   "s": "Soulection Radio",
-   "sid": "soulection",
-   "t": "Show #751 | Future Beats, R&B, Reggae, & UK Bass",
-   "u": "https://soundcloud.com/soulection/show-751"
-  },
-  {
-   "d": "2026-10-30T16:10:17Z",
-   "g": "Podcasts",
-   "s": "No Tags",
-   "sid": "no-tags",
-   "sp": "No Tags 75: Octo Octa and Eris Drew are better living through alchemy",
-   "t": "75: Octo Octa and Eris Drew are better living through alchemy",
-   "u": "https://notagspodcast.substack.com/p/75-octo-octa-and-eris-drew-are-better"
-  },
-  {
-   "d": "2026-10-30T16:00:36Z",
-   "g": "Progressive",
-   "s": "John Digweed: Transitions",
-   "sid": "transitions",
-   "t": "Transitions with John Digweed (Live in Amsterdam) and Moshic",
-   "u": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-moshic/"
-  },
-  {
-   "d": "2026-10-30T15:31:36Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "10 Years Of Big Crown Records @ HHV - Dimitra Zina - 29 Oct 2026",
-   "u": "https://soundcloud.com/refugeworldwide/10-years-of-big-crown-1"
-  },
-  {
-   "d": "2026-10-30T15:20:35Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "10 Years Of Big Crown Records @ HHV - DJ Werd - 29 Oct 2026",
-   "u": "https://soundcloud.com/refugeworldwide/10-years-of-big-crown-records"
-  },
-  {
-   "d": "2026-10-30T14:00:18Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
-   "u": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case"
-  },
-  {
-   "d": "2026-10-30T14:00:17Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Sampa the Great: Nu Zamrock review – a full-circle moment for a world-class act",
-   "u": "https://www.theguardian.com/music/2026/oct/31/sampa-the-great-nu-zamrock-review-a-full-circle-moment-for-a-world-class-act"
-  },
-  {
-   "d": "2026-10-30T14:00:16Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Jaguar Jonze: ‘I am more fragile and vulnerable now. But at the same time, I am so much stronger’",
-   "u": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/31/jaguar-jonze-i-am-more-fragile-and-vulnerable-now-but-at-the-same-time-i-am-so-much-stronger-ntwnfb"
-  },
-  {
-   "d": "2026-10-30T12:00:00Z",
-   "g": "Radio",
-   "s": "BBC Music Introducing Mixtape (6 Music)",
-   "sid": "bbc-introducing-mixtape",
-   "sp": "BBC Music Introducing Mixtape (6 Music) With a new Track of the Week by Girl Group!",
-   "t": "With a new Track of the Week by Girl Group!",
-   "u": "http://www.bbc.co.uk/programmes/p0pkg2mr"
-  },
-  {
-   "d": "2026-10-30T11:00:00Z",
-   "g": "NTS",
-   "s": "NTS In Focus",
-   "sid": "nts-in-focus",
-   "t": "In Focus: Phew",
-   "u": "https://www.nts.live/shows/in-focus/episodes/in-focus-phew-30th-october-2026"
-  },
-  {
-   "d": "2026-10-30T09:00:00Z",
-   "g": "Podcasts",
-   "s": "Popcast (New York Times)",
-   "sid": "popcast",
-   "sp": "Popcast (New York Times) Lil Baby on Mental Health Struggles, Young Thug, Lil Durk & ‘Dead Fresh’",
-   "t": "Lil Baby on Mental Health Struggles, Young Thug, Lil Durk & ‘Dead Fresh’",
-   "u": "https://www.nytimes.com/column/popcast-pop-music-podcast"
-  },
-  {
-   "d": "2026-10-30T08:00:00Z",
-   "g": "Podcasts",
-   "s": "Indiecast",
-   "sid": "indiecast",
-   "sp": "Indiecast A New Queens Of The Stone Age Album + The Greatest Rock Songs Of The 21st Century",
-   "t": "A New Queens Of The Stone Age Album + The Greatest Rock Songs Of The 21st Century",
-   "u": "https://rss.art19.com/episodes/c0e538fb-4471-4ba2-9f08-2981cc8d96ff.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-10-30T07:34:23Z",
-   "g": "Perth",
-   "s": "RTRFM / RTR2 mixes",
-   "sid": "rtr2",
-   "t": "It Will Go Forever Ep. 1 w/ Elena Dakota",
-   "u": "https://soundcloud.com/rtrfm-92-1/it-will-go-forever-ep-1-elena-dakota"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 316,
+ "newCount": 326,
  "paused": 19,
  "releases": [
   {
@@ -229,5 +227,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-11-01T22:52:27Z"
+ "updated": "2026-11-03T01:37:20Z"
 }

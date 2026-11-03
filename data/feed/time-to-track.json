@@ -3,6 +3,16 @@
  "id": "time-to-track",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2431197960-andrew-wowk-time-to-track-on-2ser-08-10.mp3",
+   "date": "2026-11-03T01:36:19Z",
+   "desc": "Here is the archive of Time To Track on 2SER from 08/10/2026. This week's episode featured an interview with Karan from Gigged Out about their new app, which features some selections of tracks by local artists chosen by Karan throughout the interview. **KARAN FROM GIGGED OUT - GUEST SELECTIONS** Cousin & Priori - Fly In Amber Kuda - Cadence Mincy - Pretty Misty (99 Nissan Patrol Mix) Jane Decks - Pharmaka LEVOS - Pulse Nazo & Deens - Yama (UKG Edit) Bouki - Run It Again **ANDREW WOWK - ** Perzeptiverdampfkesselqualmtbesinnlich - Faxxekondyy (Kan3da Remix) pdqb - Ratio 68 (dynArec Radio 69 Rem…",
+   "duration": "01:59:59",
+   "id": "tag:soundcloud-2010:tracks-2431197960",
+   "image": "https://i1.sndcdn.com/artworks-NHgIOUszIk9bMWvh-fzy6qQ-t3000x3000.png",
+   "title": "Time To Track on 2SER (08/10/2026 - Special Guest Karan From Gigged Out)",
+   "url": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-08-10"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2414518419-andrew-wowk-time-to-track-on-2ser-01-10.mp3",
    "date": "2026-10-07T03:44:15Z",
    "desc": "Here is the archive of the 01/10/2026 episode of Time To Track on 2SER which featured a guest mix from NFRMT. TRACKLIST: **NFRMT Guest Mix** 1. Daniele Papini — No Haste 2. Fracture & Sam Binga — Maps 3. Ambu Bambu — Laugh It Off (Original Mix) 4. JERRY HORNY— Hermeth Double G 5. Deepchild — 77A (PURGE GUSSET) 6. ID — ID 7. DJ Swisha & OSSX — Woldmart 8. Hedchef — Guillotine Clause (Tom Place Remix) 9. Burna — Yup 10. PosseUp — Do It Well 11. Davdcase - Shook (Original Mix) 12. Alberto Tolo — CIsd 13. Mac Declos — Sexiness 14. Conntex — Bending Space 15. Kaya — Ras Kuyon (Rain Remix) 16. Kaya…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-HCDcBv0wYK4uycoT-cQJtIg-t3000x3000.png",
    "title": "Andrew Wowk - By The River (Subsonic 2025 River Stage Set Redux)",
    "url": "https://soundcloud.com/andrew-wowk/andrew-wowk-by-the-river-subsonic-2025-river-stage-set-redux"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2250770327-andrew-wowk-time-to-track-on-2ser-15012026-special-guests-andi-a-negrolator-x.mp3",
-   "date": "2026-01-20T11:43:47Z",
-   "desc": "Here is the recording of Time To Track on 2SER from 15/01/2026, featuring a guest mix from Andi A and Negrolator X of Tooflez Muzik.",
-   "duration": "02:03:24",
-   "id": "tag:soundcloud-2010:tracks-2250770327",
-   "image": "https://i1.sndcdn.com/artworks-9rJ4Tr6yTyDSvbS6-qkGTDQ-t3000x3000.png",
-   "title": "Time To Track On 2SER - 15/01/2026 (Special Guests Andi A & Negrolator X)",
-   "url": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-15012026-special-guests-andi-a-negrolator-x"
   }
  ],
  "kind": "rss",
  "name": "Time To Track (Andrew Wowk, 2SER)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-03T01:37:20Z"
 }
