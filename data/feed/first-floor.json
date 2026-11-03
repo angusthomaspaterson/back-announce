@@ -3,6 +3,16 @@
  "id": "first-floor",
  "items": [
   {
+   "audio": null,
+   "date": "2026-11-03T12:17:56Z",
+   "desc": "The Detroit techno icon’s untimely death has provoked an outpouring of grief, but it ought to spark questions about why his legacy isn’t being recognized outside the usual electronic music bubble.",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-juan-atkins-and-the-institutional",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/d994aef4-36cc-44dd-b112-faa62dd1c51d_1456x1048.jpeg",
+   "title": "Juan Atkins and the Institutional Failures of American Culture",
+   "url": "https://firstfloor.substack.com/p/juan-atkins-and-the-institutional"
+  },
+  {
    "date": "2026-11-02T09:17:15Z",
    "desc": "Sub Basics – Wavelengths 2 (Animalia) Fort Romeau – Sunlight (Rawax) Andy Stott – Late Loop (Modern Love)",
    "id": "rollup-2026-11-02",
@@ -130,14 +140,10 @@
   },
   {
    "date": "2026-10-21T18:28:55Z",
-   "desc": "nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
+   "desc": "Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
    "id": "rollup-2026-10-21",
-   "image": "https://substackcdn.com/image/fetch/$s_!CnZt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc03d2e4b-280a-4e1a-a433-4231af51a557_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!dN_5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F283f6061-4c30-4a3b-8cd5-cc3d8cc1eee1_1456x1048.jpeg",
    "links": [
-    {
-     "t": "nextdimensional – mind surf / deep space",
-     "u": "https://firstfloor.substack.com/p/nextdimensional-mind-surf-deep-space"
-    },
     {
      "t": "Nectax – Cash4Gold / Close2Mine",
      "u": "https://firstfloor.substack.com/p/nectax-cash4gold-close2mine"
@@ -151,11 +157,11 @@
      "u": "https://firstfloor.substack.com/p/shelley-parker-screed"
     }
    ],
-   "title": "First Floor recommendations, 21 Oct: 4 records",
+   "title": "First Floor recommendations, 21 Oct: 3 records",
    "url": "https://firstfloor.substack.com/p/shelley-parker-screed"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-03T01:38:24Z"
+ "updatedAt": "2026-11-03T21:30:07Z"
 }

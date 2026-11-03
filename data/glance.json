@@ -1,6 +1,31 @@
 {
  "items": [
   {
+   "d": "2026-11-03T19:00:43Z",
+   "g": "Progressive",
+   "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
+   "sid": "underground-live-forever",
+   "sp": "Underground Live Forever Episode 048",
+   "t": "Underground Live Forever - ULF048 presented by Paul Thomas",
+   "u": "https://www.youtube.com/watch?v=MZw-F6EucxE"
+  },
+  {
+   "d": "2026-11-03T12:24:33Z",
+   "g": "Writing",
+   "s": "Futurism Restated (Philip Sherburne)",
+   "sid": "futurism-restated",
+   "t": "FR 198: Beyond and Back",
+   "u": "https://futurismrestated.substack.com/p/fr-198-beyond-and-back"
+  },
+  {
+   "d": "2026-11-03T12:17:56Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Juan Atkins and the Institutional Failures of American Culture",
+   "u": "https://firstfloor.substack.com/p/juan-atkins-and-the-institutional"
+  },
+  {
    "d": "2026-11-03T01:36:19Z",
    "g": "Radio",
    "s": "Time To Track (Andrew Wowk, 2SER)",
@@ -138,35 +163,10 @@
    "sid": "nts-mutualism",
    "t": "Mutualism Halloween OST Special",
    "u": "https://www.nts.live/shows/mutualism/episodes/mutualism-31st-october-2026"
-  },
-  {
-   "d": "2026-10-31T12:00:00Z",
-   "g": "NTS",
-   "s": "Ross Allen",
-   "sid": "nts-ross-allen",
-   "t": "Ross Allen",
-   "u": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-31st-october-2026"
-  },
-  {
-   "d": "2026-10-31T09:15:29Z",
-   "g": "Bass",
-   "s": "FBi Sunset (club and bass)",
-   "sid": "fbi-sunset",
-   "sp": "FBi Sunset (club and bass) Sunset with Dot Zip - 2026-10-31",
-   "t": "Sunset with Dot Zip - 2026-10-31",
-   "u": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-31"
-  },
-  {
-   "d": "2026-10-31T08:00:00Z",
-   "g": "NTS",
-   "s": "Sounds Of The Dawn",
-   "sid": "nts-soundsofthedawn",
-   "t": "Sounds Of The Dawn - David and Steve Gordon Special",
-   "u": "https://www.nts.live/shows/soundsofthedawn/episodes/soundsofthedawn-31st-october-2026"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 325,
+ "newCount": 328,
  "paused": 19,
  "releases": [
   {
@@ -195,6 +195,12 @@
   }
  ],
  "saved": [
+  {
+   "at": "2026-11-03T12:08:13Z",
+   "s": "Time To Track (Andrew Wowk, 2SER)",
+   "t": "Time To Track on 2SER (08/10/2026 - Special Guest Karan From Gigged Out)",
+   "u": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-08-10"
+  },
   {
    "at": "2026-10-20T04:42:38Z",
    "s": "SkyTop Residency (Alexey Sonar)",
@@ -227,5 +233,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-11-03T01:38:24Z"
+ "updated": "2026-11-03T21:30:07Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-03T18:22:41Z",
+   "desc": "November 17th, Clarkson Potter will release a book I’ve co-written with Brian Beck. Here is some background on it, pre-order/reader discount info, and announcement of initial events to promote it",
+   "duration": null,
+   "id": "https:--dadastrain.substack.com-p-book-events-on-the-records-80-musicians",
+   "image": "https://substackcdn.com/image/fetch/$s_!pceq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb221cbcc-32aa-4849-bb5d-da878493361b_1500x1013.jpeg",
+   "title": "BOOK + EVENTS: ‘On the Records: 80 Musicians on Beloved and Overlooked Albums’",
+   "url": "https://dadastrain.substack.com/p/book-events-on-the-records-80-musicians"
+  },
+  {
+   "audio": null,
    "date": "2026-10-30T18:59:02Z",
    "desc": "This week’s events include Oren Ambarchi x Kou Records / Luke Stewart: Two Nights at SEEDS / Halcyon Veil presents SCRAAATCH / Stephen Bernstein x The Stone / Nu Jazz / plus 28 more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/118897ff-844d-4cff-9279-ea4a29fd293d_1500x1013.jpeg",
    "title": "Bklyn Sounds 6/25/2026—6/30/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-62520266302026"
-  },
-  {
-   "audio": null,
-   "date": "2026-06-18T11:27:47Z",
-   "desc": "This week's events include Knicks parade / Juneteenth celebrations / Joe Morris opening Vision Festival / Bendik Giske x 'Dripping' / Basic + Bark Culture + Loren Connors / and much more",
-   "duration": null,
-   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-61820266232026",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/5147cfe6-6457-47a4-8fa6-25638f23e14c_1500x1013.jpeg",
-   "title": "Bklyn Sounds 6/18/2026—6/23/2026",
-   "url": "https://dadastrain.substack.com/p/bklyn-sounds-61820266232026"
   }
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-10-31T07:04:42Z"
+ "updatedAt": "2026-11-03T21:30:07Z"
 }

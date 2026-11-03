@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-03T17:03:02Z",
+   "desc": "The London duo mesh the twee of ? and their bass-heavy club tracks on a new album that takes them further from MySpace nostalgia",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-flooding-the-zone-the-bassvictim",
+   "image": "https://substackcdn.com/image/fetch/$s_!GWIX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5978f95-bf5c-4d76-a862-574b302461b8_1715x1080.jpeg",
+   "title": "Flooding the zone, the Bassvictim way",
+   "url": "https://loudandquiet.substack.com/p/flooding-the-zone-the-bassvictim"
+  },
+  {
+   "audio": null,
    "date": "2026-11-02T17:02:46Z",
    "desc": "To buy or not: your guide to this month’s upcoming albums",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!wG-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F600f0dd3-8679-4598-8cd7-1aae0b8a3cb1_800x533.gif",
    "title": "How Kid Harpoon went from mid-00s indie hustler to pop’s biggest producer",
    "url": "https://loudandquiet.substack.com/p/how-kid-harpoon-went-from-mid-00s-indie-hustler-to-harry-styles-producer"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-21T16:03:07Z",
-   "desc": "On her fourth album the Australian artist grapples with her lifelong question, for the good of folk rock and perhaps even us",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-to-love-or-be-free-julia-jacklins",
-   "image": "https://substackcdn.com/image/fetch/$s_!vxJb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f68e967-ccf3-4be0-a068-27ee8e5b8e00_2000x1333.jpeg",
-   "title": "To love or be free: Julia Jacklin’s The Gem",
-   "url": "https://loudandquiet.substack.com/p/to-love-or-be-free-julia-jacklins"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-11-03T01:38:24Z"
+ "updatedAt": "2026-11-03T21:30:07Z"
 }

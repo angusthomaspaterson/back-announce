@@ -3337,6 +3337,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-03T18:22:41Z",
+     "desc": "November 17th, Clarkson Potter will release a book I’ve co-written with Brian Beck. Here is some background on it, pre-order/reader discount info, and announcement of initial events to promote it",
+     "duration": null,
+     "id": "https:--dadastrain.substack.com-p-book-events-on-the-records-80-musicians",
+     "image": "https://substackcdn.com/image/fetch/$s_!pceq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb221cbcc-32aa-4849-bb5d-da878493361b_1500x1013.jpeg",
+     "title": "BOOK + EVENTS: ‘On the Records: 80 Musicians on Beloved and Overlooked Albums’",
+     "url": "https://dadastrain.substack.com/p/book-events-on-the-records-80-musicians"
+    },
+    {
+     "audio": null,
      "date": "2026-10-30T18:59:02Z",
      "desc": "This week’s events include Oren Ambarchi x Kou Records / Luke Stewart: Two Nights at SEEDS / Halcyon Veil presents SCRAAATCH / Stephen Bernstein x The Stone / Nu Jazz / plus 28 more",
      "duration": null,
@@ -3524,21 +3534,11 @@
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/118897ff-844d-4cff-9279-ea4a29fd293d_1500x1013.jpeg",
      "title": "Bklyn Sounds 6/25/2026—6/30/2026",
      "url": "https://dadastrain.substack.com/p/bklyn-sounds-62520266302026"
-    },
-    {
-     "audio": null,
-     "date": "2026-06-18T11:27:47Z",
-     "desc": "This week's events include Knicks parade / Juneteenth celebrations / Joe Morris opening Vision Festival / Bendik Giske x 'Dripping' / Basic + Bark Culture + Loren Connors / and much more",
-     "duration": null,
-     "id": "https:--dadastrain.substack.com-p-bklyn-sounds-61820266232026",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/5147cfe6-6457-47a4-8fa6-25638f23e14c_1500x1013.jpeg",
-     "title": "Bklyn Sounds 6/18/2026—6/23/2026",
-     "url": "https://dadastrain.substack.com/p/bklyn-sounds-61820266232026"
     }
    ],
    "kind": "rss",
    "name": "Dada Strain (Piotr Orlov)",
-   "updatedAt": "2026-10-31T07:04:42Z"
+   "updatedAt": "2026-11-03T21:30:07Z"
   },
   "days-like-nights": {
    "home": "https://soundcloud.com/eelkekleijn",
@@ -5567,6 +5567,16 @@
    "id": "first-floor",
    "items": [
     {
+     "audio": null,
+     "date": "2026-11-03T12:17:56Z",
+     "desc": "The Detroit techno icon’s untimely death has provoked an outpouring of grief, but it ought to spark questions about why his legacy isn’t being recognized outside the usual electronic music bubble.",
+     "duration": null,
+     "id": "https:--firstfloor.substack.com-p-juan-atkins-and-the-institutional",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/d994aef4-36cc-44dd-b112-faa62dd1c51d_1456x1048.jpeg",
+     "title": "Juan Atkins and the Institutional Failures of American Culture",
+     "url": "https://firstfloor.substack.com/p/juan-atkins-and-the-institutional"
+    },
+    {
      "date": "2026-11-02T09:17:15Z",
      "desc": "Sub Basics – Wavelengths 2 (Animalia) Fort Romeau – Sunlight (Rawax) Andy Stott – Late Loop (Modern Love)",
      "id": "rollup-2026-11-02",
@@ -5694,14 +5704,10 @@
     },
     {
      "date": "2026-10-21T18:28:55Z",
-     "desc": "nextdimensional – mind surf / deep space (Alpha Pup) Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
+     "desc": "Nectax – Cash4Gold / Close2Mine (Moveltraxx) Charlie May – Trusted Farms (A Strangely Isolated Place) Shelley Parker – Screed (Sneaker Social Club)",
      "id": "rollup-2026-10-21",
-     "image": "https://substackcdn.com/image/fetch/$s_!CnZt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc03d2e4b-280a-4e1a-a433-4231af51a557_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!dN_5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F283f6061-4c30-4a3b-8cd5-cc3d8cc1eee1_1456x1048.jpeg",
      "links": [
-      {
-       "t": "nextdimensional – mind surf / deep space",
-       "u": "https://firstfloor.substack.com/p/nextdimensional-mind-surf-deep-space"
-      },
       {
        "t": "Nectax – Cash4Gold / Close2Mine",
        "u": "https://firstfloor.substack.com/p/nectax-cash4gold-close2mine"
@@ -5715,13 +5721,13 @@
        "u": "https://firstfloor.substack.com/p/shelley-parker-screed"
       }
      ],
-     "title": "First Floor recommendations, 21 Oct: 4 records",
+     "title": "First Floor recommendations, 21 Oct: 3 records",
      "url": "https://firstfloor.substack.com/p/shelley-parker-screed"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-03T01:38:24Z"
+   "updatedAt": "2026-11-03T21:30:07Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -5938,6 +5944,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-03T12:24:33Z",
+     "desc": "New albums from Marina Herlop, Gibrana Cervantes, Civilistjävel!, and more",
+     "duration": null,
+     "id": "https:--futurismrestated.substack.com-p-fr-198-beyond-and-back",
+     "image": "https://substackcdn.com/image/fetch/$s_!SUHh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3705f3bf-9ec3-48f3-929e-f080e3022793_5712x4284.jpeg",
+     "title": "FR 198: Beyond and Back",
+     "url": "https://futurismrestated.substack.com/p/fr-198-beyond-and-back"
+    },
+    {
+     "audio": null,
      "date": "2026-10-29T11:03:54Z",
      "desc": "A bonus roundup of deep house, minimal techno, leftfield footwork, and more.",
      "duration": null,
@@ -6125,21 +6141,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!cHSY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e22347d-fbf6-4de7-98aa-9cd6459faa9e_2400x1200.jpeg",
      "title": "FR 182: Picture’s Uuuuuuuu Perfects a Forgotten Strain of Minimal Techno",
      "url": "https://futurismrestated.substack.com/p/fr-182-pictures-eeeeeeee-perfects"
-    },
-    {
-     "audio": null,
-     "date": "2026-07-28T10:03:53Z",
-     "desc": "The Rhythmic Music Conservatory grad on cut-up lyrics, 24-track tape, and blending Boredoms with Fleetwood Mac",
-     "duration": null,
-     "id": "https:--futurismrestated.substack.com-p-fr-181-how-ad-93s-gb-fused-dire-straits",
-     "image": "https://substackcdn.com/image/fetch/$s_!slsc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf42ad3-2578-46f3-aafe-c2987a82fbc9_3445x2304.jpeg",
-     "title": "FR 181: How AD 93’s GB Fused Dire Straits With Coil on His New Album Herzsprung",
-     "url": "https://futurismrestated.substack.com/p/fr-181-how-ad-93s-gb-fused-dire-straits"
     }
    ],
    "kind": "rss",
    "name": "Futurism Restated (Philip Sherburne)",
-   "updatedAt": "2026-10-29T23:05:17Z"
+   "updatedAt": "2026-11-03T21:30:07Z"
   },
   "gai-barone-patterns": {
    "home": "https://soundcloud.com/gaibarone",
@@ -9691,6 +9697,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-03T17:03:02Z",
+     "desc": "The London duo mesh the twee of ? and their bass-heavy club tracks on a new album that takes them further from MySpace nostalgia",
+     "duration": null,
+     "id": "https:--loudandquiet.substack.com-p-flooding-the-zone-the-bassvictim",
+     "image": "https://substackcdn.com/image/fetch/$s_!GWIX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5978f95-bf5c-4d76-a862-574b302461b8_1715x1080.jpeg",
+     "title": "Flooding the zone, the Bassvictim way",
+     "url": "https://loudandquiet.substack.com/p/flooding-the-zone-the-bassvictim"
+    },
+    {
+     "audio": null,
      "date": "2026-11-02T17:02:46Z",
      "desc": "To buy or not: your guide to this month’s upcoming albums",
      "duration": null,
@@ -9878,21 +9894,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!wG-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F600f0dd3-8679-4598-8cd7-1aae0b8a3cb1_800x533.gif",
      "title": "How Kid Harpoon went from mid-00s indie hustler to pop’s biggest producer",
      "url": "https://loudandquiet.substack.com/p/how-kid-harpoon-went-from-mid-00s-indie-hustler-to-harry-styles-producer"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-21T16:03:07Z",
-     "desc": "On her fourth album the Australian artist grapples with her lifelong question, for the good of folk rock and perhaps even us",
-     "duration": null,
-     "id": "https:--loudandquiet.substack.com-p-to-love-or-be-free-julia-jacklins",
-     "image": "https://substackcdn.com/image/fetch/$s_!vxJb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f68e967-ccf3-4be0-a068-27ee8e5b8e00_2000x1333.jpeg",
-     "title": "To love or be free: Julia Jacklin’s The Gem",
-     "url": "https://loudandquiet.substack.com/p/to-love-or-be-free-julia-jacklins"
     }
    ],
    "kind": "rss",
    "name": "Loud And Quiet",
-   "updatedAt": "2026-11-03T01:38:24Z"
+   "updatedAt": "2026-11-03T21:30:07Z"
   },
   "love-is-the-message": {
    "home": "https://loveisthemessagepod.co.uk/",
@@ -33464,6 +33470,14 @@
    "id": "underground-live-forever",
    "items": [
     {
+     "date": "2026-11-03T19:00:43Z",
+     "desc": "Tracklist [00:00:00] - Intro [00:00:38] - Das Pharaoh & Nourey - Resonance [UV] [00:06:53] - Das Pharaoh & Nourey - EON [UV] [00:11:16] - Kiaro & Futura City - Delta [Mango Alley] [00:15:28] - Roger Martinez - Downriver (Kasper Koman Remix) [Higher States] [00:20:12] - Tiefstone - 7 Lagos [UV] [00:24:21] - Tonaco - Rollie 153 [Mango Alley] [00:28:21] - Jamie Stevens - Tell You Later (GMJ & Matter Remix) [Music To Die For] [00:33:34] - PAUL (AR) - Aguanieve [UV] [00:37:31] - Juan Deminicis - Raining with Sun [Proportion] [00:40:23] - Juan Deminicis - In a Loop [Proportion] [00:44:18] - Tato Se…",
+     "id": "yt:video:MZw-F6EucxE",
+     "image": "https://i2.ytimg.com/vi/MZw-F6EucxE/hqdefault.jpg",
+     "title": "Underground Live Forever - ULF048 presented by Paul Thomas",
+     "url": "https://www.youtube.com/watch?v=MZw-F6EucxE"
+    },
+    {
      "date": "2026-10-27T19:00:14Z",
      "desc": "Tracklist [00:00:00] - Intro [00:00:38] - Modd - Mega Space [UV] [00:03:26] - Namatjira - Float on Innocence [Vapour Recordings] [00:08:42] - Erdi Irmak - Make a Move [Songuara] [00:13:32] - Navar - Chrono (Alex O’Rion Remix [Solis Records] [00:17:03] - Fran Garay, Diego R - Closed Feelings [Meanwhile] [00:20:09] - Alex O'Rion - Zero [SOLIS] [00:25:10] - Barry Jamieson - Fractured Lens (Gai Barone & Kasey Remix) [Mango Alley] [00:31:04] - Juan Deminicis - Attention [SOLIS] [00:34:22] - Ignacio Hernandez & Marcos Vidou - Lightshiver [Mango Alley] [00:38:17] - Blake Jarrell - Camarilla Pivots (…",
      "id": "yt:video:xPYC7JURTus",
@@ -33514,7 +33528,7 @@
    ],
    "kind": "rss",
    "name": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
-   "updatedAt": "2026-10-27T21:30:09Z"
+   "updatedAt": "2026-11-03T21:30:07Z"
   }
  },
  "sources": [
@@ -35138,7 +35152,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-03T01:38:24Z",
+  "lastRun": "2026-11-03T21:30:07Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-03T01:37:20Z",
@@ -35225,9 +35239,9 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 20,
-    "newest": "2026-10-30T18:59:02Z",
+    "newest": "2026-11-03T18:22:41Z",
     "ok": true
    },
    "days-like-nights": {
@@ -35261,7 +35275,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -35279,9 +35293,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-03T01:38:24Z",
-    "count": 8,
-    "newest": "2026-11-02T09:17:15Z",
+    "at": "2026-11-03T21:30:07Z",
+    "count": 9,
+    "newest": "2026-11-03T12:17:56Z",
     "ok": true
    },
    "flow-state": {
@@ -35291,9 +35305,9 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 20,
-    "newest": "2026-10-29T11:03:54Z",
+    "newest": "2026-11-03T12:24:33Z",
     "ok": true
    },
    "gai-barone-patterns": {
@@ -35333,7 +35347,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 20,
     "newest": "2026-11-01T13:53:01Z",
     "ok": true
@@ -35393,9 +35407,9 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 20,
-    "newest": "2026-11-02T17:02:46Z",
+    "newest": "2026-11-03T17:03:02Z",
     "ok": true
    },
    "love-is-the-message": {
@@ -35435,7 +35449,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -36155,7 +36169,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 20,
     "newest": "2026-11-02T11:02:36Z",
     "ok": true
@@ -36167,7 +36181,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 20,
     "newest": "2026-11-02T10:02:01Z",
     "ok": true
@@ -36185,7 +36199,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-03T01:38:24Z",
+    "at": "2026-11-03T21:30:07Z",
     "count": 20,
     "newest": "2026-10-07T17:12:53Z",
     "ok": true
@@ -36209,9 +36223,9 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-03T01:38:24Z",
-    "count": 6,
-    "newest": "2026-10-27T19:00:14Z",
+    "at": "2026-11-03T21:30:07Z",
+    "count": 7,
+    "newest": "2026-11-03T19:00:43Z",
     "ok": true
    }
   }
