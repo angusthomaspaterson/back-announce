@@ -3,6 +3,46 @@
  "id": "radio-cazimi",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2431339998-radio-cazimi-range-of-motion-w-effective.mp3",
+   "date": "2026-11-03T09:55:28Z",
+   "desc": "RANGE OF MOTION w/ Effective Power - EP2 by Radio Cazimi",
+   "duration": "01:59:20",
+   "id": "tag:soundcloud-2010:tracks-2431339998",
+   "image": "https://i1.sndcdn.com/artworks-urfSJ75z14NZvyPJ-9jbD1w-t3000x3000.jpg",
+   "title": "RANGE OF MOTION w/ Effective Power - EP2",
+   "url": "https://soundcloud.com/radio-cazimi/range-of-motion-w-effective"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2431332510-radio-cazimi-jaffa-tales-w-teo-ep5.mp3",
+   "date": "2026-11-03T09:46:08Z",
+   "desc": "JAFFA TALES w/ Teo - EP5 by Radio Cazimi",
+   "duration": "02:00:36",
+   "id": "tag:soundcloud-2010:tracks-2431332510",
+   "image": "https://i1.sndcdn.com/artworks-CLF9xLorfluTlzzm-CUN3zQ-t3000x3000.jpg",
+   "title": "JAFFA TALES w/ Teo - EP5",
+   "url": "https://soundcloud.com/radio-cazimi/jaffa-tales-w-teo-ep5"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2431332060-radio-cazimi-guest-mix-w-kids-eat-free-2.mp3",
+   "date": "2026-11-03T09:44:24Z",
+   "desc": "GUEST MIX w/ Kids Eat Free #2 by Radio Cazimi",
+   "duration": "01:59:09",
+   "id": "tag:soundcloud-2010:tracks-2431332060",
+   "image": "https://i1.sndcdn.com/artworks-vSwAzQA9VEbFRMsF-oCLM7A-t3000x3000.jpg",
+   "title": "GUEST MIX w/ Kids Eat Free #2",
+   "url": "https://soundcloud.com/radio-cazimi/guest-mix-w-kids-eat-free-2"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2431331820-radio-cazimi-newgame-w-meag-ep1.mp3",
+   "date": "2026-11-03T09:43:21Z",
+   "desc": "NEWGAME+ w/ Meag - EP1 by Radio Cazimi",
+   "duration": "01:59:59",
+   "id": "tag:soundcloud-2010:tracks-2431331820",
+   "image": "https://i1.sndcdn.com/artworks-zOw62WD0lEj2euRL-5Ou8Bw-t3000x3000.jpg",
+   "title": "NEWGAME+ w/ Meag - EP1",
+   "url": "https://soundcloud.com/radio-cazimi/newgame-w-meag-ep1"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2429221926-radio-cazimi-guest-mix-w-simona-castricum.mp3",
    "date": "2026-10-30T12:48:25Z",
    "desc": "In Walyalup for her national Villain tour, Narrm’s Simona Castricum blends new wave, electro-punk, industrial, techno and house, spanning 70s radio, 80s music television and underground club culture. Her fifth album, the Balearic-rock Villain, is out through Trans-Brunswick Express. She’s remixed Courtney Barnett, opened for DJ Hell and worked with Aérea Negrot. From queer basements and fetish clubs to Golden Plains, Strawberry Fields and the airwaves of 3RRR and Skylab Radio, Castricum moves between underground and festival dancefloors.",
@@ -211,49 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-CAwCFKpvikNz3rYD-Q46ivg-t3000x3000.jpg",
    "title": "LISTENING HOUR w/ Grace & Reece - EP 4",
    "url": "https://soundcloud.com/radio-cazimi/listening-hour-w-grace-reece"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2418716928-radio-cazimi-nyinalanginy-w-cole-baxter-1.mp3",
-   "date": "2026-10-14T08:40:28Z",
-   "desc": "https://podcasts.apple.com/au/podcast/kalyakoorl-waangkaniny/id1816829252",
-   "duration": "01:56:45",
-   "id": "tag:soundcloud-2010:tracks-2418716928",
-   "image": "https://i1.sndcdn.com/artworks-oRoryf6rxM0dPvTW-343c5g-t3000x3000.jpg",
-   "title": "NYINALANGINY w/ Cole Baxter & Dylan Collard - EP 2",
-   "url": "https://soundcloud.com/radio-cazimi/nyinalanginy-w-cole-baxter-1"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2418716736-radio-cazimi-west-cape-records-w-jeremy-s-2.mp3",
-   "date": "2026-10-14T08:39:31Z",
-   "desc": "WEST CAPE RECORDS w/ Jeremy S - EP 4 by Radio Cazimi",
-   "duration": "01:59:58",
-   "id": "tag:soundcloud-2010:tracks-2418716736",
-   "image": "https://i1.sndcdn.com/artworks-Ny8v32hysu6jxUGN-bjDCeA-t3000x3000.jpg",
-   "title": "WEST CAPE RECORDS w/ Jeremy S - EP 4",
-   "url": "https://soundcloud.com/radio-cazimi/west-cape-records-w-jeremy-s-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2418716529-radio-cazimi-desire-path-w-liv-pickering-ep.mp3",
-   "date": "2026-10-14T08:38:44Z",
-   "desc": "DESIRE PATH w/ Liv Pickering - EP 1 by Radio Cazimi",
-   "duration": "01:00:03",
-   "id": "tag:soundcloud-2010:tracks-2418716529",
-   "image": "https://i1.sndcdn.com/artworks-j3SLyXINua6by23g-ISxCYQ-t3000x3000.jpg",
-   "title": "DESIRE PATH w/ Liv Pickering - EP 1",
-   "url": "https://soundcloud.com/radio-cazimi/desire-path-w-liv-pickering-ep"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2418716013-radio-cazimi-goodbye-behaviour-w-zev-ep-1.mp3",
-   "date": "2026-10-14T08:37:11Z",
-   "desc": "GOODBYE BEHAVIOUR w/ Zev - EP 1 by Radio Cazimi",
-   "duration": "02:00:01",
-   "id": "tag:soundcloud-2010:tracks-2418716013",
-   "image": "https://i1.sndcdn.com/artworks-dlg0Dcy2tgWnDYP1-3KXOlg-t3000x3000.jpg",
-   "title": "GOODBYE BEHAVIOUR  w/ Zev - EP 1",
-   "url": "https://soundcloud.com/radio-cazimi/goodbye-behaviour-w-zev-ep-1"
   }
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-03T23:59:56Z"
 }

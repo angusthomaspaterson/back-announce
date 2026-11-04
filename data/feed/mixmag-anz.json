@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-03T07:00:00Z",
+   "desc": "Burnia's much-adored rainforest escape returns for a fifth and final edition in February. Of the 37 acts on the bill, 36 are local. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-woodburnia-announces-its-farewell-with-an-almost-entirely-local-lineup-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Woodburnia-2027-Cheahdx.png",
+   "title": "Woodburnia announces its farewell with an almost entirely local lineup",
+   "url": "https://mixmag.net.au/read/woodburnia-announces-its-farewell-with-an-almost-entirely-local-lineup-news"
+  },
+  {
+   "audio": null,
    "date": "2026-11-02T01:27:00Z",
    "desc": "The Detroit pioneer was discovered unresponsive in a hotel room ahead of a performance in Mexico City, his management has confirmed. Continue reading...",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "Looking back to look forward: 10 artists on 10 years of Pure Space",
    "url": "https://mixmag.net.au/feature/looking-back-to-look-forward-10-artists-on-10-years-of-pure-space"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-23T05:20:00Z",
-   "desc": "Almost two decades in, Rainbow Disco Club visits Gadigal Land to share its wealth of experience, as part of SURPLUS festival. Continue reading...",
-   "duration": null,
-   "id": "ttps:--mixmag.net.au-feature-a-scale-where-we-can-see-everyones-faces-rainbow-disco-club-on-17-years-of-staying-intimate",
-   "image": null,
-   "title": "\"A scale where we can see everyone's faces\": Rainbow Disco Club on 17 years of staying intimate",
-   "url": "https://mixmag.net.au/feature/a-scale-where-we-can-see-everyones-faces-rainbow-disco-club-on-17-years-of-staying-intimate"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-03T01:37:20Z"
+ "updatedAt": "2026-11-03T23:59:56Z"
 }

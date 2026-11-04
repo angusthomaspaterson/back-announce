@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/223278887/299c6448a2246c78667e3f3344a7d422.mp3",
+   "date": "2026-11-03T08:02:43Z",
+   "desc": "Today’s mix is available to everyone.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-350",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 350",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-350"
+  },
+  {
    "audio": null,
    "date": "2026-11-02T08:03:14Z",
    "desc": "Today we’re listening to Kali Malone, an American organist, synthesist, and composer from Colorado.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!brq9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe67b0b5b-5b36-4b72-8b4f-793dc4640ede_1200x960.jpeg",
    "title": "Akusmi",
    "url": "https://www.flowstate.fm/p/akusmi"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/219046343/25871ac4933b7ca39a5d0f320151b1fd.mp3",
-   "date": "2026-10-06T07:04:15Z",
-   "desc": "Today’s mix opens with a 2003 composition by William Basinski, followed by new music from marine eyes & Líom, Chihei Hatakeyama, and Midori Hirano.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-flow-state-episode-346",
-   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
-   "title": "Flow State Episode 346",
-   "url": "https://www.flowstate.fm/p/flow-state-episode-346"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-03T01:37:20Z"
+ "updatedAt": "2026-11-03T23:59:56Z"
 }

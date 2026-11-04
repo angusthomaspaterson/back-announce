@@ -3,6 +3,16 @@
  "id": "phonica-mix",
  "items": [
   {
+   "date": "2026-11-03T12:47:04Z",
+   "desc": "",
+   "duration": "3882",
+   "id": "-phonicarecords-phonica-mix-series-149-jump-source-",
+   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/5/9/f/1/9c45-526d-4c2f-94f8-388bbaaf1184",
+   "tags": "Jump source, Tech house, Minimal, Patrick Holland",
+   "title": "Phonica Mix Series 149: Jump Source",
+   "url": "https://www.mixcloud.com/phonicarecords/phonica-mix-series-149-jump-source/"
+  },
+  {
    "date": "2026-10-01T11:10:55Z",
    "desc": "",
    "duration": "3715",
@@ -241,19 +251,9 @@
    "tags": "Mattias el mansouri, House, Techno, Chill",
    "title": "Phonica Mix Series 125: Mattias El Mansouri",
    "url": "https://www.mixcloud.com/phonicarecords/phonica-mix-series-125-mattias-el-mansour/"
-  },
-  {
-   "date": "2024-10-01T16:14:17Z",
-   "desc": "",
-   "duration": "4625",
-   "id": "-phonicarecords-phonica-mix-series-124-nick-the-record-",
-   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/5/1/6/6/4dbf-d260-427d-8af3-6b45c65e0d05",
-   "tags": "Nick the record, PHONICA MIX SERIES, Disco, House",
-   "title": "Phonica Mix Series 124: Nick The Record",
-   "url": "https://www.mixcloud.com/phonicarecords/phonica-mix-series-124-nick-the-record/"
   }
  ],
  "kind": "mixcloud",
  "name": "Phonica Mix Series",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-03T23:59:56Z"
 }

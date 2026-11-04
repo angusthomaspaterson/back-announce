@@ -3,6 +3,16 @@
  "id": "switched-on-pop",
  "items": [
   {
+   "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6218919915.mp3",
+   "date": "2026-11-03T08:01:00Z",
+   "desc": "On her eighth studio album Popstar, the criminally underrated multihyphenate Tinashe finally asserts herself as a Main Pop Girl, crafting a record about what it means to be a celebrity in the modern era. For her, it’s about grinding for years, living in the fantasy, and connecting herself to an artistic lineage – asserting a compelling thesis on stardom. On this episode of Switched On Pop, Reanna and Charlie talk all things Tinashe, and do some serious uplifting in the process. CREDITS  Reanna Cruz: Producer  Iris Gottlieb: Illustrator  Charlie Harding: Host, Executive Producer  Dion Lee: Art…",
+   "duration": "2804",
+   "id": "42a964bc-be65-11f0-9a96-6fd031e1c690",
+   "image": "https://megaphone.imgix.net/podcasts/42a964bc-be65-11f0-9a96-6fd031e1c690/image/b91a9c4e02e04b254f9c5912a779f4fb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "A unified popstar theory from Tinashe",
+   "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6218919915.mp3"
+  },
+  {
    "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8996790217.mp3",
    "date": "2026-10-27T07:01:00Z",
    "desc": "A few months ago, Nate came across a glittering guitar riff unlike anything he had ever heard before; it managed to perfectly balance careful optimism with plaintive melancholy, stirring the spirit. That melody, played by guitarist Yvette Young, was a shining example of the “midwest emo” sound, a genre pioneered by bands like American Football, Gauge, and Braid. On this episode of Switched On Pop, Nate introduces Charlie to all things midwest and emo, speaking with Young and American Football frontman Mike Kinsella in the process.  CREDITS Reanna Cruz: Producer  Iris Gottlieb: Illustrator  Ch…",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/41351c84-be65-11f0-9a96-bb97b9768993/image/8e180bc5bdcc531fc7f509143111e419.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "Paul McCartney went back to Liverpool for something new to say",
    "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9257293661.mp3?updated=1780940966"
-  },
-  {
-   "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7000739079.mp3?updated=1780697732",
-   "date": "2026-06-05T22:10:00Z",
-   "desc": "A sci-fi ballet imagined a 2080 where AI strips people of purpose, and the day before its New York premiere, an actual dystopia arrived. Arc Iris, the trio of Jocie Adams, Zach Tenorio and Ray Belli, built iTMRW as a concept record set in a future ruled by a mega-corporation that shares its name. In its world, AI has taken most jobs and even the thinking left inside them, so the corporation offers pods where anyone can live any dream in virtual reality. The piece premiered in Cambridge in January 2020, then its New York show collapsed the day before the lockdown. What follows is the story of …",
-   "duration": "782",
-   "id": "c219bdce-612a-11f1-9823-ef087d20c52f",
-   "image": "https://megaphone.imgix.net/podcasts/c219bdce-612a-11f1-9823-ef087d20c52f/image/53f84d6b2ec9ff0519ab538466811aac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "How a sci-fi dystopia became a personal utopia (ft. Arc Iris)",
-   "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7000739079.mp3?updated=1780697732"
   }
  ],
  "kind": "rss",
  "name": "Switched On Pop",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-11-03T23:59:56Z"
 }

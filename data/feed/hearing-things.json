@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-03T17:03:50Z",
+   "desc": "Plus pristine street rap that evokes Walter Mosley and Omar Little",
+   "duration": null,
+   "id": "6ae972e9b35c8a00011ac39c",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/11/Copy-of-Album-Covers-4_3--4-.png",
+   "title": "The Next Great Riot Grrrl Band",
+   "url": "https://www.hearingthings.co/the-next-great-riot-grrrl-band/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-29T15:41:59Z",
    "desc": "Frightful and unearthly music recommendations for your Halloween",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Five-Songs-Template-11--19-.png",
    "title": "Gen-Z Rock Philosophy and Psychedelic Onomatopoeia",
    "url": "https://www.hearingthings.co/gen-z-rock-philosophy-and-psychedelic-onomatopoeia/"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-01T16:26:34Z",
-   "desc": "Plus the 11-years-later return of the Alabama Shakes.",
-   "duration": null,
-   "id": "6a966cbb07c4d5000189f672",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Album-Covers-43--8-.png",
-   "title": "Did Someone Say \"Supergroups\"?",
-   "url": "https://www.hearingthings.co/did-someone-say-supergroups/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-10-29T23:19:37Z"
+ "updatedAt": "2026-11-03T23:59:56Z"
 }

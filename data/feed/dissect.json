@@ -3,6 +3,16 @@
  "id": "dissect",
  "items": [
   {
+   "audio": "https://traffic.megaphone.fm/GLT7312947605.mp3",
+   "date": "2026-11-03T10:31:00Z",
+   "desc": "Our focus on hip hop features concludes with Kendrick Lamar. We track his entire feature catalog, from the K Dot days to his internet-breaking verse on \"Like That,\" breaking down the best bars along the way. ⁠Full breakdown of \"NOSETALGIA\"⁠ ⁠PLAYLIST of all songs in this episode⁠ Host/Writer/EP: Cole Cuchna Editor: Kevin Pooler Theme: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "duration": "4100",
+   "id": "ef782cf4-d4ae-11f1-9d6c-97e5aed55c49",
+   "image": "https://megaphone.imgix.net/podcasts/ef782cf4-d4ae-11f1-9d6c-97e5aed55c49/image/dab396a6647755a402b5b3ea32d3f199.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "Kendrick Lamar's Best Features Dissected Line-By-Line",
+   "url": "https://traffic.megaphone.fm/GLT7312947605.mp3"
+  },
+  {
    "audio": "https://traffic.megaphone.fm/GLT4497605683.mp3",
    "date": "2026-10-27T09:30:00Z",
    "desc": "Without a solo rap album, the second half of André 3000’s career has been largely defined by his remarkable catalog of guest features. Today, we trace that catalog from 2007 to the present, dissecting some of his most brilliant verses along the way. ⁠Listen to a playlist of Andre features heard in this episode⁠. Host/Writer/EP: Cole Cuchna Video Editor: Kevin Pooler Additional Production: Justin Sayles Theme: Birocratic Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/ff3e4fe4-38e4-11f1-9140-7fe5264c4ab8/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "E6 - Dissecting \"Harder, Better, Faster, Stronger\" by Daft Punk",
    "url": "https://traffic.megaphone.fm/GLT8195780505.mp3?updated=1776700917"
-  },
-  {
-   "audio": "https://traffic.megaphone.fm/GLT7805586398.mp3?updated=1776124923",
-   "date": "2026-04-14T09:31:00Z",
-   "desc": "Our dissection of Daft Punk’s Discovery continues with “Digital Love,” a dreamlike love story where harmony and sound design beautifully mirror its theme of unrequited love. Cole claims the song is now one of his favorites of all time as a result of making this episode - listen to find out why. Follow @dissectpodcast on⁠ Instagram⁠,⁠ TikTok⁠, and⁠ Twitter⁠. Host/Writer/EP: Cole Cuchna Editors: Kevin Pooler & Iulia Ciobanu Theme Music: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "duration": "2377",
-   "id": "f8a554be-3503-11f1-939f-6b391a6ea9ec",
-   "image": "https://megaphone.imgix.net/podcasts/f8a554be-3503-11f1-939f-6b391a6ea9ec/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "E5 - Dissecting \"Digital Love\" by Daft Punk",
-   "url": "https://traffic.megaphone.fm/GLT7805586398.mp3?updated=1776124923"
   }
  ],
  "kind": "rss",
  "name": "Dissect",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-11-03T23:59:56Z"
 }

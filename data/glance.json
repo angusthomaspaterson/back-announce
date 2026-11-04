@@ -10,6 +10,30 @@
    "u": "https://www.youtube.com/watch?v=MZw-F6EucxE"
   },
   {
+   "d": "2026-11-03T17:46:10Z",
+   "g": "Writing",
+   "s": "Stereogum: Album of the Week",
+   "sid": "stereogum-aotw",
+   "t": "Album Of The Week: Willi Carlisle The Universal Bubba",
+   "u": "https://stereogum.com/2516368/album-of-the-week-willi-carlisle-the-universal-bubba/reviews/album-of-the-week/"
+  },
+  {
+   "d": "2026-11-03T12:47:04Z",
+   "g": "Mixes",
+   "s": "Phonica Mix Series",
+   "sid": "phonica-mix",
+   "t": "Phonica Mix Series 149: Jump Source",
+   "u": "https://www.mixcloud.com/phonicarecords/phonica-mix-series-149-jump-source/"
+  },
+  {
+   "d": "2026-11-03T12:35:21Z",
+   "g": "Radio",
+   "s": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
+   "sid": "balearic-breakfast",
+   "t": "Colleen 'Cosmo' Murphy's Balearic Breakfast 3.11.26",
+   "u": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261103-095955/"
+  },
+  {
    "d": "2026-11-03T12:24:33Z",
    "g": "Writing",
    "s": "Futurism Restated (Philip Sherburne)",
@@ -26,12 +50,105 @@
    "u": "https://firstfloor.substack.com/p/juan-atkins-and-the-institutional"
   },
   {
+   "d": "2026-11-03T10:31:00Z",
+   "g": "Podcasts",
+   "s": "Dissect",
+   "sid": "dissect",
+   "sp": "Dissect Kendrick Lamar's Best Features Dissected Line-By-Line",
+   "t": "Kendrick Lamar's Best Features Dissected Line-By-Line",
+   "u": "https://traffic.megaphone.fm/GLT7312947605.mp3"
+  },
+  {
+   "d": "2026-11-03T10:00:00Z",
+   "g": "Radio",
+   "s": "NPR: All Songs Considered",
+   "sid": "all-songs-considered",
+   "sp": "NPR: All Songs Considered The best songs we've missed this year",
+   "t": "The best songs we've missed this year",
+   "u": "https://www.npr.org/2026/11/03/nx-s1-6026717/the-best-songs-weve-missed-this-year"
+  },
+  {
+   "d": "2026-11-03T08:02:43Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "sp": "Flow State Flow State Episode 350",
+   "t": "Flow State Episode 350",
+   "u": "https://www.flowstate.fm/p/flow-state-episode-350"
+  },
+  {
+   "d": "2026-11-03T08:01:00Z",
+   "g": "Podcasts",
+   "s": "Switched On Pop",
+   "sid": "switched-on-pop",
+   "sp": "Switched On Pop A unified popstar theory from Tinashe",
+   "t": "A unified popstar theory from Tinashe",
+   "u": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6218919915.mp3"
+  },
+  {
+   "d": "2026-11-03T08:00:00Z",
+   "g": "Radio",
+   "s": "KEXP: In Our Headphones",
+   "sid": "in-our-headphones",
+   "sp": "KEXP: In Our Headphones KEXP’s Dusty Henry on Jo Passed’s Tribute to Their Very Zen Cat",
+   "t": "KEXP’s Dusty Henry on Jo Passed’s Tribute to Their Very Zen Cat",
+   "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dusty-henry-on-jo-passed-s-tribute-to-their-very-zen-cat"
+  },
+  {
+   "d": "2026-11-03T07:00:00Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Woodburnia announces its farewell with an almost entirely local lineup",
+   "u": "https://mixmag.net.au/read/woodburnia-announces-its-farewell-with-an-almost-entirely-local-lineup-news"
+  },
+  {
    "d": "2026-11-03T01:36:19Z",
    "g": "Radio",
    "s": "Time To Track (Andrew Wowk, 2SER)",
    "sid": "time-to-track",
    "t": "Time To Track on 2SER (08/10/2026 - Special Guest Karan From Gigged Out)",
    "u": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-08-10"
+  },
+  {
+   "d": "2026-11-03T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Extreme Conditions: Inside Nepal’s Metal Underground",
+   "u": "https://daily.bandcamp.com/scene-report/nepal-metal-scene-report"
+  },
+  {
+   "d": "2026-11-03T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "The Best Ambient Music on Bandcamp, October 2026",
+   "u": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-october-2026"
+  },
+  {
+   "d": "2026-11-03T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "The Best Jazz on Bandcamp, October 2026",
+   "u": "https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-october-2026"
+  },
+  {
+   "d": "2026-11-03T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Moses Boyd, “Songs For Sinners”",
+   "u": "https://daily.bandcamp.com/album-of-the-day/moses-boyd-songs-for-sinners-review"
+  },
+  {
+   "d": "2026-11-02T12:00:10Z",
+   "g": "Progressive",
+   "s": "Eelke Kleijn: DAYS like NIGHTS Radio",
+   "sid": "days-like-nights",
+   "t": "DAYS like NIGHTS 468 - Lemon & Lime @ W Hotel, Brisbane, Part 2",
+   "u": "https://soundcloud.com/eelke-kleijn/days-like-nights-468-lemon"
   },
   {
    "d": "2026-11-02T09:17:15Z",
@@ -49,124 +166,10 @@
    "sp": "Nora En Pure: Purified Radio Purified Radio 532",
    "t": "Purified Radio 532",
    "u": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_532_Podcast-1793275373652532389-NDMyODktODYxOTc4MTE=.mp3"
-  },
-  {
-   "d": "2026-11-02T08:03:14Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Kali Malone",
-   "u": "https://www.flowstate.fm/p/kali-malone-167"
-  },
-  {
-   "d": "2026-11-02T03:00:00Z",
-   "g": "Progressive",
-   "s": "CiTR: Techno Progressivo",
-   "sid": "citr-techno-progressivo",
-   "sp": "CiTR: Techno Progressivo Chris Larson Interview",
-   "t": "Chris Larson Interview",
-   "u": "https://www.spreaker.com/episode/chris-larson-interview--76129856"
-  },
-  {
-   "d": "2026-11-02T01:27:00Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "Techno originator Juan Atkins has died aged 64",
-   "u": "https://mixmag.net.au/read/techno-originator-juan-atkins-has-died-aged-64-news"
-  },
-  {
-   "d": "2026-11-02T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "GDP Had to Disappear to Find Himself",
-   "u": "https://daily.bandcamp.com/features/gdp-rapper-run-for-cover-interview"
-  },
-  {
-   "d": "2026-11-02T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Best Punk on Bandcamp, October 2026",
-   "u": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-october-2026"
-  },
-  {
-   "d": "2026-11-02T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Best Hip-Hop on Bandcamp, October 2026",
-   "u": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-october-2026"
-  },
-  {
-   "d": "2026-11-02T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Various Artists, “A La Altura: Visionary Mexican Music 1977–1999, Volume 1”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/various-artists-a-la-altura-visionary-mexican-music-1977-1999-volume-1-review"
-  },
-  {
-   "d": "2026-11-02T00:00:00Z",
-   "g": "Radio",
-   "s": "Bandcamp Radio",
-   "sid": "bandcamp-radio",
-   "t": "Bandcamp Selects: Seun Kuti",
-   "u": "https://bandcamp.com/radio/bandcamp-selects/1011"
-  },
-  {
-   "d": "2026-11-01T22:00:29Z",
-   "g": "Mixes",
-   "s": "RA Podcast",
-   "sid": "ra-podcast",
-   "t": "RA.1063 Andy Stott",
-   "u": "https://soundcloud.com/resident-advisor/ra-1063-andy-stott"
-  },
-  {
-   "d": "2026-11-01T16:00:00Z",
-   "g": "NTS",
-   "s": "Kit Grill",
-   "sid": "nts-kit-grill",
-   "t": "Kit Grill w/  Selin Öktem - Aşk, Meşk & Anatolian Psychedelia",
-   "u": "https://www.nts.live/shows/kit-grill/episodes/kit-grill-1st-november-2026"
-  },
-  {
-   "d": "2026-11-01T14:00:14Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Odette on a later-in-life autism diagnosis: ‘It completely revolutionised the way that I exist’",
-   "u": "https://www.theguardian.com/music/ng-interactive/2026/nov/02/odette-on-a-later-in-life-autism-diagnosis-it-completely-revolutionised-the-way-that-i-exist"
-  },
-  {
-   "d": "2026-11-01T06:00:00Z",
-   "g": "Progressive",
-   "s": "Resident by Hernan Cattaneo",
-   "sid": "resident",
-   "sp": "Resident by Hernan Cattaneo Resident / Episode 808 / October 31 2026",
-   "t": "Resident / Episode 808 / October 31 2026",
-   "u": "https://podcast.hernancattaneo.com/e/resident-episode-808-october-31-2026/"
-  },
-  {
-   "d": "2026-11-01T00:00:00Z",
-   "g": "NTS",
-   "s": "Ben Sims Presents: Run It Red",
-   "sid": "nts-ben-sims",
-   "t": "Ben Sims Presents: Run It Red",
-   "u": "https://www.nts.live/shows/ben-sims/episodes/ben-sims-1st-november-2026"
-  },
-  {
-   "d": "2026-10-31T19:00:00Z",
-   "g": "NTS",
-   "s": "Mutualism",
-   "sid": "nts-mutualism",
-   "t": "Mutualism Halloween OST Special",
-   "u": "https://www.nts.live/shows/mutualism/episodes/mutualism-31st-october-2026"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 328,
+ "newCount": 338,
  "paused": 19,
  "releases": [
   {
@@ -233,5 +236,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-11-03T21:30:07Z"
+ "updated": "2026-11-03T23:59:56Z"
 }
