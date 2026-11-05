@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-11-05T12:15:12Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 5 Nov: 1 record",
+   "u": "https://firstfloor.substack.com/p/first-floor-335-grief-is-not-enough"
+  },
+  {
    "d": "2026-11-05T00:24:22Z",
    "g": "Progressive",
    "s": "Anjunadeep releases",
@@ -59,14 +67,6 @@
    "sid": "first-floor",
    "t": "Elori Saxl Has Better Taste Than I Do",
    "u": "https://firstfloor.substack.com/p/elori-saxl-has-better-taste-than"
-  },
-  {
-   "d": "2026-11-04T10:00:00Z",
-   "g": "Rinse FM",
-   "s": "Esk",
-   "sid": "rinse-esk",
-   "t": "Esk, 4 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/esk-04-11-2026-1000"
   },
   {
    "d": "2026-11-04T08:02:47Z",
@@ -169,8 +169,8 @@
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 357,
- "paused": 19,
+ "newCount": 353,
+ "paused": 20,
  "releases": [
   {
    "k": "Album · Anjunadeep",
@@ -242,5 +242,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-11-05T06:14:06Z"
+ "updated": "2026-11-05T21:30:07Z"
 }

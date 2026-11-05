@@ -3,6 +3,20 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-11-05T12:15:12Z",
+   "desc": "First Floor #335 – Grief Is Not Enough",
+   "id": "rollup-2026-11-05",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/e7f1e8ea-1404-4412-abdc-33e09440e748_1456x1048.png",
+   "links": [
+    {
+     "t": "First Floor #335 – Grief Is Not Enough",
+     "u": "https://firstfloor.substack.com/p/first-floor-335-grief-is-not-enough"
+    }
+   ],
+   "title": "First Floor recommendations, 5 Nov: 1 record",
+   "url": "https://firstfloor.substack.com/p/first-floor-335-grief-is-not-enough"
+  },
+  {
    "date": "2026-11-04T20:38:21Z",
    "desc": "BFTT – Loving (Pulling Close) (Local Action) Bodu Vega – Trouble on the Druids Tongue / Sirens at Dawn (STEMcell) Untold – Crop Milk (Hemlock) Warrington-Runcorn New Town Development Plan – Industrial Growth (Castles in Space) Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
    "id": "rollup-2026-11-04",
@@ -125,23 +139,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!31Go!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffde173a-3200-4c65-982f-acaa453e9ffd_5422x3333.jpeg",
    "title": "Midori Hirano Has Better Taste Than I Do",
    "url": "https://firstfloor.substack.com/p/midori-hirano-has-better-taste-than"
-  },
-  {
-   "date": "2026-10-28T10:19:54Z",
-   "desc": "ex_libris – 004 (Self-released)",
-   "id": "rollup-2026-10-28",
-   "image": "https://substackcdn.com/image/fetch/$s_!KkPI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0964594-aa99-4740-a8e8-5d26b7240146_1456x1048.jpeg",
-   "links": [
-    {
-     "t": "ex_libris – 004",
-     "u": "https://firstfloor.substack.com/p/ex_libris-004"
-    }
-   ],
-   "title": "First Floor recommendations, 28 Oct: 1 record",
-   "url": "https://firstfloor.substack.com/p/ex_libris-004"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-05T06:14:06Z"
+ "updatedAt": "2026-11-05T21:30:07Z"
 }
