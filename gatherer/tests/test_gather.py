@@ -101,6 +101,25 @@ class ParseNts(unittest.TestCase):
         self.assertIn("location", first)
 
 
+class ParseBbc(unittest.TestCase):
+    def test_sounds_listing(self):
+        src = {"id": "bbc-essential-mix", "name": "Radio 1's Essential Mix", "kind": "bbc", "pid": "b006wkfp"}
+        items = gather.finish(gather.parse_bbc(fixture("bbc-rms-b006wkfp.json"), src), src,
+                              now=datetime.datetime(2026, 11, 5, tzinfo=gather.UTC))
+        self.assertEqual(len(items), 12)
+        first = items[0]
+        # The episode pid comes from the urn; the item's own id is the version pid.
+        self.assertEqual(first["id"], "m00332wf")
+        self.assertEqual(first["url"], "https://www.bbc.co.uk/sounds/play/m00332wf")
+        self.assertEqual(first["title"], "Yung Singh")
+        self.assertEqual(first["date"], "2026-10-31T02:00:00Z")
+        self.assertEqual(first["until"], "2026-12-26T02:00:00Z")
+        self.assertTrue(first["desc"].startswith("On BBC Sounds until 26 Dec (UK only). Yung Singh mixes"))
+        self.assertEqual(first["image"], "https://ichef.bbci.co.uk/images/ic/640x360/p0m0slhx.jpg")
+        self.assertEqual(first["duration"], "7200")
+        self.assertNotIn("audio", first)
+
+
 class ParseRinse(unittest.TestCase):
     def test_show_page(self):
         src = {"id": "rinse-papaoul", "name": "Papaoul", "kind": "rinse", "slug": "papaoul"}

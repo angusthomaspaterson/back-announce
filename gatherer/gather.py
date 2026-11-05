@@ -9,6 +9,8 @@ Usage:  python3 gatherer/gather.py [--data data] [--only id,id,...] [--workers 6
 SOURCE KINDS
   rss       {"id","name","kind":"rss","url","home"}         any RSS/Atom feed (SoundCloud, podcasts, Substack)
   nts       {"id","name","kind":"nts","slug","home"}        an NTS show, read from the public NTS API
+  bbc       {"id","name","kind":"bbc","pid","home"}         a BBC radio programme (brand pid), read from the
+                                                             BBC Sounds listing; playable in the UK only
   rinse     {"id","name","kind":"rinse","slug","home"}      a Rinse FM show, read from its show page
   mixcloud  {"id","name","kind":"mixcloud","user","home"}   a Mixcloud account, read from api.mixcloud.com/<user>/cloudcasts/
   manual    {"id","name","kind":"manual","home"}            Bandcamp Daily and Bandcamp Radio, read from their home pages.
@@ -205,6 +207,36 @@ def parse_nts(data, src):
     return out
 
 
+def parse_bbc(data, src):
+    """BBC Sounds: the episodes of one programme that are available to play now.
+
+    The listing is open worldwide, but playback is UK only (Angus uses a VPN).
+    Episodes leave the list when their BBC Sounds window closes, so each card
+    says how long it stays up. Dated by when the episode became available,
+    which is just after it went to air.
+    """
+    data = json.loads(data)
+    out = []
+    for p in data.get("data", []):
+        pid = (p.get("urn") or "").rsplit(":", 1)[-1] or p.get("id")
+        titles = p.get("titles") or {}
+        syn = p.get("synopses") or {}
+        avail = p.get("availability") or {}
+        until = parse_date(avail.get("to"))
+        desc = syn.get("long") or syn.get("medium") or syn.get("short") or ""
+        if until:
+            perth = datetime.datetime.fromisoformat(until.replace("Z", "+00:00")) + datetime.timedelta(hours=8)
+            desc = f"On BBC Sounds until {day_month(perth)} (UK only). {desc}"
+        secs = (p.get("duration") or {}).get("value")
+        img = p.get("image_url")
+        out.append(item(pid, titles.get("secondary") or titles.get("entity_title") or titles.get("primary") or src["name"],
+                        f"https://www.bbc.co.uk/sounds/play/{pid}",
+                        parse_date(avail.get("from")) or parse_date((p.get("release") or {}).get("date")), desc,
+                        {"image": img.replace("{recipe}", "640x360") if img else None,
+                         "duration": str(secs) if secs else None, "until": until}))
+    return out
+
+
 def parse_rinse(page, src):
     if isinstance(page, bytes):
         page = page.decode("utf-8", "ignore")
@@ -356,6 +388,11 @@ def do_nts(src, fetcher):
     return parse_nts(fetcher(f"https://www.nts.live/api/v2/shows/{src['slug']}/episodes?limit={KEEP}&offset=0"), src)
 
 
+def do_bbc(src, fetcher):
+    return parse_bbc(fetcher("https://rms.api.bbc.co.uk/v2/programmes/playable?container="
+                             f"{src['pid']}&sort=sequential&type=episode&limit={KEEP}"), src)
+
+
 def do_rinse(src, fetcher):
     return parse_rinse(fetcher(f"https://www.rinse.fm/shows/{src['slug']}"), src)
 
@@ -384,7 +421,7 @@ def do_manual(src, fetcher):
     raise ValueError(f"no parser for manual source {home}")
 
 
-KINDS = {"rss": do_rss, "nts": do_nts, "rinse": do_rinse, "mixcloud": do_mixcloud, "manual": do_manual}
+KINDS = {"rss": do_rss, "nts": do_nts, "bbc": do_bbc, "rinse": do_rinse, "mixcloud": do_mixcloud, "manual": do_manual}
 
 
 # ---------- post-processing ----------

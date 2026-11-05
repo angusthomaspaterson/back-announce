@@ -37,6 +37,9 @@ PAGES = {
     "https://www.gorillavsbear.net/feed/": "substack-first-floor.rss",
     "https://www.gorillavsbear.net/": "html-gorillavsbear.html",
     "https://firstfloor.substack.com/feed": "substack-first-floor.rss",
+    "https://www.bbc.co.uk/programmes/m00332wf.json": "bbc-programme-m00332wf.json",
+    "https://www.bbc.co.uk/programmes/b006wkfp.json": "bbc-programme-b006wkfp.json",
+    "https://rms.api.bbc.co.uk/v2/programmes/playable?container=b006wkfp": "bbc-rms-b006wkfp.json",
 }
 
 
@@ -79,6 +82,17 @@ class Check(unittest.TestCase):
             self.assertEqual(r["source"], {"id": "nts-gigi-fm", "name": "GiGi FM", "kind": "nts", "slug": "gigi-fm", "home": "https://www.nts.live/shows/gigi-fm"})
             self.assertTrue(1 <= len(r["items"]) <= 5)
             self.assertTrue(r["items"][0]["url"].startswith("https://www.nts.live/shows/gigi-fm/episodes/"))
+
+    def test_bbc_programme_brand_and_episode_links(self):
+        for url in ("https://www.bbc.co.uk/programmes/b006wkfp", "https://www.bbc.co.uk/sounds/brand/b006wkfp",
+                    "https://www.bbc.co.uk/sounds/play/m00332wf"):
+            r = self.ok(url)
+            self.assertEqual(r["source"], {"id": "bbc-radio-1-s-essential-mix", "name": "Radio 1's Essential Mix", "kind": "bbc",
+                                           "pid": "b006wkfp", "home": "https://www.bbc.co.uk/programmes/b006wkfp"})
+            self.assertTrue(r["items"][0]["url"].startswith("https://www.bbc.co.uk/sounds/play/"))
+        dup = cs.check("https://www.bbc.co.uk/sounds/play/m00332wf", [{"id": "bbc-em", "kind": "bbc", "pid": "b006wkfp", "name": "EM"}], fake, NOW)
+        self.assertEqual(dup["duplicate"]["id"], "bbc-em")
+        self.assertFalse(cs.check("https://www.bbc.co.uk/sounds/brand/nope", EXISTING, fake, NOW)["ok"])
 
     def test_rinse_show_and_episode_links(self):
         for url in ("https://www.rinse.fm/shows/papaoul", "https://rinse.fm/episodes/papaoul-06-10-2026-1000"):

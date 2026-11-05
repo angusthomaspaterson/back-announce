@@ -10,7 +10,7 @@ export const addedLabel = a => a === 'start' ? 'Original pick' : BATCHES[a] ? 'A
 export const isDark = () => document.documentElement.dataset.theme === 'dark' || (document.documentElement.dataset.theme !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches);
 export const gcol = g => (isDark() && GROUP_COLOURS_DARK[g]) || GROUP_COLOURS[g] || GROUP_COLOURS.Other;
 export const initials = n => { const w = String(n || '').replace(/[^A-Za-z0-9 ]/g, ' ').trim().split(/\s+/).filter(Boolean); return (w.length > 1 ? w[0][0] + w[1][0] : String(n || '??').slice(0, 2)).toUpperCase(); };
-export const kindLabel = k => k === 'rss' ? 'Feed' : k === 'manual' ? 'Web page' : k === 'nts' ? 'NTS' : k === 'rinse' ? 'Rinse FM' : k === 'mixcloud' ? 'Mixcloud' : (k || '');
+export const kindLabel = k => k === 'rss' ? 'Feed' : k === 'manual' ? 'Web page' : k === 'nts' ? 'NTS' : k === 'bbc' ? 'BBC Sounds' : k === 'rinse' ? 'Rinse FM' : k === 'mixcloud' ? 'Mixcloud' : (k || '');
 
 export const dfmt = new Intl.DateTimeFormat('en-AU', {timeZone: PERTH, weekday: 'short', day: 'numeric', month: 'short'});
 export const dkey = new Intl.DateTimeFormat('en-CA', {timeZone: PERTH, year: 'numeric', month: '2-digit', day: '2-digit'});

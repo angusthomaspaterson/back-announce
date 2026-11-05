@@ -123,6 +123,21 @@ def detect(url, fetcher):
             raise Refused(f"NTS doesn't have a show called {slug}.")
         return {"kind": "nts", "slug": slug, "home": f"https://www.nts.live/shows/{slug}"}, name, ""
 
+    if host in ("bbc.co.uk", "bbc.com") and len(parts) >= 2 and parts[0] in ("programmes", "sounds"):
+        # /programmes/<pid>, /sounds/brand/<pid>, /sounds/series/<pid> or /sounds/play/<episode pid>.
+        # Climb to the top-level programme, which is what BBC Sounds lists episodes under.
+        pid = parts[1] if parts[0] == "programmes" else (parts[2] if len(parts) >= 3 else "")
+        if not re.fullmatch(r"[a-z0-9]{8}", pid):
+            raise Refused("That BBC link isn't a programme. Open the show's page on BBC Sounds and share or copy that.")
+        try:
+            prog = json.loads(fetcher(f"https://www.bbc.co.uk/programmes/{pid}.json"))["programme"]
+        except Exception:
+            raise Refused(f"The BBC doesn't have a programme {pid}.")
+        while (prog.get("parent") or {}).get("programme"):
+            prog = prog["parent"]["programme"]
+        pid = prog.get("pid") or pid
+        return {"kind": "bbc", "pid": pid, "home": f"https://www.bbc.co.uk/programmes/{pid}"}, prog.get("title") or pid, ""
+
     if host == "rinse.fm":
         if len(parts) < 2 or parts[0] not in ("shows", "episodes"):
             raise Refused("That Rinse FM link isn't a show. Open the show's page on Rinse and share or copy that.")
@@ -207,6 +222,7 @@ def duplicate_of(src, sources):
     for s in sources:
         if s.get("kind") == src["kind"] and (
                 (src.get("slug") and s.get("slug") == src["slug"])
+                or (src.get("pid") and s.get("pid") == src["pid"])
                 or (src.get("user") and (s.get("user") or "").lower() == src["user"].lower())
                 or (src.get("url") and norm(s.get("url")) == norm(src["url"]))):
             return s
@@ -222,7 +238,7 @@ def check(raw, sources, fetcher=gather.fetch, now=None):
         if dup:
             return {"ok": True, "url": url, "duplicate": {"id": dup["id"], "name": dup.get("name", dup["id"])}}
         name = re.sub(r"\s+", " ", name or "").strip() or slugify(src.get("slug") or src.get("user") or url).replace("-", " ").title()
-        base = {"nts": "nts-", "rinse": "rinse-"}.get(src["kind"], "") + slugify(src.get("slug") or name)
+        base = {"nts": "nts-", "rinse": "rinse-", "bbc": "bbc-"}.get(src["kind"], "") + slugify(src.get("slug") or name)
         ids = {s["id"] for s in sources}
         sid, n = base, 2
         while sid in ids:
