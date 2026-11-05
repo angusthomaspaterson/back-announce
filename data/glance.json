@@ -10,6 +10,14 @@
    "u": "https://anjunadeep.com/products/636874-vihana-ep"
   },
   {
+   "d": "2026-11-04T20:38:21Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 4 Nov: 8 records",
+   "u": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
+  },
+  {
    "d": "2026-11-04T18:00:00Z",
    "g": "Progressive",
    "s": "Yotto: Odd One Out Radio",
@@ -43,6 +51,14 @@
    "sid": "ra-podcast",
    "t": "EX.817 Chase & Status",
    "u": "https://soundcloud.com/resident-advisor/ex-817-chase-status"
+  },
+  {
+   "d": "2026-11-04T11:01:42Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Elori Saxl Has Better Taste Than I Do",
+   "u": "https://firstfloor.substack.com/p/elori-saxl-has-better-taste-than"
   },
   {
    "d": "2026-11-04T10:00:00Z",
@@ -150,27 +166,10 @@
    "sid": "balance-music",
    "t": "Lemon: Live from Balance Croatia 2026",
    "u": "https://soundcloud.com/balance-series/lemon-live-from-balance"
-  },
-  {
-   "d": "2026-11-04T00:00:00Z",
-   "g": "Podcasts",
-   "s": "Tape Notes",
-   "sid": "tape-notes",
-   "sp": "Tape Notes TN:193 Chase & Status",
-   "t": "TN:193 Chase & Status",
-   "u": "https://traffic.megaphone.fm/TNL3615341328.mp3"
-  },
-  {
-   "d": "2026-11-03T22:00:00Z",
-   "g": "NTS",
-   "s": "Circuits w/ Olly Chubb",
-   "sid": "nts-circuits",
-   "t": "Circuits w/ Olly Chubb: A Tribute To Juan Atkins",
-   "u": "https://www.nts.live/shows/circuits/episodes/circuits-3rd-november-2026"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 359,
+ "newCount": 357,
  "paused": 19,
  "releases": [
   {
@@ -243,5 +242,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-11-05T00:24:22Z"
+ "updated": "2026-11-05T06:14:06Z"
 }
