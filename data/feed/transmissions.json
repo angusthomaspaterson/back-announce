@@ -3,6 +3,16 @@
  "id": "transmissions",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6ae9f8ccdc2860cef4ade70f/media.mp3",
+   "date": "2026-11-04T07:00:00Z",
+   "desc": "Welcome back to Aquarium Drunkard Transmissions with your host Jason P. Woodbury. We've entered the holidays, aka the official \"Vince Guaraldi Season.\" This week on the show, we're digging into the work of Guaraldi with Peanuts historian and author of Vince Guaraldi at the Piano , Derrick Bang. He first published the book in 2012, but in 2024 released an updated edition. We discuss it all: Guaraldi's fascination with the bossa nova sound in the late '50s, his status as a composer who didn't write or read music—writing from a purely melodic standpoint, his work with Brazilian guitarist Bola Se…",
+   "duration": "1:02:30",
+   "id": "6ae9f8ccdc2860cef4ade70f",
+   "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/1793717956286-b6a0724c-8b62-4538-b797-44d156211a27.jpeg",
+   "title": "Transmissions :: Derrick Bang on Vince Guaraldi",
+   "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/transmissions-derrick-bang-on-vince-guaraldi"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6ae117f4e57912cf6fa47244/media.mp3",
    "date": "2026-10-28T06:00:00Z",
    "desc": "One of the pet theories we've nursed on this show is that music allows the right listener to do something like travel through time. Or, maybe, a better way to say it would be: music allows us a way to step briefly outside of the experience linear time. Our guest this week on the show, Ishmael Butler of Shabazz Palaces and Digable Planets, is used to swimming in waters where science fiction weirdness and musical expression mingle. Shabazz Palaces' new album, It’s a Style Sport, represents a new high water mark for the Seattle-based rapper; at once memoiristic and mystical, it’s a strange and b…",
@@ -241,19 +251,9 @@
    "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/40dccea1234ba44311b14eedda3de216.jpg",
    "title": "All One Song :: Jerry David DeCicca on \"From Hank To Hendrix\"",
    "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab705c262a47b6bec26271c"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/19747a2a-4c7f-11f1-af2b-83c517b6de03/media.mp3",
-   "date": "2026-05-13T09:00:00Z",
-   "desc": "The second season of All One Song rolls. Throughout seasons one and two, we’ve jumped from era to era, from style to style, from album to album. But no one has had the guts yet to tackle one of Neil’s true masterpieces, his most visionary set of lyrics, his most powerful statement. That’s right, friends, we're talking about “ T-Bone .” Released in 1981 on Re*ac*tor , “T-Bone” is perhaps the most boneheaded, monomaniacal tune in Neil’s entire discography, a grinding, nine-minute three-chord Crazy Horse jam that features only these words to guide us: “Got mashed potatoes, ain't got no T-bone.” …",
-   "duration": "1:11:03",
-   "id": "19747a2a-4c7f-11f1-af2b-83c517b6de03",
-   "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/47e5391e73c384a391a8aa6d59d12510.jpg",
-   "title": "All One Song :: Matthew Specktor on \"T-Bone\"",
-   "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab706b4bd67ce4b5367d97c"
   }
  ],
  "kind": "rss",
  "name": "Transmissions (Aquarium Drunkard)",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

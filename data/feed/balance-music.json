@@ -3,6 +3,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2431852752-balance-series-lemon-live-from-balance.mp3",
+   "date": "2026-11-04T00:00:00Z",
+   "desc": "Recording of Lemon's set from Balance Croatia 2026. @lemon-inc ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ Buy FINAL RELEASE TIX: go.kaboodle.co.uk/Balance-2027-GS _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
+   "duration": "01:27:54",
+   "id": "tag:soundcloud-2010:tracks-2431852752",
+   "image": "https://i1.sndcdn.com/artworks-OQvGfxL09HL37gjj-fOnlLw-t3000x3000.jpg",
+   "title": "Lemon: Live from Balance Croatia 2026",
+   "url": "https://soundcloud.com/balance-series/lemon-live-from-balance"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2429000325-balance-series-balance-selections-390-gabriel-dresden.mp3",
    "date": "2026-10-30T00:00:00Z",
    "desc": "For over 25 years, Gabriel & Dresden have occupied a distinctive space in electronic music, combining new wave melancholia with the euphoric energy of progressive house and trance. Formed in 2001, the American duo of Josh Gabriel and Dave Dresden established themselves through emotionally charged productions and remixes, earning 21 Billboard Dance Club Play number ones along the way. Their catalogue includes enduring tracks such as As The Rush Comes, released under their Motorcycle alias, Tracking Treasure Down and Dangerous Power. More recently, their creative partnership with vocalist Sub T…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-iI1DAoR9OQZpWE6w-URpCrA-t3000x3000.jpg",
    "title": "Rocio Portillo: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/rocio-portillo-live-from-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2397108813-balance-series-khen-live-from-balance-croatia.mp3",
-   "date": "2026-09-09T00:00:00Z",
-   "desc": "Recording of Khen's set from Balance Croatia 2026. @khenmusic ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "02:01:23",
-   "id": "tag:soundcloud-2010:tracks-2397108813",
-   "image": "https://i1.sndcdn.com/artworks-5QEz5Q1dHlQAflz4-WADROQ-t3000x3000.jpg",
-   "title": "Khen: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/khen-live-from-balance-croatia"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

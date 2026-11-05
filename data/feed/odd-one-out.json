@@ -3,6 +3,16 @@
  "id": "odd-one-out",
  "items": [
   {
+   "audio": "https://tracker.podtoo.com/v2/distro/6ae91963c161a92d3a02d80f-1793661271805full_episode_OOO--106--WORLDWIDE-.mp3",
+   "date": "2026-11-04T18:00:00Z",
+   "desc": "Yotto returns with another fresh edition of ODD ONE OUT RADIO, featuring music from George FitzGerald, Avenue One, Jonas Rathsman, Mita Gami, Oliver Schories, Tiga, Booka Shade, Tim Engelhardt, Maceo Plex, and more. 1. George FitzGerald - Hold 00:00:32 2. Avenue One - Rebellion 00:03:48 3. Storken & Gusteau - Totoish (Jonas Rathsman Remix) 00:07:54 4. Dov & Castlerock - Everybody 00:13:39 5. Mita Gami - Looking For You 00:19:17 6. Oliver Schories - New Perspective 00:24:01 7. Tiga - FRICTION (Brunello Remix) 00:27:50 8. Booka Shade pres. Eddie Bizzarre - Move Any Mountain (Vocal Mix) 00:32:39…",
+   "duration": "00:59:23",
+   "id": "644baed7-b535-5228-a429-642896e9f7c0",
+   "image": "https://cdn.podtoo.com/syndication/2024/05/1717117823232OOO-Radio-Art.jpg",
+   "title": "ODD ONE OUT #106",
+   "url": "https://podtoo.com/@oddoneoutradio/6ae91963c161a92d3a02d80f"
+  },
+  {
    "audio": "https://tracker.podtoo.com/v2/distro/6ac425069dc09028e7017615-1791239419366full_episode_OOO--105--WORLDWIDE-.mp3",
    "date": "2026-10-07T17:00:00Z",
    "desc": "Yotto returns with a fresh ODD ONE OUT RADIO, featuring tracks from FORESTER, Danique & David Petros, Kolombo & Elekfantz, Einmusik, Huminal, Planet Of Souls & Lily Papas, Empire Of The Sun, Underworld, and Budakid. Odd One Out Intro 00:00:00 1. FORESTER - Electric Soul (Yotto Remix) 00:00:32 2. Danique & David Petros - No Phones (Anton Voldaev Remix) 00:05:56 3. Kolombo & Elekfantz - Play This Game (Michael Mayer Club Edit) 00:11:03 4. Hopper - No Other Way 00:15:55 5. Einmusik - The Long Way Home 00:21:15 6. Huminal - Waves 00:27:20 7. Planet Of Souls & Lily Papas - One (Jody Wisternoff Rem…",
@@ -241,19 +251,9 @@
    "image": "https://cdn.podtoo.com/syndication/2024/05/1717117823232OOO-Radio-Art.jpg",
    "title": "ODD ONE OUT #082",
    "url": "https://podtoo.com/@oddoneoutradio/69459a563d241111dd395b88"
-  },
-  {
-   "audio": "https://tracker.podtoo.com/v2/distro/693c8bb3878007cb06a5b36d-1765575563752full_episode_OOO--81--WORLDWIDE-.mp3",
-   "date": "2025-12-17T18:00:00Z",
-   "desc": "This week’s mix features fresh tracks from Chambord, Dusky, Sander Kleinenberg, Adriatique, Boris Brejcha, Max Styler & Vintage Culture. 01. Chambord – Vogue (Extended Mix) 00:32 02. Ezequiel Arias & Durante – Dream Controller (Extended Mix) 06:23 03. Helsloot & Tom Zeta – Impulse (Extended Mix) 12:34 04. Hyunji-A – Neon Lights 17:13 05. Dusky – Lord Of The Ring Roads 22:07 06. Sander Kleinenberg x Helsloot – My Lexicon (Extended Mix) 26:13 07. Oliver Koletzki & Frida Darko – Trip With Me 31:51 08. Masanori CHAR Sasaki – Wake Up 35:07 09. Adriatique, Yubik & Vincent Vossen – Never Alone 37:58…",
-   "duration": "01:00:54",
-   "id": "40ff02a0-5ec1-57ce-a93a-cebdbf14a33f",
-   "image": "https://cdn.podtoo.com/syndication/2024/05/1717117823232OOO-Radio-Art.jpg",
-   "title": "ODD ONE OUT #081",
-   "url": "https://podtoo.com/@oddoneoutradio/693c8bb3878007cb06a5b36d"
   }
  ],
  "kind": "rss",
  "name": "Yotto: Odd One Out Radio",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

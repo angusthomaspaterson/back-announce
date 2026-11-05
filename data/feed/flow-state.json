@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": null,
+   "date": "2026-11-04T08:02:47Z",
+   "desc": "Today we’re listening to the Modern Mandolin Quartet, a quartet founded in San Francisco in 1985.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-modern-mandolin-quartet",
+   "image": "https://substackcdn.com/image/fetch/$s_!GJyK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff61d7ff4-b890-48ef-94ef-82da80d8a5b9_1592x1576.png",
+   "title": "Modern Mandolin Quartet",
+   "url": "https://www.flowstate.fm/p/modern-mandolin-quartet"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/223278887/299c6448a2246c78667e3f3344a7d422.mp3",
    "date": "2026-11-03T08:02:43Z",
    "desc": "Today’s mix is available to everyone.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!cPn2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F112058e6-d723-4851-839a-0fd7cbf9c8a5_800x1200.jpeg",
    "title": "Heathered Pearls (Interview)",
    "url": "https://www.flowstate.fm/p/heathered-pearls-interview"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-07T07:03:32Z",
-   "desc": "Today we’re listening to Akusmi, a French composer and multi-instrumentalist based in London.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-akusmi",
-   "image": "https://substackcdn.com/image/fetch/$s_!brq9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe67b0b5b-5b36-4b72-8b4f-793dc4640ede_1200x960.jpeg",
-   "title": "Akusmi",
-   "url": "https://www.flowstate.fm/p/akusmi"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-03T23:59:56Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

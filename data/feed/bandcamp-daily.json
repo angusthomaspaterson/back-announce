@@ -3,10 +3,37 @@
  "id": "bandcamp-daily",
  "items": [
   {
+   "date": "2026-11-04T00:00:00Z",
+   "desc": "Seasonally appropriate recordings of blizzards, bats, volcanoes, and an abandoned research laboratory.",
+   "id": "best-field-recordings-the-best-field-recordings-on-bandcamp-october-2026",
+   "image": "https://f4.bcbits.com/img/0048212333_180",
+   "tags": "Best Field Recordings",
+   "title": "The Best Field Recordings on Bandcamp, October 2026",
+   "url": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-october-2026"
+  },
+  {
+   "date": "2026-11-04T00:00:00Z",
+   "desc": "",
+   "id": "prog-state-mind-prog-is-a-state-of-mind-4",
+   "image": "https://f4.bcbits.com/img/0048215579_150.jpg",
+   "tags": "Prog Is A State Of Mind",
+   "title": "Prog Is A State of Mind #4",
+   "url": "https://daily.bandcamp.com/prog-state-mind/prog-is-a-state-of-mind-4"
+  },
+  {
+   "date": "2026-11-04T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-anna-webber-its-easier-to-imagine-the-end-of-the-world-review",
+   "image": "https://f4.bcbits.com/img/0048334378_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Anna Webber, “it’s easier to imagine the end of the world…”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/anna-webber-its-easier-to-imagine-the-end-of-the-world-review"
+  },
+  {
    "date": "2026-11-03T00:00:00Z",
-   "desc": "In the shadow of the Himalayas, a fiercely independent scene is making a righteous noise.",
+   "desc": "",
    "id": "scene-report-nepal-metal-scene-report",
-   "image": "https://f4.bcbits.com/img/0048271626_180",
+   "image": "https://f4.bcbits.com/img/0048271626_150.jpg",
    "tags": "Scene Report",
    "title": "Extreme Conditions: Inside Nepal’s Metal Underground",
    "url": "https://daily.bandcamp.com/scene-report/nepal-metal-scene-report"
@@ -199,36 +226,9 @@
    "tags": "Features",
    "title": "How the Buddha Machine Built Modern Ambient",
    "url": "https://daily.bandcamp.com/features/the-buddha-machine-feature"
-  },
-  {
-   "date": "2026-10-26T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-sun-araw-rapid-response-review",
-   "image": "https://f4.bcbits.com/img/0048116694_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "SUN ARAW, “Rapid Response”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
-  },
-  {
-   "date": "2026-10-23T00:00:00Z",
-   "desc": "",
-   "id": "scene-report-contemporary-scandinavian-jazz-scene-report",
-   "image": "https://f4.bcbits.com/img/0048078881_150.jpg",
-   "tags": "Scene Report",
-   "title": "The Contemporary Scandinavian Jazz Scene Through the Years",
-   "url": "https://daily.bandcamp.com/scene-report/contemporary-scandinavian-jazz-scene-report"
-  },
-  {
-   "date": "2026-10-23T00:00:00Z",
-   "desc": "",
-   "id": "features-pee-now-more-charm-and-more-tender-feature",
-   "image": "https://f4.bcbits.com/img/0048112090_150.jpg",
-   "tags": "Features",
-   "title": "The Power of P.E.E.",
-   "url": "https://daily.bandcamp.com/features/pee-now-more-charm-and-more-tender-feature"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-11-03T23:59:56Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

@@ -3,9 +3,19 @@
  "id": "tape-notes",
  "items": [
   {
+   "audio": "https://traffic.megaphone.fm/TNL3615341328.mp3",
+   "date": "2026-11-04T00:00:00Z",
+   "desc": "WATCH THE FULL VIDEO EPISODE @ ⁠Patreon.com/tapenotes⁠  John is joined by Chase & Status to talk about how they wrote, recorded and produced the album ‘Generic Everything’.  Chase & Status are a drum’n’bass, DJ and producer duo from London comprising Saul Milton (Chase) and Will Kennard (Status). Formed in Manchester in 2003, the duo received early backing from BBC Radio 1Xtra, releasing debut album ‘More than Alot’ in 2008. Known for their multi-genre approach and innovative production techniques, Chase & Status have since released five more albums, including the multi-Platinum ‘No More Idol…",
+   "duration": "5375",
+   "id": "7da66754-d7aa-11f1-821f-7f0016d3ed1a",
+   "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "TN:193 Chase & Status",
+   "url": "https://traffic.megaphone.fm/TNL3615341328.mp3"
+  },
+  {
    "audio": "https://traffic.megaphone.fm/TNL1262276162.mp3",
    "date": "2026-10-30T00:00:00Z",
-   "desc": "WATCH THE FULL VIDEO EPISODE @ Patreon.com/tapenotes  In this special bonus episode, John joins Kevin Parker a.k.a. Tame Impala to dive into one more track that didn’t make it into the original conversation. Just in time for Halloween, Kevin takes us behind the scenes of ‘Dracula’, unpacking the multitude of demos, experiments and early ideas that gradually came together to form the track we know today. Along the way, he reveals how some of the most unexpected elements made their way into the song, including a random percussion instrument that happened to be lying around on his desk and would…",
+   "desc": "WATCH THE FULL VIDEO EPISODE @ ⁠⁠Patreon.com/tapenotes⁠  In this special bonus episode, John joins Kevin Parker a.k.a. Tame Impala to dive into one more track that didn’t make it into the original conversation. Just in time for Halloween, Kevin takes us behind the scenes of ‘Dracula’, unpacking the multitude of demos, experiments and early ideas that gradually came together to form the track we know today. Along the way, he reveals how some of the most unexpected elements made their way into the song, including a random percussion instrument that happened to be lying around on his desk and wo…",
    "duration": "1483",
    "id": "d067d600-d163-11f1-99dc-5359f3c79c46",
    "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -15,7 +25,7 @@
   {
    "audio": "https://traffic.megaphone.fm/TNL8863906564.mp3",
    "date": "2026-10-20T23:00:00Z",
-   "desc": "WATCH THE FULL VIDEO EPISODE @ ⁠Patreon.com/tapenotes⁠  John is joined by Troye Sivan and producer Tyde Levi to talk about how they wrote, recorded and produced the album ‘She’s the Best’. Troye Sivan is an Australian singer-songwriter and producer. He signed with EMI aged just 18 after building a global following as a teen YouTuber. Troye has since released three acclaimed albums blending electropop and dance: ‘Blue Neighbourhood’ (2015), ‘Bloom’ (2018) and the Grammy-nominated ‘Something to Give Each Other’ (2023). His fourth album, ‘She’s the Best’, arrived in October 2026, produced by his…",
+   "desc": "WATCH THE FULL VIDEO EPISODE @ ⁠⁠Patreon.com/tapenotes⁠  John is joined by Troye Sivan and producer Tyde Levi to talk about how they wrote, recorded and produced the album ‘She’s the Best’. Troye Sivan is an Australian singer-songwriter and producer. He signed with EMI aged just 18 after building a global following as a teen YouTuber. Troye has since released three acclaimed albums blending electropop and dance: ‘Blue Neighbourhood’ (2015), ‘Bloom’ (2018) and the Grammy-nominated ‘Something to Give Each Other’ (2023). His fourth album, ‘She’s the Best’, arrived in October 2026, produced by hi…",
    "duration": "5383",
    "id": "8756eddc-cca6-11f1-b314-5f5f3d80832d",
    "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "TN:172 Artemas & Toby Daintree",
    "url": "https://traffic.megaphone.fm/TNL6397106330.mp3?updated=1779100415"
-  },
-  {
-   "audio": "https://traffic.megaphone.fm/TNL7417457846.mp3?updated=1779102173",
-   "date": "2026-01-02T00:00:00Z",
-   "desc": "We’ve been having a look back through the Tape Notes archive to bring back some of our favourite early episodes that you may have missed. This selection is our conversation with Rina Sawayama and producer Clarence Clarity. EPISODE NOTES In this episode, John catches up with Rina Sawayama and producer Clarence Clarity to talk about how they wrote, recorded and produced Rina’s debut album ‘Sawayama’. Diving deep into the almost 100 track sessions, Rina and Clarence reflect on how the album took shape, from writing demos in Rina’s bedroom to spending months in an LA studio. We hear the pair’s ph…",
-   "duration": "6890",
-   "id": "cdfbb74c-f848-11ef-9f02-5f6b3980f62e",
-   "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "Reissue | TN:46 Rina Sawayama & Clarence Clarity",
-   "url": "https://traffic.megaphone.fm/TNL7417457846.mp3?updated=1779102173"
   }
  ],
  "kind": "rss",
  "name": "Tape Notes",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

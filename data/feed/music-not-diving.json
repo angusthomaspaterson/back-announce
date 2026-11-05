@@ -3,6 +3,16 @@
  "id": "music-not-diving",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/656ee493f95cc60012925da6/e/6aea0119dc2860cef4b041e4/media.mp3",
+   "date": "2026-11-04T04:00:00Z",
+   "desc": "I'm playing all night long at Venue MOT in London on 14 Nov. Grab a ticket here: https://ra.co/events/2527068 Sign up for free to join our community. -- Up the front, a few words of appreciation for Juan Atkins who very sadly passed away last weekend. KiNK is one of the most beloved and respected live performers in electronic music. Over the last 15 years or so he's broken new ground in improvisation and energy in bringing house and techno to the live space. He's also a great producer and a man who brings a wealth of experience to any discussion. So a great guest on the podcast! We discuss hi…",
+   "duration": "55:27",
+   "id": "6aea0119dc2860cef4b041e4",
+   "image": "https://assets.pippa.io/shows/656ee493f95cc60012925da6/1793720221761-ac0ce195-a1e6-4153-baf5-821fd72f14dd.jpeg",
+   "title": "#59 KiNK on playing live, ghost production, and the Bulgarian raves of the 90s",
+   "url": "https://shows.acast.com/not-a-diving-podcast-with-scuba/episodes/59-kink-on-playing-live-ghost-production-and-the-bulgarian-r"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/656ee493f95cc60012925da6/e/6ada3ed15de627c54097ef0c/media.mp3",
    "date": "2026-10-28T04:00:00Z",
    "desc": "I'm playing all night long at Venue MOT in London on 14 Nov. Grab a ticket here: https://ra.co/events/2527068 Sign up for free to join our community. -- Dusky are a production duo from the UK. Originally emerging on Anjunadeep with their debut album in 2011, they've been an important part of the UK dance scene in the past two decades with albums on Universal and their own label. Their latest full-length, Signals , is out now and sees them back on the label where it all began. We discuss their production process, the challenges of making a record outside their usual genre, and the way the new …",
@@ -241,19 +251,9 @@
    "image": "https://assets.pippa.io/shows/656ee493f95cc60012925da6/1768331418181-5c9c1a73-3945-41a1-a874-9738ed660263.jpeg",
    "title": "#036 Johnno Burgess: Bugged Out founder on how to run a rave brand for 30 years",
    "url": "https://shows.acast.com/not-a-diving-podcast-with-scuba/episodes/036-john-burgess-bugged-out-founder-on-how-to-run-a-rave-bra"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/656ee493f95cc60012925da6/e/695e2976d1ba84fb8f4a6d82/media.mp3",
-   "date": "2026-01-08T04:00:00Z",
-   "desc": "Music Not Diving is supported by Acid Nation (formerly AC55ID)... head over to www.acidnation.com to check out the fastest growing electronic music marketplace, a central hub for music discovery, streaming and purchasing! -- Watch the video episodes of Music Not Diving over at youtube.com/@WeNotDiving The Sabres Of Paradise  were formed in 1992 by  Andrew Weatherall , Gary Burns, and our guest on today's episode  Jagz Kooner . They burned brightly but briefly, initially disbanding in 1995, but have now reformed (without the late Weatherall) for what Jagz says will be a limited time.  We discu…",
-   "duration": "1:23:27",
-   "id": "695e2976d1ba84fb8f4a6d82",
-   "image": "https://assets.pippa.io/shows/656ee493f95cc60012925da6/1767778455958-373bdccc-e1de-4a3d-95e3-ba7c69b457e5.jpeg",
-   "title": "#035 Jagz Kooner: Weatherall, Sabres Of Paradise, and quitting while you're ahead",
-   "url": "https://shows.acast.com/not-a-diving-podcast-with-scuba/episodes/035-jagz-kooner-weatherall-sabres-of-paradise-and-quitting-w"
   }
  ],
  "kind": "rss",
  "name": "Music Not Diving with Scuba",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

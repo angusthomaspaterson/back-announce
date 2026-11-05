@@ -3,6 +3,36 @@
  "id": "radio-cazimi",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2431864752-radio-cazimi-kill-video-radio-star-w-nape-1.mp3",
+   "date": "2026-11-04T02:37:33Z",
+   "desc": "Nape presents a Halloween edition of Kill Video Radio Star. A collection of spooky songs submitted by friends, spanning all sorts of scary styles, filled out with haunting new beat.",
+   "duration": "02:02:21",
+   "id": "tag:soundcloud-2010:tracks-2431864752",
+   "image": "https://i1.sndcdn.com/artworks-XF5szJVcoNgow1yb-7ZUWrw-t3000x3000.jpg",
+   "title": "KILL VIDEO RADIO STAR w/ Nape Et Al.",
+   "url": "https://soundcloud.com/radio-cazimi/kill-video-radio-star-w-nape-1"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2431864209-radio-cazimi-halloween-hot-house-mix-w-dj.mp3",
+   "date": "2026-11-04T02:35:13Z",
+   "desc": "HALLOWEEN HOT HOUSE MIX w/ DJ Roy Donk by Radio Cazimi",
+   "duration": "01:59:09",
+   "id": "tag:soundcloud-2010:tracks-2431864209",
+   "image": "https://i1.sndcdn.com/artworks-1XphWnKvBxfKwgPK-Gzk72g-t3000x3000.jpg",
+   "title": "HALLOWEEN HOT HOUSE MIX w/ DJ Roy Donk",
+   "url": "https://soundcloud.com/radio-cazimi/halloween-hot-house-mix-w-dj"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2431864143-radio-cazimi-morning-desires-w-grace.mp3",
+   "date": "2026-11-04T02:34:53Z",
+   "desc": "Grace Connors presents Morning Desires: Halloween Special. A journey through spook-centric folk, synth, new-wave & alt rock",
+   "duration": "01:57:44",
+   "id": "tag:soundcloud-2010:tracks-2431864143",
+   "image": "https://i1.sndcdn.com/artworks-PjK2vgoVSL3a8tVk-OXYIWQ-t3000x3000.jpg",
+   "title": "MORNING DESIRES w/ Grace Connors",
+   "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-grace"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2431339998-radio-cazimi-range-of-motion-w-effective.mp3",
    "date": "2026-11-03T09:55:28Z",
    "desc": "RANGE OF MOTION w/ Effective Power - EP2 by Radio Cazimi",
@@ -221,39 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-TaNuhITzP7lD722j-WYqKXQ-t3000x3000.jpg",
    "title": "PLUTONIC w/ Bowen - EP 3",
    "url": "https://soundcloud.com/radio-cazimi/plutonic-w-bowen-ep-3"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2418718353-radio-cazimi-dubwise-otherwise-w-jesse-2.mp3",
-   "date": "2026-10-14T08:45:45Z",
-   "desc": "DUBWISE & OTHERWISE w/ Jesse Yuen, Lia T & Rok Riley - EP 3 by Radio Cazimi",
-   "duration": "01:59:41",
-   "id": "tag:soundcloud-2010:tracks-2418718353",
-   "image": "https://i1.sndcdn.com/artworks-Bzn6FtLnzh8M4yFC-29yXlA-t3000x3000.jpg",
-   "title": "DUBWISE & OTHERWISE w/ Jesse Yuen, Lia T & Rok Riley - EP 3",
-   "url": "https://soundcloud.com/radio-cazimi/dubwise-otherwise-w-jesse-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2418718293-radio-cazimi-morning-desires-w-rory-2.mp3",
-   "date": "2026-10-14T08:45:35Z",
-   "desc": "MORNING DESIRES w/ Rory Glacken by Radio Cazimi",
-   "duration": "01:59:36",
-   "id": "tag:soundcloud-2010:tracks-2418718293",
-   "image": "https://i1.sndcdn.com/artworks-EwjPZA1lVX92WVzo-YYnQUw-t3000x3000.jpg",
-   "title": "MORNING DESIRES w/ Rory Glacken",
-   "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-rory-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2418718194-radio-cazimi-listening-hour-w-grace-reece.mp3",
-   "date": "2026-10-14T08:45:28Z",
-   "desc": "LISTENING HOUR w/ Grace & Reece - EP 4 by Radio Cazimi",
-   "duration": "01:02:37",
-   "id": "tag:soundcloud-2010:tracks-2418718194",
-   "image": "https://i1.sndcdn.com/artworks-CAwCFKpvikNz3rYD-Q46ivg-t3000x3000.jpg",
-   "title": "LISTENING HOUR w/ Grace & Reece - EP 4",
-   "url": "https://soundcloud.com/radio-cazimi/listening-hour-w-grace-reece"
   }
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-11-03T23:59:56Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

@@ -3,6 +3,16 @@
  "id": "nts-circuits",
  "items": [
   {
+   "date": "2026-11-03T22:00:00Z",
+   "desc": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
+   "id": "circuits-3rd-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/06d04218-d135-4f3b-903b-33919d2f0c0f_1793664000.jpeg",
+   "location": "London",
+   "tags": "Detroit Techno",
+   "title": "Circuits w/ Olly Chubb: A Tribute To Juan Atkins",
+   "url": "https://www.nts.live/shows/circuits/episodes/circuits-3rd-november-2026"
+  },
+  {
    "date": "2026-10-06T21:00:00Z",
    "desc": "From the host:'The first time I've missed my show in fifteen years! To atone for this rare occurrence, here's a two hour mix, recorded at home on two turntables, in one take… As close to being live in the studio as I can get. Enjoy.'",
    "id": "circuits-6th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Detroit Techno",
    "title": "Circuits w/ Olly Chubb: Underground Resistance Special - Part 4",
    "url": "https://www.nts.live/shows/circuits/episodes/circuits-2nd-december-2025"
-  },
-  {
-   "date": "2025-11-04T22:00:00Z",
-   "desc": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
-   "id": "circuits-4th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/255359ee-1201-480e-b5d6-3528b1b7a067_1762214400.jpeg",
-   "location": "London",
-   "tags": "Detroit Techno",
-   "title": "Circuits w/ Olly Chubb: Underground Resistance Special - Part 3",
-   "url": "https://www.nts.live/shows/circuits/episodes/circuits-4th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Circuits w/ Olly Chubb",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

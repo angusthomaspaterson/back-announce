@@ -3,6 +3,16 @@
  "id": "butter-sessions",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2431230660-buttersessions-bsrmix-175-dj-pgz.mp3",
+   "date": "2026-11-04T02:04:59Z",
+   "desc": "New BSRMIX from Gunai/Kurnai & Yorta Yorta, artist, DJ and producer DJ PGZ online now! Recorded live in the Cauldron at Collingwood Children’s Farm for our 15th Anniversary party (BSRXVI) 3rd April 2026. Catch PGZ playing B2B with Mabel January 30, 2027 at the same spot.",
+   "duration": "01:27:39",
+   "id": "tag:soundcloud-2010:tracks-2431230660",
+   "image": "https://i1.sndcdn.com/artworks-CZIPyns3yr0XWDa4-j3UVYA-t3000x3000.jpg",
+   "title": "BSRMIX #175 - DJ PGZ",
+   "url": "https://soundcloud.com/buttersessions/bsrmix-175-dj-pgz"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2427333822-buttersessions-tangerine-language-of-sound.mp3",
    "date": "2026-10-30T00:00:00Z",
    "desc": "Tangerine arrives on Butter Sessions with Language of Sound, the second offering from the Melbourne / Naarm-based artist Clementine Girard-Foley. Four forward-thinking tracks that nod to techno, electro, IDM and bass music, with a playful, slightly rude and quietly optimistic mood that Tangerine pulls off with ease. credits Written and produced by Clementine Girard-Foley. Mixed by Borgqueen at Syntonix. Mastered by Corey Kikos. Artwork and design by Maryos Syawish.",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-zIPzNQHtg9sObxiy-AQMPQQ-t3000x3000.png",
    "title": "Command D & Zara - Gravity Reset (BSD08)",
    "url": "https://soundcloud.com/buttersessions/command-d-zara-gravity-reset-bsd08"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2114630433-buttersessions-bsrmix-160-harold.mp3",
-   "date": "2025-06-17T03:48:04Z",
-   "desc": "https://soundcloud.com/djharoldd of https://soundcloud.com/steeplejackrec in the BSRMIX. 2.5 hours of twisted electronics and *other* from the local chap. Lock in for a wild ride. Harold - A Bridge Has Two Ends Urawa - Taking My VCR Away COH + Cosey Fanni Tutti Raime - Notion 2 Notion Flint Glass - Xolotl Frl. Linientreu - Tritoinium p·a·l - sublimated Air Liquide - Uludag (Part 2) Ab Ovo - Kaltu Mind over Midi - Stay With Me Synapscape - Espionage KimCosmik - Acid Dub Trip tsrono - sein Klaus Schulze - Satz: Gewitter (Energy Rise - Energy Collapse) Laurent De Schepper Trio - Décomposition Pe…",
-   "duration": "02:31:59",
-   "id": "tag:soundcloud-2010:tracks-2114630433",
-   "image": "https://i1.sndcdn.com/artworks-orqs6VEh9bmPdAiI-Er9ynw-t3000x3000.jpg",
-   "title": "BSRMIX #160 - Harold",
-   "url": "https://soundcloud.com/buttersessions/bsrmix-160-harold"
   }
  ],
  "kind": "rss",
  "name": "Butter Sessions (BSRMIX)",
- "updatedAt": "2026-10-29T23:19:37Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

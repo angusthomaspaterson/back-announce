@@ -3,6 +3,26 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-11-05T00:24:22Z",
+   "desc": "EP on Anjunadeep, out 24 Nov 2026.",
+   "id": "636874-vihana-ep",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/636874.jpg",
+   "out": "2026-11-24T00:00:00Z",
+   "tags": "EP · Anjunadeep",
+   "title": "Anyasa – Vihana EP",
+   "url": "https://anjunadeep.com/products/636874-vihana-ep"
+  },
+  {
+   "date": "2026-11-03T00:00:00Z",
+   "desc": "Single on Anjunadeep, out 3 Nov 2026.",
+   "id": "627918-asman",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/627918.jpg",
+   "out": "2026-11-03T00:00:00Z",
+   "tags": "Single · Anjunadeep",
+   "title": "Anyasa feat. Samad Khan – Asman",
+   "url": "https://anjunadeep.com/products/627918-asman"
+  },
+  {
    "date": "2026-10-30T00:00:00Z",
    "desc": "Single on Anjunadeep, out 30 Oct 2026.",
    "id": "625967-lifegame",
@@ -215,16 +235,6 @@
   {
    "date": "2026-10-01T00:00:00Z",
    "desc": "Single on Anjunachill, out 1 Oct 2026.",
-   "id": "616517-sky-falls-down-downtempo-version",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
-   "out": "2026-10-01T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
-   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
-  },
-  {
-   "date": "2026-10-01T00:00:00Z",
-   "desc": "Single on Anjunachill, out 1 Oct 2026.",
    "id": "616515-solitude-vr-sofandi-rework",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616515.jpg",
    "out": "2026-10-01T00:00:00Z",
@@ -233,27 +243,17 @@
    "url": "https://anjunadeep.com/products/616515-solitude-vr-sofandi-rework"
   },
   {
-   "date": "2026-09-30T00:00:00Z",
-   "desc": "Single on Anjunadeep Explorations, out 30 Sep 2026.",
-   "id": "616516-illusions",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616516.jpg",
-   "out": "2026-09-30T00:00:00Z",
-   "tags": "Single · Anjunadeep Explorations",
-   "title": "Quivver – Illusions",
-   "url": "https://anjunadeep.com/products/616516-illusions"
-  },
-  {
-   "date": "2026-09-29T00:00:00Z",
-   "desc": "Single on Anjunadeep, out 29 Sep 2026.",
-   "id": "615909-sparklestar",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/615909.jpg",
-   "out": "2026-09-29T00:00:00Z",
-   "tags": "Single · Anjunadeep",
-   "title": "Nicky Elisabeth – Sparklestar",
-   "url": "https://anjunadeep.com/products/615909-sparklestar"
+   "date": "2026-10-01T00:00:00Z",
+   "desc": "Single on Anjunachill, out 1 Oct 2026.",
+   "id": "616517-sky-falls-down-downtempo-version",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
+   "out": "2026-10-01T00:00:00Z",
+   "tags": "Single · Anjunachill",
+   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
+   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-03T01:37:20Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

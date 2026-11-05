@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-04T16:37:24Z",
+   "desc": "zayALLCAPS explains how he’s become a buzzing artist while holding down a day job—and how he became a great transition defender.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-zayallcaps-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!JLOf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bf2da4a-6a5f-4be4-895f-f544ecb6c775_1200x1200.png",
+   "title": "Art, Labor, and the Sacramento Kings",
+   "url": "https://www.powmag.net/p/zayallcaps-interview"
+  },
+  {
+   "audio": null,
    "date": "2026-11-03T16:45:56Z",
    "desc": "From mountaintops to wormholes, these are the most memorable sets that the last month had to offer.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!3YxF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfd4fd79-0c8a-4e0f-9285-c01b6b445b62_1200x1200.png",
    "title": "The New Album You Need to Hear This Week",
    "url": "https://www.powmag.net/p/serengeti-boxer-driver"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-12T16:34:44Z",
-   "desc": "The Staten Island FerryHawks’ salute to the Wu was a collision of America’s most craven and most communal impulses.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-wu-tang-goes-to-the-ballpark",
-   "image": "https://substackcdn.com/image/fetch/$s_!Grj1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafc098c7-301c-4091-a8bb-395fc50cfecc_1200x1200.png",
-   "title": "Wu-Tang Goes to the Ballpark",
-   "url": "https://www.powmag.net/p/wu-tang-goes-to-the-ballpark"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-03T23:59:56Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }

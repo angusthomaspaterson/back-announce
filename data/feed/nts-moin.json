@@ -3,6 +3,16 @@
  "id": "nts-moin",
  "items": [
   {
+   "date": "2026-11-03T12:00:00Z",
+   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
+   "id": "moin-3rd-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/df4ad27b-00b4-4111-a6f4-b39a92ba1eab_1793577600.jpeg",
+   "location": "London",
+   "tags": "Electronica, Leftfield Pop, Cloud Rap",
+   "title": "Moin",
+   "url": "https://www.nts.live/shows/moin/episodes/moin-3rd-november-2026"
+  },
+  {
    "date": "2026-09-08T11:00:00Z",
    "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
    "id": "moin-8th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Electronica, Experimental, Leftfield Pop, Art Rock",
    "title": "Moin",
    "url": "https://www.nts.live/shows/moin/episodes/moin-25th-february-2025"
-  },
-  {
-   "date": "2024-11-05T14:00:00Z",
-   "desc": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle.",
-   "id": "moin-5th-november-2024",
-   "image": "https://media.ntslive.co.uk/resize/400x400/f660d3b5-156b-426d-bee4-4e5afcb09296_1730851200.jpeg",
-   "location": "London",
-   "tags": "Post Punk, Indie Rock, Art Rock, Dream Pop",
-   "title": "Moin",
-   "url": "https://www.nts.live/shows/moin/episodes/moin-5th-november-2024"
   }
  ],
  "kind": "nts",
  "name": "Moin",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-11-05T00:24:22Z"
 }
