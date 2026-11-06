@@ -1,0 +1,49 @@
+{
+ "home": "https://www.bbc.co.uk/programmes/m000txn4",
+ "id": "bbc-jamz-supernova",
+ "items": [
+  {
+   "date": "2026-10-31T15:00:00Z",
+   "desc": "On BBC Sounds until 30 Nov (UK only). With an uplifting array of alternative R&B, global club sounds and left-field electronica. Produced by BBC Audio for BBC Radio 6 Music.",
+   "duration": "7200",
+   "id": "m0033f13",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz3zf.jpg",
+   "title": "with Afrocat & Melé",
+   "until": "2026-11-30T15:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0033f13"
+  },
+  {
+   "date": "2026-10-24T14:00:00Z",
+   "desc": "On BBC Sounds until 23 Nov (UK only). Jamz is joined by Norsicaa, the Malaysian-Australian DJ and selector who ran Soundway Records for eight years before setting up her own label, Sama Sama Records. She speaks on the label’s focus on reissues and overlooked music from the Asia-Pacific... Produced by BBC Audio for BBC Radio 6 Music",
+   "duration": "7200",
+   "id": "m00333vc",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz3zf.jpg",
+   "title": "with Norsicaa",
+   "until": "2026-11-23T14:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m00333vc"
+  },
+  {
+   "date": "2026-10-17T14:00:00Z",
+   "desc": "On BBC Sounds until 16 Nov (UK only). Jamz is joined on the show by British-Pakistani DJ and producer Ahadadream to talk about his debut album, featuring Skrillex, Priya Ragu, Capo Lee and Eliza Rose. Plus Dialled In, the South Asian arts and culture platform he co-founded, and the UK club scene that shaped him. Produced by BBC Audio for BBC Radio 6 Music",
+   "duration": "7200",
+   "id": "m0032tkn",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz3zf.jpg",
+   "title": "with Ahadadream",
+   "until": "2026-11-16T14:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0032tkn"
+  },
+  {
+   "date": "2026-10-10T14:00:00Z",
+   "desc": "On BBC Sounds until 9 Nov (UK only). Jamz returns from a trip down under with a bag full of fresh finds from the continent. Produced by BBC Audio for BBC Radio 6 Music",
+   "duration": "7200",
+   "id": "m0032c21",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz3zf.jpg",
+   "title": "Sounds from Australia",
+   "until": "2026-11-09T14:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0032c21"
+  }
+ ],
+ "kind": "bbc",
+ "name": "Jamz Supernova",
+ "updatedAt": "2026-11-06T11:16:35Z"
+}

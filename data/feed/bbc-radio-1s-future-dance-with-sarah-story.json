@@ -1,0 +1,49 @@
+{
+ "home": "https://www.bbc.co.uk/programmes/m000zc82",
+ "id": "bbc-radio-1s-future-dance-with-sarah-story",
+ "items": [
+  {
+   "date": "2026-10-30T22:00:00Z",
+   "desc": "On BBC Sounds until 30 Nov (UK only). All the hottest new and emerging dance sounds with Dutch DJ Julian Fijma in the mix! Plus Sarah has new music from O'Flynn as her Future Dance Track ID! Produced by We Are Grape for BBC Radio 1.",
+   "duration": "7200",
+   "id": "m00332w9",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygf08.jpg",
+   "title": "Julian Fijma and O'Flynn",
+   "until": "2026-11-29T22:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m00332w9"
+  },
+  {
+   "date": "2026-10-23T21:00:00Z",
+   "desc": "On BBC Sounds until 23 Nov (UK only). Sarah has new music from Joshua James as the Future Dance Track ID, and Berlin's Khadija is in the studio for Peak Time Mix! Produced by We Are Grape for BBC Radio 1.",
+   "duration": "7200",
+   "id": "m0032n25",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygf08.jpg",
+   "title": "Khadija and Joshua James",
+   "until": "2026-11-22T21:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0032n25"
+  },
+  {
+   "date": "2026-10-16T21:00:00Z",
+   "desc": "On BBC Sounds until 16 Nov (UK only). Sarah's joined by KILIMANJARO as his new single is crowned Track ID. Plus SYREETA is in the studio to play confessions! Produced by We Are Grape for BBC Radio 1.",
+   "duration": "7200",
+   "id": "m0032g8l",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygf08.jpg",
+   "title": "KILIMANJARO and SYREETA",
+   "until": "2026-11-15T21:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0032g8l"
+  },
+  {
+   "date": "2026-10-09T21:00:00Z",
+   "desc": "On BBC Sounds until 9 Nov (UK only). Sarah has new music from Interplanetary Criminal, plus Dutch rising star Rooléh is in the studio to provide a Peak Time Mix! Produced by We Are Grape for BBC Radio 1.",
+   "duration": "7200",
+   "id": "m00325vg",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygf08.jpg",
+   "title": "Interplanetary Criminal and Rooléh",
+   "until": "2026-11-08T21:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m00325vg"
+  }
+ ],
+ "kind": "bbc",
+ "name": "Radio 1's Future Dance with Sarah Story",
+ "updatedAt": "2026-11-06T11:16:35Z"
+}

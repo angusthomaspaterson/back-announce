@@ -59,12 +59,28 @@
    "u": "https://www.abc.net.au/triplej/programs/friday-mix/willsparks-djset-2026/107345664"
   },
   {
+   "d": "2026-11-06T01:00:00Z",
+   "g": "BBC",
+   "s": "The Residency on Radio 1 Dance",
+   "sid": "bbc-the-residency-on-radio-1-dance",
+   "t": "Effy - Nostalgia",
+   "u": "https://www.bbc.co.uk/sounds/play/m00338x2"
+  },
+  {
    "d": "2026-11-06T00:00:00Z",
    "g": "Progressive",
    "s": "Balance Music (Selections)",
    "sid": "balance-music",
    "t": "Balance Selections 391: Greta Meier",
    "u": "https://soundcloud.com/balance-series/balance-selections-greta-meier"
+  },
+  {
+   "d": "2026-11-05T23:00:00Z",
+   "g": "BBC",
+   "s": "BBC Introducing on Radio 1 Dance",
+   "sid": "bbc-introducing-on-radio-1-dance",
+   "t": "with Jaguar: Sam Girling Dancefloor Moment",
+   "u": "https://www.bbc.co.uk/sounds/play/m00338x0"
   },
   {
    "d": "2026-11-05T22:33:00Z",
@@ -147,27 +163,10 @@
    "sid": "triplej-home-and-hosed",
    "t": "Home and Hosed: First Plays from ixaras and Jerome Blazé",
    "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107330864"
-  },
-  {
-   "d": "2026-11-05T07:00:00Z",
-   "g": "NTS",
-   "s": "The Early Bird Show w/ PAM",
-   "sid": "nts-early-bird-pam",
-   "t": "The Early Bird Show w/ PAM & skii",
-   "u": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-5th-november-2026"
-  },
-  {
-   "d": "2026-11-05T05:01:54Z",
-   "g": "Perth",
-   "s": "RTRFM: No Skips",
-   "sid": "no-skips",
-   "sp": "RTRFM: No Skips No Skips with Adalita",
-   "t": "No Skips with Adalita",
-   "u": "https://rtrfm.com.au/podcasts/no-skips/no-skips-with-adalita/"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 450,
+ "newCount": 537,
  "paused": 20,
  "releases": [
   {
@@ -239,6 +238,6 @@
    "u": "https://daily.bandcamp.com/features/chyna-baejing-interview"
   }
  ],
- "sources": 193,
- "updated": "2026-11-06T11:14:15Z"
+ "sources": 212,
+ "updated": "2026-11-06T11:16:35Z"
 }

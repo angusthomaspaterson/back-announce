@@ -1927,6 +1927,203 @@
    "name": "Bandcamp Radio",
    "updatedAt": "2026-11-05T00:24:22Z"
   },
+  "bbc-6-musics-rave-forever": {
+   "home": "https://www.bbc.co.uk/programmes/m001dkv1",
+   "id": "bbc-6-musics-rave-forever",
+   "items": [
+    {
+     "date": "2026-10-31T01:00:00Z",
+     "desc": "On BBC Sounds until 29 Dec (UK only). As 6 Music Goes Dark we celebrate two decades of Skream’s seminal debut album with a deep dive into the darkest, moodiest dubstep 2006 had to offer. Expect cuts from the album alongside classic tracks from the likes of Mala, Kode9, Digital Mystikz, Coki and lots more A We Are Grape production for BBC 6 Music.",
+     "duration": "3600",
+     "id": "m00332r9",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+     "title": "20 Years Of Skream!",
+     "until": "2026-12-29T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00332r9"
+    },
+    {
+     "date": "2026-10-24T00:00:00Z",
+     "desc": "On BBC Sounds until 22 Dec (UK only). Cruise through a selection of classic US house anthems. Essential house tracks from the likes of Marshall Jefferson, Aly-Us, Sandy Rivera and Barbara Tucker. A We Are Grape production for BBC 6 Music.",
+     "duration": "3600",
+     "id": "m0032s33",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+     "title": "Gotta have House Music!",
+     "until": "2026-12-22T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032s33"
+    },
+    {
+     "date": "2026-10-17T00:00:00Z",
+     "desc": "On BBC Sounds until 15 Dec (UK only). Slow down to bask in autumn’s cool glow with an ambient hour of down-tempo and melodic electronica. A playlist perfect for a brisk Autumn walk or a cosy couch day. Expect to hear sounds from the likes of Aphex Twin, HAAi, Autechre, Four Tet, Boards of Canada and many more. A We Are Grape production for BBC 6 Music.",
+     "duration": "3600",
+     "id": "m0032d7y",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+     "title": "Autumnal Electronica",
+     "until": "2026-12-15T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032d7y"
+    },
+    {
+     "date": "2026-10-10T00:00:00Z",
+     "desc": "On BBC Sounds until 8 Dec (UK only). Nice ‘N’ Ripe and Ice Cream Records are two seminal London-based labels that defined and pioneered the sound of UK garage in the 1990s. You can expect Ice Cream Records Classics like Double 99’s Ripgroove and Kele Le Roc’s My Love (So Good) to Nice ‘N’ Ripe deep cuts from 24HR Experience, Jeremy Sylvester and Mike Millrain. A We Are Grape production for BBC 6 Music.",
+     "duration": "3600",
+     "id": "m00322tb",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+     "title": "Nice 'N' Ripe Vs. Ice Cream Records",
+     "until": "2026-12-08T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00322tb"
+    },
+    {
+     "date": "2026-10-03T00:00:00Z",
+     "desc": "On BBC Sounds until 1 Dec (UK only). Lyricism layered upon banging beats from the wordsmiths of the dance floor. Lose yourself in the place where poetry meets dance, with words from Benjamin Zephaniah, George The Poet, Kae Tempest and beats by Overmono, Fred Again, The Orb and many more. A We Are Grape production for BBC 6 Music.",
+     "duration": "3600",
+     "id": "m0031tm4",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+     "title": "Way With Words (Where Poetry Meets Dance)",
+     "until": "2026-12-01T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031tm4"
+    },
+    {
+     "date": "2026-09-26T00:00:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). Boogie down to the sounds of Italo disco, new wave and funk. A tour in Italy soundtracked by the likes of Vivien Vee, Ken Laszlo, Giorgio Moroder, Peter Micioni, Bandaid and lots more. A We Are Grape production for BBC 6 Music.",
+     "duration": "3600",
+     "id": "m0031jbp",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+     "title": "Italo Disco Dancing!",
+     "until": "2026-11-24T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031jbp"
+    },
+    {
+     "date": "2026-09-19T00:00:00Z",
+     "desc": "On BBC Sounds until 17 Nov (UK only). An hour of music celebrating all things Bristol and beyond, tracing the evolution of 'The Bristol Sound' - from its roots in sound system culture to global trip-hop and its lasting impact on drum & bass. Featuring music from pioneers of The Bristol Sound Smith & Mighty, Fresh Four, and The Wild Bunch; trip-hop icons Portishead and Massive Attack; and signature jazz-infused drum and bass from the likes of Krust and Roni Size. As well as tracks from beyond Bristol that trace their roots straight back to the scene, including cuts from Björk, DJ Shadow, and L…",
+     "duration": "3600",
+     "id": "m0031823",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+     "title": "The Bristol Sound and Its Influence",
+     "until": "2026-11-17T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031823"
+    },
+    {
+     "date": "2026-09-12T00:00:00Z",
+     "desc": "On BBC Sounds until 10 Nov (UK only). Founded in 1990 by William Orbit and Disc O'Dell, Guerilla Records was a cornerstone of British progressive house music and electronica. Get lost in the hypnotic beats of the label's expansive discography featuring tracks from the likes of Spooky, Bass-O-Matic, Spank Spank, Felix Da Housecat and more. A We Are Grape production for BBC 6 Music.",
+     "duration": "3600",
+     "id": "m0030y52",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+     "title": "Guerilla Records",
+     "until": "2026-11-10T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0030y52"
+    }
+   ],
+   "kind": "bbc",
+   "name": "6 Music's Rave Forever",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-benji-b": {
+   "home": "https://www.bbc.co.uk/programmes/b00v4tv3",
+   "id": "bbc-benji-b",
+   "items": [
+    {
+     "date": "2026-11-05T01:00:00Z",
+     "desc": "On BBC Sounds until 5 Dec (UK only). Paying tribute to the Godfather of Techno, Juan Atkins. Benji revisits his iconic show from 2008 to hear Juan talking about his career, aliases, technology and influences. Produced by TBI Media for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00338vz",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lwnvm0.jpg",
+     "title": "Giving Juan Atkins his Flowers",
+     "until": "2026-12-05T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338vz"
+    },
+    {
+     "date": "2026-10-29T01:00:00Z",
+     "desc": "On BBC Sounds until 28 Nov (UK only). Mo Ayoub sits in with an Album Mode by megiapa on her latest LP; Intentions & The Koreatown Oddity joins us for his In 3 Records selections... Produced by TBI Media for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00332q8",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lwnvm0.jpg",
+     "title": "Mo Ayoub sits in",
+     "until": "2026-11-28T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00332q8"
+    },
+    {
+     "date": "2026-10-22T00:00:00Z",
+     "desc": "On BBC Sounds until 21 Nov (UK only). Ali Shaheed Muhammad picks his 3 and 808 Prince is in Album Mode. Produced by TBI Media for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032mxz",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lwnvm0.jpg",
+     "title": "Ali Shaheed Muhammad In 3",
+     "until": "2026-11-21T00:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mxz"
+    },
+    {
+     "date": "2026-10-15T00:00:00Z",
+     "desc": "On BBC Sounds until 14 Nov (UK only). UK music royalty: MJ Cole picks his 3 and Jacques Greene enters Album Mode. Produced by TBI Media for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032hls",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lwnvm0.jpg",
+     "title": "MJ Cole In 3",
+     "until": "2026-11-14T00:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032hls"
+    },
+    {
+     "date": "2026-10-08T00:00:00Z",
+     "desc": "On BBC Sounds until 7 Nov (UK only). Saxophonist Isaiah Collier picks his 3 records and Jespfur enters Album Mode. Produced by TBI Media for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m003269y",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lwnvm0.jpg",
+     "title": "Isaiah Collier In 3",
+     "until": "2026-11-07T00:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m003269y"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Benji B",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-gilles-peterson": {
+   "home": "https://www.bbc.co.uk/programmes/b01fm4ss",
+   "id": "bbc-gilles-peterson",
+   "items": [
+    {
+     "date": "2026-10-31T18:00:00Z",
+     "desc": "On BBC Sounds until 1 Dec (UK only). Gilles plays new music spanning from soul, hip-hop, and jazz, including tracks from Jana Saleh, Melé, and Group Titan. Elsewhere in the show, Gilles is joined by Ohio-born, LA-based producer megiapa, fresh off her jazz-infused debut album, Intentions, and we hear from DJ and promoter Rob Da Bank about the comeback of his legendary party series, Sunday Best. Plus, Gilles shares a special Halloween mix to round things off! Produced by Reduced Listening for BBC Radio 6 Music.",
+     "duration": "10800",
+     "id": "m0033f15",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz1hx.jpg",
+     "title": "megiapa in the studio",
+     "until": "2026-11-30T18:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033f15"
+    },
+    {
+     "date": "2026-10-24T17:00:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). Gilles welcomes east London soulful singer-songwriter Nao to the studio to present her new album Autumn, created in collaboration with musician and producer Dave Okumu and focusing on the artist’s love for jazz. Autumn is the first of four season-themed records, A Soulful Suite, that will each explore a different genre and musical language that has shaped Nao throughout her life. Plus, Gilles plays lots of new music including tracks from Thakzin, Nabihah Iqbal and Lourenço Rebetez. Produced by Reduced Listening for BBC Radio 6 Music.",
+     "duration": "10800",
+     "id": "m00333vf",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz1hx.jpg",
+     "title": "Nao in conversation",
+     "until": "2026-11-23T17:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00333vf"
+    },
+    {
+     "date": "2026-10-17T17:00:00Z",
+     "desc": "On BBC Sounds until 17 Nov (UK only). Gilles spins new tunes including tracks from JNR Willams, Otis Mensah, and Steve Spacek, and invites jazz saxophonist Tamar Osborn into the studio. Tireless, creative collaborator, Tamar has just released her first EP as a bandleader, Varier : Berlin, which gathers recordings of an improvised session recorded in the German capital. Plus, we hear from Kelvin Mercer, aka Posdnuos, Plug 1 and Pos, a third of the legendary hip-hop outfit De La Soul, sharing an exclusive remix of Stakes Is High by J Dilla, 30 years after the album was released. Produced by Red…",
+     "duration": "10800",
+     "id": "m0032tkq",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz1hx.jpg",
+     "title": "Tamar Osborn in the studio",
+     "until": "2026-11-16T17:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032tkq"
+    },
+    {
+     "date": "2026-10-10T17:00:00Z",
+     "desc": "On BBC Sounds until 10 Nov (UK only). Gilles selects freshly released music from around the globe, including a track from jazz saxophonist JD Allen’s new album Söwt, inspired by Moroccan gnawa, a jungle rework of a classic cover of Sounds of Blackness' Optimistic, and the latest recording from the Lithuanian guitarist Brockenchord. Plus, Gilles celebrates the iconic R&B singer and songwriter Freddie Jackson, who recently passed away. Elsewhere in the show, we hear from Marc Hollander from Aksak Maboul about their forthcoming album, blending Kosmische Musik, jazz, and experimental sounds; and …",
+     "duration": "10800",
+     "id": "m0032c23",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz1hx.jpg",
+     "title": "Gnawa-inspired jazz, Sun Ra reworks, and resurfaced soul hits",
+     "until": "2026-11-09T17:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032c23"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Gilles Peterson on 6 Music",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
   "bbc-introducing-mixtape": {
    "home": "https://www.bbc.co.uk/programmes/p02nrw4q",
    "id": "bbc-introducing-mixtape",
@@ -2035,6 +2232,1310 @@
    "kind": "rss",
    "name": "BBC Music Introducing Mixtape (6 Music)",
    "updatedAt": "2026-11-01T22:52:27Z"
+  },
+  "bbc-introducing-on-radio-1-dance": {
+   "home": "https://www.bbc.co.uk/programmes/m000h0zx",
+   "id": "bbc-introducing-on-radio-1-dance",
+   "items": [
+    {
+     "date": "2026-11-05T23:00:00Z",
+     "desc": "On BBC Sounds until 9 Dec (UK only). Jaguar has a Dancefloor Moment from Sam Girling, plus new music from CARMICHAEL, SYREETA, Debba, Amber Stays Late, GIVE LOVE, Arthi, Model Man, SHIVYR, niina, Lucky Iris, Freeza Chin & more. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m00338x0",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "with Jaguar: Sam Girling Dancefloor Moment",
+     "until": "2026-12-08T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338x0"
+    },
+    {
+     "date": "2026-11-01T23:00:00Z",
+     "desc": "On BBC Sounds until 2 Dec (UK only). Jaguar brings you an Dancefloor Weapons selection featuring Rebekah Abdeen, Poté, Leena Punks, Rudi Creswick, Scarlett O'Malley, Indigo Eyes, HIFEELINGS, Arthi, Gardna, 1111 & more. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m0033p55",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "with Jaguar: Dancefloor Weapons",
+     "until": "2026-12-01T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033p55"
+    },
+    {
+     "date": "2026-10-29T23:00:00Z",
+     "desc": "On BBC Sounds until 2 Dec (UK only). Jaguar has a Dancefloor Moment from Douvelle19 & an October wrap-up, including Jessie Marcella, DÜKES, 1111, Kiimi & Meg Ward, Big Softy, Amber Stays Late, SHUFFA & more. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m00333n0",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "with Jaguar... Douvelle19 Dancefloor Moment & the October wrap-up",
+     "until": "2026-12-01T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00333n0"
+    },
+    {
+     "date": "2026-10-25T23:00:00Z",
+     "desc": "On BBC Sounds until 25 Nov (UK only). James Threlfall in for Jaguar with a Dark 'n Dubby selection featuring tracks from Sempa & Killa P, POLO LILLI, Sentimento, Natty Lou, Dr Meaker, Sweshun & more. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m003381y",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "Dark 'n Dubby",
+     "until": "2026-11-24T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m003381y"
+    },
+    {
+     "date": "2026-10-22T22:00:00Z",
+     "desc": "On BBC Sounds until 25 Nov (UK only). James Threlfall in for Jaguar with a Kiimi & Meg Ward Dancefloor Moment track, plus new music from Arthi, Tournier, 1111, ASIAN BRAT, Douvelle 19, Leena Punks, Gardna & more. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m0032mw3",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "Kiimi & Meg Ward Dancefloor Moment",
+     "until": "2026-11-24T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mw3"
+    },
+    {
+     "date": "2026-10-18T22:00:00Z",
+     "desc": "On BBC Sounds until 18 Nov (UK only). James Threlfall in for Jaguar with an Into The Underground selection featuring tracks from Sooyeon, MAFRO, Cortese, Lash, Yazmina & more. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m0032mwp",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "Into The Underground",
+     "until": "2026-11-17T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mwp"
+    },
+    {
+     "date": "2026-10-15T22:00:00Z",
+     "desc": "On BBC Sounds until 18 Nov (UK only). James Threlfall in for Jaguar with a Zurra Dancefloor Moment track, plus new music from Scarlett O'Malley, J Wax, Raphi, Emily Nash, Swimming Paul, 1111, Stresshead and more. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m0032hsh",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "Zurra Dancefloor Moment",
+     "until": "2026-11-17T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032hsh"
+    },
+    {
+     "date": "2026-10-11T22:00:00Z",
+     "desc": "On BBC Sounds until 11 Nov (UK only). Jaguar brings us Ellie Scougall's DJ Set from 528 in Ibiza. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m0032szb",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "with Jaguar: Ellie Scougall's DJ Set from 528 in Ibiza",
+     "until": "2026-11-10T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032szb"
+    },
+    {
+     "date": "2026-10-08T22:00:00Z",
+     "desc": "On BBC Sounds until 11 Nov (UK only). Jaguar has a brand new Dancefloor Moment from HIFEELINGS, plus new music from Sentimento, Jessie Marcella, Lily Juniper, MAFRO, Duality, RAUU & more. Produced by BBC Audio for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m00324tf",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+     "title": "with Jaguar... HIFEELINGS Dancefloor Moment",
+     "until": "2026-11-10T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00324tf"
+    }
+   ],
+   "kind": "bbc",
+   "name": "BBC Introducing on Radio 1 Dance",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-jamz-supernova": {
+   "home": "https://www.bbc.co.uk/programmes/m000txn4",
+   "id": "bbc-jamz-supernova",
+   "items": [
+    {
+     "date": "2026-10-31T15:00:00Z",
+     "desc": "On BBC Sounds until 30 Nov (UK only). With an uplifting array of alternative R&B, global club sounds and left-field electronica. Produced by BBC Audio for BBC Radio 6 Music.",
+     "duration": "7200",
+     "id": "m0033f13",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz3zf.jpg",
+     "title": "with Afrocat & Melé",
+     "until": "2026-11-30T15:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033f13"
+    },
+    {
+     "date": "2026-10-24T14:00:00Z",
+     "desc": "On BBC Sounds until 23 Nov (UK only). Jamz is joined by Norsicaa, the Malaysian-Australian DJ and selector who ran Soundway Records for eight years before setting up her own label, Sama Sama Records. She speaks on the label’s focus on reissues and overlooked music from the Asia-Pacific... Produced by BBC Audio for BBC Radio 6 Music",
+     "duration": "7200",
+     "id": "m00333vc",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz3zf.jpg",
+     "title": "with Norsicaa",
+     "until": "2026-11-23T14:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00333vc"
+    },
+    {
+     "date": "2026-10-17T14:00:00Z",
+     "desc": "On BBC Sounds until 16 Nov (UK only). Jamz is joined on the show by British-Pakistani DJ and producer Ahadadream to talk about his debut album, featuring Skrillex, Priya Ragu, Capo Lee and Eliza Rose. Plus Dialled In, the South Asian arts and culture platform he co-founded, and the UK club scene that shaped him. Produced by BBC Audio for BBC Radio 6 Music",
+     "duration": "7200",
+     "id": "m0032tkn",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz3zf.jpg",
+     "title": "with Ahadadream",
+     "until": "2026-11-16T14:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032tkn"
+    },
+    {
+     "date": "2026-10-10T14:00:00Z",
+     "desc": "On BBC Sounds until 9 Nov (UK only). Jamz returns from a trip down under with a bag full of fresh finds from the continent. Produced by BBC Audio for BBC Radio 6 Music",
+     "duration": "7200",
+     "id": "m0032c21",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz3zf.jpg",
+     "title": "Sounds from Australia",
+     "until": "2026-11-09T14:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032c21"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Jamz Supernova",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-mary-anne-hobbs": {
+   "home": "https://www.bbc.co.uk/programmes/b01pp0xq",
+   "id": "bbc-mary-anne-hobbs",
+   "items": [
+    {
+     "date": "2026-11-01T20:00:00Z",
+     "desc": "On BBC Sounds until 2 Dec (UK only). Ahead of the London run of Hamlet Hail to the Thief at the Barbican Theatre, Mary Anne Hobbs joins Thom Yorke alongside directors and Co-Creators Steven Hoggett and Christine Jones, actors Samuel Blenkin who plays Hamlet, Ami Tredrea who plays Ophelia, and arranger Justin Levine at rehearsals for their acclaimed collaboration that brings together Shakespeare's Hamlet and Radiohead's landmark 2003 album Hail to the Thief. Co-created by Yorke, Hoggett and Jones, the production fuses theatre, music and movement, reimagining Shakespeare's tragedy through the l…",
+     "duration": "7200",
+     "id": "m0033f7r",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pkh76q.jpg",
+     "title": "Thom Yorke, Christine Jones and Steven Hoggett, Hamlet Hail to the Thief",
+     "until": "2026-12-01T20:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033f7r"
+    },
+    {
+     "date": "2026-10-25T20:00:00Z",
+     "desc": "On BBC Sounds until 25 Nov (UK only). One Leg One Eye is the project of Ian Lynch (founding member of Irish group Lankum) and George Brennan, exploring submerged leylines of music and song, drawing on the raw aesthetics of black metal, noise, and drone, while also being deeply imbued with a sense of history and myth. George selects a track for our End of Days library to pass on to future generations. And on the anniversary of Back To Black we hear from Maggi Hambling, one of the UK’s most iconic Artists, about painting Amy Winehouse as a wall of water. Produced by BBC Audio for BBC Radio 6 Mu…",
+     "duration": "7200",
+     "id": "m003341z",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxyycc.jpg",
+     "title": "One Leg One Eye + Maggi Hambling",
+     "until": "2026-11-24T20:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m003341z"
+    },
+    {
+     "date": "2026-10-18T19:00:00Z",
+     "desc": "On BBC Sounds until 18 Nov (UK only). Henry Rollins talks about his lifelong love of The Cramps and the discovery of Gravest Gravy, a previously unheard album recorded by the band in 1977. The long-lost tapes were found in Poison Ivy's garage and Rollins and Ian MacKaye, helped restore the recordings and prepare them for release. With renewed interest in the band Rollins also discusses plans for future archival releases as more of The Cramps' legacy. Produced by BBC Audio for BBC Radio 6 Music.",
+     "duration": "7200",
+     "id": "m0032t0t",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxyycc.jpg",
+     "title": "Henry Rollins on The Cramps",
+     "until": "2026-11-17T19:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032t0t"
+    },
+    {
+     "date": "2026-10-11T19:00:00Z",
+     "desc": "On BBC Sounds until 11 Nov (UK only). Norwegian Mexican artist and DJ Carmen Villain provides an ambient mix for Slow Sunday. Her new album Memoria is out now via Smalltown Supersound. Marina Herlop, the Catalan pianist and composer, selects her choice for our End of Days music library to pass on to future generations. Produced by BBC Audio for BBC Radio 6 Music.",
+     "duration": "7200",
+     "id": "m0032cgp",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxyycc.jpg",
+     "title": "Slow Sunday: With an ambient guest mix from Carmen Villain",
+     "until": "2026-11-10T19:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032cgp"
+    },
+    {
+     "date": "2019-12-24T14:45:03Z",
+     "desc": "Natural history filmmaker Kathryn Jeffs has worked on acclaimed series Planet Earth, Frozen Planet and Monsoon. Her latest project is Earth's Tropical Islands which will be broadcast on New Years Day on BBC 2. The series journeys to three of the most mysterious and remote islands on planet earth: Madagascar, Borneo and Hawaii and will reveal how these isolated and iconic tropical islands harbour remarkable wildlife and human castaways found nowhere else on Earth. Mary Anne also lays down the All Queens Mix, a great choice of tunes from our favourite fierce females. Every day belongs to The Qu…",
+     "duration": "354",
+     "id": "m000clqx",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p07ysck8.jpg",
+     "title": "With Kathryn Jeffs",
+     "until": null,
+     "url": "https://www.bbc.co.uk/sounds/play/m000clqx"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Mary Anne Hobbs",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-pete-tong": {
+   "home": "https://www.bbc.co.uk/programmes/b006ww0v",
+   "id": "bbc-pete-tong",
+   "items": [
+    {
+     "date": "2026-10-31T00:00:00Z",
+     "desc": "On BBC Sounds until 25 Dec (UK only). Pete looks back at the sounds, stories and standout moments shaping global dance music over the past month. He rewinds all of his Essential New Tunes from October so far, unveiling a brand new addition along the way. Goom Gum deliver a spooky Hot Mix, while Danny Howard, Sarah Story and Jamie Jones share their October favourites. Plus, fresh music from MK, Beave, Joe Rolét & Skepta, Chiquito, Mella Dee, Brunello, Emanuel Satie, George FitzGerald and more. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00332wc",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyg6dr.jpg",
+     "title": "The Month in Dance: October 2026",
+     "until": "2026-12-24T20:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00332wc"
+    },
+    {
+     "date": "2026-10-23T23:00:00Z",
+     "desc": "On BBC Sounds until 18 Dec (UK only). In celebration of ADE, Pete has a guest Club Heat Mix from rising star AAT featuring all unreleased music and he rewinds Dutch royalty ANOTR's Hot Mix from when they covered the show back in August. Plus, there's new music from the likes of The Magician & JØRD, Julian Fjima, Bontan, BICEP, DESIREE, Hilel Lev, Arodes and Jimi Jules & Tri/xon. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032n28",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyg6dr.jpg",
+     "title": "All Gone Dutch - AAT & ANOTR",
+     "until": "2026-12-17T20:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032n28"
+    },
+    {
+     "date": "2026-10-16T23:00:00Z",
+     "desc": "On BBC Sounds until 11 Dec (UK only). Josh Baker joins Pete to talk about his mammoth 3-hour Essential Mix, recorded live at the closing party of his Ibiza residency. Plus, Cuba-born Blue Marlin Ibiza resident Khenya guest stars in the Hot Mix. There's also new music from the likes of TSHA, Prospa x KETTAMA, Liva K, ANOTR, Steve Lawler, Deer Jade, TOMORA, Joey London Style, Mochakk, Ammo Avenue, Syreeta x DJ Minx and more. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032g8n",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyg6dr.jpg",
+     "title": "Josh Baker and Khenya",
+     "until": "2026-12-10T20:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032g8n"
+    },
+    {
+     "date": "2026-10-09T23:00:00Z",
+     "desc": "On BBC Sounds until 4 Dec (UK only). Italian DJ and producer Silvie Loto rounds off a summer of standout shows, including at DC-10 with the Solid Grooves crew, as she steps into Pete’s Club Heat Mix. Plus, Josh Gigante returns to the Hot Mix decks with a session dedicated entirely to his own productions. And there’s plenty of fresh music to get stuck into, with new cuts from Gorgon City, D.O.D, Franky Rizardo, Chris Lorenzo, Mita Gami, Najeh, Andrea Oliva, Patrick Topping, Dam Swindle and more. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00325vj",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyg6dr.jpg",
+     "title": "Silvie Loto and Josh Gigante",
+     "until": "2026-12-03T20:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00325vj"
+    },
+    {
+     "date": "2026-10-02T23:00:00Z",
+     "desc": "On BBC Sounds until 27 Nov (UK only). Your essential guide to the very best in dance and electronic music from the summer of 26! Miss Monique, Carl Cox, Bedouin, Deer Jade, L.P. Giobbi, Cam Stockman, Sidney Charles, Patrick Topping, Clapton, Emma 2000, Major League DJz, Rossi, Alex Wann, DJ Tennis and Colyn all appear. Plus Pete crowns his Essential New Tune of the summer, then hands out a new Essential New Tune honour to Josh Baker, who's had a huge summer. Pete plays out the show with a Sounds of the Summer Hot Mix! Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0031vx7",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyg6dr.jpg",
+     "title": "The Summer in Dance - 2026",
+     "until": "2026-11-26T20:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031vx7"
+    },
+    {
+     "date": "2026-09-25T23:00:00Z",
+     "desc": "On BBC Sounds until 20 Nov (UK only). Pete recaps his Essential New Tunes for September before unveiling a new one. There's selections from some of the Radio 1 Dance Family and HotLap debut in the Hot Mix. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0031jft",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyg6dr.jpg",
+     "title": "The Month in Dance: September 2026",
+     "until": "2026-11-19T19:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031jft"
+    },
+    {
+     "date": "2026-09-18T23:00:00Z",
+     "desc": "On BBC Sounds until 13 Nov (UK only). As the season starts to draw to an end, we pick up the phone to Ibiza and hear the tunes that have been lighting up dance floors for ROSSI., Miss Monique, Bontan and Deer Jade. Plus, Dusky make a return to the Hot Mix, providing a special 'Evolution' themed Hot Mix - journeying through their back catalogue. Plus, there's new music from the likes of Adam Beyer x Argy x Alok, Julian Fijma, Barry Can't Swim x Sammy Virji, Alex Wann, Joseph Capriati, Larry Latenight, Bonobo, Chloé Caillet and more. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00315gn",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyg6dr.jpg",
+     "title": "Ibiza is calling and Dusky",
+     "until": "2026-11-12T19:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00315gn"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Pete Tong",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-pete-tongs-hot-mix": {
+   "home": "https://www.bbc.co.uk/programmes/m000zwn2",
+   "id": "bbc-pete-tongs-hot-mix",
+   "items": [
+    {
+     "date": "2026-11-01T04:00:00Z",
+     "desc": "On BBC Sounds until 1 Dec (UK only). Pete rewinds Dutch dance music royalty ANOTR's Hot Mix in celebration of ADE. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m00338bm",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fcjt.jpg",
+     "title": "ANOTR",
+     "until": "2026-12-01T04:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338bm"
+    },
+    {
+     "date": "2026-10-25T04:00:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). Pete brings you another Hot Mix courtesy of Khenya. Expect to hear her unique flair, vibes and energy. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m003325m",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fcjt.jpg",
+     "title": "Khenya",
+     "until": "2026-11-24T04:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m003325m"
+    },
+    {
+     "date": "2026-10-18T03:00:00Z",
+     "desc": "On BBC Sounds until 17 Nov (UK only). Josh Gigante showcases all his own productions in the Hot Mix for Pete Tong. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0032mj7",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fcjt.jpg",
+     "title": "Josh Gigante",
+     "until": "2026-11-17T03:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mj7"
+    },
+    {
+     "date": "2026-10-11T03:00:00Z",
+     "desc": "On BBC Sounds until 10 Nov (UK only). Pete brings you a Hot Mix packed full of summer club weapons from the likes of Hardt Antoine, Pacha, Rafael, Luch and more. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0032gnt",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fcjt.jpg",
+     "title": "Sounds of the Summer",
+     "until": "2026-11-10T03:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032gnt"
+    },
+    {
+     "date": "2026-08-29T04:00:00Z",
+     "desc": "On BBC Sounds until 7 Nov (UK only). Kölsch provides a Hot Mix entitled 'Scorchio' - packed full of exclusive edits and demos. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m002zf50",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fcjt.jpg",
+     "title": "Kölsch",
+     "until": "2026-11-07T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m002zf50"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Pete Tong's Hot Mix",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-radio-1-dance-drum-and-bass-mix": {
+   "home": "https://www.bbc.co.uk/programmes/m0003l3c",
+   "id": "bbc-radio-1-dance-drum-and-bass-mix",
+   "items": [
+    {
+     "date": "2026-11-01T01:00:00Z",
+     "desc": "On BBC Sounds until 25 Dec (UK only). Koven take us on a journey with their emotive and high-energy DNB60. Expect full throttle energy, massive vocals and some spooky bootlegs. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m003325h",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26fg0.jpg",
+     "title": "DNB60",
+     "until": "2026-12-25T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m003325h"
+    },
+    {
+     "date": "2026-10-25T00:00:00Z",
+     "desc": "On BBC Sounds until 18 Dec (UK only). Villem steps up to the Chilled D&B mix hot seat with gorgeous liquid sonics. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m00338bf",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26fl2.jpg",
+     "title": "Chilled D&B with Villem",
+     "until": "2026-12-18T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338bf"
+    },
+    {
+     "date": "2026-10-24T23:30:00Z",
+     "desc": "On BBC Sounds until 18 Dec (UK only). Austrian DJ RageMode delivers his high energy Drum & Bass Mix! Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m00338bc",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26f04.jpg",
+     "title": "RageMode",
+     "until": "2026-12-18T01:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338bc"
+    },
+    {
+     "date": "2026-10-21T01:00:00Z",
+     "desc": "On BBC Sounds until 20 Nov (UK only). Mixed up D&B from Radio 1 Dance. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "3600",
+     "id": "m0031vr4",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26fg0.jpg",
+     "title": "DNB60",
+     "until": "2026-11-20T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031vr4"
+    },
+    {
+     "date": "2026-10-18T00:00:00Z",
+     "desc": "On BBC Sounds until 11 Dec (UK only). Newcastle's finest, Nectax, provides a deep and atmospheric Chilled Drum & Bass Mix. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0032mj1",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26fl2.jpg",
+     "title": "Chilled D&B with Nectax",
+     "until": "2026-12-11T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mj1"
+    },
+    {
+     "date": "2026-10-17T23:30:00Z",
+     "desc": "On BBC Sounds until 11 Dec (UK only). Charlie Tee welcomes Beama into the Drum & Bass Mix for a high energy half hour. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0032mhz",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26f04.jpg",
+     "title": "Beama",
+     "until": "2026-12-11T01:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mhz"
+    },
+    {
+     "date": "2026-10-11T00:00:00Z",
+     "desc": "On BBC Sounds until 4 Dec (UK only). Join one of Japan's finest, Makoto, for 30-minutes of jazz-infused liquid drum & bass. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0032gnm",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26fl2.jpg",
+     "title": "Chilled D&B with Makoto",
+     "until": "2026-12-04T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032gnm"
+    },
+    {
+     "date": "2026-10-10T23:30:00Z",
+     "desc": "On BBC Sounds until 4 Dec (UK only). Charlie Tee welcomes one of the most exciting names in D&B, SKIYE, for a full-throttle 30-minute mix! Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0032gnk",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26f04.jpg",
+     "title": "SKIYE",
+     "until": "2026-12-04T01:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032gnk"
+    },
+    {
+     "date": "2026-10-04T00:00:00Z",
+     "desc": "On BBC Sounds until 27 Nov (UK only). Mixed up D&B from Radio 1 Dance. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0032639",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26fl2.jpg",
+     "title": "Chilled D&B with Ama",
+     "until": "2026-11-27T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032639"
+    },
+    {
+     "date": "2026-10-03T23:30:00Z",
+     "desc": "On BBC Sounds until 27 Nov (UK only). Mixed up D&B from Radio 1 Dance. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0032637",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26f04.jpg",
+     "title": "QZB",
+     "until": "2026-11-27T01:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032637"
+    },
+    {
+     "date": "2026-09-20T00:00:00Z",
+     "desc": "On BBC Sounds until 13 Nov (UK only). Mixed up D&B from Radio 1 Dance. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0031l4t",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26fl2.jpg",
+     "title": "Chilled D&B with DRIIA",
+     "until": "2026-11-13T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031l4t"
+    },
+    {
+     "date": "2026-09-19T23:30:00Z",
+     "desc": "On BBC Sounds until 13 Nov (UK only). Mixed up D&B from Radio 1 Dance. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "1800",
+     "id": "m0031l4r",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26f04.jpg",
+     "title": "Document One",
+     "until": "2026-11-13T00:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031l4r"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Radio 1 Dance Drum & Bass Mix",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-radio-1s-chillest-show-with-sian-eleri": {
+   "home": "https://www.bbc.co.uk/programmes/b03hjfww",
+   "id": "bbc-radio-1s-chillest-show-with-sian-eleri",
+   "items": [
+    {
+     "date": "2026-11-01T23:00:00Z",
+     "desc": "On BBC Sounds until 2 Dec (UK only). Hear the music pop duo After listen to wind down in this week's Chill Mix as Sian Eleri lays down Planet Earth's most soothing musical vibes. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0033878",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyffy8.jpg",
+     "title": "After Chill Mix",
+     "until": "2026-12-01T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033878"
+    },
+    {
+     "date": "2026-10-25T23:00:00Z",
+     "desc": "On BBC Sounds until 25 Nov (UK only). Sian Eleri rounds up October with the best in chill. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00333wv",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyffy8.jpg",
+     "title": "Best of October",
+     "until": "2026-11-24T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00333wv"
+    },
+    {
+     "date": "2026-10-18T22:00:00Z",
+     "desc": "On BBC Sounds until 18 Nov (UK only). Bonobo's in control of the Chill Mix, as Sian Eleri lays down Planet Earth's most soothing musical vibes. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032mn6",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyffy8.jpg",
+     "title": "Bonobo Chill Mix",
+     "until": "2026-11-17T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mn6"
+    },
+    {
+     "date": "2026-10-11T22:00:00Z",
+     "desc": "On BBC Sounds until 11 Nov (UK only). Matilda Mann chooses the songs she chills out to, as Sian Eleri lays down Planet Earth's most soothing musical vibes. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032fj0",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyffy8.jpg",
+     "title": "Matilda Mann Chill Mix",
+     "until": "2026-11-10T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032fj0"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Radio 1's Chillest Show with Sian Eleri",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-radio-1s-classic-essential-mix": {
+   "home": "https://www.bbc.co.uk/programmes/b00f3pc4",
+   "id": "bbc-radio-1s-classic-essential-mix",
+   "items": [
+    {
+     "date": "2026-11-03T22:00:00Z",
+     "desc": "On BBC Sounds until 27 Dec (UK only). Relive Bonobo's back to back set with TEED (FKA Totally Enormous Extinct Dinosaurs)",
+     "duration": "7200",
+     "id": "m003263c",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Bonobo X TEED 2020",
+     "until": "2026-12-26T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m003263c"
+    },
+    {
+     "date": "2026-11-01T03:00:00Z",
+     "desc": "On BBC Sounds until 1 Dec (UK only). Relive Goldie & James Davidson's collaborative mix as Subjective, first broadcast in October 2018.",
+     "duration": "7200",
+     "id": "m00338bh",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Subjective (Goldie & James Davidson) 2018",
+     "until": "2026-12-01T03:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338bh"
+    },
+    {
+     "date": "2026-10-28T22:00:00Z",
+     "desc": "On BBC Sounds until 28 Nov (UK only). Another chance to hear a massive debut mix from Sub Focus, which featured tunes from Chase & Status, Nero, Ram Trilogy and more.",
+     "duration": "7200",
+     "id": "m000w37c",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Sub Focus 2009",
+     "until": "2026-11-27T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m000w37c"
+    },
+    {
+     "date": "2026-10-27T22:00:00Z",
+     "desc": "On BBC Sounds until 20 Dec (UK only). We revisit Paul Oakenfold's Essential Mix World Tour 1999 with a date at Rojan in Shanghai, China.",
+     "duration": "7200",
+     "id": "m0031vr8",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Paul Oakenfold in China 1999",
+     "until": "2026-12-19T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031vr8"
+    },
+    {
+     "date": "2026-10-25T02:00:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). We re-spin the monstrous Fake Blood (aka Theo Keating) Essential Mix from 2009. It was a mix of two halves, with hour one in the club and hour two at the after-party.",
+     "duration": "7200",
+     "id": "m003325k",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Fake Blood 2009",
+     "until": "2026-11-24T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m003325k"
+    },
+    {
+     "date": "2026-10-20T21:00:00Z",
+     "desc": "On BBC Sounds until 13 Dec (UK only). Another chance to hear DJ Shadow's 2016 Essential Mix. Released around the time of The Mountain Will Fall album, the mix featured 60 minutes of rare hip-hop demo tapes alongside an hour of new music.",
+     "duration": "7200",
+     "id": "m0031l4w",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "DJ Shadow 2016",
+     "until": "2026-12-12T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031l4w"
+    },
+    {
+     "date": "2026-10-18T02:00:00Z",
+     "desc": "On BBC Sounds until 17 Nov (UK only). We head back to January 2021 for Cristoph's Essential Mix debut. Featuring tracks from Adana Twins, Cirez D and Monika Kruse, alongside exclusive private edits of his own music.",
+     "duration": "7200",
+     "id": "m0032mj3",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Cristoph 2021",
+     "until": "2026-11-17T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mj3"
+    },
+    {
+     "date": "2026-10-13T21:00:00Z",
+     "desc": "On BBC Sounds until 6 Dec (UK only). We relive deadmau5's Essential Mix debut, which featured early hits Hi Friend, Faxing Berlin and I Remember.",
+     "duration": "7200",
+     "id": "m00313pk",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "deadmau5 2008",
+     "until": "2026-12-05T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00313pk"
+    },
+    {
+     "date": "2026-10-12T21:00:00Z",
+     "desc": "On BBC Sounds until 5 Dec (UK only). Relive Basement Jaxx's Essential Mix Of The Year from 1999. Featuring music from Mr Oizo, Eminem and Prince, alongside the Jaxx' own productions and remixes. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m002s4sk",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Basement Jaxx 1999",
+     "until": "2026-12-04T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m002s4sk"
+    },
+    {
+     "date": "2026-10-11T02:00:00Z",
+     "desc": "On BBC Sounds until 10 Nov (UK only). Relive TC's drum & bass rinse out from 2008.",
+     "duration": "7200",
+     "id": "m0032gnp",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "TC 2008",
+     "until": "2026-11-10T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032gnp"
+    },
+    {
+     "date": "2026-10-06T21:00:00Z",
+     "desc": "On BBC Sounds until 29 Nov (UK only). Relive Marlon Hoffstadt's euphoric 2024 debut Essential Mix. Featuring KI/KI, 2 Unlimited and DJ Heartstring.",
+     "duration": "7200",
+     "id": "m0030nn6",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Marlon Hoffstadt 2024",
+     "until": "2026-11-28T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0030nn6"
+    },
+    {
+     "date": "2026-09-29T21:00:00Z",
+     "desc": "On BBC Sounds until 22 Nov (UK only). Sasha and John Digweed captured live at Shugborough Hall in Staffordshire for Renaissance's Wild in the Country festival in May 2004.",
+     "duration": "7200",
+     "id": "m001yvrp",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Sasha & Digweed 2004",
+     "until": "2026-11-21T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m001yvrp"
+    },
+    {
+     "date": "2026-09-22T21:00:00Z",
+     "desc": "On BBC Sounds until 15 Nov (UK only). Relive Danny Howells's 2002 curatory masterclass. Featuring Madonna and Massive Attack, Beastie Boys and Patti Jo.",
+     "duration": "7200",
+     "id": "m0030ckr",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Danny Howells 2002",
+     "until": "2026-11-14T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0030ckr"
+    },
+    {
+     "date": "2026-09-21T21:00:00Z",
+     "desc": "On BBC Sounds until 21 Nov (UK only). Relive classic Radio 1 Essential Mixes from the archive.",
+     "duration": "7200",
+     "id": "m0019clb",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Paul Van Dyk @ Global Gathering 2007",
+     "until": "2026-11-20T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0019clb"
+    },
+    {
+     "date": "2026-09-15T21:00:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). Remembering William Orbit with his 2000 Essential Mix.",
+     "duration": "7200",
+     "id": "m00300y5",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "William Orbit 2000",
+     "until": "2026-11-23T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00300y5"
+    },
+    {
+     "date": "2026-09-14T21:00:00Z",
+     "desc": "On BBC Sounds until 14 Nov (UK only). Relive a classic Fatboy Slim set, live at Bestival on the Isle of Wight in 2016.",
+     "duration": "7200",
+     "id": "m002dh6g",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "Fatboy Slim at Bestival 2016",
+     "until": "2026-11-13T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m002dh6g"
+    },
+    {
+     "date": "2026-09-07T21:00:00Z",
+     "desc": "On BBC Sounds until 7 Nov (UK only). Another chance to hear LTJ Bukem and MC Conrad's truly classic 1995 Essential Mix.",
+     "duration": "7200",
+     "id": "m001yn3w",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2dn9d.jpg",
+     "title": "LTJ Bukem and MC Conrad 1995",
+     "until": "2026-11-06T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m001yn3w"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Radio 1's Classic Essential Mix",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-radio-1s-drum-and-bass-show": {
+   "home": "https://www.bbc.co.uk/programmes/b09c12lj",
+   "id": "bbc-radio-1s-drum-and-bass-show",
+   "items": [
+    {
+     "date": "2026-11-01T00:00:00Z",
+     "desc": "On BBC Sounds until 1 Dec (UK only). Diagnostix and Bish are in the studio to deliver a spooky Drum & Bass remix of Tame Impala's Dracula! Plus Koven drops by ahead of their DNB60. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "3600",
+     "id": "m00338b9",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyf7xk.jpg",
+     "title": "with Charlie Tee: Halloween Remix Challenge!",
+     "until": "2026-12-01T00:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338b9"
+    },
+    {
+     "date": "2026-10-24T23:00:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). Friction's new release is named Charlie Tee's Drop of the Week plus Charlie has a show packed full of the freshest D&B selections! Produced by We Are Grape for BBC Radio 1.",
+     "duration": "3600",
+     "id": "m003325f",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyf7xk.jpg",
+     "title": "with Charlie Tee: Drop of the Week from Friction!",
+     "until": "2026-11-23T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m003325f"
+    },
+    {
+     "date": "2026-10-17T23:00:00Z",
+     "desc": "On BBC Sounds until 17 Nov (UK only). Drum & Bass legends Chase & Status join Charlie Tee to talk about their latest album and Drop of the Week comes from Netsky and Hannah Boleyn. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "3600",
+     "id": "m0032mhx",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyf7xk.jpg",
+     "title": "with Charlie Tee: Chase & Status in the Studio!",
+     "until": "2026-11-16T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mhx"
+    },
+    {
+     "date": "2026-10-10T23:00:00Z",
+     "desc": "On BBC Sounds until 10 Nov (UK only). All the biggest D&B releases of the moment with Charlie Tee. Expect music from Andy C, Friction, Koven and more. Produced by We Are Grape for BBC Radio 1.",
+     "duration": "3600",
+     "id": "m0032gnh",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyf7xk.jpg",
+     "title": "with Charlie Tee: Drop of the Week from Andromedik & BARBZ!",
+     "until": "2026-11-09T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032gnh"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Radio 1's Drum & Bass Show",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-radio-1s-essential-mix": {
+   "home": "https://www.bbc.co.uk/programmes/b006wkfp",
+   "id": "bbc-radio-1s-essential-mix",
+   "items": [
+    {
+     "date": "2026-10-31T02:00:00Z",
+     "desc": "On BBC Sounds until 26 Dec (UK only). Yung Singh mixes up two hours of ambient, funk, jazz, jungle, hip-hop, dancehall, Punjabi folk music and high-energy dancefloor material. The mix features plenty of brand new unreleased Yung Singh music alongside tracks that inspired him growing up. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00332wf",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pllq56.jpg",
+     "title": "Yung Singh",
+     "until": "2026-12-26T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00332wf"
+    },
+    {
+     "date": "2026-10-24T01:00:00Z",
+     "desc": "On BBC Sounds until 19 Dec (UK only). Miss Monique returns to the Essential Mix DJ booth. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032n2b",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pllq4h.jpg",
+     "title": "Miss Monique",
+     "until": "2026-12-19T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032n2b"
+    },
+    {
+     "date": "2026-10-19T21:00:00Z",
+     "desc": "On BBC Sounds until 19 Nov (UK only). Above & Beyond's classic 2004 Essential Mix debut, which featured their trademark sound alongside movie soundtracks and spoken word.",
+     "duration": "7200",
+     "id": "m000k82m",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0gvhwmf.jpg",
+     "title": "The Essential Mix 30",
+     "until": "2026-11-18T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m000k82m"
+    },
+    {
+     "date": "2026-10-17T02:00:00Z",
+     "desc": "On BBC Sounds until 9 Dec (UK only). Josh Baker's three-hour sunrise set from the You & Me closing party at Amnesia in Ibiza. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "10800",
+     "id": "m0032g8q",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0phhhhp.jpg",
+     "title": "Josh Baker at Amnesia Ibiza - Sunrise Set",
+     "until": "2026-12-09T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032g8q"
+    },
+    {
+     "date": "2026-10-16T23:00:00Z",
+     "desc": "On BBC Sounds until 16 Nov (UK only). Josh Baker's 90 minute sunset mix at the You & Me closing party at Amnesia in Ibiza, warming up to his three hour sunrise Essential Mix. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "5400",
+     "id": "m0033h44",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m0slhx.jpg",
+     "title": "Josh Baker at Amnesia Ibiza - Sunset Set",
+     "until": "2026-11-15T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033h44"
+    },
+    {
+     "date": "2026-10-10T01:00:00Z",
+     "desc": "On BBC Sounds until 5 Dec (UK only). Two Shell take over ahead of the release of their album Infinite Now. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00325vl",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0phhhkm.jpg",
+     "title": "Two Shell",
+     "until": "2026-12-05T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00325vl"
+    },
+    {
+     "date": "2026-10-03T22:00:00Z",
+     "desc": "On BBC Sounds until 16 Dec (UK only). Parisian DJ and producer Bambounou delivers two hours of underground house music. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0031jfw",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pc1csv.jpg",
+     "title": "Bambounou",
+     "until": "2026-12-16T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031jfw"
+    },
+    {
+     "date": "2026-10-03T01:00:00Z",
+     "desc": "On BBC Sounds until 28 Nov (UK only). It's Silva Bumpa time on the Essential Mix! The Sheffield born and raised producer makes his debut with plenty of IDs and unreleased material. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0031vx9",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0phhhl8.jpg",
+     "title": "Silva Bumpa",
+     "until": "2026-11-28T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031vx9"
+    },
+    {
+     "date": "2026-09-26T22:00:00Z",
+     "desc": "On BBC Sounds until 12 Dec (UK only). HAAi is back with a brand new Essential Mix ahead of her album DIGITiSE. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00315gq",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pc1cwf.jpg",
+     "title": "HAAi",
+     "until": "2026-12-12T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00315gq"
+    },
+    {
+     "date": "2026-09-12T00:30:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). Four Tet recorded live on the Hydro XL stage at Boomtown in Hampshire. Also available to watch on iPlayer and Radio 1's YouTube channel. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "5400",
+     "id": "m0030xyh",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pb1ty0.jpg",
+     "title": "Four Tet @ Boomtown 2026",
+     "until": "2026-11-24T03:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0030xyh"
+    },
+    {
+     "date": "2026-08-29T22:00:00Z",
+     "desc": "On BBC Sounds until 11 Nov (UK only). Another chance to hear the queen of Spanish techno, Indira Paganotto's 2025 Essential Mix. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m002nlrg",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0mn41qn.jpg",
+     "title": "Indira Paganotto",
+     "until": "2026-11-11T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m002nlrg"
+    },
+    {
+     "date": "2026-08-29T01:00:00Z",
+     "desc": "On BBC Sounds until 18 Nov (UK only). Liverpool's Faster Horses makes his Essential Mix debut. Produced by BBC Audio for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0030bw1",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0p70d40.jpg",
+     "title": "Faster Horses",
+     "until": "2026-11-18T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0030bw1"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Radio 1's Essential Mix",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-radio-1s-future-artists-with-sian-eleri": {
+   "home": "https://www.bbc.co.uk/programmes/m001y043",
+   "id": "bbc-radio-1s-future-artists-with-sian-eleri",
+   "items": [
+    {
+     "date": "2026-11-03T22:00:00Z",
+     "desc": "On BBC Sounds until 4 Dec (UK only). Cristale drops a Future Flex Freestyle ahead of her new mixtape Clear Intentions, and Sian spotlights another exciting emerging artist in Next Wave. Produced by Listen for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00338kc",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+     "title": "Future Flex with Cristale",
+     "until": "2026-12-03T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338kc"
+    },
+    {
+     "date": "2026-11-02T22:00:00Z",
+     "desc": "On BBC Sounds until 3 Dec (UK only). Sian crowns Say Now as Radio 1's Future Artist of the Month for November and catches up with alt-pop artist Bluegirl in Next Wave. Produced by Listen for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00338hf",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+     "title": "Future Artist of the Month: Say Now",
+     "until": "2026-12-02T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338hf"
+    },
+    {
+     "date": "2026-10-27T22:00:00Z",
+     "desc": "On BBC Sounds until 27 Nov (UK only). Jeremiah Asiamah takes on Break Out The Banger, and Sian catches up with LA electro-industrial trio Touching Ice in Next Wave. Produced by Listen for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00332k6",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+     "title": "Break Out the Banger with Jeremiah Asiamah!",
+     "until": "2026-11-26T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00332k6"
+    },
+    {
+     "date": "2026-10-26T22:00:00Z",
+     "desc": "On BBC Sounds until 26 Nov (UK only). edapollo delivers a Future Flex Mini Mix, and Sian catches up with Gabriel Jacoby in Next Wave. Produced by Listen for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0033447",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+     "title": "Future Flex with edapollo",
+     "until": "2026-11-25T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033447"
+    },
+    {
+     "date": "2026-10-20T21:00:00Z",
+     "desc": "On BBC Sounds until 20 Nov (UK only). Nippa drops by the studio for a game of The Ultimate Song, but which of his own tracks will he choose? Plus, Sian catches up with Star Moles in Next Wave. Produced by Listen for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032mtm",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+     "title": "The Ultimate Song with Nippa",
+     "until": "2026-11-19T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mtm"
+    },
+    {
+     "date": "2026-10-19T21:00:00Z",
+     "desc": "On BBC Sounds until 19 Nov (UK only). Man/Woman/Chainsaw perform live music from their debut album Cannonball, and Sian catches up with Forrest Nolan in Next Wave. Produced by Listen for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032mzr",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+     "title": "Live music from Man/Woman/Chainsaw",
+     "until": "2026-11-18T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mzr"
+    },
+    {
+     "date": "2026-10-13T21:00:00Z",
+     "desc": "On BBC Sounds until 13 Nov (UK only). Nieve Ella leaks new music from her upcoming debut album, How Long Will It Take?, and Sian catches up with daine in Next Wave. Produced by Listen for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032g41",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+     "title": "Early Access with Nieve Ella",
+     "until": "2026-11-12T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032g41"
+    },
+    {
+     "date": "2026-10-12T21:00:00Z",
+     "desc": "On BBC Sounds until 12 Nov (UK only). Pocket delivers a Future Flex Mini Mix, and Sian catches up with Dermot Henry in Next Wave. Produced by Listen for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032gxr",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+     "title": "Future Flex with Pocket",
+     "until": "2026-11-11T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032gxr"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Radio 1's Future Artists with Sian Eleri",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-radio-1s-future-dance-with-sarah-story": {
+   "home": "https://www.bbc.co.uk/programmes/m000zc82",
+   "id": "bbc-radio-1s-future-dance-with-sarah-story",
+   "items": [
+    {
+     "date": "2026-10-30T22:00:00Z",
+     "desc": "On BBC Sounds until 30 Nov (UK only). All the hottest new and emerging dance sounds with Dutch DJ Julian Fijma in the mix! Plus Sarah has new music from O'Flynn as her Future Dance Track ID! Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00332w9",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygf08.jpg",
+     "title": "Julian Fijma and O'Flynn",
+     "until": "2026-11-29T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00332w9"
+    },
+    {
+     "date": "2026-10-23T21:00:00Z",
+     "desc": "On BBC Sounds until 23 Nov (UK only). Sarah has new music from Joshua James as the Future Dance Track ID, and Berlin's Khadija is in the studio for Peak Time Mix! Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032n25",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygf08.jpg",
+     "title": "Khadija and Joshua James",
+     "until": "2026-11-22T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032n25"
+    },
+    {
+     "date": "2026-10-16T21:00:00Z",
+     "desc": "On BBC Sounds until 16 Nov (UK only). Sarah's joined by KILIMANJARO as his new single is crowned Track ID. Plus SYREETA is in the studio to play confessions! Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0032g8l",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygf08.jpg",
+     "title": "KILIMANJARO and SYREETA",
+     "until": "2026-11-15T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032g8l"
+    },
+    {
+     "date": "2026-10-09T21:00:00Z",
+     "desc": "On BBC Sounds until 9 Nov (UK only). Sarah has new music from Interplanetary Criminal, plus Dutch rising star Rooléh is in the studio to provide a Peak Time Mix! Produced by We Are Grape for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m00325vg",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygf08.jpg",
+     "title": "Interplanetary Criminal and Rooléh",
+     "until": "2026-11-08T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00325vg"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Radio 1's Future Dance with Sarah Story",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-sherelle": {
+   "home": "https://www.bbc.co.uk/programmes/m001qng7",
+   "id": "bbc-sherelle",
+   "items": [
+    {
+     "date": "2026-11-01T01:00:00Z",
+     "desc": "On BBC Sounds until 1 Dec (UK only). One for your bass bins: dubstep legend Coki enters the Sweatbox for Halloween, providing 30 minutes of head-rattling bass music. Produced by We Are Grape for BBC Radio 6 Music.",
+     "duration": "1800",
+     "id": "m0033f1f",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l1k.jpg",
+     "title": "The Sweatbox - with Coki",
+     "until": "2026-12-01T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033f1f"
+    },
+    {
+     "date": "2026-11-01T00:30:00Z",
+     "desc": "On BBC Sounds until 1 Dec (UK only). SHERELLE gets spooky for Halloween, playing the deepest, darkest dubstep in her arsenal! Expect tunes from Mala, multiple appearances from Kahn and Joker, with some haunting sounds along the way... Produced by We Are Grape for BBC Radio 6 Music.",
+     "duration": "5400",
+     "id": "m0033f1c",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l1k.jpg",
+     "title": "It's Halloween! Let's Listen To Dubstep!",
+     "until": "2026-12-01T00:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033f1c"
+    },
+    {
+     "date": "2026-10-25T00:00:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). BRIT and MOBO-nominated artist Eliza Rose closes out the Black History Month series in the Sweatbox, with 30 minutes of her favourite UK garage bangers. Produced by We Are Grape for BBC Radio 6 Music.",
+     "duration": "1800",
+     "id": "m00333vp",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l1k.jpg",
+     "title": "The Sweatbox - with Eliza Rose",
+     "until": "2026-11-24T00:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00333vp"
+    },
+    {
+     "date": "2026-10-24T23:30:00Z",
+     "desc": "On BBC Sounds until 24 Nov (UK only). In this all-out celebration of the women of UK garage, Kele Le Roc gets in the Cab to the Club, selecting three tracks she wants to hear en-route to the rave. Elsewhere in the show, SHERELLE's celebrating the often unsung female vocalists, producers and DJs within the genre, with a contributing voice note from Eliza Rose and more. Produced by We Are Grape for BBC Radio 6 Music.",
+     "duration": "5400",
+     "id": "m00333vm",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l1k.jpg",
+     "title": "Celebrating the women of UK garage",
+     "until": "2026-11-23T23:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00333vm"
+    },
+    {
+     "date": "2026-10-18T00:00:00Z",
+     "desc": "On BBC Sounds until 17 Nov (UK only). Jumpin Jack Frost closes out the show with 30 minutes of full-force jungle. Produced by We Are Grape for BBC Radio 6 Music.",
+     "duration": "1800",
+     "id": "m0032tkz",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l1k.jpg",
+     "title": "The Sweatbox - with Jumpin Jack Frost",
+     "until": "2026-11-17T00:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032tkz"
+    },
+    {
+     "date": "2026-10-17T23:30:00Z",
+     "desc": "On BBC Sounds until 17 Nov (UK only). SHERELLE is joined by jungle pioneer Jumpin Jack Frost to talk dubplates and the incredible journey of his track Burial. Together, they discuss how soundsystem culture is at the heart of jungle, and how dubplates were an essential part of any set in order to test out new material and set them apart from other DJs. They also discuss how the story of Burial has evolved even further, with brand new remixes from Todd Terry, Supa D and more. Elsewhere in the show, SHERELLE plays jungle tracks that were originally dubplates from Dillinja, D’Cruze and Congo Natt…",
+     "duration": "5400",
+     "id": "m0032tkx",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l1k.jpg",
+     "title": "Dubplate culture and jungle with Jumpin Jack Frost",
+     "until": "2026-11-16T23:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032tkx"
+    },
+    {
+     "date": "2026-10-11T00:00:00Z",
+     "desc": "On BBC Sounds until 10 Nov (UK only). DJ and producer Fiyahdred ramps up the vibe in the Sweatbox with UK club energy, mixing tracks from their favourite Black producers.",
+     "duration": "1800",
+     "id": "m0032c2c",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l1k.jpg",
+     "title": "The Sweatbox - with Fiyahdred",
+     "until": "2026-11-10T00:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032c2c"
+    },
+    {
+     "date": "2026-10-10T23:30:00Z",
+     "desc": "On BBC Sounds until 10 Nov (UK only). SHERELLE focuses on the theme of 'ragga' - what does it mean, and where does it come from? With a playlist of reggae, dancehall and jungle, SHERELLE weaves her way through some of the music associated with this historied term. Along the way, she plays tracks from Lady Saw, Shabba Ranks, Beenie Man, Sasha and some of her favourite artists defining the ‘ragga’ sound.",
+     "duration": "5400",
+     "id": "m0032c29",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l1k.jpg",
+     "title": "'Ragga'",
+     "until": "2026-11-09T23:30:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032c29"
+    }
+   ],
+   "kind": "bbc",
+   "name": "SHERELLE",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-stuart-maconies-freak-zone": {
+   "home": "https://www.bbc.co.uk/programmes/b0072l4x",
+   "id": "bbc-stuart-maconies-freak-zone",
+   "items": [
+    {
+     "date": "2026-11-01T22:00:00Z",
+     "desc": "On BBC Sounds until 2 Dec (UK only). Welcome to the Freak Zone, 6 Music's home for all the weird and wonderful music you didn't know you needed to hear. This week there's math rock and wonky pop, groovy sounds from Turkey and Nigeria, top tunes from Brian, Keith and Vashti, and Purcell played by a pair of top Norwegian jazzers. Plus, Stuart's featured album is Robbie Basho's masterpiece of American primitive guitar Visions of the Country.",
+     "duration": "7200",
+     "id": "m0033f7t",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l7h.jpg",
+     "title": "Robbie Basho's Visions of the Country",
+     "until": "2026-12-01T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033f7t"
+    },
+    {
+     "date": "2026-10-25T22:00:00Z",
+     "desc": "On BBC Sounds until 25 Nov (UK only). Stuart gets spooky and supernatural for All Hallows Eve. Expect werewolves, demons, witches and a blasphemous seal. There's music from Keith Emerson, Sun Ra and France Gall plus live advice from an LA witch.",
+     "duration": "7200",
+     "id": "m0033421",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l7h.jpg",
+     "title": "The Freak Zone Halloween Special",
+     "until": "2026-11-24T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033421"
+    },
+    {
+     "date": "2026-10-18T21:00:00Z",
+     "desc": "On BBC Sounds until 18 Nov (UK only). Stuart's featured album is Glenn Branca's 1981 debut album The Ascension - a no-wave classic and landmark in experimental guitar music, based around layering electric guitars in alternate tunings. Also in this week's roundup of adventurous and avant-garde music, some Donegal art-rock, Brightonian folk-noir, a bonus segment from Stuart's interview with The Pet Shop Boys, and Stuart reads your correspondence.",
+     "duration": "7200",
+     "id": "m0032t0w",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l7h.jpg",
+     "title": "Glenn Branca - The Ascension",
+     "until": "2026-11-17T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032t0w"
+    },
+    {
+     "date": "2026-10-11T21:00:00Z",
+     "desc": "On BBC Sounds until 11 Nov (UK only). Stuart marks Slow Sunday with a special autumnal playlist. Celebrate the season of mists and mellow fruitfulness in Freak Zone style with music from Matt Berry, Lee Hazelwood and the Incredible String Band, plus Mancunian jazz, Italian prog, English doom metal and a touch of Frank Sinatra.",
+     "duration": "7200",
+     "id": "m0032cgr",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m76l7h.jpg",
+     "title": "Slow Sunday; Autumn, season of mists and mellow fruitfulness and all that",
+     "until": "2026-11-10T21:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032cgr"
+    }
+   ],
+   "kind": "bbc",
+   "name": "Stuart Maconie's Freak Zone",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-the-6-mix-with-mary-anne-hobbs": {
+   "home": "https://www.bbc.co.uk/programmes/m002d2x6",
+   "id": "bbc-the-6-mix-with-mary-anne-hobbs",
+   "items": [
+    {
+     "date": "2026-11-03T10:42:00Z",
+     "desc": "On BBC Sounds until 3 Dec (UK only). Broadcast in tribute to The Godfather of Techno, Juan Atkins. This is another chance to hear his 6 Mix from 2013. Atkins was widely regarded as one of the originators of Techno music, along with Derrick May and Kevin Saunderson. The trio, often referred to as the Belleville Three, attended high school together in Belleville, Michigan, near Detroit. Growing up, they all regularly tuned in to DJ Charles 'The Electrifying Mojo' Johnson's radio show, which has been cited as a big influence on their musical development. After being inspired by hearing electroni…",
+     "duration": "3600",
+     "id": "b01ry7rr",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pldzn7.jpg",
+     "title": "In tribute to Juan Atkins",
+     "until": "2026-12-03T10:42:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/b01ry7rr"
+    },
+    {
+     "date": "2026-10-31T00:00:00Z",
+     "desc": "On BBC Sounds until 30 Nov (UK only). Glasgow techno pioneers Slam, aka Stuart McMillan and Orde Meikle, are in the 6 Mix celebrating 35 years of Soma Records ahead of the release of their Soma 35.4 Activate Remixes featuring Luke Slater, Oscar Mulero, Phil Berg and Nastia Reigel. Produced by BBC Audio for BBC Radio 6 Music.",
+     "duration": "3600",
+     "id": "m00332r7",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pjvfcc.jpg",
+     "title": "Slam",
+     "until": "2026-11-30T00:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00332r7"
+    },
+    {
+     "date": "2026-10-23T23:00:00Z",
+     "desc": "On BBC Sounds until 23 Nov (UK only). Manchester-based producer Andy Stott takes over the 6 Mix on 6 Music with two hours of nostalgic romances, late-night jams and music that inspired the making of his new album, Late Loop, released on the Modern Love imprint this October. A key figure in contemporary electronic music, Stott has spent the past two decades forging a singular sound, blending dub techno, post-punk textures, dream-pop atmospheres and experimental club music. Drawing on the influences behind his first album in five years, this deeply personal selection moves between old favourite…",
+     "duration": "3600",
+     "id": "m0032s31",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pj722x.jpg",
+     "title": "Andy Stott",
+     "until": "2026-11-22T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032s31"
+    },
+    {
+     "date": "2026-10-16T23:00:00Z",
+     "desc": "On BBC Sounds until 16 Nov (UK only). Paris based composer and DJ Low Jack on the 6 Mix ahead of his new club-focused album, Miracles, joining forces with Bamao Yendé’s Boukan Records, seeing two distinctive forces within contemporary Parisian culture come together. On Miracles, Low Jack enlists a remarkable cast of artists from across the underground, reading like a who’s who of the French electronic scene, Brodinski, Bambounou, Helen Island, Lala &ce, Fae Sapienta, and label head Bamao Yendé, alongside Keyan grindcore legend Lord Spikeheart, creating a record that moves between club culture…",
+     "duration": "3600",
+     "id": "m0032d7w",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pgvtgb.jpg",
+     "title": "Low Jack",
+     "until": "2026-11-15T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032d7w"
+    },
+    {
+     "date": "2026-10-09T23:00:00Z",
+     "desc": "On BBC Sounds until 9 Nov (UK only). With the Montreal-born producer Jacques Greene who has been making effervescent dance music for over fifteen years. He releases a new album, jg, built unapologetically for the dancefloor and his sharpest, most direct expression to date on LUCKYME®. Produced by BBC Audio for BBC Radio 6 Music.",
+     "duration": "3600",
+     "id": "m00322t8",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pfdfyx.jpg",
+     "title": "Jacques Greene",
+     "until": "2026-11-08T23:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00322t8"
+    }
+   ],
+   "kind": "bbc",
+   "name": "The 6 Mix with Mary Anne Hobbs",
+   "updatedAt": "2026-11-06T11:16:35Z"
+  },
+  "bbc-the-residency-on-radio-1-dance": {
+   "home": "https://www.bbc.co.uk/programmes/b01d76k4",
+   "id": "bbc-the-residency-on-radio-1-dance",
+   "items": [
+    {
+     "date": "2026-11-06T01:00:00Z",
+     "desc": "On BBC Sounds until 6 Dec (UK only). Effy steps up to the Residency hot seat with an introduction to her sound! Expect emotional electronic music, nostalgic EDM and deep house sounds with tracks from Dusky, Maya Jane Coles, Bicep and more. Plus Effy invites French producer RONI into the CLUBGRL Mix to spin 30 minutes of music from the likes of Saidah, Ploy, I. JORDAN and more. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "7200",
+     "id": "m00338x2",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0plg3xq.jpg",
+     "title": "Effy - Nostalgia",
+     "until": "2026-12-06T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00338x2"
+    },
+    {
+     "date": "2026-10-30T01:00:00Z",
+     "desc": "On BBC Sounds until 24 Dec (UK only). Legend of the dance music scene, Jamie Jones, takes over the Residency for one night only, sharing loads of his favourite tracks and even some very special exclusive IDs. He also jumps in the mix exploring groovy house sounds. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "7200",
+     "id": "m00333n2",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pk24kr.jpg",
+     "title": "One night with Jamie Jones",
+     "until": "2026-12-24T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00333n2"
+    },
+    {
+     "date": "2026-10-23T00:00:00Z",
+     "desc": "On BBC Sounds until 17 Dec (UK only). Sam Alfred brings the heat for his final Residency show packed full of peak time energy! Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "7200",
+     "id": "m0032mw5",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pdc11z.jpg",
+     "title": "Sam Alfred - Peak Time",
+     "until": "2026-12-17T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032mw5"
+    },
+    {
+     "date": "2026-10-16T00:00:00Z",
+     "desc": "On BBC Sounds until 10 Dec (UK only). Discover sounds from down under as Sam Alfred shares his favourite Aussie producers in a show all about the Australian Dance Music scene. Expect music from Confidence Man, HAAi, Mall Grab and more. Sam jumps in the mix spinning tracks to showcase the pool of talent from his home country, with music from Marli, CC Disco and more. And Australian podcaster and DJ Ricky Nord provides the guest mix with 30 minutes of Aussie selections. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "7200",
+     "id": "m0032hsk",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pdc11z.jpg",
+     "title": "Sam Alfred - Australian dance music",
+     "until": "2026-12-10T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0032hsk"
+    },
+    {
+     "date": "2026-10-09T00:00:00Z",
+     "desc": "On BBC Sounds until 3 Dec (UK only). Expect a deeper more melodic side to Sam Alfred over the next two hours as he explores the art of the opening set with deep house and minimal sounds. With tracks from Leo Pol, Nathan Coles, Youandewan and more. Plus Sam jumps in the mix to showcase his approach to an opening set, with music from Maya Jane Coles, Robin Graham and Eden Burns. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "7200",
+     "id": "m00324th",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pdc11z.jpg",
+     "title": "Sam Alfred - The art of the opening set",
+     "until": "2026-12-03T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00324th"
+    },
+    {
+     "date": "2026-10-02T00:00:00Z",
+     "desc": "On BBC Sounds until 26 Nov (UK only). Sam Alfred is a DJ and producer from Tasmania in Australia. He steps into the Residency hotseat with a celebration of US house music, a genre that has inspired his journey in music so far. Expect tracks from dance music legends like Kerri Chandler, Roger Sanchez, Inner City and more. Plus Sam jumps in the mix to share his favourite classic US house sounds. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "7200",
+     "id": "m0031vvw",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pdc11z.jpg",
+     "title": "Sam Alfred - US house",
+     "until": "2026-11-26T02:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031vvw"
+    },
+    {
+     "date": "2026-09-25T00:00:00Z",
+     "desc": "On BBC Sounds until 19 Nov (UK only). Paige Tomlinson has packed her final Residency show full of unreleased music from her herself, friends, and upcoming DJs and producers. If you're into hearing brand new music from one of the scene's finest tastemakers, this is the place to be. Expect music from Entasia, Kara Okay, Saidah, Bella Claxton and more. Plus Paige's good friend Kyle Starkey drops by for a chat and to provide his guest mix, full of exclusive and unreleased music. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "7200",
+     "id": "m0031j0c",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0p7zmny.jpg",
+     "title": "Paige Tomlinson - Fresh from the studio",
+     "until": "2026-11-19T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0031j0c"
+    },
+    {
+     "date": "2026-09-18T00:00:00Z",
+     "desc": "On BBC Sounds until 12 Nov (UK only). Paige Tomlinson explores the artists and records that have shaped her as a DJ and producer. With a sound spanning 90s progressive house, hard house and trance, expect lots of rave classic, timeless records and big melodies as she dives into her influences. Plus, Paige jumps in the mix with more peak time energy tracks from friends and newer influences. Produced by We Are Grape for BBC Radio 1 Dance.",
+     "duration": "7200",
+     "id": "m00315d9",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0p7zmny.jpg",
+     "title": "Paige Tomlinson - The Ones That Shaped Me",
+     "until": "2026-11-12T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m00315d9"
+    }
+   ],
+   "kind": "bbc",
+   "name": "The Residency on Radio 1 Dance",
+   "updatedAt": "2026-11-06T11:16:35Z"
   },
   "butter-sessions": {
    "home": "https://soundcloud.com/buttersessions",
@@ -36319,91 +37820,376 @@
    "id": "doublej-the-block-party",
    "kind": "abc",
    "name": "The Block Party with Hau Latukefu"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b01fm4ss",
+   "id": "bbc-gilles-peterson",
+   "kind": "bbc",
+   "name": "Gilles Peterson on 6 Music",
+   "pid": "b01fm4ss"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b01pp0xq",
+   "id": "bbc-mary-anne-hobbs",
+   "kind": "bbc",
+   "name": "Mary Anne Hobbs",
+   "pid": "b01pp0xq"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m002d2x6",
+   "id": "bbc-the-6-mix-with-mary-anne-hobbs",
+   "kind": "bbc",
+   "name": "The 6 Mix with Mary Anne Hobbs",
+   "pid": "m002d2x6"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m001qng7",
+   "id": "bbc-sherelle",
+   "kind": "bbc",
+   "name": "SHERELLE",
+   "pid": "m001qng7"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m000txn4",
+   "id": "bbc-jamz-supernova",
+   "kind": "bbc",
+   "name": "Jamz Supernova",
+   "pid": "m000txn4"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b0072l4x",
+   "id": "bbc-stuart-maconies-freak-zone",
+   "kind": "bbc",
+   "name": "Stuart Maconie's Freak Zone",
+   "pid": "b0072l4x"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m001dkv1",
+   "id": "bbc-6-musics-rave-forever",
+   "kind": "bbc",
+   "name": "6 Music's Rave Forever",
+   "pid": "m001dkv1"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b006wkfp",
+   "id": "bbc-radio-1s-essential-mix",
+   "kind": "bbc",
+   "name": "Radio 1's Essential Mix",
+   "pid": "b006wkfp"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b00v4tv3",
+   "id": "bbc-benji-b",
+   "kind": "bbc",
+   "name": "Benji B",
+   "pid": "b00v4tv3"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b09c12lj",
+   "id": "bbc-radio-1s-drum-and-bass-show",
+   "kind": "bbc",
+   "name": "Radio 1's Drum & Bass Show",
+   "pid": "b09c12lj"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b00f3pc4",
+   "id": "bbc-radio-1s-classic-essential-mix",
+   "kind": "bbc",
+   "name": "Radio 1's Classic Essential Mix",
+   "pid": "b00f3pc4"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b006ww0v",
+   "id": "bbc-pete-tong",
+   "kind": "bbc",
+   "name": "Pete Tong",
+   "pid": "b006ww0v"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m000zwn2",
+   "id": "bbc-pete-tongs-hot-mix",
+   "kind": "bbc",
+   "name": "Pete Tong's Hot Mix",
+   "pid": "m000zwn2"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m000zc82",
+   "id": "bbc-radio-1s-future-dance-with-sarah-story",
+   "kind": "bbc",
+   "name": "Radio 1's Future Dance with Sarah Story",
+   "pid": "m000zc82"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m0003l3c",
+   "id": "bbc-radio-1-dance-drum-and-bass-mix",
+   "kind": "bbc",
+   "name": "Radio 1 Dance Drum & Bass Mix",
+   "pid": "m0003l3c"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b01d76k4",
+   "id": "bbc-the-residency-on-radio-1-dance",
+   "kind": "bbc",
+   "name": "The Residency on Radio 1 Dance",
+   "pid": "b01d76k4"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m000h0zx",
+   "id": "bbc-introducing-on-radio-1-dance",
+   "kind": "bbc",
+   "name": "BBC Introducing on Radio 1 Dance",
+   "pid": "m000h0zx"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b03hjfww",
+   "id": "bbc-radio-1s-chillest-show-with-sian-eleri",
+   "kind": "bbc",
+   "name": "Radio 1's Chillest Show with Sian Eleri",
+   "pid": "b03hjfww"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m001y043",
+   "id": "bbc-radio-1s-future-artists-with-sian-eleri",
+   "kind": "bbc",
+   "name": "Radio 1's Future Artists with Sian Eleri",
+   "pid": "m001y043"
   }
  ],
  "status": {
-  "lastRun": "2026-11-06T11:14:15Z",
+  "lastRun": "2026-11-06T11:16:35Z",
   "sources": {
    "21c-progressive": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-30T00:47:35Z",
     "ok": true
    },
    "all-songs-considered": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 20,
     "newest": "2026-11-03T10:00:00Z",
     "ok": true
    },
    "anjunadeep-edition": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T16:06:56Z",
     "ok": true
    },
    "anjunadeep-releases": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T00:24:22Z",
     "ok": true
    },
    "balance-music": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-06T00:00:00Z",
     "ok": true
    },
    "balearic-breakfast": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-03T12:35:21Z",
     "ok": true
    },
    "bandcamp-daily": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T00:00:00Z",
     "ok": true
    },
    "bandcamp-radio": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 20,
     "newest": "2026-11-04T00:00:00Z",
     "ok": true
    },
+   "bbc-6-musics-rave-forever": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 8,
+    "newest": "2026-10-31T01:00:00Z",
+    "ok": true
+   },
+   "bbc-benji-b": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 5,
+    "newest": "2026-11-05T01:00:00Z",
+    "ok": true
+   },
+   "bbc-gilles-peterson": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 4,
+    "newest": "2026-10-31T18:00:00Z",
+    "ok": true
+   },
    "bbc-introducing-mixtape": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 10,
     "newest": "2026-10-30T12:00:00Z",
     "ok": true
    },
+   "bbc-introducing-on-radio-1-dance": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 9,
+    "newest": "2026-11-05T23:00:00Z",
+    "ok": true
+   },
+   "bbc-jamz-supernova": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 4,
+    "newest": "2026-10-31T15:00:00Z",
+    "ok": true
+   },
+   "bbc-mary-anne-hobbs": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 5,
+    "newest": "2026-11-01T20:00:00Z",
+    "ok": true
+   },
+   "bbc-pete-tong": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 7,
+    "newest": "2026-10-31T00:00:00Z",
+    "ok": true
+   },
+   "bbc-pete-tongs-hot-mix": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 5,
+    "newest": "2026-11-01T04:00:00Z",
+    "ok": true
+   },
+   "bbc-radio-1-dance-drum-and-bass-mix": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 12,
+    "newest": "2026-11-01T01:00:00Z",
+    "ok": true
+   },
+   "bbc-radio-1s-chillest-show-with-sian-eleri": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 4,
+    "newest": "2026-11-01T23:00:00Z",
+    "ok": true
+   },
+   "bbc-radio-1s-classic-essential-mix": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 17,
+    "newest": "2026-11-03T22:00:00Z",
+    "ok": true
+   },
+   "bbc-radio-1s-drum-and-bass-show": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 4,
+    "newest": "2026-11-01T00:00:00Z",
+    "ok": true
+   },
+   "bbc-radio-1s-essential-mix": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 12,
+    "newest": "2026-10-31T02:00:00Z",
+    "ok": true
+   },
+   "bbc-radio-1s-future-artists-with-sian-eleri": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 8,
+    "newest": "2026-11-03T22:00:00Z",
+    "ok": true
+   },
+   "bbc-radio-1s-future-dance-with-sarah-story": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 4,
+    "newest": "2026-10-30T22:00:00Z",
+    "ok": true
+   },
+   "bbc-sherelle": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 8,
+    "newest": "2026-11-01T01:00:00Z",
+    "ok": true
+   },
+   "bbc-stuart-maconies-freak-zone": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 4,
+    "newest": "2026-11-01T22:00:00Z",
+    "ok": true
+   },
+   "bbc-the-6-mix-with-mary-anne-hobbs": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 5,
+    "newest": "2026-11-03T10:42:00Z",
+    "ok": true
+   },
+   "bbc-the-residency-on-radio-1-dance": {
+    "at": "2026-11-06T11:16:35Z",
+    "count": 8,
+    "newest": "2026-11-06T01:00:00Z",
+    "ok": true
+   },
    "butter-sessions": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T02:04:59Z",
     "ok": true
    },
    "citr-techno-progressivo": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-02T03:00:00Z",
     "ok": true
    },
    "coldwired": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T06:23:01Z",
     "ok": true
    },
    "crack-magazine": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T16:43:01Z",
     "ok": true
    },
    "crack-mix": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-09-27T12:56:17Z",
     "ok": true
@@ -36415,49 +38201,49 @@
     "ok": true
    },
    "days-like-nights": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-02T12:00:10Z",
     "ok": true
    },
    "dekmantel-podcast": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-12T07:58:32Z",
     "ok": true
    },
    "dialekt-radio": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-01T19:00:00Z",
     "ok": true
    },
    "dissect": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-03T10:31:00Z",
     "ok": true
    },
    "doublej-classic-albums": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 10,
     "newest": "2026-11-02T07:00:00Z",
     "ok": true
    },
    "doublej-take-5": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 5,
     "newest": "2026-11-05T01:00:00Z",
     "ok": true
    },
    "doublej-the-block-party": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 4,
     "newest": "2026-11-06T08:00:00Z",
     "ok": true
    },
    "dr-packer": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-27T01:59:11Z",
     "ok": true
@@ -36469,13 +38255,13 @@
     "ok": true
    },
    "fbi-midday-mix": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-30T04:00:58Z",
     "ok": true
    },
    "fbi-sunset": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-31T09:15:29Z",
     "ok": true
@@ -36487,7 +38273,7 @@
     "ok": true
    },
    "flow-state": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 20,
     "newest": "2026-11-06T08:03:01Z",
     "ok": true
@@ -36499,37 +38285,37 @@
     "ok": true
    },
    "gai-barone-patterns": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-06T05:40:57Z",
     "ok": true
    },
    "gilles-peterson": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-24T17:44:52Z",
     "ok": true
    },
    "gorilla-vs-bear": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-23T12:08:14Z",
     "ok": true
    },
    "group-therapy": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-30T21:11:23Z",
     "ok": true
    },
    "guardian-au-music": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 20,
     "newest": "2026-11-04T07:00:28Z",
     "ok": true
    },
    "hearing-things": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 15,
     "newest": "2026-11-03T17:03:50Z",
     "ok": true
@@ -36541,55 +38327,55 @@
     "ok": true
    },
    "ilian-tape": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-21T08:15:43Z",
     "ok": true
    },
    "in-our-headphones": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T08:00:00Z",
     "ok": true
    },
    "in-sheeps-clothing": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 10,
     "newest": "2026-11-05T18:25:04Z",
     "ok": true
    },
    "indiecast": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-30T08:00:00Z",
     "ok": true
    },
    "inverted-audio": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 10,
     "newest": "2026-10-28T17:13:01Z",
     "ok": true
    },
    "inverted-audio-mix": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-08-20T09:14:23Z",
     "ok": true
    },
    "joof-radio": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-13T19:00:00Z",
     "ok": true
    },
    "last-donut": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 15,
     "newest": "2026-11-05T17:44:05Z",
     "ok": true
    },
    "lefto-early-bird": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-01T22:30:53Z",
     "ok": true
@@ -36601,37 +38387,37 @@
     "ok": true
    },
    "love-is-the-message": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-22T06:58:00Z",
     "ok": true
    },
    "manual-movement": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-14T12:21:00Z",
     "ok": true
    },
    "mixmag-anz": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T22:33:00Z",
     "ok": true
    },
    "music-not-diving": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T04:00:00Z",
     "ok": true
    },
    "nialler9": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T14:49:56Z",
     "ok": true
    },
    "no-skips": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 5,
     "newest": "2026-11-05T05:01:54Z",
     "ok": true
@@ -36643,715 +38429,715 @@
     "ok": true
    },
    "nora-en-pure": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-02T09:00:00Z",
     "ok": true
    },
    "nts-a-colourful-storm": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-11T20:00:00Z",
     "ok": true
    },
    "nts-ad93": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-09-27T19:00:00Z",
     "ok": true
    },
    "nts-alexander-nut": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-24T11:00:00Z",
     "ok": true
    },
    "nts-anz": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-09-24T16:00:00Z",
     "ok": true
    },
    "nts-batu": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-04T23:00:00Z",
     "ok": true
    },
    "nts-ben-sims": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-01T00:00:00Z",
     "ok": true
    },
    "nts-bill-brewster": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-13T12:00:00Z",
     "ok": true
    },
    "nts-calm-roots": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-09-14T19:00:00Z",
     "ok": true
    },
    "nts-canyoufeelthesun-w-call-super-parris": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-22T00:00:00Z",
     "ok": true
    },
    "nts-carmen-villain": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 9,
     "newest": "2026-10-14T13:00:00Z",
     "ok": true
    },
    "nts-circuits": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-03T22:00:00Z",
     "ok": true
    },
    "nts-courtesy": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-09T14:00:00Z",
     "ok": true
    },
    "nts-daniel-avery": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-08-18T21:00:00Z",
     "ok": true
    },
    "nts-danielle": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-13T20:00:00Z",
     "ok": true
    },
    "nts-dark-entries-record": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-15T19:00:00Z",
     "ok": true
    },
    "nts-david-holmes": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-26T13:00:00Z",
     "ok": true
    },
    "nts-day-care": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-19T21:00:00Z",
     "ok": true
    },
    "nts-deep-medi": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-23T21:00:00Z",
     "ok": true
    },
    "nts-dj-persuasion": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-22T20:00:00Z",
     "ok": true
    },
    "nts-donna-leake": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-26T15:00:00Z",
     "ok": true
    },
    "nts-early-bird-pam": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-05T07:00:00Z",
     "ok": true
    },
    "nts-edna-martinez": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-03T19:00:00Z",
     "ok": true
    },
    "nts-field-work": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-10T19:00:00Z",
     "ok": true
    },
    "nts-floating-points": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-09-21T12:00:00Z",
     "ok": true
    },
    "nts-funkineven": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-28T19:00:00Z",
     "ok": true
    },
    "nts-gigi-fm": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-04T22:00:00Z",
     "ok": true
    },
    "nts-great-southern-lands": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-13T11:00:00Z",
     "ok": true
    },
    "nts-hd": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-26T19:00:00Z",
     "ok": true
    },
    "nts-hooversound": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-21T20:00:00Z",
     "ok": true
    },
    "nts-if-music": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-25T13:00:00Z",
     "ok": true
    },
    "nts-in-focus": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-30T11:00:00Z",
     "ok": true
    },
    "nts-introspekt": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-09T15:00:00Z",
     "ok": true
    },
    "nts-kevin-saunderson": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 8,
     "newest": "2026-10-23T20:00:00Z",
     "ok": true
    },
    "nts-kit-grill": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-01T16:00:00Z",
     "ok": true
    },
    "nts-laurel-halo": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-20T15:00:00Z",
     "ok": true
    },
    "nts-loraine-james": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-27T14:00:00Z",
     "ok": true
    },
    "nts-lukid": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-20T11:00:00Z",
     "ok": true
    },
    "nts-mala-junta": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-26T15:00:00Z",
     "ok": true
    },
    "nts-moin": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-03T12:00:00Z",
     "ok": true
    },
    "nts-motor-system": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-05T00:00:00Z",
     "ok": true
    },
    "nts-moxie": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-28T15:00:00Z",
     "ok": true
    },
    "nts-mutualism": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-31T19:00:00Z",
     "ok": true
    },
    "nts-nabihah-iqbal": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-24T13:00:00Z",
     "ok": true
    },
    "nts-nia-archives": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-09T16:00:00Z",
     "ok": true
    },
    "nts-ok-williams": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-01T16:00:00Z",
     "ok": true
    },
    "nts-optimo": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-27T17:00:00Z",
     "ok": true
    },
    "nts-organic-music": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-11-04T06:00:00Z",
     "ok": true
    },
    "nts-pender-street-steppers": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-13T17:00:00Z",
     "ok": true
    },
    "nts-rhythm-section": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-28T14:00:00Z",
     "ok": true
    },
    "nts-ross-allen": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-31T12:00:00Z",
     "ok": true
    },
    "nts-rupture": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-13T19:00:00Z",
     "ok": true
    },
    "nts-secret-sundaze": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-09-17T14:00:00Z",
     "ok": true
    },
    "nts-shanti-celeste": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-08T12:00:00Z",
     "ok": true
    },
    "nts-skee-mask": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-09-11T15:00:00Z",
     "ok": true
    },
    "nts-sofie-birch": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-08-24T17:00:00Z",
     "ok": true
    },
    "nts-soundsofthedawn": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-31T08:00:00Z",
     "ok": true
    },
    "nts-space-afrika": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-08-04T21:00:00Z",
     "ok": true
    },
    "nts-the-trilogy-tapes": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-12T16:00:00Z",
     "ok": true
    },
    "nts-tim-reaper": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-21T17:00:00Z",
     "ok": true
    },
    "nts-touching-bass": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-14T17:00:00Z",
     "ok": true
    },
    "nts-travs-presents": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-09T20:00:00Z",
     "ok": true
    },
    "nts-upsammy": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-29T13:00:00Z",
     "ok": true
    },
    "nts-yu-su": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-13T16:00:00Z",
     "ok": true
    },
    "nts-zaltan": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 12,
     "newest": "2026-10-02T13:00:00Z",
     "ok": true
    },
    "odd-one-out": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T18:00:00Z",
     "ok": true
    },
    "phonica-mix": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-03T12:47:04Z",
     "ok": true
    },
    "pitchfork-bna": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T05:03:00Z",
     "ok": true
    },
    "pitchfork-review": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-28T09:00:00Z",
     "ok": true
    },
    "pjenne": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 22,
     "newest": "2026-10-27T07:20:31Z",
     "ok": true
    },
    "popcast": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 3,
     "newest": "2026-11-06T10:00:00Z",
     "ok": true
    },
    "pow-mag": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 20,
     "newest": "2026-11-04T16:37:24Z",
     "ok": true
    },
    "questlove-show": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-02T05:01:00Z",
     "ok": true
    },
    "quietus-radio": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-09-23T21:21:49Z",
     "ok": true
    },
    "ra-exchange": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T12:29:49Z",
     "ok": true
    },
    "ra-podcast": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T12:26:54Z",
     "ok": true
    },
    "radio-cazimi": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T02:37:33Z",
     "ok": true
    },
    "ransom-note": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 10,
     "newest": "2026-11-04T13:13:37Z",
     "ok": true
    },
    "refuge-worldwide": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-30T15:31:36Z",
     "ok": true
    },
    "resident": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-01T06:00:00Z",
     "ok": true
    },
    "rinse-bryan-gee": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-28T19:00:00Z",
     "ok": true
    },
    "rinse-crucast": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-03T20:00:00Z",
     "ok": true
    },
    "rinse-dametalmessiah": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 11,
     "newest": "2026-10-11T20:00:00Z",
     "ok": true
    },
    "rinse-dj-flight": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-14T18:00:00Z",
     "ok": true
    },
    "rinse-dj-hype": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-22T18:00:00Z",
     "ok": true
    },
    "rinse-eclecticist": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T13:00:00Z",
     "ok": true
    },
    "rinse-ed-gillett": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 16,
     "newest": "2026-10-19T12:00:00Z",
     "ok": true
    },
    "rinse-emerald": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 11,
     "newest": "2026-09-12T18:00:00Z",
     "ok": true
    },
    "rinse-esk": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T10:00:00Z",
     "ok": true
    },
    "rinse-fabio-grooverider": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-09-16T18:00:00Z",
     "ok": true
    },
    "rinse-fracture": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-27T22:00:00Z",
     "ok": true
    },
    "rinse-hi-fidelity": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-15T11:00:00Z",
     "ok": true
    },
    "rinse-hodge": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-06T21:00:00Z",
     "ok": true
    },
    "rinse-i-jordan": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-23T21:00:00Z",
     "ok": true
    },
    "rinse-kara": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 6,
     "newest": "2026-10-17T20:00:00Z",
     "ok": true
    },
    "rinse-klute": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-26T23:00:00Z",
     "ok": true
    },
    "rinse-papaoul": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-27T10:00:00Z",
     "ok": true
    },
    "rinse-pariah": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-01T21:00:00Z",
     "ok": true
    },
    "rinse-planet-wax": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-09-04T18:00:00Z",
     "ok": true
    },
    "rinse-plastician": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 15,
     "newest": "2026-10-25T18:00:00Z",
     "ok": true
    },
    "rinse-settle-down": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 7,
     "newest": "2026-10-28T23:00:00Z",
     "ok": true
    },
    "rinse-stones-taro": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-09-14T22:00:00Z",
     "ok": true
    },
    "rinse-tim-garcia": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-26T10:00:00Z",
     "ok": true
    },
    "rinse-tom-ravenscroft": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-22T14:00:00Z",
     "ok": true
    },
    "rinse-transparent-audio": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 5,
     "newest": "2026-10-03T22:00:00Z",
     "ok": true
    },
    "rinse-utopia": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-28T15:00:00Z",
     "ok": true
    },
    "rinse-yazmin-lacey": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-29T10:00:00Z",
     "ok": true
    },
    "rtr2": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-30T07:34:23Z",
     "ok": true
    },
    "selador-sessions": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T00:00:00Z",
     "ok": true
    },
    "skytop-residency": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-03T04:31:09Z",
     "ok": true
    },
    "song-exploder": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T20:00:00Z",
     "ok": true
    },
    "soulection": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-30T20:27:45Z",
     "ok": true
    },
    "sound-opinions": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-06T06:00:00Z",
     "ok": true
    },
    "spectrum-radio": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T15:43:00Z",
     "ok": true
    },
    "stereogum-aotw": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-03T17:46:10Z",
     "ok": true
    },
    "sudbeat": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-07T00:00:00Z",
     "ok": true
    },
    "super-progressive": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-19T20:00:00Z",
     "ok": true
    },
    "switched-on-pop": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-03T08:01:00Z",
     "ok": true
    },
    "tape-notes": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T00:00:00Z",
     "ok": true
@@ -37363,7 +39149,7 @@
     "ok": true
    },
    "the-lot-radio": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-09-24T19:23:46Z",
     "ok": true
@@ -37375,13 +39161,13 @@
     "ok": true
    },
    "the-wire": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-05T00:00:00Z",
     "ok": true
    },
    "time-to-track": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-03T01:36:19Z",
     "ok": true
@@ -37393,85 +39179,85 @@
     "ok": true
    },
    "transitions": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-10-30T16:00:36Z",
     "ok": true
    },
    "transmissions": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-11-04T07:00:00Z",
     "ok": true
    },
    "triplej-blak-out": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 4,
     "newest": "2026-11-01T06:00:00Z",
     "ok": true
    },
    "triplej-core": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 8,
     "newest": "2026-11-03T10:00:00Z",
     "ok": true
    },
    "triplej-country-club": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 4,
     "newest": "2026-11-01T07:00:00Z",
     "ok": true
    },
    "triplej-doof": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 4,
     "newest": "2026-10-30T11:00:00Z",
     "ok": true
    },
    "triplej-friday-mix": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 5,
     "newest": "2026-11-06T03:30:00Z",
     "ok": true
    },
    "triplej-hip-hop-show": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 4,
     "newest": "2026-11-05T10:00:00Z",
     "ok": true
    },
    "triplej-home-and-hosed": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 10,
     "newest": "2026-11-05T08:00:00Z",
     "ok": true
    },
    "triplej-house-party": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 8,
     "newest": "2026-10-31T07:00:00Z",
     "ok": true
    },
    "triplej-mix-up": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 10,
     "newest": "2026-10-31T14:00:00Z",
     "ok": true
    },
    "triplej-prism": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 4,
     "newest": "2026-11-04T10:00:00Z",
     "ok": true
    },
    "triplej-soul-ctrl": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 4,
     "newest": "2026-11-02T10:00:00Z",
     "ok": true
    },
    "truancy-volume": {
-    "at": "2026-11-06T11:14:15Z",
+    "at": "2026-11-06T11:16:35Z",
     "count": 25,
     "newest": "2026-08-20T12:58:15Z",
     "ok": true

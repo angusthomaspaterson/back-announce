@@ -1,0 +1,59 @@
+{
+ "home": "https://www.bbc.co.uk/programmes/m002d2x6",
+ "id": "bbc-the-6-mix-with-mary-anne-hobbs",
+ "items": [
+  {
+   "date": "2026-11-03T10:42:00Z",
+   "desc": "On BBC Sounds until 3 Dec (UK only). Broadcast in tribute to The Godfather of Techno, Juan Atkins. This is another chance to hear his 6 Mix from 2013. Atkins was widely regarded as one of the originators of Techno music, along with Derrick May and Kevin Saunderson. The trio, often referred to as the Belleville Three, attended high school together in Belleville, Michigan, near Detroit. Growing up, they all regularly tuned in to DJ Charles 'The Electrifying Mojo' Johnson's radio show, which has been cited as a big influence on their musical development. After being inspired by hearing electroni…",
+   "duration": "3600",
+   "id": "b01ry7rr",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pldzn7.jpg",
+   "title": "In tribute to Juan Atkins",
+   "until": "2026-12-03T10:42:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/b01ry7rr"
+  },
+  {
+   "date": "2026-10-31T00:00:00Z",
+   "desc": "On BBC Sounds until 30 Nov (UK only). Glasgow techno pioneers Slam, aka Stuart McMillan and Orde Meikle, are in the 6 Mix celebrating 35 years of Soma Records ahead of the release of their Soma 35.4 Activate Remixes featuring Luke Slater, Oscar Mulero, Phil Berg and Nastia Reigel. Produced by BBC Audio for BBC Radio 6 Music.",
+   "duration": "3600",
+   "id": "m00332r7",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pjvfcc.jpg",
+   "title": "Slam",
+   "until": "2026-11-30T00:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m00332r7"
+  },
+  {
+   "date": "2026-10-23T23:00:00Z",
+   "desc": "On BBC Sounds until 23 Nov (UK only). Manchester-based producer Andy Stott takes over the 6 Mix on 6 Music with two hours of nostalgic romances, late-night jams and music that inspired the making of his new album, Late Loop, released on the Modern Love imprint this October. A key figure in contemporary electronic music, Stott has spent the past two decades forging a singular sound, blending dub techno, post-punk textures, dream-pop atmospheres and experimental club music. Drawing on the influences behind his first album in five years, this deeply personal selection moves between old favourite…",
+   "duration": "3600",
+   "id": "m0032s31",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pj722x.jpg",
+   "title": "Andy Stott",
+   "until": "2026-11-22T23:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0032s31"
+  },
+  {
+   "date": "2026-10-16T23:00:00Z",
+   "desc": "On BBC Sounds until 16 Nov (UK only). Paris based composer and DJ Low Jack on the 6 Mix ahead of his new club-focused album, Miracles, joining forces with Bamao Yendé’s Boukan Records, seeing two distinctive forces within contemporary Parisian culture come together. On Miracles, Low Jack enlists a remarkable cast of artists from across the underground, reading like a who’s who of the French electronic scene, Brodinski, Bambounou, Helen Island, Lala &ce, Fae Sapienta, and label head Bamao Yendé, alongside Keyan grindcore legend Lord Spikeheart, creating a record that moves between club culture…",
+   "duration": "3600",
+   "id": "m0032d7w",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pgvtgb.jpg",
+   "title": "Low Jack",
+   "until": "2026-11-15T23:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0032d7w"
+  },
+  {
+   "date": "2026-10-09T23:00:00Z",
+   "desc": "On BBC Sounds until 9 Nov (UK only). With the Montreal-born producer Jacques Greene who has been making effervescent dance music for over fifteen years. He releases a new album, jg, built unapologetically for the dancefloor and his sharpest, most direct expression to date on LUCKYME®. Produced by BBC Audio for BBC Radio 6 Music.",
+   "duration": "3600",
+   "id": "m00322t8",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pfdfyx.jpg",
+   "title": "Jacques Greene",
+   "until": "2026-11-08T23:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m00322t8"
+  }
+ ],
+ "kind": "bbc",
+ "name": "The 6 Mix with Mary Anne Hobbs",
+ "updatedAt": "2026-11-06T11:16:35Z"
+}
