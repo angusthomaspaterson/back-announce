@@ -9,6 +9,14 @@
    "u": "https://www.rinse.fm/episodes/hodge-06-11-2026-2100"
   },
   {
+   "d": "2026-11-06T16:58:30Z",
+   "g": "Writing",
+   "s": "Tone Glow",
+   "sid": "tone-glow",
+   "t": "Tone Glow 244: Brian Leeds (Loidis, Huerco S., Pendant)",
+   "u": "https://toneglow.substack.com/p/tone-glow-244-brian-leeds-loidis"
+  },
+  {
    "d": "2026-11-06T12:08:26Z",
    "g": "Writing",
    "s": "Futurism Restated (Philip Sherburne)",
@@ -155,18 +163,10 @@
    "sid": "first-floor",
    "t": "First Floor recommendations, 5 Nov: 1 record",
    "u": "https://firstfloor.substack.com/p/first-floor-335-grief-is-not-enough"
-  },
-  {
-   "d": "2026-11-05T10:19:30Z",
-   "g": "Writing",
-   "s": "Crack Magazine",
-   "sid": "crack-magazine",
-   "t": "Joshua Bullen appointed as Designer In Residence at A COLD WALL",
-   "u": "https://crackmagazine.net/2026/11/joshua-bullen-appointed-designer-in-residence-a-cold-wall/?utm_source=rss&utm_medium=rss&utm_campaign=joshua-bullen-appointed-designer-in-residence-a-cold-wall"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 540,
+ "newCount": 541,
  "paused": 20,
  "releases": [
   {
@@ -201,6 +201,12 @@
   }
  ],
  "saved": [
+  {
+   "at": "2026-11-06T14:34:15Z",
+   "s": "BBC Music Introducing Mixtape (6 Music)",
+   "t": "With a new Track of the Week from The Healing Power of Horses",
+   "u": "http://www.bbc.co.uk/programmes/p0plg0wx"
+  },
   {
    "at": "2026-11-03T12:08:13Z",
    "s": "Time To Track (Andrew Wowk, 2SER)",
@@ -239,5 +245,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-06T14:07:18Z"
+ "updated": "2026-11-06T21:30:06Z"
 }

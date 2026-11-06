@@ -34230,6 +34230,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-06T16:58:30Z",
+     "desc": "An interview with the American producer about being a scene kid, the Midwestern spirit of his house and techno, and the influences behind his new album as Loidis, ‘From the Toolkit of Lovers’",
+     "duration": null,
+     "id": "https:--toneglow.substack.com-p-tone-glow-244-brian-leeds-loidis",
+     "image": "https://substackcdn.com/image/fetch/$s_!d93s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32737115-21bf-4c35-a25f-e152151140b1_2000x1618.jpeg",
+     "title": "Tone Glow 244: Brian Leeds (Loidis, Huerco S., Pendant)",
+     "url": "https://toneglow.substack.com/p/tone-glow-244-brian-leeds-loidis"
+    },
+    {
+     "audio": null,
      "date": "2026-10-07T17:12:53Z",
      "desc": "An interview with Homer Flynn about escaping the Deep South, the egoless nature of The Residents’ anonymity, and how drugs and Fellini inspired their iconoclastic music",
      "duration": null,
@@ -34417,21 +34427,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!BgJI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff41a776e-13b6-4001-b957-4898c7ab12cf_9504x6336.jpeg",
      "title": "Film Show 069: Ana Vaz",
      "url": "https://toneglow.substack.com/p/film-show-069-ana-vaz"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-09T21:24:02Z",
-     "desc": "An interview with Madeline Babuka Black about growing up in Georgia, the second Slippers album 'Slippers 08', and her new short film 'Papertowel Maxipad'",
-     "duration": null,
-     "id": "https:--toneglow.substack.com-p-tone-glow-233-slippers",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/5ce6ddf1-9ea5-4fd2-9fb4-30432166020a_848x545.jpeg",
-     "title": "Tone Glow 233: Slippers",
-     "url": "https://toneglow.substack.com/p/tone-glow-233-slippers"
     }
    ],
    "kind": "rss",
    "name": "Tone Glow",
-   "updatedAt": "2026-10-13T04:20:38Z"
+   "updatedAt": "2026-11-06T21:30:06Z"
   },
   "transitions": {
    "home": "https://www.mixcloud.com/JohnDigweed/",
@@ -38005,7 +38005,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-06T14:07:18Z",
+  "lastRun": "2026-11-06T21:30:06Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-06T14:07:18Z",
@@ -38206,7 +38206,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 20,
     "newest": "2026-11-03T18:22:41Z",
     "ok": true
@@ -38260,7 +38260,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -38278,7 +38278,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 7,
     "newest": "2026-11-05T12:15:12Z",
     "ok": true
@@ -38290,7 +38290,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 20,
     "newest": "2026-11-06T12:08:26Z",
     "ok": true
@@ -38332,7 +38332,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 20,
     "newest": "2026-11-01T13:53:01Z",
     "ok": true
@@ -38392,7 +38392,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 20,
     "newest": "2026-11-06T08:02:33Z",
     "ok": true
@@ -38434,7 +38434,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -39154,7 +39154,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 20,
     "newest": "2026-11-02T11:02:36Z",
     "ok": true
@@ -39166,7 +39166,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 20,
     "newest": "2026-11-06T10:02:09Z",
     "ok": true
@@ -39184,9 +39184,9 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 20,
-    "newest": "2026-10-07T17:12:53Z",
+    "newest": "2026-11-06T16:58:30Z",
     "ok": true
    },
    "transitions": {
@@ -39274,7 +39274,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-06T13:57:16Z",
+    "at": "2026-11-06T21:30:06Z",
     "count": 7,
     "newest": "2026-11-03T19:00:43Z",
     "ok": true
