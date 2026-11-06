@@ -268,7 +268,9 @@ def parse_abc_episode(page, src):
         # Doof's episodes are all called "Doof"; give each its broadcast date (Perth).
         perth = datetime.datetime.fromisoformat(date.replace("Z", "+00:00")) + datetime.timedelta(hours=8)
         title = f"{title}, {day_month(perth)}"
-    desc = dp.get("synopsis") or ""
+    desc = (dp.get("synopsis") or "").strip()
+    if desc and desc[-1] not in ".!?…":
+        desc += "."
     until = parse_date(dp.get("availableTo"))
     if until:
         perth = datetime.datetime.fromisoformat(until.replace("Z", "+00:00")) + datetime.timedelta(hours=8)
@@ -442,7 +444,23 @@ def do_bbc(src, fetcher):
 
 
 def do_abc(src, fetcher):
-    return [parse_abc_episode(fetcher(u), src) for u in parse_abc_program(fetcher(src["home"]), src)]
+    """Read each listed episode; skip pages that won't parse or carry no audio (a collection,
+    an interview clip or an old article in the list)."""
+    urls = parse_abc_program(fetcher(src["home"]), src)
+    out, err = [], None
+    for u in urls:
+        try:
+            it = parse_abc_episode(fetcher(u), src)
+        except (KeyError, TypeError, AttributeError, ValueError) as e:
+            err = e
+            continue
+        if it.get("audio"):
+            out.append(it)
+        else:
+            err = ValueError(f"no audio on {u}")
+    if urls and not out:
+        raise err
+    return out
 
 
 def do_rinse(src, fetcher):
@@ -507,8 +525,11 @@ def finish(items, src, now=None):
     Items dated more than a day ahead are dropped: Rinse lists upcoming episodes
     on its show pages, and they cannot be played yet.
     """
+    now_iso = iso(now or datetime.datetime.now(UTC))
     horizon = iso((now or datetime.datetime.now(UTC)) + datetime.timedelta(days=1))
     items = [i for i in items if i.get("url") and not (i.get("date") and i["date"] > horizon)]
+    # BBC and ABC episodes come down after a few weeks; drop any whose window has closed.
+    items = [i for i in items if not (i.get("until") and i["until"] < now_iso)]
     if src.get("match"):
         # Keep only the titles this regex matches, e.g. the full episodes in a channel that
         # also posts single tracks and teasers.

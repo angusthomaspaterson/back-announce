@@ -145,6 +145,7 @@ class ParseAbc(unittest.TestCase):
         it = gather.parse_abc_episode(fixture("abc-episode-doof.html"), self.DOOF)
         self.assertEqual(it["title"], "Doof, 30 Oct")   # every episode is called "Doof"
         self.assertEqual(it["audio"], "https://mediacore-live-production.akamaized.net/audio/02/pv/Z/9v.aac")
+        self.assertTrue(it["desc"].startswith("Doof is the home of Australian electronic music on triple j. Available until 29 Nov. "))
         self.assertIn("Tracklist: Logic1000 feat. KUČKA – All In For You;", it["desc"])
 
     def test_do_abc_fetches_program_then_episodes(self):
@@ -153,6 +154,9 @@ class ParseAbc(unittest.TestCase):
             return pages.get(url) or fixture("abc-episode-mix-up-piezo.html")
         items = gather.do_abc(self.MIXUP, fetcher)
         self.assertEqual(len(items), 10)
+        # Once its listening window has closed, an episode is dropped.
+        self.assertEqual(gather.finish(items, self.MIXUP, now=datetime.datetime(2026, 11, 6, tzinfo=gather.UTC))[0]["id"], "107313774")
+        self.assertEqual(gather.finish(items, self.MIXUP, now=datetime.datetime(2026, 12, 1, tzinfo=gather.UTC)), [])
 
 
 class ParseRinse(unittest.TestCase):
