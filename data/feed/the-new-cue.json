@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-06T10:02:09Z",
+   "desc": "“When you’re on a streak this hot, why ration it?”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-640-november-6-twisted",
+   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+   "title": "The New Cue #640 November 6: Twisted Teens, Natalie Bergman, Django Django, Paulie Swan, Quinton Barnes, Everything Everything, The Durutti Column & Four Tet, Dutch Uncles",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-640-november-6-twisted"
+  },
+  {
+   "audio": null,
    "date": "2026-11-02T10:02:01Z",
    "desc": "“ I like to ape around and not act my age”",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
    "title": "The New Cue #621 August 28: Interpol, Erykah Badu & The Alchemist, Johnny Marr, Queens Of The Stone Age, Heathers, Jeshi, Sam Herlihy, Bedouine, Julia Jacklin",
    "url": "https://thenewcue.substack.com/p/the-new-cue-621-august-28-interpol"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-24T09:02:11Z",
-   "desc": "Good morning,",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-620-august-24-pauline",
-   "image": "https://substackcdn.com/image/fetch/$s_!Ro8w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a8d012-1de8-476c-9e07-208d5c4f18b8_2500x3750.jpeg",
-   "title": "The New Cue #620 August 24: Pauline Black",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-620-august-24-pauline"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-11-03T01:38:24Z"
+ "updatedAt": "2026-11-06T13:57:16Z"
 }

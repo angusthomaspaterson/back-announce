@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-06T08:02:33Z",
+   "desc": "Becky & the Birds, Radie Peat live in London, First & Best with Brìghde Chaimbeul, Album Stock Market, and about this John Lewis ad",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-7bb",
+   "image": "https://substackcdn.com/image/fetch/$s_!fISf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb55d562-b8a3-4d93-956a-66d54a9ff549_800x999.jpeg",
+   "title": "L&Q Weekly",
+   "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-7bb"
+  },
+  {
+   "audio": null,
    "date": "2026-11-05T12:15:35Z",
    "desc": "Cal Cashin rounds up October’s best in avant-garde music from around the world",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!QoWi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcce1cfa1-eabf-48f0-accf-4e3acafa93d5_800x513.gif",
    "title": "Bring back Greatest Hits",
    "url": "https://loudandquiet.substack.com/p/bring-back-greatest-hits"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-25T07:01:06Z",
-   "desc": "300SkullsAndCounting & Jenny Sparks, First & Best with Beck, the story of Kid Harpoon, Skepta and Suggs happens, ultimate Swift",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-d28",
-   "image": "https://substackcdn.com/image/fetch/$s_!jiwh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18863abb-4442-4b83-9f74-899d214ea381_2094x1382.png",
-   "title": "L&Q Weekly",
-   "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-d28"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-11-05T21:30:07Z"
+ "updatedAt": "2026-11-06T13:57:16Z"
 }

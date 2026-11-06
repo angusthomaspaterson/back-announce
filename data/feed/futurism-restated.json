@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-06T12:08:26Z",
+   "desc": "That he was first matters, but what he did next matters more.",
+   "duration": null,
+   "id": "https:--futurismrestated.substack.com-p-fr-199-remembering-juan-atkins-the",
+   "image": "https://substackcdn.com/image/fetch/$s_!T3vn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80204338-4d59-49f9-a8a6-5a991ce04232_5376x4032.jpeg",
+   "title": "FR 199: Remembering Juan Atkins, the Originator",
+   "url": "https://futurismrestated.substack.com/p/fr-199-remembering-juan-atkins-the"
+  },
+  {
+   "audio": null,
    "date": "2026-11-03T12:24:33Z",
    "desc": "New albums from Marina Herlop, Gibrana Cervantes, Civilistjävel!, and more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!M7HZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd84c70a2-2d2e-40c2-9612-4a245380b983_3000x2410.jpeg",
    "title": "FR 183: Topdown Dialectic Is Real",
    "url": "https://futurismrestated.substack.com/p/fr-183-topdown-dialectic-is-real"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-30T10:02:52Z",
-   "desc": "Erika de Casier collaborator Natal Zaks’ latest 2LP for Short Span transcends its inspirations",
-   "duration": null,
-   "id": "https:--futurismrestated.substack.com-p-fr-182-pictures-eeeeeeee-perfects",
-   "image": "https://substackcdn.com/image/fetch/$s_!cHSY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e22347d-fbf6-4de7-98aa-9cd6459faa9e_2400x1200.jpeg",
-   "title": "FR 182: Picture’s Uuuuuuuu Perfects a Forgotten Strain of Minimal Techno",
-   "url": "https://futurismrestated.substack.com/p/fr-182-pictures-eeeeeeee-perfects"
   }
  ],
  "kind": "rss",
  "name": "Futurism Restated (Philip Sherburne)",
- "updatedAt": "2026-11-03T21:30:07Z"
+ "updatedAt": "2026-11-06T13:57:16Z"
 }
