@@ -1,0 +1,97 @@
+{
+ "home": "https://www.abc.net.au/triplej/programs/house-party",
+ "id": "triplej-house-party",
+ "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pv/Z/tm.aac",
+   "date": "2026-10-31T07:00:00Z",
+   "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 30 Nov. Tracklist: Ellia Jaya – triple j Mix Up",
+   "duration": "14400",
+   "id": "107307136",
+   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "title": "House Party, 31 Oct",
+   "until": "2026-11-30T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107307136"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pv/Z/8h.aac",
+   "date": "2026-10-30T07:00:00Z",
+   "desc": "Welcome to our Haunted House Party as we celebrate Spooky SZN. Available until 29 Nov. Tracklist: Shantan Wantan Ichiban – House Party Mix #1; Shantan Wantan Ichiban – House Party Mix #2; Shantan Wantan Ichiban – House Party Mix #3; Shantan Wantan Ichiban – House Party Mix #4; Logic1000 feat. KUČKA – All In For You",
+   "duration": "14399",
+   "id": "107305330",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e45f3146fc4c31f76482472c1aed2fbb?impolicy=wcms_crop_resize&cropH=394&cropW=700&xPos=0&yPos=32&width=862&height=485&imformat=generic",
+   "title": "House Party, 30 Oct",
+   "until": "2026-11-29T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107305330"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/po/Z/pg.aac",
+   "date": "2026-10-24T07:00:00Z",
+   "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 23 Nov. Tracklist: Close Counters – triple j Mix Up",
+   "duration": "14400",
+   "id": "107281126",
+   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "title": "House Party, 24 Oct",
+   "until": "2026-11-23T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107281126"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/po/Z/8e.aac",
+   "date": "2026-10-23T07:00:00Z",
+   "desc": "Good vibe summer tunes to celebrate the start of the weekend with Shantan. Available until 22 Nov. Tracklist: Shantan Wantan Ichiban – House Party Mix #1; Interplanetary Criminal & Silva Bumpa – HOLD DA PHONE; Far East Movement – Like a G6 [Ft. The Cataracs, Dev]; Shantan Wantan Ichiban – House Party Mix #3; Ninajirachi – Fuck My Computer; STÜM – Way To High; Lil Nas X & Jack Harlow – INDUSTRY BABY; Shantan Wantan Ichiban – House Party Mix #4; UNO Stereo – A Vibe Called Quest; Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard – Flower In A Hurricane",
+   "duration": "14399",
+   "id": "107279696",
+   "image": "https://live-production.wcms.abc-cdn.net.au/057bdffc63727697f6b2820440ae7bac?impolicy=wcms_crop_resize&cropH=242&cropW=430&xPos=0&yPos=16&width=862&height=485&imformat=generic",
+   "title": "House Party, 23 Oct",
+   "until": "2026-11-22T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107279696"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/ph/Z/jj.aac",
+   "date": "2026-10-17T07:00:00Z",
+   "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 16 Nov. Tracklist: Close Counters – triple j Mix Up",
+   "duration": "14400",
+   "id": "107253966",
+   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "title": "House Party, 17 Oct",
+   "until": "2026-11-16T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107253966"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/si.aac",
+   "date": "2026-10-16T07:00:00Z",
+   "desc": "New bangers from Torren Foot, Carter Walsh & Tseba. Available until 15 Nov. Tracklist: Shantan Wantan Ichiban – House Party Mix #1; Sexyy Red – Looking For the Hoes (Ain’t My Fault); Genesis Owusu & KYE – HUMAN AGAIN; Tove Lo & SG Lewis – HEAT; Shantan Wantan Ichiban – House Party Mix #2; NOTION & X CLUB. – U KNOW; Mark Ronson & RAYE – Suzanne; Memphis LK – Some Kinda Heaven; Shantan Wantan Ichiban – House Party Mix #3; Central Cee – BAND4BAND [Ft. Lil Baby]; Srirachi – BBM; Shantan Wantan Ichiban – House Party Mix #4; luv & BOY SODA – Blessed; CC:DISCO! & Alda – Prize Winning Horse",
+   "duration": "14399",
+   "id": "107252008",
+   "image": "https://live-production.wcms.abc-cdn.net.au/8ae4e56be907971a635414a388eeb494?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "House Party, 16 Oct",
+   "until": "2026-11-15T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107252008"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pa/Z/dl.aac",
+   "date": "2026-10-10T07:00:00Z",
+   "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 9 Nov. Tracklist: Close Counters – triple j Mix Up",
+   "duration": "14400",
+   "id": "107227774",
+   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "title": "House Party, 10 Oct",
+   "until": "2026-11-09T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107227774"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/p9/Z/sh.aac",
+   "date": "2026-10-09T07:00:00Z",
+   "desc": "We celebrate the coming of Summer with new drops from Chase & Status with Little Simz, Bag Raiders and KSMBA. Available until 8 Nov. Tracklist: Shantan Wantan Ichiban – House Party Mix #1; Fred again.., Sammy Virji & Reggie – Talk of the Town; Tkay Maidza – Romanticize [Ft. Jenevieve]; Shantan Wantan Ichiban – House Party Mix #2; Dean Turnley – Actin' Tough; X CLUB – Stay With Me; Genesis Owusu & KYE – HUMAN AGAIN; Shantan Wantan Ichiban – House Party Mix #3; Skrillex, Missy Elliott & Mr. Oizo – RATATA; Cherry Chola & Chico Sonido – The Pink Room; Shantan Wantan Ichiban – House Party Mix #4; …",
+   "duration": "14400",
+   "id": "107225466",
+   "image": "https://live-production.wcms.abc-cdn.net.au/70a581a4c6c91ffaf3f366b2d7facd33?impolicy=wcms_crop_resize&cropH=576&cropW=1024&xPos=0&yPos=51&width=862&height=485&imformat=generic",
+   "title": "House Party, 9 Oct",
+   "until": "2026-11-08T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107225466"
+  }
+ ],
+ "kind": "abc",
+ "name": "House Party with Shantan Wantan Ichiban and Latifa Tee",
+ "updatedAt": "2026-11-06T07:23:44Z"
+}

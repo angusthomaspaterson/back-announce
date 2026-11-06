@@ -1,0 +1,64 @@
+{
+ "home": "https://www.abc.net.au/triplej/programs/friday-mix",
+ "id": "triplej-friday-mix",
+ "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q5/Z/1t.mp3",
+   "date": "2026-11-06T03:30:00Z",
+   "desc": "Aussie dance royalty Will Sparks is cranking up the nrg on the Friday Mix! Available until 6 Dec.",
+   "duration": "1724",
+   "id": "107345664",
+   "image": "https://live-production.wcms.abc-cdn.net.au/8bb833291170dded9c782c65f2b71ae8?impolicy=wcms_crop_resize&cropH=608&cropW=1080&xPos=0&yPos=328&width=862&height=485&imformat=generic",
+   "title": "Friday Mix: Will Sparks",
+   "until": "2026-12-06T03:30:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/friday-mix/willsparks-djset-2026/107345664"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/c0.mp3",
+   "date": "2026-10-30T03:30:00Z",
+   "desc": "Get ready to DANCE ‘cos Naarm/Melbourne’s Torren Foot is sending it with a filthy Friday Mix! Available until 29 Nov.",
+   "duration": "1443",
+   "id": "107313738",
+   "image": "https://live-production.wcms.abc-cdn.net.au/8ae4e56be907971a635414a388eeb494?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "Friday Mix: Torren Foot",
+   "until": "2026-11-29T03:30:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/friday-mix/torrentfoot-djset-2026/107313738"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pm/Z/jb.mp3",
+   "date": "2026-10-23T03:30:00Z",
+   "desc": "Belgian artist Pegassi is letting it rip on the Friday Mix ahead of his sold-out Aussie shows! Available until 22 Nov.",
+   "duration": "1544",
+   "id": "107287508",
+   "image": "https://live-production.wcms.abc-cdn.net.au/f6dd8b5b3cc7b38fd098ea3e21592cfb?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=1314&width=862&height=485&imformat=generic",
+   "title": "Friday Mix: Pegassi",
+   "until": "2026-11-22T03:30:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/friday-mix/pegassi-djset-2026/107287508"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pe/Z/u2.mp3",
+   "date": "2026-10-16T03:30:00Z",
+   "desc": "It’s time to lock in with this bass-heavy Friday Mix from Eora/Sydney fave FUKHED! Available until 15 Nov.",
+   "duration": "1401",
+   "id": "107259472",
+   "image": "https://live-production.wcms.abc-cdn.net.au/c5b28bb84b75b7bf4b9a381884f5a1ff?impolicy=wcms_crop_resize&cropH=2204&cropW=3918&xPos=0&yPos=283&width=862&height=485&imformat=generic",
+   "title": "Friday Mix: FUKHED",
+   "until": "2026-11-15T03:30:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/friday-mix/fukhed-djset-2026/107259472"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/p9/Z/8a.mp3",
+   "date": "2026-10-09T03:30:00Z",
+   "desc": "Catch global superstar Anyma throwing down an exclusive Friday Mix before he brings his ÆDEN headline tour to Australia! Available until 8 Nov.",
+   "duration": "1559",
+   "id": "107232586",
+   "image": "https://live-production.wcms.abc-cdn.net.au/b8ecf5865157d254c937526820b7af31?impolicy=wcms_crop_resize&cropH=1413&cropW=2512&xPos=0&yPos=969&width=862&height=485&imformat=generic",
+   "title": "Friday Mix: Anyma",
+   "until": "2026-11-08T03:30:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/friday-mix/anyma-djset-2026/107232586"
+  }
+ ],
+ "kind": "abc",
+ "name": "Friday Mix with Dave Woodhead and Kailyn Crabbe",
+ "updatedAt": "2026-11-06T07:23:44Z"
+}

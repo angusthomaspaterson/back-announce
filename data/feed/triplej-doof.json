@@ -1,0 +1,53 @@
+{
+ "home": "https://www.abc.net.au/triplej/programs/doof",
+ "id": "triplej-doof",
+ "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pv/Z/9v.aac",
+   "date": "2026-10-30T11:00:00Z",
+   "desc": "Doof is the home of Australian electronic music on triple j. Available until 29 Nov. Tracklist: Logic1000 feat. KUČKA – All In For You; Pretty Girl – Satsify; CC:DISCO! & Alda – Prize Winning Horse; Soul Wun – And When Love Speaks; Troye Sivan – Party; Peking Duk & Phantogram – Forever; Sonny Fodera & Libianca – Let Me Be In Your Arms; Tame Impala, JENNIE & Boys Noize – Dracula (JENNIE Remix - Boys Noize Disko Version); Madonna & Kylie Minogue – Love Sensation (Afterhours Mix); Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard – Flower In A Hurricane; The Avalanches & Loaded H…",
+   "duration": "10800",
+   "id": "107305402",
+   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "title": "Doof, 30 Oct",
+   "until": "2026-11-29T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/doof/doof/107305402"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/po/Z/9g.aac",
+   "date": "2026-10-23T11:00:00Z",
+   "desc": "Doof is the home of Australian electronic music on triple j. Available until 22 Nov. Tracklist: Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard – Flower In A Hurricane; Luke Alessi – Sex Machine; The Avalanches & Loaded Honey – I Give Everything I Have 2 U; Pretty Girl – Waterline; 5 Seconds of Summer – Everyone's a Star!; Cosmo's Midnight & Vancouver Sleep Clinic – Do You Want This; CYRIL – Breathless; FISHER & LAUREL – Staring At The Sun; Jeshi & X CLUB. – headrush; lau.ra & Bag Raiders – back2back; LO'99 – Susucaru; Loods & SG Lewis – If You Want Me; Odd Mob & FAST BOY – …",
+   "duration": "10800",
+   "id": "107279752",
+   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "title": "Doof, 23 Oct",
+   "until": "2026-11-22T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/doof/doof/107279752"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/tm.aac",
+   "date": "2026-10-16T11:00:00Z",
+   "desc": "Doof is the home of Australian electronic music on triple j. Available until 15 Nov. Tracklist: CC:DISCO! & Alda – Prize Winning Horse; Soul Wun – And When Love Speaks; Troye Sivan – Party; Levi & Christina Aguilera – Genie in a Bottle (Levi Mix); Pretty Girl – Waterline; Tseba & Cavi – It's Love; Cooper Smith – All Night (Edit); Cosmo's Midnight & Vancouver Sleep Clinic – Do You Want This; CYRIL – Breathless; Odd Mob & OMNOM HYPERBEAM – Take You There; Sonny Fodera – Feel Again; Tame Impala & Fcukers – Loser (Fcukers Remix); Yes Boone – Nosebleeds; Tobiahs & VV-Ace – Where You Really Come Fr…",
+   "duration": "10800",
+   "id": "107252106",
+   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "title": "Doof, 16 Oct",
+   "until": "2026-11-15T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/doof/doof/107252106"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/p9/Z/tv.aac",
+   "date": "2026-10-09T11:00:00Z",
+   "desc": "Doof is the home of Australian electronic music on triple j. Available until 8 Nov. Tracklist: Surusinghe – Pary Criminal; UTILITY, DoloRRes & Brodinski – Ora Siamo Noi; Genesis Owusu feat. KYE – HUMAN AGAIN; Go Freek feat. Rromarin – Liberate It; Luke Alessi – Sex Machine; Night Tales – Paradiso; Tseba & Cavi – It's Love; 5 Seconds of Summer – Everyone's a Star! (CLUBSOS VOL. 1); Cosmo's Midnight x Vancouver Sleep Clinic – Do You Want This; CYRIL – Breathless; KSMBA – Touch; Tame Impala & Fcukers – Loser (Fcukers Remix); Yes Boone – Nosebleeds; Tobiahs & VV-Ace – Where You Really Come From; …",
+   "duration": "10799",
+   "id": "107225464",
+   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "title": "Doof, 9 Oct",
+   "until": "2026-11-08T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/doof/doof/107225464"
+  }
+ ],
+ "kind": "abc",
+ "name": "Doof with Latifa Tee",
+ "updatedAt": "2026-11-06T07:23:44Z"
+}

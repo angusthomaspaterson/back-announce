@@ -1,0 +1,119 @@
+{
+ "home": "https://www.abc.net.au/triplej/programs/mix-up",
+ "id": "triplej-mix-up",
+ "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/s7.mp3",
+   "date": "2026-10-31T14:00:00Z",
+   "desc": "Milan’s Piezo serves up a dose of deep and experimental club sounds on Mix Up. Available until 30 Nov.",
+   "duration": "3599",
+   "id": "107313774",
+   "image": "https://live-production.wcms.abc-cdn.net.au/81303764746803b72a0e5f5ad7f23b9f?impolicy=wcms_crop_resize&cropH=1685&cropW=2996&xPos=0&yPos=393&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Piezo",
+   "until": "2026-11-30T14:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/piezo-djset-2026/107313774"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/rp.mp3",
+   "date": "2026-10-31T13:00:00Z",
+   "desc": "Lock in for an hour of power from Berlin-based DJ and producer DINA ahead of her Australian tour. Available until 30 Nov.",
+   "duration": "3763",
+   "id": "107313772",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e4c4605af53a948bf06b189c1a8df148?impolicy=wcms_crop_resize&cropH=1369&cropW=2433&xPos=0&yPos=858&width=862&height=485&imformat=generic",
+   "title": "Mix Up: DINA",
+   "until": "2026-11-30T13:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/dina-djset-2026/107313772"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/ro.mp3",
+   "date": "2026-10-31T12:00:00Z",
+   "desc": "Eora/Sydney's Carolina Gasolina lays down Latin club, Jersey, juke and a whole lot more on Mix Up! Available until 30 Nov.",
+   "duration": "3529",
+   "id": "107313768",
+   "image": "https://live-production.wcms.abc-cdn.net.au/d7b871b9e77412e3ad5e9329c96a6dae?impolicy=wcms_crop_resize&cropH=1865&cropW=3315&xPos=0&yPos=1818&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Carolina Gasolina",
+   "until": "2026-11-30T12:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/carolinagasolina-djset-2026/107313768"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/rk.mp3",
+   "date": "2026-10-31T11:00:00Z",
+   "desc": "Ahead of her Down Under shows, UK-based DJ and producer Ellia Jaya is bringing house heaters to the booth! Available until 30 Nov.",
+   "duration": "3581",
+   "id": "107313766",
+   "image": "https://live-production.wcms.abc-cdn.net.au/1b99e465a0f38533c1b6ee4826dd7187?impolicy=wcms_crop_resize&cropH=743&cropW=1320&xPos=0&yPos=358&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Ellia Jaya",
+   "until": "2026-11-30T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/elliajaya-djset-2026/107313766"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/ro.mp3",
+   "date": "2026-10-24T14:00:00Z",
+   "desc": "Lock in for an hour of minimal and tech house sounds from Naarm/Melbourne’s Hannah D. Available until 23 Nov.",
+   "duration": "3600",
+   "id": "107287522",
+   "image": "https://live-production.wcms.abc-cdn.net.au/9d35cd3b7c8d2395f7052250f7471588?impolicy=wcms_crop_resize&cropH=1189&cropW=2114&xPos=0&yPos=161&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Hannah D",
+   "until": "2026-11-23T14:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/hannahd-djset-2026/107287522"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/rj.mp3",
+   "date": "2026-10-24T13:00:00Z",
+   "desc": "Irish producer Body Clinic brings old school prog house selections to the triple j airwaves. Available until 23 Nov.",
+   "duration": "3617",
+   "id": "107287520",
+   "image": "https://live-production.wcms.abc-cdn.net.au/60e03fa3a17dadb4ca16c19e3bf909b3?impolicy=wcms_crop_resize&cropH=1482&cropW=2634&xPos=0&yPos=703&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Body Clinic",
+   "until": "2026-11-23T13:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/bodyclinic-djset-2026/107287520"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/rg.mp3",
+   "date": "2026-10-24T12:00:00Z",
+   "desc": "Berlin’s evin lifts us up with a club-ready set during her Australian tour. Available until 23 Nov.",
+   "duration": "3625",
+   "id": "107287518",
+   "image": "https://live-production.wcms.abc-cdn.net.au/9ab94674270b910c47b21f000772f272?impolicy=wcms_crop_resize&cropH=2041&cropW=3629&xPos=0&yPos=391&width=862&height=485&imformat=generic",
+   "title": "Mix Up: evin",
+   "until": "2026-11-23T12:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/evin-djset-2026/107287518"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/ra.mp3",
+   "date": "2026-10-24T11:00:00Z",
+   "desc": "For their final week as our Mix Up Residents, Close Counters are bringing funky house flavours to the booth! Available until 23 Nov.",
+   "duration": "3685",
+   "id": "107287516",
+   "image": "https://live-production.wcms.abc-cdn.net.au/30648d99c524d0d477e9d2cdd7cb383f?impolicy=wcms_crop_resize&cropH=211&cropW=376&xPos=224&yPos=289&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Close Counters",
+   "until": "2026-11-23T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/closecounters-w4-djset-2026/107287516"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/ht.mp3",
+   "date": "2026-10-17T14:00:00Z",
+   "desc": "Ahead of his Australian tour dates, Berlin-based artist Nils Hoffmann drops a hypnotic house set on Mix Up. Available until 16 Nov.",
+   "duration": "3631",
+   "id": "107259486",
+   "image": "https://live-production.wcms.abc-cdn.net.au/99ee8633f06f41ae8503e88466aa9dcf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=233&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Nils Hoffmann",
+   "until": "2026-11-16T14:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/nilshoffman-djset-2026/107259486"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/hp.mp3",
+   "date": "2026-10-17T13:00:00Z",
+   "desc": "Don’t miss Eora/Sydney’s Fried Pork Chop dropping indie sleaze throwbacks and bloghouse bangers in the mix! Available until 16 Nov.",
+   "duration": "3959",
+   "id": "107259482",
+   "image": "https://live-production.wcms.abc-cdn.net.au/dd4c192418b5b3f54e27ffa98bfc2d81?impolicy=wcms_crop_resize&cropH=1512&cropW=2688&xPos=0&yPos=589&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Fried Pork Chop",
+   "until": "2026-11-16T13:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/friedporkchop-djset-2026/107259482"
+  }
+ ],
+ "kind": "abc",
+ "name": "Mix Up with Kailyn Crabbe",
+ "updatedAt": "2026-11-06T07:23:44Z"
+}

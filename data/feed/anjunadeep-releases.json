@@ -13,6 +13,16 @@
    "url": "https://anjunadeep.com/products/636874-vihana-ep"
   },
   {
+   "date": "2026-11-04T00:00:00Z",
+   "desc": "Single on Anjunadeep Explorations, out 4 Nov 2026.",
+   "id": "627920-unbound-motion",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/627920.jpg",
+   "out": "2026-11-04T00:00:00Z",
+   "tags": "Single · Anjunadeep Explorations",
+   "title": "Saive & Faodail – Unbound / Motion",
+   "url": "https://anjunadeep.com/products/627920-unbound-motion"
+  },
+  {
    "date": "2026-11-03T00:00:00Z",
    "desc": "Single on Anjunadeep, out 3 Nov 2026.",
    "id": "627918-asman",
@@ -235,16 +245,6 @@
   {
    "date": "2026-10-01T00:00:00Z",
    "desc": "Single on Anjunachill, out 1 Oct 2026.",
-   "id": "616517-sky-falls-down-downtempo-version",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616517.jpg",
-   "out": "2026-10-01T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "Above & Beyond pres. OceanLab – Sky Falls Down (Downtempo Version)",
-   "url": "https://anjunadeep.com/products/616517-sky-falls-down-downtempo-version"
-  },
-  {
-   "date": "2026-10-01T00:00:00Z",
-   "desc": "Single on Anjunachill, out 1 Oct 2026.",
    "id": "616515-solitude-vr-sofandi-rework",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/616515.jpg",
    "out": "2026-10-01T00:00:00Z",
@@ -255,5 +255,5 @@
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-06T07:23:44Z"
 }

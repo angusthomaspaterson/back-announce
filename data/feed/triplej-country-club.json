@@ -1,0 +1,53 @@
+{
+ "home": "https://www.abc.net.au/triplej/programs/country-club",
+ "id": "triplej-country-club",
+ "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q0/Z/du.aac",
+   "date": "2026-11-01T07:00:00Z",
+   "desc": "This week on Country Club, Tom has hand-picked a cruisy mix of country and folk, perfect for your Sunday chill sesh - from Maia Toakley’s poetic songwriting to timeless faves from Gillian Welch and the Waifs. Available until 1 Dec. Tracklist: Maia Toakley – Everything On Fire; The Teskey Brothers – Take My Heart; Sierra Ferrell – Pair of Dice; Kevin Morby – Javelin; Gillian Welch – Annabelle; The Waifs – Highway One; Star Moles – Born Again; Jason Isbell And The 400 Unit – Alabama Pines; Ken Pomeroy – Look at Miss Ohio; Willie Nelson & Emmylou Harris – Willin’ (feat. Inara George); Bedouine –…",
+   "duration": "3600",
+   "id": "107311854",
+   "image": "https://live-production.wcms.abc-cdn.net.au/bed50c3fc843d01968fac8942026276f?impolicy=wcms_crop_resize&cropH=718&cropW=1277&xPos=0&yPos=66&width=862&height=485&imformat=generic",
+   "title": "Fresh finds and favourites with Outback Tom",
+   "until": "2026-12-01T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-maia-toakley/107311854"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pp/Z/ab.aac",
+   "date": "2026-10-25T07:00:00Z",
+   "desc": "This week, Tom features some of his current faves including Liz Stringer’s moving ode to friendship, and Grace Barr’s fast and furious fiddle-driven folk stomper. Available until 24 Nov. Tracklist: Liz Stringer – Sister; Noah Kahan & The Hunger Games – Draw You Out; Ruby Gill – Jacaranda; George VILLA – Wait Honey; Azure Ryder – Pipe Dream of California; Zach Bryan – Lodi When; Grace Barr – Toppling; Kings Of Leon – KOYSAR; Daisy Kilbourne – Northern Wind; Abigail Rose & Weston Hunter – Betty's in the Band; The Enthusiast – Ants On The Walls, The Floor, The Desk; Willow Avalon – Cardinal Sin …",
+   "duration": "3600",
+   "id": "107283160",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e8bc3bfe2b0f0559f99d251a61ab6f98?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=275&width=862&height=485&imformat=generic",
+   "title": "Noah Kahan joins The Hunger Games soundtrack, plus fresh finds from Tom",
+   "until": "2026-11-24T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-kings-of-leon-liz-stringer/107283160"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pi/Z/43.aac",
+   "date": "2026-10-18T07:00:00Z",
+   "desc": "Two huge names from different musical worlds join forces on ‘Lies’ - hear the new collab from Zach Bryan and Lana Del Rey. And there’s plenty more to get around this week, including the brilliant Dan Sultan, new music from Ziggy Alberts and Tori Forsyth, as well as Old Mervs teaming up with Kim Churchill. Available until 17 Nov. Tracklist: Ziggy Alberts – Valerie; Lucy Sugerman – Josie; Zach Bryan – Lies {Ft. Lana Del Rey}; Tori Forsyth – Dear Me; Jet Walker – the last time {Ft. Bella Mackenzie); Aidan Palmer – Freezing Alone; Cigarettes @ Sunset – Carolina Shakedown; Kameron Marlowe – Take Y…",
+   "duration": "3600",
+   "id": "107258198",
+   "image": "https://live-production.wcms.abc-cdn.net.au/cfc24741a9db3d9dd9c1bc7a5aef4284?impolicy=wcms_crop_resize&cropH=506&cropW=900&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "Country Club: A superstar pairing from Zach Bryan and Lana Del Rey",
+   "until": "2026-11-17T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-zach-bryan-lana-del-rey/107258198"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pa/Z/sj.aac",
+   "date": "2026-10-11T07:00:00Z",
+   "desc": "From Aussie rock royalty to the next wave of country talent, there's plenty to get stuck into on Country Club this week. Ella Hooper shows her love for Americana with her new album Overnight Success, and Tori Forsyth gets comfortable with the uncomfortable on her long awaited new record. Available until 10 Nov. Tracklist: Stimpies – State of Things; Kings Of Leon – Cold Blue Dawn; Ella Hooper – Slow Morning; Ricky Albeck – Famous Friends; Tori Forsyth – You and Me; Brad Cox – What Are The Odds; Dear Tommie, Dear Tommie – Buffalo; Finn Pearson – Silver Tray; Emma Ogier – Keep You; JAY SKAGGS –…",
+   "duration": "3600",
+   "id": "107231180",
+   "image": "https://live-production.wcms.abc-cdn.net.au/96b0c67ce9f30a6f2bbf6857252b151e?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=73&width=862&height=485&imformat=generic",
+   "title": "Aussie rock royalty meets the next wave of country",
+   "until": "2026-11-10T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-ella-hooper-tori-forsyth/107231180"
+  }
+ ],
+ "kind": "abc",
+ "name": "Country Club with Outback Tom",
+ "updatedAt": "2026-11-06T07:23:44Z"
+}

@@ -9,6 +9,39 @@
    "u": "https://www.rinse.fm/episodes/hodge-06-11-2026-2100"
   },
   {
+   "d": "2026-11-06T06:00:00Z",
+   "g": "Podcasts",
+   "s": "Sound Opinions",
+   "sid": "sound-opinions",
+   "sp": "Sound Opinions Stevie Wonder's \"Songs in the Key of Life\" 50th Anniversary",
+   "t": "Stevie Wonder's \"Songs in the Key of Life\" 50th Anniversary",
+   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/7e981b65-2577-4b39-bc0c-a32189b4dc89.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
+   "d": "2026-11-06T05:40:57Z",
+   "g": "Progressive",
+   "s": "Gai Barone: Patterns",
+   "sid": "gai-barone-patterns",
+   "t": "Patterns 725",
+   "u": "https://soundcloud.com/gai-barone/patterns-725"
+  },
+  {
+   "d": "2026-11-06T03:30:00Z",
+   "g": "triple j",
+   "s": "Friday Mix with Dave Woodhead and Kailyn Crabbe",
+   "sid": "triplej-friday-mix",
+   "t": "Friday Mix: Will Sparks",
+   "u": "https://www.abc.net.au/triplej/programs/friday-mix/willsparks-djset-2026/107345664"
+  },
+  {
+   "d": "2026-11-06T00:00:00Z",
+   "g": "Progressive",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "Balance Selections 391: Greta Meier",
+   "u": "https://soundcloud.com/balance-series/balance-selections-greta-meier"
+  },
+  {
    "d": "2026-11-05T22:33:00Z",
    "g": "Writing",
    "s": "Mixmag Australia/Asia",
@@ -42,6 +75,14 @@
    "u": "https://firstfloor.substack.com/p/first-floor-335-grief-is-not-enough"
   },
   {
+   "d": "2026-11-05T10:00:00Z",
+   "g": "triple j",
+   "s": "Hip Hop Show with A.Girl",
+   "sid": "triplej-hip-hop-show",
+   "t": "Hip Hop Show, 5 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107330836"
+  },
+  {
    "d": "2026-11-05T08:02:44Z",
    "g": "Writing",
    "s": "Flow State",
@@ -57,6 +98,14 @@
    "sp": "KEXP: In Our Headphones KEXP’s Dusty Henry on Kagid and Manila’s Incredible Music Scene",
    "t": "KEXP’s Dusty Henry on Kagid and Manila’s Incredible Music Scene",
    "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dusty-henry-on-kagid-and-manila-s-incredible-music-scene"
+  },
+  {
+   "d": "2026-11-05T08:00:00Z",
+   "g": "triple j",
+   "s": "Home and Hosed with Anika Luna",
+   "sid": "triplej-home-and-hosed",
+   "t": "Home and Hosed: First Plays from ixaras and Jerome Blazé",
+   "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107330864"
   },
   {
    "d": "2026-11-05T07:00:00Z",
@@ -115,60 +164,10 @@
    "sid": "bandcamp-daily",
    "t": "Shygirl, “SWALLOW!”",
    "u": "https://daily.bandcamp.com/album-of-the-day/shygirl-swallow-review"
-  },
-  {
-   "d": "2026-11-05T00:00:00Z",
-   "g": "Progressive",
-   "s": "Selador Sessions (Dave Seaman & Steve Parry)",
-   "sid": "selador-sessions",
-   "sp": "Selador Sessions (Dave Seaman & Steve Parry) Selador Sesions 391 - Jon Towell",
-   "t": "Selador Sesions 391 - Jon Towell",
-   "u": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sesions-391-jon-towell"
-  },
-  {
-   "d": "2026-11-05T00:00:00Z",
-   "g": "Bass",
-   "s": "Motor System",
-   "sid": "nts-motor-system",
-   "t": "Motor System",
-   "u": "https://www.nts.live/shows/motor-system/episodes/motor-system-5th-november-2026"
-  },
-  {
-   "d": "2026-11-04T23:00:00Z",
-   "g": "NTS",
-   "s": "A Long Strange Dream w/ Batu",
-   "sid": "nts-batu",
-   "t": "A Long Strange Dream w/ Batu - Amapiano special",
-   "u": "https://www.nts.live/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-4th-november-2026"
-  },
-  {
-   "d": "2026-11-04T22:00:00Z",
-   "g": "NTS",
-   "s": "GiGi FM",
-   "sid": "nts-gigi-fm",
-   "t": "GiGi FM presents Philippa Pacho",
-   "u": "https://www.nts.live/shows/gigi-fm/episodes/gigi-fm-4th-november-2026"
-  },
-  {
-   "d": "2026-11-04T20:38:21Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 4 Nov: 8 records",
-   "u": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
-  },
-  {
-   "d": "2026-11-04T18:00:00Z",
-   "g": "Progressive",
-   "s": "Yotto: Odd One Out Radio",
-   "sid": "odd-one-out",
-   "sp": "Yotto: Odd One Out Radio ODD ONE OUT #106",
-   "t": "ODD ONE OUT #106",
-   "u": "https://podtoo.com/@oddoneoutradio/6ae91963c161a92d3a02d80f"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 367,
+ "newCount": 433,
  "paused": 20,
  "releases": [
   {
@@ -240,6 +239,6 @@
    "u": "https://daily.bandcamp.com/features/chyna-baejing-interview"
   }
  ],
- "sources": 179,
- "updated": "2026-11-06T00:20:46Z"
+ "sources": 190,
+ "updated": "2026-11-06T07:23:44Z"
 }
