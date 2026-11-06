@@ -29,10 +29,13 @@ status.json. Only the standard library is used. Each source keeps its newest 25.
 import argparse
 import datetime
 import html
+import http.client
 import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -450,7 +453,21 @@ def do_bbc(src, fetcher):
                              f"{src['pid']}&sort=sequential&type=episode&limit={KEEP}"), src)
 
 
+def _retrying(fetcher, tries=3, pause=2):
+    """The ABC's pages are large (about half a megabyte each) and sometimes stall part-way."""
+    def get(url):
+        for n in range(tries):
+            try:
+                return fetcher(url)
+            except (OSError, http.client.HTTPException) as e:
+                if n == tries - 1 or (isinstance(e, urllib.error.HTTPError) and e.code < 500):
+                    raise
+                time.sleep(pause * (n + 1))
+    return get
+
+
 def do_abc(src, fetcher):
+    fetcher = _retrying(fetcher)
     """Read each listed episode; skip pages that won't parse or carry no audio (a collection,
     an interview clip or an old article in the list)."""
     program = fetcher(src["home"])

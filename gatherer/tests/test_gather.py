@@ -149,6 +149,17 @@ class ParseAbc(unittest.TestCase):
         self.assertIn("Tracklist: Logic1000 feat. KUČKA – All In For You;", it["desc"])
         self.assertIsNone(it["image"])   # only the triple j logo on this page
 
+    def test_a_stalled_page_is_tried_again(self):
+        calls = []
+        def flaky(url):
+            calls.append(url)
+            if len(calls) == 1:
+                raise TimeoutError("The read operation timed out")
+            return fixture("abc-program-mix-up.html") if url == self.MIXUP["home"] else fixture("abc-episode-mix-up-piezo.html")
+        get = gather._retrying(flaky, pause=0)
+        self.assertTrue(get(self.MIXUP["home"]))
+        self.assertEqual(len(calls), 2)
+
     def test_logo_only_episode_gets_the_show_artwork(self):
         pages = {self.DOOF["home"]: fixture("abc-program-mix-up.html").replace(b"/triplej/programs/mix-up/", b"/triplej/programs/doof/")}
         items = gather.do_abc(self.DOOF, lambda url: pages.get(url) or fixture("abc-episode-doof.html"))
