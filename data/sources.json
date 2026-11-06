@@ -1729,6 +1729,177 @@
    "id": "doublej-the-block-party",
    "kind": "abc",
    "name": "The Block Party with Hau Latukefu"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b01fm4ss",
+   "id": "bbc-gilles-peterson",
+   "kind": "bbc",
+   "name": "Gilles Peterson on 6 Music",
+   "pid": "b01fm4ss"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b01pp0xq",
+   "id": "bbc-mary-anne-hobbs",
+   "kind": "bbc",
+   "name": "Mary Anne Hobbs",
+   "pid": "b01pp0xq"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m002d2x6",
+   "id": "bbc-the-6-mix-with-mary-anne-hobbs",
+   "kind": "bbc",
+   "name": "The 6 Mix with Mary Anne Hobbs",
+   "pid": "m002d2x6"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m001qng7",
+   "id": "bbc-sherelle",
+   "kind": "bbc",
+   "name": "SHERELLE",
+   "pid": "m001qng7"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m000txn4",
+   "id": "bbc-jamz-supernova",
+   "kind": "bbc",
+   "name": "Jamz Supernova",
+   "pid": "m000txn4"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b0072l4x",
+   "id": "bbc-stuart-maconies-freak-zone",
+   "kind": "bbc",
+   "name": "Stuart Maconie's Freak Zone",
+   "pid": "b0072l4x"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m001dkv1",
+   "id": "bbc-6-musics-rave-forever",
+   "kind": "bbc",
+   "name": "6 Music's Rave Forever",
+   "pid": "m001dkv1"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b006wkfp",
+   "id": "bbc-radio-1s-essential-mix",
+   "kind": "bbc",
+   "name": "Radio 1's Essential Mix",
+   "pid": "b006wkfp"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b00v4tv3",
+   "id": "bbc-benji-b",
+   "kind": "bbc",
+   "name": "Benji B",
+   "pid": "b00v4tv3"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b09c12lj",
+   "id": "bbc-radio-1s-drum-and-bass-show",
+   "kind": "bbc",
+   "name": "Radio 1's Drum & Bass Show",
+   "pid": "b09c12lj"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b00f3pc4",
+   "id": "bbc-radio-1s-classic-essential-mix",
+   "kind": "bbc",
+   "name": "Radio 1's Classic Essential Mix",
+   "pid": "b00f3pc4"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b006ww0v",
+   "id": "bbc-pete-tong",
+   "kind": "bbc",
+   "name": "Pete Tong",
+   "pid": "b006ww0v"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m000zwn2",
+   "id": "bbc-pete-tongs-hot-mix",
+   "kind": "bbc",
+   "name": "Pete Tong's Hot Mix",
+   "pid": "m000zwn2"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m000zc82",
+   "id": "bbc-radio-1s-future-dance-with-sarah-story",
+   "kind": "bbc",
+   "name": "Radio 1's Future Dance with Sarah Story",
+   "pid": "m000zc82"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m0003l3c",
+   "id": "bbc-radio-1-dance-drum-and-bass-mix",
+   "kind": "bbc",
+   "name": "Radio 1 Dance Drum & Bass Mix",
+   "pid": "m0003l3c"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b01d76k4",
+   "id": "bbc-the-residency-on-radio-1-dance",
+   "kind": "bbc",
+   "name": "The Residency on Radio 1 Dance",
+   "pid": "b01d76k4"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m000h0zx",
+   "id": "bbc-introducing-on-radio-1-dance",
+   "kind": "bbc",
+   "name": "BBC Introducing on Radio 1 Dance",
+   "pid": "m000h0zx"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/b03hjfww",
+   "id": "bbc-radio-1s-chillest-show-with-sian-eleri",
+   "kind": "bbc",
+   "name": "Radio 1's Chillest Show with Sian Eleri",
+   "pid": "b03hjfww"
+  },
+  {
+   "added": "6 Nov",
+   "group": "BBC",
+   "home": "https://www.bbc.co.uk/programmes/m001y043",
+   "id": "bbc-radio-1s-future-artists-with-sian-eleri",
+   "kind": "bbc",
+   "name": "Radio 1's Future Artists with Sian Eleri",
+   "pid": "m001y043"
   }
  ]
 }

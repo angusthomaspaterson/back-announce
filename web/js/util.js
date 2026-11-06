@@ -3,7 +3,7 @@ export const PERTH = 'Australia/Perth';
 export const $ = id => document.getElementById(id);
 export const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
 
-export const GROUP_COLOURS = {'NTS': '#1b1d22', 'Rinse FM': '#8a4bd6', 'SoundCloud': '#ff5500', 'Podcasts': '#2b6cb0', 'Writing': '#2f7d5b', 'Radio': '#1da0c3', 'Mixes': '#c98a1a', 'Perth': '#e0508a', 'Bass': '#6f9a1f', 'Progressive': '#0d8080', 'triple j': '#d3441c', 'Double J': '#22385c', 'Other': '#6b6f78'};
+export const GROUP_COLOURS = {'NTS': '#1b1d22', 'Rinse FM': '#8a4bd6', 'SoundCloud': '#ff5500', 'Podcasts': '#2b6cb0', 'Writing': '#2f7d5b', 'Radio': '#1da0c3', 'Mixes': '#c98a1a', 'Perth': '#e0508a', 'Bass': '#6f9a1f', 'Progressive': '#0d8080', 'triple j': '#d3441c', 'Double J': '#22385c', 'BBC': '#4b4f9e', 'Other': '#6b6f78'};
 const GROUP_COLOURS_DARK = {'NTS': '#5a5f6a', 'Double J': '#5b7bb5'};
 export const BATCHES = {sweep: '1 Oct', oct11: '11 Oct', oct14: '14 Oct'};
 export const addedLabel = a => a === 'start' ? 'Original pick' : BATCHES[a] ? 'Added ' + BATCHES[a] : (a ? 'Added ' + a : '');
