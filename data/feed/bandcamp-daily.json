@@ -3,22 +3,49 @@
  "id": "bandcamp-daily",
  "items": [
   {
-   "date": "2026-11-04T00:00:00Z",
-   "desc": "Seasonally appropriate recordings of blizzards, bats, volcanoes, and an abandoned research laboratory.",
-   "id": "best-field-recordings-the-best-field-recordings-on-bandcamp-october-2026",
-   "image": "https://f4.bcbits.com/img/0048212333_180",
-   "tags": "Best Field Recordings",
-   "title": "The Best Field Recordings on Bandcamp, October 2026",
-   "url": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-october-2026"
+   "date": "2026-11-05T00:00:00Z",
+   "desc": "Our guide to the month’s crucial heavy LPs.",
+   "id": "best-metal-the-best-metal-on-bandcamp-october-2026",
+   "image": "https://f4.bcbits.com/img/0048213478_180",
+   "tags": "Best Metal",
+   "title": "The Best Metal on Bandcamp, October 2026",
+   "url": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-october-2026"
+  },
+  {
+   "date": "2026-11-05T00:00:00Z",
+   "desc": "",
+   "id": "best-contemporary-classical-the-best-contemporary-classical-music-on-bandcamp-october-2026",
+   "image": "https://f4.bcbits.com/img/0048327870_150.jpg",
+   "tags": "Best Contemporary Classical",
+   "title": "The Best Contemporary Classical Music on Bandcamp, October 2026",
+   "url": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-october-2026"
+  },
+  {
+   "date": "2026-11-05T00:00:00Z",
+   "desc": "",
+   "id": "best-country-the-best-country-music-on-bandcamp-october-2026",
+   "image": "https://f4.bcbits.com/img/0048212639_150.jpg",
+   "tags": "Best Country",
+   "title": "The Best Country Music on Bandcamp, October 2026",
+   "url": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-october-2026"
+  },
+  {
+   "date": "2026-11-05T00:00:00Z",
+   "desc": "",
+   "id": "album-of-the-day-shygirl-swallow-review",
+   "image": "https://f4.bcbits.com/img/0048334615_2.jpg",
+   "tags": "Album Of The Day",
+   "title": "Shygirl, “SWALLOW!”",
+   "url": "https://daily.bandcamp.com/album-of-the-day/shygirl-swallow-review"
   },
   {
    "date": "2026-11-04T00:00:00Z",
    "desc": "",
-   "id": "prog-state-mind-prog-is-a-state-of-mind-4",
-   "image": "https://f4.bcbits.com/img/0048215579_150.jpg",
-   "tags": "Prog Is A State Of Mind",
-   "title": "Prog Is A State of Mind #4",
-   "url": "https://daily.bandcamp.com/prog-state-mind/prog-is-a-state-of-mind-4"
+   "id": "best-field-recordings-the-best-field-recordings-on-bandcamp-october-2026",
+   "image": "https://f4.bcbits.com/img/0048212333_150.jpg",
+   "tags": "Best Field Recordings",
+   "title": "The Best Field Recordings on Bandcamp, October 2026",
+   "url": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-october-2026"
   },
   {
    "date": "2026-11-04T00:00:00Z",
@@ -28,6 +55,15 @@
    "tags": "Album Of The Day",
    "title": "Anna Webber, “it’s easier to imagine the end of the world…”",
    "url": "https://daily.bandcamp.com/album-of-the-day/anna-webber-its-easier-to-imagine-the-end-of-the-world-review"
+  },
+  {
+   "date": "2026-11-04T00:00:00Z",
+   "desc": "",
+   "id": "prog-state-mind-prog-is-a-state-of-mind-4",
+   "image": "https://f4.bcbits.com/img/0048215579_150.jpg",
+   "tags": "Prog Is A State Of Mind",
+   "title": "Prog Is A State of Mind #4",
+   "url": "https://daily.bandcamp.com/prog-state-mind/prog-is-a-state-of-mind-4"
   },
   {
    "date": "2026-11-03T00:00:00Z",
@@ -190,45 +226,9 @@
    "tags": "Album Of The Day",
    "title": "Josh Johnson, “Animative”",
    "url": "https://daily.bandcamp.com/album-of-the-day/josh-johnson-animative-review"
-  },
-  {
-   "date": "2026-10-28T00:00:00Z",
-   "desc": "",
-   "id": "label-profile-rer-megacorp-label-profile",
-   "image": "https://f4.bcbits.com/img/0048193890_150.jpg",
-   "tags": "Label Profile",
-   "title": "Rock and Opposition: A Guide to ReR Megacorp",
-   "url": "https://daily.bandcamp.com/label-profile/rer-megacorp-label-profile"
-  },
-  {
-   "date": "2026-10-27T00:00:00Z",
-   "desc": "",
-   "id": "features-leenalchi-sugungga-feature",
-   "image": "https://f4.bcbits.com/img/0048115463_150.jpg",
-   "tags": "Features",
-   "title": "Brian Eno Agrees: LEENALCHI Are Korea’s Best, Weirdest Band",
-   "url": "https://daily.bandcamp.com/features/leenalchi-sugungga-feature"
-  },
-  {
-   "date": "2026-10-27T00:00:00Z",
-   "desc": "",
-   "id": "album-of-the-day-orchestra-baobab-made-in-senegal-review",
-   "image": "https://f4.bcbits.com/img/0048120329_2.jpg",
-   "tags": "Album Of The Day",
-   "title": "Orchestra Baobab, “Made In Senegal”",
-   "url": "https://daily.bandcamp.com/album-of-the-day/orchestra-baobab-made-in-senegal-review"
-  },
-  {
-   "date": "2026-10-26T00:00:00Z",
-   "desc": "",
-   "id": "features-the-buddha-machine-feature",
-   "image": "https://f4.bcbits.com/img/0048138694_150.jpg",
-   "tags": "Features",
-   "title": "How the Buddha Machine Built Modern Ambient",
-   "url": "https://daily.bandcamp.com/features/the-buddha-machine-feature"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Daily",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

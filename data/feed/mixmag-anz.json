@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-05T22:33:00Z",
+   "desc": "Eight free, all-ages parties land on South Bank's Rainforest Green from 8 January to 14 February 2027. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-southwave-returns-to-meanjin-with-eight-free-parties-across-summer-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Southwave-Lineup-Announce.png",
+   "title": "Southwave returns to Meanjin with eight free parties across Summer",
+   "url": "https://mixmag.net.au/read/southwave-returns-to-meanjin-with-eight-free-parties-across-summer-news"
+  },
+  {
+   "audio": null,
    "date": "2026-11-04T04:23:15Z",
    "desc": "Writer Martyn Pepperell dives into the discography of one of Aotearoa/New Zealand's more unsung musical legacies. Continue reading...",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Sydney-Nightlife-Update-2026.png",
    "title": "New South Wales government passes historic bill to protect live music venues",
    "url": "https://mixmag.net.au/read/new-south-wales-government-passes-historic-bill-to-protect-live-music-venues-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-01T03:45:04Z",
-   "desc": "Ikigai's debut release pairs Royston Bassmann's hardware-driven tech house with stills from Riley Hart's 16mm film about land speed chasers on Lake Gairdner. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-imagined-nostalgia-the-pull-of-early-noughties-tech-house-on-2004-speculation",
-   "image": null,
-   "title": "Imagined nostalgia & the pull of early-noughties tech-house on ‘2004 Speculation’",
-   "url": "https://mixmag.net.au/feature/imagined-nostalgia-the-pull-of-early-noughties-tech-house-on-2004-speculation"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

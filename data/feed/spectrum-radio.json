@@ -3,6 +3,16 @@
  "id": "spectrum-radio",
  "items": [
   {
+   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_497__Joris_Voorn_sc.mp3?dest-id=504876",
+   "date": "2026-11-05T15:43:00Z",
+   "desc": "Live from Spectrum x Awakenings ADE",
+   "duration": "01:00:39",
+   "id": "bb066f38-5b9b-4b4a-992c-7a8149819333",
+   "image": "https://static.libsyn.com/p/assets/1/b/7/3/1b73c6f3f590d310a04421dee9605cbd/Spectrum_Radio_497.jpg",
+   "title": "Spectrum Radio 497",
+   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-497"
+  },
+  {
    "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_496__Joris_Voorn_sc.mp3?dest-id=504876",
    "date": "2026-10-29T00:00:00Z",
    "desc": "Live from Elrow XXL, Tenerife",
@@ -241,19 +251,9 @@
    "image": "https://static.libsyn.com/p/assets/7/c/0/1/7c01bb256c0b5090d959afa2a1bf1c87/Spectrum_Radio_473.jpg",
    "title": "Spectrum Radio 473",
    "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-473"
-  },
-  {
-   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_472__Joris_Voorn_sc.mp3?dest-id=504876",
-   "date": "2026-05-14T12:17:00Z",
-   "desc": "Live from Fabric, London",
-   "duration": "01:01:39",
-   "id": "216e53e7-885f-4b2a-a74d-491ccda1a46e",
-   "image": "https://static.libsyn.com/p/assets/7/a/2/9/7a29b616d663c74416c3140a3186d450/Spectrum_Radio_472.jpg",
-   "title": "Spectrum Radio 472",
-   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-472"
   }
  ],
  "kind": "rss",
  "name": "Joris Voorn: Spectrum Radio",
- "updatedAt": "2026-10-29T23:19:37Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

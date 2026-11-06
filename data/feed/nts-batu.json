@@ -3,6 +3,16 @@
  "id": "nts-batu",
  "items": [
   {
+   "date": "2026-11-04T23:00:00Z",
+   "desc": "A Long Strange Dream is Batu's latest series which allows him to showcase a selection of music not limited to peak time dancefloors. Expect a deep dive into the crates for an eclectic mix of influences and oddities as you transcend into a collective long strange dream. From the host: \"Celebrating the golden era of modern dance music from South African we are currently in.\"",
+   "id": "a-long-strange-dream-w-batu-4th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/a8b9ba7e-eff2-45ab-ae53-3df57f886b70_1793750400.jpeg",
+   "location": "Bristol",
+   "tags": "Amapiano ",
+   "title": "A Long Strange Dream w/ Batu - Amapiano special",
+   "url": "https://www.nts.live/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-4th-november-2026"
+  },
+  {
    "date": "2026-09-09T22:00:00Z",
    "desc": "A Long Strange Dream is Batu's latest series which allows him to showcase a selection of music not limited to peak time dancefloors. Expect a deep dive into the crates for an eclectic mix of influences and oddities as you transcend into a collective long strange dream.",
    "id": "a-long-strange-dream-w-batu-9th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Techno",
    "title": "A Long Strange Dream w/ Batu",
    "url": "https://www.nts.live/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-26th-february-2025"
-  },
-  {
-   "date": "2024-11-06T23:00:00Z",
-   "desc": "A Long Strange Dream is Batu's latest series which allows him to showcase a selection of music not limited to peak time dancefloors. Expect a deep dive into the crates for an eclectic mix of influences and oddities as you transcend into a collective long strange dream.",
-   "id": "a-long-strange-dream-w-batu-6th-november-2024",
-   "image": "https://media.ntslive.co.uk/resize/400x400/b26588a1-1e24-468a-b0b1-3e7f4b1f491a_1730851200.jpeg",
-   "location": "Bristol",
-   "tags": "Techno, Bass, House",
-   "title": "A LONG STRANGE DREAM W/ BATU B2B DAISY MOON",
-   "url": "https://www.nts.live/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-6th-november-2024"
   }
  ],
  "kind": "nts",
  "name": "A Long Strange Dream w/ Batu",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

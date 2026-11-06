@@ -1,12 +1,79 @@
 {
  "items": [
   {
+   "d": "2026-11-06T21:00:00Z",
+   "g": "Rinse FM",
+   "s": "Hodge",
+   "sid": "rinse-hodge",
+   "t": "Hodge, 6 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/hodge-06-11-2026-2100"
+  },
+  {
+   "d": "2026-11-05T22:33:00Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Southwave returns to Meanjin with eight free parties across Summer",
+   "u": "https://mixmag.net.au/read/southwave-returns-to-meanjin-with-eight-free-parties-across-summer-news"
+  },
+  {
+   "d": "2026-11-05T16:06:56Z",
+   "g": "Progressive",
+   "s": "The Anjunadeep Edition",
+   "sid": "anjunadeep-edition",
+   "t": "The Anjunadeep Edition 618 with pølaroit",
+   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-618-with-p%C3%B8laroit/"
+  },
+  {
+   "d": "2026-11-05T15:43:00Z",
+   "g": "Progressive",
+   "s": "Joris Voorn: Spectrum Radio",
+   "sid": "spectrum-radio",
+   "sp": "Joris Voorn: Spectrum Radio Spectrum Radio 497",
+   "t": "Spectrum Radio 497",
+   "u": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-497"
+  },
+  {
    "d": "2026-11-05T12:15:12Z",
    "g": "Writing",
    "s": "First Floor",
    "sid": "first-floor",
    "t": "First Floor recommendations, 5 Nov: 1 record",
    "u": "https://firstfloor.substack.com/p/first-floor-335-grief-is-not-enough"
+  },
+  {
+   "d": "2026-11-05T08:02:44Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "t": "Nisennenmondai",
+   "u": "https://www.flowstate.fm/p/nisennenmondai"
+  },
+  {
+   "d": "2026-11-05T08:00:00Z",
+   "g": "Radio",
+   "s": "KEXP: In Our Headphones",
+   "sid": "in-our-headphones",
+   "sp": "KEXP: In Our Headphones KEXP’s Dusty Henry on Kagid and Manila’s Incredible Music Scene",
+   "t": "KEXP’s Dusty Henry on Kagid and Manila’s Incredible Music Scene",
+   "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dusty-henry-on-kagid-and-manila-s-incredible-music-scene"
+  },
+  {
+   "d": "2026-11-05T07:00:00Z",
+   "g": "NTS",
+   "s": "The Early Bird Show w/ PAM",
+   "sid": "nts-early-bird-pam",
+   "t": "The Early Bird Show w/ PAM & skii",
+   "u": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-5th-november-2026"
+  },
+  {
+   "d": "2026-11-05T05:01:54Z",
+   "g": "Perth",
+   "s": "RTRFM: No Skips",
+   "sid": "no-skips",
+   "sp": "RTRFM: No Skips No Skips with Adalita",
+   "t": "No Skips with Adalita",
+   "u": "https://rtrfm.com.au/podcasts/no-skips/no-skips-with-adalita/"
   },
   {
    "d": "2026-11-05T00:24:22Z",
@@ -16,6 +83,71 @@
    "sp": "Anyasa – Vihana EP",
    "t": "Anyasa – Vihana EP",
    "u": "https://anjunadeep.com/products/636874-vihana-ep"
+  },
+  {
+   "d": "2026-11-05T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "The Best Metal on Bandcamp, October 2026",
+   "u": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-october-2026"
+  },
+  {
+   "d": "2026-11-05T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "The Best Contemporary Classical Music on Bandcamp, October 2026",
+   "u": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-october-2026"
+  },
+  {
+   "d": "2026-11-05T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "The Best Country Music on Bandcamp, October 2026",
+   "u": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-october-2026"
+  },
+  {
+   "d": "2026-11-05T00:00:00Z",
+   "g": "Writing",
+   "s": "Bandcamp Daily",
+   "sid": "bandcamp-daily",
+   "t": "Shygirl, “SWALLOW!”",
+   "u": "https://daily.bandcamp.com/album-of-the-day/shygirl-swallow-review"
+  },
+  {
+   "d": "2026-11-05T00:00:00Z",
+   "g": "Progressive",
+   "s": "Selador Sessions (Dave Seaman & Steve Parry)",
+   "sid": "selador-sessions",
+   "sp": "Selador Sessions (Dave Seaman & Steve Parry) Selador Sesions 391 - Jon Towell",
+   "t": "Selador Sesions 391 - Jon Towell",
+   "u": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sesions-391-jon-towell"
+  },
+  {
+   "d": "2026-11-05T00:00:00Z",
+   "g": "Bass",
+   "s": "Motor System",
+   "sid": "nts-motor-system",
+   "t": "Motor System",
+   "u": "https://www.nts.live/shows/motor-system/episodes/motor-system-5th-november-2026"
+  },
+  {
+   "d": "2026-11-04T23:00:00Z",
+   "g": "NTS",
+   "s": "A Long Strange Dream w/ Batu",
+   "sid": "nts-batu",
+   "t": "A Long Strange Dream w/ Batu - Amapiano special",
+   "u": "https://www.nts.live/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-4th-november-2026"
+  },
+  {
+   "d": "2026-11-04T22:00:00Z",
+   "g": "NTS",
+   "s": "GiGi FM",
+   "sid": "nts-gigi-fm",
+   "t": "GiGi FM presents Philippa Pacho",
+   "u": "https://www.nts.live/shows/gigi-fm/episodes/gigi-fm-4th-november-2026"
   },
   {
    "d": "2026-11-04T20:38:21Z",
@@ -33,143 +165,10 @@
    "sp": "Yotto: Odd One Out Radio ODD ONE OUT #106",
    "t": "ODD ONE OUT #106",
    "u": "https://podtoo.com/@oddoneoutradio/6ae91963c161a92d3a02d80f"
-  },
-  {
-   "d": "2026-11-04T14:49:56Z",
-   "g": "Podcasts",
-   "s": "Nialler9 Podcast",
-   "sid": "nialler9",
-   "sp": "Nialler9 Podcast What is the Sound Of Belfast?",
-   "t": "What is the Sound Of Belfast?",
-   "u": "https://nialler9.podbean.com/e/what-is-the-sound-of-belfast/"
-  },
-  {
-   "d": "2026-11-04T12:29:49Z",
-   "g": "Podcasts",
-   "s": "RA Exchange",
-   "sid": "ra-exchange",
-   "sp": "RA Exchange EX.817 Chase & Status",
-   "t": "EX.817 Chase & Status",
-   "u": "https://shows.acast.com/raexchange/episodes/ex817-chase-status"
-  },
-  {
-   "d": "2026-11-04T12:26:54Z",
-   "g": "Mixes",
-   "s": "RA Podcast",
-   "sid": "ra-podcast",
-   "t": "EX.817 Chase & Status",
-   "u": "https://soundcloud.com/resident-advisor/ex-817-chase-status"
-  },
-  {
-   "d": "2026-11-04T11:01:42Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "Elori Saxl Has Better Taste Than I Do",
-   "u": "https://firstfloor.substack.com/p/elori-saxl-has-better-taste-than"
-  },
-  {
-   "d": "2026-11-04T08:02:47Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Modern Mandolin Quartet",
-   "u": "https://www.flowstate.fm/p/modern-mandolin-quartet"
-  },
-  {
-   "d": "2026-11-04T07:00:28Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "First 10 Australian songs inducted into the National Songbook after ‘very robust’ judging",
-   "u": "https://www.theguardian.com/music/2026/nov/04/first-10-australian-songs-inducted-into-national-songbook"
-  },
-  {
-   "d": "2026-11-04T07:00:00Z",
-   "g": "Podcasts",
-   "s": "Transmissions (Aquarium Drunkard)",
-   "sid": "transmissions",
-   "sp": "Transmissions (Aquarium Drunkard) Transmissions :: Derrick Bang on Vince Guaraldi",
-   "t": "Transmissions :: Derrick Bang on Vince Guaraldi",
-   "u": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/transmissions-derrick-bang-on-vince-guaraldi"
-  },
-  {
-   "d": "2026-11-04T06:00:00Z",
-   "g": "Podcasts",
-   "s": "Sound Opinions",
-   "sid": "sound-opinions",
-   "sp": "Sound Opinions A Jazz Giant's Supreme Achievement",
-   "t": "A Jazz Giant's Supreme Achievement",
-   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/43c7a2c7-9ce6-4d8f-bfd4-84fa917eb0f2.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-11-04T05:03:00Z",
-   "g": "Writing",
-   "s": "Pitchfork: Best New Albums",
-   "sid": "pitchfork-bna",
-   "t": "On Tha Run",
-   "u": "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/"
-  },
-  {
-   "d": "2026-11-04T04:23:15Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "An Incomplete Guide to Tlaotlon: New Zealand’s Forgotten 2010s Abstract Techno Legend",
-   "u": "https://mixmag.net.au/feature/an-incomplete-guide-to-tlaotlon-new-zealands-forgotten-2010s-abstract-techno-legend"
-  },
-  {
-   "d": "2026-11-04T04:00:00Z",
-   "g": "Bass",
-   "s": "Music Not Diving with Scuba",
-   "sid": "music-not-diving",
-   "sp": "Music Not Diving with Scuba #59 KiNK on playing live, ghost production, and the Bulgarian raves of the 90s",
-   "t": "#59 KiNK on playing live, ghost production, and the Bulgarian raves of the 90s",
-   "u": "https://shows.acast.com/not-a-diving-podcast-with-scuba/episodes/59-kink-on-playing-live-ghost-production-and-the-bulgarian-r"
-  },
-  {
-   "d": "2026-11-04T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Best Field Recordings on Bandcamp, October 2026",
-   "u": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-october-2026"
-  },
-  {
-   "d": "2026-11-04T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Prog Is A State of Mind #4",
-   "u": "https://daily.bandcamp.com/prog-state-mind/prog-is-a-state-of-mind-4"
-  },
-  {
-   "d": "2026-11-04T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Anna Webber, “it’s easier to imagine the end of the world…”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/anna-webber-its-easier-to-imagine-the-end-of-the-world-review"
-  },
-  {
-   "d": "2026-11-04T00:00:00Z",
-   "g": "Radio",
-   "s": "Bandcamp Radio",
-   "sid": "bandcamp-radio",
-   "t": "Bandcamp Electronic: Jamz Supernova",
-   "u": "https://bandcamp.com/radio/bandcamp-electronic/1022"
-  },
-  {
-   "d": "2026-11-04T00:00:00Z",
-   "g": "Progressive",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "Lemon: Live from Balance Croatia 2026",
-   "u": "https://soundcloud.com/balance-series/lemon-live-from-balance"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 353,
+ "newCount": 367,
  "paused": 20,
  "releases": [
   {
@@ -242,5 +241,5 @@
   }
  ],
  "sources": 179,
- "updated": "2026-11-05T21:30:07Z"
+ "updated": "2026-11-06T00:20:46Z"
 }

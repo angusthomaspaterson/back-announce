@@ -3,6 +3,16 @@
  "id": "coldwired",
  "items": [
   {
+   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-November2026ptII.mp3",
+   "date": "2026-11-05T06:23:01Z",
+   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
+   "duration": "1:30:04",
+   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-November2026ptII.mp3",
+   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-November2026ptII.jpg",
+   "title": "November 2026 Selection pt II (featuring Basil O'Glue, Nomas, Calantha, CLOSE PROXIMITY, Sasha, Dosem, Pig and Dan, Anthony Pappa, Barry Gilbey, Moshic, Hernan Cattaneo, Kevin Di Serna, Max Wexem, Julian Nates, ANUQRAM, Paul James Nolan, Funk D'Void, Mika Olson, F R A N F E S, Naarly, Alléa, Mike Kohl, Bereznitsky, Pablo Appe, Gorge, Swanborn x Modolour, Ritmo Fatale, Critical Choice, Eris Soundworks)",
+   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-November2026ptII.mp3"
+  },
+  {
    "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-EscapeSessions036.mp3",
    "date": "2026-11-01T07:13:01Z",
    "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
@@ -241,19 +251,9 @@
    "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-TDJsTranceJune2026.jpg",
    "title": "Twitch DJs Trance Raid Train: June 2026 (Live Stream 21/06/26)",
    "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-TDJsTranceJune2026.mp3"
-  },
-  {
-   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-FreshFromTheVaultVol4.mp3",
-   "date": "2026-06-25T06:18:01Z",
-   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
-   "duration": "1:33:13",
-   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-FreshFromTheVaultVol4.mp3",
-   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-FreshFromTheVaultVol4.jpg",
-   "title": "'Fresh from the Vault' Vol. 4 (90s/00s Trance)",
-   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-FreshFromTheVaultVol4.mp3"
   }
  ],
  "kind": "rss",
  "name": "Coldwired Podcast (Nick Clark)",
- "updatedAt": "2026-11-01T22:52:27Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

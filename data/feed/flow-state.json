@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-05T08:02:44Z",
+   "desc": "Today we’re listening to Nisennenmondai, a Japanese band from Tokyo.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-nisennenmondai",
+   "image": "https://substackcdn.com/image/fetch/$s_!toTc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67c55ead-ed74-4c56-a172-ae3d2d3f9a31_800x530.jpeg",
+   "title": "Nisennenmondai",
+   "url": "https://www.flowstate.fm/p/nisennenmondai"
+  },
+  {
+   "audio": null,
    "date": "2026-11-04T08:02:47Z",
    "desc": "Today we’re listening to the Modern Mandolin Quartet, a quartet founded in San Francisco in 1985.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!uFQA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97985619-0be7-4cce-86c6-ba029bc6bbec_1200x1186.jpeg",
    "title": "Cousin",
    "url": "https://www.flowstate.fm/p/cousin"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-08T07:02:53Z",
-   "desc": "Today we’re listening to Heathered Pearls, a Polish electronic musician based in Brooklyn.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-heathered-pearls-interview",
-   "image": "https://substackcdn.com/image/fetch/$s_!cPn2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F112058e6-d723-4851-839a-0fd7cbf9c8a5_800x1200.jpeg",
-   "title": "Heathered Pearls (Interview)",
-   "url": "https://www.flowstate.fm/p/heathered-pearls-interview"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

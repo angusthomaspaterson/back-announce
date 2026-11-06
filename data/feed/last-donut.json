@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-05T17:44:05Z",
+   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+   "duration": null,
+   "id": "6aeb95e8ad91190001beba82",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/11/29_09_2026_0191.jpg",
+   "title": "John Talabot on His New Alias OR, Surviving the Pandemic, and Building Something Real",
+   "url": "https://last-donut-of-the-night.ghost.io/john-talabot-on-his-new-alias-or-surviving-the-pandemic-and-building-something-real/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-29T13:25:13Z",
    "desc": "Hello! This is a very brief but nonetheless official message to my readers and subscribers to let them know that the newsletter is going on a week-long hiatus—specifically, from today through next Wednesday, November 4. I'll be returning next Thursday with your regularly scheduled programming,",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/TheTallestManOnEarth_AntonCorbijn_07_HiRes.jpg",
    "title": "The Tallest Man on Earth on Grief, Breakups, and Leaning into Aging",
    "url": "https://last-donut-of-the-night.ghost.io/the-tallest-man-on-earth-on-grief-breakups-and-leaning-into-aging/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-08T17:57:18Z",
-   "desc": "",
-   "duration": null,
-   "id": "6ac67211c4e27900018bd53a",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/ajsuede.jpg",
-   "title": "Baker's Dozen: Willie Nelson, Chief Keef, Slayyyter",
-   "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-willie-nelson-chief-keef-slayyyter/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-10-29T23:19:37Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

@@ -3,6 +3,16 @@
  "id": "nts-gigi-fm",
  "items": [
   {
+   "date": "2026-11-04T22:00:00Z",
+   "desc": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. From the host: \"This month GiGi FM welcomes Philippa Pacho for a deep, hypnotic and dub-tinged journey through the mind. From the Scorpio New Moon to the Gemini Full Moon, we explore what lies beneath our certainties and everything that becomes invisible when we stop questioning what we see.\"",
+   "id": "gigi-fm-4th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/e6e0b6f3-738c-4d08-a551-3d2911c3d7c2_1779840000.jpeg",
+   "location": "Berlin",
+   "tags": "Dub Techno, Techno",
+   "title": "GiGi FM presents Philippa Pacho",
+   "url": "https://www.nts.live/shows/gigi-fm/episodes/gigi-fm-4th-november-2026"
+  },
+  {
    "date": "2026-10-07T21:00:00Z",
    "desc": "From the host:'GiGi FM welcomes Majdolen with a deeply introspective journey through sound, silence, memory and stillness. As Venus retrograde in Scorpio brings the past back into the present, Majdolen moves between death and hope, weight and lightness, creating space to reflect, remember and grieve.'",
    "id": "gigi-fm-7th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Drum & Bass, Electronica, Ambient",
    "title": "GiGi FM presents Prieste5s",
    "url": "https://www.nts.live/shows/gigi-fm/episodes/gigi-fm-3rd-december-2025"
-  },
-  {
-   "date": "2025-11-05T22:00:00Z",
-   "desc": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. From the host: _\"This month, GiGi FM welcomes Brussels-based artist Camila Rodhes ~ blending cinema, photography and sound into hypnotic, trippy techno. Her mix moves like November’s sky ~ fire meeting earth, freedom grounding into form, a journey through shadow and shimmer.\"_",
-   "id": "gigi-fm-5th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/62b06287-c3b2-4c06-a9c9-ae9f6b2f5aaa_1762300800.png",
-   "location": "Berlin",
-   "tags": "Techno",
-   "title": "GiGi FM presents Camila Rodhes",
-   "url": "https://www.nts.live/shows/gigi-fm/episodes/gigi-fm-5th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "GiGi FM",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

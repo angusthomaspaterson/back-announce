@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-05T00:00:00Z",
+   "desc": "Stream a selection of tracks from releases we listened to during the making of our December 2026 issue The full chart: Casserley/Marzan/Van Schouwburg/Wachsmann Being ( Bead ) Alvin Curran Conducts Iato Orchestra Roman Ruins ( We Insist! ) FuzzyToyShip Maiden Voyage ( ato.archives ) Germ Lattice Gipping Through The Ages ( Horn Of Plenty ) Gordan Gastarbeiter ( Glitterbeat ) Agnes Haus Eidolon ( Line ) Salamat Ali Khan Metamusik Festival Berlin 74 Vol II ( Black Truffle ) Moose Wrench Mr Sidequest ( Bandcamp ) Robert Mitchell & Corey Mwamba In The Blood ( Discus ) Mona Mur Trio Les Chansons Br…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-tracks-office-ambience-514",
+   "image": "https://www.thewire.co.uk/img/contain/614/480/2026/11/05/SARAH_DAVACHI_THE_WIRE5_CMYK_copy.jpg",
+   "title": "Office Ambience 514",
+   "url": "https://www.thewire.co.uk/audio/tracks/office-ambience-514"
+  },
+  {
+   "audio": null,
    "date": "2026-11-02T00:00:00Z",
    "desc": "The Detroit techno producer has died aged 64. In July 1997 Mike Shallcross interviewed Atkins for the cover story of The Wire 161. We have now made that article free to read in the magazine’s online library. From Detroit to Deep Space: Juan Atkins interviewed by Mike Shallcross, The Wire 161, July 1997",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/18/aism_17_september.jpg",
    "title": "Emily Bick presents  Adventures In Sound And Music",
    "url": "https://www.thewire.co.uk/audio/on-air/emily-bick-presents-adventures-in-sound-and-music-79531"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-17T00:00:00Z",
-   "desc": "Cuban drummer Francisco Mela’s free jazz odyssey continues on four new releases, writes Daniel Spicer in The Wire 512 Francisco Mela Carnaval De Oriente 577 CD/DL Jowee Omicil & Francisco Mela OM BasH! Village DL Rafael Zaldivar Zaldivar/McBride/Mela: Meeting In New York Vol 1 577 DL Matthew Putman/Hill Greene/Francisco Mela Bright Sun Outside 577 CD/DL Cuban drummer Francisco Mela’s route into the mysteries of free jazz has been a circuitous one. He started out as a teenager working in the bands of Latin jazz pianists and fellow countrymen Emiliano Salvador and Gabriel Hernandez before movin…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-in-writing-essays-omnivorous-exuberance-francisco-mela-reviewed",
-   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/17/3_Francisco_Mela_photo_credit_Luke_Marantz_copy.jpg",
-   "title": "\"Omnivorous exuberance\": Francisco Mela reviewed",
-   "url": "https://www.thewire.co.uk/in-writing/essays/omnivorous-exuberance-francisco-mela-reviewed"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-11-03T23:59:56Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }

@@ -3,6 +3,16 @@
  "id": "nts-motor-system",
  "items": [
   {
+   "date": "2026-11-05T00:00:00Z",
+   "desc": "Lee Gamble in his ‘Motor System’ moniker bringing you the sound of his forward facing, club ready DJ sets exploring contemporary dance floor-mechanics. Expect futuristic club bangers..",
+   "id": "motor-system-5th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/288deb5b-280a-4f52-a5ae-219218f28594_1793836800.jpeg",
+   "location": "",
+   "tags": "Techno",
+   "title": "Motor System",
+   "url": "https://www.nts.live/shows/motor-system/episodes/motor-system-5th-november-2026"
+  },
+  {
    "date": "2026-09-09T23:00:00Z",
    "desc": "Lee Gamble in his ‘Motor System’ moniker bringing you the sound of his forward facing, club ready DJ sets exploring contemporary dance floor-mechanics. Expect futuristic club bangers..",
    "id": "motor-system-10th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Techno, Leftfield Techno",
    "title": "Motor System",
    "url": "https://www.nts.live/shows/motor-system/episodes/motor-system-25th-november-2024"
-  },
-  {
-   "date": "2024-09-30T20:00:00Z",
-   "desc": "Lee Gamble in his ‘Motor System’ moniker bringing you the sound of his forward facing, club ready DJ sets exploring contemporary dance floor-mechanics. Expect futuristic club bangers..",
-   "id": "motor-system-30th-september-2024",
-   "image": "https://media.ntslive.co.uk/resize/400x400/19923e0f-b119-4542-a14b-f1de3f257f83_1727654400.jpeg",
-   "location": "",
-   "tags": "Techno, Club",
-   "title": "Motor System",
-   "url": "https://www.nts.live/shows/motor-system/episodes/motor-system-30th-september-2024"
   }
  ],
  "kind": "nts",
  "name": "Motor System",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-11-06T00:20:46Z"
 }
