@@ -147,6 +147,12 @@ class ParseAbc(unittest.TestCase):
         self.assertEqual(it["audio"], "https://mediacore-live-production.akamaized.net/audio/02/pv/Z/9v.aac")
         self.assertTrue(it["desc"].startswith("Doof is the home of Australian electronic music on triple j. Available until 29 Nov. "))
         self.assertIn("Tracklist: Logic1000 feat. KUČKA – All In For You;", it["desc"])
+        self.assertIsNone(it["image"])   # only the triple j logo on this page
+
+    def test_logo_only_episode_gets_the_show_artwork(self):
+        pages = {self.DOOF["home"]: fixture("abc-program-mix-up.html").replace(b"/triplej/programs/mix-up/", b"/triplej/programs/doof/")}
+        items = gather.do_abc(self.DOOF, lambda url: pages.get(url) or fixture("abc-episode-doof.html"))
+        self.assertTrue(items[0]["image"].startswith("https://live-production.wcms.abc-cdn.net.au/"))
 
     def test_do_abc_fetches_program_then_episodes(self):
         pages = {self.MIXUP["home"]: fixture("abc-program-mix-up.html")}

@@ -252,6 +252,13 @@ def parse_abc_program(page, src):
     return ["https://www.abc.net.au" + p for p in list(dict.fromkeys(links))[:ABC_EPISODES]]
 
 
+def abc_image(page):
+    """A page's own picture, or None when it only has the station's logo (core-assets)."""
+    og = re.search(r'property="og:image" content="([^"]+)"', page)
+    url = html.unescape(og.group(1)) if og else None
+    return None if not url or "/core-assets/" in url else url
+
+
 def parse_abc_episode(page, src):
     """One ABC episode page: its audio file, dates, synopsis and tracklist.
 
@@ -281,10 +288,9 @@ def parse_abc_episode(page, src):
         desc += " Tracklist: " + "; ".join(f"{t.get('artist', '')} – {t.get('title', '')}".strip(" –") for t in tracks)
     audio = [r for r in dp.get("renditions") or [] if (r.get("MIMEType") or "").startswith("audio/")]
     audio.sort(key=lambda r: r.get("MIMEType") != "audio/mpeg")
-    og = re.search(r'property="og:image" content="([^"]+)"', page)
     secs = dp.get("duration")
     return item(dp.get("id") or dp.get("canonicalURL"), title, dp.get("canonicalURL"), date, desc,
-                {"audio": audio[0]["url"] if audio else None, "image": html.unescape(og.group(1)) if og else None,
+                {"audio": audio[0]["url"] if audio else None, "image": abc_image(page),
                  "duration": str(secs) if secs else None, "until": until})
 
 
@@ -447,7 +453,10 @@ def do_bbc(src, fetcher):
 def do_abc(src, fetcher):
     """Read each listed episode; skip pages that won't parse or carry no audio (a collection,
     an interview clip or an old article in the list)."""
-    urls = parse_abc_program(fetcher(src["home"]), src)
+    program = fetcher(src["home"])
+    urls = parse_abc_program(program, src)
+    # Episodes without a picture of their own get the show's artwork instead of the logo.
+    show_img = abc_image(program.decode("utf-8", "ignore") if isinstance(program, bytes) else program)
     out, err = [], None
     for u in urls:
         try:
@@ -456,6 +465,7 @@ def do_abc(src, fetcher):
             err = e
             continue
         if it.get("audio"):
+            it["image"] = it.get("image") or show_img
             out.append(it)
         else:
             err = ValueError(f"no audio on {u}")
