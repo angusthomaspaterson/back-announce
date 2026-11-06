@@ -1,0 +1,53 @@
+{
+ "home": "https://www.abc.net.au/listen/programs/the-block-party",
+ "id": "doublej-the-block-party",
+ "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/kt.aac",
+   "date": "2026-11-06T08:00:00Z",
+   "desc": "Join Hau Latukefu for a massive hip hop fueled party to help you roll into the weekend in style. Available until 4 Dec. Tracklist: BrothaBlack – Are You With me Out There?; Foreign Heights feat. N'fa, BrothaBlack and Sereck – Get Yours (remix); 1200 Techniques – Where Ur At (Original Full Length Version); A-Love – Petty; KillaQueenz feat. Vida-Sunshyne and Candy – Woman Run Things (remix_; Astronomy Class – Woman Wants to Drink; Resin Dogs feat. Lazy Grey – Re-Fizzla; Muph – Tape In a Green Case; Porsah Laine feat. Layla – Dumb Dumb; Chasm feat. Diafrix – Let the Beat Go; Baker Boy feat. KIAN…",
+   "duration": "7200",
+   "id": "107305322",
+   "image": "https://www.abc.net.au/core-assets/listen/abc-listen.png?imformat=generic",
+   "title": "The Block Party, 6 Nov",
+   "until": "2026-12-04T08:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107305322"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pv/Z/81.aac",
+   "date": "2026-10-30T08:00:00Z",
+   "desc": "Join Hau Latukefu for a massive hip hop fueled party to help you roll into the weekend in style. Available until 27 Nov. Tracklist: Stahhr – U Like It; Bahamadia feat. Rah Digga – Be OK; Roots Manuva – Bashment Boogie; Headhunters – God Make Me Funky; Funky Four + 1 – That's the Joint (Long version); James Brown – Time Is Running Out Fast; Kurtis Blow – Christmas Rap; Cameo – It's Serious; The Streets – Weak Become Heroes (Ashley Beedle's Love Bug Vocal); Amp Fiddler – Superficial; Musique – In the Bush; Chicago – Street Player; The Sequence – Simon Says; Sade – Hang On To Your Love; Joan Arm…",
+   "duration": "7200",
+   "id": "107279712",
+   "image": "https://www.abc.net.au/core-assets/listen/abc-listen.png?imformat=generic",
+   "title": "The Block Party, 30 Oct",
+   "until": "2026-11-27T08:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107279712"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/po/Z/7i.aac",
+   "date": "2026-10-23T08:00:00Z",
+   "desc": "Grab your telescopes, grab your beat machines... We're taking it back to the wonderous sounds of our very own Astronomy Class. The trio, then turning into a quartette, released a few albums and those albums were always packwed with grooves, intelligent rhymes and global sounds. Available until 20 Nov. Tracklist: Al B. Sure! – Nite and Day; Juicy – Sugar Free; Loose Ends – Hangin' On a String (Contemplating); Midnight Star – Curious; Cherrelle and Alexander O'Neil – Saturday Love; Guy – I Like; Jody Watley – Looking For a New Love; Wa Wa Nee – Stimulation (12\" mix); Prince – The Ballad of Doro…",
+   "duration": "7200",
+   "id": "107252006",
+   "image": "https://live-production.wcms.abc-cdn.net.au/413c5f2d3e4623ae006fac24a78a1ff8?impolicy=wcms_watermark_abc&cropH=1045&cropW=1858&xPos=0&yPos=568&width=862&height=485&imformat=generic",
+   "title": "The Block Party : Astronomy Class",
+   "until": "2026-11-20T08:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107252006"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/r5.aac",
+   "date": "2026-10-16T08:00:00Z",
+   "desc": "We take it back to the golden era of modern day R&B this week - I'm talking late '90s / early 2000s. The era of dancefloor fillers and slow jam killers. We spin some Next, some Jaheim, Brownstone and heaps more. Available until 13 Nov. Tracklist: Next – Too Close; Next – Wifey; Koffee Brown feat. B12 – Weekend Thing; Jaheim – Just In Case; Nivea – Don't Mess With the Radio; Zhane – Sending My Love; Busta Rhymes – Party is Goin' On Over Here; Missy Elliott – On & On; MC Lyte – Ruffneck; Ms. Jade feat. Nelly Furtado and Timbaland – Ching Ching; Rah Digga feat. Eve and Sonja Blade – Do the Ladie…",
+   "duration": "7200",
+   "id": "107225522",
+   "image": "https://live-production.wcms.abc-cdn.net.au/c3f974ff0e7d97b29fc3fd39fae765d0?impolicy=wcms_watermark_abc&cropH=312&cropW=554&xPos=0&yPos=16&width=862&height=485&imformat=generic",
+   "title": "The Block Party : Next",
+   "until": "2026-11-13T08:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107225522"
+  }
+ ],
+ "kind": "abc",
+ "name": "The Block Party with Hau Latukefu",
+ "updatedAt": "2026-11-06T11:14:15Z"
+}

@@ -9,6 +9,31 @@
    "u": "https://www.rinse.fm/episodes/hodge-06-11-2026-2100"
   },
   {
+   "d": "2026-11-06T10:00:00Z",
+   "g": "Podcasts",
+   "s": "Popcast (New York Times)",
+   "sid": "popcast",
+   "sp": "Popcast (New York Times) Dominic Fike on ‘Babydoll,’ Public Breakups, Fatherhood & Sobriety",
+   "t": "Dominic Fike on ‘Babydoll,’ Public Breakups, Fatherhood & Sobriety",
+   "u": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+  },
+  {
+   "d": "2026-11-06T08:03:01Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "t": "Vainqueur",
+   "u": "https://www.flowstate.fm/p/vainqueur"
+  },
+  {
+   "d": "2026-11-06T08:00:00Z",
+   "g": "Double J",
+   "s": "The Block Party with Hau Latukefu",
+   "sid": "doublej-the-block-party",
+   "t": "The Block Party, 6 Nov",
+   "u": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107305322"
+  },
+  {
    "d": "2026-11-06T06:00:00Z",
    "g": "Podcasts",
    "s": "Sound Opinions",
@@ -50,6 +75,14 @@
    "u": "https://mixmag.net.au/read/southwave-returns-to-meanjin-with-eight-free-parties-across-summer-news"
   },
   {
+   "d": "2026-11-05T16:43:01Z",
+   "g": "Writing",
+   "s": "Crack Magazine",
+   "sid": "crack-magazine",
+   "t": "Download the live set of Hiroko Yamamura’s new track Weight of It",
+   "u": "https://crackmagazine.net/2026/11/download-hiroko-yamamura-weight-of-it/?utm_source=rss&utm_medium=rss&utm_campaign=download-hiroko-yamamura-weight-of-it"
+  },
+  {
    "d": "2026-11-05T16:06:56Z",
    "g": "Progressive",
    "s": "The Anjunadeep Edition",
@@ -73,6 +106,14 @@
    "sid": "first-floor",
    "t": "First Floor recommendations, 5 Nov: 1 record",
    "u": "https://firstfloor.substack.com/p/first-floor-335-grief-is-not-enough"
+  },
+  {
+   "d": "2026-11-05T10:19:30Z",
+   "g": "Writing",
+   "s": "Crack Magazine",
+   "sid": "crack-magazine",
+   "t": "Joshua Bullen appointed as Designer In Residence at A COLD WALL",
+   "u": "https://crackmagazine.net/2026/11/joshua-bullen-appointed-designer-in-residence-a-cold-wall/?utm_source=rss&utm_medium=rss&utm_campaign=joshua-bullen-appointed-designer-in-residence-a-cold-wall"
   },
   {
    "d": "2026-11-05T10:00:00Z",
@@ -123,51 +164,10 @@
    "sp": "RTRFM: No Skips No Skips with Adalita",
    "t": "No Skips with Adalita",
    "u": "https://rtrfm.com.au/podcasts/no-skips/no-skips-with-adalita/"
-  },
-  {
-   "d": "2026-11-05T00:24:22Z",
-   "g": "Progressive",
-   "s": "Anjunadeep releases",
-   "sid": "anjunadeep-releases",
-   "sp": "Anyasa – Vihana EP",
-   "t": "Anyasa – Vihana EP",
-   "u": "https://anjunadeep.com/products/636874-vihana-ep"
-  },
-  {
-   "d": "2026-11-05T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Best Metal on Bandcamp, October 2026",
-   "u": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-october-2026"
-  },
-  {
-   "d": "2026-11-05T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Best Contemporary Classical Music on Bandcamp, October 2026",
-   "u": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-october-2026"
-  },
-  {
-   "d": "2026-11-05T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "The Best Country Music on Bandcamp, October 2026",
-   "u": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-october-2026"
-  },
-  {
-   "d": "2026-11-05T00:00:00Z",
-   "g": "Writing",
-   "s": "Bandcamp Daily",
-   "sid": "bandcamp-daily",
-   "t": "Shygirl, “SWALLOW!”",
-   "u": "https://daily.bandcamp.com/album-of-the-day/shygirl-swallow-review"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 433,
+ "newCount": 450,
  "paused": 20,
  "releases": [
   {
@@ -239,6 +239,6 @@
    "u": "https://daily.bandcamp.com/features/chyna-baejing-interview"
   }
  ],
- "sources": 190,
- "updated": "2026-11-06T07:23:44Z"
+ "sources": 193,
+ "updated": "2026-11-06T11:14:15Z"
 }

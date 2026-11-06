@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-06T08:03:01Z",
+   "desc": "Today we’re listening to Vainqueur, a German electronic musician.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-vainqueur",
+   "image": "https://substackcdn.com/image/fetch/$s_!3PWA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe8f8951-9f3b-40d0-8b9e-799bd1abe9d0_1025x575.png",
+   "title": "Vainqueur",
+   "url": "https://www.flowstate.fm/p/vainqueur"
+  },
+  {
+   "audio": null,
    "date": "2026-11-05T08:02:44Z",
    "desc": "Today we’re listening to Nisennenmondai, a Japanese band from Tokyo.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!eArz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F798a0f01-46a0-4c1f-818d-727afe82c68a_2214x1346.png",
    "title": "Windy & Carl",
    "url": "https://www.flowstate.fm/p/windy-and-carl-aa5"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-09T07:04:48Z",
-   "desc": "It’s Friday so we’re listening to something more upbeat.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-cousin",
-   "image": "https://substackcdn.com/image/fetch/$s_!uFQA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97985619-0be7-4cce-86c6-ba029bc6bbec_1200x1186.jpeg",
-   "title": "Cousin",
-   "url": "https://www.flowstate.fm/p/cousin"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-06T11:14:15Z"
 }

@@ -3,6 +3,16 @@
  "id": "popcast",
  "items": [
   {
+   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/587f79b5-b0c3-44d2-b50f-85b9cbfbcd85/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=587f79b5-b0c3-44d2-b50f-85b9cbfbcd85&feed=TzbxCT1l",
+   "date": "2026-11-06T10:00:00Z",
+   "desc": "Dominic Fike sat down with Joe and Jon to chat about his new album, “How To Quit Smoking,” as well as the recent success of his 2018 song “Babydoll,” which reached No. 10 on the Billboard Hot 100 — his biggest song to date. He also spoke about (sometimes happily) wrestling with fame’s temptations, letting go of some of his youthful impulses, and his urge to return to a form of music-making that reminded him of how he started out. Subscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes…",
+   "duration": "01:04:21",
+   "id": "94f2ec64-83a7-4361-8ad5-e7fbc5cc0165",
+   "image": "https://image.simplecastcdn.com/images/b570f4e2-2ec9-4f50-90e8-55519f0f2550/39feb56f-b088-4108-af12-f7ff6b413e62/3000x3000/cropped_1791476779087.jpg?aid=rss_feed",
+   "title": "Dominic Fike on ‘Babydoll,’ Public Breakups, Fatherhood & Sobriety",
+   "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+  },
+  {
    "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/6151a796-b464-4fae-96c8-5adf90d56582/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=6151a796-b464-4fae-96c8-5adf90d56582&feed=TzbxCT1l",
    "date": "2026-10-30T09:00:00Z",
    "desc": "Ahead of his new album “Fresh,” out Nov. 6, the Atlanta rap superstar Lil Baby sat down with Joe and Jon to chat about the project — including his recent Pharrell-produced single “Dead Fresh” — and how it marks a new chapter for him as he expands from his regular circle of local producers and dips into the broader pop universe. He also spoke about relationships with Lil Durk, Drake and Gunna; how fame and success can shrink your world; the plights of his generational peers; and learning to work outside of his comfort zone. Popcast is The New York Times’s weekly pop culture chat show, with int…",
@@ -25,5 +35,5 @@
  ],
  "kind": "rss",
  "name": "Popcast (New York Times)",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-06T11:14:15Z"
 }
