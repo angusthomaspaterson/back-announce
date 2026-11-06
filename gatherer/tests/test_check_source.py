@@ -40,6 +40,8 @@ PAGES = {
     "https://www.bbc.co.uk/programmes/m00332wf.json": "bbc-programme-m00332wf.json",
     "https://www.bbc.co.uk/programmes/b006wkfp.json": "bbc-programme-b006wkfp.json",
     "https://rms.api.bbc.co.uk/v2/programmes/playable?container=b006wkfp": "bbc-rms-b006wkfp.json",
+    "https://www.abc.net.au/triplej/programs/mix-up/": "abc-episode-mix-up-piezo.html",
+    "https://www.abc.net.au/triplej/programs/mix-up": "abc-program-mix-up.html",
 }
 
 
@@ -93,6 +95,16 @@ class Check(unittest.TestCase):
         dup = cs.check("https://www.bbc.co.uk/sounds/play/m00332wf", [{"id": "bbc-em", "kind": "bbc", "pid": "b006wkfp", "name": "EM"}], fake, NOW)
         self.assertEqual(dup["duplicate"]["id"], "bbc-em")
         self.assertFalse(cs.check("https://www.bbc.co.uk/sounds/brand/nope", EXISTING, fake, NOW)["ok"])
+
+    def test_abc_program_and_episode_links(self):
+        for url in ("https://www.abc.net.au/triplej/programs/mix-up", "https://www.abc.net.au/triplej/programs/mix-up/piezo-djset-2026/107313774"):
+            r = self.ok(url)
+            self.assertEqual(r["source"]["kind"], "abc")
+            self.assertEqual(r["source"]["home"], "https://www.abc.net.au/triplej/programs/mix-up")
+            self.assertEqual(r["source"]["name"], "Mix Up with Kailyn Crabbe (triple j)")
+            self.assertTrue(r["items"][0]["audio"].endswith(".mp3"))
+        dup = cs.check("https://www.abc.net.au/triplej/programs/mix-up/", [{"id": "mu", "kind": "abc", "home": "https://www.abc.net.au/triplej/programs/mix-up", "name": "Mix Up"}], fake, NOW)
+        self.assertEqual(dup["duplicate"]["id"], "mu")
 
     def test_rinse_show_and_episode_links(self):
         for url in ("https://www.rinse.fm/shows/papaoul", "https://rinse.fm/episodes/papaoul-06-10-2026-1000"):

@@ -11,6 +11,8 @@ SOURCE KINDS
   nts       {"id","name","kind":"nts","slug","home"}        an NTS show, read from the public NTS API
   bbc       {"id","name","kind":"bbc","pid","home"}         a BBC radio programme (brand pid), read from the
                                                              BBC Sounds listing; playable in the UK only
+  abc       {"id","name","kind":"abc","home"}               a triple j or Double J program page; its latest
+                                                             episodes' own pages give the audio and tracklist
   rinse     {"id","name","kind":"rinse","slug","home"}      a Rinse FM show, read from its show page
   mixcloud  {"id","name","kind":"mixcloud","user","home"}   a Mixcloud account, read from api.mixcloud.com/<user>/cloudcasts/
   manual    {"id","name","kind":"manual","home"}            Bandcamp Daily and Bandcamp Radio, read from their home pages.
@@ -31,6 +33,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -237,6 +240,51 @@ def parse_bbc(data, src):
     return out
 
 
+ABC_EPISODES = 10
+
+
+def parse_abc_program(page, src):
+    """An ABC program page (triple j, Double J): the addresses of its latest episodes."""
+    if isinstance(page, bytes):
+        page = page.decode("utf-8", "ignore")
+    path = urllib.parse.urlsplit(src["home"]).path.rstrip("/")
+    links = re.findall(rf'href="({re.escape(path)}/[a-z0-9-]+/\d+)"', page)
+    return ["https://www.abc.net.au" + p for p in list(dict.fromkeys(links))[:ABC_EPISODES]]
+
+
+def parse_abc_episode(page, src):
+    """One ABC episode page: its audio file, dates, synopsis and tracklist.
+
+    The audio is a plain MP3 or AAC file, so the apps can play it. Episodes stay up
+    for about four weeks; each card says until when.
+    """
+    if isinstance(page, bytes):
+        page = page.decode("utf-8", "ignore")
+    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', page, re.S)
+    dp = json.loads(m.group(1))["props"]["pageProps"]["data"]["documentProps"]
+    date = parse_date(dp.get("availableFrom"))
+    title = (dp.get("title") or src["name"]).strip()
+    if date and title.lower() in src["name"].lower():
+        # Doof's episodes are all called "Doof"; give each its broadcast date (Perth).
+        perth = datetime.datetime.fromisoformat(date.replace("Z", "+00:00")) + datetime.timedelta(hours=8)
+        title = f"{title}, {day_month(perth)}"
+    desc = dp.get("synopsis") or ""
+    until = parse_date(dp.get("availableTo"))
+    if until:
+        perth = datetime.datetime.fromisoformat(until.replace("Z", "+00:00")) + datetime.timedelta(hours=8)
+        desc = f"{desc} Available until {day_month(perth)}.".strip()
+    tracks = ((dp.get("tracklistPrepared") or {}).get("items")) or []
+    if tracks:
+        desc += " Tracklist: " + "; ".join(f"{t.get('artist', '')} – {t.get('title', '')}".strip(" –") for t in tracks)
+    audio = [r for r in dp.get("renditions") or [] if (r.get("MIMEType") or "").startswith("audio/")]
+    audio.sort(key=lambda r: r.get("MIMEType") != "audio/mpeg")
+    og = re.search(r'property="og:image" content="([^"]+)"', page)
+    secs = dp.get("duration")
+    return item(dp.get("id") or dp.get("canonicalURL"), title, dp.get("canonicalURL"), date, desc,
+                {"audio": audio[0]["url"] if audio else None, "image": html.unescape(og.group(1)) if og else None,
+                 "duration": str(secs) if secs else None, "until": until})
+
+
 def parse_rinse(page, src):
     if isinstance(page, bytes):
         page = page.decode("utf-8", "ignore")
@@ -393,6 +441,10 @@ def do_bbc(src, fetcher):
                              f"{src['pid']}&sort=sequential&type=episode&limit={KEEP}"), src)
 
 
+def do_abc(src, fetcher):
+    return [parse_abc_episode(fetcher(u), src) for u in parse_abc_program(fetcher(src["home"]), src)]
+
+
 def do_rinse(src, fetcher):
     return parse_rinse(fetcher(f"https://www.rinse.fm/shows/{src['slug']}"), src)
 
@@ -421,7 +473,7 @@ def do_manual(src, fetcher):
     raise ValueError(f"no parser for manual source {home}")
 
 
-KINDS = {"rss": do_rss, "nts": do_nts, "bbc": do_bbc, "rinse": do_rinse, "mixcloud": do_mixcloud, "manual": do_manual}
+KINDS = {"rss": do_rss, "nts": do_nts, "bbc": do_bbc, "abc": do_abc, "rinse": do_rinse, "mixcloud": do_mixcloud, "manual": do_manual}
 
 
 # ---------- post-processing ----------

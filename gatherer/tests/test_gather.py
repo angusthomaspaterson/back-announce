@@ -120,6 +120,41 @@ class ParseBbc(unittest.TestCase):
         self.assertNotIn("audio", first)
 
 
+class ParseAbc(unittest.TestCase):
+    MIXUP = {"id": "triplej-mix-up", "name": "Mix Up (triple j)", "kind": "abc", "home": "https://www.abc.net.au/triplej/programs/mix-up"}
+    DOOF = {"id": "triplej-doof", "name": "Doof (triple j)", "kind": "abc", "home": "https://www.abc.net.au/triplej/programs/doof"}
+
+    def test_program_page_lists_episodes(self):
+        urls = gather.parse_abc_program(fixture("abc-program-mix-up.html"), self.MIXUP)
+        self.assertEqual(len(urls), 10)
+        self.assertEqual(urls[0], "https://www.abc.net.au/triplej/programs/mix-up/piezo-djset-2026/107313774")
+
+    def test_mix_episode(self):
+        it = gather.parse_abc_episode(fixture("abc-episode-mix-up-piezo.html"), self.MIXUP)
+        self.assertEqual(it["id"], "107313774")
+        self.assertEqual(it["title"], "Mix Up: Piezo")
+        self.assertEqual(it["date"], "2026-10-31T14:00:00Z")
+        self.assertEqual(it["until"], "2026-11-30T14:00:00Z")
+        self.assertEqual(it["audio"], "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/s7.mp3")
+        self.assertTrue(it["desc"].startswith("Milan’s Piezo serves up"))
+        self.assertIn("Available until 30 Nov.", it["desc"])
+        self.assertEqual(it["duration"], "3599")
+        self.assertTrue(it["image"].startswith("https://"))
+
+    def test_episode_with_tracklist_and_generic_title(self):
+        it = gather.parse_abc_episode(fixture("abc-episode-doof.html"), self.DOOF)
+        self.assertEqual(it["title"], "Doof, 30 Oct")   # every episode is called "Doof"
+        self.assertEqual(it["audio"], "https://mediacore-live-production.akamaized.net/audio/02/pv/Z/9v.aac")
+        self.assertIn("Tracklist: Logic1000 feat. KUČKA – All In For You;", it["desc"])
+
+    def test_do_abc_fetches_program_then_episodes(self):
+        pages = {self.MIXUP["home"]: fixture("abc-program-mix-up.html")}
+        def fetcher(url):
+            return pages.get(url) or fixture("abc-episode-mix-up-piezo.html")
+        items = gather.do_abc(self.MIXUP, fetcher)
+        self.assertEqual(len(items), 10)
+
+
 class ParseRinse(unittest.TestCase):
     def test_show_page(self):
         src = {"id": "rinse-papaoul", "name": "Papaoul", "kind": "rinse", "slug": "papaoul"}

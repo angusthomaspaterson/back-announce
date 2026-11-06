@@ -74,7 +74,7 @@ function renderChecking() {
 
 function guessGroup(src, groups) {
   const want = src.kind === 'nts' ? 'NTS' : src.kind === 'rinse' ? 'Rinse FM'
-    : src.kind === 'bbc' ? (groups.includes('BBC') ? 'BBC' : 'Radio')
+    : src.kind === 'bbc' ? (groups.includes('BBC') ? 'BBC' : 'Radio') : src.kind === 'abc' ? 'Radio'
     : /podcasts\.apple\.com/.test(src.home) ? 'Podcasts' : /soundcloud|mixcloud/.test(src.home + (src.url || '')) ? 'Mixes'
     : /substack/.test(src.url || '') ? 'Writing' : 'Writing';
   return groups.includes(want) ? want : groups[0];

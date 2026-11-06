@@ -10,7 +10,7 @@ export const addedLabel = a => a === 'start' ? 'Original pick' : BATCHES[a] ? 'A
 export const isDark = () => document.documentElement.dataset.theme === 'dark' || (document.documentElement.dataset.theme !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches);
 export const gcol = g => (isDark() && GROUP_COLOURS_DARK[g]) || GROUP_COLOURS[g] || GROUP_COLOURS.Other;
 export const initials = n => { const w = String(n || '').replace(/[^A-Za-z0-9 ]/g, ' ').trim().split(/\s+/).filter(Boolean); return (w.length > 1 ? w[0][0] + w[1][0] : String(n || '??').slice(0, 2)).toUpperCase(); };
-export const kindLabel = k => k === 'rss' ? 'Feed' : k === 'manual' ? 'Web page' : k === 'nts' ? 'NTS' : k === 'bbc' ? 'BBC Sounds' : k === 'rinse' ? 'Rinse FM' : k === 'mixcloud' ? 'Mixcloud' : (k || '');
+export const kindLabel = k => k === 'rss' ? 'Feed' : k === 'manual' ? 'Web page' : k === 'nts' ? 'NTS' : k === 'bbc' ? 'BBC Sounds' : k === 'abc' ? 'ABC' :k === 'rinse' ? 'Rinse FM' : k === 'mixcloud' ? 'Mixcloud' : (k || '');
 
 export const dfmt = new Intl.DateTimeFormat('en-AU', {timeZone: PERTH, weekday: 'short', day: 'numeric', month: 'short'});
 export const dkey = new Intl.DateTimeFormat('en-CA', {timeZone: PERTH, year: 'numeric', month: '2-digit', day: '2-digit'});
@@ -29,6 +29,9 @@ const APPS = [
   {host: /(^|\.)soundcloud\.com$/i, pkg: 'com.soundcloud.android'},
   {host: /(^|\.)mixcloud\.com$/i, pkg: 'com.mixcloud.player'},
   {host: /^open\.spotify\.com$/i, pkg: 'com.spotify.music'},
+  // BBC Sounds episodes. The app is named for bbc.co.uk in the BBC's own
+  // .well-known/assetlinks.json (checked 6 Nov 2026); other BBC pages stay in the browser.
+  {host: /^www\.bbc\.co\.uk$/i, path: /^\/sounds\//, pkg: 'com.bbc.sounds'},
   // Not Rinse FM: its app (fm.rinse.player) accepts no links from other apps, so Chrome only
   // bounced to the website (tested on the Pixel, 14 Oct 2026).
 ];
@@ -41,7 +44,7 @@ export function appIntent(href) {
   let u;
   try { u = new URL(href); } catch (e) { return null; }
   if (!/^https?:$/.test(u.protocol) || /^(api|feeds)\./i.test(u.hostname)) return null;
-  const app = APPS.find(a => a.host.test(u.hostname));
+  const app = APPS.find(a => a.host.test(u.hostname) && (!a.path || a.path.test(u.pathname)));
   if (!app) return null;
   return `intent://${u.host}${u.pathname}${u.search}#Intent;scheme=https;package=${app.pkg};S.browser_fallback_url=${encodeURIComponent(u.href)};end`;
 }

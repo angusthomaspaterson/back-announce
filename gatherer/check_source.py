@@ -138,6 +138,18 @@ def detect(url, fetcher):
         pid = prog.get("pid") or pid
         return {"kind": "bbc", "pid": pid, "home": f"https://www.bbc.co.uk/programmes/{pid}"}, prog.get("title") or pid, ""
 
+    if host == "abc.net.au" and len(parts) >= 3 and parts[1] == "programs":
+        # /triplej/programs/<slug> or one of its episodes: /triplej/programs/<slug>/<episode>/<id>
+        home = f"https://www.abc.net.au/{parts[0]}/programs/{parts[2]}"
+        page = text_of(fetcher(home))
+        if not gather.parse_abc_program(page, {"home": home}):
+            raise Refused("That ABC page doesn't list any episodes to follow.")
+        m = re.search(r'property="og:title" content="([^"]+)"', page)
+        station = {"triplej": "triple j", "doublej": "Double J"}.get(parts[0], parts[0])
+        name = html.unescape(m.group(1)).strip() if m else parts[2].replace("-", " ").title()
+        name = re.sub(r"\s+-\s+(triple j|Double J)$", "", name, flags=re.I)   # "Mix Up with Kailyn Crabbe - triple j"
+        return {"kind": "abc", "home": home}, f"{name} ({station})", ""
+
     if host == "rinse.fm":
         if len(parts) < 2 or parts[0] not in ("shows", "episodes"):
             raise Refused("That Rinse FM link isn't a show. Open the show's page on Rinse and share or copy that.")
@@ -223,6 +235,7 @@ def duplicate_of(src, sources):
         if s.get("kind") == src["kind"] and (
                 (src.get("slug") and s.get("slug") == src["slug"])
                 or (src.get("pid") and s.get("pid") == src["pid"])
+                or (src["kind"] == "abc" and norm(s.get("home")) == norm(src["home"]))
                 or (src.get("user") and (s.get("user") or "").lower() == src["user"].lower())
                 or (src.get("url") and norm(s.get("url")) == norm(src["url"]))):
             return s
