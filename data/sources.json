@@ -1705,6 +1705,30 @@
    "id": "triplej-country-club",
    "kind": "abc",
    "name": "Country Club with Outback Tom"
+  },
+  {
+   "added": "6 Nov",
+   "group": "Double J",
+   "home": "https://www.abc.net.au/listen/programs/take-5",
+   "id": "doublej-take-5",
+   "kind": "abc",
+   "name": "Take 5 with Zan Rowe"
+  },
+  {
+   "added": "6 Nov",
+   "group": "Double J",
+   "home": "https://www.abc.net.au/listen/programs/doublej-classic-albums",
+   "id": "doublej-classic-albums",
+   "kind": "abc",
+   "name": "Classic Albums with Caz Tran"
+  },
+  {
+   "added": "6 Nov",
+   "group": "Double J",
+   "home": "https://www.abc.net.au/listen/programs/the-block-party",
+   "id": "doublej-the-block-party",
+   "kind": "abc",
+   "name": "The Block Party with Hau Latukefu"
   }
  ]
 }
