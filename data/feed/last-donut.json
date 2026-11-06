@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-06T14:46:39Z",
+   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+   "duration": null,
+   "id": "6aecd6a034f78b00013811cd",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/11/Oso-Promos---August-26---Photo-by-Michael-Dubin-3-smaller.jpg",
+   "title": "Oso Oso on Getting Older, David Foster Wallace, and What's Worth Worshipping",
+   "url": "https://last-donut-of-the-night.ghost.io/oso-oso-on-getting-older-david-foster-wallace-and-whats-worth-worshipping/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-05T17:44:05Z",
    "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/2-claire-cronin-photo-courtesy-of-the-artist.jpg",
    "title": "Clare Cronin on Childbirth, Horror, and the End of the World",
    "url": "https://last-donut-of-the-night.ghost.io/clare-cronin-on-childbirth-horror-and-the-end-of-the-world/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-09T08:00:58Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6ac7e5f1290c1300011b0e63",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/TheTallestManOnEarth_AntonCorbijn_07_HiRes.jpg",
-   "title": "The Tallest Man on Earth on Grief, Breakups, and Leaning into Aging",
-   "url": "https://last-donut-of-the-night.ghost.io/the-tallest-man-on-earth-on-grief-breakups-and-leaning-into-aging/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }

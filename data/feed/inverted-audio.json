@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-06T17:09:48Z",
+   "desc": "Following the release of fka boursin – From Space Between (w/ Frank & Tony’s Housebeat Dub) on Scissor and Thread, and with his recent relocation from Continue Reading The post Inverted Audio In-Store: fka boursin (Scissor and Thread) appeared first on Inverted Audio .",
+   "duration": null,
+   "id": "https:--inverted-audio.com--p-95120",
+   "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+   "title": "Inverted Audio In-Store: fka boursin (Scissor and Thread)",
+   "url": "https://inverted-audio.com/fka-boursin-in-store/"
+  },
+  {
+   "audio": null,
    "date": "2026-10-28T17:13:01Z",
    "desc": "Following the release of his acclaimed album Barely Making Much and a series of self-released projects, Ugandan producer Masaka Masaka returns with XA on Creaked Records, Continue Reading The post Premiere: Masaka Masaka – Say appeared first on Inverted Audio .",
    "duration": null,
@@ -91,19 +101,9 @@
    "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
    "title": "Premiere: GuestWorlds – Canopy Interceptions",
    "url": "https://inverted-audio.com/premiere-guestworlds-canopy-interceptions/"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-11T14:41:15Z",
-   "desc": "Across its decade and a half existence, California’s 100% Silk has specialised in a potent brand of liquid house and after hours techno to prime the Continue Reading The post Premiere: Cport Cistema – pushpull appeared first on Inverted Audio .",
-   "duration": null,
-   "id": "https:--inverted-audio.com--p-94946",
-   "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
-   "title": "Premiere: Cport Cistema – pushpull",
-   "url": "https://inverted-audio.com/premiere-cport-cistema-pushpull/"
   }
  ],
  "kind": "rss",
  "name": "Inverted Audio",
- "updatedAt": "2026-10-28T23:15:31Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }

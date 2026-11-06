@@ -3,6 +3,16 @@
  "id": "nts-in-focus",
  "items": [
   {
+   "date": "2026-11-06T11:00:00Z",
+   "desc": "John Tavener (1944–2013) was a British composer known for his deeply spiritual and atmospheric music. Born in London, he studied at Highgate School and the Royal Academy of Music, emerging in the late 1960s with The Whale, an experimental composition released on The Beatles' Apple Records label. Although initially influenced by the avant-garde, his work became increasingly contemplative, drawing heavily on religious traditions following his conversion to Orthodox Christianity in 1977. Combining elements of classical composition, sacred choral music and minimalism, he developed a distinctive s…",
+   "id": "in-focus-john-taverner-6th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/61d02bab-c64f-48e6-b580-82dbeecae0c8_1793923200.jpeg",
+   "location": "London",
+   "tags": "Modern Classical, Choral Music, Minimalism",
+   "title": "In Focus: John Tavener",
+   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-john-taverner-6th-november-2026"
+  },
+  {
    "date": "2026-10-30T11:00:00Z",
    "desc": "A veteran of the globally connected avant-garde music scene, Hiromi Moritani aka Phew has been active since the late 1970s, when she was the vocalist of Osaka post-punk band Aunt Sally. Going solo in the 1980s, she began a prolific and highly collaborative career, working with Can, Jim O'Rourke, Boredoms, The Raincoats, Ryuichi Sakamoto and numerous other fellow travellers in boundary pushing music. Stylistically, her music features prominent improvisation, and aligns with post-punk, industrial, minimalism, noise and - in later years - electronic compositions. Compiled and mixed by Brian Cone…",
    "id": "in-focus-phew-30th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Pop, Soul, South African Jazz, Afrobeat",
    "title": "In Focus: Miriam Makeba",
    "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-miriam-makeba-21st-august-2026"
-  },
-  {
-   "date": "2026-08-14T10:00:00Z",
-   "desc": "Soon after he first emerged in the mid-’50s, pianist Cecil Taylor was the most advanced improviser in jazz; five decades later he is still the most radical. Although in his early days he used some standards as vehicles for improvisation, since the early ’60s Taylor has stuck exclusively to originals. To simplify describing his style, one could say that Taylor’s intense atonal percussive approach involves playing the piano as if it were a set of drums. He generally emphasizes dense clusters of sound played with remarkable technique and endurance, often during marathon performances. Suffice it …",
-   "id": "in-focus-cecil-taylor-14th-august-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/ca532b14-0e37-4b78-9303-7d363679e808_1786492800.jpeg",
-   "location": "Los Angeles",
-   "tags": "Free Jazz",
-   "title": "In Focus: Cecil Taylor",
-   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-cecil-taylor-14th-august-2026"
   }
  ],
  "kind": "nts",
  "name": "NTS In Focus",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }

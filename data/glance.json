@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "d": "2026-11-06T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Future Dance with Sarah Story",
+   "sid": "bbc-radio-1s-future-dance-with-sarah-story",
+   "t": "06/11/2026",
+   "u": "https://www.bbc.co.uk/sounds/play/m00338rt"
+  },
+  {
+   "d": "2026-11-06T21:11:13Z",
+   "g": "Progressive",
+   "s": "Above & Beyond: Group Therapy",
+   "sid": "group-therapy",
+   "t": "Group Therapy 702 with Above & Beyond and SQU4RE",
+   "u": "https://www.mixcloud.com/aboveandbeyond/group-therapy-702-with-above-beyond-and-squ4re/"
+  },
+  {
    "d": "2026-11-06T21:00:00Z",
    "g": "Rinse FM",
    "s": "Hodge",
@@ -9,12 +25,36 @@
    "u": "https://www.rinse.fm/episodes/hodge-06-11-2026-2100"
   },
   {
+   "d": "2026-11-06T17:09:48Z",
+   "g": "Writing",
+   "s": "Inverted Audio",
+   "sid": "inverted-audio",
+   "t": "Inverted Audio In-Store: fka boursin (Scissor and Thread)",
+   "u": "https://inverted-audio.com/fka-boursin-in-store/"
+  },
+  {
    "d": "2026-11-06T16:58:30Z",
    "g": "Writing",
    "s": "Tone Glow",
    "sid": "tone-glow",
    "t": "Tone Glow 244: Brian Leeds (Loidis, Huerco S., Pendant)",
    "u": "https://toneglow.substack.com/p/tone-glow-244-brian-leeds-loidis"
+  },
+  {
+   "d": "2026-11-06T16:00:49Z",
+   "g": "Progressive",
+   "s": "John Digweed: Transitions",
+   "sid": "transitions",
+   "t": "Transitions with John Digweed and Dave Seaman",
+   "u": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-dave-seaman/"
+  },
+  {
+   "d": "2026-11-06T14:11:50Z",
+   "g": "Radio",
+   "s": "Soulection Radio",
+   "sid": "soulection",
+   "t": "Show #752 | Dub, Reggae, Soulful House, & Afro-Fusion",
+   "u": "https://soundcloud.com/soulection/show-752"
   },
   {
    "d": "2026-11-06T12:08:26Z",
@@ -40,6 +80,31 @@
    "sp": "BBC Music Introducing Mixtape (6 Music) With a new Track of the Week from The Healing Power of Horses",
    "t": "With a new Track of the Week from The Healing Power of Horses",
    "u": "http://www.bbc.co.uk/programmes/p0plg0wx"
+  },
+  {
+   "d": "2026-11-06T11:00:00Z",
+   "g": "Podcasts",
+   "s": "Indiecast",
+   "sid": "indiecast",
+   "sp": "Indiecast New Music From Twisted Teens, Atlas Sound, Oso Oso and Kings Of Leon, Plus A Sufjan Stevens Christmas LP",
+   "t": "New Music From Twisted Teens, Atlas Sound, Oso Oso and Kings Of Leon, Plus A Sufjan Stevens Christmas LP",
+   "u": "https://rss.art19.com/episodes/95206f11-ec25-4db1-89d9-88b126233f52.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
+   "d": "2026-11-06T11:00:00Z",
+   "g": "NTS",
+   "s": "NTS In Focus",
+   "sid": "nts-in-focus",
+   "t": "In Focus: John Tavener",
+   "u": "https://www.nts.live/shows/in-focus/episodes/in-focus-john-taverner-6th-november-2026"
+  },
+  {
+   "d": "2026-11-06T11:00:00Z",
+   "g": "triple j",
+   "s": "Doof with Latifa Tee",
+   "sid": "triplej-doof",
+   "t": "Doof, 6 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/doof/doof/107332484"
   },
   {
    "d": "2026-11-06T10:00:00Z",
@@ -98,75 +163,10 @@
    "sid": "triplej-friday-mix",
    "t": "Friday Mix: Will Sparks",
    "u": "https://www.abc.net.au/triplej/programs/friday-mix/willsparks-djset-2026/107345664"
-  },
-  {
-   "d": "2026-11-06T01:00:00Z",
-   "g": "BBC",
-   "s": "The Residency on Radio 1 Dance",
-   "sid": "bbc-the-residency-on-radio-1-dance",
-   "t": "Effy - Nostalgia",
-   "u": "https://www.bbc.co.uk/sounds/play/m00338x2"
-  },
-  {
-   "d": "2026-11-06T00:00:00Z",
-   "g": "Progressive",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "Balance Selections 391: Greta Meier",
-   "u": "https://soundcloud.com/balance-series/balance-selections-greta-meier"
-  },
-  {
-   "d": "2026-11-05T23:00:00Z",
-   "g": "BBC",
-   "s": "BBC Introducing on Radio 1 Dance",
-   "sid": "bbc-introducing-on-radio-1-dance",
-   "t": "with Jaguar: Sam Girling Dancefloor Moment",
-   "u": "https://www.bbc.co.uk/sounds/play/m00338x0"
-  },
-  {
-   "d": "2026-11-05T22:33:00Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "Southwave returns to Meanjin with eight free parties across Summer",
-   "u": "https://mixmag.net.au/read/southwave-returns-to-meanjin-with-eight-free-parties-across-summer-news"
-  },
-  {
-   "d": "2026-11-05T16:43:01Z",
-   "g": "Writing",
-   "s": "Crack Magazine",
-   "sid": "crack-magazine",
-   "t": "Download the live set of Hiroko Yamamura’s new track Weight of It",
-   "u": "https://crackmagazine.net/2026/11/download-hiroko-yamamura-weight-of-it/?utm_source=rss&utm_medium=rss&utm_campaign=download-hiroko-yamamura-weight-of-it"
-  },
-  {
-   "d": "2026-11-05T16:06:56Z",
-   "g": "Progressive",
-   "s": "The Anjunadeep Edition",
-   "sid": "anjunadeep-edition",
-   "t": "The Anjunadeep Edition 618 with pølaroit",
-   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-618-with-p%C3%B8laroit/"
-  },
-  {
-   "d": "2026-11-05T15:43:00Z",
-   "g": "Progressive",
-   "s": "Joris Voorn: Spectrum Radio",
-   "sid": "spectrum-radio",
-   "sp": "Joris Voorn: Spectrum Radio Spectrum Radio 497",
-   "t": "Spectrum Radio 497",
-   "u": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-497"
-  },
-  {
-   "d": "2026-11-05T12:15:12Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 5 Nov: 1 record",
-   "u": "https://firstfloor.substack.com/p/first-floor-335-grief-is-not-enough"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 541,
+ "newCount": 554,
  "paused": 20,
  "releases": [
   {
@@ -245,5 +245,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-06T21:30:06Z"
+ "updated": "2026-11-06T23:44:12Z"
 }

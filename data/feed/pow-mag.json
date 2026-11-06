@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-06T17:52:34Z",
+   "desc": "The ascendant New York underground icon breaks down his spending.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-pocket-watching-fatboi-sharif",
+   "image": "https://substackcdn.com/image/fetch/$s_!uvNu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b273339-9918-4896-bb38-39747344bb8a_1200x1200.png",
+   "title": "Pocket Watching with Fatboi Sharif",
+   "url": "https://www.powmag.net/p/pocket-watching-fatboi-sharif"
+  },
+  {
+   "audio": null,
    "date": "2026-11-04T16:37:24Z",
    "desc": "zayALLCAPS explains how he’s become a buzzing artist while holding down a day job—and how he became a great transition defender.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!OcU2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a040e6a-77a6-4ae1-a780-515834b72f3d_1200x1200.png",
    "title": "SEXFACES Across the Great Evergreen State",
    "url": "https://www.powmag.net/p/sexfaces-across-the-great-evergreen-state"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-13T19:31:22Z",
-   "desc": "Customer Service is a weekly feature to help you cut through the digital weeds and find the music you want.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-serengeti-boxer-driver",
-   "image": "https://substackcdn.com/image/fetch/$s_!3YxF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfd4fd79-0c8a-4e0f-9285-c01b6b445b62_1200x1200.png",
-   "title": "The New Album You Need to Hear This Week",
-   "url": "https://www.powmag.net/p/serengeti-boxer-driver"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }

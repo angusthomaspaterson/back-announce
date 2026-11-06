@@ -3,6 +3,14 @@
  "id": "rinse-pariah",
  "items": [
   {
+   "date": "2026-11-05T21:00:00Z",
+   "desc": "",
+   "id": "pariah-05-11-2026-2100",
+   "image": "https://image.rinse.fm/_/Pariah-Kasia-Zacharko-8-Arthur-Cayzer.jpg?w=1200&h=630",
+   "title": "Pariah, 5 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/pariah-05-11-2026-2100"
+  },
+  {
    "date": "2026-10-01T21:00:00Z",
    "desc": "",
    "id": "pariah-01-10-2026-2200",
@@ -179,14 +187,6 @@
    "url": "https://www.rinse.fm/episodes/pariah-presents-voam-10-10-2024-2000"
   },
   {
-   "date": "2024-09-12T19:00:00Z",
-   "desc": "",
-   "id": "pariah-presents-voam-12-09-2024-2000",
-   "image": "https://image.rinse.fm/_/Pariah-Kasia-Zacharko-8-Arthur-Cayzer.jpg?w=1200&h=630",
-   "title": "Pariah, 12 Sep 2024",
-   "url": "https://www.rinse.fm/episodes/pariah-presents-voam-12-09-2024-2000"
-  },
-  {
    "date": null,
    "desc": "",
    "id": "pariah-presents-voam-13-03-2025-2000-2-2",
@@ -205,5 +205,5 @@
  ],
  "kind": "rinse",
  "name": "Pariah",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }

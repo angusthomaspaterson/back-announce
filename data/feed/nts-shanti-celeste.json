@@ -3,6 +3,16 @@
  "id": "nts-shanti-celeste",
  "items": [
   {
+   "date": "2026-11-05T13:00:00Z",
+   "desc": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
+   "id": "shanticeleste-5th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/41a9f2a9-4bc9-4a6b-b715-db2da3bffc50_1683849600.jpeg",
+   "location": "London",
+   "tags": "Deep House, House",
+   "title": "Shanti Celeste w/ Zouzibabe",
+   "url": "https://www.nts.live/shows/shanticeleste/episodes/shanticeleste-5th-november-2026"
+  },
+  {
    "date": "2026-10-08T12:00:00Z",
    "desc": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
    "id": "shanticeleste-8th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Deep House, House",
    "title": "Shanti Celeste w/ Benny",
    "url": "https://www.nts.live/shows/shanticeleste/episodes/shanticeleste-6th-november-2025"
-  },
-  {
-   "date": "2025-10-09T12:00:00Z",
-   "desc": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
-   "id": "shanticeleste-9th-october-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/760cb14f-49ce-4c65-83ad-3e5a49e60235_1759968000.jpeg",
-   "location": "London",
-   "tags": "Deep House, House, Tech House",
-   "title": "Shanti Celeste - Live at Bassiani/Horoom",
-   "url": "https://www.nts.live/shows/shanticeleste/episodes/shanticeleste-9th-october-2025"
   }
  ],
  "kind": "nts",
  "name": "Shanti Celeste",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }

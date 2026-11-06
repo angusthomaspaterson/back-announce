@@ -3,6 +3,16 @@
  "id": "soulection",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2433365265-soulection-show-752.mp3",
+   "date": "2026-11-06T14:11:50Z",
+   "desc": "Joe explores dub, reggae, house, and Afro-fusion. → Stay connected with us: https://soulection.com →Tracklist: https://radio.soulection.com → Discover: @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
+   "duration": "02:01:58",
+   "id": "tag:soundcloud-2010:tracks-2433365265",
+   "image": "https://i1.sndcdn.com/artworks-Ept89XA7hMWTPNmI-VVXZbQ-t3000x3000.jpg",
+   "title": "Show #752 | Dub, Reggae, Soulful House, & Afro-Fusion",
+   "url": "https://soundcloud.com/soulection/show-752"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2429477649-soulection-show-751.mp3",
    "date": "2026-10-30T20:27:45Z",
    "desc": "Joe digs into early future beats, new cuts, and classics. → Stay connected with us: https://soulection.com →Tracklist: https://radio.soulection.com → Discover: @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-zymCVMJmYuy731Sa-g6ZZ4Q-t3000x3000.png",
    "title": "Show #728 (Thee Sacred Souls Takeover) | (Soul, Classics, & Hidden Gems)",
    "url": "https://soundcloud.com/soulection/show-728-thee-sacred-souls"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2312503463-soulection-show-727-sango-takeover.mp3",
-   "date": "2026-05-01T07:01:37Z",
-   "desc": "→ Stay connected with us: https://soulection.com → Watch Visual Set: https://soulection.lnk.to/727SangoTakeover →Tracklist: https://radio.soulection.com → Discover: @sangobeats @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
-   "duration": "02:17:26",
-   "id": "tag:soundcloud-2010:tracks-2312503463",
-   "image": "https://i1.sndcdn.com/artworks-y7MTu9dgOn3HuBoX-4P3Nyw-t3000x3000.png",
-   "title": "Show #727 (Sango Takeover) | (R&B, Unreleased, & Rap)",
-   "url": "https://soundcloud.com/soulection/show-727-sango-takeover"
   }
  ],
  "kind": "rss",
  "name": "Soulection Radio",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }

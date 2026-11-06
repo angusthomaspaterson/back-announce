@@ -3,6 +3,15 @@
  "id": "bandcamp-radio",
  "items": [
   {
+   "date": "2026-11-06T00:00:00Z",
+   "desc": "Grutle Kjellson from Enslaved talks about collaborating with Sámi joiker Johan Sara Jr. and Blackfeet Nation elder Kevin Kicking Woman on the band's stunning new album, 'Mið.' Hosted by Brad Sanders . Featuring Enslaved .",
+   "id": "radio-the-metal-show-1015",
+   "image": "https://f4.bcbits.com/img/0048231989_170.jpg",
+   "tags": "The Metal Show",
+   "title": "The Metal Show: Enslaved",
+   "url": "https://bandcamp.com/radio/the-metal-show/1015"
+  },
+  {
    "date": "2026-11-04T00:00:00Z",
    "desc": "Jamz Supernova joins Emily to celebrate her first album 'Dance Around The World', released on the legendary Mr Bongo label featuring Jus Now, Catu Diosis, EveHive and more. Elsewhere there's a Juan Atkins tribute and Emily plays some of her picks from WOMEX festival. Hosted by Emily Dust . Featuring Jamz Supernova , and Woodhands.",
    "id": "radio-bandcamp-electronic-1022",
@@ -172,18 +181,9 @@
    "tags": "Bandcamp Electronic",
    "title": "Bandcamp Electronic: The Last Skeptik",
    "url": "https://bandcamp.com/radio/bandcamp-electronic/1002"
-  },
-  {
-   "date": "2026-09-21T00:00:00Z",
-   "desc": "Selects' new host Tina Edwards invites Leeds group Orchestra Mambo International to celebrate their debut album Hosted by Tina Edwards . Featuring Orchestra Mambo International .",
-   "id": "radio-bandcamp-selects-994",
-   "image": "https://f4.bcbits.com/img/0046932558_170.jpg",
-   "tags": "Bandcamp Selects",
-   "title": "Bandcamp Selects: Orchestra Mambo International",
-   "url": "https://bandcamp.com/radio/bandcamp-selects/994"
   }
  ],
  "kind": "manual",
  "name": "Bandcamp Radio",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }

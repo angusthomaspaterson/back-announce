@@ -3,6 +3,16 @@
  "id": "indiecast",
  "items": [
   {
+   "audio": "https://rss.art19.com/episodes/95206f11-ec25-4db1-89d9-88b126233f52.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+   "date": "2026-11-06T11:00:00Z",
+   "desc": "Steven and Ian start with a quick Politics-cast and whether we can achieve the perfect formula of woke (0:58) before talking about a new song by Atlas Sound (8:03) and a new Sufjan Stevens Christmas album (15:00). After checking in with the Fantasy Album Draft (23:33) they talk about new albums by Twisted Teens, Oso Oso, and Kings Of Leon (30:10), followed by Recommendation Corner (52:37). See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+   "duration": "00:57:48",
+   "id": "gid:--art19-episode-locator-V0-mj9IuLmyg-vGI_CTG3WdJ1RX8IO2kgslwPbfwMpjbQM",
+   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
+   "title": "New Music From Twisted Teens, Atlas Sound, Oso Oso and Kings Of Leon, Plus A Sufjan Stevens Christmas LP",
+   "url": "https://rss.art19.com/episodes/95206f11-ec25-4db1-89d9-88b126233f52.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
    "audio": "https://rss.art19.com/episodes/c0e538fb-4471-4ba2-9f08-2981cc8d96ff.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
    "date": "2026-10-30T08:00:00Z",
    "desc": "Steven and Ian open with a quick Sportscast about the Milwaukee Brewers winning the World Series (0:43) before talking about Turnstile playing a huge free benefit concert in Washington D.C. (6:20). Then they talk about Rolling Stone's recent list of the 200 greatest rock songs of the 21st century (10:56). After a quick Fantasy Albums Draft update (32:49), they discuss new albums out today by DIIV, Clinic and 2nd Grade (35:57) before a deeper conversation about Queens Of The Stone Age and their new album \"Perfecth\" (44:00). In Recommendation Corner, they discuss albums by Loidis and Rainbow Bo…",
@@ -241,19 +251,9 @@
    "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
    "title": "New Albums By Kurt Vile and Guided By Voices, the Return of Wild Pink, and \"Indie Rock\" Electronic Albums",
    "url": "https://rss.art19.com/episodes/9606953f-b85e-4ff9-9685-1f0d8bfc5e45.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "audio": "https://rss.art19.com/episodes/dc983890-8519-4722-a544-c2d4cbce6bfa.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-   "date": "2026-05-22T10:00:00Z",
-   "desc": "The guys start by talking about the newly announced anniversary tour for \"Mellon Collie and the Infinite Sadness,\" with Steven quizzing Ian on how many times \"We Only Come Out At Night\" has been played live (2:43). They then talk about Car Seat Headrest re-recording their 2016 indie classic \"Teens Of Denial,\" for dubious reasons (10:50). Then they review the week's new releases, including new albums by Bleachers, Ed O'Brien of Radiohead and Future Islands (24:24). After that, they discuss a recent \"Greatest Punk Albums\" list, giving their own takes on the choices (38:01). In Recommendation Co…",
-   "duration": "00:57:05",
-   "id": "gid:--art19-episode-locator-V0-XMIK5Tuy1cn9URd0NmTvadgBq56_eaBkLIZTndNqZ-A",
-   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
-   "title": "Car Seat Headrest Re-Records \"Teens Of Denial,\" Ed O'Brien Goes Solo (Again), and We Assess a \"Greatest Punk Albums\" List",
-   "url": "https://rss.art19.com/episodes/dc983890-8519-4722-a544-c2d4cbce6bfa.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "kind": "rss",
  "name": "Indiecast",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-06T23:44:12Z"
 }
