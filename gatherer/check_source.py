@@ -145,10 +145,11 @@ def detect(url, fetcher):
         if not gather.parse_abc_program(page, {"home": home}):
             raise Refused("That ABC page doesn't list any episodes to follow.")
         m = re.search(r'property="og:title" content="([^"]+)"', page)
-        station = {"triplej": "triple j", "doublej": "Double J"}.get(parts[0], parts[0])
+        # Double J's programs live under /listen/programs/, which names no station.
+        station = {"triplej": "triple j", "doublej": "Double J"}.get(parts[0])
         name = html.unescape(m.group(1)).strip() if m else parts[2].replace("-", " ").title()
-        name = re.sub(r"\s+-\s+(triple j|Double J)$", "", name, flags=re.I)   # "Mix Up with Kailyn Crabbe - triple j"
-        return {"kind": "abc", "home": home}, f"{name} ({station})", ""
+        name = re.sub(r"\s+-\s+(triple j|Double J|ABC listen)$", "", name, flags=re.I)   # "Mix Up with Kailyn Crabbe - triple j"
+        return {"kind": "abc", "home": home}, f"{name} ({station})" if station else name, ""
 
     if host == "rinse.fm":
         if len(parts) < 2 or parts[0] not in ("shows", "episodes"):
