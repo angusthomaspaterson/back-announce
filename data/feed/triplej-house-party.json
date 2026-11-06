@@ -3,6 +3,17 @@
  "id": "triplej-house-party",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/lf.aac",
+   "date": "2026-11-06T07:00:00Z",
+   "desc": "A true blue dinky di all Australian Dance Mega-mix to kick off Aus Music Month. You ripper!! Available until 6 Dec. Tracklist: Shantan Wantan Ichiban – Aus Dance Music Mix; FISHER – Losing It; Justice – Flower In A Hurricane [Ft. Tame Impala, SZA, King Gizzard, The Lizard Wizard]; Tobiahs & VV-Ace – Where You Really Come From; Shantan Wantan Ichiban – House Party Mix #2; PinkPantheress – Stateside [with Zara Larsson]; Srirachi – BBM; Shantan Wantan Ichiban – House Party Mix #3; Sampa The Great – Location; Nerve – SexyBack [triple j Like A Version 2026]; Brazen Brabie – Cut Sick [Ft. thatboykw…",
+   "duration": "14399",
+   "id": "107332574",
+   "image": "https://live-production.wcms.abc-cdn.net.au/a68d9943e6ed665670e0a028b7edb38d?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "House Party, 6 Nov",
+   "until": "2026-12-06T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107332574"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/pv/Z/tm.aac",
    "date": "2026-10-31T07:00:00Z",
    "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 30 Nov. Tracklist: Ellia Jaya – triple j Mix Up",
@@ -93,5 +104,5 @@
  ],
  "kind": "abc",
  "name": "House Party with Shantan Wantan Ichiban and Latifa Tee",
- "updatedAt": "2026-11-06T07:23:44Z"
+ "updatedAt": "2026-11-06T13:57:31Z"
 }

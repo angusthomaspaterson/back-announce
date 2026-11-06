@@ -3,6 +3,16 @@
  "id": "transitions",
  "items": [
   {
+   "date": "2026-11-06T12:00:42Z",
+   "desc": "",
+   "duration": "3528",
+   "id": "-johndigweed-compiled-mixed-046-",
+   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/f/7/3/e/b6fe-6ce7-4baf-a420-18d03c1cafc3",
+   "tags": "Electronica, Club, Breaks, Techno",
+   "title": "Compiled & Mixed 046",
+   "url": "https://www.mixcloud.com/johndigweed/compiled-mixed-046/"
+  },
+  {
    "date": "2026-10-30T16:00:36Z",
    "desc": "",
    "duration": "7177",
@@ -241,19 +251,9 @@
    "tags": "Techno, Deep Techno, Club, Underground",
    "title": "Transitions with John Digweed and Hammer",
    "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-hammer/"
-  },
-  {
-   "date": "2026-06-19T16:00:53Z",
-   "desc": "",
-   "duration": "6968",
-   "id": "-johndigweed-transitions-with-john-digweed-and-davi-_-",
-   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/8/b/8/9/f969-87b1-426e-a599-fac2ec274c28",
-   "tags": "Melodic techno, Progressive house, Deep Techno",
-   "title": "Transitions with John Digweed and DAVI",
-   "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-davi-_/"
   }
  ],
  "kind": "mixcloud",
  "name": "John Digweed: Transitions",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-06T13:57:31Z"
 }

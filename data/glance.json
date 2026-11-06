@@ -17,6 +17,23 @@
    "u": "https://futurismrestated.substack.com/p/fr-199-remembering-juan-atkins-the"
   },
   {
+   "d": "2026-11-06T12:00:42Z",
+   "g": "Progressive",
+   "s": "John Digweed: Transitions",
+   "sid": "transitions",
+   "t": "Compiled & Mixed 046",
+   "u": "https://www.mixcloud.com/johndigweed/compiled-mixed-046/"
+  },
+  {
+   "d": "2026-11-06T12:00:00Z",
+   "g": "Radio",
+   "s": "BBC Music Introducing Mixtape (6 Music)",
+   "sid": "bbc-introducing-mixtape",
+   "sp": "BBC Music Introducing Mixtape (6 Music) With a new Track of the Week from The Healing Power of Horses",
+   "t": "With a new Track of the Week from The Healing Power of Horses",
+   "u": "http://www.bbc.co.uk/programmes/p0plg0wx"
+  },
+  {
    "d": "2026-11-06T10:00:00Z",
    "g": "Podcasts",
    "s": "Popcast (New York Times)",
@@ -40,6 +57,14 @@
    "sid": "doublej-the-block-party",
    "t": "The Block Party, 6 Nov",
    "u": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107305322"
+  },
+  {
+   "d": "2026-11-06T07:00:00Z",
+   "g": "triple j",
+   "s": "House Party with Shantan Wantan Ichiban and Latifa Tee",
+   "sid": "triplej-house-party",
+   "t": "House Party, 6 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/house-party/house-party/107332574"
   },
   {
    "d": "2026-11-06T06:00:00Z",
@@ -138,35 +163,10 @@
    "sid": "crack-magazine",
    "t": "Joshua Bullen appointed as Designer In Residence at A COLD WALL",
    "u": "https://crackmagazine.net/2026/11/joshua-bullen-appointed-designer-in-residence-a-cold-wall/?utm_source=rss&utm_medium=rss&utm_campaign=joshua-bullen-appointed-designer-in-residence-a-cold-wall"
-  },
-  {
-   "d": "2026-11-05T10:00:00Z",
-   "g": "triple j",
-   "s": "Hip Hop Show with A.Girl",
-   "sid": "triplej-hip-hop-show",
-   "t": "Hip Hop Show, 5 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107330836"
-  },
-  {
-   "d": "2026-11-05T08:02:44Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Nisennenmondai",
-   "u": "https://www.flowstate.fm/p/nisennenmondai"
-  },
-  {
-   "d": "2026-11-05T08:00:00Z",
-   "g": "Radio",
-   "s": "KEXP: In Our Headphones",
-   "sid": "in-our-headphones",
-   "sp": "KEXP: In Our Headphones KEXP’s Dusty Henry on Kagid and Manila’s Incredible Music Scene",
-   "t": "KEXP’s Dusty Henry on Kagid and Manila’s Incredible Music Scene",
-   "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dusty-henry-on-kagid-and-manila-s-incredible-music-scene"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 538,
+ "newCount": 540,
  "paused": 20,
  "releases": [
   {
@@ -239,5 +239,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-06T13:57:16Z"
+ "updated": "2026-11-06T13:57:31Z"
 }

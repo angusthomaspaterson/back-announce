@@ -44,6 +44,16 @@
   },
   {
    "audio": null,
+   "date": "2026-10-26T00:00:00Z",
+   "desc": "Listen to the music we played to Sarah Davachi during her Invisible Jukebox interview in The Wire 514 Each month in the magazine we play an artist or group a series of tracks which they are asked to comment on – with no prior knowledge of what they are about to hear. In The Wire 514 it is the turn of composer, organist and theorist Sarah Davachi. Here you can listen to a mix of the tracks that Emily Bick played to Davachi during the interview, which is published in full in The Wire 514 . To find out what she said about them, subscribers can read the interview in our online magazine library he…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-tracks-invisible-jukebox-mix-sarah-davachi",
+   "image": "https://www.thewire.co.uk/img/contain/612/480/2026/11/06/SARAH_DAVACHI_THE_WIRE6_CMYK_copy.jpg",
+   "title": "Invisible Jukebox mix: Sarah Davachi",
+   "url": "https://www.thewire.co.uk/audio/tracks/invisible-jukebox-mix-sarah-davachi"
+  },
+  {
+   "audio": null,
    "date": "2026-10-22T00:00:00Z",
    "desc": "The 22 October edition of The Wire 's weekly radio show featured music by Joshua Burkett, Lisa Nanzaki, Wadada Leo Smith, Test Dept, Deficit & Letargy and more Tracklist Joshua Burkett “Lost Cat City (Excerpt 1)” From M/B/Too/4/T&/M ( Futura Resistenza ) Lisa Nanzaki “The Origin Of Violence That Has Lost Its Source” From [VA#46] – Source Unknown ( Camembert Electrique ) Radical Polish Arkestra “Union Mazurka” From Sielanka ( Tańce ) Felix Kubin “Die Kulturelle Revolution” From Antiphoneys: The Single Collection ( Suezan Studio ) Lý Trang “it was not dead, which is different” From Microhabitat…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/612/480/2026/09/21/ZeynepBulut_Image_2_Photo_Credit_Rachel_McCarthy_copy.jpg",
    "title": "Surfacing voices: an interview with voice theorist Zeynep Bulut",
    "url": "https://www.thewire.co.uk/in-writing/interviews/surfacing-voices-an-interview-with-voice-theorist-zeynep-bulut"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-17T00:00:00Z",
-   "desc": "The 17 September edition of The Wire 's weekly show on Resonance FM and Resonance Extra featured music by Mali Obamsawin, Jay Mitta, BBBBBBB, Pamela Z and more Tracklist Stefano Calderano & Giovanni Di Domenico “Parlésia” From Caperea ( Kolhaas ) Alvin Curran conducts Iato Orchestra “Roman Ruins (Radio Edit)” From Roman Ruins ( We Insist! ) Big Flowers x shemar “Becoming Tardigrade” From I love nature! ( PTP ) Mali Obamsawin “Malian” From Automatic ( Out Of Your Head ) Khmer Rouge “Take Me Across The Floor Tonight (In Dub)” From Endangered Species Vol 2 ( Dark Entries ) Bathroom “Jester Of Th…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-on-air-emily-bick-presents-adventures-in-sound-and-music-79531",
-   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/18/aism_17_september.jpg",
-   "title": "Emily Bick presents  Adventures In Sound And Music",
-   "url": "https://www.thewire.co.uk/audio/on-air/emily-bick-presents-adventures-in-sound-and-music-79531"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-06T13:57:31Z"
 }
