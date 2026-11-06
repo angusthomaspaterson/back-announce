@@ -264,7 +264,8 @@ def parse_abc_episode(page, src):
     dp = json.loads(m.group(1))["props"]["pageProps"]["data"]["documentProps"]
     date = parse_date(dp.get("availableFrom"))
     title = (dp.get("title") or src["name"]).strip()
-    if date and title.lower() in src["name"].lower():
+    same = lambda s: s.lower().replace("&", "and")  # noqa: E731  ("Home and Hosed" vs "Home & Hosed")
+    if date and same(title) in same(src["name"]):
         # Doof's episodes are all called "Doof"; give each its broadcast date (Perth).
         perth = datetime.datetime.fromisoformat(date.replace("Z", "+00:00")) + datetime.timedelta(hours=8)
         title = f"{title}, {day_month(perth)}"

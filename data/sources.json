@@ -1617,6 +1617,94 @@
    "kind": "nts",
    "name": "Alexander Nut",
    "slug": "alexander-nut"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/doof",
+   "id": "triplej-doof",
+   "kind": "abc",
+   "name": "Doof with Latifa Tee"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/mix-up",
+   "id": "triplej-mix-up",
+   "kind": "abc",
+   "name": "Mix Up with Kailyn Crabbe"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/friday-mix",
+   "id": "triplej-friday-mix",
+   "kind": "abc",
+   "name": "Friday Mix with Dave Woodhead and Kailyn Crabbe"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/home-and-hosed",
+   "id": "triplej-home-and-hosed",
+   "kind": "abc",
+   "name": "Home and Hosed with Anika Luna"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/house-party",
+   "id": "triplej-house-party",
+   "kind": "abc",
+   "name": "House Party with Shantan Wantan Ichiban and Latifa Tee"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/soul-ctrl",
+   "id": "triplej-soul-ctrl",
+   "kind": "abc",
+   "name": "soul ctrl with Tanya Bunter"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/hip-hop-show",
+   "id": "triplej-hip-hop-show",
+   "kind": "abc",
+   "name": "Hip Hop Show with A.Girl"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/blak-out",
+   "id": "triplej-blak-out",
+   "kind": "abc",
+   "name": "Blak Out with Nooky"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/prism",
+   "id": "triplej-prism",
+   "kind": "abc",
+   "name": "Prism with tiffi"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/core",
+   "id": "triplej-core",
+   "kind": "abc",
+   "name": "CORE with Jack Bergin"
+  },
+  {
+   "added": "6 Nov",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/country-club",
+   "id": "triplej-country-club",
+   "kind": "abc",
+   "name": "Country Club with Outback Tom"
   }
  ]
 }
