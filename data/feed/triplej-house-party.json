@@ -19,7 +19,7 @@
    "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 30 Nov. Tracklist: Ellia Jaya – triple j Mix Up",
    "duration": "14400",
    "id": "107307136",
-   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "image": "https://live-production.wcms.abc-cdn.net.au/a10effe92f6126e262696f57897564a1?impolicy=wcms_crop_resize&cropH=2250&cropW=3000&xPos=0&yPos=375&width=862&height=647&imformat=generic",
    "title": "House Party, 31 Oct",
    "until": "2026-11-30T07:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107307136"
@@ -41,7 +41,7 @@
    "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 23 Nov. Tracklist: Close Counters – triple j Mix Up",
    "duration": "14400",
    "id": "107281126",
-   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "image": "https://live-production.wcms.abc-cdn.net.au/a10effe92f6126e262696f57897564a1?impolicy=wcms_crop_resize&cropH=2250&cropW=3000&xPos=0&yPos=375&width=862&height=647&imformat=generic",
    "title": "House Party, 24 Oct",
    "until": "2026-11-23T07:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107281126"
@@ -63,7 +63,7 @@
    "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 16 Nov. Tracklist: Close Counters – triple j Mix Up",
    "duration": "14400",
    "id": "107253966",
-   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "image": "https://live-production.wcms.abc-cdn.net.au/a10effe92f6126e262696f57897564a1?impolicy=wcms_crop_resize&cropH=2250&cropW=3000&xPos=0&yPos=375&width=862&height=647&imformat=generic",
    "title": "House Party, 17 Oct",
    "until": "2026-11-16T07:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107253966"
@@ -85,7 +85,7 @@
    "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 9 Nov. Tracklist: Close Counters – triple j Mix Up",
    "duration": "14400",
    "id": "107227774",
-   "image": "https://www.abc.net.au/core-assets/triplej/abc-triplej.png?imformat=generic",
+   "image": "https://live-production.wcms.abc-cdn.net.au/a10effe92f6126e262696f57897564a1?impolicy=wcms_crop_resize&cropH=2250&cropW=3000&xPos=0&yPos=375&width=862&height=647&imformat=generic",
    "title": "House Party, 10 Oct",
    "until": "2026-11-09T07:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107227774"
@@ -104,5 +104,5 @@
  ],
  "kind": "abc",
  "name": "House Party with Shantan Wantan Ichiban and Latifa Tee",
- "updatedAt": "2026-11-06T13:57:31Z"
+ "updatedAt": "2026-11-06T14:07:18Z"
 }
