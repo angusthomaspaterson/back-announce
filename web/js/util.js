@@ -22,9 +22,9 @@ export const nowIso = () => new Date().toISOString().replace(/\.\d{3}Z$/, 'Z');
 export function rel(iso) { if (!dateOk(iso)) return ''; const diff = Date.now() - new Date(iso); const h = Math.round(diff / 36e5); if (h < 1) return 'just now'; if (h < 24) return h + 'h ago'; const dd = Math.round(h / 24); return dd + 'd ago'; }
 export function dur(s) { if (!s) return ''; s = String(s); if (/^\d+$/.test(s)) return Math.round(+s / 60) + ' min'; const p = s.split(':').map(Number); if (p.length === 3) return (p[0] * 60 + p[1]) + ' min'; if (p.length === 2) return p[0] + ' min'; return s; }
 
-// On Android, SoundCloud and Mixcloud links open in their apps. An intent: link names the
-// app's package (checked on the Play Store, 14 Oct 2026); if the app isn't installed,
-// Chrome opens the fallback web address instead.
+// On Android, links to these sites open in their apps. An intent: link names the app's
+// package (each checked on the Play Store); if the app isn't installed, Chrome opens the
+// fallback web address instead.
 const APPS = [
   {host: /(^|\.)soundcloud\.com$/i, pkg: 'com.soundcloud.android'},
   {host: /(^|\.)mixcloud\.com$/i, pkg: 'com.mixcloud.player'},
@@ -32,6 +32,14 @@ const APPS = [
   // BBC Sounds episodes. The app is named for bbc.co.uk in the BBC's own
   // .well-known/assetlinks.json (checked 6 Nov 2026); other BBC pages stay in the browser.
   {host: /^www\.bbc\.co\.uk$/i, path: /^\/sounds\//, pkg: 'com.bbc.sounds'},
+  // ABC listen (triple j, Double J): the app named in abc.net.au's assetlinks.json (7 Nov 2026).
+  // It handles /listen/ addresses; triple j episodes answer there too (the site redirects
+  // /listen/programs/<show>/<episode>/<id> to the triple j page), so rewrite to that.
+  {host: /^(www\.)?abc\.net\.au$/i, path: /^\/(triplej|doublej|listen)\/programs\//, pkg: 'com.thisisaim.abcradio',
+   rewrite: p => p.replace(/^\/(triplej|doublej)\/programs\//, '/listen/programs/')},
+  {host: /^(www\.)?nts\.live$/i, pkg: 'com.ntslive.ntsradio'},
+  {host: /^(www\.|m\.)?youtube\.com$|^youtu\.be$/i, pkg: 'com.google.android.youtube'},
+  {host: /^(www\.)?kexp\.org$/i, pkg: 'org.kexp.android'},
   // Not Rinse FM: its app (fm.rinse.player) accepts no links from other apps, so Chrome only
   // bounced to the website (tested on the Pixel, 14 Oct 2026).
 ];
@@ -46,7 +54,8 @@ export function appIntent(href) {
   if (!/^https?:$/.test(u.protocol) || /^(api|feeds)\./i.test(u.hostname)) return null;
   const app = APPS.find(a => a.host.test(u.hostname) && (!a.path || a.path.test(u.pathname)));
   if (!app) return null;
-  return `intent://${u.host}${u.pathname}${u.search}#Intent;scheme=https;package=${app.pkg};S.browser_fallback_url=${encodeURIComponent(u.href)};end`;
+  const path = app.rewrite ? app.rewrite(u.pathname) : u.pathname;
+  return `intent://${u.host}${path}${u.search}#Intent;scheme=https;package=${app.pkg};S.browser_fallback_url=${encodeURIComponent(u.href)};end`;
 }
 export const isAndroid = () => /Android/i.test(navigator.userAgent);
 

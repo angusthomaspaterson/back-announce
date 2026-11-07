@@ -191,7 +191,13 @@ const tests = {
     eq(appIntent('https://soundcloud.com/andrew-wowk/time-to-track?in=x'), 'intent://soundcloud.com/andrew-wowk/time-to-track?in=x#Intent;scheme=https;package=com.soundcloud.android;S.browser_fallback_url=https%3A%2F%2Fsoundcloud.com%2Fandrew-wowk%2Ftime-to-track%3Fin%3Dx;end', 'soundcloud');
     ok(appIntent('https://www.mixcloud.com/johndigweed/transitions-1154/').startsWith('intent://www.mixcloud.com/johndigweed/transitions-1154/#Intent;scheme=https;package=com.mixcloud.player;'), 'mixcloud');
     eq(appIntent('https://feeds.soundcloud.com/users/soundcloud:users:1/sounds.rss'), null, 'feed addresses stay as they are');
-    eq(appIntent('https://www.nts.live/shows/moxie'), null, 'other sites stay as they are');
+    ok(appIntent('https://www.nts.live/shows/moxie').startsWith('intent://www.nts.live/shows/moxie#Intent;scheme=https;package=com.ntslive.ntsradio;'), 'nts');
+    ok(appIntent('https://www.abc.net.au/triplej/programs/doof/doof/107305402').startsWith('intent://www.abc.net.au/listen/programs/doof/doof/107305402#Intent;scheme=https;package=com.thisisaim.abcradio;S.browser_fallback_url=https%3A%2F%2Fwww.abc.net.au%2Ftriplej%2F'), 'triple j opens ABC listen at its /listen/ address, falling back to the triple j page');
+    ok(appIntent('https://www.abc.net.au/listen/programs/take-5/x/1').includes('package=com.thisisaim.abcradio;'), 'double j');
+    eq(appIntent('https://www.abc.net.au/news/2026-11-07/story/1'), null, 'other ABC pages stay in the browser');
+    ok(appIntent('https://www.bbc.co.uk/sounds/play/m00332wf').includes('package=com.bbc.sounds;'), 'bbc sounds');
+    eq(appIntent('https://www.bbc.co.uk/programmes/b006wkfp'), null, 'other BBC pages stay in the browser');
+    eq(appIntent('https://crackmagazine.net/article/x'), null, 'other sites stay as they are');
     eq(appIntent('https://www.rinse.fm/'), null, 'rinse stays a web link: its app accepts no links');
     eq(appIntent('not a link'), null, 'junk');
     ok(appIntent('https://open.spotify.com/search/Song%20Exploder').startsWith('intent://open.spotify.com/search/Song%20Exploder#Intent;scheme=https;package=com.spotify.music;'), 'spotify');
