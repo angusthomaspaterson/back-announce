@@ -3,6 +3,16 @@
  "id": "nts-courtesy",
  "items": [
   {
+   "date": "2026-11-06T15:00:00Z",
+   "desc": "Regular techno, electro, and house missives from the Against Interpretation labelhead and powerhouse-club selector Courtesy…",
+   "id": "courtesy-6th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/8e03396c-a006-4c78-ab75-1a21c2bd699c_1793836800.jpeg",
+   "location": "Berlin",
+   "tags": "Electro, House, Tech House",
+   "title": "Courtesy",
+   "url": "https://www.nts.live/shows/courtesy/episodes/courtesy-6th-november-2026"
+  },
+  {
    "date": "2026-10-09T14:00:00Z",
    "desc": "Regular techno, electro, and house missives from the Against Interpretation labelhead and powerhouse-club selector Courtesy…",
    "id": "courtesy-9th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Electronica, Breaks, House",
    "title": "Courtesy",
    "url": "https://www.nts.live/shows/courtesy/episodes/courtesy-5th-december-2025"
-  },
-  {
-   "date": "2025-11-07T15:00:00Z",
-   "desc": "Regular techno, electro, and house missives from the Against Interpretation labelhead and powerhouse-club selector Courtesy…",
-   "id": "courtesy-7th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/a00e195c-ad56-44e3-9492-9162fa09a04f_1762473600.jpeg",
-   "location": "Berlin",
-   "tags": "Techno, House",
-   "title": "Courtesy",
-   "url": "https://www.nts.live/shows/courtesy/episodes/courtesy-7th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Courtesy",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }

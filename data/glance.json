@@ -1,6 +1,151 @@
 {
  "items": [
   {
+   "d": "2026-11-07T22:33:19Z",
+   "g": "Mixes",
+   "s": "Refuge Worldwide (selected shows)",
+   "sid": "refuge-worldwide",
+   "t": "Le Guess Who? 2026 - Chuck Roth - 06 Nov 2026",
+   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-chuck-roth"
+  },
+  {
+   "d": "2026-11-07T22:26:01Z",
+   "g": "Mixes",
+   "s": "Refuge Worldwide (selected shows)",
+   "sid": "refuge-worldwide",
+   "t": "Le Guess Who? 2026 - Baltic Rehearsals: Spāre & Roma Vjazemski - 06 Nov 2026",
+   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-sp-re-roma"
+  },
+  {
+   "d": "2026-11-07T22:10:48Z",
+   "g": "Mixes",
+   "s": "Refuge Worldwide (selected shows)",
+   "sid": "refuge-worldwide",
+   "t": "Le Guess Who? 2026 - Radio Hito - 06 Nov 2026",
+   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-radio-hito"
+  },
+  {
+   "d": "2026-11-07T22:07:59Z",
+   "g": "Mixes",
+   "s": "Refuge Worldwide (selected shows)",
+   "sid": "refuge-worldwide",
+   "t": "Le Guess Who? 2026 - Palestinian Sound Archive - 06 Nov 2026",
+   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-palestinian"
+  },
+  {
+   "d": "2026-11-07T22:00:11Z",
+   "g": "Mixes",
+   "s": "Refuge Worldwide (selected shows)",
+   "sid": "refuge-worldwide",
+   "t": "Le Guess Who? 2026 - FISK - 06 Nov 2026",
+   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-fisk-06-nov"
+  },
+  {
+   "d": "2026-11-07T18:00:00Z",
+   "g": "BBC",
+   "s": "Gilles Peterson on 6 Music",
+   "sid": "bbc-gilles-peterson",
+   "t": "A chat with Peven Everett, and Georgia Anne Muldrow in the studio",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033mgq"
+  },
+  {
+   "d": "2026-11-07T15:00:00Z",
+   "g": "BBC",
+   "s": "Jamz Supernova",
+   "sid": "bbc-jamz-supernova",
+   "t": "with Lenna Bahule",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033mgn"
+  },
+  {
+   "d": "2026-11-07T14:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up: KÄRLA",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/karla-djset-2026/107350114"
+  },
+  {
+   "d": "2026-11-07T13:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up: Morgan Seatree",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/morganseatree-djset-2026/107345674"
+  },
+  {
+   "d": "2026-11-07T12:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up: UNIIQU3",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/uniiqu3-djset-2026/107345672"
+  },
+  {
+   "d": "2026-11-07T11:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up Resident: IsGwan",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w1-djset-2026/107345668"
+  },
+  {
+   "d": "2026-11-07T09:15:26Z",
+   "g": "Bass",
+   "s": "FBi Sunset (club and bass)",
+   "sid": "fbi-sunset",
+   "sp": "FBi Sunset (club and bass) Sunset with Dot Zip - 2026-11-7",
+   "t": "Sunset with Dot Zip - 2026-11-7",
+   "u": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-11-7"
+  },
+  {
+   "d": "2026-11-07T07:00:00Z",
+   "g": "triple j",
+   "s": "House Party with Shantan Wantan Ichiban and Latifa Tee",
+   "sid": "triplej-house-party",
+   "t": "House Party, 7 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/house-party/house-party/107334326"
+  },
+  {
+   "d": "2026-11-07T02:00:40Z",
+   "g": "Perth",
+   "s": "RTRFM / RTR2 mixes",
+   "sid": "rtr2",
+   "t": "Airline Food's Coast 2 Coast Ep. 1 w/ Jack Seah",
+   "u": "https://soundcloud.com/rtrfm-92-1/airline-food-coast-to-coast-ep-1-jack-seah"
+  },
+  {
+   "d": "2026-11-07T02:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Essential Mix",
+   "sid": "bbc-radio-1s-essential-mix",
+   "t": "Armin van Buuren & Benwal at ADE (Gashouder)",
+   "u": "https://www.bbc.co.uk/sounds/play/m00338ry"
+  },
+  {
+   "d": "2026-11-07T01:00:00Z",
+   "g": "BBC",
+   "s": "6 Music's Rave Forever",
+   "sid": "bbc-6-musics-rave-forever",
+   "t": "The Art Of Remixing: Honey Dijon",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033fr9"
+  },
+  {
+   "d": "2026-11-07T00:00:00Z",
+   "g": "BBC",
+   "s": "Pete Tong",
+   "sid": "bbc-pete-tong",
+   "t": "Adam Beyer",
+   "u": "https://www.bbc.co.uk/sounds/play/m00338rw"
+  },
+  {
+   "d": "2026-11-06T23:00:00Z",
+   "g": "Bass",
+   "s": "Spaces In Between w/ Introspekt",
+   "sid": "nts-introspekt",
+   "t": "Spaces In Between w/ Introspekt",
+   "u": "https://www.nts.live/shows/introspekt/episodes/introspekt-6th-november-2026"
+  },
+  {
    "d": "2026-11-06T22:00:00Z",
    "g": "BBC",
    "s": "Radio 1's Future Dance with Sarah Story",
@@ -15,158 +160,10 @@
    "sid": "group-therapy",
    "t": "Group Therapy 702 with Above & Beyond and SQU4RE",
    "u": "https://www.mixcloud.com/aboveandbeyond/group-therapy-702-with-above-beyond-and-squ4re/"
-  },
-  {
-   "d": "2026-11-06T21:00:00Z",
-   "g": "Rinse FM",
-   "s": "Hodge",
-   "sid": "rinse-hodge",
-   "t": "Hodge, 6 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/hodge-06-11-2026-2100"
-  },
-  {
-   "d": "2026-11-06T17:09:48Z",
-   "g": "Writing",
-   "s": "Inverted Audio",
-   "sid": "inverted-audio",
-   "t": "Inverted Audio In-Store: fka boursin (Scissor and Thread)",
-   "u": "https://inverted-audio.com/fka-boursin-in-store/"
-  },
-  {
-   "d": "2026-11-06T16:58:30Z",
-   "g": "Writing",
-   "s": "Tone Glow",
-   "sid": "tone-glow",
-   "t": "Tone Glow 244: Brian Leeds (Loidis, Huerco S., Pendant)",
-   "u": "https://toneglow.substack.com/p/tone-glow-244-brian-leeds-loidis"
-  },
-  {
-   "d": "2026-11-06T16:00:49Z",
-   "g": "Progressive",
-   "s": "John Digweed: Transitions",
-   "sid": "transitions",
-   "t": "Transitions with John Digweed and Dave Seaman",
-   "u": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-dave-seaman/"
-  },
-  {
-   "d": "2026-11-06T14:11:50Z",
-   "g": "Radio",
-   "s": "Soulection Radio",
-   "sid": "soulection",
-   "t": "Show #752 | Dub, Reggae, Soulful House, & Afro-Fusion",
-   "u": "https://soundcloud.com/soulection/show-752"
-  },
-  {
-   "d": "2026-11-06T12:08:26Z",
-   "g": "Writing",
-   "s": "Futurism Restated (Philip Sherburne)",
-   "sid": "futurism-restated",
-   "t": "FR 199: Remembering Juan Atkins, the Originator",
-   "u": "https://futurismrestated.substack.com/p/fr-199-remembering-juan-atkins-the"
-  },
-  {
-   "d": "2026-11-06T12:00:42Z",
-   "g": "Progressive",
-   "s": "John Digweed: Transitions",
-   "sid": "transitions",
-   "t": "Compiled & Mixed 046",
-   "u": "https://www.mixcloud.com/johndigweed/compiled-mixed-046/"
-  },
-  {
-   "d": "2026-11-06T12:00:00Z",
-   "g": "Radio",
-   "s": "BBC Music Introducing Mixtape (6 Music)",
-   "sid": "bbc-introducing-mixtape",
-   "sp": "BBC Music Introducing Mixtape (6 Music) With a new Track of the Week from The Healing Power of Horses",
-   "t": "With a new Track of the Week from The Healing Power of Horses",
-   "u": "http://www.bbc.co.uk/programmes/p0plg0wx"
-  },
-  {
-   "d": "2026-11-06T11:00:00Z",
-   "g": "Podcasts",
-   "s": "Indiecast",
-   "sid": "indiecast",
-   "sp": "Indiecast New Music From Twisted Teens, Atlas Sound, Oso Oso and Kings Of Leon, Plus A Sufjan Stevens Christmas LP",
-   "t": "New Music From Twisted Teens, Atlas Sound, Oso Oso and Kings Of Leon, Plus A Sufjan Stevens Christmas LP",
-   "u": "https://rss.art19.com/episodes/95206f11-ec25-4db1-89d9-88b126233f52.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-11-06T11:00:00Z",
-   "g": "NTS",
-   "s": "NTS In Focus",
-   "sid": "nts-in-focus",
-   "t": "In Focus: John Tavener",
-   "u": "https://www.nts.live/shows/in-focus/episodes/in-focus-john-taverner-6th-november-2026"
-  },
-  {
-   "d": "2026-11-06T11:00:00Z",
-   "g": "triple j",
-   "s": "Doof with Latifa Tee",
-   "sid": "triplej-doof",
-   "t": "Doof, 6 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/doof/doof/107332484"
-  },
-  {
-   "d": "2026-11-06T10:00:00Z",
-   "g": "Podcasts",
-   "s": "Popcast (New York Times)",
-   "sid": "popcast",
-   "sp": "Popcast (New York Times) Dominic Fike on ‘Babydoll,’ Public Breakups, Fatherhood & Sobriety",
-   "t": "Dominic Fike on ‘Babydoll,’ Public Breakups, Fatherhood & Sobriety",
-   "u": "https://www.nytimes.com/column/popcast-pop-music-podcast"
-  },
-  {
-   "d": "2026-11-06T08:03:01Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Vainqueur",
-   "u": "https://www.flowstate.fm/p/vainqueur"
-  },
-  {
-   "d": "2026-11-06T08:00:00Z",
-   "g": "Double J",
-   "s": "The Block Party with Hau Latukefu",
-   "sid": "doublej-the-block-party",
-   "t": "The Block Party, 6 Nov",
-   "u": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107305322"
-  },
-  {
-   "d": "2026-11-06T07:00:00Z",
-   "g": "triple j",
-   "s": "House Party with Shantan Wantan Ichiban and Latifa Tee",
-   "sid": "triplej-house-party",
-   "t": "House Party, 6 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/house-party/house-party/107332574"
-  },
-  {
-   "d": "2026-11-06T06:00:00Z",
-   "g": "Podcasts",
-   "s": "Sound Opinions",
-   "sid": "sound-opinions",
-   "sp": "Sound Opinions Stevie Wonder's \"Songs in the Key of Life\" 50th Anniversary",
-   "t": "Stevie Wonder's \"Songs in the Key of Life\" 50th Anniversary",
-   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/7e981b65-2577-4b39-bc0c-a32189b4dc89.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-11-06T05:40:57Z",
-   "g": "Progressive",
-   "s": "Gai Barone: Patterns",
-   "sid": "gai-barone-patterns",
-   "t": "Patterns 725",
-   "u": "https://soundcloud.com/gai-barone/patterns-725"
-  },
-  {
-   "d": "2026-11-06T03:30:00Z",
-   "g": "triple j",
-   "s": "Friday Mix with Dave Woodhead and Kailyn Crabbe",
-   "sid": "triplej-friday-mix",
-   "t": "Friday Mix: Will Sparks",
-   "u": "https://www.abc.net.au/triplej/programs/friday-mix/willsparks-djset-2026/107345664"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 554,
+ "newCount": 572,
  "paused": 20,
  "releases": [
   {
@@ -245,5 +242,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-06T23:44:12Z"
+ "updated": "2026-11-07T22:46:59Z"
 }

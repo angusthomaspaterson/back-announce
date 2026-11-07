@@ -3,6 +3,50 @@
  "id": "triplej-mix-up",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/bh.mp3",
+   "date": "2026-11-07T14:00:00Z",
+   "desc": "Eora/Sydney-based rising star KÄRLA sends it with a set full of bouncy techno and groovy trance! Available until 7 Dec.",
+   "duration": "3620",
+   "id": "107350114",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e74a407c0562f8bd2b2c1d5a18a044a4?impolicy=wcms_crop_resize&cropH=1663&cropW=2957&xPos=0&yPos=769&width=862&height=485&imformat=generic",
+   "title": "Mix Up: KÄRLA",
+   "until": "2026-12-07T14:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/karla-djset-2026/107350114"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/b6.mp3",
+   "date": "2026-11-07T13:00:00Z",
+   "desc": "UK-based house hitmaker Morgan Seatree is heading Down Under for a massive run of shows, but first he’s taking over Mix Up! Available until 7 Dec.",
+   "duration": "3648",
+   "id": "107345674",
+   "image": "https://live-production.wcms.abc-cdn.net.au/765c8a815f51f57bc6b2dde5a066ae41?impolicy=wcms_crop_resize&cropH=2109&cropW=3750&xPos=0&yPos=343&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Morgan Seatree",
+   "until": "2026-12-07T13:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/morganseatree-djset-2026/107345674"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/ba.mp3",
+   "date": "2026-11-07T12:00:00Z",
+   "desc": "All aboard! Jersey Club queen UNIIQU3 is taking over the triple j airwaves to celebrate her debut album Mass Appeal! Available until 7 Dec.",
+   "duration": "3691",
+   "id": "107345672",
+   "image": "https://live-production.wcms.abc-cdn.net.au/bea1dd6e05758b67e73f85fb4c151791?impolicy=wcms_crop_resize&cropH=1875&cropW=3333&xPos=0&yPos=1751&width=862&height=485&imformat=generic",
+   "title": "Mix Up: UNIIQU3",
+   "until": "2026-12-07T12:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/uniiqu3-djset-2026/107345672"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/au.mp3",
+   "date": "2026-11-07T11:00:00Z",
+   "desc": "Naarm/Melbourne bass boss IsGwan is our Resident for November! For week one he’s taking us through some of his early inspirations and original tunes, so don’t miss. Available until 7 Dec.",
+   "duration": "3665",
+   "id": "107345668",
+   "image": "https://live-production.wcms.abc-cdn.net.au/5440ae9185d564d1a294d68bc6ab3709?impolicy=wcms_crop_resize&cropH=1726&cropW=3068&xPos=0&yPos=1637&width=862&height=485&imformat=generic",
+   "title": "Mix Up Resident: IsGwan",
+   "until": "2026-12-07T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w1-djset-2026/107345668"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/s7.mp3",
    "date": "2026-10-31T14:00:00Z",
    "desc": "Milan’s Piezo serves up a dose of deep and experimental club sounds on Mix Up. Available until 30 Nov.",
@@ -67,53 +111,9 @@
    "title": "Mix Up: Body Clinic",
    "until": "2026-11-23T13:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/mix-up/bodyclinic-djset-2026/107287520"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/rg.mp3",
-   "date": "2026-10-24T12:00:00Z",
-   "desc": "Berlin’s evin lifts us up with a club-ready set during her Australian tour. Available until 23 Nov.",
-   "duration": "3625",
-   "id": "107287518",
-   "image": "https://live-production.wcms.abc-cdn.net.au/9ab94674270b910c47b21f000772f272?impolicy=wcms_crop_resize&cropH=2041&cropW=3629&xPos=0&yPos=391&width=862&height=485&imformat=generic",
-   "title": "Mix Up: evin",
-   "until": "2026-11-23T12:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/evin-djset-2026/107287518"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/ra.mp3",
-   "date": "2026-10-24T11:00:00Z",
-   "desc": "For their final week as our Mix Up Residents, Close Counters are bringing funky house flavours to the booth! Available until 23 Nov.",
-   "duration": "3685",
-   "id": "107287516",
-   "image": "https://live-production.wcms.abc-cdn.net.au/30648d99c524d0d477e9d2cdd7cb383f?impolicy=wcms_crop_resize&cropH=211&cropW=376&xPos=224&yPos=289&width=862&height=485&imformat=generic",
-   "title": "Mix Up: Close Counters",
-   "until": "2026-11-23T11:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/closecounters-w4-djset-2026/107287516"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/ht.mp3",
-   "date": "2026-10-17T14:00:00Z",
-   "desc": "Ahead of his Australian tour dates, Berlin-based artist Nils Hoffmann drops a hypnotic house set on Mix Up. Available until 16 Nov.",
-   "duration": "3631",
-   "id": "107259486",
-   "image": "https://live-production.wcms.abc-cdn.net.au/99ee8633f06f41ae8503e88466aa9dcf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=233&width=862&height=485&imformat=generic",
-   "title": "Mix Up: Nils Hoffmann",
-   "until": "2026-11-16T14:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/nilshoffman-djset-2026/107259486"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/hp.mp3",
-   "date": "2026-10-17T13:00:00Z",
-   "desc": "Don’t miss Eora/Sydney’s Fried Pork Chop dropping indie sleaze throwbacks and bloghouse bangers in the mix! Available until 16 Nov.",
-   "duration": "3959",
-   "id": "107259482",
-   "image": "https://live-production.wcms.abc-cdn.net.au/dd4c192418b5b3f54e27ffa98bfc2d81?impolicy=wcms_crop_resize&cropH=1512&cropW=2688&xPos=0&yPos=589&width=862&height=485&imformat=generic",
-   "title": "Mix Up: Fried Pork Chop",
-   "until": "2026-11-16T13:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/friedporkchop-djset-2026/107259482"
   }
  ],
  "kind": "abc",
  "name": "Mix Up with Kailyn Crabbe",
- "updatedAt": "2026-11-06T07:23:44Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }

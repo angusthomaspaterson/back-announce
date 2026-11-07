@@ -3,6 +3,16 @@
  "id": "bbc-radio-1s-essential-mix",
  "items": [
   {
+   "date": "2026-11-07T02:00:00Z",
+   "desc": "On BBC Sounds until 15 Dec (UK only). A very special mix with Armin van Buuren & Benwal live at Gashouder during ADE 2026. in Amsterdam. Featuring Armin van Buuren & Benwal back to back, followed by Armin's solo set. Produced by BBC Audio for BBC Radio 1.",
+   "duration": "7200",
+   "id": "m00338ry",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pllq5s.jpg",
+   "title": "Armin van Buuren & Benwal at ADE (Gashouder)",
+   "until": "2026-12-14T23:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m00338ry"
+  },
+  {
    "date": "2026-10-31T02:00:00Z",
    "desc": "On BBC Sounds until 26 Dec (UK only). Yung Singh mixes up two hours of ambient, funk, jazz, jungle, hip-hop, dancehall, Punjabi folk music and high-energy dancefloor material. The mix features plenty of brand new unreleased Yung Singh music alongside tracks that inspired him growing up. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
@@ -125,5 +135,5 @@
  ],
  "kind": "bbc",
  "name": "Radio 1's Essential Mix",
- "updatedAt": "2026-11-06T11:16:35Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }

@@ -3,6 +3,16 @@
  "id": "rtr2",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2423707587-rtrfm-92-1-airline-food-coast-to-coast-ep-1-jack-seah.mp3",
+   "date": "2026-11-07T02:00:40Z",
+   "desc": "Perth’s psychedelic-pop sweeties Airline Food have taken over the RTR2 airwaves with their four-episode residency Coast to Coast, each ep programmed by a different band member. This first edition of AF Coast 2 Coast comes from Jack Seah. “It’s somewhat of a soundtrack of the past year I've had from moving across from Perth to Melbourne. They have all been massive favourites of mine and all remind me of all my new and old friends, the Hope St crew and also Bede and Ella. I hope you enjoy the music.\"",
+   "duration": "01:27:41",
+   "id": "tag:soundcloud-2010:tracks-2423707587",
+   "image": "https://i1.sndcdn.com/artworks-I46M4Ac9ynkzpgqj-bPHglA-t3000x3000.jpg",
+   "title": "Airline Food's Coast 2 Coast Ep. 1 w/ Jack Seah",
+   "url": "https://soundcloud.com/rtrfm-92-1/airline-food-coast-to-coast-ep-1-jack-seah"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2421687312-rtrfm-92-1-it-will-go-forever-ep-1-elena-dakota.mp3",
    "date": "2026-10-30T07:34:23Z",
    "desc": "This is a love letter from Elena Dakota to some of her favourite songs, singers and music-makers from Adelaide, wider Australia and America. Very folk heavy but some punk and rock and other surprises too.",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-yxu0akcK5zclIM7L-xyQUiA-t3000x3000.png",
    "title": "ONO Records Ep. 5 w/ Ernest & Young",
    "url": "https://soundcloud.com/rtrfm-92-1/ono-records-ep-5"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2326860329-rtrfm-92-1-vertigo-ep-1-w-connor.mp3",
-   "date": "2026-06-02T04:23:22Z",
-   "desc": "For the first edition of the Vertigo mix series, RTR2 welcomes up to the podium label & promoter co-runner Connor; making his way through reverberating low end frequencies and a buttery mix of minimal, tech house, techno & some other eccentric bits and bobs he managed to slide in there. Two hours of fun delivered from Vertigo directly to your ears, enjoy!",
-   "duration": "02:00:34",
-   "id": "tag:soundcloud-2010:tracks-2326860329",
-   "image": "https://i1.sndcdn.com/artworks-fxjoB59zgGbCSTJ0-ETaOiw-t3000x3000.jpg",
-   "title": "Vertigo Ep. 1 w/ Connor",
-   "url": "https://soundcloud.com/rtrfm-92-1/vertigo-ep-1-w-connor"
   }
  ],
  "kind": "rss",
  "name": "RTRFM / RTR2 mixes",
- "updatedAt": "2026-10-30T23:00:03Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }

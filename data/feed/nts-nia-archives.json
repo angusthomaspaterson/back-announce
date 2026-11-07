@@ -3,6 +3,16 @@
  "id": "nts-nia-archives",
  "items": [
   {
+   "date": "2026-11-06T17:00:00Z",
+   "desc": "Star UK producer Nia Archives takes over the NTS airwaves in a weekly residency, celebrating the launch of Up Ya Archives, the new record label playing host to the best of new gen junglism.",
+   "id": "nia-archives-6th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/e323eaed-cdc4-4ce8-b3d0-8773b4b9abe3_1793923200.jpeg",
+   "location": "London",
+   "tags": "Breakbeat Hardcore, Jungle",
+   "title": "Up Ya Archives w/ Cheff The Boy",
+   "url": "https://www.nts.live/shows/nia-archives/episodes/nia-archives-6th-november-2026"
+  },
+  {
    "date": "2026-10-09T16:00:00Z",
    "desc": "Star UK producer Nia Archives takes over the NTS airwaves in a weekly residency, celebrating the launch of Up Ya Archives, the new record label playing host to the best of new gen junglism.",
    "id": "nia-archives-9th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Jungle",
    "title": "Up Ya Archives w/ DJ Sofa",
    "url": "https://www.nts.live/shows/nia-archives/episodes/nia-archives-7th-november-2025"
-  },
-  {
-   "date": "2025-10-10T16:00:00Z",
-   "desc": "Star UK producer Nia Archives takes over the NTS airwaves in a weekly residency, celebrating the launch of Up Ya Archives, the new record label playing host to the best of new gen junglism.",
-   "id": "nia-archives-10th-october-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/317fdb4a-eb63-46f0-8d1d-8bf28fe208cf_1760054400.png",
-   "location": "London",
-   "tags": "Breakbeat Hardcore, Jungle",
-   "title": "Up Ya Archives w/ Worsleyy",
-   "url": "https://www.nts.live/shows/nia-archives/episodes/nia-archives-10th-october-2025"
   }
  ],
  "kind": "nts",
  "name": "Up Ya Archives w/ Nia Archives",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }

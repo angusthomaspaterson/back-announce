@@ -3,6 +3,16 @@
  "id": "bbc-6-musics-rave-forever",
  "items": [
   {
+   "date": "2026-11-07T01:00:00Z",
+   "desc": "On BBC Sounds until 7 Dec (UK only). Journey through house and techno as the queen of the dance floor, Honey Dijon, puts her unmistakable stamp on some golden tracks. A Chicago-born, Grammy-winning DJ, producer, activist, and fashion icon, Dijon embodies the pure, unadulterated spirit of house music. You can expect to hear glittering reworks of tracks from Neneh Cherry, 702, Dua Lipa, Madonna, DJ Minx and lots more. A We Are Grape production for BBC 6 Music.",
+   "duration": "3600",
+   "id": "m0033fr9",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+   "title": "The Art Of Remixing: Honey Dijon",
+   "until": "2026-12-07T01:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0033fr9"
+  },
+  {
    "date": "2026-10-31T01:00:00Z",
    "desc": "On BBC Sounds until 29 Dec (UK only). As 6 Music Goes Dark we celebrate two decades of Skream’s seminal debut album with a deep dive into the darkest, moodiest dubstep 2006 had to offer. Expect cuts from the album alongside classic tracks from the likes of Mala, Kode9, Digital Mystikz, Coki and lots more A We Are Grape production for BBC 6 Music.",
    "duration": "3600",
@@ -85,5 +95,5 @@
  ],
  "kind": "bbc",
  "name": "6 Music's Rave Forever",
- "updatedAt": "2026-11-06T11:16:35Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }

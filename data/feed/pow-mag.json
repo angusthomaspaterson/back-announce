@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-07T18:03:45Z",
+   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Donald Morrison reviews new work from ZelooperZ, Veeze, Babyface Ray, and more.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-more-drugs-more-love-more-anything",
+   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/dbXpcQkWdsE",
+   "title": "More Drugs, More Love, More Anything",
+   "url": "https://www.powmag.net/p/more-drugs-more-love-more-anything"
+  },
+  {
+   "audio": null,
    "date": "2026-11-06T17:52:34Z",
    "desc": "The ascendant New York underground icon breaks down his spending.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!h6Ha!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8be74199-e6a7-4103-8cd1-6f3624585dc8_1200x1200.png",
    "title": "I’m 12, Feeling Guilty for Listening to Coldplay",
    "url": "https://www.powmag.net/p/sparklmami-interview-in-this-body"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-14T16:03:54Z",
-   "desc": "The latest edition of Douglas Martin’s Dirty Shoes finds the author trailing the D.C. art-punks.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-sexfaces-across-the-great-evergreen-state",
-   "image": "https://substackcdn.com/image/fetch/$s_!OcU2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a040e6a-77a6-4ae1-a780-515834b72f3d_1200x1200.png",
-   "title": "SEXFACES Across the Great Evergreen State",
-   "url": "https://www.powmag.net/p/sexfaces-across-the-great-evergreen-state"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-06T23:44:12Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }

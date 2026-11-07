@@ -3,6 +3,16 @@
  "id": "nts-skee-mask",
  "items": [
   {
+   "date": "2026-11-06T16:00:00Z",
+   "desc": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
+   "id": "skee-mask-6th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/112f69c8-2307-467e-a9bd-97e7f80d6a88_1793923200.jpeg",
+   "location": "Munich",
+   "tags": "Techno",
+   "title": "Feierabend w/ Skee Mask",
+   "url": "https://www.nts.live/shows/skee-mask/episodes/skee-mask-6th-november-2026"
+  },
+  {
    "date": "2026-09-11T15:00:00Z",
    "desc": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
    "id": "skee-mask-11th-september-2026",
@@ -111,19 +121,9 @@
    "tags": "Techno, Minimal",
    "title": "Feierabend w/ Skee Mask",
    "url": "https://www.nts.live/shows/skee-mask/episodes/skee-mask-28th-february-2025"
-  },
-  {
-   "date": "2025-01-03T16:00:00Z",
-   "desc": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
-   "id": "skee-mask-3rd-january-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/6351eaa9-fa0d-4834-a076-9ace9315d414_1735862400.jpeg",
-   "location": "Munich",
-   "tags": "Techno, House",
-   "title": "Feierabend w/ Skee Mask",
-   "url": "https://www.nts.live/shows/skee-mask/episodes/skee-mask-3rd-january-2025"
   }
  ],
  "kind": "nts",
  "name": "Feierabend w/ Skee Mask",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }

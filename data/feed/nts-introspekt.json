@@ -3,6 +3,16 @@
  "id": "nts-introspekt",
  "items": [
   {
+   "date": "2026-11-06T23:00:00Z",
+   "desc": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.",
+   "id": "introspekt-6th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/f4503b67-52dc-406f-9032-753c66441943_1793836800.jpeg",
+   "location": "Los Angeles",
+   "tags": "Bass, Dubstep, Garage",
+   "title": "Spaces In Between w/ Introspekt",
+   "url": "https://www.nts.live/shows/introspekt/episodes/introspekt-6th-november-2026"
+  },
+  {
    "date": "2026-10-09T15:00:00Z",
    "desc": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.",
    "id": "introspekt-9th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Bass, Dubstep",
    "title": "Spaces In Between w/ Introspekt",
    "url": "https://www.nts.live/shows/introspekt/episodes/introspekt-5th-december-2025"
-  },
-  {
-   "date": "2025-11-07T23:00:00Z",
-   "desc": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.",
-   "id": "introspekt-7th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/0178208e-1317-4a9b-b2d3-f004059b552b_1762473600.jpeg",
-   "location": "Los Angeles",
-   "tags": "Techno, Bass, Dubstep",
-   "title": "Spaces In Between w/ Introspekt",
-   "url": "https://www.nts.live/shows/introspekt/episodes/introspekt-7th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Spaces In Between w/ Introspekt",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-11-07T22:46:59Z"
 }
