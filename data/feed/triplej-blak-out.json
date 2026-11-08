@@ -3,6 +3,17 @@
  "id": "triplej-blak-out",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q7/Z/os.aac",
+   "date": "2026-11-08T06:00:00Z",
+   "desc": "Playing nothing but slappers from Indigenous artists, Nooky is doing laps and spinning tracks. Available until 8 Dec.",
+   "duration": "3599",
+   "id": "107338860",
+   "image": "https://live-production.wcms.abc-cdn.net.au/ff64764ab8cec9411ddce5daba680b08?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Blak Out, 8 Nov",
+   "until": "2026-12-08T06:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/blak-out/blak-out/107338860"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q0/Z/dh.aac",
    "date": "2026-11-01T06:00:00Z",
    "desc": "Playing nothing but slappers from Indigenous artists, Nooky is doing laps and spinning tracks. Available until 1 Dec. Tracklist: iamshani – Oh Shit; Kayps – BUNUBA BABY; Dan Sultan – Can't Be For Nothing; Dan Sultan – There's A River; Dan Sultan – Here For Love; Dan Sultan – Sunshower; Dan Sultan – Forgiveness; Dan Sultan – Needing Love; Dan Sultan – Peace Of Mind; Say True God? – Underdog",
@@ -49,5 +60,5 @@
  ],
  "kind": "abc",
  "name": "Blak Out with Nooky",
- "updatedAt": "2026-11-06T14:02:47Z"
+ "updatedAt": "2026-11-08T22:55:13Z"
 }

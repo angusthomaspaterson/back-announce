@@ -3,6 +3,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2433288471-resident-advisor-1064-ra-1064-carlita.mp3",
+   "date": "2026-11-08T22:00:40Z",
+   "desc": "Sun-soaked house from the Circoloco favourite. Want to know what life is like when the sun is always shining? Carlita might be able to tell you. The Istanbul-born DJ follows the summer around the world, and her calendar reads like a festival bucket list: Coachella, Sónar, Tomorrowland and, most often, Circoloco at DC-10. It's also a neat encapsulation of her DJing. One of the biggest names in big-room house, Carlita has a sound that's warm and melodic, often pairing house classics with pop hooks and the odd swell of strings. It's a long way from where she started. Classically trained on the c…",
+   "duration": "01:01:26",
+   "id": "tag:soundcloud-2010:tracks-2433288471",
+   "image": "https://i1.sndcdn.com/artworks-ytLI2lxPkl84uZp9-ckwTxg-t3000x3000.jpg",
+   "title": "1064 RA.1064 Carlita",
+   "url": "https://soundcloud.com/resident-advisor/1064-ra-1064-carlita"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2432020215-resident-advisor-ex-817-chase-status.mp3",
    "date": "2026-11-04T12:26:54Z",
    "desc": "Two decades in, the UK drum & bass duo are still filling stadiums. They talk staying hungry, resisting the algorithm and their eighth album, Generic Everything. In 2003, Saul Milton and Will Kennard of Chase & Status were sending drum & bass demos to their heroes over AOL Instant Messenger. Two decades on, they're among the biggest acts in UK dance music. In 2016, they became the first UK electronic act to headline London's O2 Arena. Their productions have racked up more than two billion streams, and they've sold 2.6 million albums, more than four times as many as drum & bass's next-biggest a…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-m2WLbZHw8nz3alny-nuZhiQ-t3000x3000.png",
    "title": "RA.1042 Soft Crash",
    "url": "https://soundcloud.com/resident-advisor/ra-1042-soft-crash"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2329710416-resident-advisor-ra1040-chlaer.mp3",
-   "date": "2026-05-31T21:00:16Z",
-   "desc": "Entirely unreleased, undeniably funky techno. Charles Accarisi, AKA Chlär, treats techno like a science. From his earliest days as an audio engineer, the Lisbon-via-Switzerland artist has approached techno with the precision of a seasoned experimentalist, dissecting our love of listening to kick drums in dark, sweaty clubs down to its very bones. Before launching his label, Primal Instinct, in 2023, he dug deep, building its foundation on neuroscience studies exploring syncopation and bass frequencies. Yet, for all its academic rigor, Accarisi's music remains incredibly funky. You can hear th…",
-   "duration": "01:10:08",
-   "id": "tag:soundcloud-2010:tracks-2329710416",
-   "image": "https://i1.sndcdn.com/artworks-hzMKOM2c0tunED8k-mPGveA-t3000x3000.png",
-   "title": "RA.1041 Chlär",
-   "url": "https://soundcloud.com/resident-advisor/ra1040-chlaer"
   }
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-08T22:55:13Z"
 }

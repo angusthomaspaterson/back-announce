@@ -3,6 +3,17 @@
  "id": "triplej-country-club",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q7/Z/p5.aac",
+   "date": "2026-11-08T07:00:00Z",
+   "desc": "Plus, hear new music from titans of twang including from Kings of Leon, Jackson Dean, Kacey Musgraves, Lola Scott, Jonah Kagen and much more. Available until 8 Dec. Tracklist: Lola Scott – Cold Turkey; Jackson Dean – Wildfire (Afterburn); Kaitlin Keegan – Panic Attack; Cali Rd – The Docks; Kingswood & Sarah Grace Buckley – Boots & Pistols; Mack Geiger – Campdraft Queen; Mack Geiger – String By; Kacey Musgraves – Weekend In Texas; Jonah Kagen – Ain't Convinced; Saralyn – Jet Settin'; Kings Of Leon – Cold Blue Dawn; Katie May – The Panic Years",
+   "duration": "3600",
+   "id": "107338884",
+   "image": "https://live-production.wcms.abc-cdn.net.au/ec374a18be8fded3b22124b6ac0a2487?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=251&width=862&height=485&imformat=generic",
+   "title": "Kaitlin Keegan drops her impressive debut album and Mack Geiger rides into the COUNTRY CLUB studio to yarn about his debut album",
+   "until": "2026-12-08T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/country-club/country-club/107338884"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q0/Z/du.aac",
    "date": "2026-11-01T07:00:00Z",
    "desc": "This week on Country Club, Tom has hand-picked a cruisy mix of country and folk, perfect for your Sunday chill sesh - from Maia Toakley’s poetic songwriting to timeless faves from Gillian Welch and the Waifs. Available until 1 Dec. Tracklist: Maia Toakley – Everything On Fire; The Teskey Brothers – Take My Heart; Sierra Ferrell – Pair of Dice; Kevin Morby – Javelin; Gillian Welch – Annabelle; The Waifs – Highway One; Star Moles – Born Again; Jason Isbell And The 400 Unit – Alabama Pines; Ken Pomeroy – Look at Miss Ohio; Willie Nelson & Emmylou Harris – Willin’ (feat. Inara George); Bedouine –…",
@@ -49,5 +60,5 @@
  ],
  "kind": "abc",
  "name": "Country Club with Outback Tom",
- "updatedAt": "2026-11-06T07:23:44Z"
+ "updatedAt": "2026-11-08T22:55:13Z"
 }

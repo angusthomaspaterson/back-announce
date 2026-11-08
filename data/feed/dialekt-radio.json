@@ -3,6 +3,16 @@
  "id": "dialekt-radio",
  "items": [
   {
+   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/16c25024-09a9-4fd9-aa72-9187552c38ea/group-item/e1946094-5db0-4086-833b-36439e68eebc/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
+   "date": "2026-11-08T18:35:15Z",
+   "desc": "1. Rossie - Latent 00:00:40 2. Eric Luttrell - On The Line 00:07:19 3. Das Pharaoh & Nourey - Threshold 00:11:44 4. Paul Ursin - Know 00:16:24 5. CRi - Fight It 00:19:59 6. D-Nox & M.O.S. - Dream On 00:23:59- DIALEKT TRACK OF THE WEEK 7. ANUQRAM & Julian Nates - Driftline 00:29:47 8. Jamie Stevens & Kasey Taylor - Hocu Pocu 00:34:42 9. Matt Fax & Boxer - Higher (Dosem Remix) 00:41:24 10. Quivver ft. Ruth Royall - When We Look Away 00:46:11 11. Rosbeh - Brainbreak 00:49:52 12. LTJ Bukem - Music (Instrumental Peshay Rework) 00:53:21- CLASSIC OF THE WEEK",
+   "duration": "01:03:18",
+   "id": "2bf80a3f-3e3a-4848-8fde-9e6ed89fe4dc",
+   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
+   "title": "Dialekt Radio #353",
+   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-353-DOLj7Gvt"
+  },
+  {
    "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/68b2838d-8a5b-4343-8a69-b28097547fa9/group-item/045e9a91-fb47-4467-b6d7-2409a16fea2e/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
    "date": "2026-11-01T19:00:00Z",
    "desc": "1. Tim Green - Furnace Creek 00:00:40 2. Paul Prokop - Human Experience (Paul Arcane Remix) 00:07:23 3. Otherwish & Lane 8 - Who We Let Go 00:13:03 4. OLING - Verlune 00:16:09 5. Rodriguez Jr. - Amarillo 00:19:00 6. Sultan + Shepard ft. Delilah - Start Again 00:23:23- DIALEKT TRACK OF THE WEEK 7. Booka Shade - In White Rooms (Hugo Cantarra x sone. Remix) 00:29:03 8. Robby East - Forever In A Second 00:34:13 9. NYKY - Boundaries 00:39:21 10. Envotion - Call The Drum 00:43:42 11. Dosem - Lifegame 00:50:36 12. Dusky - Elm (Lost A Shoe In 92 Mix) 00:54:25 13. Bicep - Glue 00:58:34- CLASSIC OF THE…",
@@ -241,19 +251,9 @@
    "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
    "title": "Dialekt Radio #329",
    "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-329-n95Wyhj1"
-  },
-  {
-   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/4e980b71-9491-4e54-8f3a-ab43f642a7b5/group-item/e0177c53-8e75-469c-837d-cea7b83297c5/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
-   "date": "2026-05-24T19:00:00Z",
-   "desc": "1. DJ Seinfeld ft. Dan Whitlam - If This Is It 00:00:40 2. Blu Attic - Eternal 00:04:38 3. Estiva - Mistika 00:08:59 4. Double Touch - Dreaming Of You 00:14:06 5. Kamilo Sanclemente - No Regrets (Artic White Remix) 00:19:00 6. GEØVHÄN - Khaos 00:25:24 7. Joris Voorn - Horizon (Eelke Kleijn Remix) 00:32:03- DIALEKT TRACK OF THE WEEK 8. Lane 8 & Grigoré - Maglia Rosa 00:35:54 9. M.O.S. - Changes 00:40:30 10. Harry Kaze - Sunlight 00:46:08 11. Rinzen & Aether - Pangea 00:50:45 12. Marc Romboy & Stephan Bodzin - Atlas 00:55:06- CLASSIC OF THE WEEK",
-   "duration": "01:00:53",
-   "id": "df3d90f9-29af-4566-8d91-1992762e853a",
-   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
-   "title": "Dialekt Radio #328",
-   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-328-EjccYSod"
   }
  ],
  "kind": "rss",
  "name": "Sultan + Shepard: Dialekt Radio",
- "updatedAt": "2026-11-01T22:52:27Z"
+ "updatedAt": "2026-11-08T22:55:13Z"
 }
