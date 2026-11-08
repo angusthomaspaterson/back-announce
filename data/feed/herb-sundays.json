@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-08T13:44:53Z",
+   "desc": "An audio conversation with Brendan M Gillen of Interdimensional Transmissions/Ectomorph on the origins and legacy of Detroit’s Juan Atkins + a bonus playlist.",
+   "duration": null,
+   "id": "https:--herbsundays.substack.com-p-herb-sundays-in-memoriam-juan-atkins",
+   "image": "https://substackcdn.com/image/fetch/$s_!h6pb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12ddbd1c-2e8e-4581-9a2a-d6ff518ae303_7020x7020.jpeg",
+   "title": "Herb Sundays / In Memoriam: Juan Atkins (1962-2026)",
+   "url": "https://herbsundays.substack.com/p/herb-sundays-in-memoriam-juan-atkins"
+  },
+  {
+   "audio": null,
    "date": "2026-11-01T13:53:01Z",
    "desc": "The massively influential designer/illustrator is quite possibly homesick + fan mail from designers Justin Sloane, Mira Joyce, Wade Jeffree, Shawna X, Erik Carter, and more.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!emPe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F148e5e35-2e8c-402a-bf76-d765af2a34c8_3000x3000.jpeg",
    "title": "Herb Sundays 189: Sam Wilkes",
    "url": "https://herbsundays.substack.com/p/herb-sundays-189-sam-wilkes"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-31T19:38:22Z",
-   "desc": "The Queens producer and DJ shares \"low tide\" or a genre study \"that's hard to exactly pinpoint but you know when you hear it.",
-   "duration": null,
-   "id": "https:--herbsundays.substack.com-p-herb-sundays-188-car-culture",
-   "image": "https://substackcdn.com/image/fetch/$s_!-v24!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7462c58d-3542-4628-9341-c2c35fd78497_3000x3000.jpeg",
-   "title": "Herb Sundays 188: Car Culture",
-   "url": "https://herbsundays.substack.com/p/herb-sundays-188-car-culture"
   }
  ],
  "kind": "rss",
  "name": "Herb Sundays",
- "updatedAt": "2026-11-01T21:30:06Z"
+ "updatedAt": "2026-11-08T23:26:09Z"
 }

@@ -9344,6 +9344,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-08T13:44:53Z",
+     "desc": "An audio conversation with Brendan M Gillen of Interdimensional Transmissions/Ectomorph on the origins and legacy of Detroit’s Juan Atkins + a bonus playlist.",
+     "duration": null,
+     "id": "https:--herbsundays.substack.com-p-herb-sundays-in-memoriam-juan-atkins",
+     "image": "https://substackcdn.com/image/fetch/$s_!h6pb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12ddbd1c-2e8e-4581-9a2a-d6ff518ae303_7020x7020.jpeg",
+     "title": "Herb Sundays / In Memoriam: Juan Atkins (1962-2026)",
+     "url": "https://herbsundays.substack.com/p/herb-sundays-in-memoriam-juan-atkins"
+    },
+    {
+     "audio": null,
      "date": "2026-11-01T13:53:01Z",
      "desc": "The massively influential designer/illustrator is quite possibly homesick + fan mail from designers Justin Sloane, Mira Joyce, Wade Jeffree, Shawna X, Erik Carter, and more.",
      "duration": null,
@@ -9531,21 +9541,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!emPe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F148e5e35-2e8c-402a-bf76-d765af2a34c8_3000x3000.jpeg",
      "title": "Herb Sundays 189: Sam Wilkes",
      "url": "https://herbsundays.substack.com/p/herb-sundays-189-sam-wilkes"
-    },
-    {
-     "audio": null,
-     "date": "2026-05-31T19:38:22Z",
-     "desc": "The Queens producer and DJ shares \"low tide\" or a genre study \"that's hard to exactly pinpoint but you know when you hear it.",
-     "duration": null,
-     "id": "https:--herbsundays.substack.com-p-herb-sundays-188-car-culture",
-     "image": "https://substackcdn.com/image/fetch/$s_!-v24!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7462c58d-3542-4628-9341-c2c35fd78497_3000x3000.jpeg",
-     "title": "Herb Sundays 188: Car Culture",
-     "url": "https://herbsundays.substack.com/p/herb-sundays-188-car-culture"
     }
    ],
    "kind": "rss",
    "name": "Herb Sundays",
-   "updatedAt": "2026-11-01T21:30:06Z"
+   "updatedAt": "2026-11-08T23:26:09Z"
   },
   "ilian-tape": {
    "home": "https://soundcloud.com/iliantape",
@@ -33094,6 +33094,16 @@
    "id": "the-gig",
    "items": [
     {
+     "audio": null,
+     "date": "2026-11-08T14:51:00Z",
+     "desc": "A historic concert, and a meaningful tribute",
+     "duration": null,
+     "id": "https:--thegig.substack.com-p-john-coltrane-at-temple-university",
+     "image": "https://substackcdn.com/image/fetch/$s_!_YRZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3f49dec-27c4-42df-89bd-c50da3274b27_3836x2877.jpeg",
+     "title": "John Coltrane at Temple University",
+     "url": "https://thegig.substack.com/p/john-coltrane-at-temple-university"
+    },
+    {
      "audio": "https://api.substack.com/feed/podcast/223115667/868b9409a37c1a23369049a741ce4afa.mp3",
      "date": "2026-11-02T11:02:36Z",
      "desc": "Revisiting a deep exchange, on Frank’s 70th birthday.",
@@ -33282,21 +33292,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!2Qaf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb08d3ce3-c2cd-4d92-9887-86b8ae7979e8_2500x1667.png",
      "title": "Modern Day Jazz Story",
      "url": "https://thegig.substack.com/p/modern-day-jazz-story"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-06T16:46:18Z",
-     "desc": "The Nate Smith era dawns at the Newport Jazz Festival.",
-     "duration": null,
-     "id": "https:--thegig.substack.com-p-mr-smith-goes-to-newport",
-     "image": "https://substackcdn.com/image/fetch/$s_!QGaK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c48e762-df7a-4199-a8a1-8afec1d911d8_5036x7554.jpeg",
-     "title": "Mr. Smith Goes to Newport",
-     "url": "https://thegig.substack.com/p/mr-smith-goes-to-newport"
     }
    ],
    "kind": "rss",
    "name": "The Gig (Nate Chinen)",
-   "updatedAt": "2026-11-03T01:38:24Z"
+   "updatedAt": "2026-11-08T23:26:09Z"
   },
   "the-lot-radio": {
    "home": "https://www.thelotradio.com/",
@@ -38065,7 +38065,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-08T22:55:13Z",
+  "lastRun": "2026-11-08T23:26:09Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-08T22:55:13Z",
@@ -38266,7 +38266,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 20,
     "newest": "2026-11-03T18:22:41Z",
     "ok": true
@@ -38320,7 +38320,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -38338,7 +38338,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 7,
     "newest": "2026-11-05T12:15:12Z",
     "ok": true
@@ -38350,7 +38350,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 20,
     "newest": "2026-11-06T12:08:26Z",
     "ok": true
@@ -38392,9 +38392,9 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 20,
-    "newest": "2026-11-01T13:53:01Z",
+    "newest": "2026-11-08T13:44:53Z",
     "ok": true
    },
    "ilian-tape": {
@@ -38452,7 +38452,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 20,
     "newest": "2026-11-06T08:02:33Z",
     "ok": true
@@ -38494,7 +38494,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -39214,9 +39214,9 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 20,
-    "newest": "2026-11-02T11:02:36Z",
+    "newest": "2026-11-08T14:51:00Z",
     "ok": true
    },
    "the-lot-radio": {
@@ -39226,7 +39226,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 20,
     "newest": "2026-11-06T10:02:09Z",
     "ok": true
@@ -39244,7 +39244,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 20,
     "newest": "2026-11-06T16:58:30Z",
     "ok": true
@@ -39334,7 +39334,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-06T21:30:06Z",
+    "at": "2026-11-08T23:26:09Z",
     "count": 7,
     "newest": "2026-11-03T19:00:43Z",
     "ok": true

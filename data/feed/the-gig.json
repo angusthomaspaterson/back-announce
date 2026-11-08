@@ -3,6 +3,16 @@
  "id": "the-gig",
  "items": [
   {
+   "audio": null,
+   "date": "2026-11-08T14:51:00Z",
+   "desc": "A historic concert, and a meaningful tribute",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-john-coltrane-at-temple-university",
+   "image": "https://substackcdn.com/image/fetch/$s_!_YRZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3f49dec-27c4-42df-89bd-c50da3274b27_3836x2877.jpeg",
+   "title": "John Coltrane at Temple University",
+   "url": "https://thegig.substack.com/p/john-coltrane-at-temple-university"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/223115667/868b9409a37c1a23369049a741ce4afa.mp3",
    "date": "2026-11-02T11:02:36Z",
    "desc": "Revisiting a deep exchange, on Frank’s 70th birthday.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!2Qaf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb08d3ce3-c2cd-4d92-9887-86b8ae7979e8_2500x1667.png",
    "title": "Modern Day Jazz Story",
    "url": "https://thegig.substack.com/p/modern-day-jazz-story"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-06T16:46:18Z",
-   "desc": "The Nate Smith era dawns at the Newport Jazz Festival.",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-mr-smith-goes-to-newport",
-   "image": "https://substackcdn.com/image/fetch/$s_!QGaK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c48e762-df7a-4199-a8a1-8afec1d911d8_5036x7554.jpeg",
-   "title": "Mr. Smith Goes to Newport",
-   "url": "https://thegig.substack.com/p/mr-smith-goes-to-newport"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-11-03T01:38:24Z"
+ "updatedAt": "2026-11-08T23:26:09Z"
 }
