@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-11-09T17:59:57Z",
+   "g": "Writing",
+   "s": "Tone Glow",
+   "sid": "tone-glow",
+   "t": "Tone Glow 245: Olof Dreijer",
+   "u": "https://toneglow.substack.com/p/tone-glow-245-olof-dreijer"
+  },
+  {
    "d": "2026-11-08T22:00:40Z",
    "g": "Mixes",
    "s": "RA Podcast",
@@ -82,46 +90,6 @@
    "u": "https://www.bbc.co.uk/sounds/play/m0033mgx"
   },
   {
-   "d": "2026-11-07T22:33:19Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "Le Guess Who? 2026 - Chuck Roth - 06 Nov 2026",
-   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-chuck-roth"
-  },
-  {
-   "d": "2026-11-07T22:26:01Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "Le Guess Who? 2026 - Baltic Rehearsals: Spāre & Roma Vjazemski - 06 Nov 2026",
-   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-sp-re-roma"
-  },
-  {
-   "d": "2026-11-07T22:10:48Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "Le Guess Who? 2026 - Radio Hito - 06 Nov 2026",
-   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-radio-hito"
-  },
-  {
-   "d": "2026-11-07T22:07:59Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "Le Guess Who? 2026 - Palestinian Sound Archive - 06 Nov 2026",
-   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-palestinian"
-  },
-  {
-   "d": "2026-11-07T22:00:11Z",
-   "g": "Mixes",
-   "s": "Refuge Worldwide (selected shows)",
-   "sid": "refuge-worldwide",
-   "t": "Le Guess Who? 2026 - FISK - 06 Nov 2026",
-   "u": "https://soundcloud.com/refugeworldwide/le-guess-who-2026-fisk-06-nov"
-  },
-  {
    "d": "2026-11-07T18:00:00Z",
    "g": "BBC",
    "s": "Gilles Peterson on 6 Music",
@@ -160,11 +128,43 @@
    "sid": "triplej-mix-up",
    "t": "Mix Up: UNIIQU3",
    "u": "https://www.abc.net.au/triplej/programs/mix-up/uniiqu3-djset-2026/107345672"
+  },
+  {
+   "d": "2026-11-07T11:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up Resident: IsGwan",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w1-djset-2026/107345668"
+  },
+  {
+   "d": "2026-11-07T07:00:00Z",
+   "g": "triple j",
+   "s": "House Party with Shantan Wantan Ichiban and Latifa Tee",
+   "sid": "triplej-house-party",
+   "t": "House Party, 7 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/house-party/house-party/107334326"
+  },
+  {
+   "d": "2026-11-07T02:00:40Z",
+   "g": "Perth",
+   "s": "RTRFM / RTR2 mixes",
+   "sid": "rtr2",
+   "t": "Airline Food's Coast 2 Coast Ep. 1 w/ Jack Seah",
+   "u": "https://soundcloud.com/rtrfm-92-1/airline-food-coast-to-coast-ep-1-jack-seah"
+  },
+  {
+   "d": "2026-11-07T02:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Essential Mix",
+   "sid": "bbc-radio-1s-essential-mix",
+   "t": "Armin van Buuren & Benwal at ADE (Gashouder)",
+   "u": "https://www.bbc.co.uk/sounds/play/m00338ry"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 582,
- "paused": 20,
+ "newCount": 572,
+ "paused": 22,
  "releases": [
   {
    "k": "Album · Anjunadeep",
@@ -198,6 +198,12 @@
   }
  ],
  "saved": [
+  {
+   "at": "2026-11-09T06:14:20Z",
+   "s": "SHERELLE",
+   "t": "The Sweatbox - with Carré",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033mgz"
+  },
   {
    "at": "2026-11-06T14:34:15Z",
    "s": "BBC Music Introducing Mixtape (6 Music)",
@@ -242,5 +248,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-08T23:26:09Z"
+ "updated": "2026-11-09T21:30:07Z"
 }

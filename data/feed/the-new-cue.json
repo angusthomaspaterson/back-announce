@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-09T13:31:45Z",
+   "desc": "“I’d probably tell myself to take less drugs...”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-641-november-9-tim-wheeler",
+   "image": "https://substackcdn.com/image/fetch/$s_!MinT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F549c32eb-46f4-4ca5-a151-1b54c993d943_3088x2316.jpeg",
+   "title": "The New Cue #641 November 9: Tim Wheeler",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-641-november-9-tim-wheeler"
+  },
+  {
+   "audio": null,
    "date": "2026-11-06T10:02:09Z",
    "desc": "“When you’re on a streak this hot, why ration it?”",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
    "title": "The New Cue #622 September 4: Dexys Midnight Runners, DIIV, Clinic, Saskia, The Dresden Dolls, Cosign, Fat Dog, MorMor, Computerwife",
    "url": "https://thenewcue.substack.com/p/the-new-cue-622-september-4-dexys"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-28T09:00:55Z",
-   "desc": "“Like most people in the UK...”",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-621-august-28-interpol",
-   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
-   "title": "The New Cue #621 August 28: Interpol, Erykah Badu & The Alchemist, Johnny Marr, Queens Of The Stone Age, Heathers, Jeshi, Sam Herlihy, Bedouine, Julia Jacklin",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-621-august-28-interpol"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-11-06T13:57:16Z"
+ "updatedAt": "2026-11-09T21:30:07Z"
 }

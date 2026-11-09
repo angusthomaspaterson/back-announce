@@ -11484,6 +11484,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-09T17:31:13Z",
+     "desc": "As she releases the remarkable No Human Tongue Can Tell, the Dublin singer and member of Lankum discusses the enduring power of traditional music",
+     "duration": null,
+     "id": "https:--loudandquiet.substack.com-p-radie-peat-interview-no-human-tongue-can-tell",
+     "image": "https://substackcdn.com/image/fetch/$s_!Omt3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02768ea0-19f2-4ef0-8717-2fafd3fa79b6_2000x1333.jpeg",
+     "title": "Tradition as evolution: Radie Peat on her ‘dark Enya’ debut solo album",
+     "url": "https://loudandquiet.substack.com/p/radie-peat-interview-no-human-tongue-can-tell"
+    },
+    {
+     "audio": null,
      "date": "2026-11-06T08:02:33Z",
      "desc": "Becky & the Birds, Radie Peat live in London, First & Best with Brìghde Chaimbeul, Album Stock Market, and about this John Lewis ad",
      "duration": null,
@@ -11671,21 +11681,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!-DB3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa55f4e01-9029-4dcb-9e2c-1191a80e523e_1500x1002.gif",
      "title": "Album stock market: what records to invest in this October",
      "url": "https://loudandquiet.substack.com/p/album-stock-market-what-records-to-invest-in-this-october"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-28T16:02:59Z",
-     "desc": "Artists need to wrestle back from Spotify something they never much wanted, or give up more story telling",
-     "duration": null,
-     "id": "https:--loudandquiet.substack.com-p-bring-back-greatest-hits",
-     "image": "https://substackcdn.com/image/fetch/$s_!QoWi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcce1cfa1-eabf-48f0-accf-4e3acafa93d5_800x513.gif",
-     "title": "Bring back Greatest Hits",
-     "url": "https://loudandquiet.substack.com/p/bring-back-greatest-hits"
     }
    ],
    "kind": "rss",
    "name": "Loud And Quiet",
-   "updatedAt": "2026-11-06T13:57:16Z"
+   "updatedAt": "2026-11-09T21:30:07Z"
   },
   "love-is-the-message": {
    "home": "https://loveisthemessagepod.co.uk/",
@@ -33563,6 +33563,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-09T13:31:45Z",
+     "desc": "“I’d probably tell myself to take less drugs...”",
+     "duration": null,
+     "id": "https:--thenewcue.substack.com-p-the-new-cue-641-november-9-tim-wheeler",
+     "image": "https://substackcdn.com/image/fetch/$s_!MinT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F549c32eb-46f4-4ca5-a151-1b54c993d943_3088x2316.jpeg",
+     "title": "The New Cue #641 November 9: Tim Wheeler",
+     "url": "https://thenewcue.substack.com/p/the-new-cue-641-november-9-tim-wheeler"
+    },
+    {
+     "audio": null,
      "date": "2026-11-06T10:02:09Z",
      "desc": "“When you’re on a streak this hot, why ration it?”",
      "duration": null,
@@ -33750,21 +33760,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
      "title": "The New Cue #622 September 4: Dexys Midnight Runners, DIIV, Clinic, Saskia, The Dresden Dolls, Cosign, Fat Dog, MorMor, Computerwife",
      "url": "https://thenewcue.substack.com/p/the-new-cue-622-september-4-dexys"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-28T09:00:55Z",
-     "desc": "“Like most people in the UK...”",
-     "duration": null,
-     "id": "https:--thenewcue.substack.com-p-the-new-cue-621-august-28-interpol",
-     "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
-     "title": "The New Cue #621 August 28: Interpol, Erykah Badu & The Alchemist, Johnny Marr, Queens Of The Stone Age, Heathers, Jeshi, Sam Herlihy, Bedouine, Julia Jacklin",
-     "url": "https://thenewcue.substack.com/p/the-new-cue-621-august-28-interpol"
     }
    ],
    "kind": "rss",
    "name": "The New Cue",
-   "updatedAt": "2026-11-06T13:57:16Z"
+   "updatedAt": "2026-11-09T21:30:07Z"
   },
   "the-wire": {
    "home": "https://www.thewire.co.uk/",
@@ -34290,6 +34290,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-09T17:59:57Z",
+     "desc": "An interview with the Swedish musician and producer about political activism, his shifting perspectives since co-founding The Knife, and his new album ‘Loud Bloom’",
+     "duration": null,
+     "id": "https:--toneglow.substack.com-p-tone-glow-245-olof-dreijer",
+     "image": "https://substackcdn.com/image/fetch/$s_!6Mjo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1be1ded1-8e39-47ab-af76-5382a87a482b_1024x683.jpeg",
+     "title": "Tone Glow 245: Olof Dreijer",
+     "url": "https://toneglow.substack.com/p/tone-glow-245-olof-dreijer"
+    },
+    {
+     "audio": null,
      "date": "2026-11-06T16:58:30Z",
      "desc": "An interview with the American producer about being a scene kid, the Midwestern spirit of his house and techno, and the influences behind his new album as Loidis, ‘From the Toolkit of Lovers’",
      "duration": null,
@@ -34477,21 +34487,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!Ur63!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38adee19-e698-4feb-ae96-8b6b11691907_8084x5392.jpeg",
      "title": "Film Show 070: Cristóbal León & Joaquín Cociña",
      "url": "https://toneglow.substack.com/p/film-show-070-cristobal-leon-joaquin-cocina"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-11T14:41:31Z",
-     "desc": "An interview with the Brazilian filmmaker about ferality, motherhood, and her new feature film 'Hanabi' (aka 'Fire Flower'), which premieres at the 2026 edition of the Locarno Film Festival",
-     "duration": null,
-     "id": "https:--toneglow.substack.com-p-film-show-069-ana-vaz",
-     "image": "https://substackcdn.com/image/fetch/$s_!BgJI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff41a776e-13b6-4001-b957-4898c7ab12cf_9504x6336.jpeg",
-     "title": "Film Show 069: Ana Vaz",
-     "url": "https://toneglow.substack.com/p/film-show-069-ana-vaz"
     }
    ],
    "kind": "rss",
    "name": "Tone Glow",
-   "updatedAt": "2026-11-06T21:30:06Z"
+   "updatedAt": "2026-11-09T21:30:07Z"
   },
   "transitions": {
    "home": "https://www.mixcloud.com/JohnDigweed/",
@@ -38065,7 +38065,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-08T23:26:09Z",
+  "lastRun": "2026-11-09T21:30:07Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-08T22:55:13Z",
@@ -38266,7 +38266,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 20,
     "newest": "2026-11-03T18:22:41Z",
     "ok": true
@@ -38320,7 +38320,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -38338,7 +38338,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 7,
     "newest": "2026-11-05T12:15:12Z",
     "ok": true
@@ -38350,7 +38350,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 20,
     "newest": "2026-11-06T12:08:26Z",
     "ok": true
@@ -38392,7 +38392,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 20,
     "newest": "2026-11-08T13:44:53Z",
     "ok": true
@@ -38452,9 +38452,9 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 20,
-    "newest": "2026-11-06T08:02:33Z",
+    "newest": "2026-11-09T17:31:13Z",
     "ok": true
    },
    "love-is-the-message": {
@@ -38494,7 +38494,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -39214,7 +39214,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 20,
     "newest": "2026-11-08T14:51:00Z",
     "ok": true
@@ -39226,9 +39226,9 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 20,
-    "newest": "2026-11-06T10:02:09Z",
+    "newest": "2026-11-09T13:31:45Z",
     "ok": true
    },
    "the-wire": {
@@ -39244,9 +39244,9 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 20,
-    "newest": "2026-11-06T16:58:30Z",
+    "newest": "2026-11-09T17:59:57Z",
     "ok": true
    },
    "transitions": {
@@ -39334,7 +39334,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-08T23:26:09Z",
+    "at": "2026-11-09T21:30:07Z",
     "count": 7,
     "newest": "2026-11-03T19:00:43Z",
     "ok": true
