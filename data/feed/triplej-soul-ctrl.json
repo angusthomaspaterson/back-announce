@@ -3,6 +3,17 @@
  "id": "triplej-soul-ctrl",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q8/Z/vq.aac",
+   "date": "2026-11-09T10:00:00Z",
+   "desc": "From expansive jazz jams to shake it out reggae Tanya's giving you some music to mark the times on this soul ctrl... Available until 9 Dec. Tracklist: James Brown – The Payback; Honey Dijon & Tim K – Why [Ft. Nomi Ruiz]; The League of Rebelz – Boogie Woogie Reggae; AYODROOP – HEATWAVE; Christina Milian – Say I [Ft. Young Jeezy]; Mwanjé – Streets; Amal Zenab – groove theory [Ft. MoRuf, BASI VIBE]; Dahi & Obongjayar – Love Me; Tinashe – Pillow Fight; Feeferella – Sheets to the Wind; Laura Marling – Ghosts; Oscar LaDell – Tell Me True; DVYN – In My Face; YEИDRY – Barrio; Daddy Yankee – BOTZ; R2B…",
+   "duration": "7200",
+   "id": "107343582",
+   "image": "https://live-production.wcms.abc-cdn.net.au/2099db66f0689c9a10b9bd87c4405a75?impolicy=wcms_crop_resize&cropH=506&cropW=900&xPos=0&yPos=107&width=862&height=485&imformat=generic",
+   "title": "soul ctrl: talkin' bout a revolution",
+   "until": "2026-12-09T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/soul-ctrl/soul-ctrl/107343582"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q1/Z/m9.aac",
    "date": "2026-11-02T10:00:00Z",
    "desc": "JOKES, tanya's giving you heavenly vibes for a couple of hours here on soul ctrl... Available until 2 Dec. Tracklist: ROMME – SPELL.; Janet Jackson – Got 'Til It's Gone [Ft. Q-Tip, Joni Mitchell]; Jessie Reyez & Samara Cyn – FOR SIXXX IN THE MORNIN; JAY-Z – Big Pimpin' [Ft. UGK]; Priya Ragu – Madras; Toro Y Moi – Say That; parriun – MOOD RING; Cydnee with a C – Party; Salami Rose Joe Louis – Propaganda [Ft. Brijean]; Kolter – Trapped; TAKARA – Woof; Beyoncé & Shakira – Beautiful Liar; Jorge Ben Jor – Taj Mahal; Yung Maynie – Leave Me Alone; zaqquack – i dont like that; Nemzzz – GEEKIN [Ft. Li…",
@@ -34,20 +45,9 @@
    "title": "soul ctrl: until the rainbow burns the stars out in the sky!",
    "until": "2026-11-18T10:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/soul-ctrl/soul-ctrl/107262680"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pc/Z/34.aac",
-   "date": "2026-10-12T10:00:00Z",
-   "desc": "After a three week stint on mornings, your girl, Tanya is back swerving through the smooth jams... Available until 11 Nov. Tracklist: Miss Kaninna – Black Britney [Alexander Flood Remix]; Bobby Caldwell – What You Won't Do For Love; Olivia Dean – So Easy (To Fall In Love); Sampa The Great – Location; Salty Dog – See The Storm; Immy Owusu – Hard People; Sasha Keable – options; Moodymann – Do Wrong; Riva Starr, Close Counters & Andre Espeut – Push Your Luck; Madonna – Human Nature; AZ Chike – Need Your Love [Ft. JMSN]; Joyce Wrice – Wish I Knew [Ft. Odeal]; Nippa – Bittersweet; IsGwan & Soma – …",
-   "duration": "7200",
-   "id": "107236638",
-   "image": "https://live-production.wcms.abc-cdn.net.au/824cad23bd4b5c4b2075dcb3c2b54220?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=99&width=862&height=485&imformat=generic",
-   "title": "soul ctrl: express yourself don't repress yourself",
-   "until": "2026-11-11T10:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/soul-ctrl/soul-ctrl/107236638"
   }
  ],
  "kind": "abc",
  "name": "soul ctrl with Tanya Bunter",
- "updatedAt": "2026-11-06T07:23:44Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

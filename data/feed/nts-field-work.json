@@ -3,6 +3,16 @@
  "id": "nts-field-work",
  "items": [
   {
+   "date": "2026-11-07T20:00:00Z",
+   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com. From the host: \"Featuring guest C Voyant in the second hour. Tune in for two hours of atmospheric ambient and textured, percussive sounds @cvoyant\"_",
+   "id": "fieldwork-7th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/24671a02-fe08-4b7f-a29a-1b7111b15244_1793923200.jpeg",
+   "location": "London",
+   "tags": "Minimal, Industrial , Ambient, Ambient Techno",
+   "title": "Field Work w/ C Voyant",
+   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-7th-november-2026"
+  },
+  {
    "date": "2026-10-10T19:00:00Z",
    "desc": "From the host:'Continuing the theme from the past couple of months, 2 hours of (mainly) acoustic instruments processed so that they sound like synths'",
    "id": "fieldwork-10th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Folk, Experimental, Ambient, Modern Classical",
    "title": "Field Work",
    "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-6th-december-2025"
-  },
-  {
-   "date": "2025-11-08T20:00:00Z",
-   "desc": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.",
-   "id": "fieldwork-8th-november-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/74300c1d-8b9c-447d-9751-a5e88d571a95_1762473600.jpeg",
-   "location": "London",
-   "tags": "Experimental, Industrial , Leftfield Techno",
-   "title": "Field Work",
-   "url": "https://www.nts.live/shows/fieldwork/episodes/fieldwork-8th-november-2025"
   }
  ],
  "kind": "nts",
  "name": "Field Work",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

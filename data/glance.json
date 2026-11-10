@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "d": "2026-11-10T00:00:00Z",
+   "g": "Progressive",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "Joe Miller: Live from Balance Croatia 2026",
+   "u": "https://soundcloud.com/balance-series/joe-miller-live-balance-croatia"
+  },
+  {
+   "d": "2026-11-09T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Future Artists with Sian Eleri",
+   "sid": "bbc-radio-1s-future-artists-with-sian-eleri",
+   "t": "Live music from Basht",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033pk6"
+  },
+  {
    "d": "2026-11-09T17:59:57Z",
    "g": "Writing",
    "s": "Tone Glow",
@@ -9,12 +25,77 @@
    "u": "https://toneglow.substack.com/p/tone-glow-245-olof-dreijer"
   },
   {
+   "d": "2026-11-09T10:14:39Z",
+   "g": "Mixes",
+   "s": "Dekmantel Podcast",
+   "sid": "dekmantel-podcast",
+   "t": "Dekmantel Mix 520 - Gop Tun DJs",
+   "u": "https://soundcloud.com/dkmntl/dekmantel-mix-520-gop-tun-djs"
+  },
+  {
+   "d": "2026-11-09T10:00:00Z",
+   "g": "triple j",
+   "s": "soul ctrl with Tanya Bunter",
+   "sid": "triplej-soul-ctrl",
+   "t": "soul ctrl: talkin' bout a revolution",
+   "u": "https://www.abc.net.au/triplej/programs/soul-ctrl/soul-ctrl/107343582"
+  },
+  {
+   "d": "2026-11-09T09:00:00Z",
+   "g": "Progressive",
+   "s": "Nora En Pure: Purified Radio",
+   "sid": "nora-en-pure",
+   "sp": "Nora En Pure: Purified Radio Purified Radio 533",
+   "t": "Purified Radio 533",
+   "u": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_533_Podcast-1793903084299309286-NDMzMjctODc0NDkxODE=.mp3"
+  },
+  {
+   "d": "2026-11-09T08:03:33Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "t": "Maxime Denuc",
+   "u": "https://www.flowstate.fm/p/maxime-denuc"
+  },
+  {
+   "d": "2026-11-09T08:00:00Z",
+   "g": "triple j",
+   "s": "Home and Hosed with Anika Luna",
+   "sid": "triplej-home-and-hosed",
+   "t": "Home and Hosed, 9 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107343608"
+  },
+  {
+   "d": "2026-11-09T07:00:00Z",
+   "g": "Double J",
+   "s": "Classic Albums with Caz Tran",
+   "sid": "doublej-classic-albums",
+   "t": "King Gizzard and the Lizard Wizard - Nonagon Infinity",
+   "u": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-king-gizzard-lizard-wizard-nonagon-infinity/107316682"
+  },
+  {
+   "d": "2026-11-08T23:00:00Z",
+   "g": "BBC",
+   "s": "BBC Introducing on Radio 1 Dance",
+   "sid": "bbc-introducing-on-radio-1-dance",
+   "t": "with Jaguar: Into The Underground",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033yx6"
+  },
+  {
+   "d": "2026-11-08T23:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Chillest Show with Sian Eleri",
+   "sid": "bbc-radio-1s-chillest-show-with-sian-eleri",
+   "t": "Rex Orange County Chill Mix",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033ptw"
+  },
+  {
    "d": "2026-11-08T22:00:40Z",
    "g": "Mixes",
    "s": "RA Podcast",
    "sid": "ra-podcast",
-   "t": "1064 RA.1064 Carlita",
-   "u": "https://soundcloud.com/resident-advisor/1064-ra-1064-carlita"
+   "t": "RA.1064 Carlita",
+   "u": "https://soundcloud.com/resident-advisor/ra-1064-carlita"
   },
   {
    "d": "2026-11-08T22:00:00Z",
@@ -23,6 +104,14 @@
    "sid": "bbc-stuart-maconies-freak-zone",
    "t": "Sonny Sharrock - Ask the Ages",
    "u": "https://www.bbc.co.uk/sounds/play/m0033mm5"
+  },
+  {
+   "d": "2026-11-08T21:00:00Z",
+   "g": "NTS",
+   "s": "A Colourful Storm",
+   "sid": "nts-a-colourful-storm",
+   "t": "A Colourful Storm - Love Story",
+   "u": "https://www.nts.live/shows/a-colourful-storm/episodes/a-colourful-storm-8th-november-2026"
   },
   {
    "d": "2026-11-08T20:00:00Z",
@@ -72,98 +161,10 @@
    "sid": "21c-progressive",
    "t": "Gerzinio | The Racket Club",
    "u": "https://soundcloud.com/21cprogressivehouse/gerzinio-the-racket-club"
-  },
-  {
-   "d": "2026-11-08T01:00:00Z",
-   "g": "BBC",
-   "s": "SHERELLE",
-   "sid": "bbc-sherelle",
-   "t": "The Sweatbox - with Carré",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033mgz"
-  },
-  {
-   "d": "2026-11-08T00:30:00Z",
-   "g": "BBC",
-   "s": "SHERELLE",
-   "sid": "bbc-sherelle",
-   "t": "DJ Suzy in the Cab to the Club",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033mgx"
-  },
-  {
-   "d": "2026-11-07T18:00:00Z",
-   "g": "BBC",
-   "s": "Gilles Peterson on 6 Music",
-   "sid": "bbc-gilles-peterson",
-   "t": "A chat with Peven Everett, and Georgia Anne Muldrow in the studio",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033mgq"
-  },
-  {
-   "d": "2026-11-07T15:00:00Z",
-   "g": "BBC",
-   "s": "Jamz Supernova",
-   "sid": "bbc-jamz-supernova",
-   "t": "with Lenna Bahule",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033mgn"
-  },
-  {
-   "d": "2026-11-07T14:00:00Z",
-   "g": "triple j",
-   "s": "Mix Up with Kailyn Crabbe",
-   "sid": "triplej-mix-up",
-   "t": "Mix Up: KÄRLA",
-   "u": "https://www.abc.net.au/triplej/programs/mix-up/karla-djset-2026/107350114"
-  },
-  {
-   "d": "2026-11-07T13:00:00Z",
-   "g": "triple j",
-   "s": "Mix Up with Kailyn Crabbe",
-   "sid": "triplej-mix-up",
-   "t": "Mix Up: Morgan Seatree",
-   "u": "https://www.abc.net.au/triplej/programs/mix-up/morganseatree-djset-2026/107345674"
-  },
-  {
-   "d": "2026-11-07T12:00:00Z",
-   "g": "triple j",
-   "s": "Mix Up with Kailyn Crabbe",
-   "sid": "triplej-mix-up",
-   "t": "Mix Up: UNIIQU3",
-   "u": "https://www.abc.net.au/triplej/programs/mix-up/uniiqu3-djset-2026/107345672"
-  },
-  {
-   "d": "2026-11-07T11:00:00Z",
-   "g": "triple j",
-   "s": "Mix Up with Kailyn Crabbe",
-   "sid": "triplej-mix-up",
-   "t": "Mix Up Resident: IsGwan",
-   "u": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w1-djset-2026/107345668"
-  },
-  {
-   "d": "2026-11-07T07:00:00Z",
-   "g": "triple j",
-   "s": "House Party with Shantan Wantan Ichiban and Latifa Tee",
-   "sid": "triplej-house-party",
-   "t": "House Party, 7 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/house-party/house-party/107334326"
-  },
-  {
-   "d": "2026-11-07T02:00:40Z",
-   "g": "Perth",
-   "s": "RTRFM / RTR2 mixes",
-   "sid": "rtr2",
-   "t": "Airline Food's Coast 2 Coast Ep. 1 w/ Jack Seah",
-   "u": "https://soundcloud.com/rtrfm-92-1/airline-food-coast-to-coast-ep-1-jack-seah"
-  },
-  {
-   "d": "2026-11-07T02:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Essential Mix",
-   "sid": "bbc-radio-1s-essential-mix",
-   "t": "Armin van Buuren & Benwal at ADE (Gashouder)",
-   "u": "https://www.bbc.co.uk/sounds/play/m00338ry"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 572,
+ "newCount": 583,
  "paused": 22,
  "releases": [
   {
@@ -248,5 +249,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-09T21:30:07Z"
+ "updated": "2026-11-10T02:10:50Z"
 }

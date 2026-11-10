@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-09T00:00:00Z",
+   "desc": "Popular music criticism can become relevant again by situating itself in broader theoretical frameworks, argues Rafael Lubner in The Wire 514 These are lean times for popular music criticism. Negotiating a gutted publishing landscape, amid a Spotify-led devaluation of listening, the form finds itself under serious threat. One index of criticism’s attenuated state is the narrowing frame of reference employed by critics to apprehend musical objects – rarely do we find new works in the visual arts, film or literature employed to understand transformations in music’s sound or form. Take, as a poi…",
+   "duration": null,
+   "id": ":--www.thewire.co.uk-in-writing-collateral-damage-against-the-grain-music-criticism-can-become-critical-again-here-s-how",
+   "image": "https://www.thewire.co.uk/img/contain/598/480/2026/11/09/rembrandt_for_web.jpg",
+   "title": "Against the Grain: Music criticism can become critical again – here's how",
+   "url": "https://www.thewire.co.uk/in-writing/collateral-damage/against-the-grain-music-criticism-can-become-critical-again-here-s-how"
+  },
+  {
+   "audio": null,
    "date": "2026-11-05T00:00:00Z",
    "desc": "Stream a selection of tracks from releases we listened to during the making of our December 2026 issue The full chart: Casserley/Marzan/Van Schouwburg/Wachsmann Being ( Bead ) Alvin Curran Conducts Iato Orchestra Roman Ruins ( We Insist! ) FuzzyToyShip Maiden Voyage ( ato.archives ) Germ Lattice Gipping Through The Ages ( Horn Of Plenty ) Gordan Gastarbeiter ( Glitterbeat ) Agnes Haus Eidolon ( Line ) Salamat Ali Khan Metamusik Festival Berlin 74 Vol II ( Black Truffle ) Moose Wrench Mr Sidequest ( Bandcamp ) Robert Mitchell & Corey Mwamba In The Blood ( Discus ) Mona Mur Trio Les Chansons Br…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/24/LR-Kaja-Draksler-2026-14-fin_crop.jpg",
    "title": "Wire  mix: Kaja Draksler",
    "url": "https://www.thewire.co.uk/audio/tracks/wire-mix-kaja-draksler"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-17T00:00:00Z",
-   "desc": "Voice and sound theorist Zeynep Bulut talks to Xenia Benivolski about her latest book, which delves into the friction between voices, electromagnetic sound, synthetic speech and listening beyond the demand for fluency In Building a Voice: Sound, Surface, Skin (Goldsmiths Press, 2025), Zeynep Bulut asks whether a voice could be understood as something co-constructed between bodies, technologies and environments. Drawing on experimental music, psychoanalysis, sound and media art, Bulut proposes the voice as a multisensory interface: a ‘skin’ that connects us to others while simultaneously maint…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-in-writing-interviews-surfacing-voices-an-interview-with-voice-theorist-zeynep-bulut",
-   "image": "https://www.thewire.co.uk/img/contain/612/480/2026/09/21/ZeynepBulut_Image_2_Photo_Credit_Rachel_McCarthy_copy.jpg",
-   "title": "Surfacing voices: an interview with voice theorist Zeynep Bulut",
-   "url": "https://www.thewire.co.uk/in-writing/interviews/surfacing-voices-an-interview-with-voice-theorist-zeynep-bulut"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-11-06T13:57:31Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

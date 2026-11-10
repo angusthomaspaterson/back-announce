@@ -3,6 +3,17 @@
  "id": "doublej-classic-albums",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q8/Z/q7.aac",
+   "date": "2026-11-09T07:00:00Z",
+   "desc": "Jump on board and hold on tight for a thrilling white knuckle ride through the Gizzverse and beyond. Available until 9 Nov. Tracklist: King Gizzard & The Lizard Wizard – Robot Stop; King Gizzard & The Lizard Wizard – Big Fig Wasp; King Gizzard & The Lizard Wizard – Gamma Knife; King Gizzard & The Lizard Wizard – People-Vultures; King Gizzard & The Lizard Wizard – Mr. Beat; King Gizzard & The Lizard Wizard – Evil Death Roll; King Gizzard & The Lizard Wizard – Invisible Face; King Gizzard & The Lizard Wizard – Wah Wah; Phoebe Bridgers – Lost Boys; Busta Rhymes & J Dilla – This Woman [Ft. D'Ange…",
+   "duration": "3599",
+   "id": "107316682",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e9606fcf767d0a8857e5a4713a7aab5c?impolicy=wcms_watermark_abc&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "King Gizzard and the Lizard Wizard - Nonagon Infinity",
+   "until": "2027-11-09T07:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-king-gizzard-lizard-wizard-nonagon-infinity/107316682"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q1/Z/gd.aac",
    "date": "2026-11-02T07:00:00Z",
    "desc": "With euphoric hooks, infectious beats and a string of hit singles, Sneaky Sound System's debut album was a defining moment of 2000s Australian music. Available until 2 Nov. Tracklist: Sneaky Sound System – I Love It; Sneaky Sound System – Thin Disguise; Sneaky Sound System – UFO; Sneaky Sound System – Goodbye; Sneaky Sound System – Hip Hip Hooray; Sneaky Sound System – It's Over; Carla Geneve – Backing Away; Toro Y Moi – Buffalo; Sampa The Great – Star [Ft. KAMAUU]; BIG NOTER & Tom Morello – WHAT'S THE MATTER WITH ADAM?; Definition Of Sound – Wear Your Love Like Heaven",
@@ -100,20 +111,9 @@
    "title": "Alex Lloyd - Watching Angels Mend",
    "until": "2027-09-07T08:00:00Z",
    "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-alex-lloyd-watching-angels-mend/107077946"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/o1/Z/se.aac",
-   "date": "2026-08-31T08:00:00Z",
-   "desc": "The album that affirmed Frank Ocean as a generational talent. Available until 31 Aug. Tracklist: Frank Ocean – Nikes; Frank Ocean – Ivy; Frank Ocean – Pink + White; Frank Ocean – Solo; Frank Ocean – Self Control; Frank Ocean – Nights; Frank Ocean – White Ferrari; Frank Ocean – Seigfried; Frank Ocean – Godspeed; Interpol – This Mirror Weighs A Ton",
-   "duration": "3600",
-   "id": "107052520",
-   "image": "https://live-production.wcms.abc-cdn.net.au/8c64983924d51142a8ad6b14b72fe989?impolicy=wcms_watermark_abc&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-   "title": "Frank Ocean - Blond",
-   "until": "2027-08-31T08:00:00Z",
-   "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-frank-ocean-blond/107052520"
   }
  ],
  "kind": "abc",
  "name": "Classic Albums with Caz Tran",
- "updatedAt": "2026-11-06T11:14:15Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

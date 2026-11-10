@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-09T08:00:00Z",
+   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+   "duration": null,
+   "id": "6aedeccb34f78b0001381f50",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/11/7.jpg",
+   "title": "Andy Stott on Comedy, Working in a Garage, and Setting the Parameters",
+   "url": "https://last-donut-of-the-night.ghost.io/andy-stott-on-comedy-working-in-a-garage-and-setting-the-parameters/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-06T14:46:39Z",
    "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/digger.jpg",
    "title": "Screen Memories: Digger, Crocodile Dose, Castration Movie",
    "url": "https://last-donut-of-the-night.ghost.io/screen-memories-digger-crocodile-dose-castration-movie/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-12T15:51:22Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6ac8e6e6290c1300011b1a01",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/2-claire-cronin-photo-courtesy-of-the-artist.jpg",
-   "title": "Clare Cronin on Childbirth, Horror, and the End of the World",
-   "url": "https://last-donut-of-the-night.ghost.io/clare-cronin-on-childbirth-horror-and-the-end-of-the-world/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-11-06T23:44:12Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

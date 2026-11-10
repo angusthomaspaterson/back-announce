@@ -3,7 +3,7 @@
  "id": "triplej-mix-up",
  "items": [
   {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/bh.mp3",
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q9/Z/f4.mp3",
    "date": "2026-11-07T14:00:00Z",
    "desc": "Eora/Sydney-based rising star KÄRLA sends it with a set full of bouncy techno and groovy trance! Available until 7 Dec.",
    "duration": "3620",
@@ -38,7 +38,7 @@
   {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/au.mp3",
    "date": "2026-11-07T11:00:00Z",
-   "desc": "Naarm/Melbourne bass boss IsGwan is our Resident for November! For week one he’s taking us through some of his early inspirations and original tunes, so don’t miss. Available until 7 Dec.",
+   "desc": "Naarm/Melbourne bass boss IsGwan is our November Mix Up Resident! Don't miss his first mix, where he takes us through some of his earliest inspirations and original tunes. Available until 7 Dec.",
    "duration": "3665",
    "id": "107345668",
    "image": "https://live-production.wcms.abc-cdn.net.au/5440ae9185d564d1a294d68bc6ab3709?impolicy=wcms_crop_resize&cropH=1726&cropW=3068&xPos=0&yPos=1637&width=862&height=485&imformat=generic",
@@ -115,5 +115,5 @@
  ],
  "kind": "abc",
  "name": "Mix Up with Kailyn Crabbe",
- "updatedAt": "2026-11-07T22:46:59Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

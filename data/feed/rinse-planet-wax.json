@@ -3,6 +3,14 @@
  "id": "rinse-planet-wax",
  "items": [
   {
+   "date": "2026-11-06T19:00:00Z",
+   "desc": "",
+   "id": "planet-wax-06-11-2026-1900",
+   "image": "https://image.rinse.fm/_/Planet-Wax-May-2023-Main.jpeg?w=1200&h=630",
+   "title": "Planet Wax, 6 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/planet-wax-06-11-2026-1900"
+  },
+  {
    "date": "2026-09-04T18:00:00Z",
    "desc": "",
    "id": "planet-wax-04-09-2026-1900",
@@ -187,14 +195,6 @@
    "url": "https://www.rinse.fm/episodes/planet-wax-22-05-2025-1500"
   },
   {
-   "date": "2025-05-08T14:00:00Z",
-   "desc": "",
-   "id": "planet-wax-08-05-2025-1500",
-   "image": "https://image.rinse.fm/_/Planet-Wax-May-2023-Main.jpeg?w=1200&h=630",
-   "title": "Planet Wax, 8 May 2025",
-   "url": "https://www.rinse.fm/episodes/planet-wax-08-05-2025-1500"
-  },
-  {
    "date": "2023-07-27T14:00:00Z",
    "desc": "",
    "id": "planet-wax-27-07-2023-1500",
@@ -205,5 +205,5 @@
  ],
  "kind": "rinse",
  "name": "Planet Wax",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

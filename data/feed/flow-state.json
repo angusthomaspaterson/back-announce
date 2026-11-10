@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-09T08:03:33Z",
+   "desc": "Today we’re listening to Maxime Denuc, a French electronic musician based in Brussels.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-maxime-denuc",
+   "image": "https://substackcdn.com/image/fetch/$s_!RmGQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4602ef6-0c26-46f0-89ee-2f8c35848d2c_2388x1694.png",
+   "title": "Maxime Denuc",
+   "url": "https://www.flowstate.fm/p/maxime-denuc"
+  },
+  {
+   "audio": null,
    "date": "2026-11-06T08:03:01Z",
    "desc": "Today we’re listening to Vainqueur, a German electronic musician.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
    "title": "Flow State Episode 347",
    "url": "https://www.flowstate.fm/p/flow-state-episode-347"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-12T07:03:52Z",
-   "desc": "Today we’re listening to Windy & Carl, an American space rock duo consisting of Windy Weber and Carl Hultgren.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-windy-and-carl-aa5",
-   "image": "https://substackcdn.com/image/fetch/$s_!eArz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F798a0f01-46a0-4c1f-818d-727afe82c68a_2214x1346.png",
-   "title": "Windy & Carl",
-   "url": "https://www.flowstate.fm/p/windy-and-carl-aa5"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-06T11:14:15Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

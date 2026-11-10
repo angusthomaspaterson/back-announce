@@ -3,6 +3,16 @@
  "id": "nts-a-colourful-storm",
  "items": [
   {
+   "date": "2026-11-08T21:00:00Z",
+   "desc": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
+   "id": "a-colourful-storm-8th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/670e04df-8d1e-4d7f-831f-7bb48de152dd_1793923200.jpeg",
+   "location": "Melbourne",
+   "tags": "Electronica, Folk, Ambient, Modern Classical",
+   "title": "A Colourful Storm - Love Story",
+   "url": "https://www.nts.live/shows/a-colourful-storm/episodes/a-colourful-storm-8th-november-2026"
+  },
+  {
    "date": "2026-10-11T20:00:00Z",
    "desc": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
    "id": "a-colourful-storm-11th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Electronica, Folk, Ambient, Leftfield Pop",
    "title": "A Colourful Storm - Mysterious Skin",
    "url": "https://www.nts.live/shows/a-colourful-storm/episodes/a-colourful-storm-1st-december-2025"
-  },
-  {
-   "date": "2025-10-06T11:00:00Z",
-   "desc": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
-   "id": "a-colourful-storm-6th-october-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/1f1a78e9-e5e3-47de-ac71-1a6f43a14353_1759449600.jpeg",
-   "location": "Melbourne",
-   "tags": "Folk, Modern Classical",
-   "title": "A Colourful Storm - Archive of Longings",
-   "url": "https://www.nts.live/shows/a-colourful-storm/episodes/a-colourful-storm-6th-october-2025"
   }
  ],
  "kind": "nts",
  "name": "A Colourful Storm",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

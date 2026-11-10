@@ -3,14 +3,14 @@
  "id": "ra-podcast",
  "items": [
   {
-   "audio": "https://feeds.soundcloud.com/stream/2433288471-resident-advisor-1064-ra-1064-carlita.mp3",
+   "audio": "https://feeds.soundcloud.com/stream/2433288471-resident-advisor-ra-1064-carlita.mp3",
    "date": "2026-11-08T22:00:40Z",
    "desc": "Sun-soaked house from the Circoloco favourite. Want to know what life is like when the sun is always shining? Carlita might be able to tell you. The Istanbul-born DJ follows the summer around the world, and her calendar reads like a festival bucket list: Coachella, Sónar, Tomorrowland and, most often, Circoloco at DC-10. It's also a neat encapsulation of her DJing. One of the biggest names in big-room house, Carlita has a sound that's warm and melodic, often pairing house classics with pop hooks and the odd swell of strings. It's a long way from where she started. Classically trained on the c…",
    "duration": "01:01:26",
    "id": "tag:soundcloud-2010:tracks-2433288471",
    "image": "https://i1.sndcdn.com/artworks-ytLI2lxPkl84uZp9-ckwTxg-t3000x3000.jpg",
-   "title": "1064 RA.1064 Carlita",
-   "url": "https://soundcloud.com/resident-advisor/1064-ra-1064-carlita"
+   "title": "RA.1064 Carlita",
+   "url": "https://soundcloud.com/resident-advisor/ra-1064-carlita"
   },
   {
    "audio": "https://feeds.soundcloud.com/stream/2432020215-resident-advisor-ex-817-chase-status.mp3",
@@ -255,5 +255,5 @@
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-11-08T22:55:13Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

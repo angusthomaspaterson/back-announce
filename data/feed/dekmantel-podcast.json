@@ -3,6 +3,16 @@
  "id": "dekmantel-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2432024388-dkmntl-dekmantel-mix-520-gop-tun-djs.mp3",
+   "date": "2026-11-09T10:14:39Z",
+   "desc": "Gop Tun DJs are four friends with one obsession: creating the perfect dancefloor with lost gems and improbable classics. Caio T, Gui Scott, Nascii and Tyv started out in São Paulo in 2012 and have since built a party, a label and a festival that's become a vital movement. They’ve brought their famous free spirit to Dekmantel before with magically sunny sets, and will return to Selectors to host another boat party in 2027. Warm, psychedelic and dug out from the deepest of crates, they have house and disco at their core, but spring plenty of surprises along the way. The group pull out all the s…",
+   "duration": "01:23:59",
+   "id": "tag:soundcloud-2010:tracks-2432024388",
+   "image": "https://i1.sndcdn.com/artworks-fAYQQtv05FUYJuar-mN5mfQ-t3000x3000.jpg",
+   "title": "Dekmantel Mix 520 - Gop Tun DJs",
+   "url": "https://soundcloud.com/dkmntl/dekmantel-mix-520-gop-tun-djs"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2417398344-dkmntl-dekmantel-mix-519-leon.mp3",
    "date": "2026-10-12T07:58:32Z",
    "desc": "Club bangers, high-concept artist albums, all night long sessions and wide-ranging DJ mixes - UK talent Leon Vynehall can do it all. More than just a producer, he is a thinker who likes to explore beyond the usual limits: in the past, he's served up novellas and short films to complement his music. His most recent album, 2025's In Daytona Yellow, centred around human voices and embraced real vulnerability. This week's mix takes a similarly thoughtful approach. It was, he says, assembled like an album with an underlying musical narrative loosely themed around 'humanity'. In between the selecti…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-z3ck2TaNblIJPx1b-WEAuzg-t3000x3000.png",
    "title": "Javybz at Greenhouse - Dekmantel Festival 2025",
    "url": "https://soundcloud.com/dkmntl/javybz-at-greenhouse-dekmantel-festival-2025"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2227782002-dkmntl-noda-wolfers-at-greenhouse-dekmantel-festival-2025.mp3",
-   "date": "2025-12-23T13:00:13Z",
-   "desc": "Recording of Noda & Wolfers's set at the Greenhouse stage during Dekmantel Festival 2025.",
-   "duration": "01:00:46",
-   "id": "tag:soundcloud-2010:tracks-2227782002",
-   "image": "https://i1.sndcdn.com/artworks-77jxRNDYYtO5raM3-ogcrbw-t3000x3000.png",
-   "title": "Noda & Wolfers at Greenhouse - Dekmantel Festival 2025",
-   "url": "https://soundcloud.com/dkmntl/noda-wolfers-at-greenhouse-dekmantel-festival-2025"
   }
  ],
  "kind": "rss",
  "name": "Dekmantel Podcast",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

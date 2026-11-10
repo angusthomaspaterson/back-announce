@@ -3,6 +3,17 @@
  "id": "triplej-home-and-hosed",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q8/Z/tl.aac",
+   "date": "2026-11-09T08:00:00Z",
+   "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 9 Dec. Tracklist: Odette – Blink; Mwanjé – Streets; Ninajirachi & Porter Robinson – WannaCry; Armlock – Lifer; Daezy – I WANT YOU; The Avalanches – The Divine Chord [Ft. MGMT, Johnny Marr]; Becca Hatch – Extra Time; 1300 – ILLSAMGONGGONG; daine – Supervillain; Maia Toakley – Everything On Fire; Soul Wun – Beautiful Noise In My Head; ROMME – SPELL.; Julia Jacklin – Get Away From Me (I Think I'll Love You Soon) [triple j Like A Version 2026]; Julia Jacklin – If I Had The Hand Of God; Tobiahs & …",
+   "duration": "7200",
+   "id": "107343608",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e53a18092190656f98b05e2e56c91fe4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Home and Hosed, 9 Nov",
+   "until": "2026-12-09T08:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107343608"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q5/Z/dk.aac",
    "date": "2026-11-05T08:00:00Z",
    "desc": "Wrapping up the week, we've got two first plays from both ixaras and Jerome Blazé, and Anika chats to Juice Webster about her brand new album !! Available until 5 Dec. Tracklist: The Good Kids – Damage; Genesis Owusu & KYE – HUMAN AGAIN; FISHER & LAUREL – Staring At The Sun; ixaras – wasn't invited; Radio Free Alice – Lunch Money; The Avalanches, Portraits Of Tracy – Can't Get Over Losing You; Troye Sivan – FF; Skin On Skin – Someone Like You; Salty – The Eye; Teen Jesus and the Jean Teasers – All The Things She Said [triple j Like A Version 2026]; Hannah McKittrick – Utensil; Juice Webster –…",
@@ -100,20 +111,9 @@
    "title": "Home and Hosed: First Play from Sweatbaby & DEVAURA",
    "until": "2026-11-21T08:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107278340"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pl/Z/oa.aac",
-   "date": "2026-10-21T08:00:00Z",
-   "desc": "On your Wednesday, Anika Luna's got a brand new first play from Boorloo/Perth musician Elianie !! Available until 20 Nov. Tracklist: Dom Dolla & Solomun – DANGER DANGER [Ft. Skepta]; Ruby Fields – Stay; Seb Szabo – Magpie; aleksiah – Bullshit, Baby!; Elianie – same mistakes; Kayps – SHIPS [Ft. Flewnt, JJ Vacant]; Mariae Cassandra – Million Billion Trillion; Justice – Flower In A Hurricane [Ft. Tame Impala, SZA, King Gizzard, The Lizard Wizard]; Bugs – Tough Love; Sam Green – OVER AND OVER; Tkay Maidza – Romanticize [Ft. Jenevieve]; Ocean Sleeper – My Forever Drug; neish – drunk; Maia Toakley …",
-   "duration": "7200",
-   "id": "107272964",
-   "image": "https://live-production.wcms.abc-cdn.net.au/c0167b8df66f553cd9f3265646b4591d?impolicy=wcms_crop_resize&cropH=498&cropW=886&xPos=0&yPos=24&width=862&height=485&imformat=generic",
-   "title": "Home and Hosed: First Play from Elianie",
-   "until": "2026-11-20T08:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107272964"
   }
  ],
  "kind": "abc",
  "name": "Home and Hosed with Anika Luna",
- "updatedAt": "2026-11-06T07:23:44Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

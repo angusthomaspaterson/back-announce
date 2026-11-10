@@ -3,6 +3,16 @@
  "id": "nora-en-pure",
  "items": [
   {
+   "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_533_Podcast-1793903084299309286-NDMzMjctODc0NDkxODE=.mp3",
+   "date": "2026-11-09T09:00:00Z",
+   "desc": "Tracklisting: 01. Nora En Pure - Big World (Extended Mix) 02. Einmusik - The Long Way Home (Extended Mix) 03. Le Youth & Forester feat. Robertson - alone (L.GU. Remix) * 04. Booka Shade - In White Rooms (Hugo Cantarra x sone. Remix) 05. Ward Andrews - Distance (Extended Mix) 06. Milan Steenwinkel & Deviu - Delusion (Extended Mix) 07. Guzy - Do It (Extended Mix) 08. SAFARIS - Chainless (Extended Mix) 09. Path Of Youth - Artemis (Extended Mix) 10. Haddadi Von Engst - Conquered Everything (Extended Mix) 11. Helsloot, Matt Fax - To The Ground (Helsloot Remix) ** 12. Slow Ted x Boycott x GIA.NNA -…",
+   "duration": "01:00:44",
+   "id": "http:--audio.thisisdistorted.com-repository-audio-episodes-NORA_533_Podcast-1793903084299309286-NDMzMjctODc0NDkxODE-.mp3",
+   "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
+   "title": "Purified Radio 533",
+   "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_533_Podcast-1793903084299309286-NDMzMjctODc0NDkxODE=.mp3"
+  },
+  {
    "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_532_Podcast-1793275373652532389-NDMyODktODYxOTc4MTE=.mp3",
    "date": "2026-11-02T09:00:00Z",
    "desc": "Tracklisting: 01. Jonas Saalbach ft. Feyva - Somewhere Else (Extended Mix) 02. Glusko - Dissolve (Extended Mix) 03. Le Youth & ALLKNIGHT - Sanctuary (Matt Fax Extended Mix) 04. MakeMake - All Of Us (Extended Mix) 05. Jares x Stefan Addo ft. Nemila - Keep On Fighting (Extended Mix) 06. Aalson & Minorah - First One (Original Mix) 07. Camiel Villa ft. Nick Anthony - Until The Light (Extended Mix) 08. PRAANA - Mojave (mölly Extended Remix) ** 09. Falden, Josha Daniel - No Goodbye (Extended Mix) 10. Verbala - Only You (Extended Mix) 11. Marten Lou, Ross Quinn - Chemical (Extended Mix) * 12. Bound …",
@@ -241,19 +251,9 @@
    "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
    "title": "Purified Radio 509",
    "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_509_Podcast-1779268609285133191-NDI2MzEtODgzOTI3MjQ=.mp3"
-  },
-  {
-   "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_508_Podcast-1778692436233155881-NDI2MDctOTAxNTY5Mjk=.mp3",
-   "date": "2026-05-18T08:00:00Z",
-   "desc": "Tracklisting 01. Glusko - Broken Dreams (Extended Mix) 02. Mees Salomé, Thysma - Nova (Extended Mix) 03. Eelke Kleijn x Budakid Ft. Nathan Nicholson - Another Life (Extended Mix) ** 04. Offtide - Forget The Mistake (Extended Mix) 05. Vemativ - Told You (Extended Mix) 06. Alessio Cristiano & Moonwalk - Butterfly (Extended Mix) 07. CamelPhat, Arodes - Cycles (Extended Mix) 08. Julia Linkogel - All You Need (Extended Mix) 09. PROFF - Izum Sunrise (Extended Mix) 10. Above & Beyond - Sun In Your Eyes (Extended Mix) 11. MAXTAGE - Shadows (Extended Mix) * 12. Mike Kohl - Desert Sun (Extended Mix) 1…",
-   "duration": "01:02:37",
-   "id": "http:--audio.thisisdistorted.com-repository-audio-episodes-NORA_508_Podcast-1778692436233155881-NDI2MDctOTAxNTY5Mjk-.mp3",
-   "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
-   "title": "Purified Radio 508",
-   "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_508_Podcast-1778692436233155881-NDI2MDctOTAxNTY5Mjk=.mp3"
   }
  ],
  "kind": "rss",
  "name": "Nora En Pure: Purified Radio",
- "updatedAt": "2026-11-03T01:37:20Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-09T17:43:15Z",
+   "desc": "On the 25th anniversary of Mulholland Drive, we dig deep into the Hollywood mysteries hidden within its peculiar soundtrack.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-mulholland-drive-david-lynch-music",
+   "image": "https://substackcdn.com/image/fetch/$s_!Vxka!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fc16246-17cd-4869-a6d5-83502101533c_1200x1200.png",
+   "title": "The Sound of Silencio",
+   "url": "https://www.powmag.net/p/mulholland-drive-david-lynch-music"
+  },
+  {
+   "audio": null,
    "date": "2026-11-07T18:03:45Z",
    "desc": "The Rap-Up considers the most notable singles of the past week. Today, Donald Morrison reviews new work from ZelooperZ, Veeze, Babyface Ray, and more.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AasW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83fa4eff-9def-4a7b-a581-ac561d476060_1200x1200.png",
    "title": "Your Soul Is Smart",
    "url": "https://www.powmag.net/p/bobbyy-tackyy-interview"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-15T16:42:47Z",
-   "desc": "Sparklmami traces the long road to her debut album, ‘in this body.’",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-sparklmami-interview-in-this-body",
-   "image": "https://substackcdn.com/image/fetch/$s_!h6Ha!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8be74199-e6a7-4103-8cd1-6f3624585dc8_1200x1200.png",
-   "title": "I’m 12, Feeling Guilty for Listening to Coldplay",
-   "url": "https://www.powmag.net/p/sparklmami-interview-in-this-body"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-07T22:46:59Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }

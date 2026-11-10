@@ -3,6 +3,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2435288571-balance-series-joe-miller-live-balance-croatia.mp3",
+   "date": "2026-11-10T00:00:00Z",
+   "desc": "Recording of Joe Miller's set from Balance Croatia 2026. @joe-miller ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ Buy FINAL RELEASE TIX: go.kaboodle.co.uk/Balance-2027-GS _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
+   "duration": "02:47:51",
+   "id": "tag:soundcloud-2010:tracks-2435288571",
+   "image": "https://i1.sndcdn.com/artworks-rN0MuWcZn3FdMNKy-B3bY9Q-t3000x3000.jpg",
+   "title": "Joe Miller: Live from Balance Croatia 2026",
+   "url": "https://soundcloud.com/balance-series/joe-miller-live-balance-croatia"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2433103146-balance-series-balance-selections-greta-meier.mp3",
    "date": "2026-11-06T00:00:00Z",
    "desc": "Argentinian DJ and producer Greta Meier has been steadily building her reputation on the international progressive house circuit, developing a sound that has seen her share the stage with artists ranging from Eric Prydz to John Digweed. With appearances at major electronic music events and venues, from Brunch Festival in Spain to Mandarine Park in Argentina, Meier continues to expand her presence beyond her home country. For her Balance Selections debut, Meier shows why she's a name worth keeping an eye on. Featuring tracks from Simon Vuarambon, Anthony Pappa, Kasper Koman and more, this two-…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-leMVkZtlHCtsNKJv-IOMZSg-t3000x3000.jpg",
    "title": "Dowden: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/dowden-live-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2398386210-balance-series-balance-selections-383-nichols.mp3",
-   "date": "2026-09-11T00:00:00Z",
-   "desc": "Nichols+Roark are a London-based DJ and production duo whose sound sits between progressive house, indie dance and melodic techno. Friends for more than 25 years, their music draws on a shared club history shaped by nights at venues and parties including Renaissance in Nottingham and Ibiza. Their releases have landed on labels including The Soundgarden, Mango Alley and Renaissance, while their 2019 track “Magnificent Creatures” was featured on Nick Warren’s Balance Presents The Soundgarden. Recent years have also seen the duo develop Shift, their own label platform. Its official launch at Cra…",
-   "duration": "02:03:37",
-   "id": "tag:soundcloud-2010:tracks-2398386210",
-   "image": "https://i1.sndcdn.com/artworks-BuqMPCKP2Nk0zC8c-0j0pTw-t3000x3000.jpg",
-   "title": "Balance Selections 383: Nichols+Roark",
-   "url": "https://soundcloud.com/balance-series/balance-selections-383-nichols"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-11-06T07:23:44Z"
+ "updatedAt": "2026-11-10T02:10:50Z"
 }
