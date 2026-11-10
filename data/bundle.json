@@ -7326,6 +7326,40 @@
    "id": "first-floor",
    "items": [
     {
+     "date": "2026-11-10T18:49:18Z",
+     "desc": "Jabu – Severn Flood Plain / Where You Run to (Six of Swords)",
+     "id": "rollup-2026-11-10",
+     "image": "https://substackcdn.com/image/fetch/$s_!MPEc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e87fc8a-b49a-4b5b-9f03-dfddeb4846d1_1456x1048.jpeg",
+     "links": [
+      {
+       "t": "Jabu – Severn Flood Plain / Where You Run to",
+       "u": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+      }
+     ],
+     "title": "First Floor recommendations, 10 Nov: 1 record",
+     "url": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+    },
+    {
+     "audio": null,
+     "date": "2026-11-10T11:09:15Z",
+     "desc": "A rare interview with the Dutch artist formerly known as A Made Up Sound and 2562, who explains his long absence from the electronic music sphere and what’s prompted his recent return as ex_libris.",
+     "duration": null,
+     "id": "https:--firstfloor.substack.com-p-dave-huismans-is-determined-to-enjoy",
+     "image": "https://substackcdn.com/image/fetch/$s_!__mA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F070ba45f-d9d0-4bac-ab06-2ffdfee0347b_3973x2649.jpeg",
+     "title": "Dave Huismans Is Determined to Enjoy the Ride This Time",
+     "url": "https://firstfloor.substack.com/p/dave-huismans-is-determined-to-enjoy"
+    },
+    {
+     "audio": null,
+     "date": "2026-11-10T10:01:00Z",
+     "desc": "A guest recommendation from the Georgian experimental composer.",
+     "duration": null,
+     "id": "https:--firstfloor.substack.com-p-anushka-chkheidze-has-better-taste",
+     "image": "https://substackcdn.com/image/fetch/$s_!A72m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a6f1182-e20e-422f-ad12-6a1aead9633a_3472x2628.jpeg",
+     "title": "Anushka Chkheidze Has Better Taste Than I Do",
+     "url": "https://firstfloor.substack.com/p/anushka-chkheidze-has-better-taste"
+    },
+    {
      "date": "2026-11-05T12:15:12Z",
      "desc": "First Floor #335 – Grief Is Not Enough",
      "id": "rollup-2026-11-05",
@@ -7425,18 +7459,10 @@
     },
     {
      "date": "2026-10-29T12:48:15Z",
-     "desc": "veneko – noor (Club Moniker) Poison Zcora – How It Feels to Be Plundered (Tiff’s Joints) Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
+     "desc": "Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
      "id": "rollup-2026-10-29",
-     "image": "https://substackcdn.com/image/fetch/$s_!Kkpn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae692cd9-21c6-4879-bca6-290dabd14627_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!SG6b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff903078d-e3b0-40d6-9eb7-ee9a48be6189_1456x1048.jpeg",
      "links": [
-      {
-       "t": "veneko – noor",
-       "u": "https://firstfloor.substack.com/p/veneko-noor"
-      },
-      {
-       "t": "Poison Zcora – How It Feels to Be Plundered",
-       "u": "https://firstfloor.substack.com/p/poison-zcora-how-it-feels-to-be-plundered"
-      },
       {
        "t": "Gibrana Cervantes – Verdad y Error",
        "u": "https://firstfloor.substack.com/p/gibrana-cervantes-verdad-y-error"
@@ -7450,23 +7476,13 @@
        "u": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
       }
      ],
-     "title": "First Floor recommendations, 29 Oct: 5 records",
+     "title": "First Floor recommendations, 29 Oct: 3 records",
      "url": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-28T11:03:19Z",
-     "desc": "A guest recommendation from the Berlin-based musician, composer and sound artist.",
-     "duration": null,
-     "id": "https:--firstfloor.substack.com-p-midori-hirano-has-better-taste-than",
-     "image": "https://substackcdn.com/image/fetch/$s_!31Go!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffde173a-3200-4c65-982f-acaa453e9ffd_5422x3333.jpeg",
-     "title": "Midori Hirano Has Better Taste Than I Do",
-     "url": "https://firstfloor.substack.com/p/midori-hirano-has-better-taste-than"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-05T21:30:07Z"
+   "updatedAt": "2026-11-10T21:30:08Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -7683,6 +7699,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-10T12:10:08Z",
+     "desc": "New adventures in ambient from Kali Malone, Jim O’Rourke, Skee Mask & North Americans, and more",
+     "duration": null,
+     "id": "https:--futurismrestated.substack.com-p-fr-200-quiet-scenes-and-small-objects",
+     "image": "https://substackcdn.com/image/fetch/$s_!V6T0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b9bd8f4-51ee-4f58-897c-1a9f2da98dc6_4032x3024.jpeg",
+     "title": "FR 200: Quiet Scenes and Small Objects",
+     "url": "https://futurismrestated.substack.com/p/fr-200-quiet-scenes-and-small-objects"
+    },
+    {
+     "audio": null,
      "date": "2026-11-06T12:08:26Z",
      "desc": "That he was first matters, but what he did next matters more.",
      "duration": null,
@@ -7870,21 +7896,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!xalb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1a269b6-316d-4f6f-898e-6d6a468c4fde_7728x5152.jpeg",
      "title": "A Month of Interviews and a Summer Top 10",
      "url": "https://futurismrestated.substack.com/p/a-month-of-interviews-and-a-summer"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-04T10:03:23Z",
-     "desc": "A candid interview with the artist behind one of dub techno’s most cryptic entities.",
-     "duration": null,
-     "id": "https:--futurismrestated.substack.com-p-fr-183-topdown-dialectic-is-real",
-     "image": "https://substackcdn.com/image/fetch/$s_!M7HZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd84c70a2-2d2e-40c2-9612-4a245380b983_3000x2410.jpeg",
-     "title": "FR 183: Topdown Dialectic Is Real",
-     "url": "https://futurismrestated.substack.com/p/fr-183-topdown-dialectic-is-real"
     }
    ],
    "kind": "rss",
    "name": "Futurism Restated (Philip Sherburne)",
-   "updatedAt": "2026-11-06T13:57:16Z"
+   "updatedAt": "2026-11-10T21:30:08Z"
   },
   "gai-barone-patterns": {
    "home": "https://soundcloud.com/gaibarone",
@@ -36038,6 +36054,14 @@
    "id": "underground-live-forever",
    "items": [
     {
+     "date": "2026-11-10T19:00:40Z",
+     "desc": "Presented by Paul Thomas Tracklist [00:00:00] - Intro [00:00:38] - Redspace & Medicii - Eden [UV Noir] [00:03:11] - FM Radio Gods - Interstellar (Greg Ochman Remix) [Strange Town Recordings] [00:07:55] - Rfaraz - Entropy [PURRFECTION] [00:12:17] - Forty Cats - Ground [PURRFECTION] [00:15:49] - Montw - Trace [SOLIS] [00:20:05] - GMJ & Matter - Northern Line [Meanwhile] [00:24:00] - Ivan Fernandez (AR) - Nonsense [Freegrant Music] [00:29:00] - GMJ & Matter - Shinto [Meanwhile] [00:32:11] - Tato Seco, Ignacio Hernández - Living Dead [UV Noir] [00:37:25] - Tato Seco, Ignacio Hernández - Nightcraw…",
+     "id": "yt:video:tG5sCpnrTcQ",
+     "image": "https://i1.ytimg.com/vi/tG5sCpnrTcQ/hqdefault.jpg",
+     "title": "Underground Live Forever - ULF049",
+     "url": "https://www.youtube.com/watch?v=tG5sCpnrTcQ"
+    },
+    {
      "date": "2026-11-03T19:00:43Z",
      "desc": "Tracklist [00:00:00] - Intro [00:00:38] - Das Pharaoh & Nourey - Resonance [UV] [00:06:53] - Das Pharaoh & Nourey - EON [UV] [00:11:16] - Kiaro & Futura City - Delta [Mango Alley] [00:15:28] - Roger Martinez - Downriver (Kasper Koman Remix) [Higher States] [00:20:12] - Tiefstone - 7 Lagos [UV] [00:24:21] - Tonaco - Rollie 153 [Mango Alley] [00:28:21] - Jamie Stevens - Tell You Later (GMJ & Matter Remix) [Music To Die For] [00:33:34] - PAUL (AR) - Aguanieve [UV] [00:37:31] - Juan Deminicis - Raining with Sun [Proportion] [00:40:23] - Juan Deminicis - In a Loop [Proportion] [00:44:18] - Tato Se…",
      "id": "yt:video:MZw-F6EucxE",
@@ -36096,7 +36120,7 @@
    ],
    "kind": "rss",
    "name": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
-   "updatedAt": "2026-11-03T21:30:07Z"
+   "updatedAt": "2026-11-10T21:30:08Z"
   }
  },
  "sources": [
@@ -38003,7 +38027,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-10T02:10:50Z",
+  "lastRun": "2026-11-10T21:30:08Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-10T02:10:50Z",
@@ -38208,7 +38232,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 20,
     "newest": "2026-11-03T18:22:41Z",
     "ok": true
@@ -38262,7 +38286,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -38280,9 +38304,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-09T21:30:07Z",
-    "count": 7,
-    "newest": "2026-11-05T12:15:12Z",
+    "at": "2026-11-10T21:30:08Z",
+    "count": 9,
+    "newest": "2026-11-10T18:49:18Z",
     "ok": true
    },
    "flow-state": {
@@ -38292,9 +38316,9 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 20,
-    "newest": "2026-11-06T12:08:26Z",
+    "newest": "2026-11-10T12:10:08Z",
     "ok": true
    },
    "gai-barone-patterns": {
@@ -38334,7 +38358,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 20,
     "newest": "2026-11-08T13:44:53Z",
     "ok": true
@@ -38394,7 +38418,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 20,
     "newest": "2026-11-09T17:31:13Z",
     "ok": true
@@ -38436,7 +38460,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -39156,7 +39180,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 20,
     "newest": "2026-11-08T14:51:00Z",
     "ok": true
@@ -39168,7 +39192,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 20,
     "newest": "2026-11-09T13:31:45Z",
     "ok": true
@@ -39186,7 +39210,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-09T21:30:07Z",
+    "at": "2026-11-10T21:30:08Z",
     "count": 20,
     "newest": "2026-11-09T17:59:57Z",
     "ok": true
@@ -39276,9 +39300,9 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-09T21:30:07Z",
-    "count": 7,
-    "newest": "2026-11-03T19:00:43Z",
+    "at": "2026-11-10T21:30:08Z",
+    "count": 8,
+    "newest": "2026-11-10T19:00:40Z",
     "ok": true
    }
   }

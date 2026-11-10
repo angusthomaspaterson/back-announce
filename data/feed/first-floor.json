@@ -3,6 +3,40 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-11-10T18:49:18Z",
+   "desc": "Jabu – Severn Flood Plain / Where You Run to (Six of Swords)",
+   "id": "rollup-2026-11-10",
+   "image": "https://substackcdn.com/image/fetch/$s_!MPEc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e87fc8a-b49a-4b5b-9f03-dfddeb4846d1_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "Jabu – Severn Flood Plain / Where You Run to",
+     "u": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+    }
+   ],
+   "title": "First Floor recommendations, 10 Nov: 1 record",
+   "url": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-10T11:09:15Z",
+   "desc": "A rare interview with the Dutch artist formerly known as A Made Up Sound and 2562, who explains his long absence from the electronic music sphere and what’s prompted his recent return as ex_libris.",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-dave-huismans-is-determined-to-enjoy",
+   "image": "https://substackcdn.com/image/fetch/$s_!__mA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F070ba45f-d9d0-4bac-ab06-2ffdfee0347b_3973x2649.jpeg",
+   "title": "Dave Huismans Is Determined to Enjoy the Ride This Time",
+   "url": "https://firstfloor.substack.com/p/dave-huismans-is-determined-to-enjoy"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-10T10:01:00Z",
+   "desc": "A guest recommendation from the Georgian experimental composer.",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-anushka-chkheidze-has-better-taste",
+   "image": "https://substackcdn.com/image/fetch/$s_!A72m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a6f1182-e20e-422f-ad12-6a1aead9633a_3472x2628.jpeg",
+   "title": "Anushka Chkheidze Has Better Taste Than I Do",
+   "url": "https://firstfloor.substack.com/p/anushka-chkheidze-has-better-taste"
+  },
+  {
    "date": "2026-11-05T12:15:12Z",
    "desc": "First Floor #335 – Grief Is Not Enough",
    "id": "rollup-2026-11-05",
@@ -102,18 +136,10 @@
   },
   {
    "date": "2026-10-29T12:48:15Z",
-   "desc": "veneko – noor (Club Moniker) Poison Zcora – How It Feels to Be Plundered (Tiff’s Joints) Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
+   "desc": "Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
    "id": "rollup-2026-10-29",
-   "image": "https://substackcdn.com/image/fetch/$s_!Kkpn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae692cd9-21c6-4879-bca6-290dabd14627_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!SG6b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff903078d-e3b0-40d6-9eb7-ee9a48be6189_1456x1048.jpeg",
    "links": [
-    {
-     "t": "veneko – noor",
-     "u": "https://firstfloor.substack.com/p/veneko-noor"
-    },
-    {
-     "t": "Poison Zcora – How It Feels to Be Plundered",
-     "u": "https://firstfloor.substack.com/p/poison-zcora-how-it-feels-to-be-plundered"
-    },
     {
      "t": "Gibrana Cervantes – Verdad y Error",
      "u": "https://firstfloor.substack.com/p/gibrana-cervantes-verdad-y-error"
@@ -127,21 +153,11 @@
      "u": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
     }
    ],
-   "title": "First Floor recommendations, 29 Oct: 5 records",
+   "title": "First Floor recommendations, 29 Oct: 3 records",
    "url": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-28T11:03:19Z",
-   "desc": "A guest recommendation from the Berlin-based musician, composer and sound artist.",
-   "duration": null,
-   "id": "https:--firstfloor.substack.com-p-midori-hirano-has-better-taste-than",
-   "image": "https://substackcdn.com/image/fetch/$s_!31Go!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffde173a-3200-4c65-982f-acaa453e9ffd_5422x3333.jpeg",
-   "title": "Midori Hirano Has Better Taste Than I Do",
-   "url": "https://firstfloor.substack.com/p/midori-hirano-has-better-taste-than"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-05T21:30:07Z"
+ "updatedAt": "2026-11-10T21:30:08Z"
 }

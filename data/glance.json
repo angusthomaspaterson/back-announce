@@ -1,6 +1,47 @@
 {
  "items": [
   {
+   "d": "2026-11-10T19:00:40Z",
+   "g": "Progressive",
+   "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
+   "sid": "underground-live-forever",
+   "sp": "Underground Live Forever Episode 049",
+   "t": "Underground Live Forever - ULF049",
+   "u": "https://www.youtube.com/watch?v=tG5sCpnrTcQ"
+  },
+  {
+   "d": "2026-11-10T18:49:18Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 10 Nov: 1 record",
+   "u": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+  },
+  {
+   "d": "2026-11-10T12:10:08Z",
+   "g": "Writing",
+   "s": "Futurism Restated (Philip Sherburne)",
+   "sid": "futurism-restated",
+   "t": "FR 200: Quiet Scenes and Small Objects",
+   "u": "https://futurismrestated.substack.com/p/fr-200-quiet-scenes-and-small-objects"
+  },
+  {
+   "d": "2026-11-10T11:09:15Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Dave Huismans Is Determined to Enjoy the Ride This Time",
+   "u": "https://firstfloor.substack.com/p/dave-huismans-is-determined-to-enjoy"
+  },
+  {
+   "d": "2026-11-10T10:01:00Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "Anushka Chkheidze Has Better Taste Than I Do",
+   "u": "https://firstfloor.substack.com/p/anushka-chkheidze-has-better-taste"
+  },
+  {
    "d": "2026-11-10T00:00:00Z",
    "g": "Progressive",
    "s": "Balance Music (Selections)",
@@ -120,51 +161,10 @@
    "sid": "bbc-mary-anne-hobbs",
    "t": "Kali Malone + Blackhaine",
    "u": "https://www.bbc.co.uk/sounds/play/m0033mm3"
-  },
-  {
-   "d": "2026-11-08T07:00:00Z",
-   "g": "triple j",
-   "s": "Country Club with Outback Tom",
-   "sid": "triplej-country-club",
-   "t": "Kaitlin Keegan drops her impressive debut album and Mack Geiger rides into the COUNTRY CLUB studio to yarn about his debut album",
-   "u": "https://www.abc.net.au/triplej/programs/country-club/country-club/107338884"
-  },
-  {
-   "d": "2026-11-08T06:00:00Z",
-   "g": "Progressive",
-   "s": "Resident by Hernan Cattaneo",
-   "sid": "resident",
-   "sp": "Resident by Hernan Cattaneo Resident / Episode 809 / November 07 2026",
-   "t": "Resident / Episode 809 / November 07 2026",
-   "u": "https://podcast.hernancattaneo.com/e/resident-episode-809-november-07-2026/"
-  },
-  {
-   "d": "2026-11-08T06:00:00Z",
-   "g": "triple j",
-   "s": "Blak Out with Nooky",
-   "sid": "triplej-blak-out",
-   "t": "Blak Out, 8 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/blak-out/blak-out/107338860"
-  },
-  {
-   "d": "2026-11-08T04:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Classic Essential Mix",
-   "sid": "bbc-radio-1s-classic-essential-mix",
-   "t": "Justice 2007",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033sbh"
-  },
-  {
-   "d": "2026-11-08T02:05:41Z",
-   "g": "Progressive",
-   "s": "21C Progressive House",
-   "sid": "21c-progressive",
-   "t": "Gerzinio | The Racket Club",
-   "u": "https://soundcloud.com/21cprogressivehouse/gerzinio-the-racket-club"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 583,
+ "newCount": 587,
  "paused": 22,
  "releases": [
   {
@@ -249,5 +249,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-10T02:10:50Z"
+ "updated": "2026-11-10T21:30:08Z"
 }
