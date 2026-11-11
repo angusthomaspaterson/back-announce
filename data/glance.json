@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "d": "2026-11-11T15:17:16Z",
+   "g": "Writing",
+   "s": "Tone Glow",
+   "sid": "tone-glow",
+   "t": "Film Show 076: Sompot Chidgasornpongse",
+   "u": "https://toneglow.substack.com/p/film-show-076-sompot-chidgasornpongse"
+  },
+  {
+   "d": "2026-11-10T22:57:02Z",
+   "g": "Writing",
+   "s": "Tone Glow",
+   "sid": "tone-glow",
+   "t": "Tone Glow 246: Mary Jane Leach",
+   "u": "https://toneglow.substack.com/p/tone-glow-246-mary-jane-leach"
+  },
+  {
+   "d": "2026-11-10T22:19:22Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 10 Nov: 3 records",
+   "u": "https://firstfloor.substack.com/p/popon-7-7"
+  },
+  {
    "d": "2026-11-10T22:00:20Z",
    "g": "Writing",
    "s": "The Guardian: Australian music",
@@ -49,14 +73,6 @@
    "sp": "Underground Live Forever Episode 049",
    "t": "Underground Live Forever - ULF049",
    "u": "https://www.youtube.com/watch?v=tG5sCpnrTcQ"
-  },
-  {
-   "d": "2026-11-10T18:49:18Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 10 Nov: 1 record",
-   "u": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
   },
   {
    "d": "2026-11-10T18:09:35Z",
@@ -145,27 +161,10 @@
    "sid": "gilles-peterson",
    "t": "Gilles Peterson - NAO in Conversation - 24.10.2026",
    "u": "https://soundcloud.com/gillespeterson/gilles-peterson-nao-in"
-  },
-  {
-   "d": "2026-11-10T11:09:15Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "Dave Huismans Is Determined to Enjoy the Ride This Time",
-   "u": "https://firstfloor.substack.com/p/dave-huismans-is-determined-to-enjoy"
-  },
-  {
-   "d": "2026-11-10T10:31:00Z",
-   "g": "Podcasts",
-   "s": "Dissect",
-   "sid": "dissect",
-   "sp": "Dissect 15 BRILLIANT Triple Entendres in Rap History",
-   "t": "15 BRILLIANT Triple Entendres in Rap History",
-   "u": "https://traffic.megaphone.fm/GLT5812238355.mp3"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 610,
+ "newCount": 612,
  "paused": 22,
  "releases": [
   {
@@ -250,5 +249,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-11T00:04:30Z"
+ "updated": "2026-11-11T21:30:11Z"
 }

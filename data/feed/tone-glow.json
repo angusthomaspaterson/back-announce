@@ -4,6 +4,26 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-11T15:17:16Z",
+   "desc": "An interview with the Thai director about growing up watching bootlegged films, cold-calling Apichatpong Weerasethakul, and his new narrative feature film ‘9 Temples to Heaven’ (2026)",
+   "duration": null,
+   "id": "https:--toneglow.substack.com-p-film-show-076-sompot-chidgasornpongse",
+   "image": "https://substackcdn.com/image/fetch/$s_!x_ps!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F676a99a1-5757-4109-9297-bb80951053ac_3709x5250.jpeg",
+   "title": "Film Show 076: Sompot Chidgasornpongse",
+   "url": "https://toneglow.substack.com/p/film-show-076-sompot-chidgasornpongse"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-10T22:57:02Z",
+   "desc": "An interview with the American composer about the tedium of grant applications, meeting Julius Eastman, and her new album ‘Pipe Dreams II / III’",
+   "duration": null,
+   "id": "https:--toneglow.substack.com-p-tone-glow-246-mary-jane-leach",
+   "image": "https://substackcdn.com/image/fetch/$s_!-ERn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf3cbc4b-e98a-472c-8aee-0e2783a62460_640x427.jpeg",
+   "title": "Tone Glow 246: Mary Jane Leach",
+   "url": "https://toneglow.substack.com/p/tone-glow-246-mary-jane-leach"
+  },
+  {
+   "audio": null,
    "date": "2026-11-09T17:59:57Z",
    "desc": "An interview with the Swedish musician and producer about political activism, his shifting perspectives since co-founding The Knife, and his new album ‘Loud Bloom’",
    "duration": null,
@@ -181,29 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/11cabc62-c0d4-4e66-8083-4bfb6dc27f1f_1793x838.jpeg",
    "title": "Tone Glow 234: Martha Reeves",
    "url": "https://toneglow.substack.com/p/tone-glow-234-martha-reeves"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-13T23:14:34Z",
-   "desc": "Tone Glow adds two additional shows in Chicago, both on Saturday, September 19th at The Hideout",
-   "duration": null,
-   "id": "https:--toneglow.substack.com-p-tone-glow-presents-nirosta-steel-040",
-   "image": "https://substackcdn.com/image/fetch/$s_!Me23!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbed371cd-c37d-428a-8170-2a2fa5762da1_1639x2048.jpeg",
-   "title": "Tone Glow Presents Nirosta Steel (Again)",
-   "url": "https://toneglow.substack.com/p/tone-glow-presents-nirosta-steel-040"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-12T14:34:17Z",
-   "desc": "An interview with the Chilean filmmakers about their childhood, early cinema, and how their love for music videos inspired 'Donkey Princess', which premiered at this year's Locarno Film Festival",
-   "duration": null,
-   "id": "https:--toneglow.substack.com-p-film-show-070-cristobal-leon-joaquin-cocina",
-   "image": "https://substackcdn.com/image/fetch/$s_!Ur63!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38adee19-e698-4feb-ae96-8b6b11691907_8084x5392.jpeg",
-   "title": "Film Show 070: Cristóbal León & Joaquín Cociña",
-   "url": "https://toneglow.substack.com/p/film-show-070-cristobal-leon-joaquin-cocina"
   }
  ],
  "kind": "rss",
  "name": "Tone Glow",
- "updatedAt": "2026-11-09T21:30:07Z"
+ "updatedAt": "2026-11-11T21:30:11Z"
 }

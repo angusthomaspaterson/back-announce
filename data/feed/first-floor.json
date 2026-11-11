@@ -3,18 +3,26 @@
  "id": "first-floor",
  "items": [
   {
-   "date": "2026-11-10T18:49:18Z",
-   "desc": "Jabu – Severn Flood Plain / Where You Run to (Six of Swords)",
+   "date": "2026-11-10T22:19:22Z",
+   "desc": "Jabu – Severn Flood Plain / Where You Run to (Six of Swords) Ottagone – Ottagone.12 (Will & Ink) Popon – 7 / 7 (SFX)",
    "id": "rollup-2026-11-10",
    "image": "https://substackcdn.com/image/fetch/$s_!MPEc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e87fc8a-b49a-4b5b-9f03-dfddeb4846d1_1456x1048.jpeg",
    "links": [
     {
      "t": "Jabu – Severn Flood Plain / Where You Run to",
      "u": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+    },
+    {
+     "t": "Ottagone – Ottagone.12",
+     "u": "https://firstfloor.substack.com/p/ottagone-ottagone12"
+    },
+    {
+     "t": "Popon – 7 / 7",
+     "u": "https://firstfloor.substack.com/p/popon-7-7"
     }
    ],
-   "title": "First Floor recommendations, 10 Nov: 1 record",
-   "url": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+   "title": "First Floor recommendations, 10 Nov: 3 records",
+   "url": "https://firstfloor.substack.com/p/popon-7-7"
   },
   {
    "audio": null,
@@ -136,28 +144,20 @@
   },
   {
    "date": "2026-10-29T12:48:15Z",
-   "desc": "Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
+   "desc": "First Floor #334 – That Was Probably a Bad Idea",
    "id": "rollup-2026-10-29",
-   "image": "https://substackcdn.com/image/fetch/$s_!SG6b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff903078d-e3b0-40d6-9eb7-ee9a48be6189_1456x1048.jpeg",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/a9b46683-b140-4f2c-8a91-3fb6a78f3d49_1456x1048.png",
    "links": [
-    {
-     "t": "Gibrana Cervantes – Verdad y Error",
-     "u": "https://firstfloor.substack.com/p/gibrana-cervantes-verdad-y-error"
-    },
-    {
-     "t": "Loidis – From the Toolkit of Lovers",
-     "u": "https://firstfloor.substack.com/p/loidis-from-the-toolkit-of-lovers"
-    },
     {
      "t": "First Floor #334 – That Was Probably a Bad Idea",
      "u": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
     }
    ],
-   "title": "First Floor recommendations, 29 Oct: 3 records",
+   "title": "First Floor recommendations, 29 Oct: 1 record",
    "url": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-10T21:30:08Z"
+ "updatedAt": "2026-11-11T21:30:11Z"
 }

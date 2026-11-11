@@ -7286,18 +7286,26 @@
    "id": "first-floor",
    "items": [
     {
-     "date": "2026-11-10T18:49:18Z",
-     "desc": "Jabu – Severn Flood Plain / Where You Run to (Six of Swords)",
+     "date": "2026-11-10T22:19:22Z",
+     "desc": "Jabu – Severn Flood Plain / Where You Run to (Six of Swords) Ottagone – Ottagone.12 (Will & Ink) Popon – 7 / 7 (SFX)",
      "id": "rollup-2026-11-10",
      "image": "https://substackcdn.com/image/fetch/$s_!MPEc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e87fc8a-b49a-4b5b-9f03-dfddeb4846d1_1456x1048.jpeg",
      "links": [
       {
        "t": "Jabu – Severn Flood Plain / Where You Run to",
        "u": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+      },
+      {
+       "t": "Ottagone – Ottagone.12",
+       "u": "https://firstfloor.substack.com/p/ottagone-ottagone12"
+      },
+      {
+       "t": "Popon – 7 / 7",
+       "u": "https://firstfloor.substack.com/p/popon-7-7"
       }
      ],
-     "title": "First Floor recommendations, 10 Nov: 1 record",
-     "url": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
+     "title": "First Floor recommendations, 10 Nov: 3 records",
+     "url": "https://firstfloor.substack.com/p/popon-7-7"
     },
     {
      "audio": null,
@@ -7419,30 +7427,22 @@
     },
     {
      "date": "2026-10-29T12:48:15Z",
-     "desc": "Gibrana Cervantes – Verdad y Error (AWOS) Loidis – From the Toolkit of Lovers (Incienso) First Floor #334 – That Was Probably a Bad Idea",
+     "desc": "First Floor #334 – That Was Probably a Bad Idea",
      "id": "rollup-2026-10-29",
-     "image": "https://substackcdn.com/image/fetch/$s_!SG6b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff903078d-e3b0-40d6-9eb7-ee9a48be6189_1456x1048.jpeg",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/a9b46683-b140-4f2c-8a91-3fb6a78f3d49_1456x1048.png",
      "links": [
-      {
-       "t": "Gibrana Cervantes – Verdad y Error",
-       "u": "https://firstfloor.substack.com/p/gibrana-cervantes-verdad-y-error"
-      },
-      {
-       "t": "Loidis – From the Toolkit of Lovers",
-       "u": "https://firstfloor.substack.com/p/loidis-from-the-toolkit-of-lovers"
-      },
       {
        "t": "First Floor #334 – That Was Probably a Bad Idea",
        "u": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
       }
      ],
-     "title": "First Floor recommendations, 29 Oct: 3 records",
+     "title": "First Floor recommendations, 29 Oct: 1 record",
      "url": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-10T21:30:08Z"
+   "updatedAt": "2026-11-11T21:30:11Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -34226,6 +34226,26 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-11T15:17:16Z",
+     "desc": "An interview with the Thai director about growing up watching bootlegged films, cold-calling Apichatpong Weerasethakul, and his new narrative feature film ‘9 Temples to Heaven’ (2026)",
+     "duration": null,
+     "id": "https:--toneglow.substack.com-p-film-show-076-sompot-chidgasornpongse",
+     "image": "https://substackcdn.com/image/fetch/$s_!x_ps!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F676a99a1-5757-4109-9297-bb80951053ac_3709x5250.jpeg",
+     "title": "Film Show 076: Sompot Chidgasornpongse",
+     "url": "https://toneglow.substack.com/p/film-show-076-sompot-chidgasornpongse"
+    },
+    {
+     "audio": null,
+     "date": "2026-11-10T22:57:02Z",
+     "desc": "An interview with the American composer about the tedium of grant applications, meeting Julius Eastman, and her new album ‘Pipe Dreams II / III’",
+     "duration": null,
+     "id": "https:--toneglow.substack.com-p-tone-glow-246-mary-jane-leach",
+     "image": "https://substackcdn.com/image/fetch/$s_!-ERn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf3cbc4b-e98a-472c-8aee-0e2783a62460_640x427.jpeg",
+     "title": "Tone Glow 246: Mary Jane Leach",
+     "url": "https://toneglow.substack.com/p/tone-glow-246-mary-jane-leach"
+    },
+    {
+     "audio": null,
      "date": "2026-11-09T17:59:57Z",
      "desc": "An interview with the Swedish musician and producer about political activism, his shifting perspectives since co-founding The Knife, and his new album ‘Loud Bloom’",
      "duration": null,
@@ -34403,31 +34423,11 @@
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/11cabc62-c0d4-4e66-8083-4bfb6dc27f1f_1793x838.jpeg",
      "title": "Tone Glow 234: Martha Reeves",
      "url": "https://toneglow.substack.com/p/tone-glow-234-martha-reeves"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-13T23:14:34Z",
-     "desc": "Tone Glow adds two additional shows in Chicago, both on Saturday, September 19th at The Hideout",
-     "duration": null,
-     "id": "https:--toneglow.substack.com-p-tone-glow-presents-nirosta-steel-040",
-     "image": "https://substackcdn.com/image/fetch/$s_!Me23!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbed371cd-c37d-428a-8170-2a2fa5762da1_1639x2048.jpeg",
-     "title": "Tone Glow Presents Nirosta Steel (Again)",
-     "url": "https://toneglow.substack.com/p/tone-glow-presents-nirosta-steel-040"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-12T14:34:17Z",
-     "desc": "An interview with the Chilean filmmakers about their childhood, early cinema, and how their love for music videos inspired 'Donkey Princess', which premiered at this year's Locarno Film Festival",
-     "duration": null,
-     "id": "https:--toneglow.substack.com-p-film-show-070-cristobal-leon-joaquin-cocina",
-     "image": "https://substackcdn.com/image/fetch/$s_!Ur63!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38adee19-e698-4feb-ae96-8b6b11691907_8084x5392.jpeg",
-     "title": "Film Show 070: Cristóbal León & Joaquín Cociña",
-     "url": "https://toneglow.substack.com/p/film-show-070-cristobal-leon-joaquin-cocina"
     }
    ],
    "kind": "rss",
    "name": "Tone Glow",
-   "updatedAt": "2026-11-09T21:30:07Z"
+   "updatedAt": "2026-11-11T21:30:11Z"
   },
   "transitions": {
    "home": "https://www.mixcloud.com/JohnDigweed/",
@@ -38009,7 +38009,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-11T00:04:30Z",
+  "lastRun": "2026-11-11T21:30:11Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-11T00:04:30Z",
@@ -38214,7 +38214,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 20,
     "newest": "2026-11-03T18:22:41Z",
     "ok": true
@@ -38268,7 +38268,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -38286,9 +38286,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 9,
-    "newest": "2026-11-10T18:49:18Z",
+    "newest": "2026-11-10T22:19:22Z",
     "ok": true
    },
    "flow-state": {
@@ -38298,7 +38298,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 20,
     "newest": "2026-11-10T12:10:08Z",
     "ok": true
@@ -38340,7 +38340,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 20,
     "newest": "2026-11-08T13:44:53Z",
     "ok": true
@@ -38400,7 +38400,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 20,
     "newest": "2026-11-09T17:31:13Z",
     "ok": true
@@ -38442,7 +38442,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -39162,7 +39162,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 20,
     "newest": "2026-11-08T14:51:00Z",
     "ok": true
@@ -39174,7 +39174,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 20,
     "newest": "2026-11-09T13:31:45Z",
     "ok": true
@@ -39192,9 +39192,9 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 20,
-    "newest": "2026-11-09T17:59:57Z",
+    "newest": "2026-11-11T15:17:16Z",
     "ok": true
    },
    "transitions": {
@@ -39282,7 +39282,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-10T21:30:08Z",
+    "at": "2026-11-11T21:30:11Z",
     "count": 8,
     "newest": "2026-11-10T19:00:40Z",
     "ok": true
