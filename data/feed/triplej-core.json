@@ -3,6 +3,28 @@
  "id": "triplej-core",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q9/Z/qg.mp3",
+   "date": "2026-11-10T12:00:00Z",
+   "desc": "The nightlight gang jump in the studio with Jack for a first play of their latest track SHUT//UP! Available until 10 Dec.",
+   "duration": "844",
+   "id": "107365448",
+   "image": "https://live-production.wcms.abc-cdn.net.au/72885ba950ae2dd123a5e25d553250aa?impolicy=wcms_crop_resize&cropH=1875&cropW=3334&xPos=0&yPos=1277&width=862&height=485&imformat=generic",
+   "title": "Nightlight Interview",
+   "until": "2026-12-10T12:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/core/nightlight-iv/107365448"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qa/Z/75.aac",
+   "date": "2026-11-10T10:00:00Z",
+   "desc": "Nothing but heavy music from triple j Unearthed! Available until 10 Dec. Tracklist: Feel The Pain – HEART TO HEART; Excuse for an Exit – Black Cat Superstar; Elision – Critical Mass [Ft. Dregg]; Spouse – Wishing On Numbers; CHAPEL HILL – Cherry Wrist; Liasis – Dedicated to Gary; nightlight – SHUT//UP; NIGHTLIGHT – RIP//IT; jan. – the meaning of grace; Down And Out – Buried Alive; Reliqa – Your Touch; STRESSED – Control to Decay; Dreamspeed – Inverse Shadows; VOLATILE WAYS – Not For Your Eyes; blinder – chrome; Offset Vision – Calm Down; Closure – Unravel; Mournmaker – Eternal Constriction; ta…",
+   "duration": "7200",
+   "id": "107347980",
+   "image": "https://live-production.wcms.abc-cdn.net.au/26f94817a83566ba175f35a449566dca?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "CORE, 10 Nov",
+   "until": "2026-12-10T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/core/core/107347980"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q2/Z/tv.aac",
    "date": "2026-11-03T10:00:00Z",
    "desc": "Kicking off Ausmusic Month on triple j, Thornhill take over the airwaves on CORE serving you up with their favourite Australian music from the past, present and future. Available until 3 Dec. Tracklist: Thornhill – Silver Swarm; xiao xiao – Virtual Lover; Justice For The Damned – Stay Relentless; Windwaker – overlord; Wetwork – No. 7580 [Ft. Nic XVX]; Stand Atlantic – LUCID; Inertia – Parallels; Karnivool – We Are; Silverchair – One Way Mule; Northlane – Details Matter; Daybreak – The Damage; Banks Arcade – 000; Running Touch – Crushed; blinder – hurting; Endless Heights – Cold Hard Kiss; Rea…",
@@ -93,5 +115,5 @@
  ],
  "kind": "abc",
  "name": "CORE with Jack Bergin",
- "updatedAt": "2026-11-06T07:23:44Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

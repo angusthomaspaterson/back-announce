@@ -3,6 +3,16 @@
  "id": "joof-radio",
  "items": [
   {
+   "audio": "https://www.john00fleming.co.uk/podcast/John_00_Fleming_-_JOOF_Radio_084.mp3",
+   "date": "2026-11-10T09:47:41Z",
+   "desc": "I'm finally back after three months on the road, sleeves rolled up and ready for action to create something special for you! This month we've got a show of two halves. I've headed deep into my hypnotic side, which I know so many of you love, setting things up perfectly for an absolutely slamming guest mix from Ele Luz that I've had on repeat nonstop! You're going to love this edition. Guest mix: Ele Luz GUEST MIX: Ele Luz TRACKLIST John 00 Fleming: Kamilo Sanclemente - I House U Rick Pier O'Neil - Current Motion (RPO Part 2) Tom Baker - This Was Nice Maksim Dark - Mantrap Gai Barone - Banhof …",
+   "duration": "02:00:00",
+   "id": "https:--www.john00fleming.co.uk-podcast-John_00_Fleming_-_JOOF_Radio_084.mp3",
+   "image": "https://www.john00fleming.co.uk/podcast/JOOF_RADIO.jpg",
+   "title": "John 00 Fleming presents JOOF Radio 084",
+   "url": "https://www.john00fleming.com"
+  },
+  {
    "audio": "https://www.john00fleming.co.uk/podcast/John_00_Fleming_-_JOOF_Radio_083.mp3",
    "date": "2026-10-13T19:00:00Z",
    "desc": "An absolutely stunning show lined up for you this month! I'm currently armed with some of the best music I've discovered in a very long time. My ongoing quest to explore the musical future is taking me into some exciting new territory, and you'll hear exactly what I mean in my mix. Then I'm incredibly proud to welcome one of the finest DJs on the planet, D-Nox, to the guest mix. Trust me, he's delivered something truly special! GUEST MIX: D-Nox TRACKLIST John 00 Fleming: Clay van Dijk & Du More - Connecting Souls Hobin Rude - Evasive Blake Jarrell - Camarilla Pivots Joell Wayne - Mista Pig&Da…",
@@ -241,19 +251,9 @@
    "image": "https://www.john00fleming.co.uk/podcast/JOOF_RADIO.jpg",
    "title": "John 00 Fleming presents JOOF Radio 060",
    "url": "https://www.john00fleming.com"
-  },
-  {
-   "audio": "https://www.john00fleming.co.uk/podcast/John_00_Fleming_-_JOOF_Radio_059.mp3",
-   "date": "2024-10-08T22:00:00Z",
-   "desc": "John 00 Fleming presents JOOF Radio 059 I have a treat for you this month a two hour mix from myself. I've been in Australia that last couple of weeks playing extended and open to close sets, so figured it's the perfect time for me to play a longer set for you on my show. Tracklist: ---- John 00 Fleming ---- To follow Next few tour dates: Oct 12th // The Prog Lab, The Loco Klub, Bristol [UK] Oct 19th // Fleming & Lawrence @ Discopussy, Las Vegas [United States] Oct 25th // The Journey @ Shuffle Club, Calgary [Canada] Oct 26th // Ozmozis, Toronto [Canada] Oct 27th // Afraid Festival, Puebla [M…",
-   "duration": "02:00:07",
-   "id": "https:--www.john00fleming.co.uk-podcast-John_00_Fleming_-_JOOF_Radio_059.mp3",
-   "image": "https://www.john00fleming.co.uk/podcast/JOOF_RADIO.jpg",
-   "title": "John 00 Fleming presents JOOF Radio 059",
-   "url": "https://www.john00fleming.com"
   }
  ],
  "kind": "rss",
  "name": "John 00 Fleming: JOOF Radio",
- "updatedAt": "2026-10-20T05:03:52Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

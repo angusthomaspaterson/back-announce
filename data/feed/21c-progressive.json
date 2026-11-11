@@ -3,6 +3,16 @@
  "id": "21c-progressive",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2435542695-21cprogressivehouse-imprint-series-droid9.mp3",
+   "date": "2026-11-10T14:50:23Z",
+   "desc": "For Imprint #23 on 21C Progressive House, Steven Flynn selects and mixes 17 tracks from Droid9 Recordings and Droid9 South America, two progressive house catalogues with roots in San Francisco and Argentina. Antrim’s Dawn in Port opens the set, with music from Nightnews, Gowzer, Lio Q and PASINDU along the way. The closing sequence includes VegaZ SL’s remix of David Podhel’s That’s the Way before Fermín Gutiérrez’s Closed Eyes brings the mix to a close. 1. Antrim - Dawn in Port [Droid9] 2. Nightnews - Blackout [Droid9] 3. Tomas Harguintegui - Horus [Droid9] 4. Gowzer - Slicer [Droid9] 5. Nice…",
+   "duration": "01:56:01",
+   "id": "tag:soundcloud-2010:tracks-2435542695",
+   "image": "https://i1.sndcdn.com/artworks-NZrRE48CggDOSWm1-Fp4C8g-t3000x3000.jpg",
+   "title": "Imprint Series | Droid9",
+   "url": "https://soundcloud.com/21cprogressivehouse/imprint-series-droid9"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2427513237-21cprogressivehouse-gerzinio-the-racket-club.mp3",
    "date": "2026-11-08T02:05:41Z",
    "desc": "Gerzinio joins The Racket Club with a progressive house selection connecting recent releases, older catalogue finds and reinterpretations of classic records. Opening with Travis MacDonald’s remake of Jam & Spoon’s Stella, the mix features music from Hairu, Ruben Karapetyan, Barry Jamieson and HAFT, alongside Luca Abayan’s take on PQM’s You Are Sleeping. Remixes from Hernan Cattaneo & Simply City shape the closing sequence through Echosphere and Lifeline, followed by Simon Vuarambon’s Grey Area and an unreleased Cristian Hidalgo & Licha Ignacio remix of Origin’s Wide-Eyed Angel. A selection th…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-QNi9SSA83SK3qi6r-LQI7Fw-t3000x3000.jpg",
    "title": "Dave Lazenby | The Racket Club",
    "url": "https://soundcloud.com/21cprogressivehouse/dave-lazenby-the-racket-club"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2338405718-21cprogressivehouse-tracks-of-2025.mp3",
-   "date": "2026-06-12T23:30:10Z",
-   "desc": "01 - Mike Rish – Tornn (Original Mix) [Sunexplosion] 02 - Michael A – Vaporstate (Original Mix) [Manual Music] 03 - Pete B, Rianu Keevs – Unfamiliar Place (Dowden 'Lost' Remix) [BC2] 04 - Jamie Stevens, Meeting Molly – Illusionist (Hicky & Kalo 'Stereo 6AM' Remix) [Microcastle] 05 - Dave Walker – Ego Reset (Original Mix) [Lowbit] 06 - Alex O'Rion – Tunnel (Original Mix) [Sudbeat] 07 - Hobin Rude – In the Still of Absence (Kasey Taylor & Gai Barone Remix) [Mango Alley] 08 - Martin Gardoqui – El Perfume (Gai Barone Remix) [Sudbeat] 09 - Black 8 – Behind Closed Eyes (Extended Mix) [Proportion] 1…",
-   "duration": "02:11:01",
-   "id": "tag:soundcloud-2010:tracks-2338405718",
-   "image": "https://i1.sndcdn.com/artworks-93tgGDW9Y3ZG7wV0-mp7uPw-t3000x3000.png",
-   "title": "Tracks of 2025 | Stewart Macdonald",
-   "url": "https://soundcloud.com/21cprogressivehouse/tracks-of-2025"
   }
  ],
  "kind": "rss",
  "name": "21C Progressive House",
- "updatedAt": "2026-11-08T22:55:13Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

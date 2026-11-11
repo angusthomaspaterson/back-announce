@@ -43,16 +43,6 @@
    "url": "https://www.bbc.co.uk/sounds/play/m0032t0t"
   },
   {
-   "date": "2026-10-11T19:00:00Z",
-   "desc": "On BBC Sounds until 11 Nov (UK only). Norwegian Mexican artist and DJ Carmen Villain provides an ambient mix for Slow Sunday. Her new album Memoria is out now via Smalltown Supersound. Marina Herlop, the Catalan pianist and composer, selects her choice for our End of Days music library to pass on to future generations. Produced by BBC Audio for BBC Radio 6 Music.",
-   "duration": "7200",
-   "id": "m0032cgp",
-   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxyycc.jpg",
-   "title": "Slow Sunday: With an ambient guest mix from Carmen Villain",
-   "until": "2026-11-10T19:00:00Z",
-   "url": "https://www.bbc.co.uk/sounds/play/m0032cgp"
-  },
-  {
    "date": "2019-12-24T14:45:03Z",
    "desc": "Natural history filmmaker Kathryn Jeffs has worked on acclaimed series Planet Earth, Frozen Planet and Monsoon. Her latest project is Earth's Tropical Islands which will be broadcast on New Years Day on BBC 2. The series journeys to three of the most mysterious and remote islands on planet earth: Madagascar, Borneo and Hawaii and will reveal how these isolated and iconic tropical islands harbour remarkable wildlife and human castaways found nowhere else on Earth. Mary Anne also lays down the All Queens Mix, a great choice of tunes from our favourite fierce females. Every day belongs to The Qu…",
    "duration": "354",
@@ -65,5 +55,5 @@
  ],
  "kind": "bbc",
  "name": "Mary Anne Hobbs",
- "updatedAt": "2026-11-08T22:55:13Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

@@ -1,6 +1,47 @@
 {
  "items": [
   {
+   "d": "2026-11-10T22:00:20Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Albanese’s love affair with music is on the rocks over AI. Can he write a different tune? | Peter Lewis",
+   "u": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune"
+  },
+  {
+   "d": "2026-11-10T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Classic Essential Mix",
+   "sid": "bbc-radio-1s-classic-essential-mix",
+   "t": "TC 2008",
+   "u": "https://www.bbc.co.uk/sounds/play/m0032gnp"
+  },
+  {
+   "d": "2026-11-10T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Future Artists with Sian Eleri",
+   "sid": "bbc-radio-1s-future-artists-with-sian-eleri",
+   "t": "The Ultimate Chloe Slater Song!",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033ps2"
+  },
+  {
+   "d": "2026-11-10T21:46:25Z",
+   "g": "Podcasts",
+   "s": "The Quietus Radio",
+   "sid": "quietus-radio",
+   "sp": "The Quietus Radio Low Culture Podcast sampler: Godzilla",
+   "t": "Low Culture Podcast sampler: Godzilla",
+   "u": "https://rss.com/podcasts/the-quietus-radio/3309716"
+  },
+  {
+   "d": "2026-11-10T21:01:17Z",
+   "g": "Writing",
+   "s": "Stereogum: Album of the Week",
+   "sid": "stereogum-aotw",
+   "t": "Album Of The Week: Krill Secret Language",
+   "u": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/"
+  },
+  {
    "d": "2026-11-10T19:00:40Z",
    "g": "Progressive",
    "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
@@ -18,12 +59,92 @@
    "u": "https://firstfloor.substack.com/p/jabu-severn-flood-plain-where-you"
   },
   {
+   "d": "2026-11-10T18:09:35Z",
+   "g": "Radio",
+   "s": "Gilles Peterson (6 Music show)",
+   "sid": "gilles-peterson",
+   "t": "Gilles Peterson - Trick & Treat + Megapia - 31.10.26",
+   "u": "https://soundcloud.com/gillespeterson/gilles-peterson-trick-treat"
+  },
+  {
+   "d": "2026-11-10T16:03:48Z",
+   "g": "Mixes",
+   "s": "Crack Mix",
+   "sid": "crack-mix",
+   "t": "Crack Mix 616: Meg Ward b2b Harry Gay, a.k.a. Mega Gay",
+   "u": "https://soundcloud.com/crackmagazine/meg-ward-hay-gay"
+  },
+  {
+   "d": "2026-11-10T15:55:30Z",
+   "g": "Mixes",
+   "s": "Crack Mix",
+   "sid": "crack-mix",
+   "t": "MEG WARD B2B HARRY GAY AKA MEGA GAY - CRACK",
+   "u": "https://soundcloud.com/crackmagazine/meg-ward-b2b-harry-gay-aka-mega-gay-crack-2"
+  },
+  {
+   "d": "2026-11-10T14:50:23Z",
+   "g": "Progressive",
+   "s": "21C Progressive House",
+   "sid": "21c-progressive",
+   "t": "Imprint Series | Droid9",
+   "u": "https://soundcloud.com/21cprogressivehouse/imprint-series-droid9"
+  },
+  {
+   "d": "2026-11-10T14:35:39Z",
+   "g": "Writing",
+   "s": "Crack Magazine",
+   "sid": "crack-magazine",
+   "t": "RALLY announces first names for 2027, led by Kelela",
+   "u": "https://crackmagazine.net/2026/11/rally-2027-lineup-kelela/?utm_source=rss&utm_medium=rss&utm_campaign=rally-2027-lineup-kelela"
+  },
+  {
+   "d": "2026-11-10T14:00:54Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Australians are streaming more music than ever – but homegrown songs are being skipped",
+   "u": "https://www.theguardian.com/news/ng-interactive/2026/nov/10/australian-music-streaming-songwriters-bands-artists"
+  },
+  {
+   "d": "2026-11-10T12:41:32Z",
+   "g": "Radio",
+   "s": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
+   "sid": "balearic-breakfast",
+   "t": "Colleen 'Cosmo' Murphy's Balearic Breakfast 10.11.26",
+   "u": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261110-095955/"
+  },
+  {
    "d": "2026-11-10T12:10:08Z",
    "g": "Writing",
    "s": "Futurism Restated (Philip Sherburne)",
    "sid": "futurism-restated",
    "t": "FR 200: Quiet Scenes and Small Objects",
    "u": "https://futurismrestated.substack.com/p/fr-200-quiet-scenes-and-small-objects"
+  },
+  {
+   "d": "2026-11-10T12:01:47Z",
+   "g": "Writing",
+   "s": "Inverted Audio",
+   "sid": "inverted-audio",
+   "t": "Ben Kaczor returns to St. Odes with fourth solo album Organ Romance",
+   "u": "https://inverted-audio.com/ben-kaczor-organ-romance/"
+  },
+  {
+   "d": "2026-11-10T12:00:00Z",
+   "g": "triple j",
+   "s": "CORE with Jack Bergin",
+   "sid": "triplej-core",
+   "t": "Nightlight Interview",
+   "u": "https://www.abc.net.au/triplej/programs/core/nightlight-iv/107365448"
+  },
+  {
+   "d": "2026-11-10T11:50:58Z",
+   "g": "Radio",
+   "s": "Gilles Peterson (6 Music show)",
+   "sid": "gilles-peterson",
+   "t": "Gilles Peterson - NAO in Conversation - 24.10.2026",
+   "u": "https://soundcloud.com/gillespeterson/gilles-peterson-nao-in"
   },
   {
    "d": "2026-11-10T11:09:15Z",
@@ -34,137 +155,17 @@
    "u": "https://firstfloor.substack.com/p/dave-huismans-is-determined-to-enjoy"
   },
   {
-   "d": "2026-11-10T10:01:00Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "Anushka Chkheidze Has Better Taste Than I Do",
-   "u": "https://firstfloor.substack.com/p/anushka-chkheidze-has-better-taste"
-  },
-  {
-   "d": "2026-11-10T00:00:00Z",
-   "g": "Progressive",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "Joe Miller: Live from Balance Croatia 2026",
-   "u": "https://soundcloud.com/balance-series/joe-miller-live-balance-croatia"
-  },
-  {
-   "d": "2026-11-09T22:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Future Artists with Sian Eleri",
-   "sid": "bbc-radio-1s-future-artists-with-sian-eleri",
-   "t": "Live music from Basht",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033pk6"
-  },
-  {
-   "d": "2026-11-09T17:59:57Z",
-   "g": "Writing",
-   "s": "Tone Glow",
-   "sid": "tone-glow",
-   "t": "Tone Glow 245: Olof Dreijer",
-   "u": "https://toneglow.substack.com/p/tone-glow-245-olof-dreijer"
-  },
-  {
-   "d": "2026-11-09T10:14:39Z",
-   "g": "Mixes",
-   "s": "Dekmantel Podcast",
-   "sid": "dekmantel-podcast",
-   "t": "Dekmantel Mix 520 - Gop Tun DJs",
-   "u": "https://soundcloud.com/dkmntl/dekmantel-mix-520-gop-tun-djs"
-  },
-  {
-   "d": "2026-11-09T10:00:00Z",
-   "g": "triple j",
-   "s": "soul ctrl with Tanya Bunter",
-   "sid": "triplej-soul-ctrl",
-   "t": "soul ctrl: talkin' bout a revolution",
-   "u": "https://www.abc.net.au/triplej/programs/soul-ctrl/soul-ctrl/107343582"
-  },
-  {
-   "d": "2026-11-09T09:00:00Z",
-   "g": "Progressive",
-   "s": "Nora En Pure: Purified Radio",
-   "sid": "nora-en-pure",
-   "sp": "Nora En Pure: Purified Radio Purified Radio 533",
-   "t": "Purified Radio 533",
-   "u": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_533_Podcast-1793903084299309286-NDMzMjctODc0NDkxODE=.mp3"
-  },
-  {
-   "d": "2026-11-09T08:03:33Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Maxime Denuc",
-   "u": "https://www.flowstate.fm/p/maxime-denuc"
-  },
-  {
-   "d": "2026-11-09T08:00:00Z",
-   "g": "triple j",
-   "s": "Home and Hosed with Anika Luna",
-   "sid": "triplej-home-and-hosed",
-   "t": "Home and Hosed, 9 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107343608"
-  },
-  {
-   "d": "2026-11-09T07:00:00Z",
-   "g": "Double J",
-   "s": "Classic Albums with Caz Tran",
-   "sid": "doublej-classic-albums",
-   "t": "King Gizzard and the Lizard Wizard - Nonagon Infinity",
-   "u": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-king-gizzard-lizard-wizard-nonagon-infinity/107316682"
-  },
-  {
-   "d": "2026-11-08T23:00:00Z",
-   "g": "BBC",
-   "s": "BBC Introducing on Radio 1 Dance",
-   "sid": "bbc-introducing-on-radio-1-dance",
-   "t": "with Jaguar: Into The Underground",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033yx6"
-  },
-  {
-   "d": "2026-11-08T23:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Chillest Show with Sian Eleri",
-   "sid": "bbc-radio-1s-chillest-show-with-sian-eleri",
-   "t": "Rex Orange County Chill Mix",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033ptw"
-  },
-  {
-   "d": "2026-11-08T22:00:40Z",
-   "g": "Mixes",
-   "s": "RA Podcast",
-   "sid": "ra-podcast",
-   "t": "RA.1064 Carlita",
-   "u": "https://soundcloud.com/resident-advisor/ra-1064-carlita"
-  },
-  {
-   "d": "2026-11-08T22:00:00Z",
-   "g": "BBC",
-   "s": "Stuart Maconie's Freak Zone",
-   "sid": "bbc-stuart-maconies-freak-zone",
-   "t": "Sonny Sharrock - Ask the Ages",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033mm5"
-  },
-  {
-   "d": "2026-11-08T21:00:00Z",
-   "g": "NTS",
-   "s": "A Colourful Storm",
-   "sid": "nts-a-colourful-storm",
-   "t": "A Colourful Storm - Love Story",
-   "u": "https://www.nts.live/shows/a-colourful-storm/episodes/a-colourful-storm-8th-november-2026"
-  },
-  {
-   "d": "2026-11-08T20:00:00Z",
-   "g": "BBC",
-   "s": "Mary Anne Hobbs",
-   "sid": "bbc-mary-anne-hobbs",
-   "t": "Kali Malone + Blackhaine",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033mm3"
+   "d": "2026-11-10T10:31:00Z",
+   "g": "Podcasts",
+   "s": "Dissect",
+   "sid": "dissect",
+   "sp": "Dissect 15 BRILLIANT Triple Entendres in Rap History",
+   "t": "15 BRILLIANT Triple Entendres in Rap History",
+   "u": "https://traffic.megaphone.fm/GLT5812238355.mp3"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 587,
+ "newCount": 610,
  "paused": 22,
  "releases": [
   {
@@ -249,5 +250,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-10T21:30:08Z"
+ "updated": "2026-11-11T00:04:30Z"
 }

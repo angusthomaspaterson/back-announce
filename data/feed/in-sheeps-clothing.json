@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-10T17:06:25Z",
+   "desc": "This Thursday, join us at RALPH PUCCI Los Angeles for a music installation powered by In Sheep’s Clothing & Cometa. Design visionary and longtime friend of In Sheep’s […]",
+   "duration": null,
+   "id": "https:--insheepsclothinghifi.com--p-37763",
+   "image": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2026/11/image-7-1024x683.png",
+   "title": "In Sheep’s Clothing & Cometa Sound Power Ralph Pucci’s 20th Anniversary",
+   "url": "https://insheepsclothinghifi.com/isc-cometa-ralph-pucci/?utm_source=rss&utm_medium=rss&utm_campaign=isc-cometa-ralph-pucci"
+  },
+  {
+   "audio": null,
    "date": "2026-11-09T16:55:27Z",
    "desc": "Ahead of Friday’s intimate performance at ISC HQ, we explore a half dozen records from the guitarist’s wildly inventive 20-year journey. There’s a Steve Gunn record for you, […]",
    "duration": null,
@@ -91,19 +101,9 @@
    "image": null,
    "title": "Dagmar Zuniga on the Strange, Sweet Business of Being Heard",
    "url": "https://insheepsclothinghifi.com/dagmar-zuniga/?utm_source=rss&utm_medium=rss&utm_campaign=dagmar-zuniga"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-27T16:34:34Z",
-   "desc": "The music we carry with us holds traces of the places we have called home. In a voice, a rhythm, a sound pulled from memory, are histories that […]",
-   "duration": null,
-   "id": "https:--insheepsclothinghifi.com--p-37469",
-   "image": null,
-   "title": "Five Selects: Arushi Jain shares five favorites from the contemporary South Asian underground",
-   "url": "https://insheepsclothinghifi.com/five-selects-arushi-jain/?utm_source=rss&utm_medium=rss&utm_campaign=five-selects-arushi-jain"
   }
  ],
  "kind": "rss",
  "name": "In Sheep's Clothing Hi-Fi",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

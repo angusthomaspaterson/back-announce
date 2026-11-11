@@ -3,6 +3,16 @@
  "id": "dissect",
  "items": [
   {
+   "audio": "https://traffic.megaphone.fm/GLT5812238355.mp3",
+   "date": "2026-11-10T10:31:00Z",
+   "desc": "Dissecting 15 of the most brilliantly layered bars in hip hop history, uncovering the extraordinary wordplay of Jay-Z, Eminem, Lupe Fiasco, MF DOOM, Pusha T, and more. The Most GENIUS Number Bars In Rap History Host/Writer/EP: Cole Cuchna Video Editor: Kevin Pooler Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "duration": "1993",
+   "id": "c58f366c-da08-11f1-8ce2-db23973a1fcd",
+   "image": "https://megaphone.imgix.net/podcasts/c58f366c-da08-11f1-8ce2-db23973a1fcd/image/dab396a6647755a402b5b3ea32d3f199.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "15 BRILLIANT Triple Entendres in Rap History",
+   "url": "https://traffic.megaphone.fm/GLT5812238355.mp3"
+  },
+  {
    "audio": "https://traffic.megaphone.fm/GLT7312947605.mp3",
    "date": "2026-11-03T10:31:00Z",
    "desc": "Our focus on hip hop features concludes with Kendrick Lamar. We track his entire feature catalog, from the K Dot days to his internet-breaking verse on \"Like That,\" breaking down the best bars along the way. ⁠Full breakdown of \"NOSETALGIA\"⁠ ⁠PLAYLIST of all songs in this episode⁠ Host/Writer/EP: Cole Cuchna Editor: Kevin Pooler Theme: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -241,19 +251,9 @@
    "image": "https://megaphone.imgix.net/podcasts/027d8bc0-3e71-11f1-8adc-9380fce0dfbf/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "E7 - Dissecting \"Something About Us\" (& More!) by Daft Punk",
    "url": "https://traffic.megaphone.fm/GLT2882593381.mp3?updated=1777294702"
-  },
-  {
-   "audio": "https://traffic.megaphone.fm/GLT8195780505.mp3?updated=1776700917",
-   "date": "2026-04-21T10:01:00Z",
-   "desc": "Our deep dive into Daft Punk’s Discovery continues with “Harder, Better, Faster, Stronger,” a masterful achievement where the vocoder is used to sonically embody the accelerating arc of technological evolution. Follow @dissectpodcast on⁠ Instagram⁠,⁠ TikTok⁠, and⁠ Twitter⁠. Host/Writer/EP: Cole Cuchna Editors: Kevin Pooler & Iulia Ciobanu Theme Music: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "duration": "2147",
-   "id": "ff3e4fe4-38e4-11f1-9140-7fe5264c4ab8",
-   "image": "https://megaphone.imgix.net/podcasts/ff3e4fe4-38e4-11f1-9140-7fe5264c4ab8/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "E6 - Dissecting \"Harder, Better, Faster, Stronger\" by Daft Punk",
-   "url": "https://traffic.megaphone.fm/GLT8195780505.mp3?updated=1776700917"
   }
  ],
  "kind": "rss",
  "name": "Dissect",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

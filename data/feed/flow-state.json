@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/224263936/e4eb8504f645d2a63dfbc7f099d8e4da.mp3",
+   "date": "2026-11-10T08:17:12Z",
+   "desc": "Today’s mix opens with new ambient music by Exportion, JWPaton, and Hayes Bradley.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-351",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 351",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-351"
+  },
+  {
    "audio": null,
    "date": "2026-11-09T08:03:33Z",
    "desc": "Today we’re listening to Maxime Denuc, a French electronic musician based in Brussels.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AMhS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facf15d9d-cf9d-42e8-9664-d1ff0020c765_2164x1650.png",
    "title": "Across the Horizon Ep. 72: Marisa Anderson & Alan Sparhawk",
    "url": "https://www.flowstate.fm/p/across-the-horizon-ep-72-marisa-anderson"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/220144105/3e2e14d84e015a0acb2bd648b068f921.mp3",
-   "date": "2026-10-13T07:03:05Z",
-   "desc": "Today’s mix opens with a new ambient track by Líom, followed by a dub ambient track by Acid Springfield.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-flow-state-episode-347",
-   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
-   "title": "Flow State Episode 347",
-   "url": "https://www.flowstate.fm/p/flow-state-episode-347"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

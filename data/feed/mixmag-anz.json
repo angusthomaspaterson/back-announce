@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-10T05:22:00Z",
+   "desc": "Writer Hugo Hodge explores the impact of diasporic and locally born Latin American artists, speaking to a handful of artists in the community to hear about life and music in the emergent scene. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-beyond-the-fiesta-how-latin-american-artists-became-part-of-australian-club-culture",
+   "image": null,
+   "title": "Beyond the fiesta: how Latin American artists became part of Australian club culture",
+   "url": "https://mixmag.net.au/feature/beyond-the-fiesta-how-latin-american-artists-became-part-of-australian-club-culture"
+  },
+  {
+   "audio": null,
    "date": "2026-11-05T22:33:00Z",
    "desc": "Eight free, all-ages parties land on South Bank's Rainforest Green from 8 January to 14 February 2027. Continue reading...",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "Far from everywhere: Simon Wright’s archive of Boorloo rave design",
    "url": "https://mixmag.net.au/feature/far-from-everywhere-simon-wrights-archive-of-boorloo-rave-design"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-01T23:39:57Z",
-   "desc": "The “world-first” legislation will protect venues, events and festivals in the state. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-new-south-wales-government-passes-historic-bill-to-protect-live-music-venues-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Sydney-Nightlife-Update-2026.png",
-   "title": "New South Wales government passes historic bill to protect live music venues",
-   "url": "https://mixmag.net.au/read/new-south-wales-government-passes-historic-bill-to-protect-live-music-venues-news"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

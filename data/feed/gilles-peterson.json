@@ -3,6 +3,26 @@
  "id": "gilles-peterson",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2435659746-gillespeterson-gilles-peterson-trick-treat.mp3",
+   "date": "2026-11-10T18:09:35Z",
+   "desc": "Gilles Peterson - Trick & Treat + Megapia - 31.10.26 by gillespeterson",
+   "duration": "02:59:32",
+   "id": "tag:soundcloud-2010:tracks-2435659746",
+   "image": "https://i1.sndcdn.com/artworks-ynvNHpbBmrCGZM3c-M84fmQ-t3000x3000.jpg",
+   "title": "Gilles Peterson - Trick & Treat + Megapia - 31.10.26",
+   "url": "https://soundcloud.com/gillespeterson/gilles-peterson-trick-treat"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2435482020-gillespeterson-gilles-peterson-nao-in.mp3",
+   "date": "2026-11-10T11:50:58Z",
+   "desc": "Gilles Peterson - NAO in Conversation - 24.10.2026 by gillespeterson",
+   "duration": "02:59:43",
+   "id": "tag:soundcloud-2010:tracks-2435482020",
+   "image": "https://i1.sndcdn.com/artworks-ynvNHpbBmrCGZM3c-M84fmQ-t3000x3000.jpg",
+   "title": "Gilles Peterson - NAO in Conversation - 24.10.2026",
+   "url": "https://soundcloud.com/gillespeterson/gilles-peterson-nao-in"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2425250976-gillespeterson-gilles-peterson-tamar-osborn.mp3",
    "date": "2026-10-24T17:44:52Z",
    "desc": "Gilles Peterson - Tamar Osborn - 17.10.2026 by gillespeterson",
@@ -231,29 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-QNCUuqlb9rJRk0r0-g3Xygw-t3000x3000.png",
    "title": "Gilles Peterson - New Tunes, + Anaiis + Frank Leone - 25.04.26",
    "url": "https://soundcloud.com/gillespeterson/gilles-peterson-new-tunes"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2305864718-gillespeterson-gilles-peterson-record-store.mp3",
-   "date": "2026-04-20T11:59:48Z",
-   "desc": "Gilles Peterson - Record Store Day! - 18.04.26 by gillespeterson",
-   "duration": "02:34:44",
-   "id": "tag:soundcloud-2010:tracks-2305864718",
-   "image": "https://i1.sndcdn.com/artworks-QNCUuqlb9rJRk0r0-g3Xygw-t3000x3000.png",
-   "title": "Gilles Peterson - Record Store Day! - 18.04.26",
-   "url": "https://soundcloud.com/gillespeterson/gilles-peterson-record-store"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2302300898-gillespeterson-gilles-peterson-generations-of.mp3",
-   "date": "2026-04-14T09:48:24Z",
-   "desc": "Gilles Peterson - Generations of Jazz - 11.04.26 by gillespeterson",
-   "duration": "02:59:39",
-   "id": "tag:soundcloud-2010:tracks-2302300898",
-   "image": "https://i1.sndcdn.com/artworks-QNCUuqlb9rJRk0r0-g3Xygw-t3000x3000.png",
-   "title": "Gilles Peterson - Generations of Jazz - 11.04.26",
-   "url": "https://soundcloud.com/gillespeterson/gilles-peterson-generations-of"
   }
  ],
  "kind": "rss",
  "name": "Gilles Peterson (6 Music show)",
- "updatedAt": "2026-10-24T21:38:39Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

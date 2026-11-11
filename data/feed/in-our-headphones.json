@@ -3,6 +3,16 @@
  "id": "in-our-headphones",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/567dc0f1-0cb7-4774-9984-b4fd01406aaa/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
+   "date": "2026-11-10T08:00:00Z",
+   "desc": "Host Evie Stokes sits down with one of KEXP’s newest DJs, Gita Bird, to talk about the music that’s moving them right now. Gita talks about growing up with KEXP, absorbing their mom’s music taste, and why they’re loving the latest batch of demos from Seattle artist Nat Meek, including Gita’s selection, “cowboy song.” Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones…",
+   "duration": "730",
+   "id": "567dc0f1-0cb7-4774-9984-b4fd01406aaa",
+   "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
+   "title": "KEXP DJ Gita Bird on Nat Meek’s Mesmerizing Demos",
+   "url": "https://omny.fm/shows/kexp-song-of-the-day/kexp-dj-gita-bird-on-nat-meek-s-mesmerizing-demos"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/73eb012d-ab8c-42f9-8738-b4f6017da172/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
    "date": "2026-11-05T08:00:00Z",
    "desc": "Host Evie Stokes sits down again with KEXP’s Associate Director of Editorial Dusty Henry to talk about the music that’s moving him. This time, Dusty shares some of his experiences exploring the Manila indie rock scene and his love of the many projects fronted by Diego Mapa, including his latest project, Kagid. He talks about getting this single delivered to him via motorcycle, Mapa’s other projects, and other deep cuts from the Philippines you need to check out. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Head…",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/302b24a9-3a1a-45ba-af84-b4aa0111e10f/image.jpg?t=1787187854&size=Large",
    "title": "Packaging on Cindygod’s Godlike Production",
    "url": "https://omny.fm/shows/kexp-song-of-the-day/packaging-on-cindygod-s-godlike-production"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/a6fa17a0-eb14-4fb6-8f1f-b4a90016a3d3/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-   "date": "2026-08-18T07:00:00Z",
-   "desc": "Host Evie Stokes sits down with Seattle and Colorado-based band Packaging to talk about the music that’s moving them. First up, they talk about Nation of Language offshoot band Cutouts and how they completely reimagine Goldfrapp’s 2003 hit and how the song speaks so well to the world as it is today.  Produced by Dusty Henry Mastered by: William Myers Production support: Serafima Healy Listen to the full songs on KEXP's \" In Our Headphones \" playlist on Spotify or the “ What's In Our Headphones ” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones@kexp.org . …",
-   "duration": "596",
-   "id": "a6fa17a0-eb14-4fb6-8f1f-b4a90016a3d3",
-   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/a6fa17a0-eb14-4fb6-8f1f-b4a90016a3d3/image.jpg?t=1787187870&size=Large",
-   "title": "Packaging on Cutouts’ Insane Goldfrapp Cover",
-   "url": "https://omny.fm/shows/kexp-song-of-the-day/packaging-on-cutouts-insane-goldfrapp-cover"
   }
  ],
  "kind": "rss",
  "name": "KEXP: In Our Headphones",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-10T17:45:14Z",
+   "desc": "Plus a sampler of modern R&B and soul straight from North Carolina",
+   "duration": null,
+   "id": "6af2607a91df8d0001e22739",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/11/Copy-of-Album-Covers-43--21-.png",
+   "title": "The Soundtrack for Earth Post-Rapture",
+   "url": "https://www.hearingthings.co/the-soundtrack-for-earth-post-rapture/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-03T17:03:50Z",
    "desc": "Plus pristine street rap that evokes Walter Mosley and Omar Little",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Album-Covers-43--10-.png",
    "title": "A Love Letter for The End of the World",
    "url": "https://www.hearingthings.co/a-love-letter-for-the-end-of-the-world/"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-03T15:39:42Z",
-   "desc": "Plus bubbly Japanese synth-funk and more",
-   "duration": null,
-   "id": "6a998211b12aa900017364eb",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Five-Songs-Template-11--19-.png",
-   "title": "Gen-Z Rock Philosophy and Psychedelic Onomatopoeia",
-   "url": "https://www.hearingthings.co/gen-z-rock-philosophy-and-psychedelic-onomatopoeia/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-11-03T23:59:56Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

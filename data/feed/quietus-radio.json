@@ -3,6 +3,16 @@
  "id": "quietus-radio",
  "items": [
   {
+   "audio": "https://content.rss.com/episodes/380318/3309716/the-quietus-radio/2026_11_10_21_46_09_e411fff5-58b0-4237-bd21-f08e90c8dd55.mp3",
+   "date": "2026-11-10T21:46:25Z",
+   "desc": "In the latest of our samplers of The Quietus Low Culture Podcast, here's a clip from our recent episode discussing 1954 film, Godzilla. Godzilla is both a type of Kaiju (strange beast) and the name of a sensational black and white Japanese film from 1954 (although tQ’s co-pilots have a lot to say about the recent ‘prequel’ Godzilla Minus Zero as well). The original film had already been commissioned when a Japanese tuna fishing vessel Lucky Dragon Number 5 strayed too close to American A-bomb tests near the Bikini Atoll causing sickness among the crew and, eventually, one fatality. When execs…",
+   "duration": "500",
+   "id": "34aa448e-0d64-4678-8ce3-d1ab498da64d",
+   "image": "https://media.rss.com/the-quietus-radio/ep_cover_20261110_214559_f8b5465d4905c6fe588ff2525e4094bb.jpg",
+   "title": "Low Culture Podcast sampler: Godzilla",
+   "url": "https://rss.com/podcasts/the-quietus-radio/3309716"
+  },
+  {
    "audio": "https://content.rss.com/episodes/380318/3177185/the-quietus-radio/2026_09_23_21_21_20_e910ab5c-9c06-426c-b87e-f17d916f1b27.mp3",
    "date": "2026-09-23T21:21:49Z",
    "desc": "It's another sampler for the Quietus Low Culture Podcast, which goes out each month to our Subscriber and Subscriber Plus tier supporters . This month, tQ founders Luke Turner and John Doran cast their eyes over a controversial classic of French cinema. To access the full podcast, further information on which can be found below, you can sign up here or look for the Subscribe button on tQ's homepage. Subscribers also receive bonus essays, newsletters and playlists, as well as instant access to hours of past Low Culture Podcasts. Luke was drawn in as a young man by the promise of steamy sex sce…",
@@ -241,19 +251,9 @@
    "image": "https://media.rss.com/the-quietus-radio/podcast_cover.jpg",
    "title": "Nuts and Bolts S2 E2 – Maria W Horn",
    "url": "https://rss.com/podcasts/the-quietus-radio/2679974"
-  },
-  {
-   "audio": "https://content.rss.com/episodes/380318/2679975/the-quietus-radio/2026_04_01_09_24_20_bf58bd62-3292-4da9-9c3b-e038d6aaab1b.mp3",
-   "date": "2019-03-25T11:15:24Z",
-   "desc": "Kristin is an American rock musician, songwriter and author and is probably best known for fronting the bands Throwing Muses and 50 Foot Wave. In the past she has talked candidly about the battles she has faced regarding her mental health which have run in parallel to her 35 year career as a musician. After a car accident at the age of 16 left her able to hear noise and music that no one else was able to discern, she received several misdiagnoses through her life including schizophrenia and bipolar disorder; and has only recently been successfully diagnosed with PTSD and dissociative disorder…",
-   "duration": "2663",
-   "id": "http:--radio.thequietus.com--p-331",
-   "image": "https://media.rss.com/the-quietus-radio/cover_e0d41e41509d0bd2cef2d409c11ce0a5.jpg",
-   "title": "The Best Of Times… with Kristin Hersh of Throwing Muses and 50 Foot Wave",
-   "url": "https://rss.com/podcasts/the-quietus-radio/2679975"
   }
  ],
  "kind": "rss",
  "name": "The Quietus Radio",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

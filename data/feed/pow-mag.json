@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-10T19:20:31Z",
+   "desc": "Matthew Ritchie considers grief, growing old, and A Tribe Called Quest’s final album We got it from Here... Thank You 4 Your service on its ten-year anniversary.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service-ten-years",
+   "image": "https://substackcdn.com/image/fetch/$s_!SX1f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3da9d900-8012-4bfc-8a53-260ef6932873_1200x1200.png",
+   "title": "We Got To Get It Together",
+   "url": "https://www.powmag.net/p/a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service-ten-years"
+  },
+  {
+   "audio": null,
    "date": "2026-11-09T17:43:15Z",
    "desc": "On the 25th anniversary of Mulholland Drive, we dig deep into the Hollywood mysteries hidden within its peculiar soundtrack.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/V8ASadXNlOY",
    "title": "Somewhere Over the Rainbow",
    "url": "https://www.powmag.net/p/somewhere-over-the-rainbow-the-rap-up-nino-paid"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-16T17:02:34Z",
-   "desc": "Bobbyy speaks at length about his remarkable new album, TACKYY.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-bobbyy-tackyy-interview",
-   "image": "https://substackcdn.com/image/fetch/$s_!AasW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83fa4eff-9def-4a7b-a581-ac561d476060_1200x1200.png",
-   "title": "Your Soul Is Smart",
-   "url": "https://www.powmag.net/p/bobbyy-tackyy-interview"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

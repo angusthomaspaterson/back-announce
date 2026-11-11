@@ -3,6 +3,17 @@
  "id": "triplej-home-and-hosed",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qa/Z/5m.aac",
+   "date": "2026-11-10T08:00:00Z",
+   "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 10 Dec. Tracklist: Sycco – I've Loved and I've Lost; Youngeste – Right Here With you; Sammi Heaney – Guilty; Cherry Chola – The Pink Room; Stagger – It's All Stars; SOLLYY – FAIR DINKUM [Ft. Breakfast Road, Church, Zion Garcia]; Olivia C. Dacal – Take A Video; Dream Boat – Real!; Newport – everything was fickle [Ft. Arden Jones]; JACOTÉNE – Tell Me (Tell Me I Heard It From My Father); Torren Foot & rhys from the sticks – DANCE; Swapmeet – I Know!; Swapmeet – Mount Zero; Jett Blyton – Omg; Sta…",
+   "duration": "7200",
+   "id": "107348038",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e53a18092190656f98b05e2e56c91fe4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Home and Hosed, 10 Nov",
+   "until": "2026-12-10T08:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107348038"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q8/Z/tl.aac",
    "date": "2026-11-09T08:00:00Z",
    "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 9 Dec. Tracklist: Odette – Blink; Mwanjé – Streets; Ninajirachi & Porter Robinson – WannaCry; Armlock – Lifer; Daezy – I WANT YOU; The Avalanches – The Divine Chord [Ft. MGMT, Johnny Marr]; Becca Hatch – Extra Time; 1300 – ILLSAMGONGGONG; daine – Supervillain; Maia Toakley – Everything On Fire; Soul Wun – Beautiful Noise In My Head; ROMME – SPELL.; Julia Jacklin – Get Away From Me (I Think I'll Love You Soon) [triple j Like A Version 2026]; Julia Jacklin – If I Had The Hand Of God; Tobiahs & …",
@@ -100,20 +111,9 @@
    "title": "Home and Hosed: First Play from Selfish Sons",
    "until": "2026-11-25T08:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107290394"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/0k.aac",
-   "date": "2026-10-22T08:00:00Z",
-   "desc": "Wrapping up another week of Home & Hosed, we've got a PACKED show! There's first plays from total tommy AND Sweatbaby & DEVAURA, plus an interview with GRUB about their debut album ! Available until 21 Nov. Tracklist: Old Mervs – Adeline; Teenage Dads – Find A Way; The Avalanches, Portraits Of Tracy – Can't Get Over Losing You; Miss Kaninna & Kobie Dee – LOOK AT ME NOW; total tommy – Gutterball; Windwaker – click. [Ft. RinRin]; Sycco – I've Loved and I've Lost; The Rions – Cry; Kaiit – Miss Shiney; 1tbsp – Wish You Luck [Ft. kid on air]; Nerve – SexyBack [triple j Like A Version 2026]; SKORTZ…",
-   "duration": "7200",
-   "id": "107278340",
-   "image": "https://live-production.wcms.abc-cdn.net.au/c2e3e9199f1a4aa0606ed2a43f1d77c0?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-   "title": "Home and Hosed: First Play from Sweatbaby & DEVAURA",
-   "until": "2026-11-21T08:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107278340"
   }
  ],
  "kind": "abc",
  "name": "Home and Hosed with Anika Luna",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }

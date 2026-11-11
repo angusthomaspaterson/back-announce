@@ -3,6 +3,16 @@
  "id": "all-songs-considered",
  "items": [
   {
+   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/17099eee-5e06-420f-9cf0-5598bc6e2821/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=17099eee-5e06-420f-9cf0-5598bc6e2821&feed=uwsqics_&t=podcast&e=nx-s1-6035033&p=g-s1-111189&d=2833&size=90680530",
+   "date": "2026-11-10T10:00:00Z",
+   "desc": "We update our running list of the year’s best songs with reflections on shedding the past, moving on and the joy of simple pleasures. This includes the emo-coded pop of oso oso, Lake Street Dive’s list of hopeful what-aboutisms, the twitchy, genre-hopping sound of brakence, pipe organ drones from Kali Malone and more. NPR Music editor and writer Sheldon Pearce joins host Robin Hilton. Tell us what you think with a review on Apple or Spotify wherever you listen to podcasts. Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.org Featured artists and songs: (00…",
+   "duration": "2833",
+   "id": "8fbd18e6-f145-4876-a0df-9cde739aa887",
+   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2Fff%2F8941831848ee8dd9bc7893a2ed2c%2F6561a085-5c39-40c8-bbe9-e8f554eb6eba.png",
+   "title": "Lake Street Dive, Thao, brakence and more new favorites",
+   "url": "https://www.npr.org/2026/11/10/nx-s1-6035033/lake-street-dive-thao-brakence-and-more-new-favorites"
+  },
+  {
    "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/6d1c7dc0-55b0-48ae-9a15-dab1fa213e21/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=6d1c7dc0-55b0-48ae-9a15-dab1fa213e21&feed=uwsqics_&t=podcast&e=nx-s1-6026717&p=g-s1-111189&d=3383&size=108281626",
    "date": "2026-11-03T10:00:00Z",
    "desc": "As we enter the homestretch of 2026, we pause to catch up on some of the great tracks we missed from earlier in the year. This includes a stunning, ever-shifting earworm from a bedroom pop artist out of Northern Iowa known as Kinji, maximalist polyrhythms from the composer and electronic artist Kaitlyn Aurelia Smith, the singular voice of Mexican singer Silvana Estrada and more. AltLatino host Anamaria Sayre joins All Songs Considered’ s Robin Hilton. Featured artists and songs: (00:00) Intro (01:49) Kinji: “Windburn” (08:42) Kaitlyn Aurelia Smith: “Ruin” (17:37) Rita Payés & Lucía Fumero: “R…",
@@ -191,19 +201,9 @@
    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F73%2F4cf1e5eb42f58103e7c3ba4c3826%2Fe8c894f8-1d4d-4008-81e1-64116b80c382.png",
    "title": "The year’s best songs so far",
    "url": "https://www.npr.org/2026/06/30/nx-s1-5872219/the-years-best-songs-so-far"
-  },
-  {
-   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/304ba5ea-2131-4af0-a841-ce6dda6c0402/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=304ba5ea-2131-4af0-a841-ce6dda6c0402&feed=uwsqics_&t=podcast&e=nx-s1-5866747&p=g-s1-111189&d=2815&size=90094550",
-   "date": "2026-06-23T07:00:00Z",
-   "desc": "We share our picks for the best new tracks of the week, including Mitski’s surprising cover of One Direction’s “Fireproof.” But first, we remember Beck’s still-mind-blowing Odelay , which just celebrated its 30th anniversary. NPR Music’s Lars Gotrich joins host Robin Hilton. Featured artists and songs: (00:00) Beck’s Odelay at 30 (03:39) Perennial: “What’s New On The Beat Scene” (08:55) Mitski: “Fireproof” (13:50) Sarah Davachi: “Songs of the Smile’s Fig: III. Follies” (21:56) Shearwater: “Daydream Unbeliever” (32:33) Sleep: “Have Spacesuit Will Travel” (41:39) L’Rain: “soulless cycle” Review…",
-   "duration": "2815",
-   "id": "944836c1-a66d-4605-93d8-c6a381ed2618",
-   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2Ffc%2Fb737aafa475d8b6038cb34dcd82f%2Fe13bb57d-7dea-4885-907b-5d34c41ee97a.png",
-   "title": "Beck's 'Odelay' at 30, Mitski covers One Direction, more",
-   "url": "https://www.npr.org/2026/06/23/nx-s1-5866747/becks-odelay-at-30-mitski-covers-one-direction-more"
   }
  ],
  "kind": "rss",
  "name": "NPR: All Songs Considered",
- "updatedAt": "2026-11-03T23:59:56Z"
+ "updatedAt": "2026-11-11T00:04:30Z"
 }
