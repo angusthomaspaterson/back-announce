@@ -3,6 +3,16 @@
  "id": "transmissions",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6af210000045eff641efedf2/media.mp3",
+   "date": "2026-11-11T07:00:00Z",
+   "desc": "Our guest this week is author Adam Voith, whose new novel, RIYL , short for \"Recommended If You Like,\" is an at times thinly veiled memoir of the '90s Christian punk and indie scene. With echoes of Get in the Van and Freaks and Geeks, RIYL threads that delicate needle of looking back at earnest teenage corn doggery with warts and all embarrassment, tempered by the type of affection that only time and distance allow all of us. It's also frequently flat out hilarious. Just as the bands in RIYL became the improbable secret history of mainstream mainline indie music—Sufjan Stevens, Father John Mi…",
+   "duration": "1:03:36",
+   "id": "6af210000045eff641efedf2",
+   "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/1794247590515-3a859e75-91f0-4b63-bd78-a0dea7f47ba8.jpeg",
+   "title": "Transmissions :: Adam Voith",
+   "url": "https://aquariumdrunkard.com/2026/11/11/transmissions-adam-voith/"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6ae9f8ccdc2860cef4ade70f/media.mp3",
    "date": "2026-11-04T07:00:00Z",
    "desc": "Welcome back to Aquarium Drunkard Transmissions with your host Jason P. Woodbury. We've entered the holidays, aka the official \"Vince Guaraldi Season.\" This week on the show, we're digging into the work of Guaraldi with Peanuts historian and author of Vince Guaraldi at the Piano , Derrick Bang. He first published the book in 2012, but in 2024 released an updated edition. We discuss it all: Guaraldi's fascination with the bossa nova sound in the late '50s, his status as a composer who didn't write or read music—writing from a purely melodic standpoint, his work with Brazilian guitarist Bola Se…",
@@ -241,19 +251,9 @@
    "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/61568cfa3d8a5e6ec670c4f7744f4be7.jpg",
    "title": "All One Song :: Zachary Cale on \"Ambulance Blues\"",
    "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab706a4c974afb1546efe82"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/cf50154e-53cc-11f1-9bf4-b74cc910c9ce/media.mp3",
-   "date": "2026-05-20T07:00:00Z",
-   "desc": "In case you haven't caught on already, All One Song host Tyler Wilcox loves talking about Neil Young. And he's always fascinated by where these free-form conversations go, whether it's deep dives into lyrical obsessions, personal history, chord progressions, Shakey lore … or some indefinable blend of all of that. This week’s episode is no different! We’re back in the 1990s this time around, taking a look at a song from Harvest Moon — “From Hank To Hendrix.” It’s a song that has been a regular setlist inclusion ever since it first appeared in late 1991. Young usually does it solo acoustic, and…",
-   "duration": "1:20:36",
-   "id": "cf50154e-53cc-11f1-9bf4-b74cc910c9ce",
-   "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/40dccea1234ba44311b14eedda3de216.jpg",
-   "title": "All One Song :: Jerry David DeCicca on \"From Hank To Hendrix\"",
-   "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab705c262a47b6bec26271c"
   }
  ],
  "kind": "rss",
  "name": "Transmissions (Aquarium Drunkard)",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

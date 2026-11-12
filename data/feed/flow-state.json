@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/224397137/dff3a528f7a5979a32802c72e5c1e749.mp3",
+   "date": "2026-11-11T08:02:45Z",
+   "desc": "On today’s episode of Across the Horizon, host Bob Holmes of the band SUSS is joined by one of the leading practitioners of a style of music that might best be called \"cosmic country”: the Portland, Oregon-based artist Jeffrey Silverstein.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-74-jeffrey",
+   "image": "https://substackcdn.com/image/fetch/$s_!GGxk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20160612-20a8-4393-9232-a6b6a646d672_1200x800.png",
+   "title": "Across the Horizon Ep. 74: Jeffrey Silverstein",
+   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-74-jeffrey"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/224263936/e4eb8504f645d2a63dfbc7f099d8e4da.mp3",
    "date": "2026-11-10T08:17:12Z",
    "desc": "Today’s mix opens with new ambient music by Exportion, JWPaton, and Hayes Bradley.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!HVbo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F906c8865-6da5-4cc5-9bf5-1535ee8f9dd0_1174x1200.jpeg",
    "title": "The Sweet Enoughs",
    "url": "https://www.flowstate.fm/p/the-sweet-enoughs"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/220306654/3d8693413d86a1b4f6244a4e90a5bd4c.mp3",
-   "date": "2026-10-14T07:02:54Z",
-   "desc": "On today’s episode of Across the Horizon, Bob Holmes of the band SUSS has a conversation with marisa anderson and Alan Sparhawk (formerly of Low).",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-72-marisa-anderson",
-   "image": "https://substackcdn.com/image/fetch/$s_!AMhS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facf15d9d-cf9d-42e8-9664-d1ff0020c765_2164x1650.png",
-   "title": "Across the Horizon Ep. 72: Marisa Anderson & Alan Sparhawk",
-   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-72-marisa-anderson"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

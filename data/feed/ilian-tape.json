@@ -3,6 +3,16 @@
  "id": "ilian-tape",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2436001233-ilian-tape-itps133-havantepe.mp3",
+   "date": "2026-11-11T09:23:19Z",
+   "desc": "Havantepe, co-founder of Sublime Porte, has released many dope dub-infused records over the last two decades. He was born and raised near Stuttgart and moved to Istanbul in 94. Here he presents a studio-curated mix featuring unreleased and upcoming material. Enjoy!",
+   "duration": "00:54:26",
+   "id": "tag:soundcloud-2010:tracks-2436001233",
+   "image": "https://i1.sndcdn.com/artworks-Vx4hmZD1g0yPHvyQ-twjw9A-t3000x3000.jpg",
+   "title": "ITPS133 HAVANTEPE",
+   "url": "https://soundcloud.com/ilian-tape/itps133-havantepe"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2423132145-ilian-tape-itps132-carista.mp3",
    "date": "2026-10-21T08:15:43Z",
    "desc": "Music has always been CARISTA’s way of finding connection. She founded United Identities in Utrecht in 2017, and it has since developed into an independent record label, events and a monthly show on NTS Radio. Her own “No Ego, All Equal” ethos sits at its centre — a belief in openness, and giving music room to find its own. Enjoy!",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-j32hNRM5wePINzrf-s489WA-t3000x3000.jpg",
    "title": "ITPS109 DUB ATHLETE",
    "url": "https://soundcloud.com/ilian-tape/itps109-dub-athlete"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/1914381902-ilian-tape-itps108-pugilist.mp3",
-   "date": "2024-09-11T06:55:54Z",
-   "desc": "Pugilist is a Melbourne based producer & DJ, releasing multi genre bass music on labels like 3024, Rupture and Modern Hypnosis. Enjoy!",
-   "duration": "02:59:19",
-   "id": "tag:soundcloud-2010:tracks-1914381902",
-   "image": "https://i1.sndcdn.com/artworks-tzV33WGMDrVcz3zq-rUb8ZQ-t3000x3000.jpg",
-   "title": "ITPS108 PUGILIST",
-   "url": "https://soundcloud.com/ilian-tape/itps108-pugilist"
   }
  ],
  "kind": "rss",
  "name": "Ilian Tape Podcast Series",
- "updatedAt": "2026-10-22T00:01:40Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

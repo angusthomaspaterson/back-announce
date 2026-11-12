@@ -3,6 +3,17 @@
  "id": "triplej-prism",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qb/Z/e6.aac",
+   "date": "2026-11-11T10:00:00Z",
+   "desc": "Mowgli May is covering for Tiffi tonight and coming in hot with all the pop powerhouses of the moment... plus up and comers you need to get to know, from Australia to the world! Available until 11 Dec. Tracklist: tiffi – cold medicine; Chris Lorenzo & Chromeo – Fancy Footwork; 5 Seconds of Summer – Everyone’s a Star! (CLUBSOS VOL. 1); Tate McRae – Housewife; Salty – The Eye; Tinashe – Popstar; ADÉLA – Fantasize; Larissa Lambert – Yearning; Troye Sivan – She's the Best; Drake & Don Toliver – Solar Eclipse; Daine – Product of Profit (P.O.P); Cloonee, Prospa & Tristan Henry – Good Girl; ILLIT – …",
+   "duration": "7200",
+   "id": "107353240",
+   "image": "https://live-production.wcms.abc-cdn.net.au/a6cd5f2da681b8a87333be1cef52151f?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=740&width=862&height=485&imformat=generic",
+   "title": "Prism: Mowgli May Takeover! <3",
+   "until": "2026-12-11T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/prism/prism-mowgli-may/107353240"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q4/Z/7k.aac",
    "date": "2026-11-04T10:00:00Z",
    "desc": "Join tiffi tonight for this SPECIAL edition of PRISM, one that comes every year - the ALL Aussie extravaganza to celebrate Aus Music Month! You'll hear from artists like nabii, Hugo Basclain, Mystic Tea Party, Wolf Cutt, Blush, kate moth, Barley Paassable, and so many more. AND on top of that, tiffi spent 2 hours gathering messages from the artists <3. Available until 4 Dec. Tracklist: nabii – a million kisses in her eyes; 5 Seconds of Summer – I'm Scared I’ll Never Sleep Again (CLUBSOS VOL. 1); Hugo Basclain [feat. Allegra Miles] – Crazy Bout U; Annabelle Tiffin – WHEN ITS ALL SAID AND DONE;…",
@@ -49,5 +60,5 @@
  ],
  "kind": "abc",
  "name": "Prism with tiffi",
- "updatedAt": "2026-11-06T11:14:15Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

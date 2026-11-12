@@ -732,6 +732,16 @@
    "id": "anjunadeep-releases",
    "items": [
     {
+     "date": "2026-11-10T00:00:00Z",
+     "desc": "Single on Anjunadeep, out 10 Nov 2026.",
+     "id": "632052-furnace-creek-keep-pretending",
+     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/632052.jpg",
+     "out": "2026-11-10T00:00:00Z",
+     "tags": "Single · Anjunadeep",
+     "title": "Tim Green – Furnace Creek / Keep Pretending",
+     "url": "https://anjunadeep.com/products/632052-furnace-creek-keep-pretending"
+    },
+    {
      "date": "2026-11-09T00:00:00Z",
      "desc": "Single on Anjunachill, out 9 Nov 2026.",
      "id": "631659-sky",
@@ -970,21 +980,11 @@
      "tags": "Single · Anjunadeep Explorations",
      "title": "Rosbeh – Find My Home / Brainbreak",
      "url": "https://anjunadeep.com/products/618501-find-my-home-brainbreak"
-    },
-    {
-     "date": "2026-10-06T00:00:00Z",
-     "desc": "Single on Anjunadeep, out 6 Oct 2026.",
-     "id": "618502-shift-focus",
-     "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/618502.jpg",
-     "out": "2026-10-06T00:00:00Z",
-     "tags": "Single · Anjunadeep",
-     "title": "Because of Art feat. Blair – Shift Focus",
-     "url": "https://anjunadeep.com/products/618502-shift-focus"
     }
    ],
    "kind": "manual",
    "name": "Anjunadeep releases",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "balance-music": {
    "home": "https://soundcloud.com/balancemusic",
@@ -2023,6 +2023,16 @@
    "id": "bbc-benji-b",
    "items": [
     {
+     "date": "2026-11-12T01:00:00Z",
+     "desc": "On BBC Sounds until 12 Dec (UK only). Astrønne describes herself in 3 records and Miguel Attwood-Ferguson enters Album Mode. Produced by TBI Media for BBC Radio 1.",
+     "duration": "7200",
+     "id": "m0033rmf",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lwnvm0.jpg",
+     "title": "Astrønne In 3",
+     "until": "2026-12-12T01:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m0033rmf"
+    },
+    {
      "date": "2026-11-05T01:00:00Z",
      "desc": "On BBC Sounds until 5 Dec (UK only). Paying tribute to the Godfather of Techno, Juan Atkins. Benji revisits his iconic show from 2008 to hear Juan talking about his career, aliases, technology and influences. Produced by TBI Media for BBC Radio 1.",
      "duration": "7200",
@@ -2065,7 +2075,7 @@
    ],
    "kind": "bbc",
    "name": "Benji B",
-   "updatedAt": "2026-11-07T22:46:59Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "bbc-gilles-peterson": {
    "home": "https://www.bbc.co.uk/programmes/b01fm4ss",
@@ -2733,6 +2743,16 @@
    "id": "bbc-radio-1s-classic-essential-mix",
    "items": [
     {
+     "date": "2026-11-11T22:00:00Z",
+     "desc": "On BBC Sounds until 12 Dec (UK only). Relive the sublime 2012 Essential Mix Of the Year from Nicolas Jaar, which mixed Aphex Twin with string quartets, Ricardo Villalobos with Marvin Gaye and had Beyonce unplugged.",
+     "duration": "7200",
+     "id": "m000h87r",
+     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p089bryk.jpg",
+     "title": "Nicolas Jaar 2012",
+     "until": "2026-12-11T22:00:00Z",
+     "url": "https://www.bbc.co.uk/sounds/play/m000h87r"
+    },
+    {
      "date": "2026-11-10T22:00:00Z",
      "desc": "On BBC Sounds until 3 Jan (UK only). Relive TC's drum & bass rinse out from 2008.",
      "duration": "7200",
@@ -2905,7 +2925,7 @@
    ],
    "kind": "bbc",
    "name": "Radio 1's Classic Essential Mix",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "bbc-radio-1s-drum-and-bass-show": {
    "home": "https://www.bbc.co.uk/programmes/b09c12lj",
@@ -3061,16 +3081,6 @@
      "url": "https://www.bbc.co.uk/sounds/play/m0030xyh"
     },
     {
-     "date": "2026-08-29T22:00:00Z",
-     "desc": "On BBC Sounds until 11 Nov (UK only). Another chance to hear the queen of Spanish techno, Indira Paganotto's 2025 Essential Mix. Produced by BBC Audio for BBC Radio 1.",
-     "duration": "7200",
-     "id": "m002nlrg",
-     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0mn41qn.jpg",
-     "title": "Indira Paganotto",
-     "until": "2026-11-11T01:00:00Z",
-     "url": "https://www.bbc.co.uk/sounds/play/m002nlrg"
-    },
-    {
      "date": "2026-08-29T01:00:00Z",
      "desc": "On BBC Sounds until 18 Nov (UK only). Liverpool's Faster Horses makes his Essential Mix debut. Produced by BBC Audio for BBC Radio 1.",
      "duration": "7200",
@@ -3083,7 +3093,7 @@
    ],
    "kind": "bbc",
    "name": "Radio 1's Essential Mix",
-   "updatedAt": "2026-11-10T02:10:50Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "bbc-radio-1s-future-artists-with-sian-eleri": {
    "home": "https://www.bbc.co.uk/programmes/m001y043",
@@ -3178,21 +3188,11 @@
      "title": "Early Access with Nieve Ella",
      "until": "2026-11-12T21:00:00Z",
      "url": "https://www.bbc.co.uk/sounds/play/m0032g41"
-    },
-    {
-     "date": "2026-10-12T21:00:00Z",
-     "desc": "On BBC Sounds until 12 Nov (UK only). Pocket delivers a Future Flex Mini Mix, and Sian catches up with Dermot Henry in Next Wave. Produced by Listen for BBC Radio 1.",
-     "duration": "7200",
-     "id": "m0032gxr",
-     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
-     "title": "Future Flex with Pocket",
-     "until": "2026-11-11T21:00:00Z",
-     "url": "https://www.bbc.co.uk/sounds/play/m0032gxr"
     }
    ],
    "kind": "bbc",
    "name": "Radio 1's Future Artists with Sian Eleri",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "bbc-radio-1s-future-dance-with-sarah-story": {
    "home": "https://www.bbc.co.uk/programmes/m000zc82",
@@ -3503,21 +3503,11 @@
      "title": "Paige Tomlinson - Fresh from the studio",
      "until": "2026-11-19T01:00:00Z",
      "url": "https://www.bbc.co.uk/sounds/play/m0031j0c"
-    },
-    {
-     "date": "2026-09-18T00:00:00Z",
-     "desc": "On BBC Sounds until 12 Nov (UK only). Paige Tomlinson explores the artists and records that have shaped her as a DJ and producer. With a sound spanning 90s progressive house, hard house and trance, expect lots of rave classic, timeless records and big melodies as she dives into her influences. Plus, Paige jumps in the mix with more peak time energy tracks from friends and newer influences. Produced by We Are Grape for BBC Radio 1 Dance.",
-     "duration": "7200",
-     "id": "m00315d9",
-     "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0p7zmny.jpg",
-     "title": "Paige Tomlinson - The Ones That Shaped Me",
-     "until": "2026-11-12T01:00:00Z",
-     "url": "https://www.bbc.co.uk/sounds/play/m00315d9"
     }
    ],
    "kind": "bbc",
    "name": "The Residency on Radio 1 Dance",
-   "updatedAt": "2026-11-10T02:10:50Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "butter-sessions": {
    "home": "https://soundcloud.com/buttersessions",
@@ -4562,22 +4552,12 @@
     {
      "audio": "https://feeds.soundcloud.com/stream/2435601555-crackmagazine-meg-ward-hay-gay.mp3",
      "date": "2026-11-10T16:03:48Z",
-     "desc": "If you’re a fan, become a Supporter: crackm.ag/subscriptions",
+     "desc": "Meg Ward and Harry Gay – a.k.a. Mega Gay – deliver a high-energy mix of “heaters, melters, pumpers and belters.” If you’re a fan, become a Supporter: crackm.ag/subscriptions",
      "duration": "01:04:14",
      "id": "tag:soundcloud-2010:tracks-2435601555",
-     "image": "https://i1.sndcdn.com/avatars-000272088189-nlkha2-original.jpg",
+     "image": "https://i1.sndcdn.com/artworks-pXeqOSlD0zdxTQ1i-79y8gg-t3000x3000.jpg",
      "title": "Crack Mix 616: Meg Ward b2b Harry Gay, a.k.a. Mega Gay",
      "url": "https://soundcloud.com/crackmagazine/meg-ward-hay-gay"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2435598714-crackmagazine-meg-ward-b2b-harry-gay-aka-mega-gay-crack-2.mp3",
-     "date": "2026-11-10T15:55:30Z",
-     "desc": "MEG WARD B2B HARRY GAY AKA MEGA GAY - CRACK by Crack Magazine",
-     "duration": "01:04:14",
-     "id": "tag:soundcloud-2010:tracks-2435598714",
-     "image": "https://i1.sndcdn.com/avatars-000272088189-nlkha2-original.jpg",
-     "title": "MEG WARD B2B HARRY GAY AKA MEGA GAY - CRACK",
-     "url": "https://soundcloud.com/crackmagazine/meg-ward-b2b-harry-gay-aka-mega-gay-crack-2"
     },
     {
      "audio": "https://feeds.soundcloud.com/stream/2407551966-crackmagazine-sunday-mix-clarissa-connelly.mp3",
@@ -4808,11 +4788,21 @@
      "image": "https://i1.sndcdn.com/artworks-tTJd9cRPDFrzp9TN-0VpNNA-t3000x3000.png",
      "title": "Manchester's New Underground: SILVERWINGKILLER Mix",
      "url": "https://soundcloud.com/crackmagazine/manchester-new-underground-silverwingkiller-mix"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2268321698-crackmagazine-manchester-new-underground-buffee-mix.mp3",
+     "date": "2026-02-19T16:00:05Z",
+     "desc": "In Manchester’s underground, a disparate group of artists – Another Country $$$$, BUFFEE, Crimewave, Mogan and SILVERWINGKILLER – are blurring the lines between bands, DJs and performance art. Bound by a shared ethos and fed up with the predictable, they’re building a DIY communal culture driven by friendship, shared purpose and a desire to upend convention. Read our profile on the rising scene at crackmagazine.net, and press play on BUFFEE's freewheeling 45-minute ride through Janet Jackson, Grimes, Dylan Brady, Basement Jaxx and more. If you’re a fan, become a Supporter: crackm.ag/subscript…",
+     "duration": "00:45:26",
+     "id": "tag:soundcloud-2010:tracks-2268321698",
+     "image": "https://i1.sndcdn.com/artworks-NajLaO56yIFcw9fn-yWFKLg-t3000x3000.png",
+     "title": "Manchester's New Underground: BUFFEE Mix",
+     "url": "https://soundcloud.com/crackmagazine/manchester-new-underground-buffee-mix"
     }
    ],
    "kind": "rss",
    "name": "Crack Mix",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "dada-strain": {
    "home": "https://dadastrain.substack.com/",
@@ -6183,6 +6173,17 @@
    "id": "doublej-take-5",
    "items": [
     {
+     "audio": "https://mediacore-live-production.akamaized.net/audio/02/qb/Z/du.mp3",
+     "date": "2026-11-12T01:00:00Z",
+     "desc": "Dan Sultan is one of Australia's finest voices. Over the past two decades, he's dabbled in rock, country, soul, even a kids album. But it's on his most recent record, Little Miracles, that he feels like he's finally closer to reaching his full potential. It's a heartfelt expression of self, expansive and epic, full of strings, gospel, and pure sunshine. The album came together in an improbable burst of creativity with legendary songwriter and producer Guy Chambers, (the man behind some of Robbie Williams' biggest hits), and was written and recorded in just 12 days. The title came from Chamber…",
+     "duration": "2677",
+     "id": "107374860",
+     "image": "https://live-production.wcms.abc-cdn.net.au/56262dc1fbc919b593de82d761b1af43?impolicy=wcms_watermark_abc&cropH=1536&cropW=2731&xPos=0&yPos=583&width=862&height=485&imformat=generic",
+     "title": "Take 5 with Dan Sultan",
+     "until": "2026-12-10T01:00:00Z",
+     "url": "https://www.abc.net.au/listen/programs/take-5/take-5-dan-sultan-little-miracle-songs/107374860"
+    },
+    {
      "audio": "https://mediacore-live-production.akamaized.net/audio/02/q4/Z/pp.mp3",
      "date": "2026-11-05T01:00:00Z",
      "desc": "The Presets are Australian electronic music royalty. From their beginnings as classically trained percussion students at the Sydney Conservatorium of Music to their breakthrough as synth-wielding dancefloor destroyers, Julian Hamilton and Kim Moyes have spent three decades making music that refuses to sit still. Their 2008 album Apocalypso made them the first electronic act to win the ARIA for Album of the Year, and singles like \"My People\" became anthems for a generation. Before The Presets, there was Prop: a minimalist percussion ensemble blending Steve Reich with spacey synths. The transfo…",
@@ -6225,22 +6226,11 @@
      "title": "Take 5 with Pia Miranda",
      "until": "2026-11-19T01:00:00Z",
      "url": "https://www.abc.net.au/listen/programs/take-5/pia-miranda-take-5-joie-de-vivre-songs/107293960"
-    },
-    {
-     "audio": "https://mediacore-live-production.akamaized.net/audio/02/pf/Z/0u.mp3",
-     "date": "2026-10-15T01:00:00Z",
-     "desc": "Take 5 is celebrating 20 years, and we're marking the milestone with something special. Zan Rowe is bringing the show to record stores around the country for four intimate, live conversations with some of Australia's most loved artists: The Presets Kate Miller-Heidke Dan Sultan John Butler Each guest takes on a theme and chooses five songs that speak to it, and what unfolds is always unexpected. All four live Take 5s will drop right here on the pod throughout November as part of Aus Music Month. PLUS: before those live shows, we've got a couple of extra special conversations coming your way. …",
-     "duration": "285",
-     "id": "107264156",
-     "image": "https://live-production.wcms.abc-cdn.net.au/196f67a75157c700cdc4434b205fd458?impolicy=wcms_watermark_abc&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-     "title": "Take 5 with Sampa The Great, The Presets, Pia Miranda, Dan Sultan and John Butler",
-     "until": "2026-11-12T01:00:00Z",
-     "url": "https://www.abc.net.au/listen/programs/take-5/take-5-season-3-2026-teaser-episode/107264156"
     }
    ],
    "kind": "abc",
    "name": "Take 5 with Zan Rowe",
-   "updatedAt": "2026-11-06T11:14:15Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "doublej-the-block-party": {
    "home": "https://www.abc.net.au/listen/programs/the-block-party",
@@ -7449,6 +7439,16 @@
    "id": "flow-state",
    "items": [
     {
+     "audio": "https://api.substack.com/feed/podcast/224397137/dff3a528f7a5979a32802c72e5c1e749.mp3",
+     "date": "2026-11-11T08:02:45Z",
+     "desc": "On today’s episode of Across the Horizon, host Bob Holmes of the band SUSS is joined by one of the leading practitioners of a style of music that might best be called \"cosmic country”: the Portland, Oregon-based artist Jeffrey Silverstein.",
+     "duration": null,
+     "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-74-jeffrey",
+     "image": "https://substackcdn.com/image/fetch/$s_!GGxk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20160612-20a8-4393-9232-a6b6a646d672_1200x800.png",
+     "title": "Across the Horizon Ep. 74: Jeffrey Silverstein",
+     "url": "https://www.flowstate.fm/p/across-the-horizon-ep-74-jeffrey"
+    },
+    {
      "audio": "https://api.substack.com/feed/podcast/224263936/e4eb8504f645d2a63dfbc7f099d8e4da.mp3",
      "date": "2026-11-10T08:17:12Z",
      "desc": "Today’s mix opens with new ambient music by Exportion, JWPaton, and Hayes Bradley.",
@@ -7637,21 +7637,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!HVbo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F906c8865-6da5-4cc5-9bf5-1535ee8f9dd0_1174x1200.jpeg",
      "title": "The Sweet Enoughs",
      "url": "https://www.flowstate.fm/p/the-sweet-enoughs"
-    },
-    {
-     "audio": "https://api.substack.com/feed/podcast/220306654/3d8693413d86a1b4f6244a4e90a5bd4c.mp3",
-     "date": "2026-10-14T07:02:54Z",
-     "desc": "On today’s episode of Across the Horizon, Bob Holmes of the band SUSS has a conversation with marisa anderson and Alan Sparhawk (formerly of Low).",
-     "duration": null,
-     "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-72-marisa-anderson",
-     "image": "https://substackcdn.com/image/fetch/$s_!AMhS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facf15d9d-cf9d-42e8-9664-d1ff0020c765_2164x1650.png",
-     "title": "Across the Horizon Ep. 72: Marisa Anderson & Alan Sparhawk",
-     "url": "https://www.flowstate.fm/p/across-the-horizon-ep-72-marisa-anderson"
     }
    ],
    "kind": "rss",
    "name": "Flow State",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "futurism-restated": {
    "home": "https://futurismrestated.substack.com/",
@@ -8904,6 +8894,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-11T05:34:40Z",
+     "desc": "Is it because a) live music is just too hard (expensive) to do and b) AI streaming algorithms are eating our brains? Probably Sign up here to get an email whenever First Dog cartoons are published Get all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading...",
+     "duration": null,
+     "id": ":--www.theguardian.com-commentisfree-picture-2026-nov-11-australians-are-not-streaming-australian-music-why-the-hell-not",
+     "image": "https://i.guim.co.uk/img/media/f29b664cf3bab67059c93501977292d9e19e7876/0_95_947_758/master/947.jpg?width=140&quality=85&auto=format&fit=max&s=07b029c541b53fc599045c53cbfbc36c",
+     "title": "Australians are not streaming Australian music. Why the hell not?! | First Dog on the Moon",
+     "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/11/australians-are-not-streaming-australian-music-why-the-hell-not"
+    },
+    {
+     "audio": null,
      "date": "2026-11-10T22:00:20Z",
      "desc": "The prime minister is trying to untangle the copyright knot. But this is about much more than intellectual property Get our breaking news email , free app or daily news podcast If Anthony Albanese has a spiritual home it would be somewhere between the old Sando and the Enmore theatre in that pocket of Sydney’s inner west where the traffic never flows and the people of Grayndler still rule the streets in all their messy diversity. It was here that the Whitlams first gigged and sang of blowing up the pokies, part of the bohemian milieu from which Hot Albo emerged as he built a political base th…",
      "duration": null,
@@ -9091,21 +9091,11 @@
      "image": "https://i.guim.co.uk/img/media/c9c74b55d08f8522e0031f27f79c111b92fa3e83/444_0_4854_3882/master/4854.jpg?width=140&quality=85&auto=format&fit=max&s=f1f5ff7c17b801d3c3bbac05073d8ff2",
      "title": "Angry Anderson dies aged 79: Rose Tattoo frontman was a ferocious rock’n’roll singer and youth advocate",
      "url": "https://www.theguardian.com/music/2026/sep/23/angry-anderson-dies-rose-tattoo-frontman-death-aged-79"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-21T02:22:05Z",
-     "desc": "The singer is beamed from a stage in Paris into Melbourne's Rod Laver Arena to perform You’re the Voice, which she recalls singing with Farnham eight years ago. 'John, you've always been such a deep inspiration to me; I always loved to hear you sing,' Dion says John Farnham tribute: Céline Dion, Chris Martin and Hugh Jackman honour ‘living legend’ at livestreamed concert Continue reading...",
-     "duration": null,
-     "id": "dian.com-music-video-2026-sep-21-celine-dion-sings-youre-the-voice-live-from-paris-at-john-farnham-tribute-concert-video",
-     "image": "https://i.guim.co.uk/img/media/79fbcdedcd64aa937b64f87a6b070648162dce83/0_57_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=0d73e81f23fbb81c6fc8085f84c2668a",
-     "title": "Céline Dion sings You're the Voice live from Paris at John Farnham tribute concert – video",
-     "url": "https://www.theguardian.com/music/video/2026/sep/21/celine-dion-sings-youre-the-voice-live-from-paris-at-john-farnham-tribute-concert-video"
     }
    ],
    "kind": "rss",
    "name": "The Guardian: Australian music",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "hearing-things": {
    "home": "https://www.hearingthings.co/",
@@ -9480,6 +9470,16 @@
    "id": "ilian-tape",
    "items": [
     {
+     "audio": "https://feeds.soundcloud.com/stream/2436001233-ilian-tape-itps133-havantepe.mp3",
+     "date": "2026-11-11T09:23:19Z",
+     "desc": "Havantepe, co-founder of Sublime Porte, has released many dope dub-infused records over the last two decades. He was born and raised near Stuttgart and moved to Istanbul in 94. Here he presents a studio-curated mix featuring unreleased and upcoming material. Enjoy!",
+     "duration": "00:54:26",
+     "id": "tag:soundcloud-2010:tracks-2436001233",
+     "image": "https://i1.sndcdn.com/artworks-Vx4hmZD1g0yPHvyQ-twjw9A-t3000x3000.jpg",
+     "title": "ITPS133 HAVANTEPE",
+     "url": "https://soundcloud.com/ilian-tape/itps133-havantepe"
+    },
+    {
      "audio": "https://feeds.soundcloud.com/stream/2423132145-ilian-tape-itps132-carista.mp3",
      "date": "2026-10-21T08:15:43Z",
      "desc": "Music has always been CARISTA’s way of finding connection. She founded United Identities in Utrecht in 2017, and it has since developed into an independent record label, events and a monthly show on NTS Radio. Her own “No Ego, All Equal” ethos sits at its centre — a belief in openness, and giving music room to find its own. Enjoy!",
@@ -9718,21 +9718,11 @@
      "image": "https://i1.sndcdn.com/artworks-j32hNRM5wePINzrf-s489WA-t3000x3000.jpg",
      "title": "ITPS109 DUB ATHLETE",
      "url": "https://soundcloud.com/ilian-tape/itps109-dub-athlete"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/1914381902-ilian-tape-itps108-pugilist.mp3",
-     "date": "2024-09-11T06:55:54Z",
-     "desc": "Pugilist is a Melbourne based producer & DJ, releasing multi genre bass music on labels like 3024, Rupture and Modern Hypnosis. Enjoy!",
-     "duration": "02:59:19",
-     "id": "tag:soundcloud-2010:tracks-1914381902",
-     "image": "https://i1.sndcdn.com/artworks-tzV33WGMDrVcz3zq-rUb8ZQ-t3000x3000.jpg",
-     "title": "ITPS108 PUGILIST",
-     "url": "https://soundcloud.com/ilian-tape/itps108-pugilist"
     }
    ],
    "kind": "rss",
    "name": "Ilian Tape Podcast Series",
-   "updatedAt": "2026-10-22T00:01:40Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "in-our-headphones": {
    "home": "https://www.kexp.org/podcasts/",
@@ -9999,6 +9989,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-11T16:57:57Z",
+     "desc": "A repress of Goaty Tapes / House Rules’ Sea Horses retrospective is on its way! From church gigs and Glastonbury’s Greenfield stage to a sold-out reissue nobody quite […]",
+     "duration": null,
+     "id": "https:--insheepsclothinghifi.com--p-37783",
+     "image": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2026/11/SH-DiB-Era-Group-Photo-4-bw-780x1024.jpg",
+     "title": "Richard Veal Revisits Sea Horses’ Lost 1989–1992 World",
+     "url": "https://insheepsclothinghifi.com/richard-veal-revisits-sea-horses-lost-1989-1992-world/?utm_source=rss&utm_medium=rss&utm_campaign=richard-veal-revisits-sea-horses-lost-1989-1992-world"
+    },
+    {
+     "audio": null,
      "date": "2026-11-10T17:06:25Z",
      "desc": "This Thursday, join us at RALPH PUCCI Los Angeles for a music installation powered by In Sheep’s Clothing & Cometa. Design visionary and longtime friend of In Sheep’s […]",
      "duration": null,
@@ -10086,21 +10086,11 @@
      "image": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2026/10/image-1-1024x679.jpeg",
      "title": "The Art of Remembering Los Angeles: In Conversation with Photographer Sam Lee",
      "url": "https://insheepsclothinghifi.com/in-conversation-sam-lee/?utm_source=rss&utm_medium=rss&utm_campaign=in-conversation-sam-lee"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-28T16:37:56Z",
-     "desc": "The Brooklyn musician talks about collecting sounds, finding refuge in her own recordings and learning to share a private world with an increasingly curious public. Over the past […]",
-     "duration": null,
-     "id": "https:--insheepsclothinghifi.com--p-37529",
-     "image": null,
-     "title": "Dagmar Zuniga on the Strange, Sweet Business of Being Heard",
-     "url": "https://insheepsclothinghifi.com/dagmar-zuniga/?utm_source=rss&utm_medium=rss&utm_campaign=dagmar-zuniga"
     }
    ],
    "kind": "rss",
    "name": "In Sheep's Clothing Hi-Fi",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "indiecast": {
    "home": "https://uproxx.com/indie/",
@@ -10367,6 +10357,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-11T11:28:38Z",
+     "desc": "German producer Florian Kupfer is reissuing his back catalogue through his own Lifetrax label, beginning with Lifetrax Vol. 1, a run of sought-after tracks finally back Continue Reading The post Florian Kupfer launches Lifetrax imprint with reissue of his L.I.E.S. debut appeared first on Inverted Audio .",
+     "duration": null,
+     "id": "https:--inverted-audio.com--p-95167",
+     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+     "title": "Florian Kupfer launches Lifetrax imprint with reissue of his L.I.E.S. debut",
+     "url": "https://inverted-audio.com/florian-kupfer-lifetrax/"
+    },
+    {
+     "audio": null,
      "date": "2026-11-10T12:01:47Z",
      "desc": "Swiss vinyl-only label St. Odes returns with Organ Romance, the fourth solo album from co-founder Ben Kaczor and his second for the label. Seven tracks of Continue Reading The post Ben Kaczor returns to St. Odes with fourth solo album Organ Romance appeared first on Inverted Audio .",
      "duration": null,
@@ -10454,21 +10454,11 @@
      "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
      "title": "Premiere: Soft Blizzards – Froschprotokoll",
      "url": "https://inverted-audio.com/premiere-soft-blizzards-froschprotokoll/"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-16T07:21:51Z",
-     "desc": "The electro-ambient trio Yayoba aptly describe their sound as “like a beam of light passing through translucent glass walls in a labyrinth.” Their debut ‘A Maze Continue Reading The post Premiere: Yayoba – Transparent Waves appeared first on Inverted Audio .",
-     "duration": null,
-     "id": "https:--inverted-audio.com--p-94978",
-     "image": "https://inverted-audio.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
-     "title": "Premiere: Yayoba – Transparent Waves",
-     "url": "https://inverted-audio.com/yayoba-transparent-waves/"
     }
    ],
    "kind": "rss",
    "name": "Inverted Audio",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "inverted-audio-mix": {
    "home": "https://www.mixcloud.com/inverted_audio/",
@@ -10994,6 +10984,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-11T16:36:29Z",
+     "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+     "duration": null,
+     "id": "6af2497075842a00019cd38d",
+     "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/11/guitar-3-1.jpg",
+     "title": "Katie Dey on Australia, '90s Indie Rock, and Falling Out of Love with the Computer",
+     "url": "https://last-donut-of-the-night.ghost.io/katie-dey-on-australia-90s-indie-rock-and-falling-out-of-love-with-the-computer/"
+    },
+    {
+     "audio": null,
      "date": "2026-11-10T08:00:00Z",
      "desc": "",
      "duration": null,
@@ -11131,21 +11131,11 @@
      "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/friko2.jpg",
      "title": "Baker's Dozen: Travis Scott, Fetty Wap, Yeat",
      "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-travis-scott-fetty-wap-yeat/"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-14T15:22:22Z",
-     "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-     "duration": null,
-     "id": "6ace619724fcaf0001012c39",
-     "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/Actress-_LBY_LEAD_CREDIT_AnnaVanDerVelde-1.jpg",
-     "title": "Actress on Persona, Performance, and Musical Paradoxes",
-     "url": "https://last-donut-of-the-night.ghost.io/actress-on-persona-performance-and-musical-paradoxes/"
     }
    ],
    "kind": "rss",
    "name": "Last Donut of the Night (Larry Fitzmaurice)",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "lefto-early-bird": {
    "home": "https://www.mixcloud.com/LeFtOoO/",
@@ -12139,6 +12129,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-12T00:37:06Z",
+     "desc": "Ahead of his Sydney live debut, the Egyptian-Australian producer is Mixmag ANZ’s latest Cover Artist. Continue reading...",
+     "duration": null,
+     "id": "https:--mixmag.net.au-feature-moktar-cant-outrun-a-shadow",
+     "image": null,
+     "title": "Moktar: Can't outrun a shadow",
+     "url": "https://mixmag.net.au/feature/moktar-cant-outrun-a-shadow"
+    },
+    {
+     "audio": null,
      "date": "2026-11-10T05:22:00Z",
      "desc": "Writer Hugo Hodge explores the impact of diasporic and locally born Latin American artists, speaking to a handful of artists in the community to hear about life and music in the emergent scene. Continue reading...",
      "duration": null,
@@ -12376,21 +12376,11 @@
      "image": null,
      "title": "Venue Spotlight: Cuba Street Tavern",
      "url": "https://mixmag.net.au/feature/venue-spotlight-cuba-street-tavern"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-06T03:45:00Z",
-     "desc": "‘Drawing On The Future’ sees the writer and graphic designer compiling two volumes of Boorloo/Perth’s 90s & early 2000s visual identity. Continue reading...",
-     "duration": null,
-     "id": "https:--mixmag.net.au-feature-far-from-everywhere-simon-wrights-archive-of-boorloo-rave-design",
-     "image": null,
-     "title": "Far from everywhere: Simon Wright’s archive of Boorloo rave design",
-     "url": "https://mixmag.net.au/feature/far-from-everywhere-simon-wrights-archive-of-boorloo-rave-design"
     }
    ],
    "kind": "rss",
    "name": "Mixmag Australia/Asia",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "music-not-diving": {
    "home": "https://scubaofficial.io/podcast",
@@ -14266,6 +14256,16 @@
    "id": "nts-bill-brewster",
    "items": [
     {
+     "date": "2026-11-10T13:00:00Z",
+     "desc": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
+     "id": "bill-brewster-10th-november-2026",
+     "image": "https://media.ntslive.co.uk/resize/400x400/7e427587-b79c-407c-81b5-bd2afc2b9e07_1794268800.jpeg",
+     "location": "London",
+     "tags": "Balearic House, Deep House, House",
+     "title": "Low Life Loves You w/ Bill Brewster",
+     "url": "https://www.nts.live/shows/bill-brewster/episodes/bill-brewster-10th-november-2026"
+    },
+    {
      "date": "2026-10-13T12:00:00Z",
      "desc": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
      "id": "bill-brewster-13th-october-2026",
@@ -14374,21 +14374,11 @@
      "tags": "Balearic House, Synth Pop, Classic Disco, Jazz Fusion",
      "title": "Low Life Loves You w/ Bill Brewster",
      "url": "https://www.nts.live/shows/bill-brewster/episodes/bill-brewster-6th-january-2026"
-    },
-    {
-     "date": "2025-12-09T13:00:00Z",
-     "desc": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
-     "id": "bill-brewster-9th-december-2025",
-     "image": "https://media.ntslive.co.uk/resize/400x400/a06e84cd-b6eb-4c0d-b834-0d4c7e5a84db_1670889600.jpeg",
-     "location": "London",
-     "tags": "Soul, House, Classic Disco",
-     "title": "Low Life Loves You w/ Bill Brewster",
-     "url": "https://www.nts.live/shows/bill-brewster/episodes/bill-brewster-9th-december-2025"
     }
    ],
    "kind": "nts",
    "name": "Low Life Loves You w/ Bill Brewster",
-   "updatedAt": "2026-10-20T08:42:00Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "nts-calm-roots": {
    "home": "https://www.nts.live/shows/calm-roots",
@@ -16816,6 +16806,16 @@
    "id": "nts-great-southern-lands",
    "items": [
     {
+     "date": "2026-11-10T12:00:00Z",
+     "desc": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
+     "id": "great-southern-lands-10th-november-2026",
+     "image": "https://media.ntslive.co.uk/resize/400x400/81b59cf6-2f76-4ffc-9069-fa5f148c5827_1794182400.jpeg",
+     "location": "Melbourne",
+     "tags": "Post Rock, Experimental, Ambient",
+     "title": "Great Southern Lands w/ James W",
+     "url": "https://www.nts.live/shows/great-southern-lands/episodes/great-southern-lands-10th-november-2026"
+    },
+    {
      "date": "2026-10-13T11:00:00Z",
      "desc": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
      "id": "great-southern-lands-13th-october-2026",
@@ -16924,21 +16924,11 @@
      "tags": "Post Rock, Folk, Experimental, Ambient",
      "title": "Great Southern Lands w/ James W",
      "url": "https://www.nts.live/shows/great-southern-lands/episodes/great-southern-lands-9th-december-2025"
-    },
-    {
-     "date": "2025-11-11T12:00:00Z",
-     "desc": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
-     "id": "great-southern-lands-11th-november-2025",
-     "image": "https://media.ntslive.co.uk/resize/400x400/acc2c2f8-538e-4ccd-87bd-d46616e7b175_1627430400.jpeg",
-     "location": "Melbourne",
-     "tags": "Post Rock, Ambient, Drone",
-     "title": "Great Southern Lands w/ James W",
-     "url": "https://www.nts.live/shows/great-southern-lands/episodes/great-southern-lands-11th-november-2025"
     }
    ],
    "kind": "nts",
    "name": "Great Southern Lands w/ James W",
-   "updatedAt": "2026-10-14T12:00:17Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "nts-hd": {
    "home": "https://www.nts.live/shows/hd",
@@ -19485,6 +19475,16 @@
    "id": "nts-pender-street-steppers",
    "items": [
     {
+     "date": "2026-11-10T18:00:00Z",
+     "desc": "The breezy sound of the Canadian Riviera, from Mood Hut's Pender Street Steppers.",
+     "id": "pender-street-steppers-10th-november-2026",
+     "image": "https://media.ntslive.co.uk/resize/400x400/0d87123f-37e6-477b-94c4-322bf1329103_1794268800.jpeg",
+     "location": "Vancouver",
+     "tags": "Shoegaze, Post Punk, Indie Rock, Ambient Techno",
+     "title": "Pender Street Steppers",
+     "url": "https://www.nts.live/shows/pender-street-steppers/episodes/pender-street-steppers-10th-november-2026"
+    },
+    {
      "date": "2026-10-13T17:00:00Z",
      "desc": "From the host:'calling in from somewhere between Bilbao and Burnaby'",
      "id": "pender-street-steppers-13th-october-2026",
@@ -19593,21 +19593,11 @@
      "tags": "Dub Techno, Trip Hop, Ambient, Leftfield House",
      "title": "Pender Street Steppers",
      "url": "https://www.nts.live/shows/pender-street-steppers/episodes/pender-street-steppers-6th-january-2026"
-    },
-    {
-     "date": "2025-12-09T18:00:00Z",
-     "desc": "The breezy sound of the Canadian Riviera, from Mood Hut's Pender Street Steppers. From the host: \"PSS is joined in the mix by Second Spring, a collective of artists, musicians and curators based out of Vancouver and Toronto.\"",
-     "id": "pender-street-steppers-9th-december-2025",
-     "image": "https://media.ntslive.co.uk/resize/400x400/bd6d0115-6ec8-42d7-b637-084dcec06f8d_1765238400.jpeg",
-     "location": "Vancouver",
-     "tags": "Electronica, Ambient, Indie Rock, Ambient Techno",
-     "title": "Pender Street Steppers w/ Second Spring",
-     "url": "https://www.nts.live/shows/pender-street-steppers/episodes/pender-street-steppers-9th-december-2025"
     }
    ],
    "kind": "nts",
    "name": "Pender Street Steppers",
-   "updatedAt": "2026-10-14T12:00:17Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "nts-rhythm-section": {
    "home": "https://www.nts.live/shows/rhythmsection",
@@ -19872,6 +19862,16 @@
    "id": "nts-rupture",
    "items": [
     {
+     "date": "2026-11-10T20:00:00Z",
+     "desc": "Sounds from the grass roots of jungle and drum & bass with London scene heroes Rupture - featuring selections from residents Mantra & Double O.",
+     "id": "rupture-10th-november-2026",
+     "image": "https://media.ntslive.co.uk/resize/400x400/82a8ee40-7d44-4ee4-9845-b5506e43ba0c_1794182400.jpeg",
+     "location": "London",
+     "tags": "Drum & Bass, Jungle",
+     "title": "Rupture w/ Mantra & Double O",
+     "url": "https://www.nts.live/shows/rupture/episodes/rupture-10th-november-2026"
+    },
+    {
      "date": "2026-10-13T19:00:00Z",
      "desc": "Sounds from the grass roots of jungle and drum & bass with London scene heroes Rupture - featuring selections from residents Mantra & Double O.",
      "id": "rupture-13th-october-2026",
@@ -19980,21 +19980,11 @@
      "tags": "Breakbeat Hardcore, Jungle",
      "title": "Rupture w/ Double O",
      "url": "https://www.nts.live/shows/rupture/episodes/rupture-6th-january-2026"
-    },
-    {
-     "date": "2025-12-09T20:00:00Z",
-     "desc": "Sounds from the grass roots of jungle and drum & bass with London scene heroes Rupture - featuring selections from residents Mantra & Double O.",
-     "id": "rupture-9th-december-2025",
-     "image": "https://media.ntslive.co.uk/resize/400x400/50e178e9-df6d-46c5-9373-4d0d9775c7fc_1765324800.jpeg",
-     "location": "London",
-     "tags": "Breakbeat Hardcore, Jungle",
-     "title": "RUPTURE W/ MANTRA",
-     "url": "https://www.nts.live/shows/rupture/episodes/rupture-9th-december-2025"
     }
    ],
    "kind": "nts",
    "name": "Rupture w/ Mantra & Double O",
-   "updatedAt": "2026-10-14T12:00:17Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "nts-secret-sundaze": {
    "home": "https://www.nts.live/shows/secret-sundaze",
@@ -21420,6 +21410,16 @@
    "id": "nts-yu-su",
    "items": [
     {
+     "date": "2026-11-10T17:00:00Z",
+     "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
+     "id": "yu-su-10th-november-2026",
+     "image": "https://media.ntslive.co.uk/resize/400x400/359265cc-4283-401f-980a-238177131d68_1794182400.jpeg",
+     "location": "Kaifeng",
+     "tags": "Dub Techno, Techno",
+     "title": "Yu Su",
+     "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-10th-november-2026"
+    },
+    {
      "date": "2026-10-13T16:00:00Z",
      "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
      "id": "yu-su-13th-october-2026",
@@ -21528,21 +21528,11 @@
      "tags": "Electronica, Ambient, Ambient Techno",
      "title": "Yu Su",
      "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-6th-january-2026"
-    },
-    {
-     "date": "2025-12-09T17:00:00Z",
-     "desc": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.",
-     "id": "yu-su-9th-december-2025",
-     "image": "https://media.ntslive.co.uk/resize/400x400/906b9bbd-681e-46ea-b012-3b62077ad585_1574035200.jpeg",
-     "location": "Kaifeng",
-     "tags": "Deep House, Dub Techno, Minimal",
-     "title": "Yu Su",
-     "url": "https://www.nts.live/shows/yu-su/episodes/yu-su-9th-december-2025"
     }
    ],
    "kind": "nts",
    "name": "Yu Su",
-   "updatedAt": "2026-10-14T12:00:17Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "nts-zaltan": {
    "home": "https://www.nts.live/shows/zaltan",
@@ -22714,6 +22704,16 @@
    "id": "pjenne",
    "items": [
     {
+     "audio": "https://feeds.soundcloud.com/stream/2434695897-pjenne-millu-pjenne-live-at-hopkins.mp3",
+     "date": "2026-11-11T22:45:50Z",
+     "desc": "Millu & Pjenne ~ Live at Hopkins Creek 2026 by Pjenne",
+     "duration": "01:32:54",
+     "id": "tag:soundcloud-2010:tracks-2434695897",
+     "image": "https://i1.sndcdn.com/artworks-eTPD0vkHPvyXAsXK-2LvdwQ-t3000x3000.jpg",
+     "title": "Millu & Pjenne  ~ Live at Hopkins Creek 2026",
+     "url": "https://soundcloud.com/pjenne/millu-pjenne-live-at-hopkins"
+    },
+    {
      "audio": "https://feeds.soundcloud.com/stream/2420204727-pjenne-eafhm-pn-394.mp3",
      "date": "2026-10-27T07:20:31Z",
      "desc": "Jorge Echaniz aka Eafhm, is a Mexico City-based producer, DJ and sound designer, and the founder and curator of the non-profit digital label Secuencias Temporales. Moving between sound design, art and techno in its many shades, his work explores the depth of the inner self and the beauty of the natural world, building immersive atmospheres that shift from blissful ambient passages to weighty half-time rhythms and deep, understated techno. With releases on Oslated, Melifera, Indefinite Pitch, Predawn Records, Unheard, Accents Records and Profundo, where he was among the label’s earliest artist…",
@@ -22936,7 +22936,7 @@
    ],
    "kind": "rss",
    "name": "Pjenne (PBS 106.7) mixes",
-   "updatedAt": "2026-10-27T22:59:09Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "popcast": {
    "home": "https://www.nytimes.com/column/popcast-pop-music-podcast",
@@ -22971,6 +22971,16 @@
    "home": "https://www.powmag.net/",
    "id": "pow-mag",
    "items": [
+    {
+     "audio": null,
+     "date": "2026-11-11T16:59:11Z",
+     "desc": "A few weeks before Elucid and billy woods dropped their surprise album, they spoke exclusively to POW about its creation.",
+     "duration": null,
+     "id": "https:--www.powmag.net-p-armand-hammer-snakes-and-ladders-interview-making-of",
+     "image": "https://substackcdn.com/image/fetch/$s_!avRp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6c6e150-b877-4201-856e-d4984d016756_866x876.png",
+     "title": "The Making of Armand Hammer’s Snakes & Ladders",
+     "url": "https://www.powmag.net/p/armand-hammer-snakes-and-ladders-interview-making-of"
+    },
     {
      "audio": null,
      "date": "2026-11-10T19:20:31Z",
@@ -23160,21 +23170,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!cnV-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02af9f93-b50e-4e39-a332-f74c5984a5bf_1200x1200.png",
      "title": "Kurtis Blow Remembers It All",
      "url": "https://www.powmag.net/p/kurtis-blow-remembers-it-all-interview-paid-in-full"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-17T16:23:54Z",
-     "desc": "The Rap-Up considers the most notable singles of the past week. Today, Anthony Seaman reviews new work from Gabe ‘Nandez, Draft Day, and the recently arrested Nino Paid.",
-     "duration": null,
-     "id": "https:--www.powmag.net-p-somewhere-over-the-rainbow-the-rap-up-nino-paid",
-     "image": "https://substackcdn.com/image/youtube/w_728,c_limit/V8ASadXNlOY",
-     "title": "Somewhere Over the Rainbow",
-     "url": "https://www.powmag.net/p/somewhere-over-the-rainbow-the-rap-up-nino-paid"
     }
    ],
    "kind": "rss",
    "name": "POW Mag (Passion of the Weiss)",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "questlove-show": {
    "home": "https://www.iheart.com/podcast/",
@@ -23699,6 +23699,16 @@
    "id": "ra-exchange",
    "items": [
     {
+     "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6af4683b7d020b369bbff5df/media.mp3",
+     "date": "2026-11-11T13:06:02Z",
+     "desc": "The Berghain resident on punk's ethos, choosing the difficult path and his new album, My Own Shadow. Marcel Dettmann has become synonymous with Berghain and its primary cultural export: Berlin techno. He began DJing at Ostgut, Berghain's predecessor, in 1999. When Berghain opened its doors in 2004, he was one of its first residents, on a roster that grew to include luminaries like his longtime collaborator Ben Klock. In this RA Exchange, Dettmann talks about the long road from bedroom DJ to one of techno's leading figures: first falling in love with '80s new wave records, running a record sto…",
+     "duration": "49:54",
+     "id": "6af4683b7d020b369bbff5df",
+     "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1794402173121-9a7fe6f0-ebf2-4b3d-9b3c-e6dad624e6af.jpeg",
+     "title": "EX.818 Marcel Dettmann",
+     "url": "https://shows.acast.com/raexchange/episodes/ex818-marcel-dettmann"
+    },
+    {
      "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6aeb253d651640b48adde6db/media.mp3",
      "date": "2026-11-04T12:29:49Z",
      "desc": "Two decades in, the UK drum & bass duo are still filling stadiums. They talk staying hungry, resisting the algorithm and their eighth album, Generic Everything. In 2003, Saul Milton and Will Kennard of Chase & Status were sending drum & bass demos to their heroes over AOL Instant Messenger. Two decades on, they're among the biggest acts in UK dance music. In 2016, they became the first UK electronic act to headline London's O2 Arena. Their productions have racked up more than two billion streams, and they've sold 2.6 million albums, more than four times as many as drum & bass's next-biggest a…",
@@ -23937,26 +23947,26 @@
      "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1775647534623-0df15bc9-97e6-4735-893b-4b55fb7b83e6.jpeg",
      "title": "EX.794 Calibre",
      "url": "https://shows.acast.com/raexchange/episodes/ex794-calibre"
-    },
-    {
-     "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/69cd1226ab5d25f9c948e839/media.mp3",
-     "date": "2026-04-01T12:40:05Z",
-     "desc": "The Dutch phenomenon unpacks the myth of overnight success and the story behind his debut album, Lost, Found & Forgotten. They say it takes ten years to become an overnight success, and in the case of this week's guest, that math almost checks out. Born in Leiden, Chris Stussy has been sharpening his tools for over a decade, and in the years since the pandemic, the world has caught onto his sleek, relentlessly groovy strain of house music.   It's been a stratospheric rise for Stussy, culminating in sold-out shows of iconic venues like London's Alexandra Palace, where tickets were gone in a ma…",
-     "duration": "1:05:50",
-     "id": "69cd1226ab5d25f9c948e839",
-     "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1775047173500-2457494e-b0da-450d-814e-1727fcf1cd1f.jpeg",
-     "title": "EX.793 Chris Stussy",
-     "url": "https://shows.acast.com/raexchange/episodes/ex793-chris-stussy"
     }
    ],
    "kind": "rss",
    "name": "RA Exchange",
-   "updatedAt": "2026-11-05T00:24:22Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "ra-podcast": {
    "home": "https://ra.co/podcast",
    "id": "ra-podcast",
    "items": [
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2436105303-resident-advisor-ex-818-marcel-dettmann.mp3",
+     "date": "2026-11-11T14:19:19Z",
+     "desc": "The Berghain resident on punk's ethos, choosing the difficult path and his new album, My Own Shadow. Marcel Dettmann has become synonymous with Berghain and its primary cultural export: Berlin techno. He began DJing at Ostgut, Berghain's predecessor, in 1999. When Berghain opened its doors in 2004, he was one of its first residents, on a roster that grew to include luminaries like his longtime collaborator Ben Klock. In this RA Exchange, Dettmann talks about the long road from bedroom DJ to one of techno's leading figures: first falling in love with '80s new wave records, running a record sto…",
+     "duration": "00:49:54",
+     "id": "tag:soundcloud-2010:tracks-2436105303",
+     "image": "https://i1.sndcdn.com/artworks-hXqtueWjCtfLCDzg-p9jx3w-t3000x3000.jpg",
+     "title": "EX.818 Marcel Dettmann",
+     "url": "https://soundcloud.com/resident-advisor/ex-818-marcel-dettmann"
+    },
     {
      "audio": "https://feeds.soundcloud.com/stream/2433288471-resident-advisor-ra-1064-carlita.mp3",
      "date": "2026-11-08T22:00:40Z",
@@ -23966,16 +23976,6 @@
      "image": "https://i1.sndcdn.com/artworks-ytLI2lxPkl84uZp9-ckwTxg-t3000x3000.jpg",
      "title": "RA.1064 Carlita",
      "url": "https://soundcloud.com/resident-advisor/ra-1064-carlita"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2432020215-resident-advisor-ex-817-chase-status.mp3",
-     "date": "2026-11-04T12:26:54Z",
-     "desc": "Two decades in, the UK drum & bass duo are still filling stadiums. They talk staying hungry, resisting the algorithm and their eighth album, Generic Everything. In 2003, Saul Milton and Will Kennard of Chase & Status were sending drum & bass demos to their heroes over AOL Instant Messenger. Two decades on, they're among the biggest acts in UK dance music. In 2016, they became the first UK electronic act to headline London's O2 Arena. Their productions have racked up more than two billion streams, and they've sold 2.6 million albums, more than four times as many as drum & bass's next-biggest a…",
-     "duration": "00:56:18",
-     "id": "tag:soundcloud-2010:tracks-2432020215",
-     "image": "https://i1.sndcdn.com/artworks-lk8CUpu420nm8WnT-B7siVQ-t3000x3000.jpg",
-     "title": "EX.817 Chase & Status",
-     "url": "https://soundcloud.com/resident-advisor/ex-817-chase-status"
     },
     {
      "audio": "https://feeds.soundcloud.com/stream/2429380002-resident-advisor-ra-1063-andy-stott.mp3",
@@ -24210,12 +24210,92 @@
    ],
    "kind": "rss",
    "name": "RA Podcast",
-   "updatedAt": "2026-11-10T02:10:50Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "radio-cazimi": {
    "home": "https://soundcloud.com/radiocazimi",
    "id": "radio-cazimi",
    "items": [
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2435958588-radio-cazimi-rat-lounge-w-liv-perkins-ep1.mp3",
+     "date": "2026-11-11T06:38:33Z",
+     "desc": "RAT LOUNGE w/ Liv Perkins - EP1 by Radio Cazimi",
+     "duration": "02:08:57",
+     "id": "tag:soundcloud-2010:tracks-2435958588",
+     "image": "https://i1.sndcdn.com/artworks-u6IlbHRuOhJVAGab-sBx8Ww-t3000x3000.jpg",
+     "title": "RAT LOUNGE w/ Liv Perkins - EP1",
+     "url": "https://soundcloud.com/radio-cazimi/rat-lounge-w-liv-perkins-ep1"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2435957037-radio-cazimi-best-served-chill-w-james.mp3",
+     "date": "2026-11-11T06:30:58Z",
+     "desc": "BEST SERVED CHILLED w/ James Jovanoski & Tyson - EP4 by Radio Cazimi",
+     "duration": "02:01:16",
+     "id": "tag:soundcloud-2010:tracks-2435957037",
+     "image": "https://i1.sndcdn.com/artworks-ElDu6rMd2JUakNBZ-NbKoEw-t3000x3000.jpg",
+     "title": "BEST SERVED CHILLED w/ James Jovanoski & Tyson - EP4",
+     "url": "https://soundcloud.com/radio-cazimi/best-served-chill-w-james"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2435952858-radio-cazimi-west-cape-records-w-jeremy-ep5.mp3",
+     "date": "2026-11-11T06:23:07Z",
+     "desc": "WEST CAPE RECORDS w/ Jeremy - EP5 by Radio Cazimi",
+     "duration": "02:00:00",
+     "id": "tag:soundcloud-2010:tracks-2435952858",
+     "image": "https://i1.sndcdn.com/artworks-CxdVT1QHNyq1wCSO-RJjdyw-t3000x3000.jpg",
+     "title": "WEST CAPE RECORDS w/ Jeremy - EP5",
+     "url": "https://soundcloud.com/radio-cazimi/west-cape-records-w-jeremy-ep5"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2435952444-radio-cazimi-ftl-pres-fuinnimh-eireannacha.mp3",
+     "date": "2026-11-11T06:21:37Z",
+     "desc": "FTL PRES. FUINNIMH EIREANNACHA w/ Gib, Jenna and Ozzie by Radio Cazimi",
+     "duration": "02:04:53",
+     "id": "tag:soundcloud-2010:tracks-2435952444",
+     "image": "https://i1.sndcdn.com/artworks-ptPqOKmlU0YUv5iH-TcxVaw-t3000x3000.jpg",
+     "title": "FTL PRES. FUINNIMH EIREANNACHA w/ Gib, Jenna and Ozzie",
+     "url": "https://soundcloud.com/radio-cazimi/ftl-pres-fuinnimh-eireannacha"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2435952024-radio-cazimi-morning-desires-w-ephacy-2.mp3",
+     "date": "2026-11-11T06:19:45Z",
+     "desc": "MORNING DESIRES w/ Ephacy by Radio Cazimi",
+     "duration": "01:59:36",
+     "id": "tag:soundcloud-2010:tracks-2435952024",
+     "image": "https://i1.sndcdn.com/artworks-O3LNInbh5VzirnTM-fcTzzg-t3000x3000.jpg",
+     "title": "MORNING DESIRES w/ Ephacy",
+     "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-ephacy-2"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2435951625-radio-cazimi-textures-w-champion-sound-ep4.mp3",
+     "date": "2026-11-11T06:17:46Z",
+     "desc": "TEXTURES w/ Champion Sound - EP4 by Radio Cazimi",
+     "duration": "02:08:21",
+     "id": "tag:soundcloud-2010:tracks-2435951625",
+     "image": "https://i1.sndcdn.com/artworks-gznhDAoccwS10e4H-ICzIIg-t3000x3000.jpg",
+     "title": "TEXTURES w/ Champion Sound - EP4",
+     "url": "https://soundcloud.com/radio-cazimi/textures-w-champion-sound-ep4"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2435951247-radio-cazimi-wistful-w-lala-ep-5.mp3",
+     "date": "2026-11-11T06:16:15Z",
+     "desc": "WISTFUL w/ Lala - EP 5 by Radio Cazimi",
+     "duration": "01:58:03",
+     "id": "tag:soundcloud-2010:tracks-2435951247",
+     "image": "https://i1.sndcdn.com/artworks-XlbDYJUJ5kDU7Zqo-Ec3MTg-t3000x3000.jpg",
+     "title": "WISTFUL w/  Lala - EP 5",
+     "url": "https://soundcloud.com/radio-cazimi/wistful-w-lala-ep-5"
+    },
+    {
+     "audio": "https://feeds.soundcloud.com/stream/2435950584-radio-cazimi-outsiders-together-scorpio.mp3",
+     "date": "2026-11-11T06:13:19Z",
+     "desc": "OUTSIDERS, TOGETHER - Scorpio Special w / Takeo.K & DJ Mum by Radio Cazimi",
+     "duration": "02:00:03",
+     "id": "tag:soundcloud-2010:tracks-2435950584",
+     "image": "https://i1.sndcdn.com/artworks-ymxFxyoKZUWZiytx-dIGd6g-t3000x3000.jpg",
+     "title": "OUTSIDERS, TOGETHER - Scorpio Special w / Takeo.K & DJ Mum",
+     "url": "https://soundcloud.com/radio-cazimi/outsiders-together-scorpio"
+    },
     {
      "audio": "https://feeds.soundcloud.com/stream/2431864752-radio-cazimi-kill-video-radio-star-w-nape-1.mp3",
      "date": "2026-11-04T02:37:33Z",
@@ -24385,96 +24465,46 @@
      "image": "https://i1.sndcdn.com/artworks-zhjWxfIGqhqU2YoW-Lgyw1g-t3000x3000.jpg",
      "title": "DRIVING BLIND w/ Lidl & Wetpuddlss - EP 4",
      "url": "https://soundcloud.com/radio-cazimi/driving-blind-w-lidl-3"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2423034495-radio-cazimi-zipless-w-dj-sliding-doors-1.mp3",
-     "date": "2026-10-21T02:48:06Z",
-     "desc": "ZIPLESS w/ DJ Sliding Doors - EP 4 by Radio Cazimi",
-     "duration": "02:01:25",
-     "id": "tag:soundcloud-2010:tracks-2423034495",
-     "image": "https://i1.sndcdn.com/artworks-IgPMoQ1YwZDkWnOj-pdxpQw-t3000x3000.jpg",
-     "title": "ZIPLESS w/ DJ Sliding Doors - EP 4",
-     "url": "https://soundcloud.com/radio-cazimi/zipless-w-dj-sliding-doors-1"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2423033013-radio-cazimi-pleiades-scorpio-season-w.mp3",
-     "date": "2026-10-21T02:44:59Z",
-     "desc": "It’s nearly the sun season of Scorpio (23 Oct - 22 Nov) and we are going DEEP in the underworld on Pleiades w/ Astro Tash. Subterranean inclinations permeate into every corner with deep minimal techno, acid jazz trips and hypnotic house rhythms the translator for this illuminating season. Things might feel a little topsy-turvy with Mercury joining Venus in retrograde (or upgrade?) through Scorpio; expect secrets to be revealed, truths realised and mysteries solved…. Let Pleiades be the guiding light in the dark.",
-     "duration": "01:00:29",
-     "id": "tag:soundcloud-2010:tracks-2423033013",
-     "image": "https://i1.sndcdn.com/artworks-dqSvvIBYqy5y3SPW-PY6yFA-t3000x3000.jpg",
-     "title": "PLEIADES [Scorpio Season] w/ Astro Tash - EP 4",
-     "url": "https://soundcloud.com/radio-cazimi/pleiades-scorpio-season-w"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2423032887-radio-cazimi-home-within-w-marion-ep-3.mp3",
-     "date": "2026-10-21T02:44:55Z",
-     "desc": "a journey into the three stages of transformation by Nietzsche. from the camel, to the lion, to the child, we reach home.",
-     "duration": "00:58:08",
-     "id": "tag:soundcloud-2010:tracks-2423032887",
-     "image": "https://i1.sndcdn.com/artworks-yWBPqAEfEnzCrKuo-PVdcjQ-t3000x3000.jpg",
-     "title": "HOME WITHIN w/ Marion - EP 3",
-     "url": "https://soundcloud.com/radio-cazimi/home-within-w-marion-ep-3"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2423032737-radio-cazimi-peninsula-w-voss-ep-4.mp3",
-     "date": "2026-10-21T02:44:50Z",
-     "desc": "PENINSULA w/ Voss - Ep 4 by Radio Cazimi",
-     "duration": "02:00:10",
-     "id": "tag:soundcloud-2010:tracks-2423032737",
-     "image": "https://i1.sndcdn.com/artworks-Sd3Th7tYM5oPOFkr-7mLQvA-t3000x3000.jpg",
-     "title": "PENINSULA w/ Voss  - Ep 4",
-     "url": "https://soundcloud.com/radio-cazimi/peninsula-w-voss-ep-4"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2423032041-radio-cazimi-morning-desires-w-helen-2.mp3",
-     "date": "2026-10-21T02:44:23Z",
-     "desc": "MORNING DESIRES w/ Helen Objartel by Radio Cazimi",
-     "duration": "01:59:13",
-     "id": "tag:soundcloud-2010:tracks-2423032041",
-     "image": "https://i1.sndcdn.com/artworks-zDbhFDMVGgzRVZ3H-SJGcug-t3000x3000.jpg",
-     "title": "MORNING DESIRES w/ Helen Objartel",
-     "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-helen-2"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2423026842-radio-cazimi-cuv-e-marguerite-w-paul-jager.mp3",
-     "date": "2026-10-21T02:38:42Z",
-     "desc": "CUV´ÉE MARGUERITE w/Paul Jager - EP 2 by Radio Cazimi",
-     "duration": "02:00:47",
-     "id": "tag:soundcloud-2010:tracks-2423026842",
-     "image": "https://i1.sndcdn.com/artworks-nT3eX2PzXhSYtzpl-gW6vzw-t3000x3000.jpg",
-     "title": "CUV´ÉE MARGUERITE w/Paul Jager - EP 2",
-     "url": "https://soundcloud.com/radio-cazimi/cuv-e-marguerite-w-paul-jager"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2423025600-radio-cazimi-joy-in-the-morning-w-callum-3.mp3",
-     "date": "2026-10-21T02:34:21Z",
-     "desc": "JOY IN THE MORNING w/ Callum Dewar - EP 4 by Radio Cazimi",
-     "duration": "02:02:22",
-     "id": "tag:soundcloud-2010:tracks-2423025600",
-     "image": "https://i1.sndcdn.com/artworks-mN0bqyxD9UjAoEax-mXTqsQ-t3000x3000.jpg",
-     "title": "JOY IN THE MORNING w/ Callum Dewar - EP 4",
-     "url": "https://soundcloud.com/radio-cazimi/joy-in-the-morning-w-callum-3"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2418718371-radio-cazimi-plutonic-w-bowen-ep-3.mp3",
-     "date": "2026-10-14T08:45:50Z",
-     "desc": "PLUTONIC w/ Bowen - EP 3 by Radio Cazimi",
-     "duration": "02:01:53",
-     "id": "tag:soundcloud-2010:tracks-2418718371",
-     "image": "https://i1.sndcdn.com/artworks-TaNuhITzP7lD722j-WYqKXQ-t3000x3000.jpg",
-     "title": "PLUTONIC w/ Bowen - EP 3",
-     "url": "https://soundcloud.com/radio-cazimi/plutonic-w-bowen-ep-3"
     }
    ],
    "kind": "rss",
    "name": "Radio Cazimi (Fremantle)",
-   "updatedAt": "2026-11-05T00:24:22Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "ransom-note": {
    "home": "https://www.theransomnote.com/",
    "id": "ransom-note",
    "items": [
+    {
+     "audio": null,
+     "date": "2026-11-11T19:01:33Z",
+     "desc": "A dolmuş fare from Istanbul, a found cassette from Tarsus, and the nymphs of the Xanthos River The post Track By Track: Işık Kural – Motorcycles and Cherry Wind appeared first on Ransom Note .",
+     "duration": null,
+     "id": "https:--www.theransomnote.com--p-46392",
+     "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
+     "title": "Track By Track: Işık Kural – Motorcycles and Cherry Wind",
+     "url": "https://www.theransomnote.com/music/interviews/track-by-track-isik-kural-motorcycles-and-cherry-wind/"
+    },
+    {
+     "audio": null,
+     "date": "2026-11-11T16:01:51Z",
+     "desc": "An hour of downtempo and chug from the Bossa Lounge at Sustain-Release Year 12, plus a Q&A covering Justin Strauss, green juice and a baby bald eagle The post Amelia Holt – The ‘Line Out’ Ransom Note Mix (Live from Sustain Release) appeared first on Ransom Note .",
+     "duration": null,
+     "id": "https:--www.theransomnote.com--p-46365",
+     "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
+     "title": "Amelia Holt – The ‘Line Out’ Ransom Note Mix (Live from Sustain Release)",
+     "url": "https://www.theransomnote.com/music/mixes/amelia-holt-the-line-out-ransom-note-mix-live-from-sustain-release/"
+    },
+    {
+     "audio": null,
+     "date": "2026-11-11T11:50:49Z",
+     "desc": "The HIFI/LOFI founder and his recent signings interview each other on live rigs, making records over Zoom and what Weatherall would do. The post No HIs Without The LOs: Franz Matthews x Beyond The Struttosphere appeared first on Ransom Note .",
+     "duration": null,
+     "id": "https:--www.theransomnote.com--p-46359",
+     "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
+     "title": "No HIs Without The LOs: Franz Matthews x Beyond The Struttosphere",
+     "url": "https://www.theransomnote.com/music/interviews/no-his-without-the-los-franz-matthews-x-beyond-the-struttosphere/"
+    },
     {
      "audio": null,
      "date": "2026-11-04T13:13:37Z",
@@ -24544,41 +24574,11 @@
      "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
      "title": "‘A Loner in Bordeaux’ : a conversation with Costello",
      "url": "https://www.theransomnote.com/music/interviews/a-loner-in-bordeaux-a-conversation-with-costello/"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-22T15:47:22Z",
-     "desc": "If there's one secret behind a truly successful festival, La Nature's might be the best kept of all. The post La Nature: Getting Lost in the Belgian Woods appeared first on Ransom Note .",
-     "duration": null,
-     "id": "https:--www.theransomnote.com--p-46258",
-     "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
-     "title": "La Nature: Getting Lost in the Belgian Woods",
-     "url": "https://www.theransomnote.com/music/reviews/la-nature-getting-lost-in-the-belgian-woods/"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-21T15:04:46Z",
-     "desc": "Birds Of Pandæmonium are Brooklyn’s Hazy James Armstrong and Tim Wagner, two musicians who met nearly 20 years ago through the city’s DJ and club scene. The post Hope Draws The Map, Trust Is The Compass: Birds Of Pandæmonium in conversation appeared first on Ransom Note .",
-     "duration": null,
-     "id": "https:--www.theransomnote.com--p-46251",
-     "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
-     "title": "Hope Draws The Map, Trust Is The Compass: Birds Of Pandæmonium in conversation",
-     "url": "https://www.theransomnote.com/music/interviews/hope-draws-the-map-trust-is-the-compass-birds-of-pandaemonium-in-conversation/"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-21T09:11:46Z",
-     "desc": "\"Like a plant, I rely on the sun for life and I very rarely make music at night.\" Soda Lite is Alex Last, a gardener and composer on Lutruwita, the island off Australia's southern coast. His Seeds record, Cape Gooseberry, is out on 28 October. Ahead of it comes this: \"music for basking in the late afternoon sun and then, as dusk falls, falling asleep in the dissolving warmth.\" The post Seeds Mix 015: Soda Lite’s Music for basking in the late afternoon sun and then, as dusk falls, falling asleep in the dissolving warmth. appeared first on Ransom Note .",
-     "duration": null,
-     "id": "https:--www.theransomnote.com--p-46236",
-     "image": "https://www.theransomnote.com/wp-content/uploads/2022/01/cropped-mstile-144x144-1-32x32.png",
-     "title": "Seeds Mix 015: Soda Lite’s Music for basking in the late afternoon sun and then, as dusk falls, falling asleep in the dissolving warmth.",
-     "url": "https://www.theransomnote.com/music/mixes/seeds-mix-015-soda-lites-music-for-basking-in-the-late-afternoon-sun-and-then-as-dusk-falls-falling-asleep-in-the-dissolving-warmth/"
     }
    ],
    "kind": "rss",
    "name": "Ransom Note",
-   "updatedAt": "2026-11-05T00:24:22Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "refuge-worldwide": {
    "home": "https://refugeworldwide.com/",
@@ -26036,6 +26036,14 @@
    "id": "rinse-eclecticist",
    "items": [
     {
+     "date": "2026-11-11T13:00:00Z",
+     "desc": "",
+     "id": "eclecticist-11-11-2026-1300",
+     "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
+     "title": "Eclecticist, 11 Nov 2026",
+     "url": "https://www.rinse.fm/episodes/eclecticist-11-11-2026-1300"
+    },
+    {
      "date": "2026-11-04T13:00:00Z",
      "desc": "",
      "id": "eclecticist-04-11-2026-1300",
@@ -26226,19 +26234,11 @@
      "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
      "title": "Eclecticist, 1 Apr 2026",
      "url": "https://www.rinse.fm/episodes/eclecticist-01-04-2026-1200"
-    },
-    {
-     "date": "2026-03-25T12:00:00Z",
-     "desc": "",
-     "id": "eclecticist-25-03-2026-1200",
-     "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
-     "title": "Eclecticist, 25 Mar 2026",
-     "url": "https://www.rinse.fm/episodes/eclecticist-25-03-2026-1200"
     }
    ],
    "kind": "rinse",
    "name": "Eclecticist",
-   "updatedAt": "2026-11-06T00:20:46Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "rinse-ed-gillett": {
    "home": "https://www.rinse.fm/shows/ed-gillett",
@@ -26479,6 +26479,14 @@
    "id": "rinse-esk",
    "items": [
     {
+     "date": "2026-11-11T10:00:00Z",
+     "desc": "",
+     "id": "esk-11-11-2026-1000",
+     "image": "https://image.rinse.fm/_/eskpic.JPG?w=1200&h=630",
+     "title": "Esk, 11 Nov 2026",
+     "url": "https://www.rinse.fm/episodes/esk-11-11-2026-1000"
+    },
+    {
      "date": "2026-11-04T10:00:00Z",
      "desc": "",
      "id": "esk-04-11-2026-1000",
@@ -26669,19 +26677,11 @@
      "image": "https://image.rinse.fm/_/eskpic.JPG?w=1200&h=630",
      "title": "Esk, 10 Dec 2025",
      "url": "https://www.rinse.fm/episodes/esk-10-12-2025-0900"
-    },
-    {
-     "date": "2025-11-26T09:00:00Z",
-     "desc": "",
-     "id": "esk-26-11-2025-0900",
-     "image": "https://image.rinse.fm/_/eskpic.JPG?w=1200&h=630",
-     "title": "Esk, 26 Nov 2025",
-     "url": "https://www.rinse.fm/episodes/esk-26-11-2025-0900"
     }
    ],
    "kind": "rinse",
    "name": "Esk",
-   "updatedAt": "2026-11-05T00:24:22Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "rinse-fabio-grooverider": {
    "home": "https://www.rinse.fm/shows/fabio-grooverider",
@@ -27999,6 +27999,14 @@
    "id": "rinse-papaoul",
    "items": [
     {
+     "date": "2026-11-10T10:00:00Z",
+     "desc": "",
+     "id": "papaoul-10-11-2026-1000",
+     "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
+     "title": "Papaoul, 10 Nov 2026",
+     "url": "https://www.rinse.fm/episodes/papaoul-10-11-2026-1000"
+    },
+    {
      "date": "2026-10-27T10:00:00Z",
      "desc": "",
      "id": "papaoul-27-10-2026-1000",
@@ -28189,19 +28197,11 @@
      "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
      "title": "Papaoul, 24 Mar 2026",
      "url": "https://www.rinse.fm/episodes/papaoul-24-03-2026-0900"
-    },
-    {
-     "date": "2026-03-17T09:00:00Z",
-     "desc": "",
-     "id": "papaoul-17-03-2026-0900",
-     "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
-     "title": "Papaoul, 17 Mar 2026",
-     "url": "https://www.rinse.fm/episodes/papaoul-17-03-2026-0900"
     }
    ],
    "kind": "rinse",
    "name": "Papaoul",
-   "updatedAt": "2026-10-27T22:59:09Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "rinse-pariah": {
    "home": "https://www.rinse.fm/shows/pariah",
@@ -28820,6 +28820,14 @@
    "id": "rinse-stones-taro",
    "items": [
     {
+     "date": "2026-11-09T23:00:00Z",
+     "desc": "",
+     "id": "stones-taro-09-11-2026-2300",
+     "image": "https://image.rinse.fm/_/ps2-Taro-Stones.JPG?w=1200&h=630",
+     "title": "Stones Taro, 9 Nov 2026",
+     "url": "https://www.rinse.fm/episodes/stones-taro-09-11-2026-2300"
+    },
+    {
      "date": "2026-09-14T22:00:00Z",
      "desc": "",
      "id": "stones-taro-14-09-2026-2300",
@@ -29004,14 +29012,6 @@
      "url": "https://www.rinse.fm/episodes/stones-taro-24-09-2024-2300"
     },
     {
-     "date": "2024-08-27T22:00:00Z",
-     "desc": "",
-     "id": "stones-taro-27-08-2024-2300",
-     "image": "https://image.rinse.fm/_/ps2-Taro-Stones.JPG?w=1200&h=630",
-     "title": "Stones Taro, 27 Aug 2024",
-     "url": "https://www.rinse.fm/episodes/stones-taro-27-08-2024-2300"
-    },
-    {
      "date": null,
      "desc": "",
      "id": "stones-taro-12-10-2026-2300-2",
@@ -29022,7 +29022,7 @@
    ],
    "kind": "rinse",
    "name": "Stones Taro",
-   "updatedAt": "2026-10-13T22:50:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "rinse-tim-garcia": {
    "home": "https://www.rinse.fm/shows/tim-garcia",
@@ -29504,6 +29504,14 @@
    "id": "rinse-utopia",
    "items": [
     {
+     "date": "2026-11-11T15:00:00Z",
+     "desc": "",
+     "id": "utopia-presents-11-11-2026-1500",
+     "image": "https://image.rinse.fm/_/Utopia-Presents-June-2025-3.jpg?w=1200&h=630",
+     "title": "Utopia Presents, 11 Nov 2026",
+     "url": "https://www.rinse.fm/episodes/utopia-presents-11-11-2026-1500"
+    },
+    {
      "date": "2026-11-04T15:00:00Z",
      "desc": "",
      "id": "utopia-presents-04-11-2026-1500",
@@ -29688,14 +29696,6 @@
      "url": "https://www.rinse.fm/episodes/utopia-presents-29-04-2026-1500"
     },
     {
-     "date": "2026-04-15T14:00:00Z",
-     "desc": "",
-     "id": "utopia-presents-15-04-2026-1500",
-     "image": "https://image.rinse.fm/_/Utopia-Presents-June-2025-3.jpg?w=1200&h=630",
-     "title": "Utopia Presents, 15 Apr 2026",
-     "url": "https://www.rinse.fm/episodes/utopia-presents-15-04-2026-1500"
-    },
-    {
      "date": "2025-07-17T18:00:00Z",
      "desc": "",
      "id": "utopia-presents-17-07-2025-1900",
@@ -29706,7 +29706,7 @@
    ],
    "kind": "rinse",
    "name": "Utopia Presents",
-   "updatedAt": "2026-11-10T02:10:50Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "rinse-yazmin-lacey": {
    "home": "https://www.rinse.fm/shows/yazmin-lacey",
@@ -30699,6 +30699,16 @@
    "id": "song-exploder",
    "items": [
     {
+     "audio": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/pscrb.fm/rss/p/dovetail.prxu.org/93/7e9d1e47-5f37-4213-9619-5a12af87a5e8/SongExploder324-Mastodon-Part1.mp3",
+     "date": "2026-11-11T15:00:00Z",
+     "desc": "The band Mastodon formed in 2000 in Atlanta, Georgia. They’ve won a Grammy and been nominated for 5 others, and three of their albums have debuted at #1 on Billboard’s Hard Rock charts. For most of their history, they were a four piece, made up of Brann Dailor, Troy Sanders, Bill Kelliher, and Brent Hinds. But in March 2025, Brent Hinds left the band. And later that year, he died in a motorcycle accident. For this episode, I spoke to Brann, Troy, and Bill about making the song “Your Ghost Again,” which came together in the wake of Brent’s death, and the death of Brann’s mother. Along with the…",
+     "duration": "28:58",
+     "id": "prx_93_7e9d1e47-5f37-4213-9619-5a12af87a5e8",
+     "image": "https://f.prxu.org/song-exploder/7e9d1e47-5f37-4213-9619-5a12af87a5e8/images/9202105a-7395-4418-86c6-53ea4a631a06/SongExploder324-Mastodon-Portrait.jpg",
+     "title": "Mastodon - Your Ghost Again",
+     "url": "https://play.prx.org/listen?ge=prx_93_7e9d1e47-5f37-4213-9619-5a12af87a5e8&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
+    },
+    {
      "audio": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/pscrb.fm/rss/p/dovetail.prxu.org/93/0f8c4ee6-8875-41a8-847d-e0d4062ee45f/SongExploderBonus-JasonMantzoukas-and-Hrishikesh-Part1.mp3",
      "date": "2026-11-04T20:00:00Z",
      "desc": "Listen to 'In the Last Hour of Light' here – lnk.to/inthelasthouroflight Listen to \"Never Going Anywhere\" here — lnk.to/nevergoinganywhere Dropbox archive of demos, photos, and more – hrishikesh.co/albumarchive I wanted to share this conversation that I had with my friend Jason Mantzoukas earlier this year. It was on stage, here in Los Angeles, at my album release show on May 14, 2026. Before playing my songs, I had this in-depth conversation with Jason about music and creativity, and my own creative process. And if you don’t already know Jason Mantzoukas, he is a comedian and actor and impro…",
@@ -30937,21 +30947,11 @@
      "image": "https://f.prxu.org/song-exploder/11102292-eb0e-46a8-9a96-6313eb368818/images/260b8718-0a3c-4511-8641-9036cadb9ba7/SongExploder310-ThompsonTwins-Portrait.jpg",
      "title": "Thompson Twins - Hold Me Now",
      "url": "https://play.prx.org/listen?ge=prx_93_11102292-eb0e-46a8-9a96-6313eb368818&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
-    },
-    {
-     "audio": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/pscrb.fm/rss/p/dovetail.prxu.org/93/54a59f5c-e505-4b7e-9259-b83270028576/SongExploder309-SilvanaEstrada-Part1.mp3",
-     "date": "2026-02-25T15:00:00Z",
-     "desc": "Silvana Estrada is a singer, songwriter, and producer from Veracruz, Mexico. She won the Latin Grammy for Best New Artist in 2022, and she’s been nominated for three others, including for her song “Como Un Pájaro,” which is the song that we talked about for this episode. It’s from her second album, which came out in 2025, but she started writing the song several years before that. So we talked about all the different versions of this song, and a couple of versions of Silvana herself, that emerged throughout the process. For more info, visit songexploder.net/silvana-estrada.",
-     "duration": "25:39",
-     "id": "prx_93_54a59f5c-e505-4b7e-9259-b83270028576",
-     "image": "https://f.prxu.org/song-exploder/54a59f5c-e505-4b7e-9259-b83270028576/images/6e37d62e-c6a9-46a4-abb4-914fb7cd04a1/SongExploder309-SilvanaEstrada-Portrait.jpg",
-     "title": "Silvana Estrada - Como Un Pájaro",
-     "url": "https://play.prx.org/listen?ge=prx_93_54a59f5c-e505-4b7e-9259-b83270028576&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
     }
    ],
    "kind": "rss",
    "name": "Song Exploder",
-   "updatedAt": "2026-11-06T23:44:12Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "soulection": {
    "home": "https://soundcloud.com/soulection",
@@ -31217,6 +31217,16 @@
    "id": "sound-opinions",
    "items": [
     {
+     "audio": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/821c755e-0ffd-43c0-9bf2-60611400067b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+     "date": "2026-11-11T06:00:00Z",
+     "desc": "In this bonus episode, Jim digs into his Desert Island Jukebox for a track by a duo he calls “France’s answer to Sparks.” Join our Facebook Group: https://bit.ly/3sivr9T Become a member on Patreon: https://bit.ly/3slWZvc Sign up for our newsletter: https://bit.ly/4frcVZo Make a donation via PayPal: https://bit.ly/3dmt9lU Send us a Voice Memo: Desktop: bit.ly/2RyD5Ah   Mobile: sayhi.chat/soundops See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+     "duration": "00:06:10",
+     "id": "gid:--art19-episode-locator-V0-jL6EsLY01uzdY_47peg1ONtbQpg_uOvm6V2LGjmmV5M",
+     "image": "https://content.production.cdn.art19.com/images/21/42/11/29/21421129-d340-4032-9ada-49a9b7242fae/a68a13e373ec132f337c6262692a9e70592305965f2778c37bdd164c3e1906b4c4e9d0e23dd8b799a022c5079924ea399a2dd748b2eebeddf2f8d783ffaca98a.jpeg",
+     "title": "A Genre-Defying French Duo",
+     "url": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/821c755e-0ffd-43c0-9bf2-60611400067b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+    },
+    {
      "audio": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/7e981b65-2577-4b39-bc0c-a32189b4dc89.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
      "date": "2026-11-06T06:00:00Z",
      "desc": "It’s been 50 years since Stevie Wonder released his masterpiece \"Songs in the Key of Life.\" This week, hosts Jim DeRogatis and Greg Kot revisit their dissection of the double album and EP, plus they discuss four newly released tracks and whether \"Songs in the Key of Life\" is Stevie Wonder’s best album. They’ll also hear from some listeners. Join our Facebook Group: https://bit.ly/3sivr9T Become a member on Patreon: https://bit.ly/3slWZvc Sign up for our newsletter: https://bit.ly/4frcVZo Make a donation via PayPal: https://bit.ly/3dmt9lU Send us a Voice Memo: Desktop: bit.ly/2RyD5Ah   Mobile:…",
@@ -31455,21 +31465,11 @@
      "image": "https://content.production.cdn.art19.com/images/21/42/11/29/21421129-d340-4032-9ada-49a9b7242fae/a68a13e373ec132f337c6262692a9e70592305965f2778c37bdd164c3e1906b4c4e9d0e23dd8b799a022c5079924ea399a2dd748b2eebeddf2f8d783ffaca98a.jpeg",
      "title": "Shoegaze Genre Dissection",
      "url": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/1980aa99-ed9d-4810-9f8e-d198b3c7cbcf.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-    },
-    {
-     "audio": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/58a8bbc6-f0c3-4106-851b-d123d0f6e88b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-     "date": "2026-08-19T05:00:00Z",
-     "desc": "In this bonus episode, Greg pays tribute to Jeff “Monoman” Conolly, the garage-rock pioneer and leader of Lyres, who died July 31, 2026, at the age of 69. Join our Facebook Group: https://bit.ly/3sivr9T Become a member on Patreon: https://bit.ly/3slWZvc Sign up for our newsletter: https://www.patreon.com/collection/2136865 Make a donation via PayPal: https://bit.ly/3dmt9lU Send us a Voice Memo: Desktop: bit.ly/2RyD5Ah   Mobile: sayhi.chat/soundops See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
-     "duration": "00:06:32",
-     "id": "gid:--art19-episode-locator-V0-KGZxUiOLbP9Ft8yZuIuFU9YhjrcpGQcocNHUESUAwGQ",
-     "image": "https://content.production.cdn.art19.com/images/21/42/11/29/21421129-d340-4032-9ada-49a9b7242fae/a68a13e373ec132f337c6262692a9e70592305965f2778c37bdd164c3e1906b4c4e9d0e23dd8b799a022c5079924ea399a2dd748b2eebeddf2f8d783ffaca98a.jpeg",
-     "title": "RIP The Lyres' Jeff Conolly",
-     "url": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/58a8bbc6-f0c3-4106-851b-d123d0f6e88b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
     }
    ],
    "kind": "rss",
    "name": "Sound Opinions",
-   "updatedAt": "2026-11-06T07:23:44Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "spectrum-radio": {
    "home": "https://jorisvoorn.com/",
@@ -33708,6 +33708,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-10T00:00:00Z",
+     "desc": "Watch an exclusive clip of Turkish improv band ZeN’s Bakırköy Psychiatric Hospital concert from 1998 On 23 June 1998, Istanbul based experimental rock group ZeN performed at Bakırköy Psychiatric Hospital, following an invitation from two nurses who worked there. The musicians visited the hospital beforehand and decided to approach the performance with sensitivity to their audience while remaining true to their commitment to improvisation. At times, the lyrics seem to tell the story of the hospital and the concert itself, responding directly to the surroundings. The performance subsequently be…",
+     "duration": null,
+     "id": "https:--www.thewire.co.uk-video-video-79994",
+     "image": null,
+     "title": "Video: ZeN's Bakırköy Psychiatric Hospital concert, Istanbul, 1998",
+     "url": "https://www.thewire.co.uk/video/video-79994"
+    },
+    {
+     "audio": null,
      "date": "2026-11-09T00:00:00Z",
      "desc": "Popular music criticism can become relevant again by situating itself in broader theoretical frameworks, argues Rafael Lubner in The Wire 514 These are lean times for popular music criticism. Negotiating a gutted publishing landscape, amid a Spotify-led devaluation of listening, the form finds itself under serious threat. One index of criticism’s attenuated state is the narrowing frame of reference employed by critics to apprehend musical objects – rarely do we find new works in the visual arts, film or literature employed to understand transformations in music’s sound or form. Take, as a poi…",
      "duration": null,
@@ -33945,21 +33955,11 @@
      "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/25/Akchamel.jpg",
      "title": "Shane Woolman presents  Adventures In Sound And Music",
      "url": "https://www.thewire.co.uk/audio/on-air/shane-woolman-presents-adventures-in-sound-and-music-79564"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-24T00:00:00Z",
-     "desc": "To complement her interview in The Wire 512, Slovenian improvising pianist and bandleader Kaja Draksler creates an exclusive Wire mix Kaja Draksler studied jazz at a music-oriented high school in Ljubljana, later enrolling at the Conservatory of Amsterdam. There, her instructor, the British composer Richard Ayres, asked her the simple question,“What do you want to do?”, which set her on a path that would chafe against the jazz orthodoxy. In August Punkt.Vrt. Plastik, her long-running trio with Swedish bassist Petter Eldh and German drummer Christian Lillinger, released their fourth album, Kom…",
-     "duration": null,
-     "id": "https:--www.thewire.co.uk-audio-tracks-wire-mix-kaja-draksler",
-     "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/24/LR-Kaja-Draksler-2026-14-fin_crop.jpg",
-     "title": "Wire  mix: Kaja Draksler",
-     "url": "https://www.thewire.co.uk/audio/tracks/wire-mix-kaja-draksler"
     }
    ],
    "kind": "rss",
    "name": "The Wire",
-   "updatedAt": "2026-11-10T02:10:50Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "time-to-track": {
    "home": "https://soundcloud.com/andrew-wowk",
@@ -34693,6 +34693,16 @@
    "id": "transmissions",
    "items": [
     {
+     "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6af210000045eff641efedf2/media.mp3",
+     "date": "2026-11-11T07:00:00Z",
+     "desc": "Our guest this week is author Adam Voith, whose new novel, RIYL , short for \"Recommended If You Like,\" is an at times thinly veiled memoir of the '90s Christian punk and indie scene. With echoes of Get in the Van and Freaks and Geeks, RIYL threads that delicate needle of looking back at earnest teenage corn doggery with warts and all embarrassment, tempered by the type of affection that only time and distance allow all of us. It's also frequently flat out hilarious. Just as the bands in RIYL became the improbable secret history of mainstream mainline indie music—Sufjan Stevens, Father John Mi…",
+     "duration": "1:03:36",
+     "id": "6af210000045eff641efedf2",
+     "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/1794247590515-3a859e75-91f0-4b63-bd78-a0dea7f47ba8.jpeg",
+     "title": "Transmissions :: Adam Voith",
+     "url": "https://aquariumdrunkard.com/2026/11/11/transmissions-adam-voith/"
+    },
+    {
      "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6ae9f8ccdc2860cef4ade70f/media.mp3",
      "date": "2026-11-04T07:00:00Z",
      "desc": "Welcome back to Aquarium Drunkard Transmissions with your host Jason P. Woodbury. We've entered the holidays, aka the official \"Vince Guaraldi Season.\" This week on the show, we're digging into the work of Guaraldi with Peanuts historian and author of Vince Guaraldi at the Piano , Derrick Bang. He first published the book in 2012, but in 2024 released an updated edition. We discuss it all: Guaraldi's fascination with the bossa nova sound in the late '50s, his status as a composer who didn't write or read music—writing from a purely melodic standpoint, his work with Brazilian guitarist Bola Se…",
@@ -34931,21 +34941,11 @@
      "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/61568cfa3d8a5e6ec670c4f7744f4be7.jpg",
      "title": "All One Song :: Zachary Cale on \"Ambulance Blues\"",
      "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab706a4c974afb1546efe82"
-    },
-    {
-     "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/cf50154e-53cc-11f1-9bf4-b74cc910c9ce/media.mp3",
-     "date": "2026-05-20T07:00:00Z",
-     "desc": "In case you haven't caught on already, All One Song host Tyler Wilcox loves talking about Neil Young. And he's always fascinated by where these free-form conversations go, whether it's deep dives into lyrical obsessions, personal history, chord progressions, Shakey lore … or some indefinable blend of all of that. This week’s episode is no different! We’re back in the 1990s this time around, taking a look at a song from Harvest Moon — “From Hank To Hendrix.” It’s a song that has been a regular setlist inclusion ever since it first appeared in late 1991. Young usually does it solo acoustic, and…",
-     "duration": "1:20:36",
-     "id": "cf50154e-53cc-11f1-9bf4-b74cc910c9ce",
-     "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/40dccea1234ba44311b14eedda3de216.jpg",
-     "title": "All One Song :: Jerry David DeCicca on \"From Hank To Hendrix\"",
-     "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab705c262a47b6bec26271c"
     }
    ],
    "kind": "rss",
    "name": "Transmissions (Aquarium Drunkard)",
-   "updatedAt": "2026-11-05T00:24:22Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "triplej-blak-out": {
    "home": "https://www.abc.net.au/triplej/programs/blak-out",
@@ -35336,6 +35336,17 @@
    "id": "triplej-home-and-hosed",
    "items": [
     {
+     "audio": "https://mediacore-live-production.akamaized.net/audio/02/qb/Z/cv.aac",
+     "date": "2026-11-11T08:00:00Z",
+     "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 11 Dec. Tracklist: Clancy – Oh Why; Empress – One By One; aleksiah – Bullshit, Baby!; DEM MOB – Complicated [Ft. Djanaba]; Memphis LK – Are you holding on?; Suzi – Centrelink Summer; Stand Atlantic – NEXT2U; Lime Cordiale – Household Name [Ft. Sydney Symphony Orchestra]; daine – I Used to Kill; effe – Tears Always Burn; Sam Alfred, Luuk Van Dijk & Storm Mollison – Connected By Light; Surely Shirley – Mine! Mine! Mine!; Blusher – mrs brightside; Bored in Florence – MONOCULTURE; Norwood – Radia…",
+     "duration": "7200",
+     "id": "107353216",
+     "image": "https://live-production.wcms.abc-cdn.net.au/e53a18092190656f98b05e2e56c91fe4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+     "title": "Home and Hosed, 11 Nov",
+     "until": "2026-12-11T08:00:00Z",
+     "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107353216"
+    },
+    {
      "audio": "https://mediacore-live-production.akamaized.net/audio/02/qa/Z/5m.aac",
      "date": "2026-11-10T08:00:00Z",
      "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 10 Dec. Tracklist: Sycco – I've Loved and I've Lost; Youngeste – Right Here With you; Sammi Heaney – Guilty; Cherry Chola – The Pink Room; Stagger – It's All Stars; SOLLYY – FAIR DINKUM [Ft. Breakfast Road, Church, Zion Garcia]; Olivia C. Dacal – Take A Video; Dream Boat – Real!; Newport – everything was fickle [Ft. Arden Jones]; JACOTÉNE – Tell Me (Tell Me I Heard It From My Father); Torren Foot & rhys from the sticks – DANCE; Swapmeet – I Know!; Swapmeet – Mount Zero; Jett Blyton – Omg; Sta…",
@@ -35433,22 +35444,11 @@
      "title": "Home and Hosed: First Play from Blush",
      "until": "2026-11-26T08:00:00Z",
      "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107294728"
-    },
-    {
-     "audio": "https://mediacore-live-production.akamaized.net/audio/02/pq/Z/fu.aac",
-     "date": "2026-10-26T08:00:00Z",
-     "desc": "Starting off another week of Home and Hosed, we've got a first platy from Brisbane's Selfish Sons ! Available until 25 Nov. Tracklist: Tobiahs & VV-Ace – Where You Really Come From; Sammi Heaney – Guilty; DRIZZZ & New Machine – SMOKE; Teen Jesus and the Jean Teasers – GO WASTE MY TIME; Selfish Sons – Malibu to Sunset Drive; FUKHED – Hold On; Forest Claudette – Kobe Beef; Old Mervs – Adeline; Annalisa Fernandez – Save My Love; Clancy – Sunshine, You're The Life of the Party; The Avalanches – Every Single Weekend [Ft. Jamie xx]; Cherry Chola – The Pink Room; Stand Atlantic – NEXT2U; Rum Jungle …",
-     "duration": "7200",
-     "id": "107290394",
-     "image": "https://live-production.wcms.abc-cdn.net.au/2844972fa6a3c1ba96927df4abbca22e?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=289&width=862&height=485&imformat=generic",
-     "title": "Home and Hosed: First Play from Selfish Sons",
-     "until": "2026-11-25T08:00:00Z",
-     "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107290394"
     }
    ],
    "kind": "abc",
    "name": "Home and Hosed with Anika Luna",
-   "updatedAt": "2026-11-11T00:04:30Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "triplej-house-party": {
    "home": "https://www.abc.net.au/triplej/programs/house-party",
@@ -35671,6 +35671,17 @@
    "id": "triplej-prism",
    "items": [
     {
+     "audio": "https://mediacore-live-production.akamaized.net/audio/02/qb/Z/e6.aac",
+     "date": "2026-11-11T10:00:00Z",
+     "desc": "Mowgli May is covering for Tiffi tonight and coming in hot with all the pop powerhouses of the moment... plus up and comers you need to get to know, from Australia to the world! Available until 11 Dec. Tracklist: tiffi – cold medicine; Chris Lorenzo & Chromeo – Fancy Footwork; 5 Seconds of Summer – Everyone’s a Star! (CLUBSOS VOL. 1); Tate McRae – Housewife; Salty – The Eye; Tinashe – Popstar; ADÉLA – Fantasize; Larissa Lambert – Yearning; Troye Sivan – She's the Best; Drake & Don Toliver – Solar Eclipse; Daine – Product of Profit (P.O.P); Cloonee, Prospa & Tristan Henry – Good Girl; ILLIT – …",
+     "duration": "7200",
+     "id": "107353240",
+     "image": "https://live-production.wcms.abc-cdn.net.au/a6cd5f2da681b8a87333be1cef52151f?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=740&width=862&height=485&imformat=generic",
+     "title": "Prism: Mowgli May Takeover! <3",
+     "until": "2026-12-11T10:00:00Z",
+     "url": "https://www.abc.net.au/triplej/programs/prism/prism-mowgli-may/107353240"
+    },
+    {
      "audio": "https://mediacore-live-production.akamaized.net/audio/02/q4/Z/7k.aac",
      "date": "2026-11-04T10:00:00Z",
      "desc": "Join tiffi tonight for this SPECIAL edition of PRISM, one that comes every year - the ALL Aussie extravaganza to celebrate Aus Music Month! You'll hear from artists like nabii, Hugo Basclain, Mystic Tea Party, Wolf Cutt, Blush, kate moth, Barley Paassable, and so many more. AND on top of that, tiffi spent 2 hours gathering messages from the artists <3. Available until 4 Dec. Tracklist: nabii – a million kisses in her eyes; 5 Seconds of Summer – I'm Scared I’ll Never Sleep Again (CLUBSOS VOL. 1); Hugo Basclain [feat. Allegra Miles] – Crazy Bout U; Annabelle Tiffin – WHEN ITS ALL SAID AND DONE;…",
@@ -35717,7 +35728,7 @@
    ],
    "kind": "abc",
    "name": "Prism with tiffi",
-   "updatedAt": "2026-11-06T11:14:15Z"
+   "updatedAt": "2026-11-12T01:33:18Z"
   },
   "triplej-soul-ctrl": {
    "home": "https://www.abc.net.au/triplej/programs/soul-ctrl",
@@ -38009,46 +38020,46 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-11T21:30:11Z",
+  "lastRun": "2026-11-12T01:33:18Z",
   "sources": {
    "21c-progressive": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T14:50:23Z",
     "ok": true
    },
    "all-songs-considered": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 20,
     "newest": "2026-11-10T10:00:00Z",
     "ok": true
    },
    "anjunadeep-edition": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-05T16:06:56Z",
     "ok": true
    },
    "anjunadeep-releases": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-09T00:00:00Z",
+    "newest": "2026-11-10T00:00:00Z",
     "ok": true
    },
    "balance-music": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T00:00:00Z",
     "ok": true
    },
    "balearic-breakfast": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T12:41:32Z",
     "ok": true
    },
    "bandcamp-daily": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "error": "RuntimeError: Bandcamp's bot check blocked the request (link-only until it lets us through)",
     "linkOnly": true,
@@ -38056,7 +38067,7 @@
     "ok": false
    },
    "bandcamp-radio": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 20,
     "error": "RuntimeError: Bandcamp's bot check blocked the request (link-only until it lets us through)",
     "linkOnly": true,
@@ -38064,151 +38075,151 @@
     "ok": false
    },
    "bbc-6-musics-rave-forever": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 8,
     "newest": "2026-11-07T01:00:00Z",
     "ok": true
    },
    "bbc-benji-b": {
-    "at": "2026-11-11T00:04:30Z",
-    "count": 4,
-    "newest": "2026-11-05T01:00:00Z",
+    "at": "2026-11-12T01:33:18Z",
+    "count": 5,
+    "newest": "2026-11-12T01:00:00Z",
     "ok": true
    },
    "bbc-gilles-peterson": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-07T18:00:00Z",
     "ok": true
    },
    "bbc-introducing-mixtape": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 10,
     "newest": "2026-11-06T12:00:00Z",
     "ok": true
    },
    "bbc-introducing-on-radio-1-dance": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 8,
     "newest": "2026-11-08T23:00:00Z",
     "ok": true
    },
    "bbc-jamz-supernova": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-07T15:00:00Z",
     "ok": true
    },
    "bbc-mary-anne-hobbs": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 5,
     "newest": "2026-11-08T20:00:00Z",
     "ok": true
    },
    "bbc-pete-tong": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 8,
     "newest": "2026-11-07T00:00:00Z",
     "ok": true
    },
    "bbc-pete-tongs-hot-mix": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 3,
     "newest": "2026-11-01T04:00:00Z",
     "ok": true
    },
    "bbc-radio-1-dance-drum-and-bass-mix": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-01T01:00:00Z",
     "ok": true
    },
    "bbc-radio-1s-chillest-show-with-sian-eleri": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-08T23:00:00Z",
     "ok": true
    },
    "bbc-radio-1s-classic-essential-mix": {
-    "at": "2026-11-11T00:04:30Z",
-    "count": 17,
-    "newest": "2026-11-10T22:00:00Z",
+    "at": "2026-11-12T01:33:18Z",
+    "count": 18,
+    "newest": "2026-11-11T22:00:00Z",
     "ok": true
    },
    "bbc-radio-1s-drum-and-bass-show": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 3,
     "newest": "2026-11-01T00:00:00Z",
     "ok": true
    },
    "bbc-radio-1s-essential-mix": {
-    "at": "2026-11-11T00:04:30Z",
-    "count": 13,
+    "at": "2026-11-12T01:33:18Z",
+    "count": 12,
     "newest": "2026-11-07T02:00:00Z",
     "ok": true
    },
    "bbc-radio-1s-future-artists-with-sian-eleri": {
-    "at": "2026-11-11T00:04:30Z",
-    "count": 10,
+    "at": "2026-11-12T01:33:18Z",
+    "count": 9,
     "newest": "2026-11-10T22:00:00Z",
     "ok": true
    },
    "bbc-radio-1s-future-dance-with-sarah-story": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-06T22:00:00Z",
     "ok": true
    },
    "bbc-sherelle": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 8,
     "newest": "2026-11-08T01:00:00Z",
     "ok": true
    },
    "bbc-stuart-maconies-freak-zone": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-08T22:00:00Z",
     "ok": true
    },
    "bbc-the-6-mix-with-mary-anne-hobbs": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-03T10:42:00Z",
     "ok": true
    },
    "bbc-the-residency-on-radio-1-dance": {
-    "at": "2026-11-11T00:04:30Z",
-    "count": 8,
+    "at": "2026-11-12T01:33:18Z",
+    "count": 7,
     "newest": "2026-11-06T01:00:00Z",
     "ok": true
    },
    "butter-sessions": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-04T02:04:59Z",
     "ok": true
    },
    "citr-techno-progressivo": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-02T03:00:00Z",
     "ok": true
    },
    "coldwired": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-05T06:23:01Z",
     "ok": true
    },
    "crack-magazine": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T14:35:39Z",
     "ok": true
    },
    "crack-mix": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T16:03:48Z",
     "ok": true
@@ -38220,49 +38231,49 @@
     "ok": true
    },
    "days-like-nights": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-09T12:00:11Z",
     "ok": true
    },
    "dekmantel-podcast": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-09T10:14:39Z",
     "ok": true
    },
    "dialekt-radio": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-08T18:35:15Z",
     "ok": true
    },
    "dissect": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T10:31:00Z",
     "ok": true
    },
    "doublej-classic-albums": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 10,
     "newest": "2026-11-09T07:00:00Z",
     "ok": true
    },
    "doublej-take-5": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 5,
-    "newest": "2026-11-05T01:00:00Z",
+    "newest": "2026-11-12T01:00:00Z",
     "ok": true
    },
    "doublej-the-block-party": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-06T08:00:00Z",
     "ok": true
    },
    "dr-packer": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-27T01:59:11Z",
     "ok": true
@@ -38274,13 +38285,13 @@
     "ok": true
    },
    "fbi-midday-mix": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T05:05:02Z",
     "ok": true
    },
    "fbi-sunset": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-07T09:15:26Z",
     "ok": true
@@ -38292,9 +38303,9 @@
     "ok": true
    },
    "flow-state": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 20,
-    "newest": "2026-11-10T08:17:12Z",
+    "newest": "2026-11-11T08:02:45Z",
     "ok": true
    },
    "futurism-restated": {
@@ -38304,37 +38315,37 @@
     "ok": true
    },
    "gai-barone-patterns": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-06T05:40:57Z",
     "ok": true
    },
    "gilles-peterson": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T18:09:35Z",
     "ok": true
    },
    "gorilla-vs-bear": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-23T12:08:14Z",
     "ok": true
    },
    "group-therapy": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-06T21:11:13Z",
     "ok": true
    },
    "guardian-au-music": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 20,
-    "newest": "2026-11-10T22:00:20Z",
+    "newest": "2026-11-11T05:34:40Z",
     "ok": true
    },
    "hearing-things": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 15,
     "newest": "2026-11-10T17:45:14Z",
     "ok": true
@@ -38346,55 +38357,55 @@
     "ok": true
    },
    "ilian-tape": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-10-21T08:15:43Z",
+    "newest": "2026-11-11T09:23:19Z",
     "ok": true
    },
    "in-our-headphones": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T08:00:00Z",
     "ok": true
    },
    "in-sheeps-clothing": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 10,
-    "newest": "2026-11-10T17:06:25Z",
+    "newest": "2026-11-11T16:57:57Z",
     "ok": true
    },
    "indiecast": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-06T11:00:00Z",
     "ok": true
    },
    "inverted-audio": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 10,
-    "newest": "2026-11-10T12:01:47Z",
+    "newest": "2026-11-11T11:28:38Z",
     "ok": true
    },
    "inverted-audio-mix": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-08-20T09:14:23Z",
     "ok": true
    },
    "joof-radio": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T09:47:41Z",
     "ok": true
    },
    "last-donut": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 15,
-    "newest": "2026-11-10T08:00:00Z",
+    "newest": "2026-11-11T16:36:29Z",
     "ok": true
    },
    "lefto-early-bird": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-01T22:30:53Z",
     "ok": true
@@ -38406,37 +38417,37 @@
     "ok": true
    },
    "love-is-the-message": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-22T06:58:00Z",
     "ok": true
    },
    "manual-movement": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-14T12:21:00Z",
     "ok": true
    },
    "mixmag-anz": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-10T05:22:00Z",
+    "newest": "2026-11-12T00:37:06Z",
     "ok": true
    },
    "music-not-diving": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-04T04:00:00Z",
     "ok": true
    },
    "nialler9": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-04T14:49:56Z",
     "ok": true
    },
    "no-skips": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 5,
     "newest": "2026-11-05T05:01:54Z",
     "ok": true
@@ -38448,715 +38459,716 @@
     "ok": true
    },
    "nora-en-pure": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-09T09:00:00Z",
     "ok": true
    },
    "nts-a-colourful-storm": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-08T21:00:00Z",
     "ok": true
    },
    "nts-ad93": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-09-27T19:00:00Z",
     "ok": true
    },
    "nts-alexander-nut": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-24T11:00:00Z",
     "ok": true
    },
    "nts-anz": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-09-24T16:00:00Z",
     "ok": true
    },
    "nts-batu": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-04T23:00:00Z",
     "ok": true
    },
    "nts-ben-sims": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-01T00:00:00Z",
     "ok": true
    },
    "nts-bill-brewster": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
-    "newest": "2026-10-13T12:00:00Z",
+    "newest": "2026-11-10T13:00:00Z",
     "ok": true
    },
    "nts-calm-roots": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-09-14T19:00:00Z",
     "ok": true
    },
    "nts-canyoufeelthesun-w-call-super-parris": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-22T00:00:00Z",
     "ok": true
    },
    "nts-carmen-villain": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 9,
     "newest": "2026-10-14T13:00:00Z",
     "ok": true
    },
    "nts-circuits": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-03T22:00:00Z",
     "ok": true
    },
    "nts-courtesy": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-06T15:00:00Z",
     "ok": true
    },
    "nts-daniel-avery": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-08-18T21:00:00Z",
     "ok": true
    },
    "nts-danielle": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-13T20:00:00Z",
     "ok": true
    },
    "nts-dark-entries-record": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-15T19:00:00Z",
     "ok": true
    },
    "nts-david-holmes": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-26T13:00:00Z",
     "ok": true
    },
    "nts-day-care": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-19T21:00:00Z",
     "ok": true
    },
    "nts-deep-medi": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-23T21:00:00Z",
     "ok": true
    },
    "nts-dj-persuasion": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-22T20:00:00Z",
     "ok": true
    },
    "nts-donna-leake": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-26T15:00:00Z",
     "ok": true
    },
    "nts-early-bird-pam": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-05T07:00:00Z",
     "ok": true
    },
    "nts-edna-martinez": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-03T19:00:00Z",
     "ok": true
    },
    "nts-field-work": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-07T20:00:00Z",
     "ok": true
    },
    "nts-floating-points": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-09-21T12:00:00Z",
     "ok": true
    },
    "nts-funkineven": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-28T19:00:00Z",
     "ok": true
    },
    "nts-gigi-fm": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-04T22:00:00Z",
     "ok": true
    },
    "nts-great-southern-lands": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
-    "newest": "2026-10-13T11:00:00Z",
+    "newest": "2026-11-10T12:00:00Z",
     "ok": true
    },
    "nts-hd": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-26T19:00:00Z",
     "ok": true
    },
    "nts-hooversound": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-21T20:00:00Z",
     "ok": true
    },
    "nts-if-music": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-25T13:00:00Z",
     "ok": true
    },
    "nts-in-focus": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-06T11:00:00Z",
     "ok": true
    },
    "nts-introspekt": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-06T23:00:00Z",
     "ok": true
    },
    "nts-kevin-saunderson": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 8,
     "newest": "2026-10-23T20:00:00Z",
     "ok": true
    },
    "nts-kit-grill": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-01T16:00:00Z",
     "ok": true
    },
    "nts-laurel-halo": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-20T15:00:00Z",
     "ok": true
    },
    "nts-loraine-james": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-27T14:00:00Z",
     "ok": true
    },
    "nts-lukid": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-20T11:00:00Z",
     "ok": true
    },
    "nts-mala-junta": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-26T15:00:00Z",
     "ok": true
    },
    "nts-moin": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-03T12:00:00Z",
     "ok": true
    },
    "nts-motor-system": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-05T00:00:00Z",
     "ok": true
    },
    "nts-moxie": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-28T15:00:00Z",
     "ok": true
    },
    "nts-mutualism": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-31T19:00:00Z",
     "ok": true
    },
    "nts-nabihah-iqbal": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-24T13:00:00Z",
     "ok": true
    },
    "nts-nia-archives": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-06T17:00:00Z",
     "ok": true
    },
    "nts-ok-williams": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-01T16:00:00Z",
     "ok": true
    },
    "nts-optimo": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-27T17:00:00Z",
     "ok": true
    },
    "nts-organic-music": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-04T06:00:00Z",
     "ok": true
    },
    "nts-pender-street-steppers": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
-    "newest": "2026-10-13T17:00:00Z",
+    "newest": "2026-11-10T18:00:00Z",
     "ok": true
    },
    "nts-rhythm-section": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-28T14:00:00Z",
     "ok": true
    },
    "nts-ross-allen": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-31T12:00:00Z",
     "ok": true
    },
    "nts-rupture": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
-    "newest": "2026-10-13T19:00:00Z",
+    "newest": "2026-11-10T20:00:00Z",
     "ok": true
    },
    "nts-secret-sundaze": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-09-17T14:00:00Z",
     "ok": true
    },
    "nts-shanti-celeste": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-05T13:00:00Z",
     "ok": true
    },
    "nts-skee-mask": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-06T16:00:00Z",
     "ok": true
    },
    "nts-sofie-birch": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-08-24T17:00:00Z",
     "ok": true
    },
    "nts-soundsofthedawn": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-31T08:00:00Z",
     "ok": true
    },
    "nts-space-afrika": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-08-04T21:00:00Z",
     "ok": true
    },
    "nts-the-trilogy-tapes": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-11-09T17:00:00Z",
     "ok": true
    },
    "nts-tim-reaper": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-21T17:00:00Z",
     "ok": true
    },
    "nts-touching-bass": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-14T17:00:00Z",
     "ok": true
    },
    "nts-travs-presents": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-09T20:00:00Z",
     "ok": true
    },
    "nts-upsammy": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-29T13:00:00Z",
     "ok": true
    },
    "nts-yu-su": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
-    "newest": "2026-10-13T16:00:00Z",
+    "newest": "2026-11-10T17:00:00Z",
     "ok": true
    },
    "nts-zaltan": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 12,
     "newest": "2026-10-02T13:00:00Z",
     "ok": true
    },
    "odd-one-out": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-04T18:00:00Z",
     "ok": true
    },
    "phonica-mix": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-03T12:47:04Z",
     "ok": true
    },
    "pitchfork-bna": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-04T05:03:00Z",
     "ok": true
    },
    "pitchfork-review": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-28T09:00:00Z",
     "ok": true
    },
    "pjenne": {
-    "at": "2026-11-11T00:04:30Z",
-    "count": 22,
-    "newest": "2026-10-27T07:20:31Z",
+    "at": "2026-11-12T01:33:18Z",
+    "count": 23,
+    "newest": "2026-11-11T22:45:50Z",
     "ok": true
    },
    "popcast": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 2,
     "newest": "2026-11-06T10:00:00Z",
     "ok": true
    },
    "pow-mag": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 20,
-    "newest": "2026-11-10T19:20:31Z",
+    "newest": "2026-11-11T16:59:11Z",
     "ok": true
    },
    "questlove-show": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-09T05:01:00Z",
     "ok": true
    },
    "quietus-radio": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T21:46:25Z",
     "ok": true
    },
    "ra-exchange": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-04T12:29:49Z",
+    "newest": "2026-11-11T13:06:02Z",
     "ok": true
    },
    "ra-podcast": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-08T22:00:40Z",
+    "newest": "2026-11-11T14:19:19Z",
     "ok": true
    },
    "radio-cazimi": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-04T02:37:33Z",
+    "newest": "2026-11-11T06:38:33Z",
     "ok": true
    },
    "ransom-note": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 10,
-    "newest": "2026-11-04T13:13:37Z",
+    "newest": "2026-11-11T19:01:33Z",
     "ok": true
    },
    "refuge-worldwide": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-30T15:31:36Z",
     "ok": true
    },
    "resident": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-08T06:00:00Z",
     "ok": true
    },
    "rinse-bryan-gee": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-28T19:00:00Z",
     "ok": true
    },
    "rinse-crucast": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-07T21:00:00Z",
     "ok": true
    },
    "rinse-dametalmessiah": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 11,
     "newest": "2026-10-11T20:00:00Z",
     "ok": true
    },
    "rinse-dj-flight": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-14T18:00:00Z",
     "ok": true
    },
    "rinse-dj-hype": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-22T18:00:00Z",
     "ok": true
    },
    "rinse-eclecticist": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-04T13:00:00Z",
+    "newest": "2026-11-11T13:00:00Z",
     "ok": true
    },
    "rinse-ed-gillett": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 16,
     "newest": "2026-10-19T12:00:00Z",
     "ok": true
    },
    "rinse-emerald": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 11,
     "newest": "2026-09-12T18:00:00Z",
     "ok": true
    },
    "rinse-esk": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-04T10:00:00Z",
+    "newest": "2026-11-11T10:00:00Z",
     "ok": true
    },
    "rinse-fabio-grooverider": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-09-16T18:00:00Z",
     "ok": true
    },
    "rinse-fracture": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-27T22:00:00Z",
     "ok": true
    },
    "rinse-hi-fidelity": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-05T12:00:00Z",
     "ok": true
    },
    "rinse-hodge": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-06T21:00:00Z",
     "ok": true
    },
    "rinse-i-jordan": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-23T21:00:00Z",
     "ok": true
    },
    "rinse-kara": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 6,
     "newest": "2026-10-17T20:00:00Z",
     "ok": true
    },
    "rinse-klute": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-26T23:00:00Z",
     "ok": true
    },
    "rinse-papaoul": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-10-27T10:00:00Z",
+    "newest": "2026-11-10T10:00:00Z",
     "ok": true
    },
    "rinse-pariah": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-05T21:00:00Z",
     "ok": true
    },
    "rinse-planet-wax": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-06T19:00:00Z",
     "ok": true
    },
    "rinse-plastician": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 15,
     "newest": "2026-10-25T18:00:00Z",
     "ok": true
    },
    "rinse-settle-down": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 7,
     "newest": "2026-10-28T23:00:00Z",
     "ok": true
    },
    "rinse-stones-taro": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-09-14T22:00:00Z",
+    "newest": "2026-11-09T23:00:00Z",
     "ok": true
    },
    "rinse-tim-garcia": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-26T10:00:00Z",
     "ok": true
    },
    "rinse-tom-ravenscroft": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-05T15:00:00Z",
     "ok": true
    },
    "rinse-transparent-audio": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 6,
     "newest": "2026-11-07T23:00:00Z",
     "ok": true
    },
    "rinse-utopia": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-04T15:00:00Z",
+    "newest": "2026-11-11T15:00:00Z",
     "ok": true
    },
    "rinse-yazmin-lacey": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-29T10:00:00Z",
     "ok": true
    },
    "rtr2": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-07T02:00:40Z",
     "ok": true
    },
    "selador-sessions": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-05T00:00:00Z",
     "ok": true
    },
    "skytop-residency": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
+    "error": "HTTPError: HTTP Error 505: HTTP Version Not Supported",
     "newest": "2026-11-10T06:12:14Z",
-    "ok": true
+    "ok": false
    },
    "song-exploder": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-04T20:00:00Z",
+    "newest": "2026-11-11T15:00:00Z",
     "ok": true
    },
    "soulection": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-06T14:11:50Z",
     "ok": true
    },
    "sound-opinions": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-06T06:00:00Z",
+    "newest": "2026-11-11T06:00:00Z",
     "ok": true
    },
    "spectrum-radio": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-05T15:43:00Z",
     "ok": true
    },
    "stereogum-aotw": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T21:01:17Z",
     "ok": true
    },
    "sudbeat": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-07T00:00:00Z",
     "ok": true
    },
    "super-progressive": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-10-19T20:00:00Z",
     "ok": true
    },
    "switched-on-pop": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-10T08:01:00Z",
     "ok": true
    },
    "tape-notes": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-04T00:00:00Z",
     "ok": true
@@ -39168,7 +39180,7 @@
     "ok": true
    },
    "the-lot-radio": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-09-24T19:23:46Z",
     "ok": true
@@ -39180,13 +39192,13 @@
     "ok": true
    },
    "the-wire": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-09T00:00:00Z",
+    "newest": "2026-11-10T00:00:00Z",
     "ok": true
    },
    "time-to-track": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-03T01:36:19Z",
     "ok": true
@@ -39198,85 +39210,85 @@
     "ok": true
    },
    "transitions": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-11-06T16:00:49Z",
     "ok": true
    },
    "transmissions": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
-    "newest": "2026-11-04T07:00:00Z",
+    "newest": "2026-11-11T07:00:00Z",
     "ok": true
    },
    "triplej-blak-out": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-08T06:00:00Z",
     "ok": true
    },
    "triplej-core": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 10,
     "newest": "2026-11-10T12:00:00Z",
     "ok": true
    },
    "triplej-country-club": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-08T07:00:00Z",
     "ok": true
    },
    "triplej-doof": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-06T11:00:00Z",
     "ok": true
    },
    "triplej-friday-mix": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-06T03:30:00Z",
     "ok": true
    },
    "triplej-hip-hop-show": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-05T10:00:00Z",
     "ok": true
    },
    "triplej-home-and-hosed": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 10,
-    "newest": "2026-11-10T08:00:00Z",
+    "newest": "2026-11-11T08:00:00Z",
     "ok": true
    },
    "triplej-house-party": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 8,
     "newest": "2026-11-07T07:00:00Z",
     "ok": true
    },
    "triplej-mix-up": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 10,
     "newest": "2026-11-07T14:00:00Z",
     "ok": true
    },
    "triplej-prism": {
-    "at": "2026-11-11T00:04:30Z",
-    "count": 4,
-    "newest": "2026-11-04T10:00:00Z",
+    "at": "2026-11-12T01:33:18Z",
+    "count": 5,
+    "newest": "2026-11-11T10:00:00Z",
     "ok": true
    },
    "triplej-soul-ctrl": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 4,
     "newest": "2026-11-09T10:00:00Z",
     "ok": true
    },
    "truancy-volume": {
-    "at": "2026-11-11T00:04:30Z",
+    "at": "2026-11-12T01:33:18Z",
     "count": 25,
     "newest": "2026-08-20T12:58:15Z",
     "ok": true

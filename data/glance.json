@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "d": "2026-11-12T01:00:00Z",
+   "g": "Double J",
+   "s": "Take 5 with Zan Rowe",
+   "sid": "doublej-take-5",
+   "t": "Take 5 with Dan Sultan",
+   "u": "https://www.abc.net.au/listen/programs/take-5/take-5-dan-sultan-little-miracle-songs/107374860"
+  },
+  {
+   "d": "2026-11-12T01:00:00Z",
+   "g": "BBC",
+   "s": "Benji B",
+   "sid": "bbc-benji-b",
+   "t": "Astrønne In 3",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033rmf"
+  },
+  {
+   "d": "2026-11-12T00:37:06Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Moktar: Can't outrun a shadow",
+   "u": "https://mixmag.net.au/feature/moktar-cant-outrun-a-shadow"
+  },
+  {
+   "d": "2026-11-11T22:45:50Z",
+   "g": "Mixes",
+   "s": "Pjenne (PBS 106.7) mixes",
+   "sid": "pjenne",
+   "t": "Millu & Pjenne  ~ Live at Hopkins Creek 2026",
+   "u": "https://soundcloud.com/pjenne/millu-pjenne-live-at-hopkins"
+  },
+  {
+   "d": "2026-11-11T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Classic Essential Mix",
+   "sid": "bbc-radio-1s-classic-essential-mix",
+   "t": "Nicolas Jaar 2012",
+   "u": "https://www.bbc.co.uk/sounds/play/m000h87r"
+  },
+  {
    "d": "2026-11-11T15:17:16Z",
    "g": "Writing",
    "s": "Tone Glow",
@@ -9,162 +49,125 @@
    "u": "https://toneglow.substack.com/p/film-show-076-sompot-chidgasornpongse"
   },
   {
+   "d": "2026-11-11T15:00:00Z",
+   "g": "Podcasts",
+   "s": "Song Exploder",
+   "sid": "song-exploder",
+   "sp": "Song Exploder Mastodon - Your Ghost Again",
+   "t": "Mastodon - Your Ghost Again",
+   "u": "https://play.prx.org/listen?ge=prx_93_7e9d1e47-5f37-4213-9619-5a12af87a5e8&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
+  },
+  {
+   "d": "2026-11-11T15:00:00Z",
+   "g": "Rinse FM",
+   "s": "Utopia Presents",
+   "sid": "rinse-utopia",
+   "t": "Utopia Presents, 11 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/utopia-presents-11-11-2026-1500"
+  },
+  {
+   "d": "2026-11-11T14:19:19Z",
+   "g": "Mixes",
+   "s": "RA Podcast",
+   "sid": "ra-podcast",
+   "t": "EX.818 Marcel Dettmann",
+   "u": "https://soundcloud.com/resident-advisor/ex-818-marcel-dettmann"
+  },
+  {
+   "d": "2026-11-11T13:06:02Z",
+   "g": "Podcasts",
+   "s": "RA Exchange",
+   "sid": "ra-exchange",
+   "sp": "RA Exchange EX.818 Marcel Dettmann",
+   "t": "EX.818 Marcel Dettmann",
+   "u": "https://shows.acast.com/raexchange/episodes/ex818-marcel-dettmann"
+  },
+  {
+   "d": "2026-11-11T13:00:00Z",
+   "g": "Rinse FM",
+   "s": "Eclecticist",
+   "sid": "rinse-eclecticist",
+   "t": "Eclecticist, 11 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/eclecticist-11-11-2026-1300"
+  },
+  {
+   "d": "2026-11-11T11:28:38Z",
+   "g": "Writing",
+   "s": "Inverted Audio",
+   "sid": "inverted-audio",
+   "t": "Florian Kupfer launches Lifetrax imprint with reissue of his L.I.E.S. debut",
+   "u": "https://inverted-audio.com/florian-kupfer-lifetrax/"
+  },
+  {
+   "d": "2026-11-11T10:00:00Z",
+   "g": "triple j",
+   "s": "Prism with tiffi",
+   "sid": "triplej-prism",
+   "t": "Prism: Mowgli May Takeover! <3",
+   "u": "https://www.abc.net.au/triplej/programs/prism/prism-mowgli-may/107353240"
+  },
+  {
+   "d": "2026-11-11T09:23:19Z",
+   "g": "Mixes",
+   "s": "Ilian Tape Podcast Series",
+   "sid": "ilian-tape",
+   "t": "ITPS133 HAVANTEPE",
+   "u": "https://soundcloud.com/ilian-tape/itps133-havantepe"
+  },
+  {
+   "d": "2026-11-11T08:02:45Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "sp": "Flow State Across the Horizon Ep. 74: Jeffrey Silverstein",
+   "t": "Across the Horizon Ep. 74: Jeffrey Silverstein",
+   "u": "https://www.flowstate.fm/p/across-the-horizon-ep-74-jeffrey"
+  },
+  {
+   "d": "2026-11-11T08:00:00Z",
+   "g": "triple j",
+   "s": "Home and Hosed with Anika Luna",
+   "sid": "triplej-home-and-hosed",
+   "t": "Home and Hosed, 11 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107353216"
+  },
+  {
+   "d": "2026-11-11T07:00:00Z",
+   "g": "Podcasts",
+   "s": "Transmissions (Aquarium Drunkard)",
+   "sid": "transmissions",
+   "sp": "Transmissions (Aquarium Drunkard) Transmissions :: Adam Voith",
+   "t": "Transmissions :: Adam Voith",
+   "u": "https://aquariumdrunkard.com/2026/11/11/transmissions-adam-voith/"
+  },
+  {
+   "d": "2026-11-11T06:00:00Z",
+   "g": "Podcasts",
+   "s": "Sound Opinions",
+   "sid": "sound-opinions",
+   "sp": "Sound Opinions A Genre-Defying French Duo",
+   "t": "A Genre-Defying French Duo",
+   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/821c755e-0ffd-43c0-9bf2-60611400067b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
+   "d": "2026-11-11T05:34:40Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Australians are not streaming Australian music. Why the hell not?! | First Dog on the Moon",
+   "u": "https://www.theguardian.com/commentisfree/picture/2026/nov/11/australians-are-not-streaming-australian-music-why-the-hell-not"
+  },
+  {
    "d": "2026-11-10T22:57:02Z",
    "g": "Writing",
    "s": "Tone Glow",
    "sid": "tone-glow",
    "t": "Tone Glow 246: Mary Jane Leach",
    "u": "https://toneglow.substack.com/p/tone-glow-246-mary-jane-leach"
-  },
-  {
-   "d": "2026-11-10T22:19:22Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 10 Nov: 3 records",
-   "u": "https://firstfloor.substack.com/p/popon-7-7"
-  },
-  {
-   "d": "2026-11-10T22:00:20Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Albanese’s love affair with music is on the rocks over AI. Can he write a different tune? | Peter Lewis",
-   "u": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune"
-  },
-  {
-   "d": "2026-11-10T22:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Classic Essential Mix",
-   "sid": "bbc-radio-1s-classic-essential-mix",
-   "t": "TC 2008",
-   "u": "https://www.bbc.co.uk/sounds/play/m0032gnp"
-  },
-  {
-   "d": "2026-11-10T22:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Future Artists with Sian Eleri",
-   "sid": "bbc-radio-1s-future-artists-with-sian-eleri",
-   "t": "The Ultimate Chloe Slater Song!",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033ps2"
-  },
-  {
-   "d": "2026-11-10T21:46:25Z",
-   "g": "Podcasts",
-   "s": "The Quietus Radio",
-   "sid": "quietus-radio",
-   "sp": "The Quietus Radio Low Culture Podcast sampler: Godzilla",
-   "t": "Low Culture Podcast sampler: Godzilla",
-   "u": "https://rss.com/podcasts/the-quietus-radio/3309716"
-  },
-  {
-   "d": "2026-11-10T21:01:17Z",
-   "g": "Writing",
-   "s": "Stereogum: Album of the Week",
-   "sid": "stereogum-aotw",
-   "t": "Album Of The Week: Krill Secret Language",
-   "u": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/"
-  },
-  {
-   "d": "2026-11-10T19:00:40Z",
-   "g": "Progressive",
-   "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
-   "sid": "underground-live-forever",
-   "sp": "Underground Live Forever Episode 049",
-   "t": "Underground Live Forever - ULF049",
-   "u": "https://www.youtube.com/watch?v=tG5sCpnrTcQ"
-  },
-  {
-   "d": "2026-11-10T18:09:35Z",
-   "g": "Radio",
-   "s": "Gilles Peterson (6 Music show)",
-   "sid": "gilles-peterson",
-   "t": "Gilles Peterson - Trick & Treat + Megapia - 31.10.26",
-   "u": "https://soundcloud.com/gillespeterson/gilles-peterson-trick-treat"
-  },
-  {
-   "d": "2026-11-10T16:03:48Z",
-   "g": "Mixes",
-   "s": "Crack Mix",
-   "sid": "crack-mix",
-   "t": "Crack Mix 616: Meg Ward b2b Harry Gay, a.k.a. Mega Gay",
-   "u": "https://soundcloud.com/crackmagazine/meg-ward-hay-gay"
-  },
-  {
-   "d": "2026-11-10T15:55:30Z",
-   "g": "Mixes",
-   "s": "Crack Mix",
-   "sid": "crack-mix",
-   "t": "MEG WARD B2B HARRY GAY AKA MEGA GAY - CRACK",
-   "u": "https://soundcloud.com/crackmagazine/meg-ward-b2b-harry-gay-aka-mega-gay-crack-2"
-  },
-  {
-   "d": "2026-11-10T14:50:23Z",
-   "g": "Progressive",
-   "s": "21C Progressive House",
-   "sid": "21c-progressive",
-   "t": "Imprint Series | Droid9",
-   "u": "https://soundcloud.com/21cprogressivehouse/imprint-series-droid9"
-  },
-  {
-   "d": "2026-11-10T14:35:39Z",
-   "g": "Writing",
-   "s": "Crack Magazine",
-   "sid": "crack-magazine",
-   "t": "RALLY announces first names for 2027, led by Kelela",
-   "u": "https://crackmagazine.net/2026/11/rally-2027-lineup-kelela/?utm_source=rss&utm_medium=rss&utm_campaign=rally-2027-lineup-kelela"
-  },
-  {
-   "d": "2026-11-10T14:00:54Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Australians are streaming more music than ever – but homegrown songs are being skipped",
-   "u": "https://www.theguardian.com/news/ng-interactive/2026/nov/10/australian-music-streaming-songwriters-bands-artists"
-  },
-  {
-   "d": "2026-11-10T12:41:32Z",
-   "g": "Radio",
-   "s": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
-   "sid": "balearic-breakfast",
-   "t": "Colleen 'Cosmo' Murphy's Balearic Breakfast 10.11.26",
-   "u": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261110-095955/"
-  },
-  {
-   "d": "2026-11-10T12:10:08Z",
-   "g": "Writing",
-   "s": "Futurism Restated (Philip Sherburne)",
-   "sid": "futurism-restated",
-   "t": "FR 200: Quiet Scenes and Small Objects",
-   "u": "https://futurismrestated.substack.com/p/fr-200-quiet-scenes-and-small-objects"
-  },
-  {
-   "d": "2026-11-10T12:01:47Z",
-   "g": "Writing",
-   "s": "Inverted Audio",
-   "sid": "inverted-audio",
-   "t": "Ben Kaczor returns to St. Odes with fourth solo album Organ Romance",
-   "u": "https://inverted-audio.com/ben-kaczor-organ-romance/"
-  },
-  {
-   "d": "2026-11-10T12:00:00Z",
-   "g": "triple j",
-   "s": "CORE with Jack Bergin",
-   "sid": "triplej-core",
-   "t": "Nightlight Interview",
-   "u": "https://www.abc.net.au/triplej/programs/core/nightlight-iv/107365448"
-  },
-  {
-   "d": "2026-11-10T11:50:58Z",
-   "g": "Radio",
-   "s": "Gilles Peterson (6 Music show)",
-   "sid": "gilles-peterson",
-   "t": "Gilles Peterson - NAO in Conversation - 24.10.2026",
-   "u": "https://soundcloud.com/gillespeterson/gilles-peterson-nao-in"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 612,
+ "newCount": 632,
  "paused": 22,
  "releases": [
   {
@@ -249,5 +252,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-11T21:30:11Z"
+ "updated": "2026-11-12T01:33:18Z"
 }

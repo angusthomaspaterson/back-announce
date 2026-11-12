@@ -3,6 +3,17 @@
  "id": "triplej-home-and-hosed",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qb/Z/cv.aac",
+   "date": "2026-11-11T08:00:00Z",
+   "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 11 Dec. Tracklist: Clancy – Oh Why; Empress – One By One; aleksiah – Bullshit, Baby!; DEM MOB – Complicated [Ft. Djanaba]; Memphis LK – Are you holding on?; Suzi – Centrelink Summer; Stand Atlantic – NEXT2U; Lime Cordiale – Household Name [Ft. Sydney Symphony Orchestra]; daine – I Used to Kill; effe – Tears Always Burn; Sam Alfred, Luuk Van Dijk & Storm Mollison – Connected By Light; Surely Shirley – Mine! Mine! Mine!; Blusher – mrs brightside; Bored in Florence – MONOCULTURE; Norwood – Radia…",
+   "duration": "7200",
+   "id": "107353216",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e53a18092190656f98b05e2e56c91fe4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Home and Hosed, 11 Nov",
+   "until": "2026-12-11T08:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107353216"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qa/Z/5m.aac",
    "date": "2026-11-10T08:00:00Z",
    "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 10 Dec. Tracklist: Sycco – I've Loved and I've Lost; Youngeste – Right Here With you; Sammi Heaney – Guilty; Cherry Chola – The Pink Room; Stagger – It's All Stars; SOLLYY – FAIR DINKUM [Ft. Breakfast Road, Church, Zion Garcia]; Olivia C. Dacal – Take A Video; Dream Boat – Real!; Newport – everything was fickle [Ft. Arden Jones]; JACOTÉNE – Tell Me (Tell Me I Heard It From My Father); Torren Foot & rhys from the sticks – DANCE; Swapmeet – I Know!; Swapmeet – Mount Zero; Jett Blyton – Omg; Sta…",
@@ -100,20 +111,9 @@
    "title": "Home and Hosed: First Play from Blush",
    "until": "2026-11-26T08:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107294728"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pq/Z/fu.aac",
-   "date": "2026-10-26T08:00:00Z",
-   "desc": "Starting off another week of Home and Hosed, we've got a first platy from Brisbane's Selfish Sons ! Available until 25 Nov. Tracklist: Tobiahs & VV-Ace – Where You Really Come From; Sammi Heaney – Guilty; DRIZZZ & New Machine – SMOKE; Teen Jesus and the Jean Teasers – GO WASTE MY TIME; Selfish Sons – Malibu to Sunset Drive; FUKHED – Hold On; Forest Claudette – Kobe Beef; Old Mervs – Adeline; Annalisa Fernandez – Save My Love; Clancy – Sunshine, You're The Life of the Party; The Avalanches – Every Single Weekend [Ft. Jamie xx]; Cherry Chola – The Pink Room; Stand Atlantic – NEXT2U; Rum Jungle …",
-   "duration": "7200",
-   "id": "107290394",
-   "image": "https://live-production.wcms.abc-cdn.net.au/2844972fa6a3c1ba96927df4abbca22e?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=289&width=862&height=485&imformat=generic",
-   "title": "Home and Hosed: First Play from Selfish Sons",
-   "until": "2026-11-25T08:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107290394"
   }
  ],
  "kind": "abc",
  "name": "Home and Hosed with Anika Luna",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

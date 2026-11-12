@@ -3,6 +3,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2436105303-resident-advisor-ex-818-marcel-dettmann.mp3",
+   "date": "2026-11-11T14:19:19Z",
+   "desc": "The Berghain resident on punk's ethos, choosing the difficult path and his new album, My Own Shadow. Marcel Dettmann has become synonymous with Berghain and its primary cultural export: Berlin techno. He began DJing at Ostgut, Berghain's predecessor, in 1999. When Berghain opened its doors in 2004, he was one of its first residents, on a roster that grew to include luminaries like his longtime collaborator Ben Klock. In this RA Exchange, Dettmann talks about the long road from bedroom DJ to one of techno's leading figures: first falling in love with '80s new wave records, running a record sto…",
+   "duration": "00:49:54",
+   "id": "tag:soundcloud-2010:tracks-2436105303",
+   "image": "https://i1.sndcdn.com/artworks-hXqtueWjCtfLCDzg-p9jx3w-t3000x3000.jpg",
+   "title": "EX.818 Marcel Dettmann",
+   "url": "https://soundcloud.com/resident-advisor/ex-818-marcel-dettmann"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2433288471-resident-advisor-ra-1064-carlita.mp3",
    "date": "2026-11-08T22:00:40Z",
    "desc": "Sun-soaked house from the Circoloco favourite. Want to know what life is like when the sun is always shining? Carlita might be able to tell you. The Istanbul-born DJ follows the summer around the world, and her calendar reads like a festival bucket list: Coachella, Sónar, Tomorrowland and, most often, Circoloco at DC-10. It's also a neat encapsulation of her DJing. One of the biggest names in big-room house, Carlita has a sound that's warm and melodic, often pairing house classics with pop hooks and the odd swell of strings. It's a long way from where she started. Classically trained on the c…",
@@ -11,16 +21,6 @@
    "image": "https://i1.sndcdn.com/artworks-ytLI2lxPkl84uZp9-ckwTxg-t3000x3000.jpg",
    "title": "RA.1064 Carlita",
    "url": "https://soundcloud.com/resident-advisor/ra-1064-carlita"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2432020215-resident-advisor-ex-817-chase-status.mp3",
-   "date": "2026-11-04T12:26:54Z",
-   "desc": "Two decades in, the UK drum & bass duo are still filling stadiums. They talk staying hungry, resisting the algorithm and their eighth album, Generic Everything. In 2003, Saul Milton and Will Kennard of Chase & Status were sending drum & bass demos to their heroes over AOL Instant Messenger. Two decades on, they're among the biggest acts in UK dance music. In 2016, they became the first UK electronic act to headline London's O2 Arena. Their productions have racked up more than two billion streams, and they've sold 2.6 million albums, more than four times as many as drum & bass's next-biggest a…",
-   "duration": "00:56:18",
-   "id": "tag:soundcloud-2010:tracks-2432020215",
-   "image": "https://i1.sndcdn.com/artworks-lk8CUpu420nm8WnT-B7siVQ-t3000x3000.jpg",
-   "title": "EX.817 Chase & Status",
-   "url": "https://soundcloud.com/resident-advisor/ex-817-chase-status"
   },
   {
    "audio": "https://feeds.soundcloud.com/stream/2429380002-resident-advisor-ra-1063-andy-stott.mp3",
@@ -255,5 +255,5 @@
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

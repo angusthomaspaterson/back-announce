@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-11T16:36:29Z",
+   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+   "duration": null,
+   "id": "6af2497075842a00019cd38d",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/11/guitar-3-1.jpg",
+   "title": "Katie Dey on Australia, '90s Indie Rock, and Falling Out of Love with the Computer",
+   "url": "https://last-donut-of-the-night.ghost.io/katie-dey-on-australia-90s-indie-rock-and-falling-out-of-love-with-the-computer/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-10T08:00:00Z",
    "desc": "",
    "duration": null,
@@ -141,19 +151,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/friko2.jpg",
    "title": "Baker's Dozen: Travis Scott, Fetty Wap, Yeat",
    "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-travis-scott-fetty-wap-yeat/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-14T15:22:22Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6ace619724fcaf0001012c39",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/Actress-_LBY_LEAD_CREDIT_AnnaVanDerVelde-1.jpg",
-   "title": "Actress on Persona, Performance, and Musical Paradoxes",
-   "url": "https://last-donut-of-the-night.ghost.io/actress-on-persona-performance-and-musical-paradoxes/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

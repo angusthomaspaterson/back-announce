@@ -3,6 +3,16 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-11-10T00:00:00Z",
+   "desc": "Single on Anjunadeep, out 10 Nov 2026.",
+   "id": "632052-furnace-creek-keep-pretending",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/632052.jpg",
+   "out": "2026-11-10T00:00:00Z",
+   "tags": "Single · Anjunadeep",
+   "title": "Tim Green – Furnace Creek / Keep Pretending",
+   "url": "https://anjunadeep.com/products/632052-furnace-creek-keep-pretending"
+  },
+  {
    "date": "2026-11-09T00:00:00Z",
    "desc": "Single on Anjunachill, out 9 Nov 2026.",
    "id": "631659-sky",
@@ -241,19 +251,9 @@
    "tags": "Single · Anjunadeep Explorations",
    "title": "Rosbeh – Find My Home / Brainbreak",
    "url": "https://anjunadeep.com/products/618501-find-my-home-brainbreak"
-  },
-  {
-   "date": "2026-10-06T00:00:00Z",
-   "desc": "Single on Anjunadeep, out 6 Oct 2026.",
-   "id": "618502-shift-focus",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/618502.jpg",
-   "out": "2026-10-06T00:00:00Z",
-   "tags": "Single · Anjunadeep",
-   "title": "Because of Art feat. Blair – Shift Focus",
-   "url": "https://anjunadeep.com/products/618502-shift-focus"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

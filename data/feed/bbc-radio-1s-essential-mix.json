@@ -113,16 +113,6 @@
    "url": "https://www.bbc.co.uk/sounds/play/m0030xyh"
   },
   {
-   "date": "2026-08-29T22:00:00Z",
-   "desc": "On BBC Sounds until 11 Nov (UK only). Another chance to hear the queen of Spanish techno, Indira Paganotto's 2025 Essential Mix. Produced by BBC Audio for BBC Radio 1.",
-   "duration": "7200",
-   "id": "m002nlrg",
-   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0mn41qn.jpg",
-   "title": "Indira Paganotto",
-   "until": "2026-11-11T01:00:00Z",
-   "url": "https://www.bbc.co.uk/sounds/play/m002nlrg"
-  },
-  {
    "date": "2026-08-29T01:00:00Z",
    "desc": "On BBC Sounds until 18 Nov (UK only). Liverpool's Faster Horses makes his Essential Mix debut. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
@@ -135,5 +125,5 @@
  ],
  "kind": "bbc",
  "name": "Radio 1's Essential Mix",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

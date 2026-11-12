@@ -3,6 +3,16 @@
  "id": "nts-bill-brewster",
  "items": [
   {
+   "date": "2026-11-10T13:00:00Z",
+   "desc": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
+   "id": "bill-brewster-10th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/7e427587-b79c-407c-81b5-bd2afc2b9e07_1794268800.jpeg",
+   "location": "London",
+   "tags": "Balearic House, Deep House, House",
+   "title": "Low Life Loves You w/ Bill Brewster",
+   "url": "https://www.nts.live/shows/bill-brewster/episodes/bill-brewster-10th-november-2026"
+  },
+  {
    "date": "2026-10-13T12:00:00Z",
    "desc": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
    "id": "bill-brewster-13th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "Balearic House, Synth Pop, Classic Disco, Jazz Fusion",
    "title": "Low Life Loves You w/ Bill Brewster",
    "url": "https://www.nts.live/shows/bill-brewster/episodes/bill-brewster-6th-january-2026"
-  },
-  {
-   "date": "2025-12-09T13:00:00Z",
-   "desc": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
-   "id": "bill-brewster-9th-december-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/a06e84cd-b6eb-4c0d-b834-0d4c7e5a84db_1670889600.jpeg",
-   "location": "London",
-   "tags": "Soul, House, Classic Disco",
-   "title": "Low Life Loves You w/ Bill Brewster",
-   "url": "https://www.nts.live/shows/bill-brewster/episodes/bill-brewster-9th-december-2025"
   }
  ],
  "kind": "nts",
  "name": "Low Life Loves You w/ Bill Brewster",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

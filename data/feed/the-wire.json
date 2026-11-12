@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-10T00:00:00Z",
+   "desc": "Watch an exclusive clip of Turkish improv band ZeN’s Bakırköy Psychiatric Hospital concert from 1998 On 23 June 1998, Istanbul based experimental rock group ZeN performed at Bakırköy Psychiatric Hospital, following an invitation from two nurses who worked there. The musicians visited the hospital beforehand and decided to approach the performance with sensitivity to their audience while remaining true to their commitment to improvisation. At times, the lyrics seem to tell the story of the hospital and the concert itself, responding directly to the surroundings. The performance subsequently be…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-video-video-79994",
+   "image": null,
+   "title": "Video: ZeN's Bakırköy Psychiatric Hospital concert, Istanbul, 1998",
+   "url": "https://www.thewire.co.uk/video/video-79994"
+  },
+  {
+   "audio": null,
    "date": "2026-11-09T00:00:00Z",
    "desc": "Popular music criticism can become relevant again by situating itself in broader theoretical frameworks, argues Rafael Lubner in The Wire 514 These are lean times for popular music criticism. Negotiating a gutted publishing landscape, amid a Spotify-led devaluation of listening, the form finds itself under serious threat. One index of criticism’s attenuated state is the narrowing frame of reference employed by critics to apprehend musical objects – rarely do we find new works in the visual arts, film or literature employed to understand transformations in music’s sound or form. Take, as a poi…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/25/Akchamel.jpg",
    "title": "Shane Woolman presents  Adventures In Sound And Music",
    "url": "https://www.thewire.co.uk/audio/on-air/shane-woolman-presents-adventures-in-sound-and-music-79564"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-24T00:00:00Z",
-   "desc": "To complement her interview in The Wire 512, Slovenian improvising pianist and bandleader Kaja Draksler creates an exclusive Wire mix Kaja Draksler studied jazz at a music-oriented high school in Ljubljana, later enrolling at the Conservatory of Amsterdam. There, her instructor, the British composer Richard Ayres, asked her the simple question,“What do you want to do?”, which set her on a path that would chafe against the jazz orthodoxy. In August Punkt.Vrt. Plastik, her long-running trio with Swedish bassist Petter Eldh and German drummer Christian Lillinger, released their fourth album, Kom…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-tracks-wire-mix-kaja-draksler",
-   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/24/LR-Kaja-Draksler-2026-14-fin_crop.jpg",
-   "title": "Wire  mix: Kaja Draksler",
-   "url": "https://www.thewire.co.uk/audio/tracks/wire-mix-kaja-draksler"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

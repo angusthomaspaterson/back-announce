@@ -3,6 +3,16 @@
  "id": "pjenne",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2434695897-pjenne-millu-pjenne-live-at-hopkins.mp3",
+   "date": "2026-11-11T22:45:50Z",
+   "desc": "Millu & Pjenne ~ Live at Hopkins Creek 2026 by Pjenne",
+   "duration": "01:32:54",
+   "id": "tag:soundcloud-2010:tracks-2434695897",
+   "image": "https://i1.sndcdn.com/artworks-eTPD0vkHPvyXAsXK-2LvdwQ-t3000x3000.jpg",
+   "title": "Millu & Pjenne  ~ Live at Hopkins Creek 2026",
+   "url": "https://soundcloud.com/pjenne/millu-pjenne-live-at-hopkins"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2420204727-pjenne-eafhm-pn-394.mp3",
    "date": "2026-10-27T07:20:31Z",
    "desc": "Jorge Echaniz aka Eafhm, is a Mexico City-based producer, DJ and sound designer, and the founder and curator of the non-profit digital label Secuencias Temporales. Moving between sound design, art and techno in its many shades, his work explores the depth of the inner self and the beauty of the natural world, building immersive atmospheres that shift from blissful ambient passages to weighty half-time rhythms and deep, understated techno. With releases on Oslated, Melifera, Indefinite Pitch, Predawn Records, Unheard, Accents Records and Profundo, where he was among the label’s earliest artist…",
@@ -225,5 +235,5 @@
  ],
  "kind": "rss",
  "name": "Pjenne (PBS 106.7) mixes",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

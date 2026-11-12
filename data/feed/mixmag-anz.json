@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-12T00:37:06Z",
+   "desc": "Ahead of his Sydney live debut, the Egyptian-Australian producer is Mixmag ANZ’s latest Cover Artist. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-moktar-cant-outrun-a-shadow",
+   "image": null,
+   "title": "Moktar: Can't outrun a shadow",
+   "url": "https://mixmag.net.au/feature/moktar-cant-outrun-a-shadow"
+  },
+  {
+   "audio": null,
    "date": "2026-11-10T05:22:00Z",
    "desc": "Writer Hugo Hodge explores the impact of diasporic and locally born Latin American artists, speaking to a handful of artists in the community to hear about life and music in the emergent scene. Continue reading...",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "Venue Spotlight: Cuba Street Tavern",
    "url": "https://mixmag.net.au/feature/venue-spotlight-cuba-street-tavern"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-06T03:45:00Z",
-   "desc": "‘Drawing On The Future’ sees the writer and graphic designer compiling two volumes of Boorloo/Perth’s 90s & early 2000s visual identity. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-far-from-everywhere-simon-wrights-archive-of-boorloo-rave-design",
-   "image": null,
-   "title": "Far from everywhere: Simon Wright’s archive of Boorloo rave design",
-   "url": "https://mixmag.net.au/feature/far-from-everywhere-simon-wrights-archive-of-boorloo-rave-design"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

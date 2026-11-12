@@ -3,6 +3,16 @@
  "id": "bbc-radio-1s-classic-essential-mix",
  "items": [
   {
+   "date": "2026-11-11T22:00:00Z",
+   "desc": "On BBC Sounds until 12 Dec (UK only). Relive the sublime 2012 Essential Mix Of the Year from Nicolas Jaar, which mixed Aphex Twin with string quartets, Ricardo Villalobos with Marvin Gaye and had Beyonce unplugged.",
+   "duration": "7200",
+   "id": "m000h87r",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p089bryk.jpg",
+   "title": "Nicolas Jaar 2012",
+   "until": "2026-12-11T22:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m000h87r"
+  },
+  {
    "date": "2026-11-10T22:00:00Z",
    "desc": "On BBC Sounds until 3 Jan (UK only). Relive TC's drum & bass rinse out from 2008.",
    "duration": "7200",
@@ -175,5 +185,5 @@
  ],
  "kind": "bbc",
  "name": "Radio 1's Classic Essential Mix",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

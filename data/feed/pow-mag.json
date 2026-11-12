@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-11T16:59:11Z",
+   "desc": "A few weeks before Elucid and billy woods dropped their surprise album, they spoke exclusively to POW about its creation.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-armand-hammer-snakes-and-ladders-interview-making-of",
+   "image": "https://substackcdn.com/image/fetch/$s_!avRp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6c6e150-b877-4201-856e-d4984d016756_866x876.png",
+   "title": "The Making of Armand Hammer’s Snakes & Ladders",
+   "url": "https://www.powmag.net/p/armand-hammer-snakes-and-ladders-interview-making-of"
+  },
+  {
+   "audio": null,
    "date": "2026-11-10T19:20:31Z",
    "desc": "Matthew Ritchie considers grief, growing old, and A Tribe Called Quest’s final album We got it from Here... Thank You 4 Your service on its ten-year anniversary.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!cnV-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02af9f93-b50e-4e39-a332-f74c5984a5bf_1200x1200.png",
    "title": "Kurtis Blow Remembers It All",
    "url": "https://www.powmag.net/p/kurtis-blow-remembers-it-all-interview-paid-in-full"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-17T16:23:54Z",
-   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Anthony Seaman reviews new work from Gabe ‘Nandez, Draft Day, and the recently arrested Nino Paid.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-somewhere-over-the-rainbow-the-rap-up-nino-paid",
-   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/V8ASadXNlOY",
-   "title": "Somewhere Over the Rainbow",
-   "url": "https://www.powmag.net/p/somewhere-over-the-rainbow-the-rap-up-nino-paid"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }

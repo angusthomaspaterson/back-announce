@@ -3,6 +3,16 @@
  "id": "ra-exchange",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6af4683b7d020b369bbff5df/media.mp3",
+   "date": "2026-11-11T13:06:02Z",
+   "desc": "The Berghain resident on punk's ethos, choosing the difficult path and his new album, My Own Shadow. Marcel Dettmann has become synonymous with Berghain and its primary cultural export: Berlin techno. He began DJing at Ostgut, Berghain's predecessor, in 1999. When Berghain opened its doors in 2004, he was one of its first residents, on a roster that grew to include luminaries like his longtime collaborator Ben Klock. In this RA Exchange, Dettmann talks about the long road from bedroom DJ to one of techno's leading figures: first falling in love with '80s new wave records, running a record sto…",
+   "duration": "49:54",
+   "id": "6af4683b7d020b369bbff5df",
+   "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1794402173121-9a7fe6f0-ebf2-4b3d-9b3c-e6dad624e6af.jpeg",
+   "title": "EX.818 Marcel Dettmann",
+   "url": "https://shows.acast.com/raexchange/episodes/ex818-marcel-dettmann"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6aeb253d651640b48adde6db/media.mp3",
    "date": "2026-11-04T12:29:49Z",
    "desc": "Two decades in, the UK drum & bass duo are still filling stadiums. They talk staying hungry, resisting the algorithm and their eighth album, Generic Everything. In 2003, Saul Milton and Will Kennard of Chase & Status were sending drum & bass demos to their heroes over AOL Instant Messenger. Two decades on, they're among the biggest acts in UK dance music. In 2016, they became the first UK electronic act to headline London's O2 Arena. Their productions have racked up more than two billion streams, and they've sold 2.6 million albums, more than four times as many as drum & bass's next-biggest a…",
@@ -241,19 +251,9 @@
    "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1775647534623-0df15bc9-97e6-4735-893b-4b55fb7b83e6.jpeg",
    "title": "EX.794 Calibre",
    "url": "https://shows.acast.com/raexchange/episodes/ex794-calibre"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/69cd1226ab5d25f9c948e839/media.mp3",
-   "date": "2026-04-01T12:40:05Z",
-   "desc": "The Dutch phenomenon unpacks the myth of overnight success and the story behind his debut album, Lost, Found & Forgotten. They say it takes ten years to become an overnight success, and in the case of this week's guest, that math almost checks out. Born in Leiden, Chris Stussy has been sharpening his tools for over a decade, and in the years since the pandemic, the world has caught onto his sleek, relentlessly groovy strain of house music.   It's been a stratospheric rise for Stussy, culminating in sold-out shows of iconic venues like London's Alexandra Palace, where tickets were gone in a ma…",
-   "duration": "1:05:50",
-   "id": "69cd1226ab5d25f9c948e839",
-   "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1775047173500-2457494e-b0da-450d-814e-1727fcf1cd1f.jpeg",
-   "title": "EX.793 Chris Stussy",
-   "url": "https://shows.acast.com/raexchange/episodes/ex793-chris-stussy"
   }
  ],
  "kind": "rss",
  "name": "RA Exchange",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-12T01:33:18Z"
 }
