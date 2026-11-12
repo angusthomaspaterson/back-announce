@@ -7276,6 +7276,32 @@
    "id": "first-floor",
    "items": [
     {
+     "date": "2026-11-12T12:12:55Z",
+     "desc": "Rhyw – Piranha Pop (Voam) Ralph Chbeir – Familiar Grounds (Ruptured) Mínim – El Pes del Món (Not Not Fun) First Floor #336 – Plenty of Guilt to Go Around",
+     "id": "rollup-2026-11-12",
+     "image": "https://substackcdn.com/image/fetch/$s_!i3mI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb33be64c-0081-490c-bd5a-bc95459838b9_1456x1048.jpeg",
+     "links": [
+      {
+       "t": "Rhyw – Piranha Pop",
+       "u": "https://firstfloor.substack.com/p/rhyw-piranha-pop"
+      },
+      {
+       "t": "Ralph Chbeir – Familiar Grounds",
+       "u": "https://firstfloor.substack.com/p/ralph-chbeir-familiar-grounds"
+      },
+      {
+       "t": "Mínim – El Pes del Món",
+       "u": "https://firstfloor.substack.com/p/minim-el-pes-del-mon"
+      },
+      {
+       "t": "First Floor #336 – Plenty of Guilt to Go Around",
+       "u": "https://firstfloor.substack.com/p/first-floor-336-plenty-of-guilt-to"
+      }
+     ],
+     "title": "First Floor recommendations, 12 Nov: 4 records",
+     "url": "https://firstfloor.substack.com/p/first-floor-336-plenty-of-guilt-to"
+    },
+    {
      "date": "2026-11-10T22:19:22Z",
      "desc": "Jabu – Severn Flood Plain / Where You Run to (Six of Swords) Ottagone – Ottagone.12 (Will & Ink) Popon – 7 / 7 (SFX)",
      "id": "rollup-2026-11-10",
@@ -7392,47 +7418,11 @@
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d994aef4-36cc-44dd-b112-faa62dd1c51d_1456x1048.jpeg",
      "title": "Juan Atkins and the Institutional Failures of American Culture",
      "url": "https://firstfloor.substack.com/p/juan-atkins-and-the-institutional"
-    },
-    {
-     "date": "2026-11-02T09:17:15Z",
-     "desc": "Sub Basics – Wavelengths 2 (Animalia) Fort Romeau – Sunlight (Rawax) Andy Stott – Late Loop (Modern Love)",
-     "id": "rollup-2026-11-02",
-     "image": "https://substackcdn.com/image/fetch/$s_!5H45!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d6f019-d626-4853-8dd1-44be2df1aec8_1456x1048.jpeg",
-     "links": [
-      {
-       "t": "Sub Basics – Wavelengths 2",
-       "u": "https://firstfloor.substack.com/p/sub-basics-wavelengths-2"
-      },
-      {
-       "t": "Fort Romeau – Sunlight",
-       "u": "https://firstfloor.substack.com/p/fort-romeau-sunlight"
-      },
-      {
-       "t": "Andy Stott – Late Loop",
-       "u": "https://firstfloor.substack.com/p/andy-stott-late-loop"
-      }
-     ],
-     "title": "First Floor recommendations, 2 Nov: 3 records",
-     "url": "https://firstfloor.substack.com/p/andy-stott-late-loop"
-    },
-    {
-     "date": "2026-10-29T12:48:15Z",
-     "desc": "First Floor #334 – That Was Probably a Bad Idea",
-     "id": "rollup-2026-10-29",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/a9b46683-b140-4f2c-8a91-3fb6a78f3d49_1456x1048.png",
-     "links": [
-      {
-       "t": "First Floor #334 – That Was Probably a Bad Idea",
-       "u": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
-      }
-     ],
-     "title": "First Floor recommendations, 29 Oct: 1 record",
-     "url": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-11T21:30:11Z"
+   "updatedAt": "2026-11-12T21:30:08Z"
   },
   "flow-state": {
    "home": "https://www.flowstate.fm/",
@@ -7649,6 +7639,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-12T11:03:45Z",
+     "desc": "Rectifying Skin Graft and Homestead erasure, giving Throwing Muses their due, selecting the correct Pixies and Dinosaur Jr. albums, and other dumb hills to die on",
+     "duration": null,
+     "id": "https:--futurismrestated.substack.com-p-fr-201-ten-albums-that-should-have",
+     "image": "https://substackcdn.com/image/fetch/$s_!Epvn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c24531b-d6c3-4350-94ba-982fcb3decee_4032x3024.jpeg",
+     "title": "FR 201: Ten Albums That Should Have Made Pitchfork’s Indie Rock List",
+     "url": "https://futurismrestated.substack.com/p/fr-201-ten-albums-that-should-have"
+    },
+    {
+     "audio": null,
      "date": "2026-11-10T12:10:08Z",
      "desc": "New adventures in ambient from Kali Malone, Jim O’Rourke, Skee Mask & North Americans, and more",
      "duration": null,
@@ -7836,21 +7836,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!rBai!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90f9410a-f6f2-4b24-8c4b-97deb1c2cc74_4032x3024.jpeg",
      "title": "FR 183: Luminous",
      "url": "https://futurismrestated.substack.com/p/fr-183-patio-ambient-basic-channeling"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-07T14:29:51Z",
-     "desc": "Catch up with Topdown Dialectic, GB, Lifted, Smalltown Supersound, and Play Time",
-     "duration": null,
-     "id": "https:--futurismrestated.substack.com-p-a-month-of-interviews-and-a-summer",
-     "image": "https://substackcdn.com/image/fetch/$s_!xalb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1a269b6-316d-4f6f-898e-6d6a468c4fde_7728x5152.jpeg",
-     "title": "A Month of Interviews and a Summer Top 10",
-     "url": "https://futurismrestated.substack.com/p/a-month-of-interviews-and-a-summer"
     }
    ],
    "kind": "rss",
    "name": "Futurism Restated (Philip Sherburne)",
-   "updatedAt": "2026-11-10T21:30:08Z"
+   "updatedAt": "2026-11-12T21:30:08Z"
   },
   "gai-barone-patterns": {
    "home": "https://soundcloud.com/gaibarone",
@@ -11401,6 +11391,16 @@
    "id": "loud-and-quiet",
    "items": [
     {
+     "audio": "https://api.substack.com/feed/podcast/224511084/71d9701245fa3e8b6bf7d63a648ac76b.mp3",
+     "date": "2026-11-12T00:01:09Z",
+     "desc": "Music billionaires, too",
+     "duration": null,
+     "id": "https:--loudandquiet.substack.com-p-roundtable-podcast-fontaines-dc-fine",
+     "image": "https://substackcdn.com/image/fetch/$s_!GV2u!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F493ca872-79ef-4d96-83c9-13be2c82c3d6_1400x1400.png",
+     "title": "Roundtable podcast: Fontaines D.C., Fine, @, and Jay-Z picking himself for the Super Bowl",
+     "url": "https://loudandquiet.substack.com/p/roundtable-podcast-fontaines-dc-fine"
+    },
+    {
      "audio": null,
      "date": "2026-11-09T17:31:13Z",
      "desc": "As she releases the remarkable No Human Tongue Can Tell, the Dublin singer and member of Lankum discusses the enduring power of traditional music",
@@ -11589,21 +11589,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!5Yt2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0047d8e3-a313-4e8b-aebd-36a8ac99c765_2000x1326.jpeg",
      "title": "Such an ugly place: livin’ it up at Protomartyr’s Hotel Usona",
      "url": "https://loudandquiet.substack.com/p/such-an-ugly-place-livin-it-up-at-protomartyrs-hotel-usona"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-29T16:00:43Z",
-     "desc": "To buy or not: your guide to this month’s upcoming albums",
-     "duration": null,
-     "id": "https:--loudandquiet.substack.com-p-album-stock-market-what-records-to-invest-in-this-october",
-     "image": "https://substackcdn.com/image/fetch/$s_!-DB3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa55f4e01-9029-4dcb-9e2c-1191a80e523e_1500x1002.gif",
-     "title": "Album stock market: what records to invest in this October",
-     "url": "https://loudandquiet.substack.com/p/album-stock-market-what-records-to-invest-in-this-october"
     }
    ],
    "kind": "rss",
    "name": "Loud And Quiet",
-   "updatedAt": "2026-11-09T21:30:07Z"
+   "updatedAt": "2026-11-12T21:30:08Z"
   },
   "love-is-the-message": {
    "home": "https://loveisthemessagepod.co.uk/",
@@ -34226,6 +34216,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-12T18:58:37Z",
+     "desc": "An interview with the best rap duo today about cooking, their families, and their new album ‘Snakes & Ladders’",
+     "duration": null,
+     "id": "https:--toneglow.substack.com-p-tone-glow-247-armand-hammer-billy-woods-elucid",
+     "image": "https://substackcdn.com/image/fetch/$s_!4wgO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50f68794-675b-4e8e-a7ab-b1e57c95d128_3776x2832.jpeg",
+     "title": "Tone Glow 247: Armand Hammer (billy woods & ELUCID)",
+     "url": "https://toneglow.substack.com/p/tone-glow-247-armand-hammer-billy-woods-elucid"
+    },
+    {
+     "audio": null,
      "date": "2026-11-11T15:17:16Z",
      "desc": "An interview with the Thai director about growing up watching bootlegged films, cold-calling Apichatpong Weerasethakul, and his new narrative feature film ‘9 Temples to Heaven’ (2026)",
      "duration": null,
@@ -34413,21 +34413,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!lv0v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F171d6de0-a548-4f85-a8fb-d0138a2ced70_3500x2783.jpeg",
      "title": "Tone Glow 235: keiyaA",
      "url": "https://toneglow.substack.com/p/tone-glow-235-keiyaa"
-    },
-    {
-     "audio": null,
-     "date": "2026-08-14T18:37:30Z",
-     "desc": "An interview with the Motown singer about childhood memories, the artists who inspired her, and the stories that shaped her new album 'Searching'",
-     "duration": null,
-     "id": "https:--toneglow.substack.com-p-tone-glow-234-martha-reeves",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/11cabc62-c0d4-4e66-8083-4bfb6dc27f1f_1793x838.jpeg",
-     "title": "Tone Glow 234: Martha Reeves",
-     "url": "https://toneglow.substack.com/p/tone-glow-234-martha-reeves"
     }
    ],
    "kind": "rss",
    "name": "Tone Glow",
-   "updatedAt": "2026-11-11T21:30:11Z"
+   "updatedAt": "2026-11-12T21:30:08Z"
   },
   "transitions": {
    "home": "https://www.mixcloud.com/JohnDigweed/",
@@ -38020,7 +38010,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-12T01:33:18Z",
+  "lastRun": "2026-11-12T21:30:08Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-12T01:33:18Z",
@@ -38225,7 +38215,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 20,
     "newest": "2026-11-03T18:22:41Z",
     "ok": true
@@ -38279,7 +38269,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -38297,9 +38287,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-11T21:30:11Z",
-    "count": 9,
-    "newest": "2026-11-10T22:19:22Z",
+    "at": "2026-11-12T21:30:08Z",
+    "count": 8,
+    "newest": "2026-11-12T12:12:55Z",
     "ok": true
    },
    "flow-state": {
@@ -38309,9 +38299,9 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 20,
-    "newest": "2026-11-10T12:10:08Z",
+    "newest": "2026-11-12T11:03:45Z",
     "ok": true
    },
    "gai-barone-patterns": {
@@ -38351,7 +38341,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 20,
     "newest": "2026-11-08T13:44:53Z",
     "ok": true
@@ -38411,9 +38401,9 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 20,
-    "newest": "2026-11-09T17:31:13Z",
+    "newest": "2026-11-12T00:01:09Z",
     "ok": true
    },
    "love-is-the-message": {
@@ -38453,7 +38443,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -39174,7 +39164,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 20,
     "newest": "2026-11-08T14:51:00Z",
     "ok": true
@@ -39186,7 +39176,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 20,
     "newest": "2026-11-09T13:31:45Z",
     "ok": true
@@ -39204,9 +39194,9 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 20,
-    "newest": "2026-11-11T15:17:16Z",
+    "newest": "2026-11-12T18:58:37Z",
     "ok": true
    },
    "transitions": {
@@ -39294,7 +39284,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-11T21:30:11Z",
+    "at": "2026-11-12T21:30:08Z",
     "count": 8,
     "newest": "2026-11-10T19:00:40Z",
     "ok": true

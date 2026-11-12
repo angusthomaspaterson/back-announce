@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-12T18:58:37Z",
+   "desc": "An interview with the best rap duo today about cooking, their families, and their new album ‘Snakes & Ladders’",
+   "duration": null,
+   "id": "https:--toneglow.substack.com-p-tone-glow-247-armand-hammer-billy-woods-elucid",
+   "image": "https://substackcdn.com/image/fetch/$s_!4wgO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50f68794-675b-4e8e-a7ab-b1e57c95d128_3776x2832.jpeg",
+   "title": "Tone Glow 247: Armand Hammer (billy woods & ELUCID)",
+   "url": "https://toneglow.substack.com/p/tone-glow-247-armand-hammer-billy-woods-elucid"
+  },
+  {
+   "audio": null,
    "date": "2026-11-11T15:17:16Z",
    "desc": "An interview with the Thai director about growing up watching bootlegged films, cold-calling Apichatpong Weerasethakul, and his new narrative feature film ‘9 Temples to Heaven’ (2026)",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!lv0v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F171d6de0-a548-4f85-a8fb-d0138a2ced70_3500x2783.jpeg",
    "title": "Tone Glow 235: keiyaA",
    "url": "https://toneglow.substack.com/p/tone-glow-235-keiyaa"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-14T18:37:30Z",
-   "desc": "An interview with the Motown singer about childhood memories, the artists who inspired her, and the stories that shaped her new album 'Searching'",
-   "duration": null,
-   "id": "https:--toneglow.substack.com-p-tone-glow-234-martha-reeves",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/11cabc62-c0d4-4e66-8083-4bfb6dc27f1f_1793x838.jpeg",
-   "title": "Tone Glow 234: Martha Reeves",
-   "url": "https://toneglow.substack.com/p/tone-glow-234-martha-reeves"
   }
  ],
  "kind": "rss",
  "name": "Tone Glow",
- "updatedAt": "2026-11-11T21:30:11Z"
+ "updatedAt": "2026-11-12T21:30:08Z"
 }

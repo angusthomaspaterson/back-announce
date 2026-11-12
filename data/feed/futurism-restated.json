@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-12T11:03:45Z",
+   "desc": "Rectifying Skin Graft and Homestead erasure, giving Throwing Muses their due, selecting the correct Pixies and Dinosaur Jr. albums, and other dumb hills to die on",
+   "duration": null,
+   "id": "https:--futurismrestated.substack.com-p-fr-201-ten-albums-that-should-have",
+   "image": "https://substackcdn.com/image/fetch/$s_!Epvn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c24531b-d6c3-4350-94ba-982fcb3decee_4032x3024.jpeg",
+   "title": "FR 201: Ten Albums That Should Have Made Pitchfork’s Indie Rock List",
+   "url": "https://futurismrestated.substack.com/p/fr-201-ten-albums-that-should-have"
+  },
+  {
+   "audio": null,
    "date": "2026-11-10T12:10:08Z",
    "desc": "New adventures in ambient from Kali Malone, Jim O’Rourke, Skee Mask & North Americans, and more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!rBai!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90f9410a-f6f2-4b24-8c4b-97deb1c2cc74_4032x3024.jpeg",
    "title": "FR 183: Luminous",
    "url": "https://futurismrestated.substack.com/p/fr-183-patio-ambient-basic-channeling"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-07T14:29:51Z",
-   "desc": "Catch up with Topdown Dialectic, GB, Lifted, Smalltown Supersound, and Play Time",
-   "duration": null,
-   "id": "https:--futurismrestated.substack.com-p-a-month-of-interviews-and-a-summer",
-   "image": "https://substackcdn.com/image/fetch/$s_!xalb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1a269b6-316d-4f6f-898e-6d6a468c4fde_7728x5152.jpeg",
-   "title": "A Month of Interviews and a Summer Top 10",
-   "url": "https://futurismrestated.substack.com/p/a-month-of-interviews-and-a-summer"
   }
  ],
  "kind": "rss",
  "name": "Futurism Restated (Philip Sherburne)",
- "updatedAt": "2026-11-10T21:30:08Z"
+ "updatedAt": "2026-11-12T21:30:08Z"
 }

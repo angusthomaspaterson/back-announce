@@ -3,6 +3,16 @@
  "id": "loud-and-quiet",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/224511084/71d9701245fa3e8b6bf7d63a648ac76b.mp3",
+   "date": "2026-11-12T00:01:09Z",
+   "desc": "Music billionaires, too",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-roundtable-podcast-fontaines-dc-fine",
+   "image": "https://substackcdn.com/image/fetch/$s_!GV2u!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F493ca872-79ef-4d96-83c9-13be2c82c3d6_1400x1400.png",
+   "title": "Roundtable podcast: Fontaines D.C., Fine, @, and Jay-Z picking himself for the Super Bowl",
+   "url": "https://loudandquiet.substack.com/p/roundtable-podcast-fontaines-dc-fine"
+  },
+  {
    "audio": null,
    "date": "2026-11-09T17:31:13Z",
    "desc": "As she releases the remarkable No Human Tongue Can Tell, the Dublin singer and member of Lankum discusses the enduring power of traditional music",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!5Yt2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0047d8e3-a313-4e8b-aebd-36a8ac99c765_2000x1326.jpeg",
    "title": "Such an ugly place: livin’ it up at Protomartyr’s Hotel Usona",
    "url": "https://loudandquiet.substack.com/p/such-an-ugly-place-livin-it-up-at-protomartyrs-hotel-usona"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-29T16:00:43Z",
-   "desc": "To buy or not: your guide to this month’s upcoming albums",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-album-stock-market-what-records-to-invest-in-this-october",
-   "image": "https://substackcdn.com/image/fetch/$s_!-DB3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa55f4e01-9029-4dcb-9e2c-1191a80e523e_1500x1002.gif",
-   "title": "Album stock market: what records to invest in this October",
-   "url": "https://loudandquiet.substack.com/p/album-stock-market-what-records-to-invest-in-this-october"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-11-09T21:30:07Z"
+ "updatedAt": "2026-11-12T21:30:08Z"
 }

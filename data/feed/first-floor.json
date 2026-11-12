@@ -3,6 +3,32 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-11-12T12:12:55Z",
+   "desc": "Rhyw – Piranha Pop (Voam) Ralph Chbeir – Familiar Grounds (Ruptured) Mínim – El Pes del Món (Not Not Fun) First Floor #336 – Plenty of Guilt to Go Around",
+   "id": "rollup-2026-11-12",
+   "image": "https://substackcdn.com/image/fetch/$s_!i3mI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb33be64c-0081-490c-bd5a-bc95459838b9_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "Rhyw – Piranha Pop",
+     "u": "https://firstfloor.substack.com/p/rhyw-piranha-pop"
+    },
+    {
+     "t": "Ralph Chbeir – Familiar Grounds",
+     "u": "https://firstfloor.substack.com/p/ralph-chbeir-familiar-grounds"
+    },
+    {
+     "t": "Mínim – El Pes del Món",
+     "u": "https://firstfloor.substack.com/p/minim-el-pes-del-mon"
+    },
+    {
+     "t": "First Floor #336 – Plenty of Guilt to Go Around",
+     "u": "https://firstfloor.substack.com/p/first-floor-336-plenty-of-guilt-to"
+    }
+   ],
+   "title": "First Floor recommendations, 12 Nov: 4 records",
+   "url": "https://firstfloor.substack.com/p/first-floor-336-plenty-of-guilt-to"
+  },
+  {
    "date": "2026-11-10T22:19:22Z",
    "desc": "Jabu – Severn Flood Plain / Where You Run to (Six of Swords) Ottagone – Ottagone.12 (Will & Ink) Popon – 7 / 7 (SFX)",
    "id": "rollup-2026-11-10",
@@ -119,45 +145,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/d994aef4-36cc-44dd-b112-faa62dd1c51d_1456x1048.jpeg",
    "title": "Juan Atkins and the Institutional Failures of American Culture",
    "url": "https://firstfloor.substack.com/p/juan-atkins-and-the-institutional"
-  },
-  {
-   "date": "2026-11-02T09:17:15Z",
-   "desc": "Sub Basics – Wavelengths 2 (Animalia) Fort Romeau – Sunlight (Rawax) Andy Stott – Late Loop (Modern Love)",
-   "id": "rollup-2026-11-02",
-   "image": "https://substackcdn.com/image/fetch/$s_!5H45!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d6f019-d626-4853-8dd1-44be2df1aec8_1456x1048.jpeg",
-   "links": [
-    {
-     "t": "Sub Basics – Wavelengths 2",
-     "u": "https://firstfloor.substack.com/p/sub-basics-wavelengths-2"
-    },
-    {
-     "t": "Fort Romeau – Sunlight",
-     "u": "https://firstfloor.substack.com/p/fort-romeau-sunlight"
-    },
-    {
-     "t": "Andy Stott – Late Loop",
-     "u": "https://firstfloor.substack.com/p/andy-stott-late-loop"
-    }
-   ],
-   "title": "First Floor recommendations, 2 Nov: 3 records",
-   "url": "https://firstfloor.substack.com/p/andy-stott-late-loop"
-  },
-  {
-   "date": "2026-10-29T12:48:15Z",
-   "desc": "First Floor #334 – That Was Probably a Bad Idea",
-   "id": "rollup-2026-10-29",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/a9b46683-b140-4f2c-8a91-3fb6a78f3d49_1456x1048.png",
-   "links": [
-    {
-     "t": "First Floor #334 – That Was Probably a Bad Idea",
-     "u": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
-    }
-   ],
-   "title": "First Floor recommendations, 29 Oct: 1 record",
-   "url": "https://firstfloor.substack.com/p/first-floor-334-that-was-probably"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-11T21:30:11Z"
+ "updatedAt": "2026-11-12T21:30:08Z"
 }
