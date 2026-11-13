@@ -4,7 +4,17 @@
  "items": [
   {
    "audio": null,
-   "date": "2026-11-12T00:37:06Z",
+   "date": "2026-11-12T04:47:00Z",
+   "desc": "Ahead of its 17th year on the banks of the Murray, we speak with the people behind Strawberry's waste, rewash & campground crews about why looking after a site takes everyone on it. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-how-strawberry-fields-leaves-its-surroundings-better-off",
+   "image": null,
+   "title": "How Strawberry Fields leaves its surroundings better off",
+   "url": "https://mixmag.net.au/feature/how-strawberry-fields-leaves-its-surroundings-better-off"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-12T00:37:00Z",
    "desc": "Ahead of his Sydney live debut, the Egyptian-Australian producer is Mixmag ANZ’s latest Cover Artist. Continue reading...",
    "duration": null,
    "id": "https:--mixmag.net.au-feature-moktar-cant-outrun-a-shadow",
@@ -241,19 +251,9 @@
    "image": null,
    "title": "Soul Wun: Finding Greatness In Madness",
    "url": "https://mixmag.net.au/feature/soul-wun-finding-greatness-in-madness"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-06T23:22:17Z",
-   "desc": "Martyn Pepperell explores the fabric of one of Te Whanganui-a-Tara's favourite inter-generational meeting spaces. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-venue-spotlight-cuba-street-tavern",
-   "image": null,
-   "title": "Venue Spotlight: Cuba Street Tavern",
-   "url": "https://mixmag.net.au/feature/venue-spotlight-cuba-street-tavern"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }

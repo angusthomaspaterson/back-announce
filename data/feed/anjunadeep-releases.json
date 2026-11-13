@@ -3,6 +3,26 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-11-13T00:00:00Z",
+   "desc": "Album on Anjunadeep, out 13 Nov 2026.",
+   "id": "610831-because-of-art",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/610831.jpg",
+   "out": "2026-11-13T00:00:00Z",
+   "tags": "Album · Anjunadeep",
+   "title": "Because of Art – Because of Art",
+   "url": "https://anjunadeep.com/products/610831-because-of-art"
+  },
+  {
+   "date": "2026-11-11T00:00:00Z",
+   "desc": "Single on Anjunadeep Explorations, out 11 Nov 2026.",
+   "id": "631662-show-you",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/631662.jpg",
+   "out": "2026-11-11T00:00:00Z",
+   "tags": "Single · Anjunadeep Explorations",
+   "title": "Rromarin – Show You",
+   "url": "https://anjunadeep.com/products/631662-show-you"
+  },
+  {
    "date": "2026-11-10T00:00:00Z",
    "desc": "Single on Anjunadeep, out 10 Nov 2026.",
    "id": "632052-furnace-creek-keep-pretending",
@@ -183,16 +203,6 @@
    "url": "https://anjunadeep.com/products/622289-alternate-futures"
   },
   {
-   "date": "2026-10-14T03:26:15Z",
-   "desc": "Album on Anjunadeep, out 13 Nov 2026.",
-   "id": "610831-because-of-art",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/610831.jpg",
-   "out": "2026-11-13T00:00:00Z",
-   "tags": "Album · Anjunadeep",
-   "title": "Because of Art – Because of Art",
-   "url": "https://anjunadeep.com/products/610831-because-of-art"
-  },
-  {
    "date": "2026-10-14T00:00:00Z",
    "desc": "Single on Anjunadeep Explorations, out 14 Oct 2026.",
    "id": "621098-coda-golden-hour",
@@ -241,19 +251,9 @@
    "tags": "Album · Anjunachill",
    "title": "Planet Of Souls – Lumiere (Remixed)",
    "url": "https://anjunadeep.com/products/618503-lumiere-remixed"
-  },
-  {
-   "date": "2026-10-07T00:00:00Z",
-   "desc": "Single on Anjunadeep Explorations, out 7 Oct 2026.",
-   "id": "618501-find-my-home-brainbreak",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/618501.jpg",
-   "out": "2026-10-07T00:00:00Z",
-   "tags": "Single · Anjunadeep Explorations",
-   "title": "Rosbeh – Find My Home / Brainbreak",
-   "url": "https://anjunadeep.com/products/618501-find-my-home-brainbreak"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }

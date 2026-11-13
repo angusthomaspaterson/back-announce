@@ -3,6 +3,16 @@
  "id": "in-our-headphones",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/b9964d9b-413a-4a66-a714-b4fe01242391/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
+   "date": "2026-11-12T08:00:00Z",
+   "desc": "Host Evie Stokes sits down again with one of KEXP’s newest DJs, Gita Bird, to talk about the music that’s moving them right now. This time, Gita shares a song from Korean pop group LEENALCHI. Gita talks about coming across the band through KEXP, seeing them live, and why the band is thrilling audiences across the world. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headpho…",
+   "duration": "550",
+   "id": "b9964d9b-413a-4a66-a714-b4fe01242391",
+   "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
+   "title": "KEXP DJ Gita Bird on the Exciting Sounds of LEENALCHI",
+   "url": "https://omny.fm/shows/kexp-song-of-the-day/kexp-dj-gita-bird-on-the-exciting-sounds-of-leenalchi"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/567dc0f1-0cb7-4774-9984-b4fd01406aaa/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
    "date": "2026-11-10T08:00:00Z",
    "desc": "Host Evie Stokes sits down with one of KEXP’s newest DJs, Gita Bird, to talk about the music that’s moving them right now. Gita talks about growing up with KEXP, absorbing their mom’s music taste, and why they’re loving the latest batch of demos from Seattle artist Nat Meek, including Gita’s selection, “cowboy song.” Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones…",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/790e2bbc-30c1-40cd-a359-b4b0011d0b9b/image.jpg?t=1787700106&size=Large",
    "title": "Arlo Parks on the Magic of Chanel Beads",
    "url": "https://omny.fm/shows/kexp-song-of-the-day/arlo-parks-on-the-magic-of-chanel-beads"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/302b24a9-3a1a-45ba-af84-b4aa0111e10f/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-   "date": "2026-08-20T07:00:00Z",
-   "desc": "Host Evie Stokes sits down again with Seattle and Colorado-based band Packaging to talk about the music that’s moving them. This time they’re paying tribute to their peers in the Denver project Cindygod. The two bandmates discuss working with Cindygod on their own music, but also the inspiration they take from their friend and their songwriting/production wizardry.  Produced by Dusty Henry Mastered by: William Myers Production support: Serafima Healy Listen to the full songs on KEXP's \" In Our Headphones \" playlist on Spotify or the “ What's In Our Headphones ” playlist on YouTube. Support th…",
-   "duration": "495",
-   "id": "302b24a9-3a1a-45ba-af84-b4aa0111e10f",
-   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/302b24a9-3a1a-45ba-af84-b4aa0111e10f/image.jpg?t=1787187854&size=Large",
-   "title": "Packaging on Cindygod’s Godlike Production",
-   "url": "https://omny.fm/shows/kexp-song-of-the-day/packaging-on-cindygod-s-godlike-production"
   }
  ],
  "kind": "rss",
  "name": "KEXP: In Our Headphones",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }

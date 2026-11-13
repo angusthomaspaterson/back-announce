@@ -3,6 +3,16 @@
  "id": "spectrum-radio",
  "items": [
   {
+   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_498__Joris_Voorn_sc.mp3?dest-id=504876",
+   "date": "2026-11-12T12:16:00Z",
+   "desc": "Live from Motorworld, Mallorca",
+   "duration": "01:01:13",
+   "id": "b9b03e43-2dd4-4a0a-9bf6-89397c63da05",
+   "image": "https://static.libsyn.com/p/assets/5/c/1/7/5c172dbc94ec61bea04421dee9605cbd/Spectrum_Radio_498.jpg",
+   "title": "Spectrum Radio 498",
+   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-498"
+  },
+  {
    "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_497__Joris_Voorn_sc.mp3?dest-id=504876",
    "date": "2026-11-05T15:43:00Z",
    "desc": "Live from Spectrum x Awakenings ADE",
@@ -241,19 +251,9 @@
    "image": "https://static.libsyn.com/p/assets/b/5/7/e/b57e56dfe87702d8d959afa2a1bf1c87/Spectrum_Radio_474.jpg",
    "title": "Spectrum Radio 474",
    "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-474"
-  },
-  {
-   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_473__Joris_Voorn_sc.mp3?dest-id=504876",
-   "date": "2026-05-21T13:42:00Z",
-   "desc": "Guestmix: Goodboys",
-   "duration": "01:00:07",
-   "id": "24852442-706c-4f80-ae7a-ff5b71f639a7",
-   "image": "https://static.libsyn.com/p/assets/7/c/0/1/7c01bb256c0b5090d959afa2a1bf1c87/Spectrum_Radio_473.jpg",
-   "title": "Spectrum Radio 473",
-   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-473"
   }
  ],
  "kind": "rss",
  "name": "Joris Voorn: Spectrum Radio",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }

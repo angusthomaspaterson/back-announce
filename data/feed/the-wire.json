@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-12T00:00:00Z",
+   "desc": "To accompany his Global Ear feature in The Wire 514, Simon Coates compiles an annotated playlist of tracks from the Sri Lankan city Situated on Colombo’s Vauxhall Street, Musicmatters sits at the centre of the Sri Lankan city's experimental music world. “A lot of my introduction to experimentation in music came through Musicmatters around 2010,” says bass player Uvindu Perera. “I was new to it then, but these people were already listening widely and sharing references.” Simultaneously a collective, a school (Perera now teaches there), a record label and home to the Sound Room performance spac…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-tracks-global-ear-colombo",
+   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/11/12/Baliphonics_-_image_2_1_for_web.jpg",
+   "title": "Global Ear: Colombo",
+   "url": "https://www.thewire.co.uk/audio/tracks/global-ear-colombo"
+  },
+  {
+   "audio": null,
    "date": "2026-11-10T00:00:00Z",
    "desc": "Watch an exclusive clip of Turkish improv band ZeN’s Bakırköy Psychiatric Hospital concert from 1998 On 23 June 1998, Istanbul based experimental rock group ZeN performed at Bakırköy Psychiatric Hospital, following an invitation from two nurses who worked there. The musicians visited the hospital beforehand and decided to approach the performance with sensitivity to their audience while remaining true to their commitment to improvisation. At times, the lyrics seem to tell the story of the hospital and the concert itself, responding directly to the surroundings. The performance subsequently be…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/481/480/2026/09/30/WT72_Artwork-TH-LT-TH.jpg",
    "title": "The Wire Tapper  72",
    "url": "https://www.thewire.co.uk/audio/the-wire-tapper/the-wire-tapper-72"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-24T00:00:00Z",
-   "desc": "The 24 September edition of The Wire 's weekly show on Resonance FM and Resonance Extra featured a guest mix by Ak'chamel, The Giver of Illness, plus music by Harju, Joni Mitchell, Bill Orcutt and more Tracklist Baile Entero with Xavi Lozano “Respiro 3” From Baile Entero ( Lovemonk ) Harju “Marinolkyyhkysten tanssi” From Verikyyhky (Original Graphic Novel Soundtrack) ( Svart ) Dur-Dur Band “Is Yeel Yeel (Stop Pretending)” From Dur-Dur Band – Volume 3 (1988) & Volume 4 (1989) ( Analog Africa ) Upsetters “V/S Panta Rock” From Upsetters 14 Dub Black Board Jungle ( Week-End ) Joni Mitchell “The J…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-on-air-shane-woolman-presents-adventures-in-sound-and-music-79564",
-   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/09/25/Akchamel.jpg",
-   "title": "Shane Woolman presents  Adventures In Sound And Music",
-   "url": "https://www.thewire.co.uk/audio/on-air/shane-woolman-presents-adventures-in-sound-and-music-79564"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }

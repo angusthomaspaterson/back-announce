@@ -3,6 +3,17 @@
  "id": "triplej-hip-hop-show",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qc/Z/lv.aac",
+   "date": "2026-11-12T10:00:00Z",
+   "desc": "Go underground and all over town to source the best local and international hip hop. Available until 12 Dec. Tracklist: Radistarz – SEEN IT ALL/ WORD IS BOND; Rops1 – Flow Switcher; DHEM, RNBKT & Shoo Isamiza – FINE SHH [feat. TRULAH MAFIA]; The 046 – Never Fall; Brazen Brabie – Cut Sick [Ft. thatboykwame]; AMARNI – DROWNIN; SAHXL – REMARKABLE; Kerser – Effortless; Sampa The Great – Canary; Nerve, Kobie Dee & Barkaa – Bad Company; ONEFOUR – Home and Away; Trae Monte – 3 For 3; That Kid Kearve – one hit wonder; Miles Nautu – wrath of cain; Kase Avila – Stay Blessed [feat. YIBBY & Remy Banks]; …",
+   "duration": "7200",
+   "id": "107358488",
+   "image": "https://live-production.wcms.abc-cdn.net.au/0e63c4c13e63f11d98bff427e1e9f8de?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Hip Hop Show, 12 Nov",
+   "until": "2026-12-12T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107358488"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q5/Z/f8.aac",
    "date": "2026-11-05T10:00:00Z",
    "desc": "Go underground and all over town to source the best local and international hip hop. Available until 5 Dec. Tracklist: Gatti – Homicidal speakings; Jane Handcock – Like My Weed; Lil Durk – No Interviews; Hooligan Hefs – Balance; Church & AP – Ready or Not; MADRE – p4rtyn3xtd00r; Masi Rooc X Hooligan Hefs – Who’s Real; Ll Cool J – Hey Lover; Bryson Tiller – Somethin Tells Me; Megan Thee Stallion – Thin Ice; Yung Milla – Lethal; J Hus – Triumph; Rick Ross – Here I Am [Ft. Nelly, Avery Storm]; TAKTiX & VV-Ace – Lil Bro; Yung Maynie – Dangerous; Miko Mal – Swords and Daggers; Snoop Dogg – Leave T…",
@@ -34,20 +45,9 @@
    "title": "Hip Hop Show, 22 Oct",
    "until": "2026-11-21T10:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107278320"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pf/Z/m3.aac",
-   "date": "2026-10-15T10:00:00Z",
-   "desc": "Go underground and all over town to source the best local and international hip hop. Available until 14 Nov. Tracklist: Noodah05 – Around Me; Offset – Every Night [feat. Don Toliver]; Rich Homie Quan – GIA; Gunna – pop it; Cutthroat Mode – Connected [feat. A Dough & Rob Lo]; Tee Grizzley – First Day Out; Rio Da Yung Og & Trippie Redd – Laced Blunts; BigXthaPlug & Ava Max – BURN; Meek Mill – Dreams and Nightmares; Yung Miami – F You; YoungBoy Never Broke Again – Calling From Rio; Benny the Butcher & J. Cole – Johnny P's Caddy; Freddie Gibbs & The Alchemist – God Is Perfect; Digga – Girls All A…",
-   "duration": "7200",
-   "id": "107250324",
-   "image": "https://live-production.wcms.abc-cdn.net.au/0e63c4c13e63f11d98bff427e1e9f8de?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
-   "title": "Hip Hop Show, 15 Oct",
-   "until": "2026-11-14T10:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107250324"
   }
  ],
  "kind": "abc",
  "name": "Hip Hop Show with A.Girl",
- "updatedAt": "2026-11-06T14:02:47Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }

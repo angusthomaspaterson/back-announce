@@ -3,6 +3,16 @@
  "id": "rtr2",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2407399650-rtrfm-92-1-50-years-of-rrr-in-melbourne-w-small-fry.mp3",
+   "date": "2026-11-12T02:00:14Z",
+   "desc": "November on RTR2 features Triple R as they celebrate 50 years in Naarm/Melbourne. This episode features Small FRY, who is a DJ and radio presenter of the show Mooncake. She brings to you a wonky and eclectic selection of Asian and Asian-Australian producers in left field pop, experimental and electronica. Listen to Mooncake in Triple R every Wednesday night/Thursday morning.",
+   "duration": "00:58:46",
+   "id": "tag:soundcloud-2010:tracks-2407399650",
+   "image": "https://i1.sndcdn.com/artworks-PhPfMyJDCdUavWY0-Uw9pwQ-t3000x3000.jpg",
+   "title": "50 Years of RRR in Melbourne w/ Small FRY",
+   "url": "https://soundcloud.com/rtrfm-92-1/50-years-of-rrr-in-melbourne-w-small-fry"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2423707587-rtrfm-92-1-airline-food-coast-to-coast-ep-1-jack-seah.mp3",
    "date": "2026-11-07T02:00:40Z",
    "desc": "Perth’s psychedelic-pop sweeties Airline Food have taken over the RTR2 airwaves with their four-episode residency Coast to Coast, each ep programmed by a different band member. This first edition of AF Coast 2 Coast comes from Jack Seah. “It’s somewhat of a soundtrack of the past year I've had from moving across from Perth to Melbourne. They have all been massive favourites of mine and all remind me of all my new and old friends, the Hope St crew and also Bede and Ella. I hope you enjoy the music.\"",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-rBV0kxNnZlddcnBC-xfSnkQ-t3000x3000.png",
    "title": "Desert Frog Dub Triptych Ep. 3 w/ Britt Bro",
    "url": "https://soundcloud.com/rtrfm-92-1/desert-frog-dub-triptych-ep-3"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2331823586-rtrfm-92-1-ono-records-ep-5.mp3",
-   "date": "2026-06-03T04:01:03Z",
-   "desc": "After a little hiatus... the ONO show returns to RTR2! Packing a mixed bag of twisted favourites old and new. Echoes on the mic, big ups the 6003... phones are back baby!",
-   "duration": "01:59:44",
-   "id": "tag:soundcloud-2010:tracks-2331823586",
-   "image": "https://i1.sndcdn.com/artworks-yxu0akcK5zclIM7L-xyQUiA-t3000x3000.png",
-   "title": "ONO Records Ep. 5 w/ Ernest & Young",
-   "url": "https://soundcloud.com/rtrfm-92-1/ono-records-ep-5"
   }
  ],
  "kind": "rss",
  "name": "RTRFM / RTR2 mixes",
- "updatedAt": "2026-11-07T22:46:59Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }

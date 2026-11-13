@@ -1,12 +1,86 @@
 {
  "items": [
   {
+   "d": "2026-11-13T00:00:00Z",
+   "g": "Progressive",
+   "s": "Anjunadeep releases",
+   "sid": "anjunadeep-releases",
+   "sp": "Because of Art – Because of Art",
+   "t": "Because of Art – Because of Art",
+   "u": "https://anjunadeep.com/products/610831-because-of-art"
+  },
+  {
+   "d": "2026-11-12T23:00:00Z",
+   "g": "BBC",
+   "s": "BBC Introducing on Radio 1 Dance",
+   "sid": "bbc-introducing-on-radio-1-dance",
+   "t": "with Jaguar: SSSLIP Dancefloor Moment & a Charlotte Plank First Play",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033rhk"
+  },
+  {
+   "d": "2026-11-12T22:55:31Z",
+   "g": "Writing",
+   "s": "Gorilla vs. Bear",
+   "sid": "gorilla-vs-bear",
+   "t": "video: Warpstr – GIRL",
+   "u": "https://www.gorillavsbear.net/video-warpstr-girl/"
+  },
+  {
    "d": "2026-11-12T18:58:37Z",
    "g": "Writing",
    "s": "Tone Glow",
    "sid": "tone-glow",
    "t": "Tone Glow 247: Armand Hammer (billy woods & ELUCID)",
    "u": "https://toneglow.substack.com/p/tone-glow-247-armand-hammer-billy-woods-elucid"
+  },
+  {
+   "d": "2026-11-12T16:06:06Z",
+   "g": "Progressive",
+   "s": "The Anjunadeep Edition",
+   "sid": "anjunadeep-edition",
+   "t": "The Anjunadeep Edition 619 with Tim Green",
+   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-619-with-tim-green-1/"
+  },
+  {
+   "d": "2026-11-12T16:05:31Z",
+   "g": "Progressive",
+   "s": "The Anjunadeep Edition",
+   "sid": "anjunadeep-edition",
+   "t": "The Anjunadeep Edition 619 with Tim Green",
+   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-619-with-tim-green-2/"
+  },
+  {
+   "d": "2026-11-12T16:05:16Z",
+   "g": "Progressive",
+   "s": "The Anjunadeep Edition",
+   "sid": "anjunadeep-edition",
+   "t": "The Anjunadeep Edition 619 with Tim Green",
+   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-619-with-tim-green/"
+  },
+  {
+   "d": "2026-11-12T15:00:00Z",
+   "g": "Rinse FM",
+   "s": "Tom Ravenscroft",
+   "sid": "rinse-tom-ravenscroft",
+   "t": "Tom Ravenscroft, 12 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/tom-ravenscroft-12-11-2026-1500"
+  },
+  {
+   "d": "2026-11-12T14:00:45Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "New allegations against convicted rapist Ralph Carr revealed: ‘I was blacking out while saying no’",
+   "u": "https://www.theguardian.com/australia-news/ng-interactive/2026/nov/13/ralph-carr-convicted-rapist-new-allegations-sexual-touching-ntwnfb"
+  },
+  {
+   "d": "2026-11-12T12:16:00Z",
+   "g": "Progressive",
+   "s": "Joris Voorn: Spectrum Radio",
+   "sid": "spectrum-radio",
+   "sp": "Joris Voorn: Spectrum Radio Spectrum Radio 498",
+   "t": "Spectrum Radio 498",
+   "u": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-498"
   },
   {
    "d": "2026-11-12T12:12:55Z",
@@ -17,6 +91,22 @@
    "u": "https://firstfloor.substack.com/p/first-floor-336-plenty-of-guilt-to"
   },
   {
+   "d": "2026-11-12T12:00:00Z",
+   "g": "Rinse FM",
+   "s": "Hi-Fidelity",
+   "sid": "rinse-hi-fidelity",
+   "t": "Hi-Fidelity, 12 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/hi-fidelity-12-11-2026-1200"
+  },
+  {
+   "d": "2026-11-12T11:53:56Z",
+   "g": "Radio",
+   "s": "Gilles Peterson (6 Music show)",
+   "sid": "gilles-peterson",
+   "t": "Gilles Peterson - Peven Everett + Georgia Anne Muldrow - 07.11.2026",
+   "u": "https://soundcloud.com/gillespeterson/gilles-peterson-peven-everett"
+  },
+  {
    "d": "2026-11-12T11:03:45Z",
    "g": "Writing",
    "s": "Futurism Restated (Philip Sherburne)",
@@ -25,148 +115,58 @@
    "u": "https://futurismrestated.substack.com/p/fr-201-ten-albums-that-should-have"
   },
   {
-   "d": "2026-11-12T01:00:00Z",
-   "g": "Double J",
-   "s": "Take 5 with Zan Rowe",
-   "sid": "doublej-take-5",
-   "t": "Take 5 with Dan Sultan",
-   "u": "https://www.abc.net.au/listen/programs/take-5/take-5-dan-sultan-little-miracle-songs/107374860"
-  },
-  {
-   "d": "2026-11-12T01:00:00Z",
-   "g": "BBC",
-   "s": "Benji B",
-   "sid": "bbc-benji-b",
-   "t": "Astrønne In 3",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033rmf"
-  },
-  {
-   "d": "2026-11-12T00:37:06Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "Moktar: Can't outrun a shadow",
-   "u": "https://mixmag.net.au/feature/moktar-cant-outrun-a-shadow"
-  },
-  {
-   "d": "2026-11-11T22:45:50Z",
-   "g": "Mixes",
-   "s": "Pjenne (PBS 106.7) mixes",
-   "sid": "pjenne",
-   "t": "Millu & Pjenne  ~ Live at Hopkins Creek 2026",
-   "u": "https://soundcloud.com/pjenne/millu-pjenne-live-at-hopkins"
-  },
-  {
-   "d": "2026-11-11T22:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Classic Essential Mix",
-   "sid": "bbc-radio-1s-classic-essential-mix",
-   "t": "Nicolas Jaar 2012",
-   "u": "https://www.bbc.co.uk/sounds/play/m000h87r"
-  },
-  {
-   "d": "2026-11-11T15:17:16Z",
-   "g": "Writing",
-   "s": "Tone Glow",
-   "sid": "tone-glow",
-   "t": "Film Show 076: Sompot Chidgasornpongse",
-   "u": "https://toneglow.substack.com/p/film-show-076-sompot-chidgasornpongse"
-  },
-  {
-   "d": "2026-11-11T15:00:00Z",
-   "g": "Podcasts",
-   "s": "Song Exploder",
-   "sid": "song-exploder",
-   "sp": "Song Exploder Mastodon - Your Ghost Again",
-   "t": "Mastodon - Your Ghost Again",
-   "u": "https://play.prx.org/listen?ge=prx_93_7e9d1e47-5f37-4213-9619-5a12af87a5e8&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
-  },
-  {
-   "d": "2026-11-11T15:00:00Z",
-   "g": "Rinse FM",
-   "s": "Utopia Presents",
-   "sid": "rinse-utopia",
-   "t": "Utopia Presents, 11 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/utopia-presents-11-11-2026-1500"
-  },
-  {
-   "d": "2026-11-11T14:19:19Z",
-   "g": "Mixes",
-   "s": "RA Podcast",
-   "sid": "ra-podcast",
-   "t": "EX.818 Marcel Dettmann",
-   "u": "https://soundcloud.com/resident-advisor/ex-818-marcel-dettmann"
-  },
-  {
-   "d": "2026-11-11T13:06:02Z",
-   "g": "Podcasts",
-   "s": "RA Exchange",
-   "sid": "ra-exchange",
-   "sp": "RA Exchange EX.818 Marcel Dettmann",
-   "t": "EX.818 Marcel Dettmann",
-   "u": "https://shows.acast.com/raexchange/episodes/ex818-marcel-dettmann"
-  },
-  {
-   "d": "2026-11-11T13:00:00Z",
-   "g": "Rinse FM",
-   "s": "Eclecticist",
-   "sid": "rinse-eclecticist",
-   "t": "Eclecticist, 11 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/eclecticist-11-11-2026-1300"
-  },
-  {
-   "d": "2026-11-11T11:28:38Z",
-   "g": "Writing",
-   "s": "Inverted Audio",
-   "sid": "inverted-audio",
-   "t": "Florian Kupfer launches Lifetrax imprint with reissue of his L.I.E.S. debut",
-   "u": "https://inverted-audio.com/florian-kupfer-lifetrax/"
-  },
-  {
-   "d": "2026-11-11T10:00:00Z",
+   "d": "2026-11-12T10:00:00Z",
    "g": "triple j",
-   "s": "Prism with tiffi",
-   "sid": "triplej-prism",
-   "t": "Prism: Mowgli May Takeover! <3",
-   "u": "https://www.abc.net.au/triplej/programs/prism/prism-mowgli-may/107353240"
+   "s": "Hip Hop Show with A.Girl",
+   "sid": "triplej-hip-hop-show",
+   "t": "Hip Hop Show, 12 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107358488"
   },
   {
-   "d": "2026-11-11T09:23:19Z",
-   "g": "Mixes",
-   "s": "Ilian Tape Podcast Series",
-   "sid": "ilian-tape",
-   "t": "ITPS133 HAVANTEPE",
-   "u": "https://soundcloud.com/ilian-tape/itps133-havantepe"
-  },
-  {
-   "d": "2026-11-11T08:02:45Z",
+   "d": "2026-11-12T08:02:29Z",
    "g": "Writing",
    "s": "Flow State",
    "sid": "flow-state",
-   "sp": "Flow State Across the Horizon Ep. 74: Jeffrey Silverstein",
-   "t": "Across the Horizon Ep. 74: Jeffrey Silverstein",
-   "u": "https://www.flowstate.fm/p/across-the-horizon-ep-74-jeffrey"
+   "t": "Anita Tatlow (Interview)",
+   "u": "https://www.flowstate.fm/p/anita-tatlow-interview"
   },
   {
-   "d": "2026-11-11T08:00:00Z",
+   "d": "2026-11-12T08:00:00Z",
+   "g": "Radio",
+   "s": "KEXP: In Our Headphones",
+   "sid": "in-our-headphones",
+   "sp": "KEXP: In Our Headphones KEXP DJ Gita Bird on the Exciting Sounds of LEENALCHI",
+   "t": "KEXP DJ Gita Bird on the Exciting Sounds of LEENALCHI",
+   "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-dj-gita-bird-on-the-exciting-sounds-of-leenalchi"
+  },
+  {
+   "d": "2026-11-12T08:00:00Z",
    "g": "triple j",
    "s": "Home and Hosed with Anika Luna",
    "sid": "triplej-home-and-hosed",
-   "t": "Home and Hosed, 11 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107353216"
+   "t": "Home and Hosed, 12 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107358404"
   },
   {
-   "d": "2026-11-11T07:00:00Z",
+   "d": "2026-11-12T07:09:00Z",
    "g": "Podcasts",
-   "s": "Transmissions (Aquarium Drunkard)",
-   "sid": "transmissions",
-   "sp": "Transmissions (Aquarium Drunkard) Transmissions :: Adam Voith",
-   "t": "Transmissions :: Adam Voith",
-   "u": "https://aquariumdrunkard.com/2026/11/11/transmissions-adam-voith/"
+   "s": "Love Is The Message",
+   "sid": "love-is-the-message",
+   "sp": "Love Is The Message LITM Extra - What We're Listening To, November '26 [excerpt]",
+   "t": "LITM Extra - What We're Listening To, November '26 [excerpt]",
+   "u": "https://podcasters.spotify.com/pod/show/lovemessagepod/episodes/LITM-Extra---What-Were-Listening-To--November-26-excerpt-e3s6tl3"
+  },
+  {
+   "d": "2026-11-12T07:00:00Z",
+   "g": "NTS",
+   "s": "The Early Bird Show w/ PAM",
+   "sid": "nts-early-bird-pam",
+   "t": "The Early Bird Show w/ PAM & Alice",
+   "u": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-12th-november-2026"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 629,
+ "newCount": 645,
  "paused": 23,
  "releases": [
   {
@@ -257,5 +257,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-12T21:30:08Z"
+ "updated": "2026-11-13T00:30:22Z"
 }

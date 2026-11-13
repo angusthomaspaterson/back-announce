@@ -3,6 +3,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": null,
+   "date": "2026-11-12T08:02:29Z",
+   "desc": "Today we’re listening to Anita Tatlow, a British ambient musician based in Hong Kong.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-anita-tatlow-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!TRLk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76a66881-77ab-49cb-9aad-c9a895d7ad78_1354x938.png",
+   "title": "Anita Tatlow (Interview)",
+   "url": "https://www.flowstate.fm/p/anita-tatlow-interview"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/224397137/dff3a528f7a5979a32802c72e5c1e749.mp3",
    "date": "2026-11-11T08:02:45Z",
    "desc": "On today’s episode of Across the Horizon, host Bob Holmes of the band SUSS is joined by one of the leading practitioners of a style of music that might best be called \"cosmic country”: the Portland, Oregon-based artist Jeffrey Silverstein.",
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!L1tV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bb60be4-7f82-418e-b3f0-cd369a15a356_2574x1532.png",
    "title": "Charanjit Singh",
    "url": "https://www.flowstate.fm/p/charanjit-singh"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-15T07:02:54Z",
-   "desc": "Today we’re listening to The Sweet Enoughs, an Australian trio led by bassist Paul Bender.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-the-sweet-enoughs",
-   "image": "https://substackcdn.com/image/fetch/$s_!HVbo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F906c8865-6da5-4cc5-9bf5-1535ee8f9dd0_1174x1200.jpeg",
-   "title": "The Sweet Enoughs",
-   "url": "https://www.flowstate.fm/p/the-sweet-enoughs"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }

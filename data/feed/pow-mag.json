@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-12T18:53:11Z",
+   "desc": "Son Raw remembers the legend—and the way he taught us to look beyond ourselves.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-juan-atkins-obituary",
+   "image": "https://substackcdn.com/image/fetch/$s_!4m0j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8a0aeeb-2e31-4e5d-95a9-efed4c633f82_1200x1200.png",
+   "title": "On Juan Atkins and Techno’s Crisis of Faith",
+   "url": "https://www.powmag.net/p/juan-atkins-obituary"
+  },
+  {
+   "audio": null,
    "date": "2026-11-11T16:59:11Z",
    "desc": "A few weeks before Elucid and billy woods dropped their surprise album, they spoke exclusively to POW about its creation.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!UWy7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c05bff9-be5b-4665-80d3-0bee63d41643_1200x1200.png",
    "title": "Man Vs. Machine: Aphex Twin’s Drukqs at 25",
    "url": "https://www.powmag.net/p/man-vs-machine-aphex-twin-drukqs"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-19T17:32:44Z",
-   "desc": "The legendary Harlem rapper will be honored by the Paid In Full Foundation this weekend in Las Vegas.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-kurtis-blow-remembers-it-all-interview-paid-in-full",
-   "image": "https://substackcdn.com/image/fetch/$s_!cnV-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02af9f93-b50e-4e39-a332-f74c5984a5bf_1200x1200.png",
-   "title": "Kurtis Blow Remembers It All",
-   "url": "https://www.powmag.net/p/kurtis-blow-remembers-it-all-interview-paid-in-full"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-13T00:30:22Z"
 }
