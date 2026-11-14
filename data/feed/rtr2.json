@@ -3,6 +3,16 @@
  "id": "rtr2",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2429052342-rtrfm-92-1-8theclub-mixology-ep-7-w.mp3",
+   "date": "2026-11-14T02:00:34Z",
+   "desc": "8theclub Mixology Ep. 7 w/ P33don by RTRFM 92.1",
+   "duration": "01:10:48",
+   "id": "tag:soundcloud-2010:tracks-2429052342",
+   "image": "https://i1.sndcdn.com/artworks-vLG4lWOoznUlXFyF-GxO2LQ-t3000x3000.jpg",
+   "title": "8theclub Mixology Ep. 7 w/ P33don",
+   "url": "https://soundcloud.com/rtrfm-92-1/8theclub-mixology-ep-7-w"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2407399650-rtrfm-92-1-50-years-of-rrr-in-melbourne-w-small-fry.mp3",
    "date": "2026-11-12T02:00:14Z",
    "desc": "November on RTR2 features Triple R as they celebrate 50 years in Naarm/Melbourne. This episode features Small FRY, who is a DJ and radio presenter of the show Mooncake. She brings to you a wonky and eclectic selection of Asian and Asian-Australian producers in left field pop, experimental and electronica. Listen to Mooncake in Triple R every Wednesday night/Thursday morning.",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-2B13kyMnrxdJNHzP-i45bAQ-t3000x3000.png",
    "title": "Subterranea w/ Ben Agüero & sleepthink Live at PS Art Space",
    "url": "https://soundcloud.com/rtrfm-92-1/subterranea-w-ben-agueero"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2333102558-rtrfm-92-1-desert-frog-dub-triptych-ep-3.mp3",
-   "date": "2026-06-05T04:06:53Z",
-   "desc": "For the third and final installment of Britt Bro’s Desert Frog Dub Triptych, we’ve gone down the ambient waterhole and quantum frog-leapt onto a crisp June dancefloor in Mparntwe, swimming in froggy-proggy-house, deep, minimal, and dub techno.",
-   "duration": "01:55:08",
-   "id": "tag:soundcloud-2010:tracks-2333102558",
-   "image": "https://i1.sndcdn.com/artworks-rBV0kxNnZlddcnBC-xfSnkQ-t3000x3000.png",
-   "title": "Desert Frog Dub Triptych Ep. 3 w/ Britt Bro",
-   "url": "https://soundcloud.com/rtrfm-92-1/desert-frog-dub-triptych-ep-3"
   }
  ],
  "kind": "rss",
  "name": "RTRFM / RTR2 mixes",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-14T03:30:15Z"
 }

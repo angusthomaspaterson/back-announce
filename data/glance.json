@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "d": "2026-11-14T02:00:34Z",
+   "g": "Perth",
+   "s": "RTRFM / RTR2 mixes",
+   "sid": "rtr2",
+   "t": "8theclub Mixology Ep. 7 w/ P33don",
+   "u": "https://soundcloud.com/rtrfm-92-1/8theclub-mixology-ep-7-w"
+  },
+  {
+   "d": "2026-11-14T02:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Essential Mix",
+   "sid": "bbc-radio-1s-essential-mix",
+   "t": "L.P. Rhythm",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033q6s"
+  },
+  {
+   "d": "2026-11-14T01:00:00Z",
+   "g": "BBC",
+   "s": "6 Music's Rave Forever",
+   "sid": "bbc-6-musics-rave-forever",
+   "t": "Gaming: Rave Radio",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033n8v"
+  },
+  {
    "d": "2026-11-14T00:00:00Z",
    "g": "BBC",
    "s": "The 6 Mix with Mary Anne Hobbs",
@@ -139,34 +163,10 @@
    "sp": "Sound Opinions The Essential Elliott Smith Songs, Plus Opinions on Fontaines D.C. & RIP Juan Adkins",
    "t": "The Essential Elliott Smith Songs, Plus Opinions on Fontaines D.C. & RIP Juan Adkins",
    "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/64cc8ac8-9fad-4f26-9b9d-a008c567037f.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-11-13T05:03:00Z",
-   "g": "Writing",
-   "s": "Pitchfork: Best New Albums",
-   "sid": "pitchfork-bna",
-   "t": "Snakes & Ladders",
-   "u": "https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/"
-  },
-  {
-   "d": "2026-11-13T03:30:00Z",
-   "g": "triple j",
-   "s": "Friday Mix with Dave Woodhead and Kailyn Crabbe",
-   "sid": "triplej-friday-mix",
-   "t": "Friday Mix: Tiddalicious",
-   "u": "https://www.abc.net.au/triplej/programs/friday-mix/tiddalicious-djset-2026/107367694"
-  },
-  {
-   "d": "2026-11-13T01:00:00Z",
-   "g": "BBC",
-   "s": "The Residency on Radio 1 Dance",
-   "sid": "bbc-the-residency-on-radio-1-dance",
-   "t": "Effy - Around the World",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033rhm"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 663,
+ "newCount": 664,
  "paused": 23,
  "releases": [
   {
@@ -251,5 +251,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-14T02:52:09Z"
+ "updated": "2026-11-14T03:30:15Z"
 }
