@@ -1,6 +1,6 @@
 // Tests for js/store.js against a pretend GitHub. Open tests/index.html on a local server.
 import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage, repoFiles} from '../js/store.js';
-import {appIntent, spotifySearch} from '../js/util.js';
+import {appIntent, spotifySearch, dedupeAcross} from '../js/util.js';
 
 const out = document.getElementById('out');
 let passed = 0, failed = 0;
@@ -201,6 +201,19 @@ const tests = {
     eq(appIntent('https://www.rinse.fm/'), null, 'rinse stays a web link: its app accepts no links');
     eq(appIntent('not a link'), null, 'junk');
     ok(appIntent('https://open.spotify.com/search/Song%20Exploder').startsWith('intent://open.spotify.com/search/Song%20Exploder#Intent;scheme=https;package=com.spotify.music;'), 'spotify');
+  },
+  'the same episode from two sources shows once'() {
+    const it = (sid, title, date, extra = {}) => ({sid, sname: sid, title, date, ...extra});
+    const out = dedupeAcross([
+      it('ra-podcast', 'EX.818 Marcel Dettmann', '2026-11-11T10:00:00Z'),
+      it('ra-exchange', 'EX.818 Marcel Dettmann', '2026-11-11T08:50:00Z', {audio: 'x.mp3'}),
+      it('nts-a', 'GiGi FM', '2026-11-11T08:00:00Z'),
+      it('nts-b', 'GiGi FM', '2026-11-11T07:00:00Z'),
+      it('ra-exchange', 'EX.817 Chase & Status', '2026-11-04T08:00:00Z'),
+      it('ra-podcast', 'EX.817 Chase & Status', '2026-11-01T08:00:00Z'),
+    ]);
+    eq(out.map(i => `${i.sid}:${i.title}`), ['ra-exchange:EX.818 Marcel Dettmann', 'nts-a:GiGi FM', 'nts-b:GiGi FM', 'ra-exchange:EX.817 Chase & Status', 'ra-podcast:EX.817 Chase & Status'],
+       'the playable copy wins; short titles and copies days apart stay');
   },
   'Spotify searches are tidy'() {
     eq(spotifySearch('Popcast (New York Times) Has Taylor Swift jumped the shark?'), 'https://open.spotify.com/search/Popcast%20Has%20Taylor%20Swift%20jumped%20the%20shark%3F', 'drops the bracketed part');

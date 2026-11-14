@@ -300,6 +300,17 @@ class Rollup(unittest.TestCase):
         self.assertEqual(dates, sorted(dates, reverse=True))
 
 
+class Repeats(unittest.TestCase):
+    def test_repeat_uploads_within_hours_are_dropped(self):
+        items = [gather.item("c", "The Anjunadeep Edition 619 with Tim Green", "https://u/c", "2026-11-12T16:06:06Z"),
+                 gather.item("b", "The Anjunadeep Edition 619 with Tim Green", "https://u/b", "2026-11-12T16:05:31Z"),
+                 gather.item("a", "The Anjunadeep Edition 619 with Tim Green", "https://u/a", "2026-11-12T16:05:16Z"),
+                 gather.item("d", "Lauren Laverne", "https://u/d", "2026-11-12T03:00:00Z"),
+                 gather.item("e", "Lauren Laverne", "https://u/e", "2026-11-11T03:00:00Z")]
+        out = gather.finish(items, {"id": "s", "name": "S", "kind": "rss", "url": "x"}, now=datetime.datetime(2026, 11, 13, tzinfo=gather.UTC))
+        self.assertEqual([i["id"] for i in out], ["c", "d", "e"])   # a daily show a day apart stays
+
+
 class Finish(unittest.TestCase):
     def test_fallback_image_dedupe_and_sort(self):
         src = {"id": "s", "name": "S", "kind": "rss", "url": "x", "image": "https://img/fallback.jpg"}

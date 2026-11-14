@@ -1,7 +1,7 @@
 // The Feed tab: the timeline, the Saved view, the Source page and the Sources screen.
 // Each view has its own container, so going to a source and back leaves the feed exactly
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
-import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch} from './util.js';
+import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross} from './util.js';
 import {play} from './player.js';
 
 export const S = {
@@ -48,7 +48,7 @@ export function allItems() {
     for (const it of (d.items || [])) out.push(withSource(it, id));
   }
   out.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-  return out;
+  return dedupeAcross(out);
 }
 export function srcItems(id) {
   const d = S.feed[id] || {};

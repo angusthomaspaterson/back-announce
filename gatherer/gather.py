@@ -576,7 +576,29 @@ def finish(items, src, now=None):
         seen.add(i["id"])
         unique.append(i)
     unique.sort(key=lambda i: i.get("date") or "", reverse=True)
-    return unique[:KEEP]
+    return drop_repeats(unique)[:KEEP]
+
+
+def _title_key(title):
+    return re.sub(r"[^a-z0-9]+", " ", re.sub(r"[‘’'\"“”]", "", (title or "").lower())).strip()
+
+
+def drop_repeats(items, hours=6):
+    """Drop a repeat upload: the same title again within a few hours (Anjunadeep once put one
+    episode on Mixcloud three times). Items are newest first and the newest copy is kept.
+    The window is short so a daily show with the same title every day is never touched."""
+    kept, last = [], {}
+    for i in items:
+        k, d = _title_key(i.get("title")), i.get("date")
+        if k and d and k in last:
+            gap = abs((datetime.datetime.fromisoformat(last[k].replace("Z", "+00:00"))
+                       - datetime.datetime.fromisoformat(d.replace("Z", "+00:00"))).total_seconds())
+            if gap <= hours * 3600:
+                continue
+        kept.append(i)
+        if k and d:
+            last[k] = d
+    return kept
 
 
 def gather_one(src, fetcher=fetch, prev_items=None, now=None):

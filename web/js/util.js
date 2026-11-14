@@ -59,6 +59,26 @@ export function appIntent(href) {
 }
 export const isAndroid = () => /Android/i.test(navigator.userAgent);
 
+/** Drop a card when another source already has the same episode: the same title within a
+ *  day (the RA Podcast feed also carries every RA Exchange). Items arrive newest first; a
+ *  copy that plays in the app wins over one that doesn't. Short or generic titles, such as
+ *  a show's own name, are never merged. */
+export function dedupeAcross(items) {
+  const norm = t => String(t || '').toLowerCase().replace(/[‘’'"“”]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+  const kept = [], byTitle = new Map();
+  for (const it of items) {
+    const k = norm(it.title);
+    const prev = k.length >= 12 && k !== norm(it.sname) ? byTitle.get(k) : null;
+    if (prev && prev.sid !== it.sid && Math.abs(new Date(prev.date) - new Date(it.date)) <= 864e5) {
+      if (it.audio && !prev.audio) kept[kept.indexOf(prev)] = it, byTitle.set(k, it);
+      continue;
+    }
+    kept.push(it);
+    if (k) byTitle.set(k, it);
+  }
+  return kept;
+}
+
 let toastTimer = null, toastUndo = null;
 export function toast(msg, undo) {
   const t = $('toast'); $('toastTxt').textContent = msg; toastUndo = undo; $('toastUndo').hidden = !undo; t.hidden = false;
