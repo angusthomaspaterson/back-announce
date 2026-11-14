@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-13T19:18:50Z",
+   "desc": "This week’s events include ‘Heavy Hearts’ 2nd Anniversary / Durations Festival & Triple Canopy Symposium / ‘SHAKE!’ 10th Anniversary / DOCNYC Film Festival / ‘No Way Back’ Nonstop / and more",
+   "duration": null,
+   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-1113202611172026",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/b74adbd0-3d09-41b8-a409-902223196940_1500x1013.jpeg",
+   "title": "Bklyn Sounds 11/13/2026—11/17/2026",
+   "url": "https://dadastrain.substack.com/p/bklyn-sounds-1113202611172026"
+  },
+  {
+   "audio": null,
    "date": "2026-11-03T18:22:41Z",
    "desc": "November 17th, Clarkson Potter will release a book I’ve co-written with Brian Beck. Here is some background on it, pre-order/reader discount info, and announcement of initial events to promote it",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/b0c36464-76bd-4485-b057-38e18a7849b1_1500x1013.jpeg",
    "title": "Dada Reads_Summer 2026 | Bklyn Sounds 7/2/2026—7/7/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-722026772026-dada-reads_summer"
-  },
-  {
-   "audio": null,
-   "date": "2026-06-25T15:56:56Z",
-   "desc": "This week's events include Pride 2026 / Love Injection + Matük album release parties / Laurie Anderson + Sex Mob / 'Party Line' / Robert AA Lowe / 'Vision Festival' / Tortoise + L'Rain / and more",
-   "duration": null,
-   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-62520266302026",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/118897ff-844d-4cff-9279-ea4a29fd293d_1500x1013.jpeg",
-   "title": "Bklyn Sounds 6/25/2026—6/30/2026",
-   "url": "https://dadastrain.substack.com/p/bklyn-sounds-62520266302026"
   }
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-11-03T21:30:07Z"
+ "updatedAt": "2026-11-14T02:52:09Z"
 }

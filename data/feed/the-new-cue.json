@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-13T10:02:30Z",
+   "desc": "“A good and inspirational fellow...”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-642-naima-bock-radie",
+   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+   "title": "The New Cue #642 November 13: Naima Bock, Radie Peat, Bonobo, Stanley Welch, The Sophs, Kojaque, Cliffords, Sinkane, Feet, Star’s Revenge",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-642-naima-bock-radie"
+  },
+  {
+   "audio": null,
    "date": "2026-11-09T13:31:45Z",
    "desc": "“I’d probably tell myself to take less drugs...”",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!2iLI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fe7130b-dba2-4b24-9e40-a69eb2bc8013_1200x1599.jpeg",
    "title": "The New Cue #623 September 7: Kevin Rowland",
    "url": "https://thenewcue.substack.com/p/the-new-cue-623-september-7-kevin"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-04T09:01:39Z",
-   "desc": "“The Dresden Dolls pull a Taylor Swift”",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-622-september-4-dexys",
-   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
-   "title": "The New Cue #622 September 4: Dexys Midnight Runners, DIIV, Clinic, Saskia, The Dresden Dolls, Cosign, Fat Dog, MorMor, Computerwife",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-622-september-4-dexys"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-11-09T21:30:07Z"
+ "updatedAt": "2026-11-14T02:52:09Z"
 }

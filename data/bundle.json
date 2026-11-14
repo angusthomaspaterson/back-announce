@@ -4810,6 +4810,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-13T19:18:50Z",
+     "desc": "This week’s events include ‘Heavy Hearts’ 2nd Anniversary / Durations Festival & Triple Canopy Symposium / ‘SHAKE!’ 10th Anniversary / DOCNYC Film Festival / ‘No Way Back’ Nonstop / and more",
+     "duration": null,
+     "id": "https:--dadastrain.substack.com-p-bklyn-sounds-1113202611172026",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/b74adbd0-3d09-41b8-a409-902223196940_1500x1013.jpeg",
+     "title": "Bklyn Sounds 11/13/2026—11/17/2026",
+     "url": "https://dadastrain.substack.com/p/bklyn-sounds-1113202611172026"
+    },
+    {
+     "audio": null,
      "date": "2026-11-03T18:22:41Z",
      "desc": "November 17th, Clarkson Potter will release a book I’ve co-written with Brian Beck. Here is some background on it, pre-order/reader discount info, and announcement of initial events to promote it",
      "duration": null,
@@ -4997,21 +5007,11 @@
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b0c36464-76bd-4485-b057-38e18a7849b1_1500x1013.jpeg",
      "title": "Dada Reads_Summer 2026 | Bklyn Sounds 7/2/2026—7/7/2026",
      "url": "https://dadastrain.substack.com/p/bklyn-sounds-722026772026-dada-reads_summer"
-    },
-    {
-     "audio": null,
-     "date": "2026-06-25T15:56:56Z",
-     "desc": "This week's events include Pride 2026 / Love Injection + Matük album release parties / Laurie Anderson + Sex Mob / 'Party Line' / Robert AA Lowe / 'Vision Festival' / Tortoise + L'Rain / and more",
-     "duration": null,
-     "id": "https:--dadastrain.substack.com-p-bklyn-sounds-62520266302026",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/118897ff-844d-4cff-9279-ea4a29fd293d_1500x1013.jpeg",
-     "title": "Bklyn Sounds 6/25/2026—6/30/2026",
-     "url": "https://dadastrain.substack.com/p/bklyn-sounds-62520266302026"
     }
    ],
    "kind": "rss",
    "name": "Dada Strain (Piotr Orlov)",
-   "updatedAt": "2026-11-03T21:30:07Z"
+   "updatedAt": "2026-11-14T02:52:09Z"
   },
   "days-like-nights": {
    "home": "https://soundcloud.com/eelkekleijn",
@@ -11391,6 +11391,16 @@
    "id": "loud-and-quiet",
    "items": [
     {
+     "audio": null,
+     "date": "2026-11-13T08:02:21Z",
+     "desc": "Horse Vision’s ‘Goblin’s Head’, Radie Peat interview, Wendy Eisenberg live in London, First & Best with DIIV, paranormal Bob Dylan photos",
+     "duration": null,
+     "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-fd9",
+     "image": "https://substackcdn.com/image/fetch/$s_!lGaX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1fd8af5-1087-4c88-b224-eb3d69f2c3df_1762x1181.jpeg",
+     "title": "L&Q Weekly",
+     "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-fd9"
+    },
+    {
      "audio": "https://api.substack.com/feed/podcast/224511084/71d9701245fa3e8b6bf7d63a648ac76b.mp3",
      "date": "2026-11-12T00:01:09Z",
      "desc": "Music billionaires, too",
@@ -11579,21 +11589,11 @@
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/54f6d7e1-2a99-4e6d-b2b6-4a27d8633121_800x507.jpeg",
      "title": "L&Q Weekly",
      "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-1ab"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-01T11:06:49Z",
-     "desc": "The Detroit band discuss the second giant leap forward in their career – a “cosmic gumbo” that imagines their country as an on-its-arse hotel",
-     "duration": null,
-     "id": "https:--loudandquiet.substack.com-p-such-an-ugly-place-livin-it-up-at-protomartyrs-hotel-usona",
-     "image": "https://substackcdn.com/image/fetch/$s_!5Yt2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0047d8e3-a313-4e8b-aebd-36a8ac99c765_2000x1326.jpeg",
-     "title": "Such an ugly place: livin’ it up at Protomartyr’s Hotel Usona",
-     "url": "https://loudandquiet.substack.com/p/such-an-ugly-place-livin-it-up-at-protomartyrs-hotel-usona"
     }
    ],
    "kind": "rss",
    "name": "Loud And Quiet",
-   "updatedAt": "2026-11-12T21:30:08Z"
+   "updatedAt": "2026-11-14T02:52:09Z"
   },
   "love-is-the-message": {
    "home": "https://loveisthemessagepod.co.uk/",
@@ -33499,6 +33499,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-13T10:02:30Z",
+     "desc": "“A good and inspirational fellow...”",
+     "duration": null,
+     "id": "https:--thenewcue.substack.com-p-the-new-cue-642-naima-bock-radie",
+     "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+     "title": "The New Cue #642 November 13: Naima Bock, Radie Peat, Bonobo, Stanley Welch, The Sophs, Kojaque, Cliffords, Sinkane, Feet, Star’s Revenge",
+     "url": "https://thenewcue.substack.com/p/the-new-cue-642-naima-bock-radie"
+    },
+    {
+     "audio": null,
      "date": "2026-11-09T13:31:45Z",
      "desc": "“I’d probably tell myself to take less drugs...”",
      "duration": null,
@@ -33686,21 +33696,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!2iLI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fe7130b-dba2-4b24-9e40-a69eb2bc8013_1200x1599.jpeg",
      "title": "The New Cue #623 September 7: Kevin Rowland",
      "url": "https://thenewcue.substack.com/p/the-new-cue-623-september-7-kevin"
-    },
-    {
-     "audio": null,
-     "date": "2026-09-04T09:01:39Z",
-     "desc": "“The Dresden Dolls pull a Taylor Swift”",
-     "duration": null,
-     "id": "https:--thenewcue.substack.com-p-the-new-cue-622-september-4-dexys",
-     "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
-     "title": "The New Cue #622 September 4: Dexys Midnight Runners, DIIV, Clinic, Saskia, The Dresden Dolls, Cosign, Fat Dog, MorMor, Computerwife",
-     "url": "https://thenewcue.substack.com/p/the-new-cue-622-september-4-dexys"
     }
    ],
    "kind": "rss",
    "name": "The New Cue",
-   "updatedAt": "2026-11-09T21:30:07Z"
+   "updatedAt": "2026-11-14T02:52:09Z"
   },
   "the-wire": {
    "home": "https://www.thewire.co.uk/",
@@ -37998,7 +37998,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-14T00:21:30Z",
+  "lastRun": "2026-11-14T02:52:09Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-14T00:21:30Z",
@@ -38203,9 +38203,9 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 20,
-    "newest": "2026-11-03T18:22:41Z",
+    "newest": "2026-11-13T19:18:50Z",
     "ok": true
    },
    "days-like-nights": {
@@ -38257,7 +38257,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -38275,7 +38275,7 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 8,
     "newest": "2026-11-12T12:12:55Z",
     "ok": true
@@ -38287,7 +38287,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 20,
     "newest": "2026-11-12T11:03:45Z",
     "ok": true
@@ -38329,7 +38329,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 20,
     "newest": "2026-11-08T13:44:53Z",
     "ok": true
@@ -38389,9 +38389,9 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 20,
-    "newest": "2026-11-12T00:01:09Z",
+    "newest": "2026-11-13T08:02:21Z",
     "ok": true
    },
    "love-is-the-message": {
@@ -38431,7 +38431,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -39151,7 +39151,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 20,
     "newest": "2026-11-08T14:51:00Z",
     "ok": true
@@ -39163,9 +39163,9 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 20,
-    "newest": "2026-11-09T13:31:45Z",
+    "newest": "2026-11-13T10:02:30Z",
     "ok": true
    },
    "the-wire": {
@@ -39181,7 +39181,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 20,
     "newest": "2026-11-12T18:58:37Z",
     "ok": true
@@ -39271,10 +39271,11 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-12T21:30:08Z",
+    "at": "2026-11-14T02:52:09Z",
     "count": 8,
+    "error": "HTTPError: HTTP Error 404: Not Found",
     "newest": "2026-11-10T19:00:40Z",
-    "ok": true
+    "ok": false
    }
   }
  }

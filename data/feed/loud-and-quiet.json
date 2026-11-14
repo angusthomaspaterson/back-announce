@@ -3,6 +3,16 @@
  "id": "loud-and-quiet",
  "items": [
   {
+   "audio": null,
+   "date": "2026-11-13T08:02:21Z",
+   "desc": "Horse Vision’s ‘Goblin’s Head’, Radie Peat interview, Wendy Eisenberg live in London, First & Best with DIIV, paranormal Bob Dylan photos",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-fd9",
+   "image": "https://substackcdn.com/image/fetch/$s_!lGaX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1fd8af5-1087-4c88-b224-eb3d69f2c3df_1762x1181.jpeg",
+   "title": "L&Q Weekly",
+   "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-fd9"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/224511084/71d9701245fa3e8b6bf7d63a648ac76b.mp3",
    "date": "2026-11-12T00:01:09Z",
    "desc": "Music billionaires, too",
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/54f6d7e1-2a99-4e6d-b2b6-4a27d8633121_800x507.jpeg",
    "title": "L&Q Weekly",
    "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-1ab"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-01T11:06:49Z",
-   "desc": "The Detroit band discuss the second giant leap forward in their career – a “cosmic gumbo” that imagines their country as an on-its-arse hotel",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-such-an-ugly-place-livin-it-up-at-protomartyrs-hotel-usona",
-   "image": "https://substackcdn.com/image/fetch/$s_!5Yt2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0047d8e3-a313-4e8b-aebd-36a8ac99c765_2000x1326.jpeg",
-   "title": "Such an ugly place: livin’ it up at Protomartyr’s Hotel Usona",
-   "url": "https://loudandquiet.substack.com/p/such-an-ugly-place-livin-it-up-at-protomartyrs-hotel-usona"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-11-12T21:30:08Z"
+ "updatedAt": "2026-11-14T02:52:09Z"
 }
