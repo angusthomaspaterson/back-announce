@@ -101,19 +101,9 @@
    "title": "QZB",
    "until": "2026-11-27T01:30:00Z",
    "url": "https://www.bbc.co.uk/sounds/play/m0032637"
-  },
-  {
-   "date": "2026-09-20T00:00:00Z",
-   "desc": "On BBC Sounds until 13 Nov (UK only). Mixed up D&B from Radio 1 Dance. Produced by We Are Grape for BBC Radio 1 Dance.",
-   "duration": "1800",
-   "id": "m0031l4t",
-   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m26fl2.jpg",
-   "title": "Chilled D&B with DRIIA",
-   "until": "2026-11-13T01:00:00Z",
-   "url": "https://www.bbc.co.uk/sounds/play/m0031l4t"
   }
  ],
  "kind": "bbc",
  "name": "Radio 1 Dance Drum & Bass Mix",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

@@ -3,6 +3,17 @@
  "id": "triplej-house-party",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/qv.aac",
+   "date": "2026-11-13T07:00:00Z",
+   "desc": "Your weekly dose of high energy club traxx alongside new tunes from Juicy Romance, Snoh Aalegra and Jayteehazard. Available until 13 Dec. Tracklist: Shantan Wantan Ichiban – House Party Mix #1; Azealia Banks – 212 [Ft. Lazy Jay]; Soul Wun – Beautiful Noise In My Head; Mylo Vs Miami Sound Machine – Doctor Pressure; Doechii – Alter Ego [Ft. JT]; Sam Alfred, Luuk Van Dijk & Storm Mollison – Connected By Light; Shantan Wantan Ichiban – House Party Mix #3; Fred again.., Skepta & PlaqueBoyMax – Victory Lap; The Avalanches – Every Single Weekend [Ft. Jamie xx]; Pania – Heaven Can Wait; Pretty Girl –…",
+   "duration": "14399",
+   "id": "107359990",
+   "image": "https://live-production.wcms.abc-cdn.net.au/c29420d9da72d27574583ead368b2132?impolicy=wcms_crop_resize&cropH=270&cropW=480&xPos=0&yPos=131&width=862&height=485&imformat=generic",
+   "title": "House Party, 13 Nov",
+   "until": "2026-12-13T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107359990"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q7/Z/8l.aac",
    "date": "2026-11-07T07:00:00Z",
    "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 7 Dec. Tracklist: IsGwan – triple j Mix Up",
@@ -78,20 +89,9 @@
    "title": "House Party, 17 Oct",
    "until": "2026-11-16T07:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107253966"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/si.aac",
-   "date": "2026-10-16T07:00:00Z",
-   "desc": "New bangers from Torren Foot, Carter Walsh & Tseba. Available until 15 Nov. Tracklist: Shantan Wantan Ichiban – House Party Mix #1; Sexyy Red – Looking For the Hoes (Ain’t My Fault); Genesis Owusu & KYE – HUMAN AGAIN; Tove Lo & SG Lewis – HEAT; Shantan Wantan Ichiban – House Party Mix #2; NOTION & X CLUB. – U KNOW; Mark Ronson & RAYE – Suzanne; Memphis LK – Some Kinda Heaven; Shantan Wantan Ichiban – House Party Mix #3; Central Cee – BAND4BAND [Ft. Lil Baby]; Srirachi – BBM; Shantan Wantan Ichiban – House Party Mix #4; luv & BOY SODA – Blessed; CC:DISCO! & Alda – Prize Winning Horse",
-   "duration": "14399",
-   "id": "107252008",
-   "image": "https://live-production.wcms.abc-cdn.net.au/8ae4e56be907971a635414a388eeb494?impolicy=wcms_crop_resize&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-   "title": "House Party, 16 Oct",
-   "until": "2026-11-15T07:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107252008"
   }
  ],
  "kind": "abc",
  "name": "House Party with Shantan Wantan Ichiban and Latifa Tee",
- "updatedAt": "2026-11-08T22:55:13Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

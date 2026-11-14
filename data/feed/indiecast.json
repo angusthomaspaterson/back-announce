@@ -3,6 +3,16 @@
  "id": "indiecast",
  "items": [
   {
+   "audio": "https://rss.art19.com/episodes/21781b17-735d-40bb-9d61-dee51286efbc.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+   "date": "2026-11-13T11:00:00Z",
+   "desc": "The guys open with a special clarification from Ian on a recent mixup in the emo world (0:47) before transitioning to discussions of the new Coachella lineup (7:25) and Pitchfork's recent \"100 Greatest Indie Rock Albums Of All Time\" list (16:50). After a rundown of the week's new releases (41:19) they delve into the first U2 new album in nine years, “Carnaval De Luz.” See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+   "duration": "01:02:01",
+   "id": "gid:--art19-episode-locator-V0-E5JNw7SqU9L7mja_MtIWNHOsPg_j00NSLlsILIyM4MA",
+   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
+   "title": "Pitchfork's \"Greatest Indie Rock Albums Of All Time\" List + Coachella 2027 Lineup Announced",
+   "url": "https://rss.art19.com/episodes/21781b17-735d-40bb-9d61-dee51286efbc.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
    "audio": "https://rss.art19.com/episodes/95206f11-ec25-4db1-89d9-88b126233f52.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
    "date": "2026-11-06T11:00:00Z",
    "desc": "Steven and Ian start with a quick Politics-cast and whether we can achieve the perfect formula of woke (0:58) before talking about a new song by Atlas Sound (8:03) and a new Sufjan Stevens Christmas album (15:00). After checking in with the Fantasy Album Draft (23:33) they talk about new albums by Twisted Teens, Oso Oso, and Kings Of Leon (30:10), followed by Recommendation Corner (52:37). See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
@@ -241,19 +251,9 @@
    "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
    "title": "Has 2026 Been A Good Year For Music? Plus: New Albums by Death Cab For Cutie, Modest Mouse, and Deer Tick",
    "url": "https://rss.art19.com/episodes/59f4da97-313c-4ed6-a17d-7c356d3f2c5c.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "audio": "https://rss.art19.com/episodes/9606953f-b85e-4ff9-9685-1f0d8bfc5e45.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-   "date": "2026-05-29T10:00:00Z",
-   "desc": "The guys open with a Sportscast about the NBA playoffs, including talk about SGA flopping and the New York Knicks dominating (1:56). They then talk about a new album announcement by one of the show's \"mascot\" bands, Wild Pink (13:57). They also discuss the new Guided By Voices album, and Steven's recent ranking of all the band's many members (21:20). Then they delve deeper into the week's new releases, including albums by Iceage, Paul McCartney, and Turnover. (28:49). They also touch on the new Boards of Canada release, and subsequently discuss indie-adjacent electronic music (47:23). In Reco…",
-   "duration": "00:56:53",
-   "id": "gid:--art19-episode-locator-V0-s1rTW9aBZC5J8aP8IXWN4-BAssNorLNI0yIQ4ODyXXo",
-   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
-   "title": "New Albums By Kurt Vile and Guided By Voices, the Return of Wild Pink, and \"Indie Rock\" Electronic Albums",
-   "url": "https://rss.art19.com/episodes/9606953f-b85e-4ff9-9685-1f0d8bfc5e45.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "kind": "rss",
  "name": "Indiecast",
- "updatedAt": "2026-11-06T23:44:12Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

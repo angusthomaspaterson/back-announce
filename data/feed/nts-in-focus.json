@@ -3,6 +3,16 @@
  "id": "nts-in-focus",
  "items": [
   {
+   "date": "2026-11-13T11:00:00Z",
+   "desc": "Brazilian singer Astrud Gilberto came to international attention in the mid-1960s with her English-language vocal on “The Girl from Ipanema”, recorded with Stan Getz, João Gilberto and Antônio Carlos Jobim. Its understated delivery helped bring bossa nova to a global audience, but her catalogue reaches well beyond that landmark recording. Through the late 1960s and 1970s, she moved between Brazilian song, jazz standards and pop across a run of solo albums, making space for a quietly distinctive style of her own. This In Focus explores the many sides of her work.",
+   "id": "in-focus-astrud-gilberto-13th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/a149826b-c577-471d-8c26-aef16c7d701f_1794528000.jpeg",
+   "location": "",
+   "tags": "Bossa Nova",
+   "title": "In Focus: Astrud Gilberto",
+   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-astrud-gilberto-13th-november-2026"
+  },
+  {
    "date": "2026-11-06T11:00:00Z",
    "desc": "John Tavener (1944–2013) was a British composer known for his deeply spiritual and atmospheric music. Born in London, he studied at Highgate School and the Royal Academy of Music, emerging in the late 1960s with The Whale, an experimental composition released on The Beatles' Apple Records label. Although initially influenced by the avant-garde, his work became increasingly contemplative, drawing heavily on religious traditions following his conversion to Orthodox Christianity in 1977. Combining elements of classical composition, sacred choral music and minimalism, he developed a distinctive s…",
    "id": "in-focus-john-taverner-6th-november-2026",
@@ -111,19 +121,9 @@
    "tags": "Synth Pop, SHIBUYA-KEI, J-Pop",
    "title": "In Focus: Takako Minekawa",
    "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-takako-minekawa-28th-august-2026"
-  },
-  {
-   "date": "2026-08-21T09:00:00Z",
-   "desc": "Miriam Makeba, nicknamed Mama Africa, was a South African singer, songwriter, actress, and civil rights activist. Associated with musical genres including Afropop, jazz, and world music, she was an advocate against apartheid and white-minority government in South Africa. Selected and mixed by TrYb.",
-   "id": "in-focus-miriam-makeba-21st-august-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/cf8010d9-805c-4aa2-b585-327deb6be8c7_1787184000.jpeg",
-   "location": "",
-   "tags": "Pop, Soul, South African Jazz, Afrobeat",
-   "title": "In Focus: Miriam Makeba",
-   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-miriam-makeba-21st-august-2026"
   }
  ],
  "kind": "nts",
  "name": "NTS In Focus",
- "updatedAt": "2026-11-06T23:44:12Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

@@ -3,6 +3,17 @@
  "id": "triplej-friday-mix",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/27.mp3",
+   "date": "2026-11-13T03:30:00Z",
+   "desc": "Deadly Wiradjuri DJ duo Tiddalicious drop global club beats and big dancefloor anthems in their debut triple j mix! Available until 13 Dec.",
+   "duration": "1413",
+   "id": "107367694",
+   "image": "https://live-production.wcms.abc-cdn.net.au/f75ff70b37e21b7acbc5468d1039e4fc?impolicy=wcms_crop_resize&cropH=608&cropW=1080&xPos=0&yPos=283&width=862&height=485&imformat=generic",
+   "title": "Friday Mix: Tiddalicious",
+   "until": "2026-12-13T03:30:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/friday-mix/tiddalicious-djset-2026/107367694"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q5/Z/1t.mp3",
    "date": "2026-11-06T03:30:00Z",
    "desc": "Aussie dance royalty Will Sparks is cranking up the nrg on the Friday Mix! Available until 6 Dec.",
@@ -49,5 +60,5 @@
  ],
  "kind": "abc",
  "name": "Friday Mix with Dave Woodhead and Kailyn Crabbe",
- "updatedAt": "2026-11-08T22:55:13Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

@@ -5,6 +5,16 @@
   {
    "audio": null,
    "date": "2026-11-12T00:00:00Z",
+   "desc": "The 12 November edition of The Wire 's weekly radio show featured an exclusive guest mix by reggae legend King Jammy, plus music by Black Flute Brigade, Caixa Cubo, Tapes, Sampa The Great, Sarah Ruth and more Tracklist Tropic Brut “The Sunbelt Project” From Variations On Mass Tourism — Songs From The Modular Coast ( Discrepant ) Adam Rudolph “The Spin” From Invisible Threads ( Omni Sound ) Gordan “Noga Licka A Cipela Becka” From Gastarbeiter ( Glitterbeat ) Rasha Nahas “TOKSIK توكسيك” From TOKSIK توكسيك ( Glitterbeat ) Andrew Spackman “ball 22” From Heftibag ( Mortality Tables ) Sampa The Gre…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-on-air-shane-woolman-presents-adventures-in-sound-and-music-80033",
+   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/11/13/Jammys_Super_Power_for_web.jpg",
+   "title": "Shane Woolman presents  Adventures In Sound And Music",
+   "url": "https://www.thewire.co.uk/audio/on-air/shane-woolman-presents-adventures-in-sound-and-music-80033"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-12T00:00:00Z",
    "desc": "To accompany his Global Ear feature in The Wire 514, Simon Coates compiles an annotated playlist of tracks from the Sri Lankan city Situated on Colombo’s Vauxhall Street, Musicmatters sits at the centre of the Sri Lankan city's experimental music world. “A lot of my introduction to experimentation in music came through Musicmatters around 2010,” says bass player Uvindu Perera. “I was new to it then, but these people were already listening widely and sharing references.” Simultaneously a collective, a school (Perera now teaches there), a record label and home to the Sound Room performance spac…",
    "duration": null,
    "id": "https:--www.thewire.co.uk-audio-tracks-global-ear-colombo",
@@ -241,19 +251,9 @@
    "image": "https://www.thewire.co.uk/img/contain/613/480/2026/10/01/funkadelic.jpg",
    "title": "“A trip through the other side of enlightenment”: Funkadelic reviewed",
    "url": "https://www.thewire.co.uk/in-writing/essays/a-trip-through-the-other-side-of-enlightenment-funkadelic-reviewed"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-30T00:00:00Z",
-   "desc": "The latest Wire Tapper CD, free to all readers with The Wire 513, November 2026",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-the-wire-tapper-the-wire-tapper-72",
-   "image": "https://www.thewire.co.uk/img/contain/481/480/2026/09/30/WT72_Artwork-TH-LT-TH.jpg",
-   "title": "The Wire Tapper  72",
-   "url": "https://www.thewire.co.uk/audio/the-wire-tapper/the-wire-tapper-72"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

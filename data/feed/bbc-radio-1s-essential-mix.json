@@ -44,12 +44,12 @@
   },
   {
    "date": "2026-10-17T02:00:00Z",
-   "desc": "On BBC Sounds until 9 Dec (UK only). Josh Baker's three-hour sunrise set from the You & Me closing party at Amnesia in Ibiza. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 6 Jan (UK only). Josh Baker's three-hour sunrise set from the You & Me closing party at Amnesia in Ibiza. Produced by BBC Audio for BBC Radio 1.",
    "duration": "10800",
    "id": "m0032g8q",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0phhhhp.jpg",
    "title": "Josh Baker at Amnesia Ibiza - Sunrise Set",
-   "until": "2026-12-09T02:00:00Z",
+   "until": "2027-01-06T02:00:00Z",
    "url": "https://www.bbc.co.uk/sounds/play/m0032g8q"
   },
   {
@@ -125,5 +125,5 @@
  ],
  "kind": "bbc",
  "name": "Radio 1's Essential Mix",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

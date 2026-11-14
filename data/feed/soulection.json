@@ -3,6 +3,16 @@
  "id": "soulection",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2437485336-soulection-show-753.mp3",
+   "date": "2026-11-13T14:31:28Z",
+   "desc": "Joe connects R&B and Afro sounds with classics. → Stay connected with us: https://soulection.com →Tracklist: https://radio.soulection.com → Discover: @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
+   "duration": "02:04:11",
+   "id": "tag:soundcloud-2010:tracks-2437485336",
+   "image": "https://i1.sndcdn.com/artworks-Mh3ypMW9yQo0kJDs-dnPxug-t3000x3000.jpg",
+   "title": "Show #753 | R&B/Soul, Future Beats, Classics, Afro Fusion",
+   "url": "https://soundcloud.com/soulection/show-753"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2433365265-soulection-show-752.mp3",
    "date": "2026-11-06T14:11:50Z",
    "desc": "Joe explores dub, reggae, house, and Afro-fusion. → Stay connected with us: https://soulection.com →Tracklist: https://radio.soulection.com → Discover: @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-MF2dOjKgrHOnog2D-qo6F5A-t3000x3000.png",
    "title": "Show #729 | Afro Soul, 3-Step, & Deep House",
    "url": "https://soundcloud.com/soulection/show-729"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2316539948-soulection-show-728-thee-sacred-souls.mp3",
-   "date": "2026-05-08T07:00:39Z",
-   "desc": "Thee Sacred Souls take over the show with an all-vinyl set. → Stay connected with us: https://soulection.com → Watch Visual Set: https://soulection.lnk.to/TheeSacredSouls →Tracklist: https://radio.soulection.com → Discover: @theesacredsouls-music @joekay ** Soulection Radio Shows on Apple Music 1 are archived here on SoundCloud 5 days after they air live on Sunday ** → If you are interested in hearing all of our recent shows go here: soundcloud.com/soulection/sets/soulection-radio-sessions → Stay tuned to our site for more info on tour dates, releases, and much more via https://soulection.com",
-   "duration": "02:05:34",
-   "id": "tag:soundcloud-2010:tracks-2316539948",
-   "image": "https://i1.sndcdn.com/artworks-zymCVMJmYuy731Sa-g6ZZ4Q-t3000x3000.png",
-   "title": "Show #728 (Thee Sacred Souls Takeover) | (Soul, Classics, & Hidden Gems)",
-   "url": "https://soundcloud.com/soulection/show-728-thee-sacred-souls"
   }
  ],
  "kind": "rss",
  "name": "Soulection Radio",
- "updatedAt": "2026-11-06T23:44:12Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

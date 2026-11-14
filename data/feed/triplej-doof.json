@@ -3,6 +3,17 @@
  "id": "triplej-doof",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/s3.aac",
+   "date": "2026-11-13T11:00:00Z",
+   "desc": "Doof is the home of Australian electronic music on triple j. Available until 13 Dec. Tracklist: Pretty Girl – We Know You; RONA. – In Movement; Tobiahs – Stay With Me Through The Night; Genesis Owusu feat. KYE – HUMAN AGAIN; Justice feat. Tame Impala, SZA & King Gizzard and the Lizard Wizard – Flower In A Hurricane; Luke Alessi – Sex Machine; The Avalanches & Loaded Honey – I Give Everything I Have 2 U; PNAU & sometimes jah – Change (sometimes jah Remix); 1tbsp & miki – Carottes; Anna Lunoe feat. Rush Davis – Bad Impression; Club Angel – Killing Me; Confidence Man – Young London (Ben Sterling…",
+   "duration": "10800",
+   "id": "107360000",
+   "image": "https://live-production.wcms.abc-cdn.net.au/9ae9bb87290891b45bde725f31c874c4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=0&yPos=188&width=862&height=647&imformat=generic",
+   "title": "Doof, 13 Nov",
+   "until": "2026-12-13T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/doof/doof/107360000"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/o0.aac",
    "date": "2026-11-06T11:00:00Z",
    "desc": "Doof is the home of Australian electronic music on triple j. Available until 6 Dec. Tracklist: Blanke – Genesis; Soul Wun – How Will I Know; Logic1000 feat. Christine and the Queens – The Only One; Pretty Girl – Satisfy; Troye Sivan – Party; Levi – Genie in a Bottle (Levi Mix); Rromarin – Erase; 5 Seconds of Summer – Evolve (CLUBSOS VOL. 1); RONA. – In Movement; Tobiahs – Stay With Me Through The Night; Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard – Flower In A Hurricane; The Avalanches & Loaded Honey – I Give Everything I Have 2 U; Hutcher – Law of Motion; Alyzée & Tente…",
@@ -34,20 +45,9 @@
    "title": "Doof, 23 Oct",
    "until": "2026-11-22T11:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/doof/doof/107279752"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/tm.aac",
-   "date": "2026-10-16T11:00:00Z",
-   "desc": "Doof is the home of Australian electronic music on triple j. Available until 15 Nov. Tracklist: CC:DISCO! & Alda – Prize Winning Horse; Soul Wun – And When Love Speaks; Troye Sivan – Party; Levi & Christina Aguilera – Genie in a Bottle (Levi Mix); Pretty Girl – Waterline; Tseba & Cavi – It's Love; Cooper Smith – All Night (Edit); Cosmo's Midnight & Vancouver Sleep Clinic – Do You Want This; CYRIL – Breathless; Odd Mob & OMNOM HYPERBEAM – Take You There; Sonny Fodera – Feel Again; Tame Impala & Fcukers – Loser (Fcukers Remix); Yes Boone – Nosebleeds; Tobiahs & VV-Ace – Where You Really Come Fr…",
-   "duration": "10800",
-   "id": "107252106",
-   "image": "https://live-production.wcms.abc-cdn.net.au/9ae9bb87290891b45bde725f31c874c4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=0&yPos=188&width=862&height=647&imformat=generic",
-   "title": "Doof, 16 Oct",
-   "until": "2026-11-15T11:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/doof/doof/107252106"
   }
  ],
  "kind": "abc",
  "name": "Doof with Latifa Tee",
- "updatedAt": "2026-11-07T22:46:59Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

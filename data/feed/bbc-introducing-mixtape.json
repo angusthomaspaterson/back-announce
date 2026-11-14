@@ -3,6 +3,16 @@
  "id": "bbc-introducing-mixtape",
  "items": [
   {
+   "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pm9173.mp3",
+   "date": "2026-11-13T12:00:00Z",
+   "desc": "Emily Pilbeam presents a mixtape of her personal selection of tracks from BBC Introducing, with music by Group A.D., IFULKI, Ledbyher feat. SINN6R, The Healing Power of Horses, Bloodworm, Indoor Foxes, Sandhouse, Eddie Doyle, The Ninth Wave, Morgan Morris, lots of hands, Leneta, and a new Track of the Week by Another; Country $$$$ Produced in Salford by BBC Audio for BBC Radio 6 Music.",
+   "duration": "3600",
+   "id": "urn:bbc:podcast:p0pm91ds",
+   "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0d7j1yy.jpg",
+   "title": "With a new Track of the Week by Another; Country $$$$",
+   "url": "http://www.bbc.co.uk/programmes/p0pm91ds"
+  },
+  {
    "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0plg0r2.mp3",
    "date": "2026-11-06T12:00:00Z",
    "desc": "Emily Pilbeam presents a mixtape of her personal selection of tracks from BBC Introducing, with music by Bathing Suits, Hank, GWEN, Girl Group, ROZZZQWEEN, Webmoms feat. Kimani, Willie J Healey, Marie Franc, DOG DAYS, Eistir, Olorunns, Samuel Nicholson, Father Hell, Bonds, and a new Track of the Week from The Healing Power of Horses Produced in Salford by BBC Audio for BBC Radio 6 Music.",
@@ -105,5 +115,5 @@
  ],
  "kind": "rss",
  "name": "BBC Music Introducing Mixtape (6 Music)",
- "updatedAt": "2026-11-08T22:55:13Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

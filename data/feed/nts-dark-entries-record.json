@@ -3,6 +3,16 @@
  "id": "nts-dark-entries-record",
  "items": [
   {
+   "date": "2026-11-12T20:00:00Z",
+   "desc": "Dark Entries reissues archival and contemporary gems that prove to be crucial to our modern idea of bodily music that exists out of time. Electro, italo, cold wave, new beat, house, techno from a one-of-a-kind digger who visits dusty basements to rescue lost tapes.",
+   "id": "dark-entries-record-12th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/5e1b4178-864b-4b17-93b0-a86b0e30df37_1794355200.png",
+   "location": "San Francisco",
+   "tags": "Electro, Techno, Synth Pop",
+   "title": "DARK ENTRIES w/ Josh Cheon",
+   "url": "https://www.nts.live/shows/dark-entries-record/episodes/dark-entries-record-12th-november-2026"
+  },
+  {
    "date": "2026-10-15T19:00:00Z",
    "desc": "Dark Entries reissues archival and contemporary gems that prove to be crucial to our modern idea of bodily music that exists out of time. Electro, italo, cold wave, new beat, house, techno from a one-of-a-kind digger who visits dusty basements to rescue lost tapes. From the host: \"Today’s show is dedicated to Stephen Jones, a pioneer of video art in Australia who passed away on October 8, 2026. He developed custom analog video synthesizers for artistic production and live performances. From 1983 to 1992, he was a principal member of Severed Heads, pioneering the integration\"",
    "id": "dark-entries-record-15th-october-2026",
@@ -111,19 +121,9 @@
    "tags": "New Wave, Indie Rock, Goth Rock",
    "title": "DARK ENTRIES: Perry Bamonte Tribute w/ Josh Cheon",
    "url": "https://www.nts.live/shows/dark-entries-record/episodes/dark-entries-record-8th-january-2026"
-  },
-  {
-   "date": "2025-12-11T20:00:00Z",
-   "desc": "Dark Entries reissues archival and contemporary gems that prove to be crucial to our modern idea of bodily music that exists out of time. Electro, italo, cold wave, new beat, house, techno from a one-of-a-kind digger who visits dusty basements to rescue lost tapes.",
-   "id": "dark-entries-record-11th-december-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/257ba534-9d52-4c50-89f3-62349c7a39af_1765411200.jpeg",
-   "location": "San Francisco",
-   "tags": "New Wave, Synth Pop, House",
-   "title": "DARK ENTRIES w/ Josh Cheon",
-   "url": "https://www.nts.live/shows/dark-entries-record/episodes/dark-entries-record-11th-december-2025"
   }
  ],
  "kind": "nts",
  "name": "DARK ENTRIES w/ Josh Cheon",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

@@ -3,6 +3,16 @@
  "id": "selador-sessions",
  "items": [
   {
+   "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-392-jody-barr-1.mp3",
+   "date": "2026-11-13T00:00:00Z",
+   "desc": "We welcome Jody Barr to the Selador Sessions, ahead of his gig at Seladoria, Liverpool at Wav Garden on 28th November, alongside Dave Seaman, Steve Parry, Dilby & Lloyd Barwood. Enjoy the mix! Brett Gould - Answer from the universe Servando - Dizziness Moulou - Sunshine Trilucid - Strings of light Alexis Taylor & Blessed Madonna - Time (Sasha Dub) Hernan Cattaneo & Jody Barr - ID Hernan Cattaneo & Jody Barr - Terra Firma Simon vugrambon - Grey Area Aubrey Fry - Eternal Moment (Jody Barr Remix) Lifelike & Kris Menace - Discopolis This show is syndicated & distributed exclusively by Syndicast. …",
+   "duration": "1:00:02",
+   "id": "https:--app.syndicast.co.uk-site-show-selador-sessions-selador-sessions-392-jody-barr",
+   "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-392-jody-barr.jpeg/f08a60ad437493340ef9ee6ac24fad6d.png",
+   "title": "Selador Sessions 392 | Jody Barr",
+   "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-392-jody-barr"
+  },
+  {
    "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sesions-391-jon-towell-1.mp3",
    "date": "2026-11-05T00:00:00Z",
    "desc": "We welcome friend of the label Jon Towell to the Selador Session. Its been great to see him rapidly rising through the ranks, with his excellent productions and collaborations gracing many wonderful record labels. His ‘Another Life’ parties in Sheffield have also been growing in stature, and the recent Sasha gig was spectacular! Enjoy The mIx! tracklist Jon Towell- ID Four Candles - Eudaimonia 303 (Original Mix) [Bedrock Records] Nicholas Van Orten - ID Zuccasam & Jon Towell - Reach (Original Mix) [Nightcolours] Zuccasam - ID Carlos A - Metropolitano - (Jon Towell Remix) [Plastic Fantastic] T…",
@@ -241,19 +251,9 @@
    "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-368-steve-parry.jpeg/8c499534a68639ce22cdea4f68e7b28f.png",
    "title": "Selador Sessions 368 | Steve Parry",
    "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-368-steve-parry"
-  },
-  {
-   "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-367-markus-saarlander-1.mp3",
-   "date": "2026-05-21T00:00:00Z",
-   "desc": "Selador Sessions 367 | Markus Saarlander We welcome Markus Saarlander to the Selador Sessions, the promoter and resident DJ of the wonderful Berlin-Brighton events. We have teamed up with them and Brighton Music Conference to bring this weeks Seladoria Sold Out show! Markus will be playing for us on Saturday alongside label bosses Dave & Steve, plus Just Her, Spencer Brown and Luke Brancaccio! So if you're coming along, we will see you on the dancefloor! But either way, enjoy the mix! Track List HOVR - Dance Meditation feat. LASKÀ - Stil Vor Talent Trilucid & Esque - The Key - Colorize Pole P…",
-   "duration": "59:24",
-   "id": "https:--app.syndicast.co.uk-site-show-selador-sessions-selador-sessions-367-markus-saarlander",
-   "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-367-markus-saarlander.jpeg/9614be8b362d40700de227862f7d9cef.png",
-   "title": "Selador Sessions 367 | Markus Saarlander",
-   "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-367-markus-saarlander"
   }
  ],
  "kind": "rss",
  "name": "Selador Sessions (Dave Seaman & Steve Parry)",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

@@ -4,7 +4,7 @@
  "items": [
   {
    "date": "2026-11-12T07:00:00Z",
-   "desc": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
+   "desc": "PAM is joined by a previous Okonkole Y Trompa guest to soundtrack a grey winter morning in Paris…",
    "id": "early-bird-show-w-pam-12th-november-2026",
    "image": "https://media.ntslive.co.uk/resize/400x400/4ff6538c-230b-4e7a-9152-8db557fdd927_1794441600.jpeg",
    "location": "Paris",
@@ -125,5 +125,5 @@
  ],
  "kind": "nts",
  "name": "The Early Bird Show w/ PAM",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

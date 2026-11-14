@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-13T08:03:19Z",
+   "desc": "It’s Friday so we’re listening to something more upbeat.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-fling-ii",
+   "image": "https://substackcdn.com/image/fetch/$s_!UcaA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ca0b03b-8e8a-4399-b0f1-c5423940a7f4_1200x1200.jpeg",
+   "title": "Fling II",
+   "url": "https://www.flowstate.fm/p/fling-ii"
+  },
+  {
+   "audio": null,
    "date": "2026-11-12T08:02:29Z",
    "desc": "Today we’re listening to Anita Tatlow, a British ambient musician based in Hong Kong.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!WxSV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5842abbe-bc41-46a2-b010-2df9dddce786_2154x1810.png",
    "title": "Stuart Bogie (Interview)",
    "url": "https://www.flowstate.fm/p/stuart-bogie-interview-554"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-16T07:03:32Z",
-   "desc": "Today we’re listening to Charanjit Singh, an Indian composer and electronic musician from Bombay.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-charanjit-singh",
-   "image": "https://substackcdn.com/image/fetch/$s_!L1tV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bb60be4-7f82-418e-b3f0-cd369a15a356_2574x1532.png",
-   "title": "Charanjit Singh",
-   "url": "https://www.flowstate.fm/p/charanjit-singh"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

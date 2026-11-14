@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-13T05:03:00Z",
+   "desc": "It’s a marathon and the New York duo keeps the faith, delivering another lyrical masterclass over engrossing beats from the indie rap all-stars whose work they’ve cultivated.",
+   "duration": null,
+   "id": "6af5f4418ecbac71e40b8e0e",
+   "image": null,
+   "title": "Snakes & Ladders",
+   "url": "https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-04T05:03:00Z",
    "desc": "With delirious melodic instincts, the Bronx rapper’s new tape evokes Young Money-era swag on a SoundCloud budget.",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": null,
    "title": "EXIT 2B",
    "url": "https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-29T04:03:00Z",
-   "desc": "Laced with occult imagery and enigmatic samples, the Scottish duo’s immersive new album—their first in 13 years—offers some of the most captivating music of their career.",
-   "duration": null,
-   "id": "6a1846f34d767ed313bee1cc",
-   "image": null,
-   "title": "Inferno",
-   "url": "https://pitchfork.com/reviews/albums/boards-of-canada-inferno/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-11-05T00:24:22Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

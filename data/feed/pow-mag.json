@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-13T22:40:27Z",
+   "desc": "The Berkeley-born Lloyd Omadhebo, a pioneer in music and fashion, died this week at 39.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-young-l-obituary",
+   "image": "https://substackcdn.com/image/fetch/$s_!bL81!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F280830fa-c9cf-4400-9168-84676714a029_1200x1200.png",
+   "title": "Young L Wanted You to Be Yourself",
+   "url": "https://www.powmag.net/p/young-l-obituary"
+  },
+  {
+   "audio": null,
    "date": "2026-11-12T18:53:11Z",
    "desc": "Son Raw remembers the legend—and the way he taught us to look beyond ourselves.",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!82Ly!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c44b994-6442-498f-b9ab-58b8c3336161_1200x1200.png",
    "title": "No One Did It Better Than The D.O.C.",
    "url": "https://www.powmag.net/p/the-doc-interview-paid-in-full"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-20T17:31:25Z",
-   "desc": "The electronic legend’s most misunderstood album was ahead of its time—but not anymore.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-man-vs-machine-aphex-twin-drukqs",
-   "image": "https://substackcdn.com/image/fetch/$s_!UWy7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c05bff9-be5b-4665-80d3-0bee63d41643_1200x1200.png",
-   "title": "Man Vs. Machine: Aphex Twin’s Drukqs at 25",
-   "url": "https://www.powmag.net/p/man-vs-machine-aphex-twin-drukqs"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

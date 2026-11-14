@@ -3,6 +3,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2437220790-balance-series-balance-selections-christian-voldstad.mp3",
+   "date": "2026-11-13T00:00:00Z",
+   "desc": "Christian Voldstad's relationship with electronic music began in the UK, but New York’s underground party scene gave it direction, drawing him behind the decks and into the work of building nights of his own. After a period as a free agent, Christian found a home at Bespoke Musik, where his thoughtful, layered sets earned him a residency. Since 2021, he has also held a residency at Ibiza’s Beachouse, playing on Playa d’en Bossa, joined the All Day I Dream roster and contributed filmed mixes and performances at events in Miami, Ibiza and California. On this Balance Selections mix, the Bespoke …",
+   "duration": "00:59:25",
+   "id": "tag:soundcloud-2010:tracks-2437220790",
+   "image": "https://i1.sndcdn.com/artworks-ABtDlVuOVHTLYHfq-QMt2bA-t3000x3000.jpg",
+   "title": "Balance Selections 392: Christian Voldstad",
+   "url": "https://soundcloud.com/balance-series/balance-selections-christian-voldstad"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2435288571-balance-series-joe-miller-live-balance-croatia.mp3",
    "date": "2026-11-10T00:00:00Z",
    "desc": "Recording of Joe Miller's set from Balance Croatia 2026. @joe-miller ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ Buy FINAL RELEASE TIX: go.kaboodle.co.uk/Balance-2027-GS _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-DfzNq7nwXwMtJCbP-vdXFoQ-t3000x3000.jpg",
    "title": "Peter Makto: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/peter-makto-live-from-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2399041713-balance-series-dowden-live-balance-croatia.mp3",
-   "date": "2026-09-12T00:00:00Z",
-   "desc": "Recording of Dowden's set from Balance Croatia 2026. @dowdenmusic ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "02:00:57",
-   "id": "tag:soundcloud-2010:tracks-2399041713",
-   "image": "https://i1.sndcdn.com/artworks-leMVkZtlHCtsNKJv-IOMZSg-t3000x3000.jpg",
-   "title": "Dowden: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/dowden-live-balance-croatia"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

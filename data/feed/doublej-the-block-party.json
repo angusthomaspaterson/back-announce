@@ -3,6 +3,17 @@
  "id": "doublej-the-block-party",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/qk.aac",
+   "date": "2026-11-13T08:00:00Z",
+   "desc": "Join Hau Latukefu for a massive hip hop fueled party to help you roll into the weekend in style. Available until 11 Dec. Tracklist: Plutonic Lab – Rumour / Submariner; Hermitude – Highway Burner; JOY. – Smoke Too Much; Rockmelons feat. Deni Hines – Ain't No Sunshine; Skunkhour – Green Grocer; B Wise feat. Natalie Slade – Eyes Wide; Lyrical Commission – Custom Made; Class A & AOI – Makin' Your Head Nod; Tornts – Step Into My World; Dawn Laird – Mel Blanc (I'm Fucked); Kings Konekted – The Delegates; 2Dogs feat. Kowhai – Character Spill; Emma Donovan & The Putbacks – Dawn; Lady Lash – Busy Bee;…",
+   "duration": "7200",
+   "id": "107332540",
+   "image": "https://live-production.wcms.abc-cdn.net.au/025729300acc1311e1c9815de47db5ea?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "The Block Party, 13 Nov",
+   "until": "2026-12-11T08:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107332540"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/kt.aac",
    "date": "2026-11-06T08:00:00Z",
    "desc": "It is November, so you know what that means? AUS MUSIC MONTH. So in honour of the fact, this week's show will be titled Homegrown Harvest; two hours of local yesteryear jams from the likes of BrothaBlack to Madame Wu to Katalyst with Jade MacRae to Baker Boy. Lock in! Available until 4 Dec. Tracklist: BrothaBlack – Are You With me Out There?; Foreign Heights feat. N'fa, BrothaBlack and Sereck – Get Yours (remix); 1200 Techniques – Where Ur At (Original Full Length Version); A-Love – Petty; KillaQueenz feat. Vida-Sunshyne and Candy – Woman Run Things (remix_; Astronomy Class – Woman Wants to D…",
@@ -34,20 +45,9 @@
    "title": "The Block Party : Astronomy Class",
    "until": "2026-11-20T08:00:00Z",
    "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107252006"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pg/Z/r5.aac",
-   "date": "2026-10-16T08:00:00Z",
-   "desc": "We take it back to the golden era of modern day R&B this week - I'm talking late '90s / early 2000s. The era of dancefloor fillers and slow jam killers. We spin some Next, some Jaheim, Brownstone and heaps more. Available until 13 Nov. Tracklist: Next – Too Close; Next – Wifey; Koffee Brown feat. B12 – Weekend Thing; Jaheim – Just In Case; Nivea – Don't Mess With the Radio; Zhane – Sending My Love; Busta Rhymes – Party is Goin' On Over Here; Missy Elliott – On & On; MC Lyte – Ruffneck; Ms. Jade feat. Nelly Furtado and Timbaland – Ching Ching; Rah Digga feat. Eve and Sonja Blade – Do the Ladie…",
-   "duration": "7200",
-   "id": "107225522",
-   "image": "https://live-production.wcms.abc-cdn.net.au/c3f974ff0e7d97b29fc3fd39fae765d0?impolicy=wcms_watermark_abc&cropH=312&cropW=554&xPos=0&yPos=16&width=862&height=485&imformat=generic",
-   "title": "The Block Party : Next",
-   "until": "2026-11-13T08:00:00Z",
-   "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107225522"
   }
  ],
  "kind": "abc",
  "name": "The Block Party with Hau Latukefu",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }

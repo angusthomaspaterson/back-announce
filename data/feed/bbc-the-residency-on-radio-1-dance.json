@@ -3,6 +3,16 @@
  "id": "bbc-the-residency-on-radio-1-dance",
  "items": [
   {
+   "date": "2026-11-13T01:00:00Z",
+   "desc": "On BBC Sounds until 7 Jan (UK only). Effy takes us on a journey around the world with music from her favourite producers and DJs. Expect music from Australia, Ireland, Japan and beyond! Plus, French DJ Vitaline is in the mix, with her signature sound that fuses bass, techno and breaks. Produced by We Are Grape for BBC Radio 1 Dance.",
+   "duration": "7200",
+   "id": "m0033rhm",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0plg3xq.jpg",
+   "title": "Effy - Around the World",
+   "until": "2027-01-07T02:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0033rhm"
+  },
+  {
    "date": "2026-11-06T01:00:00Z",
    "desc": "On BBC Sounds until 31 Dec (UK only). Effy steps up to the Residency hot seat with an introduction to her sound! Expect emotional electronic music, nostalgic EDM and deep house sounds with tracks from Dusky, Maya Jane Coles, Bicep and more. Plus, Effy invites French producer RONI into the CLUBGRL Mix to spin 30 minutes of music from the likes of Saidah, Ploy, I. JORDAN and more. Produced by We Are Grape for BBC Radio 1 Dance.",
    "duration": "7200",
@@ -75,5 +85,5 @@
  ],
  "kind": "bbc",
  "name": "The Residency on Radio 1 Dance",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-14T00:21:30Z"
 }
