@@ -30,6 +30,9 @@ img{max-width:100%}
 /* ---- header and tabs ---- */
 header.top{position:sticky;top:0;z-index:5;background:var(--bg);padding-block:calc(12px + env(safe-area-inset-top,0px)) 10px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;align-items:flex-end;gap:6px 14px}
 header.top h1{font-size:24px;font-weight:700;letter-spacing:-.01em;line-height:1}
+/* The strapline shows only on wide screens, beside the title; phones keep every pixel for the feed. */
+.tagline{display:none;margin:0;color:var(--muted);font-size:13px;line-height:1;align-self:flex-end;padding-bottom:3px}
+@media (min-width:900px){ .tagline{display:block} }
 .tabs{display:flex;gap:4px;background:var(--chip);border-radius:999px;padding:3px}
 .tabs a{text-decoration:none;font-weight:600;font-size:13px;padding:5px 12px;border-radius:999px;display:inline-flex;align-items:center;gap:6px;line-height:1.2}
 .tabs a[aria-current="page"]{background:var(--chip-on);color:var(--chip-on-fg)}
@@ -231,6 +234,7 @@ footer p{margin:0 0 6px}
 
 /* ---- help ---- */
 .hp{padding-block:6px 30px;font-size:14.5px;line-height:1.55}
+.hp .strap{font-family:var(--display);font-size:26px;font-weight:700;letter-spacing:-.01em;line-height:1.15;margin:18px 0 0}
 .hp .lead{font-size:15.5px;margin:14px 0 4px}
 .hp h2{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-family:var(--body);font-weight:600;margin:24px 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line)}
 .hp ul,.hp ol{padding-left:20px;margin:0;display:grid;gap:7px}

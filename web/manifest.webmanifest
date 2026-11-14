@@ -1,7 +1,7 @@
 {
   "name": "Back Announce",
   "short_name": "Back Announce",
-  "description": "Radio shows, mixes, podcasts and writing where someone tells you what you just heard.",
+  "description": "Human curation, gathered every morning: radio shows, mixes, podcasts and writing where someone tells you what you just heard.",
   "id": "./",
   "start_url": "./index.html#feed",
   "scope": "./",

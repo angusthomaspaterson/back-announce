@@ -33,6 +33,7 @@ function route() {
   $('tabFeed').setAttribute('aria-current', r.tab === 'feed' ? 'page' : 'false');
   $('tabOnair').setAttribute('aria-current', r.tab === 'onair' ? 'page' : 'false');
   $('meta').hidden = r.tab !== 'feed'; $('clocks').hidden = r.tab !== 'onair';
+  $('tagline').hidden = !(r.tab === 'feed' && r.view === 'feed');   // the strapline sits beside the feed's own title
   if (r.tab === 'help') $('title').textContent = 'Help';
   else if (r.tab === 'onair') { $('title').textContent = 'On Air'; onair.start(); onair.render(); }
   else {
