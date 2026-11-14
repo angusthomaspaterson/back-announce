@@ -3,6 +3,16 @@
  "id": "manual-movement",
  "items": [
   {
+   "audio": "https://mcdn.podbean.com/mf/web/mrdanswpu2j8m43v/Manual_Movement_202611_NickNewman.mp3",
+   "date": "2026-11-14T12:08:00Z",
+   "desc": "Celebrating the release of his new album 'Mastermind', we've asked Nick Newman to record an exclusive guest mix for Manual Movement.",
+   "duration": "25678",
+   "id": "manualmovement.podbean.com-9077da45-cc75-3213-acaf-5d7ff2e07573",
+   "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7789622/202611-ManualMovement-NickNewman.jpg",
+   "title": "Manual Movement November 2026: Nick Newman",
+   "url": "https://manualmovement.podbean.com/e/manual-movement-november-2026-nick-newman/"
+  },
+  {
    "audio": "https://mcdn.podbean.com/mf/web/cn739ypdz98mka82/Manual_Movement_202610_Bodai.mp3",
    "date": "2026-10-14T12:21:00Z",
    "desc": "Bodai is one of the artists making her way to Amsterdam for this months ADE. She'll make an appearance at our annual Manual ADE Family Get Together which takes place on Saturday night. Have a listen to her exclusive guest mix for Manual Movement and know what to expect!",
@@ -241,19 +251,9 @@
    "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7789622/202411-ManualMovement-NoiyseProject.jpg",
    "title": "Manual Movement November 2024: Noiyse Project",
    "url": "https://manualmovement.podbean.com/e/manual-movement-november-2024-noiyse-project/"
-  },
-  {
-   "audio": "https://mcdn.podbean.com/mf/web/jqvjtwg8rea6dg4g/Manual_Movement_202410_Danae.mp3",
-   "date": "2024-10-14T08:39:00Z",
-   "desc": "This month we're welcoming talented Amsterdam based duo Danae on board for an exclusive guest mix. New artists to our MNL label this year who you will find on the line-up of our Manual ADE Family Get Together at Kadinsky Cafe as well.",
-   "duration": "3361",
-   "id": "manualmovement.podbean.com-e3f6166d-5243-3f8b-b4dd-fb2f1dd7da33",
-   "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7789622/202410-ManualMovement-Danae.jpg",
-   "title": "Manual Movement October 2024: Danae",
-   "url": "https://manualmovement.podbean.com/e/manual-movement-october-2024-danae/"
   }
  ],
  "kind": "rss",
  "name": "Manual Movement (Manual Music)",
- "updatedAt": "2026-10-14T23:57:27Z"
+ "updatedAt": "2026-11-14T23:00:15Z"
 }

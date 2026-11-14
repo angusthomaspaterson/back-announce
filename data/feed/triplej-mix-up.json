@@ -3,6 +3,50 @@
  "id": "triplej-mix-up",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/fr.mp3",
+   "date": "2026-11-14T14:00:00Z",
+   "desc": "Lock in for an hour of tech house power from Berlin’s Bambi-S! Available until 14 Dec.",
+   "duration": "3613",
+   "id": "107367680",
+   "image": "https://live-production.wcms.abc-cdn.net.au/734a5f77ec351fd0c3b40d3dcb01c3bd?impolicy=wcms_crop_resize&cropH=2249&cropW=3999&xPos=0&yPos=132&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Bambi-S",
+   "until": "2026-12-14T14:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/bambis-djset-2026/107367680"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/fp.mp3",
+   "date": "2026-11-14T13:00:00Z",
+   "desc": "London’s bbyclose stays iconic with banging house & garage tunes! Available until 14 Dec.",
+   "duration": "3568",
+   "id": "107367682",
+   "image": "https://live-production.wcms.abc-cdn.net.au/9523a4b89d031d184923534652aa0503?impolicy=wcms_crop_resize&cropH=1875&cropW=3333&xPos=0&yPos=1563&width=862&height=485&imformat=generic",
+   "title": "Mix Up: bbyclose",
+   "until": "2026-12-14T13:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/bbyclose-djset-2026/107367682"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/fo.mp3",
+   "date": "2026-11-14T12:00:00Z",
+   "desc": "LA-based producer GUDFELLA brings feel-good grooves to the booth ahead of his Aussie headline tour! Available until 14 Dec.",
+   "duration": "3655",
+   "id": "107367676",
+   "image": "https://live-production.wcms.abc-cdn.net.au/c4738cf450b77b655ed04c542d7168af?impolicy=wcms_crop_resize&cropH=1013&cropW=1800&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "Mix Up: GUDFELLA",
+   "until": "2026-12-14T12:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/gudfella-djset-2026/107367676"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/lo.mp3",
+   "date": "2026-11-14T11:00:00Z",
+   "desc": "Subs up for our November Resident IsGwan’s Strawberry Fields warm up mix! Available until 14 Dec.",
+   "duration": "3621",
+   "id": "107367674",
+   "image": "https://live-production.wcms.abc-cdn.net.au/ab2b40fa37f15c9b383ec8ebcc7b481e?impolicy=wcms_crop_resize&cropH=476&cropW=847&xPos=0&yPos=508&width=862&height=485&imformat=generic",
+   "title": "Mix Up Resident: IsGwan",
+   "until": "2026-12-14T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w2-djset-2026/107367674"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q9/Z/f4.mp3",
    "date": "2026-11-07T14:00:00Z",
    "desc": "Eora/Sydney-based rising star KÄRLA sends it with a set full of bouncy techno and groovy trance! Available until 7 Dec.",
@@ -67,53 +111,9 @@
    "title": "Mix Up: DINA",
    "until": "2026-11-30T13:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/mix-up/dina-djset-2026/107313772"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/ro.mp3",
-   "date": "2026-10-31T12:00:00Z",
-   "desc": "Eora/Sydney's Carolina Gasolina lays down Latin club, Jersey, juke and a whole lot more on Mix Up! Available until 30 Nov.",
-   "duration": "3529",
-   "id": "107313768",
-   "image": "https://live-production.wcms.abc-cdn.net.au/d7b871b9e77412e3ad5e9329c96a6dae?impolicy=wcms_crop_resize&cropH=1865&cropW=3315&xPos=0&yPos=1818&width=862&height=485&imformat=generic",
-   "title": "Mix Up: Carolina Gasolina",
-   "until": "2026-11-30T12:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/carolinagasolina-djset-2026/107313768"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/rk.mp3",
-   "date": "2026-10-31T11:00:00Z",
-   "desc": "Ahead of her Down Under shows, UK-based DJ and producer Ellia Jaya is bringing house heaters to the booth! Available until 30 Nov.",
-   "duration": "3581",
-   "id": "107313766",
-   "image": "https://live-production.wcms.abc-cdn.net.au/1b99e465a0f38533c1b6ee4826dd7187?impolicy=wcms_crop_resize&cropH=743&cropW=1320&xPos=0&yPos=358&width=862&height=485&imformat=generic",
-   "title": "Mix Up: Ellia Jaya",
-   "until": "2026-11-30T11:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/elliajaya-djset-2026/107313766"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/ro.mp3",
-   "date": "2026-10-24T14:00:00Z",
-   "desc": "Lock in for an hour of minimal and tech house sounds from Naarm/Melbourne’s Hannah D. Available until 23 Nov.",
-   "duration": "3600",
-   "id": "107287522",
-   "image": "https://live-production.wcms.abc-cdn.net.au/9d35cd3b7c8d2395f7052250f7471588?impolicy=wcms_crop_resize&cropH=1189&cropW=2114&xPos=0&yPos=161&width=862&height=485&imformat=generic",
-   "title": "Mix Up: Hannah D",
-   "until": "2026-11-23T14:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/hannahd-djset-2026/107287522"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pn/Z/rj.mp3",
-   "date": "2026-10-24T13:00:00Z",
-   "desc": "Irish producer Body Clinic brings old school prog house selections to the triple j airwaves. Available until 23 Nov.",
-   "duration": "3617",
-   "id": "107287520",
-   "image": "https://live-production.wcms.abc-cdn.net.au/60e03fa3a17dadb4ca16c19e3bf909b3?impolicy=wcms_crop_resize&cropH=1482&cropW=2634&xPos=0&yPos=703&width=862&height=485&imformat=generic",
-   "title": "Mix Up: Body Clinic",
-   "until": "2026-11-23T13:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/bodyclinic-djset-2026/107287520"
   }
  ],
  "kind": "abc",
  "name": "Mix Up with Kailyn Crabbe",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-14T23:00:15Z"
 }

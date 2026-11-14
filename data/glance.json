@@ -1,6 +1,79 @@
 {
  "items": [
   {
+   "d": "2026-11-14T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Drum & Bass Show",
+   "sid": "bbc-radio-1s-drum-and-bass-show",
+   "t": "with Charlie Tee: 1991 & Grace Barton Drop of the Week!",
+   "u": "https://www.bbc.co.uk/sounds/play/m003427m"
+  },
+  {
+   "d": "2026-11-14T18:00:00Z",
+   "g": "BBC",
+   "s": "Gilles Peterson on 6 Music",
+   "sid": "bbc-gilles-peterson",
+   "t": "Edu Lobo in conversation",
+   "u": "https://www.bbc.co.uk/sounds/play/m00341jh"
+  },
+  {
+   "d": "2026-11-14T15:00:00Z",
+   "g": "BBC",
+   "s": "Jamz Supernova",
+   "sid": "bbc-jamz-supernova",
+   "t": "with Zora Jones",
+   "u": "https://www.bbc.co.uk/sounds/play/m00341jf"
+  },
+  {
+   "d": "2026-11-14T14:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up: Bambi-S",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/bambis-djset-2026/107367680"
+  },
+  {
+   "d": "2026-11-14T13:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up: bbyclose",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/bbyclose-djset-2026/107367682"
+  },
+  {
+   "d": "2026-11-14T12:08:00Z",
+   "g": "Progressive",
+   "s": "Manual Movement (Manual Music)",
+   "sid": "manual-movement",
+   "sp": "Manual Movement (Manual Music) Manual Movement November 2026: Nick Newman",
+   "t": "Manual Movement November 2026: Nick Newman",
+   "u": "https://manualmovement.podbean.com/e/manual-movement-november-2026-nick-newman/"
+  },
+  {
+   "d": "2026-11-14T12:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up: GUDFELLA",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/gudfella-djset-2026/107367676"
+  },
+  {
+   "d": "2026-11-14T11:00:00Z",
+   "g": "triple j",
+   "s": "Mix Up with Kailyn Crabbe",
+   "sid": "triplej-mix-up",
+   "t": "Mix Up Resident: IsGwan",
+   "u": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w2-djset-2026/107367674"
+  },
+  {
+   "d": "2026-11-14T07:00:00Z",
+   "g": "triple j",
+   "s": "House Party with Shantan Wantan Ichiban and Latifa Tee",
+   "sid": "triplej-house-party",
+   "t": "House Party, 14 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/house-party/house-party/107361570"
+  },
+  {
    "d": "2026-11-14T02:00:34Z",
    "g": "Perth",
    "s": "RTRFM / RTR2 mixes",
@@ -88,85 +161,10 @@
    "sp": "BBC Music Introducing Mixtape (6 Music) With a new Track of the Week by Another; Country $$$$",
    "t": "With a new Track of the Week by Another; Country $$$$",
    "u": "http://www.bbc.co.uk/programmes/p0pm91ds"
-  },
-  {
-   "d": "2026-11-13T11:00:00Z",
-   "g": "Podcasts",
-   "s": "Indiecast",
-   "sid": "indiecast",
-   "sp": "Indiecast Pitchfork's \"Greatest Indie Rock Albums Of All Time\" List + Coachella 2027 Lineup Announced",
-   "t": "Pitchfork's \"Greatest Indie Rock Albums Of All Time\" List + Coachella 2027 Lineup Announced",
-   "u": "https://rss.art19.com/episodes/21781b17-735d-40bb-9d61-dee51286efbc.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "d": "2026-11-13T11:00:00Z",
-   "g": "NTS",
-   "s": "NTS In Focus",
-   "sid": "nts-in-focus",
-   "t": "In Focus: Astrud Gilberto",
-   "u": "https://www.nts.live/shows/in-focus/episodes/in-focus-astrud-gilberto-13th-november-2026"
-  },
-  {
-   "d": "2026-11-13T11:00:00Z",
-   "g": "triple j",
-   "s": "Doof with Latifa Tee",
-   "sid": "triplej-doof",
-   "t": "Doof, 13 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/doof/doof/107360000"
-  },
-  {
-   "d": "2026-11-13T10:36:20Z",
-   "g": "Writing",
-   "s": "Crack Magazine",
-   "sid": "crack-magazine",
-   "t": "Ableton announces Live 13 with new Step Sequencer, devices and Push 3 features",
-   "u": "https://crackmagazine.net/2026/11/ableton-announces-live-13/?utm_source=rss&utm_medium=rss&utm_campaign=ableton-announces-live-13"
-  },
-  {
-   "d": "2026-11-13T10:00:00Z",
-   "g": "Podcasts",
-   "s": "Popcast (New York Times)",
-   "sid": "popcast",
-   "sp": "Popcast (New York Times) Offset Pours His Heart Out: Takeoff, Cardi B, Gambling & Getting Shot",
-   "t": "Offset Pours His Heart Out: Takeoff, Cardi B, Gambling & Getting Shot",
-   "u": "https://www.nytimes.com/column/popcast-pop-music-podcast"
-  },
-  {
-   "d": "2026-11-13T08:03:19Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Fling II",
-   "u": "https://www.flowstate.fm/p/fling-ii"
-  },
-  {
-   "d": "2026-11-13T08:00:00Z",
-   "g": "Double J",
-   "s": "The Block Party with Hau Latukefu",
-   "sid": "doublej-the-block-party",
-   "t": "The Block Party, 13 Nov",
-   "u": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107332540"
-  },
-  {
-   "d": "2026-11-13T07:00:00Z",
-   "g": "triple j",
-   "s": "House Party with Shantan Wantan Ichiban and Latifa Tee",
-   "sid": "triplej-house-party",
-   "t": "House Party, 13 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/house-party/house-party/107359990"
-  },
-  {
-   "d": "2026-11-13T06:00:00Z",
-   "g": "Podcasts",
-   "s": "Sound Opinions",
-   "sid": "sound-opinions",
-   "sp": "Sound Opinions The Essential Elliott Smith Songs, Plus Opinions on Fontaines D.C. & RIP Juan Adkins",
-   "t": "The Essential Elliott Smith Songs, Plus Opinions on Fontaines D.C. & RIP Juan Adkins",
-   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/64cc8ac8-9fad-4f26-9b9d-a008c567037f.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 664,
+ "newCount": 668,
  "paused": 23,
  "releases": [
   {
@@ -251,5 +249,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-14T03:30:15Z"
+ "updated": "2026-11-14T23:00:15Z"
 }
