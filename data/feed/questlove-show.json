@@ -3,9 +3,19 @@
  "id": "questlove-show",
  "items": [
   {
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ee5d0ea4-dea2-4d83-952e-ae32009e30b3/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
+   "date": "2026-11-15T19:20:00Z",
+   "desc": "Recorded one week before the 2020 election, this classic sit-down goes behind the news desk with Joy Reid. She explains how she anchors The ReidOut from a studio NBC built in her basement, with her husband running production and her daughter handing her the scripts. Joy also tells the story of her unlikely path: she was born in East Flatbush, grew up in Denver, and switched from pre-med to film at Harvard. From there she produced a Reggae video show and booked a very young Shaggy (who later appeared on QLS) before she broke into local news in Miami. Along the way, the crew asks why Hip-Hop we…",
+   "duration": "4715",
+   "id": "2ca01dc6-d664-11ea-b9e3-2770b88864a4",
+   "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ee5d0ea4-dea2-4d83-952e-ae32009e30b3/image.jpg?t=1762360628&size=Large",
+   "title": "QLS Classic: Joy Reid",
+   "url": "https://omny.fm/shows/questlove-supreme/joy-reid"
+  },
+  {
    "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/51ef2584-0f80-4827-b3e7-b4fd00254a57/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
    "date": "2026-11-09T05:01:00Z",
-   "desc": "Before the Ramones and the Sex Pistols, Lenny Kaye was clerking at Village Oldies on Bleecker Street. In 1972, he compiled Nuggets —and its liner notes helped shape the emerging idea of Punk Rock. Questlove and Lenny nerd out as fellow record obsessives, swapping stories about organizing vinyl, seeing Jimi Hendrix twice, meeting Patti Smith (whom he played bass for ever since), and recording “Piss Factory” in the final 15 minutes of a session at Electric Lady. Lenny also talks about his new solo debut,  Goin' Local , out now on Yep Roc. Made for artistic closure, not to chase a trend, the per…",
+   "desc": "Before the Ramones and the Sex Pistols, Lenny Kaye was clerking at Village Oldies on Bleecker Street. In 1972, he compiled Nuggets —and its liner notes helped shape the emerging idea of Punk Rock. Questlove and Lenny nerd out as fellow record obsessives, swapping stories about organizing vinyl, seeing Jimi Hendrix twice, meeting Patti Smith (whom he played guitar for ever since), and recording “Piss Factory” in the final 15 minutes of a session at Electric Lady. Lenny also talks about his new solo debut, Goin' Local , out now on Yep Roc. Made for artistic closure, not to chase a trend, the pe…",
    "duration": "5744",
    "id": "51ef2584-0f80-4827-b3e7-b4fd00254a57",
    "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/51ef2584-0f80-4827-b3e7-b4fd00254a57/image.jpg?t=1794239283&size=Large",
@@ -241,19 +251,9 @@
    "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/386c2aaf-0bd9-4dc8-832e-afe200cee7a2/image.jpg?t=1681734971&size=Large",
    "title": "QLS Classic: Bob James",
    "url": "https://omny.fm/shows/questlove-supreme/bob-james"
-  },
-  {
-   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/529a5063-9d90-498b-a1b6-b4c400183eed/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
-   "date": "2026-09-13T01:39:17Z",
-   "desc": "Open Mike Eagle and Cousin Jake reflect on Questlove’s deep conversation with Maseo of De La Soul, pulling out its funniest reveals and heaviest emotional moments. This touches on nuggets from Gorillaz’ \"Feel Good Inc.\" and salute the artistic integrity of scrapping big-name collabs when the music isn’t right. Along the way, they point out connections De La Soul to Bushwick Bill, Geto Boys, and ’80s Rap lore, and sit with Maseo’s vulnerability around loss, legacy, and the unseen work behind great performances. The duo also riff on the quiet comeback of CDs as fans return to tangible ways of s…",
-   "duration": "1515",
-   "id": "529a5063-9d90-498b-a1b6-b4c400183eed",
-   "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/529a5063-9d90-498b-a1b6-b4c400183eed/image.jpg?t=1789263382&size=Large",
-   "title": "A Reaction To The Maseo Episode Of The Questlove Show",
-   "url": "https://omny.fm/shows/questlove-supreme/a-reaction-to-the-maseo-episode-of-the-questlove-show"
   }
  ],
  "kind": "rss",
  "name": "The Questlove Show",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-15T23:23:49Z"
 }

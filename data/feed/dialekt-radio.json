@@ -3,6 +3,16 @@
  "id": "dialekt-radio",
  "items": [
   {
+   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/e3503418-438d-4f90-bed5-93c6ddbdf5cd/group-item/f988d75c-479a-42c2-b775-a3ff68855260/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
+   "date": "2026-11-15T18:49:08Z",
+   "desc": "1. Âme & Jeannel - Cold 00:00:39 2. Rromarin - Show You 00:04:52 3. Nora En Pure - Big World 00:08:51 4. André Moret - Eyes Of Adina 00:13:40 5. Alex Wann - Lost Keys 00:19:58- DIALEKT TRACK OF THE WEEK 6. Ruben Karapetyan - Monteverde (DJ Ruby Remix) 00:23:22 7. D-Nox & Artic White - Open Your Mind 00:28:54 8. Guy Mantzur & Yuvèe - Stairway 00:33:26 9. Anyasa - Just A Feeling 00:38:36 10. Andrew Long & Hayyoo - Life 00:41:38 11. Quivver - To Watch It All Come Down 00:44:54 12. Luciano - Rise Of Angel 00:49:11- CLASSIC OF THE WEEK",
+   "duration": "01:00:28",
+   "id": "09b7ca75-5c26-44dc-bfae-12645ca6d442",
+   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
+   "title": "Dialekt Radio #354",
+   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-354-Y9g_14QN"
+  },
+  {
    "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/16c25024-09a9-4fd9-aa72-9187552c38ea/group-item/e1946094-5db0-4086-833b-36439e68eebc/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
    "date": "2026-11-08T18:35:15Z",
    "desc": "1. Rossie - Latent 00:00:40 2. Eric Luttrell - On The Line 00:07:19 3. Das Pharaoh & Nourey - Threshold 00:11:44 4. Paul Ursin - Know 00:16:24 5. CRi - Fight It 00:19:59 6. D-Nox & M.O.S. - Dream On 00:23:59- DIALEKT TRACK OF THE WEEK 7. ANUQRAM & Julian Nates - Driftline 00:29:47 8. Jamie Stevens & Kasey Taylor - Hocu Pocu 00:34:42 9. Matt Fax & Boxer - Higher (Dosem Remix) 00:41:24 10. Quivver ft. Ruth Royall - When We Look Away 00:46:11 11. Rosbeh - Brainbreak 00:49:52 12. LTJ Bukem - Music (Instrumental Peshay Rework) 00:53:21- CLASSIC OF THE WEEK",
@@ -241,19 +251,9 @@
    "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
    "title": "Dialekt Radio #330",
    "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-330-gkvpYdZF"
-  },
-  {
-   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/279989bc-4334-444e-885f-d2e0fa0f63a5/group-item/005e554e-b862-402d-a0db-c18cc04f3393/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
-   "date": "2026-05-31T19:00:00Z",
-   "desc": "1. Nico Szabo & Aske Izan ft. SAM SHI - Aside 00:00:42 2. Rinzen & Emil Toledo - The Shape of Memory 00:07:05 3. Chris Luno - Take Ur Time 00:12:39 4. Gai Barone - Macula (Hernán Cattáneo & Simply City Remix) 00:16:34 5. Tiefstone - The Pitt 00:24:23 6. Ruben Karapetyan - State Of Progression (Dilby Remix) 00:30:23 -DIALEKT TRACK OF THE WEEK 7. Rokazer - Atom 00:35:49 8. Ezequiel Arias - Psychodelia 00:41:14 9. Orbital - Halcyon & On (Jon Hopkins Remix) 00:46:28 10. Nathan Fake - The Sky Was Pink (Holden Remix) 00:53:06- CLASSIC OF THE WEEK",
-   "duration": "01:01:18",
-   "id": "ffc78244-6d9b-4e74-bc28-61f7ad4ba986",
-   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
-   "title": "Dialekt Radio #329",
-   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-329-n95Wyhj1"
   }
  ],
  "kind": "rss",
  "name": "Sultan + Shepard: Dialekt Radio",
- "updatedAt": "2026-11-08T22:55:13Z"
+ "updatedAt": "2026-11-15T23:23:49Z"
 }

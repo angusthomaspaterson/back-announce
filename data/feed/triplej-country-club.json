@@ -3,6 +3,17 @@
  "id": "triplej-country-club",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qe/Z/se.aac",
+   "date": "2026-11-15T07:00:00Z",
+   "desc": "Grab a cuppa or a tinnie - Country Club is your twanging guide to unwind and sit back with some of the best tunes local and international. Available until 15 Dec. Tracklist: Ricky Albeck – Rerun City; Miranda Lambert – Snakeskin Boots {W/ Ella Langley}; Piper Butcher – Never Know You Again; Norwood – Radiator; Emma Ogier – Land; mildred – Bird Laugh; Noeline Hoffman – Lovers; Yours, Georgina – Holiday; Josiah and the Bonnevilles – Pyro; Jacob Hackworth – Last Night I Got Lonely; Siobhan Cotchin – Top Shelf; Selene and the Strange – Cusp; Sylvie & Kacy Lee Anderson – Wish I Could Tell You; The…",
+   "duration": "3600",
+   "id": "107366328",
+   "image": "https://live-production.wcms.abc-cdn.net.au/30cdaa6122a70094e2eef6b358134e52?impolicy=wcms_crop_resize&cropH=2325&cropW=4134&xPos=0&yPos=77&width=862&height=485&imformat=generic",
+   "title": "Sara Glaidous highlights her folk-country faves",
+   "until": "2026-12-15T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-sara-glaidous-hosts/107366328"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q7/Z/p5.aac",
    "date": "2026-11-08T07:00:00Z",
    "desc": "Plus, hear new music from titans of twang including from Kings of Leon, Jackson Dean, Kacey Musgraves, Lola Scott, Jonah Kagen and much more. Available until 8 Dec. Tracklist: Lola Scott – Cold Turkey; Jackson Dean – Wildfire (Afterburn); Kaitlin Keegan – Panic Attack; Cali Rd – The Docks; Kingswood & Sarah Grace Buckley – Boots & Pistols; Mack Geiger – Campdraft Queen; Mack Geiger – String By; Kacey Musgraves – Weekend In Texas; Jonah Kagen – Ain't Convinced; Saralyn – Jet Settin'; Kings Of Leon – Cold Blue Dawn; Katie May – The Panic Years",
@@ -49,5 +60,5 @@
  ],
  "kind": "abc",
  "name": "Country Club with Outback Tom",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-15T23:23:49Z"
 }

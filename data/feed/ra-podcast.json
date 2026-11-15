@@ -3,6 +3,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2438682870-resident-advisor-ra-1065-azzi-on-the-beat.mp3",
+   "date": "2026-11-15T22:00:44Z",
+   "desc": "An hour of Lagos street-pop from Nyege Nyege's mara trailblazer. Of the many shades of Lagos street-pop, few speak as vividly to dancers as mara, whose lightning-fast, free-flowing and often comedic routines have gone viral around the world. Heady polyrhythms and chirpy synths gallop at footwork-like speeds, but it all feels blissful, as effortless as a prancing gazelle. Azzi On The Beat wants to turn mara into a household sound around the world. His debut album Mara Gram, out now on Nyege Nyege Tapes, harnesses the intensity of his live sets, building beats on the fly to match the energy of …",
+   "duration": "01:00:30",
+   "id": "tag:soundcloud-2010:tracks-2438682870",
+   "image": "https://i1.sndcdn.com/artworks-Pc9Jr2lVQzc1Muxh-5OHGrA-t3000x3000.jpg",
+   "title": "RA.1065 Azzi On The Beat",
+   "url": "https://soundcloud.com/resident-advisor/ra-1065-azzi-on-the-beat"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2436105303-resident-advisor-ex-818-marcel-dettmann.mp3",
    "date": "2026-11-11T14:19:19Z",
    "desc": "The Berghain resident on punk's ethos, choosing the difficult path and his new album, My Own Shadow. Marcel Dettmann has become synonymous with Berghain and its primary cultural export: Berlin techno. He began DJing at Ostgut, Berghain's predecessor, in 1999. When Berghain opened its doors in 2004, he was one of its first residents, on a roster that grew to include luminaries like his longtime collaborator Ben Klock. In this RA Exchange, Dettmann talks about the long road from bedroom DJ to one of techno's leading figures: first falling in love with '80s new wave records, running a record sto…",
@@ -241,19 +251,9 @@
    "image": "https://i1.sndcdn.com/artworks-ikDhmBHSE3NOypM0-qQ2dbw-t3000x3000.png",
    "title": "RA.1043 Pretty Girl",
    "url": "https://soundcloud.com/resident-advisor/ra-1043-pretty-girl"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2334025154-resident-advisor-ra-1042-soft-crash.mp3",
-   "date": "2026-06-07T21:00:53Z",
-   "desc": "Seven hours of camp, chug and genre-hopping hedonism from techno's two princes of darkness, recorded live at Kyiv's ∄. Hear the names Hayden Payne, aka Phase Fatale, and Pablo Bozzi, and it might conjure visions of dark techno. As Berghain and KHIDI residents, both artists are synonymous with the heavier strands of misfit dance music. But Soft Crash, their lockdown-born joint venture, offers something different: making the world's darkest dance floors fun again. RA.1042 is a crash course through the campier ends of the spectrum, pulling from Italo, disco, and house for a mix full of vocals, a…",
-   "duration": "07:20:26",
-   "id": "tag:soundcloud-2010:tracks-2334025154",
-   "image": "https://i1.sndcdn.com/artworks-m2WLbZHw8nz3alny-nuZhiQ-t3000x3000.png",
-   "title": "RA.1042 Soft Crash",
-   "url": "https://soundcloud.com/resident-advisor/ra-1042-soft-crash"
   }
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-15T23:23:49Z"
 }
