@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-15T19:32:07Z",
+   "desc": "INVITE: Come join Brian Beck and myself for listening and conversations with Wendy Eisenberg and Mari “more eaze” Rubio at NYU, and Meshell Ndegeocello and Charlie Hall at the ACE",
+   "duration": null,
+   "id": "https:--dadastrain.substack.com-p-on-the-records-book-tour-wednesday",
+   "image": "https://substackcdn.com/image/fetch/$s_!G1tu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F663c7d10-4d91-4858-bd29-ee83b42643c5_1013x1048.jpeg",
+   "title": "‘On The Records’ “book tour”: Wednesday 11/18 @ NYU + Thursday 11/19 @ ACE Hotel Bklyn",
+   "url": "https://dadastrain.substack.com/p/on-the-records-book-tour-wednesday"
+  },
+  {
+   "audio": null,
    "date": "2026-11-13T19:18:50Z",
    "desc": "This week’s events include ‘Heavy Hearts’ 2nd Anniversary / Durations Festival & Triple Canopy Symposium / ‘SHAKE!’ 10th Anniversary / DOCNYC Film Festival / ‘No Way Back’ Nonstop / and more",
    "duration": null,
@@ -191,19 +201,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/283e8884-b356-4dd7-bd4c-c53d145f36f3_1500x1013.jpeg",
    "title": "Bklyn Sounds 7/9/2026—7/14/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-7920267142026"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-02T20:25:00Z",
-   "desc": "This week's events include Mister Sunday: Optimo (Espacio) & Eamon Harkin / \"We Keep Us Safe\" / Ali Berger x Present Sounds / Caito Sanchez / Fourth World / A Guy Called Gerald / and much more",
-   "duration": null,
-   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-722026772026-dada-reads_summer",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/b0c36464-76bd-4485-b057-38e18a7849b1_1500x1013.jpeg",
-   "title": "Dada Reads_Summer 2026 | Bklyn Sounds 7/2/2026—7/7/2026",
-   "url": "https://dadastrain.substack.com/p/bklyn-sounds-722026772026-dada-reads_summer"
   }
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-11-14T02:52:09Z"
+ "updatedAt": "2026-11-15T21:30:06Z"
 }
