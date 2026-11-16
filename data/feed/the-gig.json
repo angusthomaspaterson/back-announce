@@ -1,7 +1,19 @@
 {
+ "about": "Riffs on music and culture, improvised and otherwise, from critic Nate Chinen",
+ "aboutAt": "2026-11-16T21:30:10Z",
  "home": "https://thegig.substack.com/",
  "id": "the-gig",
  "items": [
+  {
+   "audio": null,
+   "date": "2026-11-15T22:12:26Z",
+   "desc": "Coltrane(s) at Temple, Tyshawn Sorey, The Year in Jazz",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-new-offerings",
+   "image": "https://substackcdn.com/image/fetch/$s_!HAhf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8243a9c-3b31-4ac5-be15-fbfee1fef4b3_4032x3024.png",
+   "title": "New Offerings",
+   "url": "https://thegig.substack.com/p/new-offerings"
+  },
   {
    "audio": null,
    "date": "2026-11-08T14:51:00Z",
@@ -191,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!e4R3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba5cd212-a546-4b3f-9b22-cee72d4bed8e_5712x4284.jpeg",
    "title": "Alice Coltrane: Cosmic Music",
    "url": "https://thegig.substack.com/p/alice-coltrane-cosmic-music"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-19T10:31:07Z",
-   "desc": "Catching a vibe with Courtney Pine",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-modern-day-jazz-story",
-   "image": "https://substackcdn.com/image/fetch/$s_!2Qaf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb08d3ce3-c2cd-4d92-9887-86b8ae7979e8_2500x1667.png",
-   "title": "Modern Day Jazz Story",
-   "url": "https://thegig.substack.com/p/modern-day-jazz-story"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-11-08T23:26:09Z"
+ "updatedAt": "2026-11-16T21:30:10Z"
 }

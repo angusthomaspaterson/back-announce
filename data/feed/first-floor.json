@@ -1,7 +1,41 @@
 {
+ "about": "A newsletter about electronic music and the culture / industry that surrounds it.",
+ "aboutAt": "2026-11-16T21:30:10Z",
  "home": "https://firstfloor.substack.com/",
  "id": "first-floor",
  "items": [
+  {
+   "audio": null,
+   "date": "2026-11-16T20:02:42Z",
+   "desc": "How did one of electronic music’s most respected organizations wind up playing host to an arms company? So far, its team isn’t saying.",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-ai-weapons-developer-helsing-threw",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/483ac6d5-b96d-4bd4-9373-4627d9aafd96_1456x1048.jpeg",
+   "title": "AI Weapons Developer Helsing Threw a Party at Kraftwerk Berlin",
+   "url": "https://firstfloor.substack.com/p/ai-weapons-developer-helsing-threw"
+  },
+  {
+   "date": "2026-11-16T11:43:57Z",
+   "desc": "doris dana – hypnagogia (Somewhere Press) Maryos Syawish – Qurmami (Research) Dialog – Symbol of the Land (Kynant)",
+   "id": "rollup-2026-11-16",
+   "image": "https://substackcdn.com/image/fetch/$s_!89Cp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdb9e4a2-8979-493e-9df2-86751de05f45_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "doris dana – hypnagogia",
+     "u": "https://firstfloor.substack.com/p/doris-dana-hypnagogia"
+    },
+    {
+     "t": "Maryos Syawish – Qurmami",
+     "u": "https://firstfloor.substack.com/p/maryos-syawish-qurmami"
+    },
+    {
+     "t": "Dialog – Symbol of the Land",
+     "u": "https://firstfloor.substack.com/p/dialog-symbol-of-the-land"
+    }
+   ],
+   "title": "First Floor recommendations, 16 Nov: 3 records",
+   "url": "https://firstfloor.substack.com/p/dialog-symbol-of-the-land"
+  },
   {
    "date": "2026-11-12T12:12:55Z",
    "desc": "Rhyw – Piranha Pop (Voam) Ralph Chbeir – Familiar Grounds (Ruptured) Mínim – El Pes del Món (Not Not Fun) First Floor #336 – Plenty of Guilt to Go Around",
@@ -86,22 +120,10 @@
   },
   {
    "date": "2026-11-04T20:38:21Z",
-   "desc": "BFTT – Loving (Pulling Close) (Local Action) Bodu Vega – Trouble on the Druids Tongue / Sirens at Dawn (STEMcell) Untold – Crop Milk (Hemlock) Warrington-Runcorn New Town Development Plan – Industrial Growth (Castles in Space) Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
+   "desc": "Warrington-Runcorn New Town Development Plan – Industrial Growth (Castles in Space) Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
    "id": "rollup-2026-11-04",
-   "image": "https://substackcdn.com/image/fetch/$s_!v2vG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7329147f-91bd-4eb2-9b75-610efe615abb_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!rO62!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e2366e-3688-4f61-a8d7-b7bd8f581242_1456x1048.jpeg",
    "links": [
-    {
-     "t": "BFTT – Loving (Pulling Close)",
-     "u": "https://firstfloor.substack.com/p/bftt-loving-pulling-close"
-    },
-    {
-     "t": "Bodu Vega – Trouble on the Druids Tongue / Sirens at Dawn",
-     "u": "https://firstfloor.substack.com/p/bodu-vega-trouble-on-the-druids-tongue"
-    },
-    {
-     "t": "Untold – Crop Milk",
-     "u": "https://firstfloor.substack.com/p/untold-crop-milk"
-    },
     {
      "t": "Warrington-Runcorn New Town Development Plan – Industrial Growth",
      "u": "https://firstfloor.substack.com/p/warrington-runcorn-new-town-development"
@@ -123,7 +145,7 @@
      "u": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
     }
    ],
-   "title": "First Floor recommendations, 4 Nov: 8 records",
+   "title": "First Floor recommendations, 4 Nov: 5 records",
    "url": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
   },
   {
@@ -135,19 +157,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!STuf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27226f5f-facc-4704-b09d-43243eacd30d_1500x1079.png",
    "title": "Elori Saxl Has Better Taste Than I Do",
    "url": "https://firstfloor.substack.com/p/elori-saxl-has-better-taste-than"
-  },
-  {
-   "audio": null,
-   "date": "2026-11-03T12:17:56Z",
-   "desc": "The Detroit techno icon’s untimely death has provoked an outpouring of grief, but it ought to spark questions about why his legacy isn’t being recognized outside the usual electronic music bubble.",
-   "duration": null,
-   "id": "https:--firstfloor.substack.com-p-juan-atkins-and-the-institutional",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/d994aef4-36cc-44dd-b112-faa62dd1c51d_1456x1048.jpeg",
-   "title": "Juan Atkins and the Institutional Failures of American Culture",
-   "url": "https://firstfloor.substack.com/p/juan-atkins-and-the-institutional"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-12T21:30:08Z"
+ "updatedAt": "2026-11-16T21:30:10Z"
 }

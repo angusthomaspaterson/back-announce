@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "d": "2026-11-16T20:02:42Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "AI Weapons Developer Helsing Threw a Party at Kraftwerk Berlin",
+   "u": "https://firstfloor.substack.com/p/ai-weapons-developer-helsing-threw"
+  },
+  {
+   "d": "2026-11-16T11:43:57Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 16 Nov: 3 records",
+   "u": "https://firstfloor.substack.com/p/dialog-symbol-of-the-land"
+  },
+  {
    "d": "2026-11-16T10:00:00Z",
    "g": "triple j",
    "s": "soul ctrl with Tanya Bunter",
@@ -144,26 +160,10 @@
    "sid": "bbc-radio-1-dance-drum-and-bass-mix",
    "t": "DNB60",
    "u": "https://www.bbc.co.uk/sounds/play/m003427p"
-  },
-  {
-   "d": "2026-11-14T22:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Drum & Bass Show",
-   "sid": "bbc-radio-1s-drum-and-bass-show",
-   "t": "with Charlie Tee: 1991 & Grace Barton Drop of the Week!",
-   "u": "https://www.bbc.co.uk/sounds/play/m003427m"
-  },
-  {
-   "d": "2026-11-14T19:00:52Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 674,
+ "newCount": 675,
  "paused": 23,
  "releases": [
   {
@@ -192,6 +192,12 @@
   }
  ],
  "saved": [
+  {
+   "at": "2026-11-16T14:35:36Z",
+   "s": "6 Music's Rave Forever",
+   "t": "Gaming: Rave Radio",
+   "u": "https://www.bbc.co.uk/sounds/play/m0033n8v"
+  },
   {
    "at": "2026-11-16T14:32:51Z",
    "s": "Classic Albums with Caz Tran",
@@ -245,14 +251,8 @@
    "s": "Switched On Pop",
    "t": "Has Taylor Swift jumped the shark?",
    "u": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6438250978.mp3"
-  },
-  {
-   "at": "2026-10-07T01:04:44Z",
-   "s": "Bandcamp Daily",
-   "t": "Chyna Baejing Contains Multitudes",
-   "u": "https://daily.bandcamp.com/features/chyna-baejing-interview"
   }
  ],
  "sources": 211,
- "updated": "2026-11-16T14:33:52Z"
+ "updated": "2026-11-16T21:30:10Z"
 }

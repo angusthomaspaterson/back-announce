@@ -1,4 +1,6 @@
 {
+ "about": "Rhythm, Improvisation and Community (#BklynSounds)",
+ "aboutAt": "2026-11-16T21:30:10Z",
  "home": "https://dadastrain.substack.com/",
  "id": "dada-strain",
  "items": [
@@ -39,7 +41,7 @@
    "duration": null,
    "id": "https:--dadastrain.substack.com-p-bklyn-sounds-103020261142026-dada",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/022e341b-d7aa-49d6-9841-7e356c8ea85e_1500x1013.jpeg",
-   "title": "Bklyn Sounds 10/30/2026—11/4/2026 + Dada Art (Late October Edition)",
+   "title": "Dada Art (Late October Edition) | Bklyn Sounds 10/30/2026—11/4/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-103020261142026-dada"
   },
   {
@@ -205,5 +207,5 @@
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-11-15T21:30:06Z"
+ "updatedAt": "2026-11-16T21:30:10Z"
 }

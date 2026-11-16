@@ -2957,6 +2957,7 @@
    "updatedAt": "2026-11-12T01:33:18Z"
   },
   "dada-strain": {
+   "about": "Rhythm, Improvisation and Community (#BklynSounds)",
    "home": "https://dadastrain.substack.com/",
    "id": "dada-strain",
    "items": [
@@ -2997,7 +2998,7 @@
      "duration": null,
      "id": "https:--dadastrain.substack.com-p-bklyn-sounds-103020261142026-dada",
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/022e341b-d7aa-49d6-9841-7e356c8ea85e_1500x1013.jpeg",
-     "title": "Bklyn Sounds 10/30/2026—11/4/2026 + Dada Art (Late October Edition)",
+     "title": "Dada Art (Late October Edition) | Bklyn Sounds 10/30/2026—11/4/2026",
      "url": "https://dadastrain.substack.com/p/bklyn-sounds-103020261142026-dada"
     },
     {
@@ -3044,7 +3045,7 @@
    "kind": "rss",
    "more": 12,
    "name": "Dada Strain (Piotr Orlov)",
-   "updatedAt": "2026-11-15T21:30:06Z"
+   "updatedAt": "2026-11-16T21:30:10Z"
   },
   "days-like-nights": {
    "about": "All contact details and tour dates: www.eelkekleijn.nl",
@@ -3549,6 +3550,7 @@
    "updatedAt": "2026-10-27T22:59:09Z"
   },
   "erratic-aesthetic": {
+   "about": "My personal braindump",
    "home": "https://joemuggs.substack.com/",
    "id": "erratic-aesthetic",
    "items": [
@@ -3711,9 +3713,42 @@
    "updatedAt": "2026-11-14T23:00:15Z"
   },
   "first-floor": {
+   "about": "A newsletter about electronic music and the culture / industry that surrounds it.",
    "home": "https://firstfloor.substack.com/",
    "id": "first-floor",
    "items": [
+    {
+     "audio": null,
+     "date": "2026-11-16T20:02:42Z",
+     "desc": "How did one of electronic music’s most respected organizations wind up playing host to an arms company? So far, its team isn’t saying.",
+     "duration": null,
+     "id": "https:--firstfloor.substack.com-p-ai-weapons-developer-helsing-threw",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/483ac6d5-b96d-4bd4-9373-4627d9aafd96_1456x1048.jpeg",
+     "title": "AI Weapons Developer Helsing Threw a Party at Kraftwerk Berlin",
+     "url": "https://firstfloor.substack.com/p/ai-weapons-developer-helsing-threw"
+    },
+    {
+     "date": "2026-11-16T11:43:57Z",
+     "desc": "doris dana – hypnagogia (Somewhere Press) Maryos Syawish – Qurmami (Research) Dialog – Symbol of the Land (Kynant)",
+     "id": "rollup-2026-11-16",
+     "image": "https://substackcdn.com/image/fetch/$s_!89Cp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdb9e4a2-8979-493e-9df2-86751de05f45_1456x1048.jpeg",
+     "links": [
+      {
+       "t": "doris dana – hypnagogia",
+       "u": "https://firstfloor.substack.com/p/doris-dana-hypnagogia"
+      },
+      {
+       "t": "Maryos Syawish – Qurmami",
+       "u": "https://firstfloor.substack.com/p/maryos-syawish-qurmami"
+      },
+      {
+       "t": "Dialog – Symbol of the Land",
+       "u": "https://firstfloor.substack.com/p/dialog-symbol-of-the-land"
+      }
+     ],
+     "title": "First Floor recommendations, 16 Nov: 3 records",
+     "url": "https://firstfloor.substack.com/p/dialog-symbol-of-the-land"
+    },
     {
      "date": "2026-11-12T12:12:55Z",
      "desc": "Rhyw – Piranha Pop (Voam) Ralph Chbeir – Familiar Grounds (Ruptured) Mínim – El Pes del Món (Not Not Fun) First Floor #336 – Plenty of Guilt to Go Around",
@@ -3798,22 +3833,10 @@
     },
     {
      "date": "2026-11-04T20:38:21Z",
-     "desc": "BFTT – Loving (Pulling Close) (Local Action) Bodu Vega – Trouble on the Druids Tongue / Sirens at Dawn (STEMcell) Untold – Crop Milk (Hemlock) Warrington-Runcorn New Town Development Plan – Industrial Growth (Castles in Space) Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
+     "desc": "Warrington-Runcorn New Town Development Plan – Industrial Growth (Castles in Space) Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
      "id": "rollup-2026-11-04",
-     "image": "https://substackcdn.com/image/fetch/$s_!v2vG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7329147f-91bd-4eb2-9b75-610efe615abb_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!rO62!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e2366e-3688-4f61-a8d7-b7bd8f581242_1456x1048.jpeg",
      "links": [
-      {
-       "t": "BFTT – Loving (Pulling Close)",
-       "u": "https://firstfloor.substack.com/p/bftt-loving-pulling-close"
-      },
-      {
-       "t": "Bodu Vega – Trouble on the Druids Tongue / Sirens at Dawn",
-       "u": "https://firstfloor.substack.com/p/bodu-vega-trouble-on-the-druids-tongue"
-      },
-      {
-       "t": "Untold – Crop Milk",
-       "u": "https://firstfloor.substack.com/p/untold-crop-milk"
-      },
       {
        "t": "Warrington-Runcorn New Town Development Plan – Industrial Growth",
        "u": "https://firstfloor.substack.com/p/warrington-runcorn-new-town-development"
@@ -3835,7 +3858,7 @@
        "u": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
       }
      ],
-     "title": "First Floor recommendations, 4 Nov: 8 records",
+     "title": "First Floor recommendations, 4 Nov: 5 records",
      "url": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
     },
     {
@@ -3847,21 +3870,11 @@
      "image": "https://substackcdn.com/image/fetch/$s_!STuf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27226f5f-facc-4704-b09d-43243eacd30d_1500x1079.png",
      "title": "Elori Saxl Has Better Taste Than I Do",
      "url": "https://firstfloor.substack.com/p/elori-saxl-has-better-taste-than"
-    },
-    {
-     "audio": null,
-     "date": "2026-11-03T12:17:56Z",
-     "desc": "The Detroit techno icon’s untimely death has provoked an outpouring of grief, but it ought to spark questions about why his legacy isn’t being recognized outside the usual electronic music bubble.",
-     "duration": null,
-     "id": "https:--firstfloor.substack.com-p-juan-atkins-and-the-institutional",
-     "image": "https://substack-post-media.s3.amazonaws.com/public/images/d994aef4-36cc-44dd-b112-faa62dd1c51d_1456x1048.jpeg",
-     "title": "Juan Atkins and the Institutional Failures of American Culture",
-     "url": "https://firstfloor.substack.com/p/juan-atkins-and-the-institutional"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-12T21:30:08Z"
+   "updatedAt": "2026-11-16T21:30:10Z"
   },
   "flow-state": {
    "about": "Every weekday, one interesting artist and two instrumental albums, hand-picked, good to work to.",
@@ -4074,6 +4087,7 @@
    "updatedAt": "2026-11-16T13:10:43Z"
   },
   "futurism-restated": {
+   "about": "A newsletter about electronic and experimental music.",
    "home": "https://futurismrestated.substack.com/",
    "id": "futurism-restated",
    "items": [
@@ -4479,20 +4493,10 @@
      "tags": "Trance, Progressive, Progressive house, Above & Beyond",
      "title": "Group Therapy 697 with Above & Beyond and Trilucid",
      "url": "https://www.mixcloud.com/aboveandbeyond/group-therapy-697-with-above-beyond-and-trilucid/"
-    },
-    {
-     "date": "2026-10-02T20:11:08Z",
-     "desc": "",
-     "duration": "7200",
-     "id": "-aboveandbeyond-group-therapy-696-with-above-beyond-and-mark-sherry-",
-     "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/9/0/a/9/e750-220c-451b-81e5-9d5513ea5a07",
-     "tags": "Trance, Progressive, Progressive house, Above & Beyond",
-     "title": "Group Therapy 696 with Above & Beyond and Mark Sherry",
-     "url": "https://www.mixcloud.com/aboveandbeyond/group-therapy-696-with-above-beyond-and-mark-sherry/"
     }
    ],
    "kind": "mixcloud",
-   "more": 18,
+   "more": 19,
    "name": "Above & Beyond: Group Therapy",
    "updatedAt": "2026-11-14T00:21:30Z"
   },
@@ -4779,6 +4783,7 @@
    "updatedAt": "2026-11-11T00:04:30Z"
   },
   "herb-sundays": {
+   "about": "Weekly music playlists by curators. \"Everyone understands the importance of skirting the algorithm, but few know how to accomplish it. Herb Sundays is beautiful in both simplicity and execution\" - Philip Sherburne",
    "home": "https://herbsundays.substack.com/",
    "id": "herb-sundays",
    "items": [
@@ -5605,6 +5610,7 @@
    "updatedAt": "2026-11-16T14:33:52Z"
   },
   "loud-and-quiet": {
+   "about": "A different approach to music writing: in depth, long-form, very clever and/or vaguely ridiculous",
    "home": "https://loudandquiet.substack.com/",
    "id": "loud-and-quiet",
    "items": [
@@ -6280,6 +6286,7 @@
    "updatedAt": "2026-11-06T00:20:46Z"
   },
   "no-tags": {
+   "about": "No Tags is a podcast and newsletter from Chal Ravens and Tom Lea chronicling underground music culture. notagspodcast.substack.com",
    "home": "https://notagspodcast.substack.com/",
    "id": "no-tags",
    "items": [
@@ -12328,9 +12335,20 @@
    "updatedAt": "2026-11-13T00:30:22Z"
   },
   "the-gig": {
+   "about": "Riffs on music and culture, improvised and otherwise, from critic Nate Chinen",
    "home": "https://thegig.substack.com/",
    "id": "the-gig",
    "items": [
+    {
+     "audio": null,
+     "date": "2026-11-15T22:12:26Z",
+     "desc": "Coltrane(s) at Temple, Tyshawn Sorey, The Year in Jazz",
+     "duration": null,
+     "id": "https:--thegig.substack.com-p-new-offerings",
+     "image": "https://substackcdn.com/image/fetch/$s_!HAhf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8243a9c-3b31-4ac5-be15-fbfee1fef4b3_4032x3024.png",
+     "title": "New Offerings",
+     "url": "https://thegig.substack.com/p/new-offerings"
+    },
     {
      "audio": null,
      "date": "2026-11-08T14:51:00Z",
@@ -12433,9 +12451,9 @@
     }
    ],
    "kind": "rss",
-   "more": 10,
+   "more": 9,
    "name": "The Gig (Nate Chinen)",
-   "updatedAt": "2026-11-08T23:26:09Z"
+   "updatedAt": "2026-11-16T21:30:10Z"
   },
   "the-lot-radio": {
    "about": "Podcast by The Lot Radio",
@@ -12479,9 +12497,20 @@
    "updatedAt": "2026-10-13T04:20:38Z"
   },
   "the-new-cue": {
+   "about": "The World's Greatest Music Newsletter, delivered to your inbox every Monday, Wednesday and Friday mornings.",
    "home": "https://thenewcue.substack.com/",
    "id": "the-new-cue",
    "items": [
+    {
+     "audio": null,
+     "date": "2026-11-16T10:01:03Z",
+     "desc": "“I have been arrested many, many times, my friend...”",
+     "duration": null,
+     "id": "https:--thenewcue.substack.com-p-the-new-cue-643-november-16-natalie",
+     "image": "https://substackcdn.com/image/fetch/$s_!wvmC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0941904a-cab4-4d0a-af9b-defdad410022_1068x1600.jpeg",
+     "title": "The New Cue #643 November 16: Natalie Bergman",
+     "url": "https://thenewcue.substack.com/p/the-new-cue-643-november-16-natalie"
+    },
     {
      "audio": null,
      "date": "2026-11-13T10:02:30Z",
@@ -12604,9 +12633,9 @@
     }
    ],
    "kind": "rss",
-   "more": 8,
+   "more": 7,
    "name": "The New Cue",
-   "updatedAt": "2026-11-14T02:52:09Z"
+   "updatedAt": "2026-11-16T21:30:10Z"
   },
   "the-wire": {
    "about": "The world's greatest print and online music magazine. Independent since 1982. News, features, audio, video, shop and subscribe.",
@@ -12901,6 +12930,7 @@
    "updatedAt": "2026-11-03T01:37:20Z"
   },
   "tone-glow": {
+   "about": "A newsletter about experimental music both new and old.",
    "home": "https://toneglow.substack.com/",
    "id": "tone-glow",
    "items": [
@@ -13074,20 +13104,10 @@
      "tags": "Techno, Deep Techno, Club, Breaks",
      "title": "Transitions with John Digweed",
      "url": "https://www.mixcloud.com/johndigweed/transitions-1154/"
-    },
-    {
-     "date": "2026-10-02T15:00:47Z",
-     "desc": "",
-     "duration": "7163",
-     "id": "-johndigweed-transitions-with-john-digweed-dance-spirit-",
-     "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/c/0/c/5/b6cb-443c-4be1-bb10-45b8ce1fc825",
-     "tags": "Electronica, Club, Deep Techno, Dub techno",
-     "title": "Transitions with John Digweed (Live in Amsterdam) and Dance Spirit",
-     "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-dance-spirit/"
     }
    ],
    "kind": "mixcloud",
-   "more": 17,
+   "more": 18,
    "name": "John Digweed: Transitions",
    "updatedAt": "2026-11-14T00:21:30Z"
   },
@@ -15982,7 +16002,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-16T14:33:52Z",
+  "lastRun": "2026-11-16T21:30:10Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-16T14:33:52Z",
@@ -16187,7 +16207,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 20,
     "newest": "2026-11-15T19:32:07Z",
     "ok": true
@@ -16241,7 +16261,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -16259,9 +16279,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-15T21:30:06Z",
-    "count": 8,
-    "newest": "2026-11-12T12:12:55Z",
+    "at": "2026-11-16T21:30:10Z",
+    "count": 9,
+    "newest": "2026-11-16T20:02:42Z",
     "ok": true
    },
    "flow-state": {
@@ -16271,7 +16291,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 20,
     "newest": "2026-11-12T11:03:45Z",
     "ok": true
@@ -16313,7 +16333,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 20,
     "newest": "2026-11-15T14:38:16Z",
     "ok": true
@@ -16373,7 +16393,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 20,
     "newest": "2026-11-13T08:02:21Z",
     "ok": true
@@ -16415,7 +16435,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -17130,9 +17150,9 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 20,
-    "newest": "2026-11-08T14:51:00Z",
+    "newest": "2026-11-15T22:12:26Z",
     "ok": true
    },
    "the-lot-radio": {
@@ -17142,9 +17162,9 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 20,
-    "newest": "2026-11-13T10:02:30Z",
+    "newest": "2026-11-16T10:01:03Z",
     "ok": true
    },
    "the-wire": {
@@ -17160,7 +17180,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 20,
     "newest": "2026-11-12T18:58:37Z",
     "ok": true
@@ -17250,7 +17270,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-15T21:30:06Z",
+    "at": "2026-11-16T21:30:10Z",
     "count": 8,
     "newest": "2026-11-10T19:00:40Z",
     "ok": true

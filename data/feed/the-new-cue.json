@@ -1,7 +1,19 @@
 {
+ "about": "The World's Greatest Music Newsletter, delivered to your inbox every Monday, Wednesday and Friday mornings.",
+ "aboutAt": "2026-11-16T21:30:10Z",
  "home": "https://thenewcue.substack.com/",
  "id": "the-new-cue",
  "items": [
+  {
+   "audio": null,
+   "date": "2026-11-16T10:01:03Z",
+   "desc": "“I have been arrested many, many times, my friend...”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-643-november-16-natalie",
+   "image": "https://substackcdn.com/image/fetch/$s_!wvmC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0941904a-cab4-4d0a-af9b-defdad410022_1068x1600.jpeg",
+   "title": "The New Cue #643 November 16: Natalie Bergman",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-643-november-16-natalie"
+  },
   {
    "audio": null,
    "date": "2026-11-13T10:02:30Z",
@@ -191,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
    "title": "The New Cue #624 September 11: 300Skulls AndCounting & Jenny Sparks, The War On Drugs, Mynolia, The Avalanches, Liars, June McDoom, The Tubs, La Ren, Gurriers, 7ebra",
    "url": "https://thenewcue.substack.com/p/the-new-cue-625-september-11-300skulls"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-07T09:01:54Z",
-   "desc": "“ I worry a lot”",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-623-september-7-kevin",
-   "image": "https://substackcdn.com/image/fetch/$s_!2iLI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fe7130b-dba2-4b24-9e40-a69eb2bc8013_1200x1599.jpeg",
-   "title": "The New Cue #623 September 7: Kevin Rowland",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-623-september-7-kevin"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-11-14T02:52:09Z"
+ "updatedAt": "2026-11-16T21:30:10Z"
 }
