@@ -411,7 +411,7 @@ async function boot() {
   if (setup && S.sources.length) await readIncoming(setup);
   route();
   // The opening screen stays at least long enough for its animation to land.
-  setTimeout(hideSplash, Math.max(0, 1300 - (performance.now() - shownAt)));
+  setTimeout(hideSplash, Math.max(0, 2200 - (performance.now() - shownAt)));
   if (store.hasToken()) { store.refresh(); store.flushSoon(); }
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'hidden') { store.flush(); return; }
