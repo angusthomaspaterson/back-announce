@@ -1310,15 +1310,6 @@
   {
    "added": "oct11",
    "group": "Progressive",
-   "home": "https://soundcloud.com/noraenpure",
-   "id": "nora-en-pure",
-   "kind": "rss",
-   "name": "Nora En Pure: Purified Radio",
-   "url": "http://portal-api.thisisdistorted.com/xml/nora-en-pure-purified-radio"
-  },
-  {
-   "added": "oct11",
-   "group": "Progressive",
    "home": "https://www.mixcloud.com/aboveandbeyond/",
    "id": "group-therapy",
    "kind": "mixcloud",
