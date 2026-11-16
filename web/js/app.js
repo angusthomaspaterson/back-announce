@@ -11,6 +11,7 @@ import {wireSettings} from './settings.js';
 import {pausedFor} from './packs.js';
 import {encodeSetup, encodeCompact, decodeSetup, setupLink, hash32} from './carry.js';
 import {qrSvg} from './qr.js';
+import {wireSuggest, showSuggest} from './suggest.js';
 
 const isLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
 let store, pagesState = null, lastLoad = 0, lastError = '';
@@ -22,7 +23,7 @@ let current = '';
 function parseHash() {
   const h = (location.hash || '#feed').replace(/^#/, '');
   if (h === 'onair' || h === 'help') return {tab: h};
-  if (h === 'saved' || h === 'picks' || h === 'sources' || h === 'add') return {tab: 'feed', view: h};
+  if (h === 'saved' || h === 'picks' || h === 'sources' || h === 'add' || h === 'suggest') return {tab: 'feed', view: h};
   const m = h.match(/^source\/(.+)$/);
   if (m) return {tab: 'feed', view: 'source', srcId: decodeURIComponent(m[1])};
   return {tab: 'feed', view: 'feed'};
@@ -55,7 +56,7 @@ function route() {
 S.onNavigate = hash => { const cur = location.hash || '#feed'; if (hash === cur) return; stack.push(cur); location.hash = hash; };
 S.onBack = () => {
   if (stack.length) history.back();
-  else if (S.view === 'add') location.hash = '#sources';
+  else if (S.view === 'add' || S.view === 'suggest') location.hash = '#sources';
   else location.hash = '#' + (S.view === 'source' && ['saved', 'sources'].includes(S.prevView) ? S.prevView : 'feed');
 };
 
@@ -281,6 +282,12 @@ async function boot() {
   wireSettings({store, fetchImpl, onToken: tokenChanged, onShare: kind => S.onShareSetup(kind), onReset: startAgain});
   setMode();
   wireAdd({store, added: sourceAdded});
+  wireSuggest({
+    sources: () => S.sources, isPaused: id => S.paused.has(id), back: () => S.onBack(),
+    open: id => S.onNavigate('#source/' + encodeURIComponent(id)),
+    resume: id => S.onPause([id], false, `Switched on ${nameOf(id)}`),
+  });
+  S.onShowSuggest = showSuggest;
   // A link shared from another app arrives as ?url=… or ?text=… (see share_target in the manifest).
   const qs = new URLSearchParams(location.search);
   const shared = qs.get('url') || qs.get('text') || qs.get('title');

@@ -3,6 +3,7 @@ import {createStore, applyOps, normalise, serialise, b64encode, b64decode, check
 import {appIntent, spotifySearch, dedupeAcross} from '../js/util.js';
 import {PACKS, followedBy, pausedFor, addedDate, isNewInCatalogue} from '../js/packs.js';
 import {encodeSetup, encodeCompact, decodeSetup, setupLink, hash32} from '../js/carry.js';
+import {classifyLink, messageFor, issueLink} from '../js/suggest.js';
 import {qrMatrix, qrSvg, codewords, rsRemainder, formatBits, versionBits, alignmentPositions, dataCodewords, rawDataModules} from '../js/qr.js';
 
 const out = document.getElementById('out');
@@ -325,6 +326,31 @@ const tests = {
     ok(q.modules[q.size - 8][8] === true, 'the always-dark module');
     ok(q.modules[6].slice(8, q.size - 8).every((v, i) => v === (i % 2 === 0)), 'the timing pattern alternates');
     ok(q.mask >= 0 && q.mask <= 7 && qrSvg('hi').startsWith('<svg'), 'a mask is chosen and it draws');
+  },
+  'Suggest a show: a pasted link is recognised and checked against the catalogue'() {
+    const sources = [
+      {id: 'nts-moxie', kind: 'nts', slug: 'moxie', name: 'Moxie', home: 'https://www.nts.live/shows/moxie'},
+      {id: 'rinse-papaoul', kind: 'rinse', slug: 'papaoul', name: 'Papaoul', home: 'https://www.rinse.fm/shows/papaoul'},
+      {id: 'transitions', kind: 'mixcloud', user: 'JohnDigweed', name: 'Transitions', home: 'https://www.mixcloud.com/JohnDigweed/'},
+      {id: 'ttt', kind: 'rss', name: 'Time To Track', home: 'https://soundcloud.com/andrew-wowk', url: 'https://feeds.soundcloud.com/users/soundcloud:users:1/sounds.rss'},
+      {id: 'bbc-em', kind: 'bbc', pid: 'b006wkfp', name: 'Essential Mix', home: 'https://www.bbc.co.uk/programmes/b006wkfp'},
+      {id: 'triplej-doof', kind: 'abc', name: 'Doof', home: 'https://www.abc.net.au/triplej/programs/doof'},
+      {id: 'first-floor', kind: 'rss', name: 'First Floor', home: 'https://firstfloor.substack.com/', url: 'https://firstfloor.substack.com/feed'},
+      {id: 'crack', kind: 'rss', name: 'Crack Magazine', home: 'https://crackmagazine.net/', url: 'https://crackmagazine.net/feed/'},
+    ];
+    const c = u => classifyLink(u, sources), have = u => (c(u).existing || {}).id || null;
+    eq([c('https://www.nts.live/shows/a-new-show').kind, c('https://www.nts.live/shows/a-new-show').name, have('https://www.nts.live/shows/a-new-show')], ['nts', 'A New Show', null], 'a new NTS show, named from its address');
+    eq(have('www.nts.live/shows/moxie/episodes/moxie-1st-october-2026?x=1'), 'nts-moxie', 'an NTS episode of a show already followed, pasted without https');
+    eq(have('https://rinse.fm/episodes/papaoul-06-10-2026-1000'), 'rinse-papaoul', 'a Rinse episode points at its show');
+    eq(have('https://www.mixcloud.com/johndigweed/transitions-1154/'), 'transitions', 'Mixcloud, whatever the capitals');
+    eq(have('https://soundcloud.com/andrew-wowk/some-track'), 'ttt', 'a SoundCloud track from an account already followed');
+    eq([have('https://www.bbc.co.uk/sounds/brand/b006wkfp'), have('https://www.bbc.co.uk/programmes/b006wkfp'), have('https://www.bbc.co.uk/sounds/play/m00332wf')], ['bbc-em', 'bbc-em', null], 'a BBC show matches; a single episode cannot be matched here');
+    eq(have('https://www.abc.net.au/triplej/programs/doof/doof/107305402'), 'triplej-doof', 'a triple j episode');
+    eq([have('https://firstfloor.substack.com/p/some-post'), have('https://crackmagazine.net/article/x')], ['first-floor', 'crack'], 'a newsletter post and a magazine article match their sources');
+    eq([c('https://open.spotify.com/show/abc').kind, !!c('https://open.spotify.com/show/abc').note, c('https://youtu.be/x').kind, c('https://example.org/radio').kind], ['spotify', true, 'youtube', 'site'], 'Spotify and YouTube come with a note; anything else is a website');
+    eq([c('').ok, c('just some words').ok, c('Listen: https://www.nts.live/shows/x via the app').url], [false, false, 'https://www.nts.live/shows/x'], 'no link, and a link inside shared text');
+    eq(messageFor({url: 'https://x/y', show: 'Y', why: '', from: 'Sam'}), 'A show for Back Announce\n\nLink: https://x/y\nShow: Y\nFrom: Sam', 'the message leaves out empty answers');
+    ok(issueLink({url: 'https://x/y', show: 'Y'}).startsWith('https://github.com/angusthomaspaterson/back-announce/issues/new?title=Suggestion%3A%20Y&body='), 'the GitHub issue link');
   },
   'the same episode from two sources shows once'() {
     const it = (sid, title, date, extra = {}) => ({sid, sname: sid, title, date, ...extra});

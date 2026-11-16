@@ -169,6 +169,21 @@ header.top h1.brand::after{content:".";color:var(--accent)}
 .fd .srcsearch:focus{outline:2px solid var(--accent);outline-offset:1px}
 .fd .newtag{font-family:var(--mono);font-size:10px;font-weight:600;color:var(--new);margin-left:6px;letter-spacing:.04em;text-transform:uppercase}
 
+/* ---- Suggest a show ---- */
+.suggest{max-width:620px;padding-bottom:24px}
+.suggest .sgart{display:block;width:100%;height:auto;border-radius:14px;margin:10px 0 4px}
+.suggest .lead{font-size:15px;line-height:1.5;margin:12px 0 0}
+.suggest input, .suggest textarea{font-family:inherit;font-size:15px;background:var(--panel)}
+.suggest .opt{font-weight:400;color:var(--muted);font-size:12px;margin-left:4px}
+.suggest .setrow{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.suggest .btn.big{padding:10px 16px;font-size:14.5px}
+.suggest .sgok, .suggest .sghave, .suggest .sgno{margin:8px 0 0;padding:8px 12px;border-radius:8px;font-size:13.5px;line-height:1.45;background:var(--soft)}
+.suggest .sgok{border-left:3px solid #2f7d5b;border-radius:0 8px 8px 0}
+.suggest .sghave{border-left:3px solid var(--accent);border-radius:0 8px 8px 0}
+.suggest .sgno{color:var(--muted)}
+.suggest .sgdone h2{font-family:var(--display);font-size:22px;font-weight:700;letter-spacing:-.01em;margin-top:16px}
+.suggest .sgdone p{margin-top:8px;font-size:15px}
+
 /* ---- the first-visit panel ---- */
 .welcome{background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:18px 16px 14px;margin-top:14px}
 .welcome h2{font-family:var(--display);font-size:22px;font-weight:700;letter-spacing:-.01em;line-height:1.15}
