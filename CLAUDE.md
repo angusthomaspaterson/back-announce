@@ -76,6 +76,10 @@ Angus decided on 16 Nov 2026 to open the app to a few visitors without running a
 - Angus's Saved list is private to him. The app never shows it to visitors, and the Pages copy of `state.json` carries only the paused list. The file in the public repository still holds it.
 - Help and Settings have a visitor version and an owner version (`.visitor-only`, `.owner-only`, set by `body[data-mode]`).
 - Visitors cannot add sources. "Suggest a show" opens a link (`SUGGEST_URL` in `web/js/data.js`, LinkedIn until a form exists); Angus adds what he approves.
+- Visitors see times in their own time zone and call sources "shows"; a device with a token sees Perth time and owner wording (`HOME` in `web/js/util.js`).
+- Anonymous visit counts (decided 16 Nov 2026): GoatCounter, account `backannounce` (`COUNTER` in `web/js/data.js`). Only screen names and bare action words (play, save, search) are sent, never a show or episode. No cookies. Not counted on token devices, localhost or with Do Not Track. Help, under Your privacy, says so; never write "no tracking".
+- Listening places, Up next and playback speed are kept per device (`ba.progress`, `ba.queue`, `ba.rate`) and never synced.
+- The bundle carries each show's last 45 days (at least 3 items) plus `more`; a show's page fetches `data/feed/<id>.json` for the rest. The gatherer fetches each show's own description (`about`) monthly; an `about` in `sources.json` overrides it.
 
 ## 3. Web app (GitHub Pages)
 
