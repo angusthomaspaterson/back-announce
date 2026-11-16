@@ -36,6 +36,7 @@ function route() {
   $('tabOnair').setAttribute('aria-current', r.tab === 'onair' ? 'page' : 'false');
   $('meta').hidden = r.tab !== 'feed'; $('clocks').hidden = r.tab !== 'onair';
   $('tagline').hidden = !(r.tab === 'feed' && r.view === 'feed');   // the strapline sits beside the feed's own title
+  $('title').classList.toggle('brand', r.tab === 'feed' && r.view === 'feed');   // "Back Announce." with the wordmark's orange full stop
   if (r.tab === 'help') $('title').textContent = 'Help';
   else if (r.tab === 'onair') { $('title').textContent = 'On Air'; onair.start(); onair.render(); }
   else {
@@ -212,6 +213,18 @@ async function loadData() {
   store.seed(state); applyState(store.view());
   S.welcome = !S.owner && !welcomed();
 }
+/** Help and Settings show different parts to the owner and to a visitor (see .owner-only, .visitor-only). */
+function setMode() { document.body.dataset.mode = store.hasToken() ? 'owner' : 'visitor'; }
+/** Settings, Start again: back to Angus's selection and the welcome panel. Saved cards stay. */
+function startAgain() {
+  if (store.hasToken()) return;
+  store.setLocal({...store.view(), paused: S.ownerPaused});
+  try { localStorage.removeItem('ba.welcomed'); } catch (e) {}
+  S.welcome = true; S.packPick.clear();
+  if (location.hash !== '#feed') location.hash = '#feed';
+  rerender();
+  window.scrollTo(0, 0);
+}
 // The first-visit panel shows until the visitor picks a starting point, once per device.
 const welcomed = () => { try { return localStorage.getItem('ba.welcomed') === '1'; } catch (e) { return true; } };
 S.onWelcome = packs => {
@@ -235,7 +248,8 @@ async function refreshAll(manual) {
   } finally { b.classList.remove('spin'); b.disabled = false; }
 }
 async function tokenChanged(has) {
-  S.owner = has; S.canWrite = true;
+  S.owner = has; S.canWrite = true; setMode();
+  S.welcome = !has && !welcomed();
   if (!has) { S.syncError = ''; S.syncNote = ''; lastError = ''; }
   store.seed(pagesState || {}); applyState(store.view()); rerender();
   if (has) await store.refresh();
@@ -245,7 +259,8 @@ async function boot() {
   wireToast(); wirePlayer(); wireFeed();
   const fetchImpl = isLocal && sessionStorage.getItem('ba.mock') === '1' ? (await import('./dev-mock.js')).mockFetch : (...a) => fetch(...a);
   store = createStore({fetchImpl, onChange: syncFromStore});
-  wireSettings({store, fetchImpl, onToken: tokenChanged});
+  wireSettings({store, fetchImpl, onToken: tokenChanged, onShare: kind => S.onShareSetup(kind), onReset: startAgain});
+  setMode();
   wireAdd({store, added: sourceAdded});
   // A link shared from another app arrives as ?url=… or ?text=… (see share_target in the manifest).
   const qs = new URLSearchParams(location.search);

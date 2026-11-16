@@ -5,6 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Back Announce: human curation, gathered every morning</title>
 <meta name="description" content="Human curation, gathered every morning: radio shows, mixes, podcasts and writing where someone tells you what you just heard.">
+<!-- The card LinkedIn, Facebook and X show when the address is shared. -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Back Announce">
+<meta property="og:title" content="Back Announce: human curation, gathered every morning">
+<meta property="og:description" content="Hand-picked radio shows, mixes, podcasts and music writers in one timeline. No algorithm, no account.">
+<meta property="og:url" content="https://angusthomaspaterson.github.io/back-announce/">
+<meta property="og:image" content="https://angusthomaspaterson.github.io/back-announce/icons/preview.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#f0efe9" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#121417" media="(prefers-color-scheme: dark)">
 <meta name="mobile-web-app-capable" content="yes">
@@ -43,7 +53,7 @@
 <main id="feed" class="fd">
   <section class="welcome" id="welcome" aria-label="Welcome" hidden></section>
   <div class="filters" id="filters" role="group" aria-label="Groups"></div>
-  <div id="stream"><div class="empty">Loading the feed…</div></div>
+  <div id="stream"><div class="loading"><b>Back Announce<i>.</i></b><span>Human curation, gathered every morning.</span></div></div>
   <div class="srchead" id="srcHead" hidden></div>
   <div id="srcPage" hidden></div>
   <section id="addView" hidden>
@@ -55,7 +65,10 @@
     <div class="mng" id="mng"></div>
     <div id="sources"></div>
   </section>
-  <footer id="feedFoot">Gathered every morning by a scheduled job on GitHub, and the Substack newsletters by a small task on the laptop: SoundCloud, Mixcloud and podcast feeds, Substack and magazine feeds, the NTS API, Rinse show pages, and the Bandcamp Daily and Radio pages. New cards stay marked until you press Mark all seen. Saved keeps a full copy of a card, so it stays after the episode drops out of the feed. Paused sources keep being gathered in the background, so switching one back on brings its recent episodes straight in. <a href="#help">How to use Back Announce</a>.</footer>
+  <footer id="feedFoot">
+    <p>Gathered every morning from each show's own site: radio stations, SoundCloud, Mixcloud, podcast feeds, newsletters and magazines. New cards stay marked until you press Mark all seen. Saved keeps a full copy of a card, so it stays after the episode drops out of the feed. A paused show keeps being gathered, so switching it back on brings its recent episodes straight in. <a href="#help">How to use Back Announce</a>.</p>
+    <p class="credit">Curated by <b>Angus Paterson</b> · <a href="https://www.linkedin.com/in/angusthomaspaterson/" target="_blank" rel="noopener">LinkedIn</a> · <a href="https://anguspatersonux.com/" target="_blank" rel="noopener">Portfolio</a></p>
+  </footer>
 </main>
 
 <main id="onair" class="oa" hidden>
@@ -89,13 +102,63 @@
 
 <main id="help" class="hp" hidden>
   <p class="strap">Human curation, gathered every morning.</p>
+
+  <!-- For visitors: anyone using the app without the owner's token. -->
+  <div class="visitor-only">
+  <p class="lead">Back Announce gathers the latest episodes and articles from radio shows, mixes, podcasts and music writers into one timeline, plus what's live right now on the radio. Every show in it was chosen by a person. Nothing is recommended by an algorithm.</p>
+  <p class="credit">Curated by <b>Angus Paterson</b> · <a href="https://www.linkedin.com/in/angusthomaspaterson/" target="_blank" rel="noopener">LinkedIn</a> · <a href="https://anguspatersonux.com/" target="_blank" rel="noopener">Portfolio</a></p>
+
+  <h2>Make it yours</h2>
+  <ul>
+    <li>You start with Angus's feed. Tap <b>Sources</b> at the end of the row of chips to see every show in the catalogue, each with a switch. Switch off what you don't want, and switch on anything he has paused.</li>
+    <li><b>Search</b> finds a show by name. <b>New</b> lists shows added in the last three weeks.</li>
+    <li><b>Pause source</b> on a card does the same as its switch: the show leaves your feed until you switch it back on.</li>
+    <li>The coloured chips (NTS, BBC, Bass and so on) hide or show a whole category.</li>
+    <li>Know a show that belongs here? <b>Suggest a show</b>, on the Sources screen, sends Angus the link.</li>
+  </ul>
+
+  <h2>The feed</h2>
+  <ul>
+    <li><b>Newest first,</b> under day headings in Perth time. <b>New</b> marks anything since you last pressed <b>Mark all seen</b>.</li>
+    <li><b>Tap a card's text</b> to read all of it. Where a station publishes its tracklist, it's there.</li>
+    <li><b>Tap a show's name</b> to see its latest episodes. <b>Back</b> returns you to the same spot.</li>
+    <li><b>Open</b> goes to the episode or article. <b>Play</b> plays it here, in the player at the bottom, where the audio allows it. On Android, other links open straight in the NTS, BBC Sounds, SoundCloud, Mixcloud or Spotify app if you have it.</li>
+    <li><b>Save</b> (the heart) keeps a copy in your Saved list, so it stays after the episode drops out of the feed. <b>Share</b> sends the episode to someone.</li>
+    <li><b>Angus's picks</b> are episodes he has singled out, each with a note on why.</li>
+  </ul>
+
+  <h2>Take it with you</h2>
+  <ul>
+    <li><b>Take it to another device</b>, on the Sources screen and in Settings, makes a link that carries your shows and Saved cards. Open it on your other phone or computer.</li>
+    <li><b>Share my feed</b> makes a link to the shows you follow, for a friend to try.</li>
+    <li><b>Install it:</b> in Chrome or Edge, use Install in the browser's menu or address bar. On an iPhone, use Safari's Share button, then Add to Home Screen. It then opens like any other app.</li>
+  </ul>
+
+  <h2>Your privacy</h2>
+  <p>There is no account and no tracking. Your shows, Saved cards and seen marker are kept in this browser, on this device, and are never uploaded. Clearing the browser's data removes them, so use <b>Take it to another device</b> if you want a copy.</p>
+
+  <h2>On Air</h2>
+  <ul>
+    <li><b>On now</b> with time left, <b>Next 24 hours</b>, and <b>This week</b> by day, all in Perth time.</li>
+    <li><b>Listen live</b> opens the station's own player. <b>Play here</b> plays it in the app where the station allows it.</li>
+  </ul>
+
+  <h2>When things update</h2>
+  <p>The feed is gathered once a day, early in the morning Perth time. Press <b>Refresh</b> (the circular arrow, top right) to load the latest.</p>
+
+  <h2>Starting again</h2>
+  <p>Settings (the two sliders, top right) has <b>Start again</b>, which brings back the welcome screen and Angus's selection. Your Saved cards stay.</p>
+  </div>
+
+  <!-- For the owner: the device has a token. -->
+  <div class="owner-only">
   <p class="lead">Radio shows, mixes, podcasts and writing from the sources you chose, in one timeline, plus what's live now on your stations. Everything lives in your GitHub repository <a href="https://github.com/angusthomaspaterson/back-announce" target="_blank" rel="noopener">back-announce</a>; this app and any other device read and write the same copy.</p>
 
   <h2>Set up each device once</h2>
   <ol>
     <li><b>Install it.</b> On the Pixel, open the site in Chrome, tap the three dots, then <b>Add to Home screen</b> and <b>Install</b>. On the laptop, use the install icon at the right of Chrome's address bar.</li>
     <li><b>Turn on saving.</b> Tap the Settings button (the two sliders, top right), paste a GitHub token and press <b>Save token</b>. Settings has the steps for making one under "How to make a token". Make a separate token for each device.</li>
-    <li>Without a token the app still works, but read only: no Save, Pause or Mark all seen.</li>
+    <li>Without a token the app works as it does for a visitor: Save, Pause and Mark all seen are kept on that device only and don't reach your other devices.</li>
   </ol>
 
   <h2>Feed</h2>
@@ -169,6 +232,15 @@
     <li>Rinse FM links open the Rinse website, because the Rinse app doesn't accept links from other apps. For Rinse live, open the Rinse app yourself.</li>
     <li>Podcast episodes and Anjunadeep releases have a <b>Spotify</b> button. It opens Spotify searching for that episode or release, usually with the right one at the top. Mixes, radio shows and writing don't have one, because they are rarely on Spotify.</li>
   </ul>
+
+  <h2>Visitors and your picks</h2>
+  <ul>
+    <li><b>Visitors</b> (anyone without your token) start with your followed shows and can pause, save and mark seen for themselves. Their choices stay in their own browser and never reach you or GitHub. They don't see your Saved list in the app.</li>
+    <li><b>Pick</b>, on any card, adds it to <b>Angus's picks</b> with your note. Picks are public. Tap <b>Picked ✓</b> to change the note or remove the pick. The newest 40 are kept.</li>
+    <li><b>Share my feed</b>, on the Sources screen, makes a link to the shows you follow.</li>
+    <li>To see what a visitor sees, open the site in a private browser window.</li>
+  </ul>
+  </div>
 </main>
 
 <div class="player" id="player" hidden>
@@ -180,7 +252,14 @@
 <dialog class="settings" id="settings" aria-labelledby="setTitle">
   <form method="dialog" class="set">
     <h2 id="setTitle">Settings</h2>
-    <p class="hint">A GitHub token lets this device save cards, pause sources and mark things seen. It is kept on this device only, and only ever sent to GitHub.</p>
+    <div class="visitor-only">
+      <p class="hint">Your shows, Saved cards and seen marker are kept on this device only. There is no account, and nothing is uploaded.</p>
+      <div class="setrow"><button type="button" class="btn" id="setCarry">Take it to another device</button><button type="button" class="btn" id="setShare">Share my feed</button></div>
+      <div class="setrow"><button type="button" class="btn" id="setReset" title="Bring back the welcome screen and Angus's selection. Your Saved cards stay.">Start again</button></div>
+    </div>
+    <details id="ownerBox">
+    <summary class="visitor-only">Owner sign-in</summary>
+    <p class="hint">A GitHub token makes this one of Angus's own devices: saves, pauses and picks go to the repository and reach his other devices. It is kept on this device only, and only ever sent to GitHub.</p>
     <label for="tokenIn">GitHub token</label>
     <input id="tokenIn" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="github_pat_…">
     <div class="setrow"><button type="button" class="btn p" id="tokenSave">Save token</button><button type="button" class="btn" id="tokenRemove" hidden>Remove token</button></div>
@@ -196,6 +275,7 @@
         <li>Press <b>Generate token</b>, copy it, paste it in the box above and press <b>Save token</b>.</li>
       </ol>
       <p class="hint">Treat it like a password. Make a separate one for each device, so you can cancel one without affecting the other.</p>
+    </details>
     </details>
     <p class="hint"><a href="#help" id="helpLink">How to use Back Announce</a></p>
     <p class="hint" id="versionLine"></p>

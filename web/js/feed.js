@@ -3,6 +3,7 @@
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
 import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross} from './util.js';
 import {PACKS, followedBy, isNewInCatalogue} from './packs.js';
+import {CURATOR, SUGGEST_URL} from './data.js';
 import {play} from './player.js';
 
 export const S = {
@@ -289,7 +290,7 @@ function renderSources() {
   $('mng').innerHTML = `${O ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} sources in ${O ? 'the' : 'your'} feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ''}${O ? '' : ' Your choices are kept on this device.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
     <input class="srcsearch" id="srcSearch" type="search" placeholder="Search ${total} shows" aria-label="Search shows" value="${esc(S.srcQuery)}" autocomplete="off">
     <div class="row">${views.map(([k, l]) => `<button class="chip" data-view="${k}" aria-pressed="${S.srcView === k}">${esc(l)}</button>`).join('')}</div>
-    <div class="row"><button class="btn" id="shareFeed" title="A link that shows someone the shows you follow">Share my feed</button>${O ? '' : '<button class="btn" id="carryLink" title="A link that brings your shows and Saved cards to another device">Take it to another device</button>'}${W && !O && nP ? '<button class="btn q" id="resumeAll">Resume everything</button>' : ''}</div>
+    <div class="row"><button class="btn" id="shareFeed" title="A link that shows someone the shows you follow">Share my feed</button>${O ? '' : `<button class="btn" id="carryLink" title="A link that brings your shows and Saved cards to another device">Take it to another device</button><a class="btn" href="${esc(SUGGEST_URL || CURATOR.linkedin)}" target="_blank" rel="noopener" title="Know a show that belongs here? Send ${esc(CURATOR.name.split(' ')[0])} the link">Suggest a show ↗</a>`}${W && !O && nP ? '<button class="btn q" id="resumeAll">Resume everything</button>' : ''}</div>
     ${O ? `<div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
       const on = b.list.filter(s => !P.has(s.id)).length;
       return (on ? `<button class="btn" data-batch="${b.k}" data-to="off">Pause the ${b.list.length} added ${esc(b.label)}</button>` : '')

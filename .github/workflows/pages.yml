@@ -40,6 +40,11 @@ jobs:
           mkdir -p _site/data/feed
           cp data/*.json _site/data/
           cp data/feed/*.json _site/data/feed/
+          # A visitor's starting point is the list of paused sources and nothing more.
+          # Angus's Saved list and seen marker stay off the site (his own devices read
+          # them through the API with a token), and so does the summary made for Claude.
+          python3 -c "import json; s = json.load(open('data/state.json')); json.dump({'paused': s.get('paused', []), 'saved': {}, 'lastSeen': None}, open('_site/data/state.json', 'w'))"
+          rm -f _site/data/glance.json
           # Stamp the service worker with a fingerprint of the app's own files, so the
           # cached shell is replaced when the app changes but not on every feed refresh.
           build=$(cd _site && find . -type f -not -path './data/*' -not -name version.txt | sort | xargs sha1sum | sha1sum | cut -c1-12)

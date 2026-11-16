@@ -1,9 +1,10 @@
-// The Settings panel: add, check and remove the GitHub token for this device.
+// The Settings panel. For a visitor: carry or share their setup, or start again. For the
+// owner (folded away for everyone else): add, check and remove the GitHub token for this device.
 // The token field is never filled back in; once saved it only says a token is there.
 import {$} from './util.js';
 import {checkToken} from './store.js';
 
-export function wireSettings({store, fetchImpl, onToken}) {
+export function wireSettings({store, fetchImpl, onToken, onShare, onReset}) {
   const dlg = $('settings'), input = $('tokenIn'), status = $('tokenStatus');
   const say = (msg, bad = false) => { status.textContent = msg; status.classList.toggle('bad', bad); };
 
@@ -13,6 +14,7 @@ export function wireSettings({store, fetchImpl, onToken}) {
     input.placeholder = has ? 'A token is saved on this device' : 'github_pat_…';
     $('tokenSave').textContent = has ? 'Replace token' : 'Save token';
     $('tokenRemove').hidden = !has;
+    $('ownerBox').open = has;   // visitors see the token part folded away under "Owner sign-in"
     if (!has) say('No token on this device. Save, Pause and Mark all seen still work, and are kept on this device only.');
     else if (st.error) say(st.error, true);
     else say(`Connected. Save, Pause and Mark all seen are on for this device.${st.pending ? ` ${st.pending} change${st.pending === 1 ? '' : 's'} waiting to send.` : ''}`);
@@ -21,6 +23,9 @@ export function wireSettings({store, fetchImpl, onToken}) {
   $('settingsBtn').addEventListener('click', () => { refresh(); dlg.showModal(); });
   dlg.addEventListener('click', e => { if (e.target === dlg) dlg.close(); });   // tap outside to close
   $('helpLink').addEventListener('click', () => dlg.close());
+  $('setCarry').addEventListener('click', () => { dlg.close(); onShare('setup'); });
+  $('setShare').addEventListener('click', () => { dlg.close(); onShare('feed'); });
+  $('setReset').addEventListener('click', () => { dlg.close(); onReset(); });
 
   $('tokenSave').addEventListener('click', async () => {
     const t = input.value.trim();

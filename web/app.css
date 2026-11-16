@@ -93,6 +93,19 @@ dialog.settings::backdrop{background:rgba(0,0,0,.45)}
 .empty.err{color:var(--accent)}
 footer{color:var(--muted);font-size:12px;padding-top:20px;line-height:1.5}
 footer p{margin:0 0 6px}
+.credit{color:var(--muted);font-size:12.5px}
+.credit b{color:var(--fg);font-weight:600}
+.credit a{color:var(--fg)}
+/* Help and Settings show different parts to the owner (a token is on the device) and to a visitor. */
+body[data-mode="owner"] .visitor-only, body[data-mode="visitor"] .owner-only, body:not([data-mode]) .owner-only{display:none}
+/* The wordmark's orange full stop, on the feed's own title only. */
+header.top h1.brand::after{content:".";color:var(--accent)}
+.loading{padding:56px 0 40px;text-align:center;display:flex;flex-direction:column;gap:8px;align-items:center}
+.loading b{font-family:var(--display);font-size:30px;font-weight:700;letter-spacing:-.02em;line-height:1}
+.loading b i{font-style:normal;color:var(--accent)}
+.loading span{color:var(--muted);font-size:14px}
+.set details#ownerBox{margin-top:14px}
+.set details#ownerBox > summary{font-size:13px;color:var(--muted);cursor:pointer}
 
 /* ---- feed ---- */
 .fd .day{display:flex;align-items:baseline;gap:10px;margin:20px 0 8px;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:600}
