@@ -403,6 +403,10 @@ body.has-player .toast{bottom:calc(196px + env(safe-area-inset-bottom,0px))}
   body[data-tab="feed"]{max-width:1100px;display:grid;grid-template-columns:minmax(0,1fr) 320px;column-gap:36px;align-items:start}
   body[data-tab="feed"] > header.top,body[data-tab="feed"] > main{grid-column:1;min-width:0}
   body[data-tab="feed"] > .side{display:block;grid-column:2;grid-row:1 / span 2;position:sticky;top:0;max-height:100vh;overflow:auto;padding-block:20px 24px}
+  /* The player and messages sit over the feed column, not across both. The column's centre is
+     half the side column and gap (320 + 36) left of the page's centre, whatever the window width. */
+  body[data-tab="feed"] .player,body[data-tab="feed"] .toast{left:calc(50% - 178px)}
+  body[data-tab="feed"] .player{width:min(680px,calc(min(1100px,100%) - 388px))}
 }
 .side section{margin-bottom:22px}
 .side h2{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-family:var(--body);font-weight:600;margin-bottom:8px;display:flex;justify-content:space-between;align-items:baseline}

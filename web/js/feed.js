@@ -354,8 +354,11 @@ function renderSrcHead() {
   const health = ss.ok === false ? (O ? `<span class="bad">${ss.linkOnly ? 'site refuses the gatherer' : 'last fetch failed'}</span>`
     : ss.linkOnly ? "this site can't be gathered, so open it directly" : "couldn't be checked this morning") : '';
   const where = home ? openWhere(home) : null;
+  // "NTS · NTS" says nothing twice: leave the kind out when it matches the group.
+  const kind = cfg.kind ? kindLabel(cfg.kind) : '';
+  const showKind = kind && kind.toLowerCase() !== group.toLowerCase();
   h.innerHTML = `<button class="chip back" id="srcBack">‹ Back to ${back}</button>
-    <div class="sh"><div class="av" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(group)}${cfg.kind ? ' · ' + esc(kindLabel(cfg.kind)) : ''}${O && cfg.added ? ' · ' + esc(addedLabel(cfg.added)) : ''}</div>
+    <div class="sh"><div class="av" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(group)}${showKind ? ' · ' + esc(kind) : ''}${O && cfg.added ? ' · ' + esc(addedLabel(cfg.added)) : ''}</div>
       <div class="sub">${real.length ? `${real.length} recent${real[0] && dateOk(real[0].date) ? ', latest ' + esc(sfmt.format(new Date(real[0].date))) : ''}` : ''}${health ? ' · ' + health : ''}${off ? ' · paused' : ''}</div></div></div>
     ${about ? `<p class="about">${esc(about)}</p>` : ''}
     <div class="acts">${home ? `<a class="btn" href="${esc(home)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : `Visit ${esc(host.length > 28 ? 'site' : host)}`} ↗</a>` : ''}${S.canWrite ? `<button class="btn${off ? ' p' : ''}" id="srcPause">${off ? (O ? 'Resume source' : 'Add to my feed') : `Pause ${word}`}</button>` : ''}</div>`;
