@@ -9,6 +9,7 @@ import {wirePlayer} from './player.js';
 import {createStore} from './store.js';
 import {wireSettings} from './settings.js';
 import {pausedFor} from './packs.js';
+import {encodeSetup, decodeSetup, setupLink} from './carry.js';
 
 const isLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
 let store, pagesState = null, lastLoad = 0, lastError = '';
@@ -121,6 +122,41 @@ S.onMarkSeen = () => {
   toast('Marked all seen', () => q({t: 'seen', at: prev, msg: 'undo mark all seen'}));
 };
 
+// ---- sharing: a card, the shows you follow, or your whole setup, as a link ----
+async function shareOrCopy(title, text, url) {
+  // Phones offer their share sheet; elsewhere the link is copied.
+  if (navigator.share && matchMedia('(pointer: coarse)').matches) { try { await navigator.share({title, text, url}); } catch (e) {} return; }
+  try { await navigator.clipboard.writeText(url); toast('Link copied'); }
+  catch (e) { window.prompt('Copy this link:', url); }
+}
+S.onShareCard = it => shareOrCopy(it.title, `${it.title} (${it.sname})`, it.url);
+S.onShareSetup = async kind => {
+  const state = {paused: [...S.paused], saved: S.saved, lastSeen: S.lastSeen};
+  const link = setupLink(await encodeSetup(state, S.sources.map(s => s.id), kind));
+  const n = S.sources.length - S.sources.filter(s => S.paused.has(s.id)).length;
+  if (kind === 'setup') await shareOrCopy('My Back Announce setup', 'Open this on your other device to bring your Back Announce setup across.', link);
+  else await shareOrCopy('My Back Announce feed', `The ${n} shows I follow on Back Announce.`, link);
+};
+/** A #setup= link was opened: read it and ask before changing anything. */
+async function readIncoming(code) {
+  if (S.owner) { toast('Setup links are for devices without a token. Nothing was changed.'); return; }
+  try { S.incoming = await decodeSetup(code, S.sources.map(s => s.id)); }
+  catch (e) { toast("That link couldn't be read. Ask for it to be sent again."); }
+}
+S.onIncoming = yes => {
+  const i = S.incoming; S.incoming = null;
+  if (yes && i) {
+    const cur = store.view();
+    store.setLocal(i.kind === 'setup' ? {paused: i.paused, saved: {...cur.saved, ...i.saved}, lastSeen: i.lastSeen || cur.lastSeen}
+      : {...cur, paused: i.paused});
+    try { localStorage.setItem('ba.welcomed', '1'); } catch (e) {}
+    S.welcome = false;
+    toast(i.kind === 'setup' ? 'Your setup is on this device now.' : `You're now following those ${i.following} shows.`);
+  }
+  rerender();
+  window.scrollTo(0, 0);
+};
+
 // ---- loading ----
 async function loadData() {
   const {bundle, state} = await loadAll();
@@ -177,6 +213,9 @@ async function boot() {
   const qs = new URLSearchParams(location.search);
   const shared = qs.get('url') || qs.get('text') || qs.get('title');
   if (shared) { sharedLink = shared; history.replaceState(null, '', location.pathname + '#add'); }
+  // A feed or a whole setup carried in the address (see carry.js).
+  const setup = (location.hash.match(/^#setup=(.+)$/) || [])[1];
+  if (setup) history.replaceState(null, '', location.pathname + '#feed');
   // On Android, SoundCloud and Mixcloud links open in their apps.
   if (isAndroid()) document.addEventListener('click', e => {
     const a = e.target.closest('a[href]');
@@ -185,13 +224,18 @@ async function boot() {
     e.preventDefault();
     location.href = intent;
   }, true);
-  window.addEventListener('hashchange', route);
+  window.addEventListener('hashchange', async () => {
+    const m = location.hash.match(/^#setup=(.+)$/);   // a setup link opened while the app is already open
+    if (m) { history.replaceState(null, '', location.pathname + '#feed'); await readIncoming(m[1]); }
+    route();
+  });
   $('refreshBtn').addEventListener('click', () => refreshAll(true));
   try { await loadData(); }
   catch (e) {
     $('stream').innerHTML = `<div class="empty err">Could not load the feed (${e.message}). If you are offline, the last copy will show once the app has been opened online at least once.</div>`;
     $('meta').textContent = 'Not loaded';
   }
+  if (setup && S.sources.length) await readIncoming(setup);
   route();
   if (store.hasToken()) { store.refresh(); store.flushSoon(); }
   document.addEventListener('visibilitychange', () => {

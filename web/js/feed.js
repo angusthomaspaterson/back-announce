@@ -21,6 +21,7 @@ export const S = {
   canWrite: false,      // Save, Pause and Mark all seen work (always, once the feed has loaded)
   owner: false,         // a token is on this device: changes go to the repository, and sources can be added
   welcome: false,       // show the first-visit panel above the feed
+  incoming: null,       // a setup read from a #setup= link, waiting for a yes or no
   packPick: new Set(),  // starter packs ticked on that panel
   ownerPaused: [],      // the published paused list: what Angus himself has switched off
   srcQuery: '',         // the Sources screen's search box
@@ -124,7 +125,8 @@ function card(it, mode) {
   const audio = it.audio ? `<button class="btn" data-play="${esc(it.audio)}" data-name="${esc(it.title)}" data-sub="${esc(it.sname)}" data-art="${esc(it.image || '')}">▶ Play</button>` : '';
   const sp = spotifyLink(it);
   const spotify = sp ? `<a class="btn spot" href="${esc(sp)}" target="_blank" rel="noopener" title="Search Spotify for this">Spotify ↗</a>` : '';
-  const pause = S.canWrite && !inSaved && !inSrc ? `<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this source until you switch it back on">Pause source</button>` : '';
+  const share = it.url && !it.linkOnly ? `<button class="btn q" data-share="${esc(key)}" title="Send this to someone">Share</button>` : '';
+  const pause = S.canWrite && !inSaved && !inSrc ?`<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this source until you switch it back on">Pause source</button>` : '';
   return `<article class="card${it.linkOnly ? ' linkonly' : ''}" style="--sc:${gcol(it.group)}">
     <div class="who"><button class="srcbtn" data-src="${esc(it.sid)}" ${inSrc ? 'disabled' : ''} aria-label="See recent posts from ${esc(it.sname)}"><span class="av" aria-hidden="true">${esc(initials(it.sname))}</span>
       <span class="who-t"><span class="nm">${esc(it.sname)}${inSrc ? '' : ' <span class="go" aria-hidden="true">›</span>'}</span><span class="sub">${esc(it.group)}${inSaved && dateOk(it.date) ? ' · ' + esc(sfmt.format(new Date(it.date))) : ''}</span></span></button>
@@ -133,7 +135,7 @@ function card(it, mode) {
     ${it.desc ? `<div class="txt" title="Tap to expand">${esc(it.desc)}</div>` : ''}
     ${links ? `<div class="links">${links}</div>` : ''}
     ${it.image ? `<a class="pic${square ? ' sq' : ''}" href="${esc(it.url)}" target="_blank" rel="noopener"><img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>` : ''}
-    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">Open ↗</a>${heart}${audio}${spotify}${pause}${tags ? `<span class="tag">${esc(tags)}</span>` : ''}</div>
+    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">Open ↗</a>${heart}${audio}${spotify}${share}${pause}${tags ? `<span class="tag">${esc(tags)}</span>` : ''}</div>
   </article>`;
 }
 function dayList(list, mode, limit) {
@@ -180,7 +182,21 @@ export function show() {
 
 /** The first-visit panel: keep Angus's whole feed, or start from one or more packs. */
 function renderWelcome() {
-  const w = $('welcome'), on = S.welcome && S.view === 'feed';
+  const w = $('welcome');
+  if (S.incoming && S.view === 'feed') {
+    // Someone opened a setup link: offer it before anything else.
+    const i = S.incoming, n = Object.keys(i.saved).length;
+    w.hidden = false;
+    w.innerHTML = i.kind === 'setup'
+      ? `<h2>Bring your setup to this device?</h2>
+         <p>This link carries ${i.following} shows${n ? ` and ${n} saved card${n === 1 ? '' : 's'}` : ''}. It replaces the shows followed on this device${n ? ' and adds the saved cards to your Saved list' : ''}.</p>
+         <div class="wacts"><button class="btn p" id="inYes">Bring it over</button><button class="btn" id="inNo">No thanks</button></div>`
+      : `<h2>Someone shared their feed with you</h2>
+         <p>It follows ${i.following} of the ${sourceList().length} shows in the catalogue. Use it here? It replaces the shows followed on this device; your Saved list stays as it is.</p>
+         <div class="wacts"><button class="btn p" id="inYes">Use this feed</button><button class="btn" id="inNo">No thanks</button></div>`;
+    return;
+  }
+  const on = S.welcome && S.view === 'feed';
   w.hidden = !on;
   if (!on) return;
   const all = sourceList(), off = S.ownerPaused;
@@ -256,7 +272,7 @@ function renderSources() {
   $('mng').innerHTML = `${O ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} sources in ${O ? 'the' : 'your'} feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ''}${O ? '' : ' Your choices are kept on this device.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
     <input class="srcsearch" id="srcSearch" type="search" placeholder="Search ${total} shows" aria-label="Search shows" value="${esc(S.srcQuery)}" autocomplete="off">
     <div class="row">${views.map(([k, l]) => `<button class="chip" data-view="${k}" aria-pressed="${S.srcView === k}">${esc(l)}</button>`).join('')}</div>
-    ${W && !O && nP ? '<div class="row"><button class="btn q" id="resumeAll">Resume everything</button></div>' : ''}
+    <div class="row"><button class="btn" id="shareFeed" title="A link that shows someone the shows you follow">Share my feed</button>${O ? '' : '<button class="btn" id="carryLink" title="A link that brings your shows and Saved cards to another device">Take it to another device</button>'}${W && !O && nP ? '<button class="btn q" id="resumeAll">Resume everything</button>' : ''}</div>
     ${O ? `<div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
       const on = b.list.filter(s => !P.has(s.id)).length;
       return (on ? `<button class="btn" data-batch="${b.k}" data-to="off">Pause the ${b.list.length} added ${esc(b.label)}</button>` : '')
@@ -324,6 +340,7 @@ export function wire() {
     } else if (t.dataset.save != null) { const it = cardMap.get(t.dataset.save); if (it) S.onSave(it); }
     else if (t.dataset.pause) S.onPause([t.dataset.pause], true, `Paused ${nameOf(t.dataset.pause)}`);
     else if (t.dataset.play) play(t.dataset.play, {title: t.dataset.name, sub: t.dataset.sub, art: t.dataset.art || ''});
+    else if (t.dataset.share != null) { const it = cardMap.get(t.dataset.share); if (it) S.onShareCard(it); }
     else if (t.dataset.src && !t.disabled) S.onNavigate('#source/' + encodeURIComponent(t.dataset.src));
     else if (t.id === 'more') { S.limit += 60; rendered.stream = null; show(); }
   };
@@ -349,6 +366,8 @@ export function wire() {
     const P = S.paused, all = sourceList();
     if (b.id === 'sourcesBack') S.onBack();
     else if (b.id === 'openAdd') S.onNavigate('#add');
+    else if (b.id === 'shareFeed') S.onShareSetup('feed');
+    else if (b.id === 'carryLink') S.onShareSetup('setup');
     else if (b.dataset.view) { S.srcView = b.dataset.view; rendered.sources = false; show(); }
     else if (b.id === 'slim') { const ids = all.filter(s => s.added && s.added !== 'start' && !P.has(s.id)).map(s => s.id); S.onPause(ids, true, `Paused ${ids.length} sources`); }
     else if (b.dataset.batch) { const off = b.dataset.to === 'off'; const ids = all.filter(s => s.added === b.dataset.batch && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${ids.length} sources`); }
@@ -363,5 +382,6 @@ export function wire() {
     const b = e.target.closest('button'); if (!b) return;
     if (b.dataset.pack) { if (S.packPick.has(b.dataset.pack)) S.packPick.delete(b.dataset.pack); else S.packPick.add(b.dataset.pack); renderWelcome(); }
     else if (b.id === 'wGo') S.onWelcome([...S.packPick]);
+    else if (b.id === 'inYes' || b.id === 'inNo') S.onIncoming(b.id === 'inYes');
   });
 }

@@ -2,6 +2,7 @@
 import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage, repoFiles} from '../js/store.js';
 import {appIntent, spotifySearch, dedupeAcross} from '../js/util.js';
 import {PACKS, followedBy, pausedFor, addedDate, isNewInCatalogue} from '../js/packs.js';
+import {encodeSetup, decodeSetup, setupLink} from '../js/carry.js';
 
 const out = document.getElementById('out');
 let passed = 0, failed = 0;
@@ -262,6 +263,28 @@ const tests = {
     ok(isNewInCatalogue({added: '6 Nov'}, now), 'ten days ago is new');
     ok(!isNewInCatalogue({added: 'oct11'}, now), 'five weeks ago is not');
     ok(!isNewInCatalogue({added: 'start'}, now), 'nor are the originals');
+  },
+  async 'a feed or a whole setup survives the trip through a link'() {
+    const ids = Array.from({length: 40}, (_, i) => 'show-' + i);
+    const state = {paused: ids.slice(0, 30), lastSeen: '2026-11-16T04:00:00Z',
+      saved: {'show-31:ep1': {sid: 'show-31', sname: 'Show 31', group: 'NTS', id: 'ep1', title: 'Épisode “one”', url: 'https://x/1', date: '2026-11-10T00:00:00Z', savedAt: '2026-11-11T00:00:00Z', desc: 'd'.repeat(400), links: [{t: 'a', u: 'b'}]}}};
+    const feed = await encodeSetup(state, ids, 'feed');
+    ok(/^[zj][A-Za-z0-9_-]+$/.test(feed), 'the code is safe in an address');
+    const f = await decodeSetup(feed, ids);
+    eq([f.kind, f.following, f.paused.length, Object.keys(f.saved).length, f.lastSeen], ['feed', 10, 30, 0, null], 'a shared feed carries the selection only');
+    eq(f.paused, [...state.paused].sort(), 'the same shows are off');
+    const s = await decodeSetup(await encodeSetup(state, ids, 'setup'), ids);
+    eq([s.kind, s.following, s.lastSeen], ['setup', 10, '2026-11-16T04:00:00Z'], 'a setup carries the seen marker too');
+    eq(s.saved['show-31:ep1'].title, 'Épisode “one”', 'and the saved cards, accents intact');
+    ok(s.saved['show-31:ep1'].desc.length <= 160 && !s.saved['show-31:ep1'].links, 'trimmed to what a card needs');
+    const later = await decodeSetup(feed, [...ids.slice(5), 'brand-new']);
+    eq(later.following, 10, 'a "followed" list ignores shows added since');
+    ok(later.paused.includes('brand-new') && !later.paused.includes('show-0'), 'new shows are off; shows that left the catalogue are dropped');
+    const mostlyOn = await decodeSetup(await encodeSetup({paused: ['show-1']}, ids, 'feed'), [...ids, 'brand-new']);
+    eq(mostlyOn.paused, ['show-1'], 'a "switched off" list leaves shows added since switched on');
+    let threw = false; try { await decodeSetup('znot-a-real-code', ids); } catch (e) { threw = true; }
+    ok(threw, 'junk is refused');
+    ok(setupLink('zabc').endsWith('#setup=zabc'), 'the link');
   },
   'the same episode from two sources shows once'() {
     const it = (sid, title, date, extra = {}) => ({sid, sname: sid, title, date, ...extra});
