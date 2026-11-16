@@ -1,7 +1,109 @@
 {
+ "about": "Online community radio station based in Walyalup/Fremantle www.radiocazimi.com @radiocazimi",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://soundcloud.com/radiocazimi",
  "id": "radio-cazimi",
  "items": [
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439071106-radio-cazimi-warm-jets-w-dj-friend-ep3.mp3",
+   "date": "2026-11-16T09:57:22Z",
+   "desc": "WARM JETS w/ DJ Friend - EP3 by Radio Cazimi",
+   "duration": "01:38:51",
+   "id": "tag:soundcloud-2010:tracks-2439071106",
+   "image": "https://i1.sndcdn.com/artworks-4tvLtXiryyfVUJqO-Dt4nVw-t3000x3000.jpg",
+   "title": "WARM JETS w/ DJ Friend - EP3",
+   "url": "https://soundcloud.com/radio-cazimi/warm-jets-w-dj-friend-ep3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439079299-radio-cazimi-instrumental-health-w-kavi-3.mp3",
+   "date": "2026-11-16T09:47:27Z",
+   "desc": "INSTRUMENTAL HEALTH w/ Kavi Guppta - EP4 by Radio Cazimi",
+   "duration": "01:34:23",
+   "id": "tag:soundcloud-2010:tracks-2439079299",
+   "image": "https://i1.sndcdn.com/artworks-Y7HW36R1DQSC5UZ1-yrgFqw-t3000x3000.jpg",
+   "title": "INSTRUMENTAL HEALTH w/ Kavi Guppta - EP4",
+   "url": "https://soundcloud.com/radio-cazimi/instrumental-health-w-kavi-3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439075999-radio-cazimi-clang-assoc-w-timo-gomori.mp3",
+   "date": "2026-11-16T09:40:20Z",
+   "desc": "CLANG ASSOC. w/ Timo & Gomori Trichrome - EP4 by Radio Cazimi",
+   "duration": "01:50:24",
+   "id": "tag:soundcloud-2010:tracks-2439075999",
+   "image": "https://i1.sndcdn.com/artworks-eHoOj3yuDYzm4Gch-1N3oXg-t3000x3000.jpg",
+   "title": "CLANG ASSOC. w/ Timo & Gomori Trichrome - EP4",
+   "url": "https://soundcloud.com/radio-cazimi/clang-assoc-w-timo-gomori"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439070395-radio-cazimi-deep-heat-w-jab-ep3.mp3",
+   "date": "2026-11-16T09:31:50Z",
+   "desc": "DEEP HEAT w/ JAB - EP3 by Radio Cazimi",
+   "duration": "02:05:52",
+   "id": "tag:soundcloud-2010:tracks-2439070395",
+   "image": "https://i1.sndcdn.com/artworks-2k4RXMozkZCzGzzL-pvSLJg-t3000x3000.jpg",
+   "title": "DEEP HEAT w/ JAB - EP3",
+   "url": "https://soundcloud.com/radio-cazimi/deep-heat-w-jab-ep3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439070230-radio-cazimi-morning-desires-w-rory-3.mp3",
+   "date": "2026-11-16T09:31:07Z",
+   "desc": "MORNING DESIRES w/ Rory Glacken by Radio Cazimi",
+   "duration": "02:12:34",
+   "id": "tag:soundcloud-2010:tracks-2439070230",
+   "image": "https://i1.sndcdn.com/artworks-mlixCs40JaNten91-EthsNw-t3000x3000.jpg",
+   "title": "MORNING DESIRES w/ Rory Glacken",
+   "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-rory-3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439070206-radio-cazimi-slippery-sides-w-small-boss-1.mp3",
+   "date": "2026-11-16T09:31:01Z",
+   "desc": "SLIPPERY SIDES w/ Small Boss, Meow & Ben Revel by Radio Cazimi",
+   "duration": "02:02:49",
+   "id": "tag:soundcloud-2010:tracks-2439070206",
+   "image": "https://i1.sndcdn.com/artworks-Us59N8xN5VaDG6zr-bjoIrA-t3000x3000.jpg",
+   "title": "SLIPPERY SIDES w/ Small Boss, Meow & Ben Revel",
+   "url": "https://soundcloud.com/radio-cazimi/slippery-sides-w-small-boss-1"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439070182-radio-cazimi-labwerk-w-aka-i33a.mp3",
+   "date": "2026-11-16T09:30:54Z",
+   "desc": "LABWERK w/ AKA & i33a by Radio Cazimi",
+   "duration": "02:00:07",
+   "id": "tag:soundcloud-2010:tracks-2439070182",
+   "image": "https://i1.sndcdn.com/artworks-lUDyoEbQ2qhMmO5K-ffQCeQ-t3000x3000.jpg",
+   "title": "LABWERK w/ AKA & i33a",
+   "url": "https://soundcloud.com/radio-cazimi/labwerk-w-aka-i33a"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439070164-radio-cazimi-ruinenlust-w-karl-halliday-ep3.mp3",
+   "date": "2026-11-16T09:30:50Z",
+   "desc": "RUINENLUST w/ Karl Halliday - EP3 by Radio Cazimi",
+   "duration": "01:59:59",
+   "id": "tag:soundcloud-2010:tracks-2439070164",
+   "image": "https://i1.sndcdn.com/artworks-vXFazrDePtiYJs1w-qwmv5g-t3000x3000.jpg",
+   "title": "RUINENLUST w/ Karl Halliday - EP3",
+   "url": "https://soundcloud.com/radio-cazimi/ruinenlust-w-karl-halliday-ep3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439069189-radio-cazimi-sounds-for-big-hearts-w-vee.mp3",
+   "date": "2026-11-16T09:26:04Z",
+   "desc": "SOUNDS FOR BIG HEARTS w/ Vee - EP5 by Radio Cazimi",
+   "duration": "01:44:07",
+   "id": "tag:soundcloud-2010:tracks-2439069189",
+   "image": "https://i1.sndcdn.com/artworks-2FuB0aWkHdJb5KKO-kWhcRg-t3000x3000.jpg",
+   "title": "SOUNDS FOR BIG HEARTS w/ Vee - EP5",
+   "url": "https://soundcloud.com/radio-cazimi/sounds-for-big-hearts-w-vee"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2439068364-radio-cazimi-desire-path-w-liv-pickering.mp3",
+   "date": "2026-11-16T09:22:33Z",
+   "desc": "DESIRE PATH w/ Liv Pickering - EP2 by Radio Cazimi",
+   "duration": "01:00:05",
+   "id": "tag:soundcloud-2010:tracks-2439068364",
+   "image": "https://i1.sndcdn.com/artworks-xBNVHxnezYgqX9Qb-o2VJfA-t3000x3000.jpg",
+   "title": "DESIRE PATH w/ Liv Pickering - EP2",
+   "url": "https://soundcloud.com/radio-cazimi/desire-path-w-liv-pickering"
+  },
   {
    "audio": "https://feeds.soundcloud.com/stream/2415103407-radio-cazimi-the-comedown-w-bort-sampson.mp3",
    "date": "2026-11-14T07:36:10Z",
@@ -11,16 +113,6 @@
    "image": "https://i1.sndcdn.com/artworks-MWs880ZpaoB5il3o-3OLcRg-t3000x3000.jpg",
    "title": "THE COMEDOWN w/ Bort Sampson - EP4",
    "url": "https://soundcloud.com/radio-cazimi/the-comedown-w-bort-sampson"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2437985445-radio-cazimi-the-come-down-w-bort-sampson-2.mp3",
-   "date": "2026-11-14T07:35:24Z",
-   "desc": "THE COME DOWN w/ Bort Sampson - EP4 by Radio Cazimi",
-   "duration": "01:53:02",
-   "id": "tag:soundcloud-2010:tracks-2437985445",
-   "image": "https://i1.sndcdn.com/artworks-zDBCkQGcABMFXpxR-BjYCkA-t3000x3000.jpg",
-   "title": "THE COME DOWN w/ Bort Sampson - EP4",
-   "url": "https://soundcloud.com/radio-cazimi/the-come-down-w-bort-sampson-2"
   },
   {
    "audio": "https://feeds.soundcloud.com/stream/2435958588-radio-cazimi-rat-lounge-w-liv-perkins-ep1.mp3",
@@ -161,99 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-vSwAzQA9VEbFRMsF-oCLM7A-t3000x3000.jpg",
    "title": "GUEST MIX w/ Kids Eat Free #2",
    "url": "https://soundcloud.com/radio-cazimi/guest-mix-w-kids-eat-free-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2431331820-radio-cazimi-newgame-w-meag-ep1.mp3",
-   "date": "2026-11-03T09:43:21Z",
-   "desc": "NEWGAME+ w/ Meag - EP1 by Radio Cazimi",
-   "duration": "01:59:59",
-   "id": "tag:soundcloud-2010:tracks-2431331820",
-   "image": "https://i1.sndcdn.com/artworks-zOw62WD0lEj2euRL-5Ou8Bw-t3000x3000.jpg",
-   "title": "NEWGAME+ w/ Meag - EP1",
-   "url": "https://soundcloud.com/radio-cazimi/newgame-w-meag-ep1"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2429221926-radio-cazimi-guest-mix-w-simona-castricum.mp3",
-   "date": "2026-10-30T12:48:25Z",
-   "desc": "In Walyalup for her national Villain tour, Narrm’s Simona Castricum blends new wave, electro-punk, industrial, techno and house, spanning 70s radio, 80s music television and underground club culture. Her fifth album, the Balearic-rock Villain, is out through Trans-Brunswick Express. She’s remixed Courtney Barnett, opened for DJ Hell and worked with Aérea Negrot. From queer basements and fetish clubs to Golden Plains, Strawberry Fields and the airwaves of 3RRR and Skylab Radio, Castricum moves between underground and festival dancefloors.",
-   "duration": "00:58:28",
-   "id": "tag:soundcloud-2010:tracks-2429221926",
-   "image": "https://i1.sndcdn.com/artworks-rSiMFblzXwTUF2A2-AEnRvA-t3000x3000.jpg",
-   "title": "Guest Mix w/ Simona Castricum",
-   "url": "https://soundcloud.com/radio-cazimi/guest-mix-w-simona-castricum"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2429213385-radio-cazimi-plutonic-w-shlip-ep4.mp3",
-   "date": "2026-10-30T12:27:39Z",
-   "desc": "PLUTONIC w/ Shlip - EP4 by Radio Cazimi",
-   "duration": "01:58:38",
-   "id": "tag:soundcloud-2010:tracks-2429213385",
-   "image": "https://i1.sndcdn.com/artworks-T1QGBwzHtSLrl87q-i9GkLQ-t3000x3000.jpg",
-   "title": "PLUTONIC w/ Shlip - EP4",
-   "url": "https://soundcloud.com/radio-cazimi/plutonic-w-shlip-ep4"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2429167830-radio-cazimi-endless-horizon-w-5atu8ion-ep3.mp3",
-   "date": "2026-10-30T10:40:09Z",
-   "desc": "ENDLESS HORIZON w/ 5atu8ion - EP3 by Radio Cazimi",
-   "duration": "01:58:52",
-   "id": "tag:soundcloud-2010:tracks-2429167830",
-   "image": "https://i1.sndcdn.com/artworks-8QNye1CgAaPHGVOR-8Mn4aA-t3000x3000.jpg",
-   "title": "ENDLESS HORIZON w/ 5atu8ion - EP3",
-   "url": "https://soundcloud.com/radio-cazimi/endless-horizon-w-5atu8ion-ep3"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2429167131-radio-cazimi-paper-bark-w-sidenote-ep2.mp3",
-   "date": "2026-10-30T10:37:00Z",
-   "desc": "PAPER BARK w/ Sidenote - EP2 by Radio Cazimi",
-   "duration": "02:01:06",
-   "id": "tag:soundcloud-2010:tracks-2429167131",
-   "image": "https://i1.sndcdn.com/artworks-5PrfBML6JOI1savV-hXMy0g-t3000x3000.jpg",
-   "title": "PAPER BARK w/ Sidenote - EP2",
-   "url": "https://soundcloud.com/radio-cazimi/paper-bark-w-sidenote-ep2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2429167119-radio-cazimi-morning-desires-w-jefferson.mp3",
-   "date": "2026-10-30T10:36:54Z",
-   "desc": "MORNING DESIRES w/ Jefferson & Una by Radio Cazimi",
-   "duration": "01:57:13",
-   "id": "tag:soundcloud-2010:tracks-2429167119",
-   "image": "https://i1.sndcdn.com/artworks-HLMzp1iA92nAkWzQ-vpQUEQ-t3000x3000.jpg",
-   "title": "MORNING DESIRES w/ Jefferson & Una",
-   "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-jefferson"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2429165139-radio-cazimi-slippery-sides-w-small-boss.mp3",
-   "date": "2026-10-30T10:30:01Z",
-   "desc": "Slippery sides germinates from a records side close to the hosts or guest heart. From there, inspiration flows and we wind on a journey spun by mood, not genre. Slide with us as we are transported to our selectors inner landscape of vinyl & soul.",
-   "duration": "02:00:39",
-   "id": "tag:soundcloud-2010:tracks-2429165139",
-   "image": "https://i1.sndcdn.com/artworks-1HlcFPRRzVIm9XdO-kE4bhA-t3000x3000.jpg",
-   "title": "SLIPPERY SIDES w/ Small Boss - EP1",
-   "url": "https://soundcloud.com/radio-cazimi/slippery-sides-w-small-boss"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2429137542-radio-cazimi-cadence-w-jordy-ep4.mp3",
-   "date": "2026-10-30T09:00:41Z",
-   "desc": "Today's episode of Cadence goes deep into the wonky and wonderful sounds of moody electro, downtempo gleaming with bass & oddball dance music.",
-   "duration": "01:57:08",
-   "id": "tag:soundcloud-2010:tracks-2429137542",
-   "image": "https://i1.sndcdn.com/artworks-OWwCdaW32696j2f7-BP6ZDQ-t3000x3000.jpg",
-   "title": "CADENCE w/ Jordy - EP4",
-   "url": "https://soundcloud.com/radio-cazimi/cadence-w-jordy-ep4"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2429136135-radio-cazimi-music-my-friends-showed-me-w-2.mp3",
-   "date": "2026-10-30T08:53:28Z",
-   "desc": "‘Music My Friends Showed Me’ is hosted by Loz (Lauren Yim), with each episode dedicated to a different friend. This episode is for Lulu, bringing together music she’s shared with Loz, songs that complement those selections and tracks tied to shared memories. Moving through soul, funk, disco and downtempo grooves, the show celebrates sharing music, the connections that grow from it and the feelings we share.",
-   "duration": "01:00:00",
-   "id": "tag:soundcloud-2010:tracks-2429136135",
-   "image": "https://i1.sndcdn.com/artworks-B7OcHOvdkrHrirIa-pATdNg-t3000x3000.jpg",
-   "title": "MUSIC MY FRIENDS SHOWED ME w/ Loz - EP3",
-   "url": "https://soundcloud.com/radio-cazimi/music-my-friends-showed-me-w-2"
   }
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-11-14T23:00:15Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

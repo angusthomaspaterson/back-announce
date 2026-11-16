@@ -1,15 +1,17 @@
 {
+ "about": "Join Hau Latukefu for a massive hip hop fuelled Friday night party to help you roll into the weekend in style.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.abc.net.au/listen/programs/the-block-party",
  "id": "doublej-the-block-party",
  "items": [
   {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/qk.aac",
    "date": "2026-11-13T08:00:00Z",
-   "desc": "Join Hau Latukefu for a massive hip hop fueled party to help you roll into the weekend in style. Available until 11 Dec. Tracklist: Plutonic Lab – Rumour / Submariner; Hermitude – Highway Burner; JOY. – Smoke Too Much; Rockmelons feat. Deni Hines – Ain't No Sunshine; Skunkhour – Green Grocer; B Wise feat. Natalie Slade – Eyes Wide; Lyrical Commission – Custom Made; Class A & AOI – Makin' Your Head Nod; Tornts – Step Into My World; Dawn Laird – Mel Blanc (I'm Fucked); Kings Konekted – The Delegates; 2Dogs feat. Kowhai – Character Spill; Emma Donovan & The Putbacks – Dawn; Lady Lash – Busy Bee;…",
+   "desc": "We're at week 2 for Aus Music Month, so I'm continuing the big celebrations of our local releases with Homegrown Harvest. We kick off proceedings with Plutonic Lab. Then we hit the groove for some JOY. Slow things down in the dancehall for some Rockmelons. Then we hit the streets for some Lyrical Commission. Let's run it! Available until 11 Dec. Tracklist: Plutonic Lab – Rumour / Submariner; Hermitude – Highway Burner; JOY. – Smoke Too Much; Rockmelons feat. Deni Hines – Ain't No Sunshine; Skunkhour – Green Grocer; B Wise feat. Natalie Slade – Eyes Wide; Lyrical Commission – Custom Made; Clas…",
    "duration": "7200",
    "id": "107332540",
-   "image": "https://live-production.wcms.abc-cdn.net.au/025729300acc1311e1c9815de47db5ea?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
-   "title": "The Block Party, 13 Nov",
+   "image": "https://live-production.wcms.abc-cdn.net.au/7ef90efdb03e5294efc51fd2b1515f3a?impolicy=wcms_watermark_abc&cropH=1080&cropW=1920&xPos=0&yPos=152&width=862&height=485&imformat=generic",
+   "title": "The Block Party :  Homegrown Harvest wk2 for Aus Music Month",
    "until": "2026-12-11T08:00:00Z",
    "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107332540"
   },
@@ -49,5 +51,5 @@
  ],
  "kind": "abc",
  "name": "The Block Party with Hau Latukefu",
- "updatedAt": "2026-11-14T00:21:30Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

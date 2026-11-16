@@ -1,4 +1,6 @@
 {
+ "about": "Saddle up for your weekly dose of Country music on triple j! We’re giving you the biggest country tracks in the world and shouting about the artists making noise in our own backyard",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.abc.net.au/triplej/programs/country-club",
  "id": "triplej-country-club",
  "items": [
@@ -45,20 +47,9 @@
    "title": "Noah Kahan joins The Hunger Games soundtrack, plus fresh finds from Tom",
    "until": "2026-11-24T07:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-kings-of-leon-liz-stringer/107283160"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pi/Z/43.aac",
-   "date": "2026-10-18T07:00:00Z",
-   "desc": "Two huge names from different musical worlds join forces on ‘Lies’ - hear the new collab from Zach Bryan and Lana Del Rey. And there’s plenty more to get around this week, including the brilliant Dan Sultan, new music from Ziggy Alberts and Tori Forsyth, as well as Old Mervs teaming up with Kim Churchill. Available until 17 Nov. Tracklist: Ziggy Alberts – Valerie; Lucy Sugerman – Josie; Zach Bryan – Lies {Ft. Lana Del Rey}; Tori Forsyth – Dear Me; Jet Walker – the last time {Ft. Bella Mackenzie); Aidan Palmer – Freezing Alone; Cigarettes @ Sunset – Carolina Shakedown; Kameron Marlowe – Take Y…",
-   "duration": "3600",
-   "id": "107258198",
-   "image": "https://live-production.wcms.abc-cdn.net.au/cfc24741a9db3d9dd9c1bc7a5aef4284?impolicy=wcms_crop_resize&cropH=506&cropW=900&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-   "title": "Country Club: A superstar pairing from Zach Bryan and Lana Del Rey",
-   "until": "2026-11-17T07:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-zach-bryan-lana-del-rey/107258198"
   }
  ],
  "kind": "abc",
  "name": "Country Club with Outback Tom",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

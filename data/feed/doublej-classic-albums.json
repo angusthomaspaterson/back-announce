@@ -1,7 +1,20 @@
 {
+ "about": "Rediscover a record that changed modern music or changed your life. Celebrates a different classic album each week on Double J.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.abc.net.au/listen/programs/doublej-classic-albums",
  "id": "doublej-classic-albums",
  "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qf/Z/qd.aac",
+   "date": "2026-11-16T07:00:00Z",
+   "desc": "Everybody loves a comeback – John Farnham put it all on the line to ensure his mid 80s resurgence would be delivered with an anthemic roar. Available until 16 Nov. Tracklist: John Farnham – You're The Voice; John Farnham – One Step Away; John Farnham – Reasons; John Farnham – Going, Going, Gone; John Farnham – Trouble; John Farnham – A Touch Of Paradise; Alan Braxe & Fred Falke – Intro; Lana Del Rey – First Light; Ruby Gill – Lord, let me be a pastry chef; Husky – Dark Sea; Hermanos Gutiérrez – Los Ojos Del Cóndor",
+   "duration": "3599",
+   "id": "107343588",
+   "image": "https://live-production.wcms.abc-cdn.net.au/b436d550eff3561e95c6723f0308f97e?impolicy=wcms_watermark_abc&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "John Farnham - Whispering Jack",
+   "until": "2027-11-16T07:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-john-farnham-whispering-jack/107343588"
+  },
   {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q8/Z/q7.aac",
    "date": "2026-11-09T07:00:00Z",
@@ -100,20 +113,9 @@
    "title": "CAKE - Fashion Nugget",
    "until": "2027-09-14T08:00:00Z",
    "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-cake-fashion-nugget/107105034"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/o8/Z/qp.aac",
-   "date": "2026-09-07T08:00:00Z",
-   "desc": "The Sydney songwriter's transformation from rising star to household name. Available until 7 Sep. Tracklist: Alex Lloyd – Everybody's Laughing; Alex Lloyd – Green; Alex Lloyd – Trigger; Alex Lloyd – My Friend; Alex Lloyd – Lost in the Rain; Alex Lloyd – Sleep; Alex Lloyd – Amazing; Alex Lloyd – Downtown; Alex Lloyd – Bus Ride; Alex Lloyd – Easy Exit Station; Alex Lloyd – Amazing [triple j Live Recording, Bondi Pavillion, 2001]; The Go-Betweens – Spring Rain",
-   "duration": "3599",
-   "id": "107077946",
-   "image": "https://live-production.wcms.abc-cdn.net.au/1acf1c0c77634355e168745ae6bc725c?impolicy=wcms_watermark_abc&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-   "title": "Alex Lloyd - Watching Angels Mend",
-   "until": "2027-09-07T08:00:00Z",
-   "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-alex-lloyd-watching-angels-mend/107077946"
   }
  ],
  "kind": "abc",
  "name": "Classic Albums with Caz Tran",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

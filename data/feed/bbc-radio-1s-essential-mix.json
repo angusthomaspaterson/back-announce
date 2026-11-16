@@ -1,10 +1,12 @@
 {
+ "about": "The world's biggest DJs on the world's biggest decks.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.bbc.co.uk/programmes/b006wkfp",
  "id": "bbc-radio-1s-essential-mix",
  "items": [
   {
    "date": "2026-11-14T02:00:00Z",
-   "desc": "On BBC Sounds until 9 Jan (UK only). Sunderland's L.P. Rhythm brings the 90s house nostalgia to Radio 1's Essential Mix! Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 9 Jan. Sunderland's L.P. Rhythm brings the 90s house nostalgia to Radio 1's Essential Mix! Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m0033q6s",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m0slhx.jpg",
@@ -14,7 +16,7 @@
   },
   {
    "date": "2026-11-07T02:00:00Z",
-   "desc": "On BBC Sounds until 2 Jan (UK only). A very special mix with Armin van Buuren & Benwal live at Gashouder during ADE 2026. in Amsterdam. Featuring Armin van Buuren & Benwal back to back, followed by Armin's solo set. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 2 Jan. A very special mix with Armin van Buuren & Benwal live at Gashouder during ADE 2026. in Amsterdam. Featuring Armin van Buuren & Benwal back to back, followed by Armin's solo set. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m00338ry",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pllq5s.jpg",
@@ -24,7 +26,7 @@
   },
   {
    "date": "2026-10-31T02:00:00Z",
-   "desc": "On BBC Sounds until 26 Dec (UK only). Yung Singh mixes up two hours of ambient, funk, jazz, jungle, hip-hop, dancehall, Punjabi folk music and high-energy dancefloor material. The mix features plenty of brand new unreleased Yung Singh music alongside tracks that inspired him growing up. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 26 Dec. Yung Singh mixes up two hours of ambient, funk, jazz, jungle, hip-hop, dancehall, Punjabi folk music and high-energy dancefloor material. The mix features plenty of brand new unreleased Yung Singh music alongside tracks that inspired him growing up. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m00332wf",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pllq56.jpg",
@@ -34,7 +36,7 @@
   },
   {
    "date": "2026-10-24T01:00:00Z",
-   "desc": "On BBC Sounds until 19 Dec (UK only). Miss Monique returns to the Essential Mix DJ booth. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 19 Dec. Miss Monique returns to the Essential Mix DJ booth. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m0032n2b",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pllq4h.jpg",
@@ -44,7 +46,7 @@
   },
   {
    "date": "2026-10-19T21:00:00Z",
-   "desc": "On BBC Sounds until 19 Nov (UK only). Above & Beyond's classic 2004 Essential Mix debut, which featured their trademark sound alongside movie soundtracks and spoken word.",
+   "desc": "On BBC Sounds until 19 Nov. Above & Beyond's classic 2004 Essential Mix debut, which featured their trademark sound alongside movie soundtracks and spoken word.",
    "duration": "7200",
    "id": "m000k82m",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0gvhwmf.jpg",
@@ -54,7 +56,7 @@
   },
   {
    "date": "2026-10-17T02:00:00Z",
-   "desc": "On BBC Sounds until 6 Jan (UK only). Josh Baker's three-hour sunrise set from the You & Me closing party at Amnesia in Ibiza. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 6 Jan. Josh Baker's three-hour sunrise set from the You & Me closing party at Amnesia in Ibiza. Produced by BBC Audio for BBC Radio 1.",
    "duration": "10800",
    "id": "m0032g8q",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0phhhhp.jpg",
@@ -64,7 +66,7 @@
   },
   {
    "date": "2026-10-10T01:00:00Z",
-   "desc": "On BBC Sounds until 5 Dec (UK only). Two Shell take over ahead of the release of their album Infinite Now. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 5 Dec. Two Shell take over ahead of the release of their album Infinite Now. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m00325vl",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0phhhkm.jpg",
@@ -74,7 +76,7 @@
   },
   {
    "date": "2026-10-03T22:00:00Z",
-   "desc": "On BBC Sounds until 16 Dec (UK only). Parisian DJ and producer Bambounou delivers two hours of underground house music. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 16 Dec. Parisian DJ and producer Bambounou delivers two hours of underground house music. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m0031jfw",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pc1csv.jpg",
@@ -84,7 +86,7 @@
   },
   {
    "date": "2026-10-03T01:00:00Z",
-   "desc": "On BBC Sounds until 28 Nov (UK only). It's Silva Bumpa time on the Essential Mix! The Sheffield born and raised producer makes his debut with plenty of IDs and unreleased material. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 28 Nov. It's Silva Bumpa time on the Essential Mix! The Sheffield born and raised producer makes his debut with plenty of IDs and unreleased material. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m0031vx9",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0phhhl8.jpg",
@@ -94,7 +96,7 @@
   },
   {
    "date": "2026-09-26T22:00:00Z",
-   "desc": "On BBC Sounds until 12 Dec (UK only). HAAi is back with a brand new Essential Mix ahead of her album DIGITiSE. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 12 Dec. HAAi is back with a brand new Essential Mix ahead of her album DIGITiSE. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m00315gq",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pc1cwf.jpg",
@@ -104,7 +106,7 @@
   },
   {
    "date": "2026-09-12T00:30:00Z",
-   "desc": "On BBC Sounds until 24 Nov (UK only). Four Tet recorded live on the Hydro XL stage at Boomtown in Hampshire. Also available to watch on iPlayer and Radio 1's YouTube channel. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 24 Nov. Four Tet recorded live on the Hydro XL stage at Boomtown in Hampshire. Also available to watch on iPlayer and Radio 1's YouTube channel. Produced by BBC Audio for BBC Radio 1.",
    "duration": "5400",
    "id": "m0030xyh",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pb1ty0.jpg",
@@ -114,7 +116,7 @@
   },
   {
    "date": "2026-08-29T01:00:00Z",
-   "desc": "On BBC Sounds until 18 Nov (UK only). Liverpool's Faster Horses makes his Essential Mix debut. Produced by BBC Audio for BBC Radio 1.",
+   "desc": "On BBC Sounds until 18 Nov. Liverpool's Faster Horses makes his Essential Mix debut. Produced by BBC Audio for BBC Radio 1.",
    "duration": "7200",
    "id": "m0030bw1",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0p70d40.jpg",
@@ -125,5 +127,5 @@
  ],
  "kind": "bbc",
  "name": "Radio 1's Essential Mix",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

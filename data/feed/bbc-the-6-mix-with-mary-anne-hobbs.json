@@ -1,10 +1,12 @@
 {
+ "about": "Mary Anne curates a 60 minute guest mix.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.bbc.co.uk/programmes/m002d2x6",
  "id": "bbc-the-6-mix-with-mary-anne-hobbs",
  "items": [
   {
    "date": "2026-11-14T00:00:00Z",
-   "desc": "On BBC Sounds until 14 Dec (UK only). Manami is a DJ, producer and pianist born in Tokyo, raised in the UK, based in Bristol. She plays music inspired by her diverse upbringing and classical training. Produced by BBC Audio for BBC Radio 6 Music.",
+   "desc": "On BBC Sounds until 14 Dec. Manami is a DJ, producer and pianist born in Tokyo, raised in the UK, based in Bristol. She plays music inspired by her diverse upbringing and classical training. Produced by BBC Audio for BBC Radio 6 Music.",
    "duration": "3600",
    "id": "m0033fr7",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0nfyl2s.jpg",
@@ -14,7 +16,7 @@
   },
   {
    "date": "2026-11-03T10:42:00Z",
-   "desc": "On BBC Sounds until 3 Dec (UK only). Broadcast in tribute to The Godfather of Techno, Juan Atkins. This is another chance to hear his 6 Mix from 2013. Atkins was widely regarded as one of the originators of Techno music, along with Derrick May and Kevin Saunderson. The trio, often referred to as the Belleville Three, attended high school together in Belleville, Michigan, near Detroit. Growing up, they all regularly tuned in to DJ Charles 'The Electrifying Mojo' Johnson's radio show, which has been cited as a big influence on their musical development. After being inspired by hearing electroni…",
+   "desc": "On BBC Sounds until 3 Dec. Broadcast in tribute to The Godfather of Techno, Juan Atkins. This is another chance to hear his 6 Mix from 2013. Atkins was widely regarded as one of the originators of Techno music, along with Derrick May and Kevin Saunderson. The trio, often referred to as the Belleville Three, attended high school together in Belleville, Michigan, near Detroit. Growing up, they all regularly tuned in to DJ Charles 'The Electrifying Mojo' Johnson's radio show, which has been cited as a big influence on their musical development. After being inspired by hearing electronic music fo…",
    "duration": "3600",
    "id": "b01ry7rr",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pldzn7.jpg",
@@ -24,7 +26,7 @@
   },
   {
    "date": "2026-10-31T00:00:00Z",
-   "desc": "On BBC Sounds until 30 Nov (UK only). Glasgow techno pioneers Slam, aka Stuart McMillan and Orde Meikle, are in the 6 Mix celebrating 35 years of Soma Records ahead of the release of their Soma 35.4 Activate Remixes featuring Luke Slater, Oscar Mulero, Phil Berg and Nastia Reigel. Produced by BBC Audio for BBC Radio 6 Music.",
+   "desc": "On BBC Sounds until 30 Nov. Glasgow techno pioneers Slam, aka Stuart McMillan and Orde Meikle, are in the 6 Mix celebrating 35 years of Soma Records ahead of the release of their Soma 35.4 Activate Remixes featuring Luke Slater, Oscar Mulero, Phil Berg and Nastia Reigel. Produced by BBC Audio for BBC Radio 6 Music.",
    "duration": "3600",
    "id": "m00332r7",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pjvfcc.jpg",
@@ -34,7 +36,7 @@
   },
   {
    "date": "2026-10-23T23:00:00Z",
-   "desc": "On BBC Sounds until 23 Nov (UK only). Manchester-based producer Andy Stott takes over the 6 Mix on 6 Music with two hours of nostalgic romances, late-night jams and music that inspired the making of his new album, Late Loop, released on the Modern Love imprint this October. A key figure in contemporary electronic music, Stott has spent the past two decades forging a singular sound, blending dub techno, post-punk textures, dream-pop atmospheres and experimental club music. Drawing on the influences behind his first album in five years, this deeply personal selection moves between old favourite…",
+   "desc": "On BBC Sounds until 23 Nov. Manchester-based producer Andy Stott takes over the 6 Mix on 6 Music with two hours of nostalgic romances, late-night jams and music that inspired the making of his new album, Late Loop, released on the Modern Love imprint this October. A key figure in contemporary electronic music, Stott has spent the past two decades forging a singular sound, blending dub techno, post-punk textures, dream-pop atmospheres and experimental club music. Drawing on the influences behind his first album in five years, this deeply personal selection moves between old favourites and new …",
    "duration": "3600",
    "id": "m0032s31",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pj722x.jpg",
@@ -45,5 +47,5 @@
  ],
  "kind": "bbc",
  "name": "The 6 Mix with Mary Anne Hobbs",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

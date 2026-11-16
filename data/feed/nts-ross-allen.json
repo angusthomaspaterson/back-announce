@@ -1,7 +1,19 @@
 {
+ "about": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.nts.live/shows/ross-allen",
  "id": "nts-ross-allen",
  "items": [
+  {
+   "date": "2026-11-14T12:00:00Z",
+   "desc": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
+   "id": "ross-allen-14th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/6d3f51b7-454b-49ef-b4c6-f9f38eb32a9c_1761004800.jpeg",
+   "location": "London",
+   "tags": "Soul, House, Trip Hop, Contemporary Jazz",
+   "title": "Ross Allen",
+   "url": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-14th-november-2026"
+  },
   {
    "date": "2026-10-31T12:00:00Z",
    "desc": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
@@ -111,19 +123,9 @@
    "tags": "Soul, House, Reggae, Boogie",
    "title": "Ross Allen w/ Nathan Haines",
    "url": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-13th-june-2026"
-  },
-  {
-   "date": "2026-05-30T11:00:00Z",
-   "desc": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
-   "id": "ross-allen-30th-may-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/6d3f51b7-454b-49ef-b4c6-f9f38eb32a9c_1761004800.jpeg",
-   "location": "London",
-   "tags": "Electro, Soul, Boogie, Classic Disco",
-   "title": "Ross Allen",
-   "url": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-30th-may-2026"
   }
  ],
  "kind": "nts",
  "name": "Ross Allen",
- "updatedAt": "2026-11-03T01:37:20Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

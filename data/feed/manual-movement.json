@@ -1,4 +1,6 @@
 {
+ "about": "Manual Movement is the monthly podcast by the Manual Music record company. Hosted by Paul Hazendonk it features an exclusive guest mix by one of their artists. Main genres are melodic house & techno, progressive house, organic house, deep house and electronica.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://manualmovement.podbean.com",
  "id": "manual-movement",
  "items": [
@@ -6,7 +8,7 @@
    "audio": "https://mcdn.podbean.com/mf/web/mrdanswpu2j8m43v/Manual_Movement_202611_NickNewman.mp3",
    "date": "2026-11-14T12:08:00Z",
    "desc": "Celebrating the release of his new album 'Mastermind', we've asked Nick Newman to record an exclusive guest mix for Manual Movement.",
-   "duration": "25678",
+   "duration": "3567",
    "id": "manualmovement.podbean.com-9077da45-cc75-3213-acaf-5d7ff2e07573",
    "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7789622/202611-ManualMovement-NickNewman.jpg",
    "title": "Manual Movement November 2026: Nick Newman",
@@ -255,5 +257,5 @@
  ],
  "kind": "rss",
  "name": "Manual Movement (Manual Music)",
- "updatedAt": "2026-11-14T23:00:15Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

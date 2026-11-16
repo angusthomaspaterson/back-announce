@@ -1,7 +1,17 @@
 {
+ "about": "Precious Stones Radio showcases the sound of Emerald's label through new discoveries, fresh releases, timeless favourites and tracks from her current sets. Expect a mix of vinyl a...",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.rinse.fm/shows/emerald",
  "id": "rinse-emerald",
  "items": [
+  {
+   "date": "2026-11-14T19:00:00Z",
+   "desc": "",
+   "id": "emerald-14-11-2026-1900",
+   "image": "https://image.rinse.fm/_/Screenshot-2026-07-13-at-18.08.07-Louise-Turriff.png?w=1200&h=630",
+   "title": "Precious Stones Radio w/ Emerald, 14 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/emerald-14-11-2026-1900"
+  },
   {
    "date": "2026-09-12T18:00:00Z",
    "desc": "",
@@ -93,5 +103,5 @@
  ],
  "kind": "rinse",
  "name": "Precious Stones Radio w/ Emerald",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

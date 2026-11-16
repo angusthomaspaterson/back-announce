@@ -1,7 +1,19 @@
 {
+ "about": "The Questlove Show builds on the award-winning Questlove Supreme podcast, bringing listeners into intimate, one-on-one conversations with peers, influences, and friends.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.iheart.com/podcast/",
  "id": "questlove-show",
  "items": [
+  {
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ae68a1a0-7f05-4d03-abbe-b4a6013436dc/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
+   "date": "2026-11-16T05:01:00Z",
+   "desc": "The Questlove Show welcomes Infinity Song's Abraham, Angel, and Israel Boyd. The Detroit-born siblings spent years busking at Central Park's Bethesda Fountain before signing with Roc Nation and earning the support of some of music and film's biggest stars. The three Boyds talk about being homeschooled by a mom who handed out sour gummy candy watches as rewards for grammar drills, learning harmony as section leaders in their dad's choir, and moving to New York in 2006 out of necessity rather than in pursuit of a dream. Infinity Song also discusses rebuilding the band after founding member Vict…",
+   "duration": "3317",
+   "id": "ae68a1a0-7f05-4d03-abbe-b4a6013436dc",
+   "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ae68a1a0-7f05-4d03-abbe-b4a6013436dc/image.jpg?t=1794762198&size=Large",
+   "title": "Infinity Song",
+   "url": "https://omny.fm/shows/questlove-supreme/infinity-song"
+  },
   {
    "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ee5d0ea4-dea2-4d83-952e-ae32009e30b3/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
    "date": "2026-11-15T19:20:00Z",
@@ -241,19 +253,9 @@
    "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/e330e2fb-4fe1-41ab-8316-b4c100f5e639/image.jpg?t=1789400911&size=Large",
    "title": "Wallo267 Part 1",
    "url": "https://omny.fm/shows/questlove-supreme/wallo267-part-1"
-  },
-  {
-   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/386c2aaf-0bd9-4dc8-832e-afe200cee7a2/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
-   "date": "2026-09-13T16:20:33Z",
-   "desc": "One of our most-played and most-beloved episodes of 2023. For Jazz Appreciation Month, Questlove and Team Supreme sat down with a living legend of the genre. Bob James recalls his incredible journey and his intersections with Sarah Vaughan, Creed Taylor, Idris Muhammad, and others. He also discusses becoming a beacon for hip-hop DJs and sample-based producers—and how he went from being a source to a collaborator with artists such as RZA, Talib Kweli, and, yes, still, Questlove. See omnystudio.com/listener for privacy information.",
-   "duration": "7518",
-   "id": "386c2aaf-0bd9-4dc8-832e-afe200cee7a2",
-   "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/386c2aaf-0bd9-4dc8-832e-afe200cee7a2/image.jpg?t=1681734971&size=Large",
-   "title": "QLS Classic: Bob James",
-   "url": "https://omny.fm/shows/questlove-supreme/bob-james"
   }
  ],
  "kind": "rss",
  "name": "The Questlove Show",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

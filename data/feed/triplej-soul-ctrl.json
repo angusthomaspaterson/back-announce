@@ -1,7 +1,20 @@
 {
+ "about": "Your weekly dose of neo-soul, RNB and smooth jams with Tanya Bunter.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.abc.net.au/triplej/programs/soul-ctrl",
  "id": "triplej-soul-ctrl",
  "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qg/Z/10.aac",
+   "date": "2026-11-16T10:00:00Z",
+   "desc": "🚨 weee wooo weee wooo! 🚨. Available until 16 Dec. Tracklist: Shaggy – It Wasn't Me [Ft. Rik Rok]; Sammy Virji – Letter Blue [Ft. Joy Anonymous, Wet]; Mint Royale – Singin' In The Rain; Jesirae – Self; Brent Faiyaz – GRAVITY [Ft. Tyler, The Creator]; SAINT KID – Best Side; Cherry Chola & Chico Sonido – Cherry Baby Loca; Lil Uzi Vert – XO TOUR Llif3; Alicia Keys – Try Sleeping With A Broken Heart; Yung Lean – Trip; Junior Mesa – the cops are coming; Mark Ronson – Stop Me [Ft. Daniel Merriweather]; H.E.R. – Best Part [Ft. Daniel Caesar]; Akon – Lonely; H3rizon – Certified Lover Girl; Liim – Is L…",
+   "duration": "7200",
+   "id": "107369606",
+   "image": "https://live-production.wcms.abc-cdn.net.au/bedbe4863ac8b8670af76e9ef8ab4c1d?impolicy=wcms_crop_resize&cropH=563&cropW=1000&xPos=0&yPos=284&width=862&height=485&imformat=generic",
+   "title": "soul ctrl: the cops are coming",
+   "until": "2026-12-16T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/soul-ctrl/soul-ctrl/107369606"
+  },
   {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/q8/Z/vq.aac",
    "date": "2026-11-09T10:00:00Z",
@@ -49,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "soul ctrl with Tanya Bunter",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

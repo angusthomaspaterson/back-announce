@@ -1,11 +1,23 @@
 {
+ "about": "Every weekday, one interesting artist and two instrumental albums, hand-picked, good to work to.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.flowstate.fm/",
  "id": "flow-state",
  "items": [
   {
    "audio": null,
+   "date": "2026-11-16T08:03:03Z",
+   "desc": "Today we’re listening to Aphex Twin, a British electronic musician from Cornwall.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-aphex-twin-b3a",
+   "image": "https://substackcdn.com/image/fetch/$s_!GhvD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39ae152b-fa1e-4c52-a3a3-9eca194d8e41_1024x1024",
+   "title": "Aphex Twin",
+   "url": "https://www.flowstate.fm/p/aphex-twin-b3a"
+  },
+  {
+   "audio": null,
    "date": "2026-11-13T08:03:19Z",
-   "desc": "It’s Friday so we’re listening to something more upbeat.",
+   "desc": "Today we’re listening to Fling II, an American kosmische band formed in Ann Arbor, Michigan.",
    "duration": null,
    "id": "https:--www.flowstate.fm-p-fling-ii",
    "image": "https://substackcdn.com/image/fetch/$s_!UcaA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ca0b03b-8e8a-4399-b0f1-c5423940a7f4_1200x1200.jpeg",
@@ -191,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
    "title": "Flow State Episode 348",
    "url": "https://www.flowstate.fm/p/flow-state-episode-348"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-19T07:03:56Z",
-   "desc": "Today we’re listening to Stuart Bogie, an American clarinetist and saxophonist from Illinois.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-stuart-bogie-interview-554",
-   "image": "https://substackcdn.com/image/fetch/$s_!WxSV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5842abbe-bc41-46a2-b010-2df9dddce786_2154x1810.png",
-   "title": "Stuart Bogie (Interview)",
-   "url": "https://www.flowstate.fm/p/stuart-bogie-interview-554"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-14T00:21:30Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

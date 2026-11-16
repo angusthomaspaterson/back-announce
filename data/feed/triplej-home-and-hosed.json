@@ -1,7 +1,20 @@
 {
+ "about": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.abc.net.au/triplej/programs/home-and-hosed",
  "id": "triplej-home-and-hosed",
  "items": [
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qf/Z/u7.aac",
+   "date": "2026-11-16T08:00:00Z",
+   "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 16 Dec. Tracklist: zaqquack – i dont like that; Plumia – Plume Of Smoke; Jem Cassar-Daley – All I'm Thinking About; Georgia Maq – Rearranging Chairs on the Titanic; Rum Jungle – The Elephants Head; Gretta Ray – I'll Be There; Miss Kaninna – Pinnacle Bitch; Little Guilt – Rust; Troye Sivan – FF; Soul Wun – Beautiful Noise In My Head; Party Dozen – Full Powers; The Chats – Off It; Pania – Heaven Can Wait; Zach Stephenson – In N Out; Becca Hatch – Extra Time; Arky Waters – Just; Robert Baxter – …",
+   "duration": "7200",
+   "id": "107369596",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e53a18092190656f98b05e2e56c91fe4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Home and Hosed, 16 Nov",
+   "until": "2026-12-16T08:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107369596"
+  },
   {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qc/Z/ki.aac",
    "date": "2026-11-12T08:00:00Z",
@@ -100,20 +113,9 @@
    "title": "Home and Hosed: First Play from Yung Maynie & Chatting to Dakota Griffiths!",
    "until": "2026-11-28T08:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107303866"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/ps/Z/o6.aac",
-   "date": "2026-10-28T08:00:00Z",
-   "desc": "Tonight, Anika plays the first ever round of Aus Music Trivia on Home and Hosed, and we hear a first play from Spouse !! Available until 27 Nov. Tracklist: Tobiahs & VV-Ace – Where You Really Come From; Charlie Pittman & Paige – glued; Lara Buchanan – Anatomy; Julia Jacklin – The Hardest Thing; Spouse – Wishing On Numbers; Velvet Trip – Fake Tree; Suzi – Centrelink Summer; 2charm – girls; RINI – Set Me Free; Olivia C. Dacal – Take A Video; Justice – Flower In A Hurricane [Ft. Tame Impala, SZA, King Gizzard, The Lizard Wizard]; FUKHED – Hold On; Barkaa – King Brown; The Chats – Off It; Sycco –…",
-   "duration": "7200",
-   "id": "107299978",
-   "image": "https://live-production.wcms.abc-cdn.net.au/b3939039fd2797448950f28974d29cd2?impolicy=wcms_crop_resize&cropH=483&cropW=859&xPos=0&yPos=352&width=862&height=485&imformat=generic",
-   "title": "Home and Hosed: First Play from Spouse",
-   "until": "2026-11-27T08:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107299978"
   }
  ],
  "kind": "abc",
  "name": "Home and Hosed with Anika Luna",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

@@ -1,10 +1,12 @@
 {
+ "about": "The hottest D&B, exclusives and big guests.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.bbc.co.uk/programmes/b09c12lj",
  "id": "bbc-radio-1s-drum-and-bass-show",
  "items": [
   {
    "date": "2026-11-15T01:00:00Z",
-   "desc": "On BBC Sounds until 15 Dec (UK only). All the backstage goss from Boomtown 2026, plus exclusive live sets from Sub Focus, Lens and Wilkinson! Produced by We Are Grape for BBC Radio 1.",
+   "desc": "On BBC Sounds until 15 Dec. All the backstage goss from Boomtown 2026, plus exclusive live sets from Sub Focus, Lens and Wilkinson! Produced by We Are Grape for BBC Radio 1.",
    "duration": "7200",
    "id": "m00300xz",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0p820ts.jpg",
@@ -14,7 +16,7 @@
   },
   {
    "date": "2026-11-14T22:00:00Z",
-   "desc": "On BBC Sounds until 15 Dec (UK only). Charlie Tee crowns a luscious new Drop of the Week from 1991 and Grace Barton. Plus the excitement is building for Boomtown with the announcement of Noisia as one of the headliners for 2027! Charlie celebrates by playing a classic track from Noisia as her Rave Revival selection, and we hear from A.M.C ahead of an exclusive play of his Boomtown 2026 set. Produced by We Are Grape for BBC Radio 1.",
+   "desc": "On BBC Sounds until 15 Dec. Charlie Tee crowns a luscious new Drop of the Week from 1991 and Grace Barton. Plus the excitement is building for Boomtown with the announcement of Noisia as one of the headliners for 2027! Charlie celebrates by playing a classic track from Noisia as her Rave Revival selection, and we hear from A.M.C ahead of an exclusive play of his Boomtown 2026 set. Produced by We Are Grape for BBC Radio 1.",
    "duration": "3600",
    "id": "m003427m",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyf7xk.jpg",
@@ -24,7 +26,7 @@
   },
   {
    "date": "2026-11-01T00:00:00Z",
-   "desc": "On BBC Sounds until 1 Dec (UK only). Diagnostix and Bish are in the studio to deliver a spooky Drum & Bass remix of Tame Impala's Dracula! Plus Koven drops by ahead of their DNB60. Produced by We Are Grape for BBC Radio 1.",
+   "desc": "On BBC Sounds until 1 Dec. Diagnostix and Bish are in the studio to deliver a spooky Drum & Bass remix of Tame Impala's Dracula! Plus Koven drops by ahead of their DNB60. Produced by We Are Grape for BBC Radio 1.",
    "duration": "3600",
    "id": "m00338b9",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyf7xk.jpg",
@@ -34,7 +36,7 @@
   },
   {
    "date": "2026-10-24T23:00:00Z",
-   "desc": "On BBC Sounds until 24 Nov (UK only). Friction's new release is named Charlie Tee's Drop of the Week plus Charlie has a show packed full of the freshest D&B selections! Produced by We Are Grape for BBC Radio 1.",
+   "desc": "On BBC Sounds until 24 Nov. Friction's new release is named Charlie Tee's Drop of the Week plus Charlie has a show packed full of the freshest D&B selections! Produced by We Are Grape for BBC Radio 1.",
    "duration": "3600",
    "id": "m003325f",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyf7xk.jpg",
@@ -44,7 +46,7 @@
   },
   {
    "date": "2026-10-17T23:00:00Z",
-   "desc": "On BBC Sounds until 17 Nov (UK only). Drum & Bass legends Chase & Status join Charlie Tee to talk about their latest album and Drop of the Week comes from Netsky and Hannah Boleyn. Produced by We Are Grape for BBC Radio 1.",
+   "desc": "On BBC Sounds until 17 Nov. Drum & Bass legends Chase & Status join Charlie Tee to talk about their latest album and Drop of the Week comes from Netsky and Hannah Boleyn. Produced by We Are Grape for BBC Radio 1.",
    "duration": "3600",
    "id": "m0032mhx",
    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lyf7xk.jpg",
@@ -55,5 +57,5 @@
  ],
  "kind": "bbc",
  "name": "Radio 1's Drum & Bass Show",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

@@ -1,4 +1,6 @@
 {
+ "about": "A deeper look into the back catalogs of various artists.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://www.nts.live/shows/in-focus",
  "id": "nts-in-focus",
  "items": [
@@ -8,7 +10,7 @@
    "id": "in-focus-astrud-gilberto-13th-november-2026",
    "image": "https://media.ntslive.co.uk/resize/400x400/a149826b-c577-471d-8c26-aef16c7d701f_1794528000.jpeg",
    "location": "",
-   "tags": "Bossa Nova",
+   "tags": "Bossa Nova, Música Popular Brasileira",
    "title": "In Focus: Astrud Gilberto",
    "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-astrud-gilberto-13th-november-2026"
   },
@@ -125,5 +127,5 @@
  ],
  "kind": "nts",
  "name": "NTS In Focus",
- "updatedAt": "2026-11-14T00:21:30Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }

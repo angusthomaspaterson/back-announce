@@ -1,7 +1,19 @@
 {
+ "about": "Blossoming from a radio show into a worldwide event series and record label, Nora En Pure’s Purified has become one of the most sought-after musical brands over the past few years.",
+ "aboutAt": "2026-11-16T13:10:43Z",
  "home": "https://soundcloud.com/noraenpure",
  "id": "nora-en-pure",
  "items": [
+  {
+   "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_534_Podcast-1794522403788361458-NDMzNTEtODg2ODY3NTg=.mp3",
+   "date": "2026-11-16T09:00:00Z",
+   "desc": "Tracklisting: 01. Michael Canitrot & Yana Mann - Diamond (Extended Mix) ** 02. Milan Steenwinkel, Deviu - Deep Bloom (Extended Mix) 03. Vešča - Take Me With You (Original Mix) 04. Xashes - Gravel Road (Original Mix) 05. John Lynx feat. Xerxes-K - Shattered Glass (Extended Mix) 06. Tommy Farrow - Lilac (Extended Mix) 07. Nico Morano & solaene - Always On The Run (Extended Mix) * 08. MakeMake - Ameya (Original Mix) 09. Brigado Crew x Cler Letiv - From Within (Original Mix) 10. Sebastian Feldmann & Levasseur - Before the Storm (Extended Mix) 11. Polygraph - Celestial (Original Mix) 12. Angara, b…",
+   "duration": "01:01:36",
+   "id": "http:--audio.thisisdistorted.com-repository-audio-episodes-NORA_534_Podcast-1794522403788361458-NDMzNTEtODg2ODY3NTg-.mp3",
+   "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
+   "title": "Purified Radio 534",
+   "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_534_Podcast-1794522403788361458-NDMzNTEtODg2ODY3NTg=.mp3"
+  },
   {
    "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_533_Podcast-1793903084299309286-NDMzMjctODc0NDkxODE=.mp3",
    "date": "2026-11-09T09:00:00Z",
@@ -241,19 +253,9 @@
    "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
    "title": "Purified Radio 510",
    "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_510_Podcast-1779889141922747304-NDI2NTktODc0OTc0NTU=.mp3"
-  },
-  {
-   "audio": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_509_Podcast-1779268609285133191-NDI2MzEtODgzOTI3MjQ=.mp3",
-   "date": "2026-05-25T08:00:00Z",
-   "desc": "Tracklisting: 01. Mitch de Klein & Zashanell - Arms Wide Open (Extended Mix) 02. Corren Cavini - Lion’s Head (Extended Mix) ** 03. Milan Steenwinkel - Silence Buring Ft. LUFS (Extended Mix) 04. Helvetic Nerds - Adolescence (Extended Mix) 05. Vemative, Danito - Make You Mine (Extended Mix) 06. maXure - Semplicement (Extended Mix) 07. Glusko - Worlds Collide (Extended Mix) 08. North Collision & Mindtone - Spectrum (Extended Mix) 09. Jono Stephenson - Quantified Desires feat. LUFS (Extended Mix) 10. Tommy Farrow - Visions (Extended Mix) 11. Nicholas Vibes - Liberate (Extended Mix) 12. AESLY - Cl…",
-   "duration": "01:01:23",
-   "id": "http:--audio.thisisdistorted.com-repository-audio-episodes-NORA_509_Podcast-1779268609285133191-NDI2MzEtODgzOTI3MjQ-.mp3",
-   "image": "https://distorted-dev.s3.amazonaws.com/Purified+iTunes.jpg",
-   "title": "Purified Radio 509",
-   "url": "https://audio.thisisdistorted.com/repository/audio/episodes/NORA_509_Podcast-1779268609285133191-NDI2MzEtODgzOTI3MjQ=.mp3"
   }
  ],
  "kind": "rss",
  "name": "Nora En Pure: Purified Radio",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-16T13:10:43Z"
 }
