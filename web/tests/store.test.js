@@ -202,6 +202,49 @@ const tests = {
     eq(appIntent('not a link'), null, 'junk');
     ok(appIntent('https://open.spotify.com/search/Song%20Exploder').startsWith('intent://open.spotify.com/search/Song%20Exploder#Intent;scheme=https;package=com.spotify.music;'), 'spotify');
   },
+  async 'a visitor without a token keeps changes on the device and sends nothing'() {
+    const gh = fakeGitHub({paused: ['angus-paused'], saved: {his: {title: 'His pick'}}, lastSeen: '2026-10-01T00:00:00Z'});
+    let calls = 0; const counting = (...a) => { calls++; return gh.fetch(...a); };
+    const prefix = `batest${++n}.`, changes = [];
+    const fixedNow = () => Date.parse('2026-11-16T04:00:00Z');
+    const st = createStore({fetchImpl: counting, delay: 20, keyPrefix: prefix, now: fixedNow, onChange: k => changes.push(k)});
+    eq(st.mode(), 'visitor', 'no token means visitor');
+    ok(st.isNewVisitor(), 'first visit');
+    st.seed(gh.state());
+    ok(!st.isNewVisitor(), 'seeded');
+    eq(st.view().paused, ['angus-paused'], 'starts from the published paused list');
+    eq(st.view().saved, {}, 'but with an empty Saved list of their own');
+    eq(st.view().lastSeen, '2026-11-15T04:00:00Z', 'and the last day marked new');
+    st.queue({t: 'pause', ids: ['x'], off: true, msg: 'pause x'});
+    st.queue({t: 'pause', ids: ['angus-paused'], off: false, msg: 'resume'});
+    st.queue({t: 'save', key: 'k', card: {title: 'Mine'}, msg: 'save'});
+    st.queue({t: 'seen', at: '2026-11-16T04:00:00Z', msg: 'seen'});
+    eq(st.view().paused, ['x'], 'pause and resume apply at once');
+    eq(Object.keys(st.view().saved), ['k'], 'saved');
+    ok(changes.includes('state'), 'the app is told the state changed');
+    await st.flush(); await st.refresh(); await wait(80);
+    eq(calls, 0, 'nothing was sent to GitHub');
+    eq(gh.puts.length, 0, 'and nothing written');
+    const again = createStore({fetchImpl: counting, keyPrefix: prefix, now: fixedNow});
+    again.seed({paused: ['something-else'], saved: {}});
+    eq(again.view().paused, ['x'], 'a later visit keeps their choices, not the published list');
+    eq(again.view().lastSeen, '2026-11-16T04:00:00Z', 'and their seen marker');
+    again.setLocal({paused: ['p1', 'p2'], saved: {}, lastSeen: null});
+    eq(again.view().paused, ['p1', 'p2'], 'a starter pack or carried setup replaces it');
+  },
+  async 'adding a token switches to the repository and leaves the visitor copy alone'() {
+    const gh = fakeGitHub({paused: ['repo'], saved: {}});
+    const prefix = `batest${++n}.`;
+    const st = createStore({fetchImpl: gh.fetch, delay: 20, keyPrefix: prefix});
+    st.seed({paused: ['pub'], saved: {}});
+    st.queue({t: 'pause', ids: ['mine'], off: true});
+    st.setToken('test-token');
+    eq(st.mode(), 'owner', 'owner with a token');
+    st.seed(gh.state()); await st.refresh();
+    eq(st.view().paused, ['repo'], 'owner sees the repository state');
+    st.setToken('');
+    eq(st.view().paused, ['mine', 'pub'], 'removing the token returns to the visitor copy');
+  },
   'the same episode from two sources shows once'() {
     const it = (sid, title, date, extra = {}) => ({sid, sname: sid, title, date, ...extra});
     const out = dedupeAcross([

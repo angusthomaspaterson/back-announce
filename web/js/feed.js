@@ -17,7 +17,8 @@ export const S = {
   prevView: 'feed',
   srcId: null,
   limit: 60,
-  canWrite: false,
+  canWrite: false,      // Save, Pause and Mark all seen work (always, once the feed has loaded)
+  owner: false,         // a token is on this device: changes go to the repository, and sources can be added
   syncNote: '', syncError: '',
   // set by app.js
   onNavigate: null, onBack: null, onPause: null, onSave: null, onMarkSeen: null, onShowAdd: null,
@@ -221,15 +222,17 @@ function renderSrcPage() {
 }
 
 function renderSources() {
-  const st = S.status, P = S.paused, W = S.canWrite, all = sourceList();
+  const st = S.status, P = S.paused, W = S.canWrite, O = S.owner, all = sourceList();
   const total = all.length, nP = all.filter(s => P.has(s.id)).length;
   const start = all.filter(s => s.added === 'start'), extra = all.filter(s => s.added && s.added !== 'start');
   const extraOn = extra.filter(s => !P.has(s.id)).length;
   const batches = Object.keys(BATCHES).map(k => ({k, label: BATCHES[k], list: all.filter(s => s.added === k)})).filter(b => b.list.length);
   const views = [['all', 'All ' + total], ['on', 'Following ' + (total - nP)], ['off', 'Paused ' + nP]];
-  $('mng').innerHTML = `${W ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} sources in the feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ' Add a GitHub token in Settings to pause and resume sources from here.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
+  // Adding sources and the batch buttons (named after the dates Angus added things) are the owner's.
+  $('mng').innerHTML = `${O ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} sources in ${O ? 'the' : 'your'} feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ''}${O ? '' : ' Your choices are kept on this device.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
     <div class="row">${views.map(([k, l]) => `<button class="chip" data-view="${k}" aria-pressed="${S.srcView === k}">${esc(l)}</button>`).join('')}</div>
-    ${W ? `<div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
+    ${W && !O && nP ? '<div class="row"><button class="btn q" id="resumeAll">Resume everything</button></div>' : ''}
+    ${O ? `<div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
       const on = b.list.filter(s => !P.has(s.id)).length;
       return (on ? `<button class="btn" data-batch="${b.k}" data-to="off">Pause the ${b.list.length} added ${esc(b.label)}</button>` : '')
         + (on < b.list.length ? `<button class="btn" data-batch="${b.k}" data-to="on">Bring back the ${b.list.length} added ${esc(b.label)}</button>` : '');
@@ -258,7 +261,7 @@ export function renderMeta(items = allItems()) {
   const st = S.status, last = st && dateOk(st.lastRun) ? new Date(st.lastRun) : null;
   const bad = st ? Object.values(st.sources || {}).filter(s => s.ok === false && !s.linkOnly).length : 0;
   const total = Object.keys(S.feed).length, pausedHere = [...S.paused].filter(id => S.feed[id]).length;
-  const sync = !S.canWrite ? ' · read only' : S.syncError ? ` · <span class="bad" title="${esc(S.syncError)}">not saved</span>` : S.syncNote ? ` · ${esc(S.syncNote)}` : '';
+  const sync = !S.owner ? '' : S.syncError ? ` · <span class="bad" title="${esc(S.syncError)}">not saved</span>` : S.syncNote ? ` · ${esc(S.syncNote)}` : '';
   $('meta').innerHTML = (last ? `Updated ${esc(dfmt.format(last))} ${esc(tfmt.format(last))}` : 'No run yet')
     + `<br>${items.length} items · ${total - pausedHere} of ${total} sources${bad ? ` · <span class="bad">${bad} failing</span>` : ''}${sync}`;
 }

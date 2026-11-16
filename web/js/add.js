@@ -35,7 +35,7 @@ export function wireAdd({store, added}) {
 /** Called whenever the Add screen is shown. */
 export function showAdd(prefill) {
   $('title').textContent = 'Add a source';
-  if (!S.canWrite) { renderNoToken(prefill); return; }
+  if (!S.owner) { renderNoToken(prefill); return; }
   if (prefill) { start(prefill); return; }
   if (job) renderChecking();
   else if (result) renderResult();

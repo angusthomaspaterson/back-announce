@@ -148,8 +148,14 @@ export function repoFiles(fetchImpl, getToken) {
   return {get, create, edit};
 }
 
-export function createStore({fetchImpl = (...a) => fetch(...a), onChange = () => {}, delay = 2000, source = 'web', keyPrefix = 'ba.'} = {}) {
-  const K = {token: keyPrefix + 'token', pending: keyPrefix + 'pending', cache: keyPrefix + 'stateCache'};
+/**
+ * Two modes. With a token (Angus's own devices) state lives in the repository, as above.
+ * Without one (a visitor) the same operations are applied to a copy kept only in this
+ * browser: nothing is sent anywhere. A visitor starts from the published list of paused
+ * sources, an empty Saved list, and the last day marked as new.
+ */
+export function createStore({fetchImpl = (...a) => fetch(...a), onChange = () => {}, delay = 2000, source = 'web', keyPrefix = 'ba.', now = () => Date.now()} = {}) {
+  const K = {token: keyPrefix + 'token', pending: keyPrefix + 'pending', cache: keyPrefix + 'stateCache', visitor: keyPrefix + 'visitor'};
   const ls = {
     get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
     set(k, v) { try { if (v == null) localStorage.removeItem(k); else localStorage.setItem(k, v); } catch (e) {} },
@@ -159,8 +165,11 @@ export function createStore({fetchImpl = (...a) => fetch(...a), onChange = () =>
   try { pending = JSON.parse(ls.get(K.pending) || '[]') || []; } catch (e) { pending = []; }
   try { const c = JSON.parse(ls.get(K.cache) || 'null'); if (c && c.base) { base = normalise(c.base); sha = c.sha || null; } } catch (e) {}
   let saving = false, error = '', timer = null, flushing = null, gen = 0;
+  let local = null;   // the visitor's own state, kept only in this browser
+  try { const v = JSON.parse(ls.get(K.visitor) || 'null'); if (v && typeof v === 'object') local = normalise(v); } catch (e) {}
+  const keepLocal = () => ls.set(K.visitor, local ? JSON.stringify(local) : null);
 
-  const view = () => applyOps(base || {}, pending);
+  const view = () => token ? applyOps(base || {}, pending) : normalise(local || {});
   const keepPending = () => ls.set(K.pending, pending.length ? JSON.stringify(pending) : null);
   const keepBase = () => ls.set(K.cache, base ? JSON.stringify({base, sha}) : null);
   const changed = before => onChange(same(before, view()) ? 'status' : 'state');
@@ -234,9 +243,26 @@ export function createStore({fetchImpl = (...a) => fetch(...a), onChange = () =>
     hasToken: () => !!token,
     files: repoFiles(fetchImpl, () => token),
     status: () => ({saving, error, pending: pending.length}),
+    /** 'owner' with a token (state in the repository), otherwise 'visitor' (state in this browser). */
+    mode: () => token ? 'owner' : 'visitor',
+    /** True the first time a visitor arrives, until seed() gives them a starting point. */
+    isNewVisitor: () => !token && !local,
     /** Start from the published copy when nothing better is cached yet. */
-    seed(state) { if (!base) { base = normalise(state); sha = null; } },
-    queue(op) { const before = view(); pending.push(op); keepPending(); changed(before); schedule(); },
+    seed(state) {
+      if (token) { if (!base) { base = normalise(state); sha = null; } return; }
+      if (!local) {
+        const dayAgo = new Date(now() - 864e5).toISOString().replace(/\.\d{3}Z$/, 'Z');
+        local = normalise({paused: normalise(state).paused, saved: {}, lastSeen: dayAgo});
+        keepLocal();
+      }
+    },
+    /** Replace the visitor's state wholesale: a starter pack, or a setup carried from another device. */
+    setLocal(state) { if (token) return; const before = view(); local = normalise(state); keepLocal(); changed(before); },
+    queue(op) {
+      const before = view();
+      if (!token) { local = applyOps(local || {}, [op]); keepLocal(); changed(before); return; }
+      pending.push(op); keepPending(); changed(before); schedule();
+    },
     flush,
     flushSoon() { if (pending.length) schedule(500); },
     refresh,

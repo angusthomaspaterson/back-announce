@@ -13,7 +13,7 @@ export function wireSettings({store, fetchImpl, onToken}) {
     input.placeholder = has ? 'A token is saved on this device' : 'github_pat_…';
     $('tokenSave').textContent = has ? 'Replace token' : 'Save token';
     $('tokenRemove').hidden = !has;
-    if (!has) say('No token on this device, so the app is read only.');
+    if (!has) say('No token on this device. Save, Pause and Mark all seen still work, and are kept on this device only.');
     else if (st.error) say(st.error, true);
     else say(`Connected. Save, Pause and Mark all seen are on for this device.${st.pending ? ` ${st.pending} change${st.pending === 1 ? '' : 's'} waiting to send.` : ''}`);
   }
@@ -41,7 +41,7 @@ export function wireSettings({store, fetchImpl, onToken}) {
     store.setToken('');
     await onToken(false);
     refresh();
-    if (waiting) say(`Token removed. ${waiting} unsent change${waiting === 1 ? ' was' : 's were'} dropped. The app is read only on this device.`);
+    if (waiting) say(`Token removed. ${waiting} unsent change${waiting === 1 ? ' was' : 's were'} dropped. From here on, changes are kept on this device only.`);
   });
 
   fetch('version.txt', {cache: 'no-store'}).then(r => r.ok ? r.text() : '').catch(() => '')

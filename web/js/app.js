@@ -74,12 +74,13 @@ function rerender() { if (!$('feed').hidden) renderFeed(); else invalidate(); }
 // ---- state from the store ----
 function applyState(v) { S.paused = new Set(v.paused || []); S.saved = v.saved || {}; S.lastSeen = v.lastSeen || null; }
 function syncFromStore(kind) {
-  if (!store.hasToken()) return;
-  const st = store.status();
-  S.syncError = st.error;
-  S.syncNote = !st.error && (st.saving || st.pending) ? 'saving…' : '';
-  if (st.error && st.error !== lastError) toast(st.error);
-  lastError = st.error;
+  if (store.hasToken()) {
+    const st = store.status();
+    S.syncError = st.error;
+    S.syncNote = !st.error && (st.saving || st.pending) ? 'saving…' : '';
+    if (st.error && st.error !== lastError) toast(st.error);
+    lastError = st.error;
+  }
   if (kind === 'state') {
     const v = store.view();
     const pausedChanged = v.paused.join('|') !== [...S.paused].sort().join('|');
@@ -129,9 +130,10 @@ async function loadData() {
     else S.sources = [...S.sources, addedHere[i]];
   }
   pagesState = state; lastLoad = Date.now();
-  S.canWrite = store.hasToken();
-  if (S.canWrite) { store.seed(state); applyState(store.view()); }
-  else applyState(state);
+  // Everyone can save, pause and mark seen. With a token that is Angus's own state in the
+  // repository; without one it is the visitor's own copy, kept in this browser.
+  S.owner = store.hasToken(); S.canWrite = true;
+  store.seed(state); applyState(store.view());
 }
 async function refreshAll(manual) {
   const b = $('refreshBtn'); b.classList.add('spin'); b.disabled = true;
@@ -146,9 +148,10 @@ async function refreshAll(manual) {
   } finally { b.classList.remove('spin'); b.disabled = false; }
 }
 async function tokenChanged(has) {
-  S.canWrite = has;
-  if (has) { store.seed(pagesState || {}); applyState(store.view()); rerender(); await store.refresh(); }
-  else { S.syncError = ''; S.syncNote = ''; lastError = ''; applyState(pagesState || {}); rerender(); }
+  S.owner = has; S.canWrite = true;
+  if (!has) { S.syncError = ''; S.syncNote = ''; lastError = ''; }
+  store.seed(pagesState || {}); applyState(store.view()); rerender();
+  if (has) await store.refresh();
 }
 
 async function boot() {
