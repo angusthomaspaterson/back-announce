@@ -28,8 +28,20 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
 <link rel="stylesheet" href="app.css">
+<!-- The light or dark setting, applied before anything paints. -->
+<script>try{var t=localStorage.getItem('ba.theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body>
+
+<!-- The opening screen: once per visit, skipped when the device asks for less motion. -->
+<div class="splash" id="splash" aria-hidden="true">
+  <div class="sp-in">
+    <svg class="sp-rings" viewBox="0 0 200 200" aria-hidden="true"><circle cx="100" cy="100" r="30"/><circle cx="100" cy="100" r="30"/><circle cx="100" cy="100" r="30"/></svg>
+    <b class="sp-word">Back Announce<i>.</i></b>
+    <span class="sp-tag">Human curation, gathered every morning.</span>
+  </div>
+</div>
+<script>try{if(sessionStorage.getItem('ba.splashed')||matchMedia('(prefers-reduced-motion: reduce)').matches)document.getElementById('splash').remove();else sessionStorage.setItem('ba.splashed','1')}catch(e){var s=document.getElementById('splash');if(s)s.remove()}</script>
 
 <header class="top">
   <h1 id="title">Back Announce</h1>
@@ -40,11 +52,12 @@
   </nav>
   <div class="meta" id="meta">Loading…</div>
   <div class="clocks" id="clocks" hidden>
-    <div class="clock"><span class="lbl">Perth</span><span class="t num" id="clkPerth">--:--</span><span class="z" id="datePerth"></span></div>
+    <div class="clock"><span class="lbl" id="lblHome">Perth</span><span class="t num" id="clkPerth">--:--</span><span class="z" id="datePerth"></span></div>
     <div class="clock"><span class="lbl">London</span><span class="t num" id="clkLon">--:--</span><span class="z" id="zLon"></span></div>
     <div class="clock"><span class="lbl">Sydney</span><span class="t num" id="clkSyd">--:--</span><span class="z" id="zSyd"></span></div>
   </div>
   <div class="hacts">
+    <a class="ibtn" id="searchBtn" href="#search" aria-label="Search" title="Search"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 20.5 20.5"/></svg></a>
     <button class="ibtn" id="refreshBtn" aria-label="Refresh" title="Refresh"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 12a8.5 8.5 0 1 1-2.6-6.1"/><path d="M20.5 3.5v5h-5"/></svg></button>
     <button class="ibtn" id="settingsBtn" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2.2"/><circle cx="9" cy="17" r="2.2"/></svg></button>
   </div>
@@ -64,6 +77,11 @@
     <div class="srchead"><button class="chip back" id="suggestBack">‹ Back</button></div>
     <div class="suggest set" id="suggestBody"></div>
   </section>
+  <section id="searchView" hidden>
+    <div class="srchead"><button class="chip back" id="searchBack">‹ Back</button>
+      <input class="srcsearch" id="searchIn" type="search" placeholder="An artist, a DJ, a label, a track…" aria-label="Search episodes and shows" autocomplete="off" enterkeyhint="search"></div>
+    <div id="searchOut"></div>
+  </section>
   <section id="sourcesView" hidden>
     <div class="srchead"><button class="chip back" id="sourcesBack">‹ Back to the feed</button></div>
     <div class="mng" id="mng"></div>
@@ -71,9 +89,21 @@
   </section>
   <footer id="feedFoot">
     <p>Gathered every morning from each show's own site: radio stations, SoundCloud, Mixcloud, podcast feeds, newsletters and magazines. New cards stay marked until you press Mark all seen. Saved keeps a full copy of a card, so it stays after the episode drops out of the feed. A paused show keeps being gathered, so switching it back on brings its recent episodes straight in. <a href="#help">How to use Back Announce</a>.</p>
-    <p class="credit">Curated by <b>Angus Paterson</b> · <a href="https://www.linkedin.com/in/angusthomaspaterson/" target="_blank" rel="noopener">LinkedIn</a> · <a href="https://anguspatersonux.com/" target="_blank" rel="noopener">Portfolio</a></p>
+    <p class="credit">Curated by <b>Angus Paterson</b> · <a href="https://www.linkedin.com/in/angusthomaspaterson/" target="_blank" rel="noopener">LinkedIn</a> · <a href="https://anguspatersonux.com/" target="_blank" rel="noopener">Portfolio</a> · <a href="#help" class="visitor-only">About</a></p>
   </footer>
 </main>
+
+<!-- On a laptop, a second column beside the feed: what's on air now and the latest picks. -->
+<aside class="side" id="side" aria-label="On now and Angus's picks">
+  <section>
+    <h2>On now <a href="#onair">Full schedule ›</a></h2>
+    <div id="sideNow"></div>
+  </section>
+  <section id="sidePicksBox" hidden>
+    <h2>Angus's picks <a href="#picks">All ›</a></h2>
+    <div id="sidePicks"></div>
+  </section>
+</aside>
 
 <main id="onair" class="oa" hidden>
   <div class="filters" id="oaFilters" role="group" aria-label="Stations"></div>
@@ -82,11 +112,11 @@
     <div class="now" id="now"></div>
   </section>
   <section>
-    <h2>Next 24 hours <span class="sub">Perth time</span></h2>
+    <h2>Next 24 hours <span class="sub homezone">Perth time</span></h2>
     <div class="list" id="next"></div>
   </section>
   <section>
-    <h2>This week <span class="sub">all times AWST, clock changes applied automatically</span></h2>
+    <h2>This week <span class="sub homezone">Perth time</span></h2>
     <div class="days" id="days" role="tablist"></div>
     <div class="list" id="week"></div>
   </section>
@@ -94,13 +124,14 @@
     <h2>Follow on demand <span class="sub">no fixed slot, or monthly</span></h2>
     <div class="follow" id="follow"></div>
   </section>
-  <section>
+  <!-- Angus's own radio-app addresses and the clock-change note: owner only. -->
+  <section class="owner-only">
     <h2>Stream addresses <span class="sub">paste into Transistor, Tray FM or Broadcasts</span></h2>
     <div class="streams" id="streams"></div>
   </section>
   <footer>
-    <p id="dstNote"></p>
-    <p>Schedules read from the stations on 29 September 2026: BBC Radio 1 and 6 Music, Rinse FM, RTRFM, triple j and Double J. Stations move shows around; if a slot looks wrong, the station's own schedule wins.</p>
+    <p id="dstNote" class="owner-only"></p>
+    <p>Times are worked out from each station's own clock, daylight saving included. Stations move shows around; if a slot looks wrong, the station's own schedule wins.</p>
   </footer>
 </main>
 
@@ -114,38 +145,52 @@
 
   <h2>Make it yours</h2>
   <ul>
-    <li>You start with Angus's feed. Tap <b>Sources</b> at the end of the row of chips to see every show in the catalogue, each with a switch. Switch off what you don't want, and switch on anything he has paused.</li>
-    <li><b>Search</b> finds a show by name. <b>New</b> lists shows added in the last three weeks.</li>
-    <li><b>Pause source</b> on a card does the same as its switch: the show leaves your feed until you switch it back on.</li>
-    <li>The coloured chips (NTS, BBC, Bass and so on) hide or show a whole category.</li>
-    <li>Know a show that belongs here? <b>Suggest a show</b>, on the Sources screen, sends Angus the link.</li>
+    <li>You start with Angus's feed. Tap <b>Shows</b> at the end of the row of chips to see every show in the catalogue, each with a switch. Switch off what you don't want, and switch on anything he has paused.</li>
+    <li>On that screen, the search box finds a show by name. <b>New</b> lists shows added in the last three weeks.</li>
+    <li><b>Pause show</b> on a card does the same as its switch: the show leaves your feed until you switch it back on.</li>
+    <li>The coloured chips (NTS, BBC, Bass and so on) hide or show a whole category. <b>▶ Plays here</b> shows only episodes you can play inside the app.</li>
+    <li>Know a show that belongs here? <b>Suggest a show</b>, on the Shows screen, sends Angus the link.</li>
   </ul>
 
   <h2>The feed</h2>
   <ul>
-    <li><b>Newest first,</b> under day headings in Perth time. <b>New</b> marks anything since you last pressed <b>Mark all seen</b>.</li>
+    <li><b>Newest first,</b> under day headings in your own time. <b>New</b> marks anything since you last pressed <b>Mark all seen</b>.</li>
     <li><b>Tap a card's text</b> to read all of it. Where a station publishes its tracklist, it's there.</li>
-    <li><b>Tap a show's name</b> to see its latest episodes. <b>Back</b> returns you to the same spot.</li>
-    <li><b>Open</b> goes to the episode or article. <b>Play</b> plays it here, in the player at the bottom, where the audio allows it. On Android, other links open straight in the NTS, BBC Sounds, SoundCloud, Mixcloud or Spotify app if you have it.</li>
+    <li><b>Tap a show's name</b> to see what it's about and its latest episodes. <b>Back</b> returns you to the same spot.</li>
+    <li><b>Search</b> (the magnifying glass, top right) looks through every recent episode's title, description and tracklist, and every show. Try an artist, a DJ or a label.</li>
+    <li><b>Open</b> goes to the episode or article; the button says where, such as <b>Open in NTS</b>. On Android it opens the NTS, BBC Sounds, ABC listen, SoundCloud, Mixcloud or Spotify app if you have it.</li>
     <li><b>Save</b> (the heart) keeps a copy in your Saved list, so it stays after the episode drops out of the feed. <b>Share</b> sends the episode to someone.</li>
     <li><b>Angus's picks</b> are episodes he has singled out, each with a note on why.</li>
   </ul>
 
-  <h2>Take it with you</h2>
+  <h2>Listening here</h2>
   <ul>
-    <li><b>Take it to another device</b>, on the Sources screen and in Settings, makes a link that carries your shows and Saved cards. Open it on your other phone or computer.</li>
-    <li><b>Share my feed</b> makes a link to the shows you follow, for a friend to try.</li>
-    <li><b>Install it:</b> in Chrome or Edge, use Install in the browser's menu or address bar. On an iPhone, use Safari's Share button, then Add to Home Screen. It then opens like any other app.</li>
+    <li><b>▶ Play</b> plays the episode in the player at the bottom, where the audio allows it. Your phone's lock screen shows it too.</li>
+    <li>Stop part way and the button says <b>Resume</b> with the time; it picks up where you left off. A thin bar on the card shows how far you got, and <b>Played ✓</b> marks one you finished.</li>
+    <li><b>+ Up next</b> lines an episode up to play after the current one. The player shows what's next.</li>
+    <li>In the player, <b>−15s</b> and <b>+30s</b> skip, and the speed button cycles through 1×, 1.25×, 1.5×, 2× and 0.75×.</li>
   </ul>
 
-  <h2>Your privacy</h2>
-  <p>There is no account and no tracking. Your shows, Saved cards and seen marker are kept in this browser, on this device, and are never uploaded. Clearing the browser's data removes them, so use <b>Take it to another device</b> if you want a copy.</p>
+  <h2>Take it with you</h2>
+  <ul>
+    <li><b>Take it to another device</b>, on the Shows screen and in Settings, makes a link and a QR code that carry your shows and Saved cards. Open it on your other phone or computer.</li>
+    <li><b>Share my feed</b> makes a link to the shows you follow, for a friend to try.</li>
+    <li><b>Install it:</b> Settings has an <b>Install</b> button where your browser allows it. Otherwise, in Chrome or Edge use Install in the browser's menu; on an iPhone use Safari's Share button, then Add to Home Screen. It then opens like any other app.</li>
+  </ul>
 
   <h2>On Air</h2>
   <ul>
-    <li><b>On now</b> with time left, <b>Next 24 hours</b>, and <b>This week</b> by day, all in Perth time.</li>
+    <li><b>On now</b> with time left, <b>Next 24 hours</b>, and <b>This week</b> by day, all in your own time.</li>
     <li><b>Listen live</b> opens the station's own player. <b>Play here</b> plays it in the app where the station allows it.</li>
   </ul>
+
+  <h2>Your privacy</h2>
+  <p>There is no account. Your shows, Saved cards, listening places and seen marker are kept in this browser, on this device, and are never uploaded. Clearing the browser's data removes them, so use <b>Take it to another device</b> if you want a copy.</p>
+  <p>Visits are counted anonymously with <a href="https://www.goatcounter.com/" target="_blank" rel="noopener">GoatCounter</a>, so Angus can see roughly how many people use the app and which screens they open. It sets no cookies, keeps no IP addresses and can't tell who you are. It never records which shows or episodes you follow, save or play.</p>
+
+  <h2 id="about">About</h2>
+  <p>Back Announce was made by Angus Paterson, a former music journalist in Perth, to keep up with the radio shows, mixes and writers he follows without an algorithm choosing for him. It reads each show's own public feed or page once a day and links back to it. Every episode plays from, or opens at, the show's own home, and the credit stays with the people who made it.</p>
+  <p>Run a show listed here and would rather it wasn't? Or spotted something wrong? Message Angus on <a href="https://www.linkedin.com/in/angusthomaspaterson/" target="_blank" rel="noopener">LinkedIn</a> and he'll sort it.</p>
 
   <h2>When things update</h2>
   <p>The feed is gathered once a day, early in the morning Perth time. Press <b>Refresh</b> (the circular arrow, top right) to load the latest.</p>
@@ -171,7 +216,9 @@
     <li><b>Tap a card's text</b> to read all of it. On a First Floor recommendations card this also lists each record with its link.</li>
     <li><b>Tap the round initials or the source's name</b> to see everything stored from that source. <b>Back</b> returns you to the same spot.</li>
     <li><b>Group chips</b> (Bass, NTS, Writing and so on) hide or show a group. This is remembered on this device only.</li>
-    <li><b>Open</b> goes to the episode or article. <b>Play</b> plays it in the player at the bottom; the lock screen shows it, with play, pause, back 15 seconds and forward 30.</li>
+    <li><b>Open</b> goes to the episode or article. <b>Play</b> plays it in the player at the bottom; the lock screen shows it, with play, pause, back 15 seconds and forward 30. The player also has a speed button, and <b>+ Up next</b> on a card queues an episode.</li>
+    <li>Each device remembers where you stopped an episode: the button then says <b>Resume</b> with the time, and a finished one shows <b>Played ✓</b>. This is kept on the device, not in GitHub.</li>
+    <li><b>Search</b> (the magnifying glass) looks through every recent episode's title, description and tracklist, and every source.</li>
     <li><b>Save</b> (the heart) keeps a full copy in Saved, so it stays after the episode drops out of the feed.</li>
     <li><b>Pause source</b> hides that source on every device. It is still gathered, so resuming it brings its recent episodes straight back.</li>
     <li>Every Save, Pause and Mark all seen shows a message at the bottom with <b>Undo</b>.</li>
@@ -215,7 +262,7 @@
   <h2>If something looks wrong</h2>
   <ul>
     <li><b>The status line says "not saved".</b> Open Settings; it says why. Usually the token has expired, so make a new one and paste it in.</li>
-    <li><b>The "Updated" time is more than about seven hours old.</b> On GitHub, open the repository's <a href="https://github.com/angusthomaspaterson/back-announce/actions" target="_blank" rel="noopener">Actions</a> tab and choose <b>Gather the feed</b>. If a yellow banner says it was disabled, press <b>Enable workflow</b>. Then press <b>Run workflow</b>.</li>
+    <li><b>The "Updated" time is more than a day old,</b> or a yellow note at the top of the feed says it hasn't refreshed. On GitHub, open the repository's <a href="https://github.com/angusthomaspaterson/back-announce/actions" target="_blank" rel="noopener">Actions</a> tab and choose <b>Gather the feed</b>. If a yellow banner says it was disabled, press <b>Enable workflow</b>. Then press <b>Run workflow</b>.</li>
     <li><b>The Substack sources are behind.</b> The laptop has been off; they catch up next time it's on.</li>
     <li><b>A source says "failed" for days.</b> The site may have moved its feed. Ask Claude in the back-announce folder to look into it.</li>
     <li><b>You see an old version of the app.</b> Close it fully and open it again.</li>
@@ -243,24 +290,36 @@
     <li><b>Pick</b>, on any card, adds it to <b>Angus's picks</b> with your note. Picks are public. Tap <b>Picked ✓</b> to change the note or remove the pick. The newest 40 are kept.</li>
     <li><b>Share my feed</b>, on the Sources screen, makes a link to the shows you follow.</li>
     <li>To see what a visitor sees, open the site in a private browser window.</li>
+    <li><b>Visit counts</b> are at <a href="https://backannounce.goatcounter.com/" target="_blank" rel="noopener">backannounce.goatcounter.com</a>: screens opened and actions such as Play or Save, never which show. Devices with your token aren't counted.</li>
   </ul>
   </div>
 </main>
 
 <div class="player" id="player" hidden>
   <div class="pinfo"><span class="pname" id="pName"></span><span class="psub" id="pSub"></span></div>
-  <audio id="audio" controls preload="none"></audio>
   <button class="pclose" id="pClose" aria-label="Close player">✕</button>
+  <audio id="audio" controls preload="none"></audio>
+  <div class="pctl">
+    <button class="pb" id="pBack" aria-label="Back 15 seconds">−15s</button>
+    <button class="pb" id="pFwd" aria-label="Forward 30 seconds">+30s</button>
+    <button class="pb" id="pRate" aria-label="Playback speed">1×</button>
+    <span class="pnext" id="pNext" hidden><span class="lbl">Up next</span> <span class="nm" id="pNextName"></span>
+      <button class="pb" id="pSkip">Play now</button><button class="pb q" id="pClear" aria-label="Clear Up next">Clear</button></span>
+  </div>
 </div>
 
 <dialog class="settings" id="settings" aria-labelledby="setTitle">
   <form method="dialog" class="set">
     <h2 id="setTitle">Settings</h2>
     <div class="visitor-only">
-      <p class="hint">Your shows, Saved cards and seen marker are kept on this device only. There is no account, and nothing is uploaded.</p>
+      <p class="hint">Your shows, Saved cards and seen marker are kept on this device only. There is no account, and none of them is uploaded. Visits are counted anonymously (see Help, Your privacy).</p>
       <div class="setrow"><button type="button" class="btn" id="setCarry">Take it to another device</button><button type="button" class="btn" id="setShare">Share my feed</button></div>
       <div class="setrow"><button type="button" class="btn" id="setReset" title="Bring back the welcome screen and Angus's selection. Your Saved cards stay.">Start again</button></div>
     </div>
+    <label for="themeSel">Appearance</label>
+    <select id="themeSel" class="setsel"><option value="auto">Match this device</option><option value="light">Light</option><option value="dark">Dark</option></select>
+    <div class="setrow" id="installRow" hidden><button type="button" class="btn p" id="installBtn">Install Back Announce</button></div>
+    <p class="hint" id="installHint" hidden></p>
     <details id="ownerBox">
     <summary class="visitor-only">Owner sign-in</summary>
     <p class="hint">A GitHub token makes this one of Angus's own devices: saves, pauses and picks go to the repository and reach his other devices. It is kept on this device only, and only ever sent to GitHub.</p>

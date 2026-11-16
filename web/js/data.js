@@ -8,6 +8,10 @@ export const CURATOR = {name: 'Angus Paterson', linkedin: 'https://www.linkedin.
 // offers LinkedIn, a GitHub issue or the clipboard instead. For a Google Form, `action` is
 // its .../formResponse address and `fields` maps each answer to the form's entry.NNN name.
 export const SUGGEST_FORM = {action: '', fields: {url: '', show: '', why: '', from: ''}};
+// Anonymous visit counting (goatcounter.com): which screens are opened and how often Play,
+// Save and so on are pressed. Never which show or episode, no cookies. Devices with a token,
+// and copies running on this computer, are not counted. Empty code = no counting.
+export const COUNTER = {code: 'backannounce'};
 
 async function getJSON(path) {
   const r = await fetch(path, {cache: 'no-cache'});

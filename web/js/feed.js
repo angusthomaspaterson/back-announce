@@ -1,10 +1,10 @@
 // The Feed tab: the timeline, the Saved view, the Source page and the Sources screen.
 // Each view has its own container, so going to a source and back leaves the feed exactly
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
-import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross} from './util.js';
+import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross, openWhere, clock, toast} from './util.js';
 import {PACKS, followedBy, isNewInCatalogue} from './packs.js';
 import {CURATOR} from './data.js';
-import {play} from './player.js';
+import {play, getProgress, enqueue, inQueue} from './player.js';
 
 export const S = {
   sources: [],          // the source list from data/sources.json
@@ -27,15 +27,23 @@ export const S = {
   packPick: new Set(),  // starter packs ticked on that panel
   ownerPaused: [],      // the published paused list: what Angus himself has switched off
   srcQuery: '',         // the Sources screen's search box
+  query: '',            // the Search screen
+  playOnly: false,      // the feed shows only what plays in the app
+  full: {},             // id -> every stored item, fetched when a show's page needs more than the bundle has
   syncNote: '', syncError: '',
   // set by app.js
   onNavigate: null, onBack: null, onPause: null, onSave: null, onMarkSeen: null, onShowAdd: null,
+  track: () => {},      // an anonymous count of an action (never which show or episode)
 };
+/** What visitors call a source. */
+const showWord = () => S.owner ? 'Sources' : 'Shows';
 try { S.groups = JSON.parse(localStorage.getItem('ba.groups') || '{}') || {}; } catch (e) {}
 function saveLocal() { try { localStorage.setItem('ba.groups', JSON.stringify(S.groups)); } catch (e) {} }
 
 export function cfgFor(id) { return S.sources.find(s => s.id === id) || null; }
 export function nameOf(id) { const c = cfgFor(id), d = S.feed[id]; return (c && c.name) || (d && d.name) || id; }
+/** One or two sentences on what a show is: Angus's own words if he wrote some, else the show's. */
+export function aboutOf(id) { const c = cfgFor(id), d = S.feed[id]; return (c && c.about) || (d && d.about) || ''; }
 function groupOf(id) { const c = cfgFor(id); return (c && c.group) || 'Other'; }
 function sourceList() { return S.sources.length ? S.sources : Object.keys(S.feed).map(id => ({id, name: S.feed[id].name, home: S.feed[id].home})); }
 
@@ -49,19 +57,20 @@ function linkOnlyCard(id) {
     desc: 'The site would not let the gatherer read this page, so there is nothing to show here yet. Open it directly; the next refresh tries again.', linkOnly: true}, id);
 }
 export function allItems() {
-  const out = [];
+  const out = [], now = nowIso();
   for (const id of Object.keys(S.feed)) {
     if (S.paused.has(id)) continue;
     const d = S.feed[id];
     if (d.linkOnly && !(d.items || []).length) { out.push(linkOnlyCard(id)); continue; }
-    for (const it of (d.items || [])) out.push(withSource(it, id));
+    // Rinse lists shows up to a day before they air; they join the feed once they have.
+    for (const it of (d.items || [])) if (!it.date || it.date <= now) out.push(withSource(it, id));
   }
   out.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   return dedupeAcross(out);
 }
 export function srcItems(id) {
   const d = S.feed[id] || {};
-  const out = (d.items || []).map(it => withSource(it, id));
+  const out = (S.full[id] || d.items || []).map(it => withSource(it, id));
   if (d.linkOnly && !out.length) out.push(linkOnlyCard(id));
   out.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   return out;
@@ -121,6 +130,22 @@ function spotifyLink(it) {
 // ---- cards ----
 const cardMap = new Map();   // data-save key -> item, for the click handler
 function heartInner(saved) { return `<span aria-hidden="true">${saved ? '♥' : '♡'}</span>${saved ? 'Saved' : 'Save'}`; }
+/** ▶ Play, ▶ Resume 47:12, or ▶ Play again. */
+function playLabel(p) { return p && p.done ? '▶ Play again' : p && p.t > 30 ? `▶ Resume ${clock(p.t)}` : '▶ Play'; }
+/** After the player saves a place, update that episode's buttons where they are on screen. */
+export function refreshProgress(url) {
+  for (const b of document.querySelectorAll('[data-play]')) {
+    if (String(b.dataset.play).replace(/^http:/i, 'https:') !== url) continue;
+    const p = getProgress(url);
+    b.textContent = playLabel(p);
+    const c = b.closest('.card'); if (!c) continue;
+    let bar = c.querySelector('.prog');
+    if (p && !p.done && p.d) {
+      if (!bar) { bar = document.createElement('div'); bar.className = 'prog'; bar.setAttribute('aria-hidden', 'true'); bar.appendChild(document.createElement('i')); c.querySelector('.acts').before(bar); }
+      bar.firstChild.style.width = Math.min(100, p.t / p.d * 100).toFixed(1) + '%';
+    } else if (bar) bar.remove();
+  }
+}
 function card(it, mode) {
   const inSaved = mode === 'saved', inSrc = mode === 'source', inPicks = mode === 'picks';
   const key = it._key || savedKey(it);
@@ -136,21 +161,28 @@ function card(it, mode) {
   const links = (it.links || []).map(l => `<a href="${esc(l.u)}" target="_blank" rel="noopener">↗ ${esc(l.t)}</a>`).join('');
   const when = inSaved ? it.savedAt : inPicks ? it.pickedAt : it.date;
   const heart =S.canWrite && !it.linkOnly ? `<button class="btn heart" data-save="${esc(key)}" aria-pressed="${saved}" aria-label="${saved ? 'Remove from Saved' : 'Save'}">${heartInner(saved)}</button>` : '';
-  const audio = it.audio ? `<button class="btn" data-play="${esc(it.audio)}" data-name="${esc(it.title)}" data-sub="${esc(it.sname)}" data-art="${esc(it.image || '')}">▶ Play</button>` : '';
+  const prog = it.audio ? getProgress(it.audio) : null;
+  const audio = it.audio ? `<button class="btn play" data-play="${esc(it.audio)}" data-name="${esc(it.title)}" data-sub="${esc(it.sname)}" data-art="${esc(it.image || '')}">${playLabel(prog)}</button>
+    <button class="btn q" data-queue="${esc(key)}" title="Play this after what's playing now">${inQueue(it.audio) ? 'In Up next' : '+ Up next'}</button>` : '';
   const sp = spotifyLink(it);
   const spotify = sp ? `<a class="btn spot" href="${esc(sp)}" target="_blank" rel="noopener" title="Search Spotify for this">Spotify ↗</a>` : '';
   const share = it.url && !it.linkOnly ? `<button class="btn q" data-share="${esc(key)}" title="Send this to someone">Share</button>` : '';
-  const pause = S.canWrite && !inSaved && !inSrc && !inPicks ? `<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this source until you switch it back on">Pause source</button>` : '';
+  const pause = S.canWrite && !inSaved && !inSrc && !inPicks ? `<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this ${S.owner ? 'source' : 'show'} until you switch it back on">${S.owner ? 'Pause source' : 'Pause show'}</button>` : '';
+  const where = openWhere(it.url);
+  // Older BBC cards said "(UK only)"; the BBC Sounds app plays them anywhere.
+  const desc = (it.desc || '').replace(' (UK only).', '.');
+  const bar = prog && !prog.done && prog.d ? `<div class="prog" aria-hidden="true"><i style="width:${Math.min(100, prog.t / prog.d * 100).toFixed(1)}%"></i></div>` : '';
   return `<article class="card${it.linkOnly ? ' linkonly' : ''}" style="--sc:${gcol(it.group)}">
     <div class="who"><button class="srcbtn" data-src="${esc(it.sid)}" ${inSrc ? 'disabled' : ''} aria-label="See recent posts from ${esc(it.sname)}"><span class="av" aria-hidden="true">${esc(initials(it.sname))}</span>
       <span class="who-t"><span class="nm">${esc(it.sname)}${inSrc ? '' : ' <span class="go" aria-hidden="true">›</span>'}</span><span class="sub">${esc(it.group)}${(inSaved || inPicks) && dateOk(it.date) ? ' · ' + esc(sfmt.format(new Date(it.date))) : ''}</span></span></button>
       <div class="t">${isNew ? '<span class="new">New</span>' : ''}${dateOk(when) ? esc(tfmt.format(new Date(when))) + '<br>' + esc(rel(when)) : ''}</div></div>
     <div class="ttl"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
     ${note}
-    ${it.desc ? `<div class="txt" title="Tap to expand">${esc(it.desc)}</div>` : ''}
+    ${desc ? `<div class="txt" title="Tap to expand">${esc(desc)}</div>` : ''}
     ${links ? `<div class="links">${links}</div>` : ''}
-    ${it.image ? `<a class="pic${square ? ' sq' : ''}" href="${esc(it.url)}" target="_blank" rel="noopener"><img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>` : ''}
-    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">Open ↗</a>${heart}${audio}${spotify}${share}${pickBtn}${pause}${tags ? `<span class="tag">${esc(tags)}</span>` : ''}</div>
+    ${it.image ? `<a class="pic${square ? ' sq' : ''}" href="${esc(it.url)}" target="_blank" rel="noopener"><img src="${esc(it.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>` : ''}
+    ${bar}
+    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : 'Open'} ↗</a>${audio}${heart}${spotify}${share}${pickBtn}${pause}${tags || prog && prog.done ? `<span class="tag">${prog && prog.done ? '<b class="played">Played ✓</b>' + (tags ? ' · ' : '') : ''}${esc(tags)}</span>` : ''}</div>
   </article>`;
 }
 function dayList(list, mode, limit) {
@@ -181,8 +213,10 @@ export function show() {
   $('sourcesView').hidden = v !== 'sources';
   $('addView').hidden = v !== 'add';
   $('suggestView').hidden = v !== 'suggest';
+  $('searchView').hidden = v !== 'search';
   if (v === 'add') { S.onShowAdd(); renderMeta(items); return; }
   if (v === 'suggest') { S.onShowSuggest(); renderMeta(items); return; }
+  if (v === 'search') { $('title').textContent = 'Search'; renderSearch(); renderMeta(items); return; }
   if (listView) {
     $('title').textContent = v === 'saved' ? 'Saved' : v === 'picks' ? "Angus's picks" : 'Back Announce';
     renderFilters(items, saved);
@@ -191,10 +225,37 @@ export function show() {
     renderSrcHead();
     if (rendered.src !== S.srcId) { renderSrcPage(); rendered.src = S.srcId; }
   } else if (v === 'sources') {
-    $('title').textContent = 'Sources';
+    $('title').textContent = showWord();
     if (!rendered.sources) { renderSources(); rendered.sources = true; }
   }
   renderMeta(items);
+}
+
+// ---- search: episodes, tracklists and shows, across the whole catalogue ----
+let searchShown = '';
+function renderSearch() {
+  const box = $('searchIn');
+  if (box.value !== S.query) box.value = S.query;
+  if (searchShown === S.query && $('searchOut').innerHTML) return;
+  searchShown = S.query;
+  const words = S.query.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').split(/\s+/).filter(w => w.length > 1);
+  if (!words.length) {
+    $('searchOut').innerHTML = `<p class="hint">Search every recent episode's title, description and tracklist, and every show in the catalogue. Try an artist, a DJ, a label or a track.</p>`;
+    return;
+  }
+  const fold = t => String(t || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  const hit = t => { const f = fold(t); return words.every(w => f.includes(w)); };
+  const shows = sourceList().filter(s => hit(`${s.name} ${s.group || ''} ${aboutOf(s.id)}`)).slice(0, 12);
+  const eps = [], now = nowIso();
+  for (const id of Object.keys(S.feed)) for (const it of (S.feed[id].items || [])) {
+    if (it.date && it.date > now) continue;
+    if (hit(`${it.title} ${it.desc} ${nameOf(id)}`)) eps.push(withSource(it, id));
+  }
+  eps.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  const showHtml = shows.length ? `<h3 class="sh3">Shows</h3><div class="shows">${shows.map(s => `<button class="showhit" data-src="${esc(s.id)}" style="--sc:${gcol(s.group)}"><span class="sw"></span><b>${esc(s.name)}</b>${aboutOf(s.id) ? `<span>${esc(aboutOf(s.id))}</span>` : ''}${S.paused.has(s.id) ? '<em>Not in your feed</em>' : ''}</button>`).join('')}</div>` : '';
+  $('searchOut').innerHTML = showHtml + (eps.length
+    ? `<h3 class="sh3">${eps.length} episode${eps.length === 1 ? '' : 's'}${eps.length > 60 ? ', newest 60' : ''}</h3>${dayList(eps, 'search', 60)}`
+    : `<p class="hint">No recent episodes mention "${esc(S.query)}". The search covers about the last six weeks.</p>`);
 }
 
 /** The first-visit panel: keep Angus's whole feed, or start from one or more packs. */
@@ -219,12 +280,13 @@ function renderWelcome() {
   const all = sourceList(), off = S.ownerPaused;
   const total = all.filter(s => !off.includes(s.id)).length;
   const n = S.packPick.size ? followedBy([...S.packPick], all, off).length : total;
+  const picks = picksList().length;
   w.innerHTML = `<h2>Welcome to Back Announce<span class="dot">.</span></h2>
-    <p class="lead">Human curation, gathered every morning: radio shows, mixes, podcasts and music writing, chosen by a person, not an algorithm.</p>
-    <p>You're looking at Angus's feed of ${total} shows. Keep all of it, or start with the parts you like:</p>
-    <div class="packs">${PACKS.map(p => `<button class="pack" data-pack="${p.id}" aria-pressed="${S.packPick.has(p.id)}"><b>${esc(p.name)}</b><span>${esc(p.blurb)} · ${followedBy([p.id], all, off).length} shows</span></button>`).join('')}</div>
-    <div class="wacts"><button class="btn p" id="wGo">${S.packPick.size ? `Start with these ${n} shows` : `Keep all ${total} shows`}</button></div>
-    <p class="fine">You can change everything later under Sources. No account needed: your choices stay on this device.</p>`;
+    <p class="lead">A back announce is the moment a radio presenter tells you what you just heard. This is a feed of the people who still do it: ${total} radio shows, mixes, podcasts and writers, chosen by Angus, not an algorithm.</p>
+    <p class="ask">Start with everything, or pick what you're into:</p>
+    <div class="packs">${PACKS.map(p => `<button class="pack" data-pack="${p.id}" aria-pressed="${S.packPick.has(p.id)}"><b>${esc(p.name)}</b><span>${esc(p.blurb)} · ${followedBy([p.id], all, off).length}</span></button>`).join('')}</div>
+    <div class="wacts"><button class="btn p" id="wGo">${S.packPick.size ? `Start with these ${n} shows` : `Start with all ${total}`}</button>${picks ? `<button class="btn" id="wPicks">★ Angus's picks first</button>` : ''}</div>
+    <p class="fine">No account. Change it any time under Shows. Your choices stay on this device; visits are counted anonymously.</p>`;
 }
 
 function renderFilters(items, saved) {
@@ -237,26 +299,45 @@ function renderFilters(items, saved) {
   const newCount = countNew(items);
   $('filters').innerHTML = `<button class="chip heartchip" id="savedView" aria-pressed="${S.view === 'saved'}"><span class="hrt" aria-hidden="true">${S.view === 'saved' ? '♥' : '♡'}</span>Saved <span class="cnt">${saved.length}</span></button>`
     + (picks.length || S.owner ? `<button class="chip pickchip" id="picksView" aria-pressed="${inPicks}"><span class="hrt" aria-hidden="true">★</span>Angus's picks <span class="cnt">${picks.length}</span></button>` : '')
+    + (inSaved ? '' : `<button class="chip playchip" id="playOnly" aria-pressed="${S.playOnly}" title="Only what plays here, in the app">▶ Plays here</button>`)
     + groups.filter(g => counts[g]).map(g => `<button class="chip" data-g="${esc(g)}" aria-pressed="${S.groups[g]}" style="--sc:${gcol(g)}"><span class="sw"></span>${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join('')
     + (inSaved || !W ? '' : `<button class="chip act" id="markSeen">Mark all seen${newCount ? ' (' + newCount + ')' : ''}</button>`)
-    + `<button class="chip src${inSaved || !W ? ' act' : ''}" id="openSrc">Sources${S.paused.size ? ' · ' + S.paused.size + ' paused' : ''}</button>`;
+    + `<button class="chip src${inSaved || !W ? ' act' : ''}" id="openSrc">${showWord()}${S.paused.size ? ' · ' + S.paused.size + ' paused' : ''}</button>`;
 }
 function countNew(items) { return items.filter(i => !i.linkOnly && dateOk(i.date) && (!S.lastSeen || i.date > S.lastSeen)).length; }
 
 function renderStream(items, saved) {
   const inSaved = S.view === 'saved', inPicks = S.view === 'picks';
   const pool = inPicks ? picksList() : inSaved ? saved : items;
-  const vis = pool.filter(i => S.groups[i.group] !== false);
-  let html;
-  if (inSaved && !saved.length) html = empty('Nothing saved yet. Tap the heart on any card to keep it here. Saved cards stay even after the show drops out of the feed.');
-  else if (inPicks && !pool.length) html = empty(S.owner ? "No picks yet. Tap Pick on any card and say why it's worth hearing. Picks are public; your Saved list is not." : 'No picks yet.');
-  else if (!pool.length) html = empty('Nothing gathered yet. The first run fills this in; after that it refreshes once a day.');
-  else if (!vis.length) html = empty('Every group is switched off. Tap a chip above to bring one back.');
+  const vis = pool.filter(i => S.groups[i.group] !== false && (inSaved || inPicks || !S.playOnly || i.audio));
+  let html = notices(inSaved, saved);
+  if (inSaved && !saved.length) html += empty('Nothing saved yet. Tap the heart on any card to keep it here. Saved cards stay even after the show drops out of the feed.');
+  else if (inPicks && !pool.length) html += empty(S.owner ? "No picks yet. Tap Pick on any card and say why it's worth hearing. Picks are public; your Saved list is not." : 'No picks yet.');
+  else if (!pool.length) html += empty('Nothing gathered yet. The first run fills this in; after that it refreshes once a day.');
+  else if (!vis.length) html += empty(S.playOnly ? 'Nothing in these groups plays here. Tap ▶ Plays here to see everything again.' : 'Every group is switched off. Tap a chip above to bring one back.');
   else {
-    html = dayList(vis, inPicks ? 'picks' : inSaved ? 'saved' : 'feed', S.limit);
+    html += dayList(vis, inPicks ? 'picks' : inSaved ? 'saved' : 'feed', S.limit);
     if (vis.length > S.limit) html += `<button class="more" id="more">Show ${Math.min(60, vis.length - S.limit)} more of ${vis.length}</button>`;
   }
   $('stream').innerHTML = html;
+}
+
+/** Short notes above a list: the feed is out of date, or a visitor's saves have no backup. */
+function notices(inSaved, saved) {
+  const st = S.status, last = st && dateOk(st.lastRun) ? new Date(st.lastRun) : null;
+  let out = '';
+  if (!inSaved && last && Date.now() - last > 30 * 3600000) {
+    const when = `${dfmt.format(last)}, ${tfmt.format(last)}`;
+    out += S.owner
+      ? `<div class="notice warn"><b>The feed hasn't refreshed since ${esc(when)}.</b> The daily gather on GitHub may have stopped. Help, under "If something looks wrong", has the fix. <a href="#help">Open Help</a></div>`
+      : `<div class="notice warn"><b>These episodes are from ${esc(when)}.</b> The morning refresh is running late, so the newest shows may be missing for now.</div>`;
+  }
+  let nudged = false; try { nudged = localStorage.getItem('ba.backupNudged') === '1'; } catch (e) {}
+  if (inSaved && !S.owner && saved.length >= 3 && !nudged) {
+    out += `<div class="notice"><b>Your saved cards live in this browser.</b> Clearing it, or a phone tidying up unused sites, would lose them. Keep a copy on another device, or as a link.
+      <div class="nacts"><button class="btn" id="nudgeCarry">Take it to another device</button><button class="btn q" id="nudgeNo">Not now</button></div></div>`;
+  }
+  return out;
 }
 
 function renderSrcHead() {
@@ -265,18 +346,36 @@ function renderSrcHead() {
   const off = S.paused.has(id), ss = (S.status && S.status.sources && S.status.sources[id]) || {};
   const host = home ? home.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '') : '';
   const real = srcItems(id).filter(i => !i.linkOnly);
-  const back = S.prevView === 'saved' ? 'Saved' : S.prevView === 'sources' ? 'Sources' : 'the feed';
+  const back = S.prevView === 'saved' ? 'Saved' : S.prevView === 'sources' ? showWord() : S.prevView === 'search' ? 'Search' : S.prevView === 'picks' ? "Angus's picks" : 'the feed';
   $('title').textContent = name;
   const h = $('srcHead'); h.style.setProperty('--sc', gcol(group));
+  const about = aboutOf(id), O = S.owner, word = O ? 'source' : 'show';
+  // Angus sees how the gathering went; a visitor sees what the show is.
+  const health = ss.ok === false ? (O ? `<span class="bad">${ss.linkOnly ? 'site refuses the gatherer' : 'last fetch failed'}</span>`
+    : ss.linkOnly ? "this site can't be gathered, so open it directly" : "couldn't be checked this morning") : '';
+  const where = home ? openWhere(home) : null;
   h.innerHTML = `<button class="chip back" id="srcBack">‹ Back to ${back}</button>
-    <div class="sh"><div class="av" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(group)}${cfg.kind ? ' · ' + esc(kindLabel(cfg.kind)) : ''}${cfg.added ? ' · ' + esc(addedLabel(cfg.added)) : ''}</div>
-      <div class="sub">${real.length} ${real.length === 1 ? 'post' : 'posts'}${real[0] && dateOk(real[0].date) ? ', latest ' + esc(sfmt.format(new Date(real[0].date))) : ''}${ss.ok === false ? ' · <span class="bad">' + (ss.linkOnly ? 'site refuses the gatherer' : 'last fetch failed') + '</span>' : ''}${off ? ' · paused' : ''}</div></div></div>
-    <div class="acts">${home ? `<a class="btn" href="${esc(home)}" target="_blank" rel="noopener">Visit ${esc(host.length > 28 ? 'site' : host)} ↗</a>` : ''}${S.canWrite ? `<button class="btn${off ? ' p' : ''}" id="srcPause">${off ? 'Resume source' : 'Pause source'}</button>` : ''}</div>`;
+    <div class="sh"><div class="av" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(group)}${cfg.kind ? ' · ' + esc(kindLabel(cfg.kind)) : ''}${O && cfg.added ? ' · ' + esc(addedLabel(cfg.added)) : ''}</div>
+      <div class="sub">${real.length ? `${real.length} recent${real[0] && dateOk(real[0].date) ? ', latest ' + esc(sfmt.format(new Date(real[0].date))) : ''}` : ''}${health ? ' · ' + health : ''}${off ? ' · paused' : ''}</div></div></div>
+    ${about ? `<p class="about">${esc(about)}</p>` : ''}
+    <div class="acts">${home ? `<a class="btn" href="${esc(home)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : `Visit ${esc(host.length > 28 ? 'site' : host)}`} ↗</a>` : ''}${S.canWrite ? `<button class="btn${off ? ' p' : ''}" id="srcPause">${off ? (O ? 'Resume source' : 'Add to my feed') : `Pause ${word}`}</button>` : ''}</div>`;
 }
 function renderSrcPage() {
-  const items = srcItems(S.srcId);
-  $('srcPage').innerHTML = items.length ? dayList(items, 'source', 999)
-    : empty('Nothing gathered from this source yet. A source you have just added fills in within a few minutes: press Refresh. Otherwise it is checked once a day.');
+  const id = S.srcId, d = S.feed[id] || {};
+  const items = srcItems(id);
+  $('srcPage').innerHTML = (items.length ? dayList(items, 'source', 999)
+    : empty(S.owner ? 'Nothing gathered from this source yet. A source you have just added fills in within a few minutes: press Refresh. Otherwise it is checked once a day.' : 'Nothing from this show yet.'))
+    + (d.more && !S.full[id] ? `<button class="more" id="srcMore">Show ${d.more} older</button>` : '');
+}
+/** The bundle carries each show's last six weeks; its page can fetch the rest. */
+async function loadOlder(id) {
+  const b = $('srcMore'); if (b) { b.disabled = true; b.textContent = 'Loading…'; }
+  try {
+    const r = await fetch(`data/feed/${encodeURIComponent(id)}.json`, {cache: 'no-cache'});
+    if (!r.ok) throw new Error(r.status);
+    S.full[id] = (await r.json()).items || [];
+    if (S.srcId === id) { renderSrcPage(); renderSrcHead(); }
+  } catch (e) { if (b) { b.disabled = false; b.textContent = "Couldn't load them. Try again"; } }
 }
 
 function renderSources() {
@@ -289,7 +388,7 @@ function renderSources() {
   if (S.srcView === 'new' && !nNew) S.srcView = 'all';
   const views = [['all', 'All ' + total], ['on', 'Following ' + (total - nP)], ['off', 'Paused ' + nP]].concat(nNew ? [['new', 'New ' + nNew]] : []);
   // Adding sources and the batch buttons (named after the dates Angus added things) are the owner's.
-  $('mng').innerHTML = `${O ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} sources in ${O ? 'the' : 'your'} feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ''}${O ? '' : ' Your choices are kept on this device.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
+  $('mng').innerHTML = `${O ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} ${O ? 'sources' : 'shows'} in ${O ? 'the' : 'your'} feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ''}${O ? '' : ' Your choices are kept on this device.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
     <input class="srcsearch" id="srcSearch" type="search" placeholder="Search ${total} shows" aria-label="Search shows" value="${esc(S.srcQuery)}" autocomplete="off">
     <div class="row">${views.map(([k, l]) => `<button class="chip" data-view="${k}" aria-pressed="${S.srcView === k}">${esc(l)}</button>`).join('')}</div>
     <div class="row"><button class="btn" id="shareFeed" title="A link that shows someone the shows you follow">Share my feed</button>${O ? '' : `<button class="btn" id="carryLink" title="A link that brings your shows and Saved cards to another device">Take it to another device</button><button class="btn" id="openSuggest" title="Know a show that belongs here? Send ${esc(CURATOR.name.split(' ')[0])} the link">Suggest a show</button>`}${W && !O && nP ? '<button class="btn q" id="resumeAll">Resume everything</button>' : ''}</div>
@@ -318,8 +417,14 @@ function renderSourceList() {
     html += list.map(s => {
       const ss = (st && st.sources && st.sources[s.id]) || {}, doc = S.feed[s.id], off = P.has(s.id);
       const newest = doc && doc.items && doc.items[0] && doc.items[0].date;
-      const stTxt = ss.linkOnly ? 'link only' : ss.ok === false ? 'failed' : ss.ok === true || doc ? (dateOk(newest) ? sfmt.format(new Date(newest)) : 'no items') : 'pending';
-      return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${ss.ok === false && !ss.linkOnly ? ' bad' : ''}" title="${esc(ss.error || '')}">${esc(stTxt)}</div><div class="m">${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}${off ? ' · paused' : ''}</div></div>`;
+      const latest = dateOk(newest) ? sfmt.format(new Date(newest)) : '';
+      // Angus sees failures; a visitor sees the newest episode, or where to go instead.
+      const stTxt = S.owner
+        ? (ss.linkOnly ? 'link only' : ss.ok === false ? 'failed' : ss.ok === true || doc ? (latest || 'no items') : 'pending')
+        : (ss.linkOnly ? 'visit site' : latest || '—');
+      const about = S.owner ? '' : aboutOf(s.id);
+      const m = S.owner ? `${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}` : esc(about.length > 110 ? about.slice(0, 107).replace(/\s+\S*$/, '') + '…' : about || kindLabel(s.kind));
+      return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · paused' : ''}</div></div>`;
     }).join('');
   }
   $('sources').innerHTML = html || empty(words.length ? `No shows match "${esc(S.srcQuery)}".` : 'Nothing here.');
@@ -332,8 +437,10 @@ export function renderMeta(items = allItems()) {
   const bad = st ? Object.values(st.sources || {}).filter(s => s.ok === false && !s.linkOnly).length : 0;
   const total = Object.keys(S.feed).length, pausedHere = [...S.paused].filter(id => S.feed[id]).length;
   const sync = !S.owner ? '' : S.syncError ? ` · <span class="bad" title="${esc(S.syncError)}">not saved</span>` : S.syncNote ? ` · ${esc(S.syncNote)}` : '';
-  $('meta').innerHTML = (last ? `Updated ${esc(dfmt.format(last))} ${esc(tfmt.format(last))}` : 'No run yet')
-    + `<br>${items.length} items · ${total - pausedHere} of ${total} sources${bad ? ` · <span class="bad">${bad} failing</span>` : ''}${sync}`;
+  const updated = last ? `Updated ${esc(dfmt.format(last))} ${esc(tfmt.format(last))}` : S.owner ? 'No run yet' : 'Loading…';
+  $('meta').innerHTML = S.owner
+    ? updated + `<br>${items.length} items · ${total - pausedHere} of ${total} sources${bad ? ` · <span class="bad">${bad} failing</span>` : ''}${sync}`
+    : updated + `<br>Following ${total - pausedHere} of ${total} shows`;
 }
 
 /** After a save or unsave, update the hearts in place instead of redrawing the cards. */
@@ -357,20 +464,42 @@ export function wire() {
     if (t.classList.contains('txt')) {
       t.classList.toggle('open');
       const l = t.parentElement.querySelector('.links'); if (l) l.classList.toggle('open', t.classList.contains('open'));
-    } else if (t.dataset.save != null) { const it = cardMap.get(t.dataset.save); if (it) S.onSave(it); }
+    } else if (t.dataset.save != null) { const it = cardMap.get(t.dataset.save); if (it) { S.onSave(it); S.track('save'); } }
     else if (t.dataset.pause) S.onPause([t.dataset.pause], true, `Paused ${nameOf(t.dataset.pause)}`);
-    else if (t.dataset.play) play(t.dataset.play, {title: t.dataset.name, sub: t.dataset.sub, art: t.dataset.art || ''});
+    else if (t.dataset.play) { play(t.dataset.play, {title: t.dataset.name, sub: t.dataset.sub, art: t.dataset.art || ''}); S.track('play'); }
+    else if (t.dataset.queue != null) {
+      const it = cardMap.get(t.dataset.queue); if (!it || !it.audio) return;
+      const r = enqueue({url: it.audio, title: it.title, sub: it.sname, art: it.image || ''});
+      if (r === 'already') toast('Already in Up next');
+      else if (r !== 'playing') { t.textContent = 'In Up next'; toast(r === 1 ? 'Plays next' : `Added to Up next (${r} waiting)`); }
+      S.track('queue');
+    }
     else if (t.dataset.pick != null) { const it = cardMap.get(t.dataset.pick); if (it) S.onPick(it); }
-    else if (t.dataset.share != null) { const it = cardMap.get(t.dataset.share); if (it) S.onShareCard(it); }
+    else if (t.dataset.share != null) { const it = cardMap.get(t.dataset.share); if (it) { S.onShareCard(it); S.track('share'); } }
     else if (t.dataset.src && !t.disabled) S.onNavigate('#source/' + encodeURIComponent(t.dataset.src));
     else if (t.id === 'more') { S.limit += 60; rendered.stream = null; show(); }
+    else if (t.id === 'srcMore') loadOlder(S.srcId);
+    else if (t.id === 'nudgeCarry') { try { localStorage.setItem('ba.backupNudged', '1'); } catch (e) {} S.onShareSetup('setup'); }
+    else if (t.id === 'nudgeNo') { try { localStorage.setItem('ba.backupNudged', '1'); } catch (e) {} t.closest('.notice').remove(); }
   };
   const broken = e => { if (e.target.tagName === 'IMG') { const p = e.target.closest('.pic'); if (p) p.classList.add('gone'); } };
-  for (const id of ['stream', 'srcPage']) { $(id).addEventListener('click', cards); $(id).addEventListener('error', broken, true); }
+  for (const id of ['stream', 'srcPage', 'searchOut']) { $(id).addEventListener('click', cards); $(id).addEventListener('error', broken, true); }
+
+  let typing = null;
+  $('searchIn').addEventListener('input', e => {
+    clearTimeout(typing);
+    typing = setTimeout(() => {
+      S.query = e.target.value.trim();
+      renderSearch();
+      if (S.query.length > 2) S.track('search');
+    }, 250);
+  });
+  $('searchView').addEventListener('click', e => { if (e.target.closest('#searchBack')) S.onBack(); });
 
   $('filters').addEventListener('click', e => {
     const b = e.target.closest('button'); if (!b) return;
     if (b.dataset.g) { S.groups[b.dataset.g] = !S.groups[b.dataset.g]; saveLocal(); rendered.stream = null; show(); }
+    else if (b.id === 'playOnly') { S.playOnly = !S.playOnly; rendered.stream = null; show(); }
     else if (b.id === 'savedView') S.onNavigate(S.view === 'saved' ? '#feed' : '#saved');
     else if (b.id === 'picksView') S.onNavigate(S.view === 'picks' ? '#feed' : '#picks');
     else if (b.id === 'markSeen') S.onMarkSeen();
@@ -404,7 +533,8 @@ export function wire() {
   $('welcome').addEventListener('click', e => {
     const b = e.target.closest('button'); if (!b) return;
     if (b.dataset.pack) { if (S.packPick.has(b.dataset.pack)) S.packPick.delete(b.dataset.pack); else S.packPick.add(b.dataset.pack); renderWelcome(); }
-    else if (b.id === 'wGo') S.onWelcome([...S.packPick]);
+    else if (b.id === 'wGo') { S.onWelcome([...S.packPick]); S.track('welcome'); }
+    else if (b.id === 'wPicks') { S.onWelcome([]); S.track('welcome-picks'); S.onNavigate('#picks'); }
     else if (b.id === 'inYes' || b.id === 'inNo') S.onIncoming(b.id === 'inYes');
   });
 }

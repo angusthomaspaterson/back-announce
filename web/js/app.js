@@ -1,9 +1,10 @@
 // Bootstrap: load the data, route by hash, switch tabs, and connect the buttons to the store.
-// Routes: #feed, #saved, #sources, #source/<id>, #add, #onair, #help.
+// Routes: #feed, #saved, #picks, #search, #sources, #source/<id>, #add, #suggest, #onair, #help.
 import {$, wireToast, toast, nowIso, appIntent, isAndroid} from './util.js';
 import {wireAdd, showAdd} from './add.js';
-import {loadAll} from './data.js';
-import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, findSavedKey, savedKey, snapshot, nameOf, pickFor, srcItems} from './feed.js';
+import {loadAll, COUNTER} from './data.js';
+import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, refreshProgress, findSavedKey, savedKey, snapshot, nameOf, pickFor, srcItems} from './feed.js';
+import {renderSide, wireSide} from './side.js';
 import * as onair from './onair.js';
 import {wirePlayer} from './player.js';
 import {createStore} from './store.js';
@@ -23,7 +24,7 @@ let current = '';
 function parseHash() {
   const h = (location.hash || '#feed').replace(/^#/, '');
   if (h === 'onair' || h === 'help') return {tab: h};
-  if (h === 'saved' || h === 'picks' || h === 'sources' || h === 'add' || h === 'suggest') return {tab: 'feed', view: h};
+  if (h === 'saved' || h === 'picks' || h === 'sources' || h === 'add' || h === 'suggest' || h === 'search') return {tab: 'feed', view: h};
   const m = h.match(/^source\/(.+)$/);
   if (m) return {tab: 'feed', view: 'source', srcId: decodeURIComponent(m[1])};
   return {tab: 'feed', view: 'feed'};
@@ -48,16 +49,46 @@ function route() {
     S.view = r.view;
     showFeed();
   }
+  document.body.dataset.tab = r.tab;
+  renderSide();
   const y = key === 'source' && current !== 'source' ? 0 : (scrollMemo[key] || 0);
+  if (key !== current) count(key);
   current = key;
   window.scrollTo(0, y);
   requestAnimationFrame(() => window.scrollTo(0, y));
+  if (key === 'search') setTimeout(() => $('searchIn').focus(), 50);
 }
+
+// ---- anonymous visit counting (see COUNTER in data.js and Help, Your privacy) ----
+// Only the screen's name is sent (feed, saved, onair...), never a show or an episode, and
+// actions as bare words (play, save). Not on Angus's own devices, nor on this computer's copy.
+let counterReady = null;
+function counting() { return !!COUNTER.code && !isLocal && !store.hasToken() && navigator.doNotTrack !== '1'; }
+function counter() {
+  if (!counting()) return Promise.resolve(null);
+  if (!counterReady) counterReady = new Promise(resolve => {
+    window.goatcounter = {no_onload: true, allow_local: false};
+    const s = document.createElement('script');
+    s.async = true; s.src = 'https://gc.zgo.at/count.js';
+    s.dataset.goatcounter = `https://${COUNTER.code}.goatcounter.com/count`;
+    s.onload = () => resolve(window.goatcounter && window.goatcounter.count ? window.goatcounter : null);
+    s.onerror = () => resolve(null);
+    document.head.appendChild(s);
+  });
+  return counterReady;
+}
+function count(view) {
+  const v = view === 'source' ? 'show-page' : view;   // which show is never sent
+  counter().then(gc => { if (gc) try { gc.count({path: '/back-announce/' + v, title: v}); } catch (e) {} });
+}
+S.track = action => {
+  counter().then(gc => { if (gc) try { gc.count({path: 'action-' + action, title: action, event: true}); } catch (e) {} });
+};
 S.onNavigate = hash => { const cur = location.hash || '#feed'; if (hash === cur) return; stack.push(cur); location.hash = hash; };
 S.onBack = () => {
   if (stack.length) history.back();
   else if (S.view === 'add' || S.view === 'suggest') location.hash = '#sources';
-  else location.hash = '#' + (S.view === 'source' && ['saved', 'sources'].includes(S.prevView) ? S.prevView : 'feed');
+  else location.hash = '#' + (S.view === 'source' && ['saved', 'sources', 'picks', 'search'].includes(S.prevView) ? S.prevView : 'feed');
 };
 
 // ---- add source ----
@@ -103,7 +134,7 @@ const q = op => store.queue(op);
 S.onPause = (ids, off, msg) => {
   ids = ids.filter(id => S.paused.has(id) !== off);
   if (!ids.length) return;
-  const label = ids.length === 1 ? nameOf(ids[0]) : `${ids.length} sources`;
+  const label = ids.length === 1 ? nameOf(ids[0]) : `${ids.length} ${S.owner ? 'sources' : 'shows'}`;
   q({t: 'pause', ids, off, msg: `${off ? 'pause' : 'resume'} ${label}`});
   if (msg) toast(msg, () => q({t: 'pause', ids, off: !off, msg: `undo: ${off ? 'resume' : 'pause'} ${label}`}));
 };
@@ -170,6 +201,7 @@ async function shareOrCopy(title, text, url) {
 }
 S.onShareCard = it => shareOrCopy(it.title, `${it.title} (${it.sname})`, it.url);
 S.onShareSetup = async kind => {
+  S.track(kind === 'setup' ? 'carry' : 'share-feed');
   const state = {paused: [...S.paused], saved: S.saved, lastSeen: S.lastSeen};
   const link = setupLink(await encodeSetup(state, S.sources.map(s => s.id), kind));
   const n = S.sources.length - S.sources.filter(s => S.paused.has(s.id)).length;
@@ -253,14 +285,14 @@ S.onWelcome = packs => {
   S.welcome = false; S.packPick.clear();
   rerender();
   window.scrollTo(0, 0);
-  toast(packs.length ? 'Your feed is ready. Change it any time under Sources.' : "You're following Angus's whole feed. Change it any time under Sources.");
+  toast(packs.length ? 'Your feed is ready. Change it any time under Shows.' : "You're following Angus's whole feed. Change it any time under Shows.");
 };
 async function refreshAll(manual) {
   const b = $('refreshBtn'); b.classList.add('spin'); b.disabled = true;
   try {
     await loadData();
     if (store.hasToken()) await store.refresh();
-    rerender();
+    rerender(); renderSide();
     if (!$('onair').hidden) onair.render();
     if (manual) toast('Up to date');
   } catch (e) {
@@ -273,6 +305,57 @@ async function tokenChanged(has) {
   if (!has) { S.syncError = ''; S.syncNote = ''; lastError = ''; }
   store.seed(pagesState || {}); applyState(store.view()); rerender();
   if (has) await store.refresh();
+}
+
+/** Load the feed for the first time; on failure, say so plainly and offer Retry. */
+async function firstLoad() {
+  try { await loadData(); return true; }
+  catch (e) {
+    hideSplash();
+    const offline = navigator.onLine === false;
+    $('stream').innerHTML = `<div class="empty err"><b>${offline ? "You're offline." : "The feed didn't load."}</b> ${offline
+      ? 'Back Announce keeps a copy once it has been opened online, so connect once and it will work offline after that.'
+      : 'This is usually a brief network hiccup.'}
+      <div class="nacts"><button class="btn p" id="retryLoad">Try again</button></div></div>`;
+    $('meta').textContent = 'Not loaded';
+    return false;
+  }
+}
+function hideSplash() {
+  const s = $('splash'); if (!s) return;
+  s.classList.add('out');
+  setTimeout(() => s.remove(), 450);
+}
+
+// ---- Settings: light or dark, and Install ----
+function wireTheme() {
+  const sel = $('themeSel');
+  let cur = 'auto'; try { cur = localStorage.getItem('ba.theme') || 'auto'; } catch (e) {}
+  sel.value = cur;
+  sel.addEventListener('change', () => {
+    const v = sel.value;
+    try { if (v === 'auto') localStorage.removeItem('ba.theme'); else localStorage.setItem('ba.theme', v); } catch (e) {}
+    if (v === 'auto') delete document.documentElement.dataset.theme; else document.documentElement.dataset.theme = v;
+    rerender(); renderSide();
+    if (!$('onair').hidden) onair.render();
+  });
+}
+let installPrompt = null;
+function wireInstall() {
+  const standalone = matchMedia('(display-mode: standalone)').matches || navigator.standalone;
+  const ios = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+  if (!standalone && ios) {
+    $('installHint').hidden = false;
+    $('installHint').textContent = "To install on this iPhone or iPad: in Safari, tap the Share button, then Add to Home Screen.";
+  }
+  window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); installPrompt = e; $('installRow').hidden = false; });
+  window.addEventListener('appinstalled', () => { installPrompt = null; $('installRow').hidden = true; toast('Installed. Back Announce now opens like any other app.'); S.track('install'); });
+  $('installBtn').addEventListener('click', async () => {
+    if (!installPrompt) return;
+    installPrompt.prompt();
+    try { await installPrompt.userChoice; } catch (e) {}
+    installPrompt = null; $('installRow').hidden = true;
+  });
 }
 
 async function boot() {
@@ -317,13 +400,18 @@ async function boot() {
     try { await navigator.clipboard.writeText(carryLinkText); $('carryStatus').textContent = 'Link copied. Send it to yourself and open it on the other device.'; }
     catch (e) { window.prompt('Copy this link:', carryLinkText); }
   });
-  try { await loadData(); }
-  catch (e) {
-    $('stream').innerHTML = `<div class="empty err">Could not load the feed (${e.message}). If you are offline, the last copy will show once the app has been opened online at least once.</div>`;
-    $('meta').textContent = 'Not loaded';
-  }
+  window.addEventListener('ba:progress', e => refreshProgress(e.detail.url));
+  wireSide(); wireTheme(); wireInstall();
+  const shownAt = performance.now();
+  if (!await firstLoad()) $('stream').addEventListener('click', async function retry(e) {
+    if (e.target.id !== 'retryLoad') return;
+    e.target.disabled = true; e.target.textContent = 'Trying…';
+    if (await firstLoad()) { $('stream').removeEventListener('click', retry); route(); }
+  });
   if (setup && S.sources.length) await readIncoming(setup);
   route();
+  // The opening screen stays at least long enough for its animation to land.
+  setTimeout(hideSplash, Math.max(0, 1300 - (performance.now() - shownAt)));
   if (store.hasToken()) { store.refresh(); store.flushSoon(); }
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'hidden') { store.flush(); return; }

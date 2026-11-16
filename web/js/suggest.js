@@ -105,7 +105,7 @@ function render() {
       : `<div class="setrow"><button type="button" class="btn p big" id="sgLinkedIn" title="Copies your suggestion, then opens ${first}'s LinkedIn so you can paste it into a message">Copy, then message ${first} on LinkedIn ↗</button></div>
          <div class="setrow"><button type="button" class="btn" id="sgIssue" title="For people with a GitHub account">Post it on GitHub ↗</button><button type="button" class="btn" id="sgCopy">Copy the suggestion</button></div>`}
     <p class="setstatus" id="sgStatus" role="status"></p>
-    <p class="hint">Nothing here is stored or tracked. Your suggestion goes only where you send it.</p>`;
+    <p class="hint">Nothing you type here is stored. Your suggestion goes only where you send it.</p>`;
 }
 
 async function copy(text) {

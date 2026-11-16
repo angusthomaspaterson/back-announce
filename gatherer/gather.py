@@ -10,7 +10,7 @@ SOURCE KINDS
   rss       {"id","name","kind":"rss","url","home"}         any RSS/Atom feed (SoundCloud, podcasts, Substack)
   nts       {"id","name","kind":"nts","slug","home"}        an NTS show, read from the public NTS API
   bbc       {"id","name","kind":"bbc","pid","home"}         a BBC radio programme (brand pid), read from the
-                                                             BBC Sounds listing; playable in the UK only
+                                                             BBC Sounds listing; opens in the BBC Sounds app
   abc       {"id","name","kind":"abc","home"}               a triple j or Double J program page; its latest
                                                              episodes' own pages give the audio and tracklist
   rinse     {"id","name","kind":"rinse","slug","home"}      a Rinse FM show, read from its show page
@@ -216,7 +216,8 @@ def parse_nts(data, src):
 def parse_bbc(data, src):
     """BBC Sounds: the episodes of one programme that are available to play now.
 
-    The listing is open worldwide, but playback is UK only (Angus uses a VPN).
+    The listing is open worldwide. Playback on the BBC Sounds website is UK only, but
+    the BBC Sounds app plays these episodes outside the UK (Angus confirmed, 7 Nov 2026).
     Episodes leave the list when their BBC Sounds window closes, so each card
     says how long it stays up. Dated by when the episode became available,
     which is just after it went to air.
@@ -232,7 +233,7 @@ def parse_bbc(data, src):
         desc = syn.get("long") or syn.get("medium") or syn.get("short") or ""
         if until:
             perth = datetime.datetime.fromisoformat(until.replace("Z", "+00:00")) + datetime.timedelta(hours=8)
-            desc = f"On BBC Sounds until {day_month(perth)} (UK only). {desc}"
+            desc = f"On BBC Sounds until {day_month(perth)}. {desc}"
         secs = (p.get("duration") or {}).get("value")
         img = p.get("image_url")
         out.append(item(pid, titles.get("secondary") or titles.get("entity_title") or titles.get("primary") or src["name"],
@@ -499,6 +500,86 @@ def do_mixcloud(src, fetcher):
     return parse_mixcloud(fetcher(f"https://api.mixcloud.com/{src['user']}/cloudcasts/?limit={KEEP}"), src)
 
 
+# ---------- what each show is: one or two sentences in its own words ----------
+# Fetched once and kept in the feed file, then refreshed monthly. A source in sources.json
+# can carry its own "about" instead, which the web app prefers.
+
+ABOUT_MAX = 280
+ABOUT_DAYS = 30
+
+
+def tidy_about(text, n=ABOUT_MAX):
+    """Plain text, cut at a sentence end before n characters where there is one."""
+    t = strip(text, 4000)
+    t = re.sub(r"https?://\S+", "", t).strip(" -|")
+    if len(t) <= n:
+        return t
+    cut = t[:n]
+    end = max(cut.rfind(". "), cut.rfind("! "), cut.rfind("? "))
+    return cut[:end + 1] if end > n // 3 else cut[:n - 1].rstrip() + "…"
+
+
+def _meta(page, name):
+    if isinstance(page, bytes):
+        page = page.decode("utf-8", "ignore")
+    m = re.search(rf'<meta[^>]+(?:name|property)="{re.escape(name)}"[^>]+content="([^"]*)"', page) or \
+        re.search(rf'<meta[^>]+content="([^"]*)"[^>]+(?:name|property)="{re.escape(name)}"', page)
+    return html.unescape(m.group(1)) if m else ""
+
+
+def parse_about(kind, data):
+    """The show's own description from the page or API answer fetched for it, or ''."""
+    if kind == "rss":
+        root = ET.fromstring(data.lstrip() if isinstance(data, bytes) else data)
+        ch = root.find("channel")
+        if ch is not None:
+            return tidy_about(_text(ch, "itunes:summary") or _text(ch, "description"))
+        return tidy_about(_text(root, "atom:subtitle"))
+    if kind == "nts":
+        return tidy_about(json.loads(data).get("description") or "")
+    if kind == "bbc":
+        p = json.loads(data).get("programme") or {}
+        return tidy_about(p.get("short_synopsis") or p.get("medium_synopsis") or "")
+    if kind == "mixcloud":
+        return tidy_about(json.loads(data).get("biog") or "")
+    if kind in ("abc", "rinse"):
+        return tidy_about(_meta(data, "og:description") or _meta(data, "description"))
+    return ""
+
+
+def about_url(src):
+    k = src["kind"]
+    if k == "rss":
+        return src.get("url")
+    if k == "nts":
+        return f"https://www.nts.live/api/v2/shows/{src['slug']}"
+    if k == "bbc":
+        return f"https://www.bbc.co.uk/programmes/{src['pid']}.json"
+    if k == "mixcloud":
+        return f"https://api.mixcloud.com/{src['user']}/"
+    if k == "abc":
+        return src.get("home")
+    if k == "rinse":
+        return f"https://www.rinse.fm/shows/{src['slug']}"
+    return None
+
+
+def fetch_about(src, fetcher, prev, now):
+    """Keep the stored description for a month; fetch it when missing or older. Never fails the source."""
+    prev = prev or {}
+    have, at = prev.get("about"), prev.get("aboutAt") or ""
+    if have and at and at > iso(datetime.datetime.fromisoformat(now.replace("Z", "+00:00")) - datetime.timedelta(days=ABOUT_DAYS)):
+        return have, at
+    url = about_url(src)
+    if not url:
+        return have, at
+    try:
+        text = parse_about(src["kind"], fetcher(url))
+    except Exception:  # noqa: BLE001 - a show without a description is still a show
+        return have, at
+    return (text or have or ""), now
+
+
 def _bandcamp_page(home, fetcher):
     page = fetcher(home)
     if isinstance(page, bytes):
@@ -644,16 +725,17 @@ def run(sources, feed_dir, status_path, fetcher=fetch, workers=WORKERS, now=None
     status = {"lastRun": now, "sources": dict(status.get("sources") or {})}
 
     def work(src):
+        prev = load_json(os.path.join(feed_dir, f"{src['id']}.json"), None)
+        about = fetch_about(src, fetcher, prev, now)
         try:
-            prev = load_json(os.path.join(feed_dir, f"{src['id']}.json"), None) if (src.get("upcoming") or src.get("accumulate")) else None
-            return src, gather_one(src, fetcher, (prev or {}).get("items"), now), None
+            return src, gather_one(src, fetcher, (prev or {}).get("items"), now), None, about
         except Exception as e:  # noqa: BLE001 - any failure keeps the old file
-            return src, None, f"{type(e).__name__}: {e}"[:200]
+            return src, None, f"{type(e).__name__}: {e}"[:200], about
 
     with ThreadPoolExecutor(max_workers=workers) as pool:
         results = list(pool.map(work, sources))
 
-    for src, items, error in results:
+    for src, items, error, (about, about_at) in results:
         path = os.path.join(feed_dir, f"{src['id']}.json")
         prev = load_json(path, None)
         if error:
@@ -672,8 +754,12 @@ def run(sources, feed_dir, status_path, fetcher=fetch, workers=WORKERS, now=None
             continue
         body = {"id": src["id"], "name": src["name"], "kind": src["kind"], "home": src.get("home", ""),
                 "updatedAt": prev.get("updatedAt", now) if prev else now, "items": items}
+        if about:
+            body["about"], body["aboutAt"] = about, about_at
         if not prev or prev.get("items") != items or prev.get("linkOnly") or prev.get("name") != src["name"]:
             body["updatedAt"] = now
+            dump_json(path, body)
+        elif (prev.get("about"), prev.get("aboutAt")) != (body.get("about"), body.get("aboutAt")):
             dump_json(path, body)
         status["sources"][src["id"]] = {"ok": True, "count": len(items), "at": now,
                                         "newest": items[0]["date"] if items else None}
@@ -699,18 +785,31 @@ def select_sources(sources, only="", match="", skip=""):
     return sources
 
 
-def write_bundle(data_dir):
+BUNDLE_DAYS = 45      # the timeline's reach; a show's page loads its full file when asked
+BUNDLE_MIN = 3        # but every show keeps at least its newest few
+
+
+def write_bundle(data_dir, now=None):
     """Write data/bundle.json: the source list, status and every feed file in one document.
 
-    The web app loads this instead of 150 separate files. Rebuilt from whatever
-    is on disk, so a partial run still produces a complete bundle.
+    The web app loads this instead of 200 separate files. To keep the first load light,
+    each show carries only its last BUNDLE_DAYS of items (at least BUNDLE_MIN), and says
+    how many it left out ("more"). Rebuilt from whatever is on disk, so a partial run
+    still produces a complete bundle.
     """
     feed_dir = os.path.join(data_dir, "feed")
+    cutoff = iso((now or datetime.datetime.now(UTC)) - datetime.timedelta(days=BUNDLE_DAYS))
     feed = {}
     for name in sorted(os.listdir(feed_dir)) if os.path.isdir(feed_dir) else []:
         if name.endswith(".json"):
             body = load_json(os.path.join(feed_dir, name), None)
             if body:
+                items = body.get("items") or []
+                keep = [i for n, i in enumerate(items) if n < BUNDLE_MIN or (i.get("date") or "") >= cutoff]
+                body = {k: v for k, v in body.items() if k != "aboutAt"}
+                body["items"] = keep
+                if len(keep) < len(items):
+                    body["more"] = len(items) - len(keep)
                 feed[name[:-5]] = body
     cfg = load_json(os.path.join(data_dir, "sources.json"), {"items": []})
     bundle = {"sources": cfg.get("items", []),

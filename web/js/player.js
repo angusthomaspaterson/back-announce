@@ -5,14 +5,55 @@
 // - The site is https, so http stream addresses are upgraded to https before playing.
 // - The lock screen (Media Session) shows the episode and source, or for a live stream the
 //   station and, where the schedule knows it, the show on now, refreshed every minute.
-import {$, toast} from './util.js';
+// - Each episode's place is remembered on this device, so it picks up where it stopped,
+//   and one listened to the end is marked played. An Up next queue plays in turn.
+import {$, toast, clock} from './util.js';
 
 const HLS_SRC = 'https://cdn.jsdelivr.net/npm/hls.js@1.5.20/dist/hls.light.min.js';
 const HLS_SRI = 'sha384-GMRZjjumhWPywgLYrubnh5qVhHY0BpD+pxIL57uwAenrOEYDLZ/z+8s/rFIjS+yO';
 const SKIP_BACK = 15, SKIP_FWD = 30;
+const RATES = [1, 1.25, 1.5, 2, 0.75];
 const ms = 'mediaSession' in navigator ? navigator.mediaSession : null;
 
-let hls = null, liveTimer = null, current = null, lastPos = 0;
+let hls = null, liveTimer = null, current = null, lastPos = 0, lastSaved = 0;
+
+// ---- remembered places, the queue and the speed, kept in this browser ----
+const ls = {
+  get(k, d) { try { const v = JSON.parse(localStorage.getItem(k)); return v == null ? d : v; } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
+};
+let progress = ls.get('ba.progress', {});   // url -> {t: seconds, d: duration, at: ms, done?}
+let queue = ls.get('ba.queue', []);          // [{url, title, sub, art}]
+let rate = ls.get('ba.rate', 1);
+const keyOf = url => String(url || '').replace(/^http:/i, 'https:');
+/** Where an episode was left: {t, d, done} or null. */
+export function getProgress(url) { return progress[keyOf(url)] || null; }
+function remember(url, t, d, done) {
+  const k = keyOf(url), p = progress[k] || {};
+  progress[k] = {t: Math.floor(t), d: Math.floor(d || p.d || 0), at: Date.now(), ...(done || p.done ? {done: true} : {})};
+  const keys = Object.keys(progress);
+  if (keys.length > 300) keys.sort((a, b) => progress[a].at - progress[b].at).slice(0, keys.length - 300).forEach(x => delete progress[x]);
+  ls.set('ba.progress', progress);
+  window.dispatchEvent(new CustomEvent('ba:progress', {detail: {url: k}}));
+}
+export const inQueue = url => queue.some(q => keyOf(q.url) === keyOf(url));
+/** Add an episode to Up next, or play it now when nothing is playing. */
+export function enqueue(item) {
+  if (!current) { play(item.url, item); return 'playing'; }
+  if (inQueue(item.url) || keyOf(item.url) === keyOf(current.url)) return 'already';
+  queue.push({url: item.url, title: item.title, sub: item.sub, art: item.art});
+  ls.set('ba.queue', queue); showNext();
+  return queue.length;
+}
+function playNext() {
+  const n = queue.shift(); ls.set('ba.queue', queue);
+  if (n) play(n.url, n); else showNext();
+}
+function showNext() {
+  const n = queue[0];
+  $('pNext').hidden = !n || (current && current.live);
+  if (n) $('pNextName').textContent = `${n.title}${queue.length > 1 ? ` (+${queue.length - 1} more)` : ''}`;
+}
 
 export const isHls = url => /\.m3u8(\?|$)/i.test(url || '');
 const secure = url => location.protocol === 'https:' ? String(url).replace(/^http:/i, 'https:') : String(url);
@@ -80,14 +121,28 @@ function updateLive() {
 export async function play(url, info = {}) {
   const a = $('audio');
   url = secure(url);
+  if (current && !current.live && a.currentTime > 0) remember(current.url, a.currentTime, a.duration);
   current = {url, ...info};
+  // Playing something that was queued takes it off the queue.
+  if (inQueue(url)) { queue = queue.filter(q => keyOf(q.url) !== keyOf(url)); ls.set('ba.queue', queue); }
   label(info.title, info.sub);
   $('player').hidden = false; document.body.classList.add('has-player');
+  $('player').classList.toggle('live', !!info.live);
+  showNext();
   clearInterval(liveTimer); liveTimer = null;
   if (info.live && info.describe) liveTimer = setInterval(updateLive, 60000);
   setSession();
   try {
-    if (a.dataset.url !== url) { await attach(a, url); a.dataset.url = url; }
+    if (a.dataset.url !== url) {
+      await attach(a, url); a.dataset.url = url;
+      // Pick up where this episode was left, unless it was finished or barely started.
+      const p = !info.live && getProgress(url);
+      if (p && !p.done && p.t > 30 && (!p.d || p.t < p.d - 60)) {
+        const seek = () => { a.currentTime = p.t; toast(`Picking up at ${clock(p.t)}`); };
+        if (a.readyState >= 1) seek(); else a.addEventListener('loadedmetadata', seek, {once: true});
+      }
+    }
+    a.playbackRate = info.live ? 1 : rate;
     await a.play();
   } catch (e) {
     if (e && e.name !== 'AbortError') failed();
@@ -96,6 +151,7 @@ export async function play(url, info = {}) {
 
 export function stop() {
   const a = $('audio');
+  if (current && !current.live && a.currentTime > 0) remember(current.url, a.currentTime, a.duration);
   a.pause();
   if (hls) { hls.destroy(); hls = null; }
   a.removeAttribute('src'); delete a.dataset.url; a.load();
@@ -109,8 +165,30 @@ export function wirePlayer() {
   $('pClose').addEventListener('click', stop);
   a.addEventListener('error', () => { if (current && !hls) failed(); });
   a.addEventListener('play', () => { if (ms) ms.playbackState = 'playing'; });
-  a.addEventListener('pause', () => { if (ms) ms.playbackState = 'paused'; });
+  a.addEventListener('pause', () => {
+    if (ms) ms.playbackState = 'paused';
+    if (current && !current.live && a.currentTime > 0) remember(current.url, a.currentTime, a.duration);
+  });
+  a.addEventListener('ended', () => {
+    if (current && !current.live) remember(current.url, a.duration || a.currentTime, a.duration, true);
+    if (queue.length) playNext();
+  });
+  $('pBack').addEventListener('click', () => skip(-SKIP_BACK));
+  $('pFwd').addEventListener('click', () => skip(SKIP_FWD));
+  $('pRate').textContent = rate + '×';
+  $('pRate').addEventListener('click', () => {
+    rate = RATES[(RATES.indexOf(rate) + 1) % RATES.length]; ls.set('ba.rate', rate);
+    $('pRate').textContent = rate + '×';
+    if (current && !current.live) a.playbackRate = rate;
+  });
+  $('pSkip').addEventListener('click', playNext);
+  $('pClear').addEventListener('click', () => { queue = []; ls.set('ba.queue', queue); showNext(); toast('Up next cleared'); });
   a.addEventListener('timeupdate', () => {
+    // Remember the place every ten seconds; near the end counts as played.
+    if (current && !current.live && isFinite(a.duration) && Math.abs(a.currentTime - lastSaved) >= 10) {
+      lastSaved = a.currentTime;
+      remember(current.url, a.currentTime, a.duration, a.currentTime > a.duration - 90);
+    }
     // Keep the lock screen's progress bar honest for episodes, about once every five seconds.
     if (!ms || !ms.setPositionState || !current || current.live || !isFinite(a.duration) || Math.abs(a.currentTime - lastPos) < 5) return;
     lastPos = a.currentTime;

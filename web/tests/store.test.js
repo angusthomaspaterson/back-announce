@@ -1,6 +1,6 @@
 // Tests for js/store.js against a pretend GitHub. Open tests/index.html on a local server.
 import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage, repoFiles} from '../js/store.js';
-import {appIntent, spotifySearch, dedupeAcross} from '../js/util.js';
+import {appIntent, spotifySearch, dedupeAcross, clock, openWhere} from '../js/util.js';
 import {PACKS, followedBy, pausedFor, addedDate, isNewInCatalogue} from '../js/packs.js';
 import {encodeSetup, encodeCompact, decodeSetup, setupLink, hash32} from '../js/carry.js';
 import {classifyLink, messageFor, issueLink} from '../js/suggest.js';
@@ -49,6 +49,19 @@ function newStore(gh, extra = {}) {
 function cleanup() { for (const k of Object.keys(localStorage)) if (k.startsWith('batest')) localStorage.removeItem(k); }
 
 const tests = {
+  'clock formats a resume point'() {
+    eq(clock(0), '0:00', 'zero'); eq(clock(65), '1:05', 'minutes'); eq(clock(3789), '1:03:09', 'hours');
+    eq(clock(-4), '0:00', 'never negative'); eq(clock(47 * 60 + 12.9), '47:12', 'drops fractions');
+  },
+  'openWhere names the app or site'() {
+    eq(openWhere('https://www.nts.live/shows/x/episodes/y'), 'NTS', 'NTS');
+    eq(openWhere('https://www.bbc.co.uk/sounds/play/m0012'), 'BBC Sounds', 'BBC');
+    eq(openWhere('https://www.abc.net.au/triplej/programs/x'), 'ABC listen', 'ABC');
+    eq(openWhere('https://soundcloud.com/a/b'), 'SoundCloud', 'SoundCloud');
+    eq(openWhere('https://m.youtube.com/watch?v=1'), 'YouTube', 'YouTube on mobile');
+    eq(openWhere('https://example.com/post'), null, 'plain page');
+    eq(openWhere('not a link'), null, 'not a link');
+  },
   'applyOps pauses, saves and marks seen'() {
     const s = applyOps({paused: ['b'], saved: {}, lastSeen: null}, [
       {t: 'pause', ids: ['c', 'a'], off: true}, {t: 'pause', ids: ['b'], off: false},

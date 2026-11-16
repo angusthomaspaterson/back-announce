@@ -1,5 +1,11 @@
-// Small shared helpers: formatting in Perth time, colours, escaping.
+// Small shared helpers: formatting times, colours, escaping.
 export const PERTH = 'Australia/Perth';
+// Times show in Perth for Angus (a token on this device) and in each visitor's own time zone.
+const hasToken = (() => { try { return !!localStorage.getItem('ba.token'); } catch (e) { return false; } })();
+const LOCAL = (() => { try { return Intl.DateTimeFormat().resolvedOptions().timeZone || PERTH; } catch (e) { return PERTH; } })();
+export const HOME = hasToken ? PERTH : LOCAL;
+/** How the screens name that zone: "Perth time", or "your time" for a visitor elsewhere. */
+export const homeLabel = HOME === PERTH ? 'Perth time' : 'your time';
 export const $ = id => document.getElementById(id);
 export const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
 
@@ -12,10 +18,25 @@ export const gcol = g => (isDark() && GROUP_COLOURS_DARK[g]) || GROUP_COLOURS[g]
 export const initials = n => { const w = String(n || '').replace(/[^A-Za-z0-9 ]/g, ' ').trim().split(/\s+/).filter(Boolean); return (w.length > 1 ? w[0][0] + w[1][0] : String(n || '??').slice(0, 2)).toUpperCase(); };
 export const kindLabel = k => k === 'rss' ? 'Feed' : k === 'manual' ? 'Web page' : k === 'nts' ? 'NTS' : k === 'bbc' ? 'BBC Sounds' : k === 'abc' ? 'ABC' :k === 'rinse' ? 'Rinse FM' : k === 'mixcloud' ? 'Mixcloud' : (k || '');
 
-export const dfmt = new Intl.DateTimeFormat('en-AU', {timeZone: PERTH, weekday: 'short', day: 'numeric', month: 'short'});
-export const dkey = new Intl.DateTimeFormat('en-CA', {timeZone: PERTH, year: 'numeric', month: '2-digit', day: '2-digit'});
-export const sfmt = new Intl.DateTimeFormat('en-AU', {timeZone: PERTH, day: 'numeric', month: 'short'});
-export const tfmt = new Intl.DateTimeFormat('en-AU', {timeZone: PERTH, hour: '2-digit', minute: '2-digit', hourCycle: 'h23'});
+export const dfmt = new Intl.DateTimeFormat('en-AU', {timeZone: HOME, weekday: 'short', day: 'numeric', month: 'short'});
+export const dkey = new Intl.DateTimeFormat('en-CA', {timeZone: HOME, year: 'numeric', month: '2-digit', day: '2-digit'});
+export const sfmt = new Intl.DateTimeFormat('en-AU', {timeZone: HOME, day: 'numeric', month: 'short'});
+export const tfmt = new Intl.DateTimeFormat('en-AU', {timeZone: HOME, hour: '2-digit', minute: '2-digit', hourCycle: 'h23'});
+/** "47:12" or "1:03:09", for the player and resume points. */
+export const clock = s => { s = Math.max(0, Math.floor(s || 0)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = String(s % 60).padStart(2, '0'); return h ? `${h}:${String(m).padStart(2, '0')}:${x}` : `${m}:${x}`; };
+/** Where Open goes, in a word or two: "NTS", "BBC Sounds"... or null for a plain web page. */
+export function openWhere(url) {
+  let h = ''; try { h = new URL(url).hostname.replace(/^(www|m)\./, ''); } catch (e) { return null; }
+  if (h === 'nts.live') return 'NTS';
+  if (h === 'bbc.co.uk' || h === 'bbc.com') return 'BBC Sounds';
+  if (h === 'abc.net.au') return 'ABC listen';
+  if (h.endsWith('soundcloud.com')) return 'SoundCloud';
+  if (h === 'mixcloud.com') return 'Mixcloud';
+  if (h === 'rinse.fm') return 'Rinse FM';
+  if (h === 'youtube.com' || h === 'youtu.be') return 'YouTube';
+  if (h === 'open.spotify.com') return 'Spotify';
+  return null;
+}
 export const dateOk = iso => iso && !isNaN(new Date(iso));
 /** Now as ISO UTC without milliseconds, the same shape as the gatherer's dates. */
 export const nowIso = () => new Date().toISOString().replace(/\.\d{3}Z$/, 'Z');

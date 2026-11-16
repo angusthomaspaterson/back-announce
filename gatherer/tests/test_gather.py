@@ -114,7 +114,7 @@ class ParseBbc(unittest.TestCase):
         self.assertEqual(first["title"], "Yung Singh")
         self.assertEqual(first["date"], "2026-10-31T02:00:00Z")
         self.assertEqual(first["until"], "2026-12-26T02:00:00Z")
-        self.assertTrue(first["desc"].startswith("On BBC Sounds until 26 Dec (UK only). Yung Singh mixes"))
+        self.assertTrue(first["desc"].startswith("On BBC Sounds until 26 Dec. Yung Singh mixes"))
         self.assertEqual(first["image"], "https://ichef.bbci.co.uk/images/ic/640x360/p0m0slhx.jpg")
         self.assertEqual(first["duration"], "7200")
         self.assertNotIn("audio", first)
@@ -300,6 +300,43 @@ class Rollup(unittest.TestCase):
         self.assertEqual(dates, sorted(dates, reverse=True))
 
 
+class About(unittest.TestCase):
+    def test_each_kind_gives_the_show_in_its_own_words(self):
+        cases = [("rss", "soundcloud-time-to-track.rss", "Andrew Wowk is a DJ, producer, radio host"),
+                 ("rss", "substack-first-floor.rss", "A newsletter about electronic music"),
+                 ("nts", "nts-show-gigi-fm.json", "Monthly inter-dimensional techno"),
+                 ("bbc", "bbc-programme-b006wkfp.json", "The world's biggest DJs on the world's biggest decks."),
+                 ("mixcloud", "mixcloud-user-johndigweed.json", "Some DJ careers are built on hype."),
+                 ("abc", "abc-program-mix-up.html", "Huge local and international DJ sets"),
+                 ("rinse", "rinse-papaoul.html", "New music from the international underground.")]
+        for kind, name, start in cases:
+            text = gather.parse_about(kind, fixture(name))
+            self.assertTrue(text.startswith(start), (kind, text))
+            self.assertLessEqual(len(text), gather.ABOUT_MAX)
+
+    def test_long_text_is_cut_at_a_sentence(self):
+        first = "A first sentence long enough to stand on its own as a description of the show, which it does well."
+        t = gather.tidy_about(f"<p>{first} " + "Second one runs on and on " * 20 + "</p> https://x.y/z")
+        self.assertEqual(t, first)
+        self.assertEqual(gather.tidy_about("x" * 400)[-1], "…")
+
+    def test_kept_for_a_month_then_fetched_again(self):
+        src = {"id": "s", "kind": "rss", "url": "https://feed"}
+        calls = []
+        def fetcher(url):
+            calls.append(url)
+            return fixture("soundcloud-time-to-track.rss")
+        prev = {"about": "Old words.", "aboutAt": "2026-10-20T00:00:00Z"}
+        self.assertEqual(gather.fetch_about(src, fetcher, prev, "2026-11-01T00:00:00Z"), ("Old words.", "2026-10-20T00:00:00Z"))
+        self.assertEqual(calls, [])
+        text, at = gather.fetch_about(src, fetcher, prev, "2026-11-25T00:00:00Z")
+        self.assertTrue(text.startswith("Andrew Wowk") and at == "2026-11-25T00:00:00Z")
+        def dead(url):
+            raise OSError("timed out")
+        self.assertEqual(gather.fetch_about(src, dead, prev, "2026-11-25T00:00:00Z"), ("Old words.", "2026-10-20T00:00:00Z"))
+        self.assertEqual(gather.fetch_about({"id": "m", "kind": "manual", "home": "x"}, dead, None, "2026-11-25T00:00:00Z"), (None, ""))
+
+
 class Repeats(unittest.TestCase):
     def test_repeat_uploads_within_hours_are_dropped(self):
         items = [gather.item("c", "The Anjunadeep Edition 619 with Tim Green", "https://u/c", "2026-11-12T16:06:06Z"),
@@ -447,6 +484,22 @@ class Run(unittest.TestCase):
         self.assertEqual(bundle["status"]["lastRun"], "2026-10-13T00:00:00Z")
         with open(os.path.join(data, "bundle.json"), encoding="utf-8") as f:
             self.assertEqual(json.load(f), bundle)
+        self.assertTrue(self.read("time-to-track")["about"].startswith("Andrew Wowk"), "the description is kept in the feed file")
+        self.assertNotIn("aboutAt", bundle["feed"]["time-to-track"], "but its date stays out of the bundle")
+
+    def test_bundle_carries_recent_items_and_counts_the_rest(self):
+        data = self.tmp.name
+        with open(os.path.join(data, "sources.json"), "w", encoding="utf-8") as f:
+            json.dump({"items": []}, f)
+        os.makedirs(self.feed, exist_ok=True)
+        dates = ["2026-11-10", "2026-11-01", "2026-10-20", "2026-09-01", "2026-08-01", "2026-07-01"]
+        gather.dump_json(os.path.join(self.feed, "busy.json"), {"items": [gather.item(d, d, "https://x/" + d, d + "T00:00:00Z") for d in dates]})
+        gather.dump_json(os.path.join(self.feed, "quiet.json"), {"items": [gather.item(d, d, "https://x/" + d, d + "T00:00:00Z") for d in dates[3:]]})
+        b = gather.write_bundle(data, now=datetime.datetime(2026, 11, 16, tzinfo=gather.UTC))
+        self.assertEqual([i["id"] for i in b["feed"]["busy"]["items"]], dates[:3])
+        self.assertEqual(b["feed"]["busy"]["more"], 3)
+        self.assertEqual(len(b["feed"]["quiet"]["items"]), 3, "a quiet show keeps its newest few")
+        self.assertNotIn("more", b["feed"]["quiet"])
 
     def test_glance_summarises_for_the_claude_page(self):
         data = self.tmp.name

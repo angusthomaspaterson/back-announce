@@ -1,7 +1,7 @@
-// The On Air tab: what is live now, the next 24 hours and the week, all in Perth time.
-// Intl handles daylight saving for every station's zone.
-import {$, esc, isDark} from './util.js';
-import {STATIONS, SHOWS, FOLLOW, EXTRA_STREAMS, PERTH, LON, SYD} from './schedule.js';
+// The On Air tab: what is live now, the next 24 hours and the week, in Perth time for
+// Angus and in each visitor's own time. Intl handles daylight saving for every zone.
+import {$, esc, isDark, HOME as PERTH, homeLabel} from './util.js';
+import {STATIONS, SHOWS, FOLLOW, EXTRA_STREAMS, LON, SYD} from './schedule.js';
 import {play} from './player.js';
 
 /** Play a station's stream; the player shows the show on now and keeps it current. */
@@ -49,6 +49,14 @@ export function nowOn(stationKey, now = Date.now()) {
   return occurrences(new Date(now)).find(o => o.sh.st === stationKey && o.start <= now && now < o.end && !o.sh.drop) || null;
 }
 
+/** What's on the stations switched on, for the laptop's side column: soonest to finish first. */
+export function liveNow(now = Date.now()) {
+  return occurrences(new Date(now)).filter(o => enabled[o.sh.st] && o.start <= now && now < o.end && !o.sh.drop)
+    .sort((a, b) => a.end - b.end)
+    .map(o => ({key: o.sh.st, station: o.st.name, show: o.sh.n, live: o.st.live, colour: sc(o.st), left: mins(o.end - now),
+      pct: Math.min(100, Math.max(0, (now - o.start) / (o.end - o.start) * 100)), playable: !!o.st.stream && o.st.webPlay !== false}));
+}
+
 let enabled;
 try { enabled = JSON.parse(localStorage.getItem('onair.stations') || 'null'); } catch (e) { enabled = null; }
 if (!enabled || typeof enabled !== 'object') enabled = {};
@@ -78,7 +86,7 @@ function card(o, now) {
     <div class="nm">${esc(o.sh.n)}</div>
     <div class="nt">${esc(o.sh.m || '')}${src}</div>
     <div class="bar"><i style="width:${pct.toFixed(1)}%"></i></div>
-    <div class="acts"><a class="btn p" href="${esc(st.live)}" target="_blank" rel="noopener">Listen live ↗</a>${playBtn(st)}${o.sh.u ? `<a class="btn" href="${esc(o.sh.u)}" target="_blank" rel="noopener">Show page</a>` : ''}${st.stream ? `<button class="btn q" data-copy="${esc(st.stream)}">Copy stream</button>` : ''}</div>
+    <div class="acts"><a class="btn p" href="${esc(st.live)}" target="_blank" rel="noopener">Listen live ↗</a>${playBtn(st)}${o.sh.u ? `<a class="btn" href="${esc(o.sh.u)}" target="_blank" rel="noopener">Show page</a>` : ''}${st.stream ? `<button class="btn q owner-only" data-copy="${esc(st.stream)}">Copy stream</button>` : ''}</div>
   </div>`;
 }
 function row(o, now, opts) {
@@ -130,10 +138,13 @@ export function clocks() {
   const now = new Date();
   const p = parts(now, PERTH), l = parts(now, LON), s = parts(now, SYD);
   const two = n => String(n).padStart(2, '0');
+  const diff = (tz, a = PERTH) => { const h = (offsetMs(now, tz) - offsetMs(now, a)) / 3600000; return h === 0 ? 'same time' : `${Math.abs(h)}h ${h < 0 ? 'behind' : 'ahead'}`; };
+  $('lblHome').textContent = homeLabel === 'Perth time' ? 'Perth' : 'Your time';
   $('clkPerth').textContent = two(p.h) + ':' + two(p.mi);
   $('datePerth').textContent = DAYS[p.wd] + ' ' + p.d + '/' + p.m;
-  $('clkLon').textContent = two(l.h) + ':' + two(l.mi); $('zLon').textContent = tzName(now, LON) + ', ' + ((offsetMs(now, PERTH) - offsetMs(now, LON)) / 3600000) + 'h behind';
-  $('clkSyd').textContent = two(s.h) + ':' + two(s.mi); $('zSyd').textContent = tzName(now, SYD) + ', ' + ((offsetMs(now, SYD) - offsetMs(now, PERTH)) / 3600000) + 'h ahead';
+  $('clkLon').textContent = two(l.h) + ':' + two(l.mi); $('zLon').textContent = tzName(now, LON) + ', ' + diff(LON);
+  $('clkSyd').textContent = two(s.h) + ':' + two(s.mi); $('zSyd').textContent = tzName(now, SYD) + ', ' + diff(SYD);
+  for (const el of document.querySelectorAll('.homezone')) el.textContent = homeLabel === 'Perth time' ? 'Perth time' : 'in your time';
   $('dstNote').textContent = `Right now London is on ${tzName(now, LON)} and Sydney on ${tzName(now, SYD)}. UK clocks change on the last Sunday of October and March; eastern Australia on the first Sunday of October and April. Every time on this page is recalculated from the station's own clock, so nothing here needs editing when they change.`;
 }
 
