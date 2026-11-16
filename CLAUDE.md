@@ -63,7 +63,19 @@ On first setup, import `seed/` into `data/`. Move `likes.json` into `state.json`
 - Reads:
   - Without a token, read `data/` from the Pages site, which is cached for a few minutes.
   - With a token, read `state.json` through the API so his own changes show at once.
-- Without a token, the site is read-only. Hide the Save, Pause and Add controls.
+- Without a token the visitor is not Angus. Since 16 Nov 2026 a visitor can Save, Pause and Mark all seen for themselves: the same operations are applied to a copy kept only in their browser (`localStorage`, key `ba.visitor`) and nothing is sent anywhere. Adding sources and writing picks stay owner-only.
+
+## 2a. Visitors (no server, no accounts)
+
+Angus decided on 16 Nov 2026 to open the app to a few visitors without running a server or holding anyone's data.
+
+- A first visit shows a welcome panel: keep Angus's whole feed, or start from starter packs (bundles of groups, `web/js/packs.js`).
+- Sources has search, and a New filter for shows added in the last three weeks.
+- "Share my feed" and "Take it to another device" put the selection (and, for a setup, Saved cards and the seen marker) in the address as `#setup=<code>` (`web/js/carry.js`). Opening one asks before changing anything.
+- "Angus's picks" is a public list in `data/picks.json`, written only with a token: a card plus his note. It is separate from his Saved list.
+- Angus's Saved list is private to him. The app never shows it to visitors, and the Pages copy of `state.json` carries only the paused list. The file in the public repository still holds it.
+- Help and Settings have a visitor version and an owner version (`.visitor-only`, `.owner-only`, set by `body[data-mode]`).
+- Visitors cannot add sources. "Suggest a show" opens a link (`SUGGEST_URL` in `web/js/data.js`, LinkedIn until a form exists); Angus adds what he approves.
 
 ## 3. Web app (GitHub Pages)
 
