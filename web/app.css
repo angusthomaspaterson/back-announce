@@ -104,6 +104,8 @@ header.top h1.brand::after{content:".";color:var(--accent)}
 .loading b{font-family:var(--display);font-size:30px;font-weight:700;letter-spacing:-.02em;line-height:1}
 .loading b i{font-style:normal;color:var(--accent)}
 .loading span{color:var(--muted);font-size:14px}
+.set .qr{margin:12px auto 4px;width:min(260px,70vw);background:#fff;border-radius:10px;padding:6px;line-height:0}
+.set .qr svg{width:100%;height:auto;display:block}
 .set details#ownerBox{margin-top:14px}
 .set details#ownerBox > summary{font-size:13px;color:var(--muted);cursor:pointer}
 

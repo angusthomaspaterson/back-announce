@@ -204,7 +204,7 @@ function renderWelcome() {
     w.hidden = false;
     w.innerHTML = i.kind === 'setup'
       ? `<h2>Bring your setup to this device?</h2>
-         <p>This link carries ${i.following} shows${n ? ` and ${n} saved card${n === 1 ? '' : 's'}` : ''}. It replaces the shows followed on this device${n ? ' and adds the saved cards to your Saved list' : ''}.</p>
+         <p>This carries ${i.following} shows${n ? ` and ${n} saved card${n === 1 ? '' : 's'}` : ''}. It replaces the shows followed on this device${n ? ' and adds the saved cards to your Saved list' : ''}.${i.missing ? ` ${i.missing} older saved card${i.missing === 1 ? " isn't" : "s aren't"} in the feed any more, so a QR code can't bring ${i.missing === 1 ? 'it' : 'them'}; use Copy link on the other device for ${i.missing === 1 ? 'that' : 'those'}.` : ''}</p>
          <div class="wacts"><button class="btn p" id="inYes">Bring it over</button><button class="btn" id="inNo">No thanks</button></div>`
       : `<h2>Someone shared their feed with you</h2>
          <p>It follows ${i.following} of the ${sourceList().length} shows in the catalogue. Use it here? It replaces the shows followed on this device; your Saved list stays as it is.</p>

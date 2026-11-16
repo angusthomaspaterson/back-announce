@@ -2,7 +2,8 @@
 import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage, repoFiles} from '../js/store.js';
 import {appIntent, spotifySearch, dedupeAcross} from '../js/util.js';
 import {PACKS, followedBy, pausedFor, addedDate, isNewInCatalogue} from '../js/packs.js';
-import {encodeSetup, decodeSetup, setupLink} from '../js/carry.js';
+import {encodeSetup, encodeCompact, decodeSetup, setupLink, hash32} from '../js/carry.js';
+import {qrMatrix, qrSvg, codewords, rsRemainder, formatBits, versionBits, alignmentPositions, dataCodewords, rawDataModules} from '../js/qr.js';
 
 const out = document.getElementById('out');
 let passed = 0, failed = 0;
@@ -285,6 +286,45 @@ const tests = {
     let threw = false; try { await decodeSetup('znot-a-real-code', ids); } catch (e) { threw = true; }
     ok(threw, 'junk is refused');
     ok(setupLink('zabc').endsWith('#setup=zabc'), 'the link');
+  },
+  'the compact form for a QR code carries the same choices in far fewer characters'() {
+    const ids = Array.from({length: 212}, (_, i) => 'source-number-' + i);
+    const state = {paused: ids.slice(0, 144), lastSeen: '2026-11-16T04:00:00Z',
+      saved: {a: {sid: ids[150], id: 'episode-one', title: 'T', url: 'u'}, b: {sid: ids[151], id: 'tag:soundcloud-2010:tracks-1', title: 'T2', url: 'u2'}}};
+    const code = encodeCompact(state, ids);
+    ok(/^q[A-Za-z0-9_-]+$/.test(code), 'safe in an address');
+    ok(code.length < 320, `short enough for an easy QR code (${code.length} characters for 68 shows and 2 saved)`);
+    return decodeSetup(code, ids).then(d => {
+      eq([d.kind, d.following, d.lastSeen, d.savedCount], ['setup', 68, '2026-11-16T04:00:00Z', 2], 'the selection and seen marker');
+      eq(d.paused, [...state.paused].sort(), 'the same shows are off');
+      eq(d.savedRefs, [{sid: ids[150], item: hash32('episode-one')}, {sid: ids[151], item: hash32('tag:soundcloud-2010:tracks-1')}], 'saved cards by fingerprint, for the feed to fill in');
+      eq(encodeCompact({paused: []}, ['same', 'same']), null, 'a fingerprint clash falls back to the full link');
+    });
+  },
+  'QR: the tables give the capacities and patterns the standard lists'() {
+    eq([1, 2, 5, 10, 16, 20, 40].map(dataCodewords), [16, 28, 86, 216, 453, 669, 2334], 'data codewords at level M');
+    eq([1, 2, 7, 40].map(v => Math.floor(rawDataModules(v) / 8)), [26, 44, 196, 3706], 'total codewords');
+    eq([1, 2, 7, 14, 32, 40].map(alignmentPositions), [[], [6, 18], [6, 22, 38], [6, 26, 46, 66], [6, 34, 60, 86, 112, 138], [6, 30, 58, 86, 114, 142, 170]], 'alignment pattern centres');
+    eq([10, 13, 16, 20, 22, 27, 36].map(alignmentPositions), [[6, 28, 50], [6, 34, 62], [6, 26, 50, 74], [6, 34, 62, 90], [6, 26, 50, 74, 98], [6, 34, 62, 90, 118], [6, 24, 50, 76, 102, 128, 154]], 'and for the sizes a setup code is likely to use');
+    eq([0, 1, 2, 3, 4, 5, 6, 7].map(m => formatBits(m).toString(2).padStart(15, '0')),
+       ['101010000010010', '101000100100101', '101111001111100', '101101101001011', '100010111111001', '100000011001110', '100111110010111', '100101010100000'], 'format information for level M');
+    eq([7, 8, 40].map(v => versionBits(v).toString(16)), ['7c94', '85bc', '28c69'], 'version information');
+  },
+  'QR: error correction and layout'() {
+    // The worked example every QR tutorial uses: HELLO WORLD at version 1, level M.
+    eq(rsRemainder([32, 91, 11, 120, 209, 114, 220, 77, 67, 64, 236, 17, 236, 17, 236, 17], 10), [196, 35, 39, 119, 235, 215, 231, 226, 93, 23], 'Reed-Solomon remainder');
+    const c = codewords('hello');
+    eq([c.ver, c.data.slice(0, 7), c.data.length, c.all.length], [1, [0x40, 0x56, 0x86, 0x56, 0xC6, 0xC6, 0xF0], 16, 26], 'byte mode: header, data, padding, then error correction');
+    eq(c.data.slice(7), [0xEC, 0x11, 0xEC, 0x11, 0xEC, 0x11, 0xEC, 0x11, 0xEC], 'pad bytes alternate');
+    const long = codewords('x'.repeat(400));
+    eq([long.ver, long.blocks.length, long.all.length], [15, 10, 655], 'a long text picks a bigger version and splits into blocks');
+    const q = qrMatrix('https://angusthomaspaterson.github.io/back-announce/#setup=qTEST');
+    eq(q.size, q.version * 4 + 17, 'size follows the version');
+    const row = y => q.modules[y].slice(0, 7).map(Number).join('');
+    eq([row(0), row(1), row(2), row(6)], ['1111111', '1000001', '1011101', '1111111'], 'a finder pattern in the corner');
+    ok(q.modules[q.size - 8][8] === true, 'the always-dark module');
+    ok(q.modules[6].slice(8, q.size - 8).every((v, i) => v === (i % 2 === 0)), 'the timing pattern alternates');
+    ok(q.mask >= 0 && q.mask <= 7 && qrSvg('hi').startsWith('<svg'), 'a mask is chosen and it draws');
   },
   'the same episode from two sources shows once'() {
     const it = (sid, title, date, extra = {}) => ({sid, sname: sid, title, date, ...extra});

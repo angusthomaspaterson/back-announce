@@ -283,6 +283,20 @@
   </form>
 </dialog>
 
+<dialog class="settings" id="carryDlg" aria-labelledby="carryTitle">
+  <form method="dialog" class="set">
+    <h2 id="carryTitle">Take it to another device</h2>
+    <p class="hint" id="carryWhat"></p>
+    <div class="qr" id="carryQr"></div>
+    <p class="hint" id="carryScan">Point the other device's camera at this code and open the link it shows. Saved cards come across where the episode is still in the feed.</p>
+    <p class="hint">Or copy a link that carries everything, and send it to yourself.</p>
+    <div class="setrow"><button type="button" class="btn p" id="carryCopy">Copy link</button></div>
+    <p class="setstatus" id="carryStatus" role="status"></p>
+    <p class="hint">Nothing is uploaded. The code and the link hold your choices themselves, so anyone you give them to can copy your setup.</p>
+    <div class="setrow end"><button class="btn" value="close">Close</button></div>
+  </form>
+</dialog>
+
 <dialog class="settings" id="pickDlg" aria-labelledby="pickTitle">
   <form method="dialog" class="set">
     <h2 id="pickTitle">Angus's picks</h2>

@@ -3,13 +3,14 @@
 import {$, wireToast, toast, nowIso, appIntent, isAndroid} from './util.js';
 import {wireAdd, showAdd} from './add.js';
 import {loadAll} from './data.js';
-import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, findSavedKey, savedKey, snapshot, nameOf, pickFor} from './feed.js';
+import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, findSavedKey, savedKey, snapshot, nameOf, pickFor, srcItems} from './feed.js';
 import * as onair from './onair.js';
 import {wirePlayer} from './player.js';
 import {createStore} from './store.js';
 import {wireSettings} from './settings.js';
 import {pausedFor} from './packs.js';
-import {encodeSetup, decodeSetup, setupLink} from './carry.js';
+import {encodeSetup, encodeCompact, decodeSetup, setupLink, hash32} from './carry.js';
+import {qrSvg} from './qr.js';
 
 const isLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
 let store, pagesState = null, lastLoad = 0, lastError = '';
@@ -171,14 +172,32 @@ S.onShareSetup = async kind => {
   const state = {paused: [...S.paused], saved: S.saved, lastSeen: S.lastSeen};
   const link = setupLink(await encodeSetup(state, S.sources.map(s => s.id), kind));
   const n = S.sources.length - S.sources.filter(s => S.paused.has(s.id)).length;
-  if (kind === 'setup') await shareOrCopy('My Back Announce setup', 'Open this on your other device to bring your Back Announce setup across.', link);
-  else await shareOrCopy('My Back Announce feed', `The ${n} shows I follow on Back Announce.`, link);
+  if (kind !== 'setup') { await shareOrCopy('My Back Announce feed', `The ${n} shows I follow on Back Announce.`, link); return; }
+  // To another device: a QR code for the other phone's camera, and the link for everything else.
+  const compact = encodeCompact(state, S.sources.map(s => s.id));
+  const forQr = compact ? setupLink(compact) : link;
+  const saved = Object.keys(S.saved).length;
+  carryLinkText = link;
+  $('carryWhat').textContent = `Your ${n} shows${saved ? ` and ${saved} saved card${saved === 1 ? '' : 's'}` : ''}.`;
+  try { $('carryQr').innerHTML = qrSvg(forQr); $('carryQr').hidden = false; }
+  catch (e) { $('carryQr').hidden = true; }   // too much for one code: the link still works
+  $('carryScan').hidden = $('carryQr').hidden;
+  $('carryDlg').showModal();
 };
+let carryLinkText = '';
 /** A #setup= link was opened: read it and ask before changing anything. */
 async function readIncoming(code) {
   if (S.owner) { toast('Setup links are for devices without a token. Nothing was changed.'); return; }
-  try { S.incoming = await decodeSetup(code, S.sources.map(s => s.id)); }
-  catch (e) { toast("That link couldn't be read. Ask for it to be sent again."); }
+  try {
+    const i = await decodeSetup(code, S.sources.map(s => s.id));
+    // A QR code names saved cards only by fingerprint: rebuild each from this device's copy of the feed.
+    for (const ref of i.savedRefs || []) {
+      const it = srcItems(ref.sid).find(x => x.id && hash32(x.id) === ref.item);
+      if (it) i.saved[savedKey(it)] = snapshot(it);
+    }
+    if (i.savedRefs) i.missing = i.savedCount - Object.keys(i.saved).length;
+    S.incoming = i;
+  } catch (e) { toast("That link couldn't be read. Ask for it to be sent again."); }
 }
 S.onIncoming = yes => {
   const i = S.incoming; S.incoming = null;
@@ -286,6 +305,11 @@ async function boot() {
   $('pickSave').addEventListener('click', () => writePick(false));
   $('pickRemove').addEventListener('click', () => writePick(true));
   $('pickDlg').addEventListener('click', e => { if (e.target === $('pickDlg')) $('pickDlg').close(); });
+  $('carryDlg').addEventListener('click', e => { if (e.target === $('carryDlg')) $('carryDlg').close(); });
+  $('carryCopy').addEventListener('click', async () => {
+    try { await navigator.clipboard.writeText(carryLinkText); $('carryStatus').textContent = 'Link copied. Send it to yourself and open it on the other device.'; }
+    catch (e) { window.prompt('Copy this link:', carryLinkText); }
+  });
   try { await loadData(); }
   catch (e) {
     $('stream').innerHTML = `<div class="empty err">Could not load the feed (${e.message}). If you are offline, the last copy will show once the app has been opened online at least once.</div>`;
