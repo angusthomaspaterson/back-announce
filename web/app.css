@@ -143,6 +143,25 @@ footer p{margin:0 0 6px}
 .fd .mng .sum{font-size:13px;color:var(--muted)}
 .fd .mng .sum b{color:var(--fg);font-weight:600}
 .fd .mng .row{display:flex;flex-wrap:wrap;gap:6px}
+.fd .srcsearch{width:100%;font:inherit;font-size:14px;padding:8px 12px;border-radius:10px;border:1px solid var(--line);background:var(--panel);color:var(--fg)}
+.fd .srcsearch:focus{outline:2px solid var(--accent);outline-offset:1px}
+.fd .newtag{font-family:var(--mono);font-size:10px;font-weight:600;color:var(--new);margin-left:6px;letter-spacing:.04em;text-transform:uppercase}
+
+/* ---- the first-visit panel ---- */
+.welcome{background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:18px 16px 14px;margin-top:14px}
+.welcome h2{font-family:var(--display);font-size:22px;font-weight:700;letter-spacing:-.01em;line-height:1.15}
+.welcome h2 .dot{color:var(--accent)}
+.welcome p{font-size:14px;margin-top:8px;line-height:1.45}
+.welcome .lead{font-size:15px}
+.welcome .fine{font-size:12px;color:var(--muted)}
+.welcome .packs{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:8px;margin-top:12px}
+.welcome .pack{text-align:left;border-radius:10px;padding:10px 12px;background:var(--soft);border:1.5px solid transparent;display:flex;flex-direction:column;gap:2px}
+.welcome .pack b{font-size:14px;font-weight:600}
+.welcome .pack span{font-size:12px;color:var(--muted)}
+.welcome .pack[aria-pressed="true"]{border-color:var(--accent);background:var(--panel)}
+.welcome .pack[aria-pressed="true"] b::after{content:" ✓";color:var(--accent)}
+.welcome .wacts{margin-top:12px}
+.welcome .wacts .btn{padding:9px 14px;font-size:14px}
 .fd .sgh{display:flex;align-items:baseline;gap:10px;margin-top:16px;padding-bottom:4px;border-bottom:1px solid var(--line)}
 .fd .sgh h3{font-size:15px;display:flex;align-items:center;gap:8px}
 .fd .sgh h3 .sw{width:9px;height:9px;border-radius:50%;background:var(--sc)}

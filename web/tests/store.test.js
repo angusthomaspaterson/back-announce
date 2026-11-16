@@ -1,6 +1,7 @@
 // Tests for js/store.js against a pretend GitHub. Open tests/index.html on a local server.
 import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage, repoFiles} from '../js/store.js';
 import {appIntent, spotifySearch, dedupeAcross} from '../js/util.js';
+import {PACKS, followedBy, pausedFor, addedDate, isNewInCatalogue} from '../js/packs.js';
 
 const out = document.getElementById('out');
 let passed = 0, failed = 0;
@@ -244,6 +245,23 @@ const tests = {
     eq(st.view().paused, ['repo'], 'owner sees the repository state');
     st.setToken('');
     eq(st.view().paused, ['mine', 'pub'], 'removing the token returns to the visitor copy');
+  },
+  'starter packs follow the chosen groups, minus what Angus has paused'() {
+    const sources = [{id: 'a', group: 'BBC'}, {id: 'b', group: 'BBC'}, {id: 'c', group: 'NTS'}, {id: 'd', group: 'Bass'}, {id: 'e', group: 'Writing'}];
+    eq(followedBy(['radio'], sources, ['b']).map(s => s.id), ['a'], 'radio pack: BBC shows he follows');
+    eq(pausedFor(['radio', 'underground'], sources, ['b']), ['b', 'd', 'e'], 'everything else is paused');
+    eq(pausedFor(['words'], sources, []), ['a', 'b', 'c', 'd'], 'one pack');
+    ok(PACKS.every(p => p.id && p.name && p.groups.length), 'every pack is complete');
+  },
+  'new in the catalogue reads the added label'() {
+    const now = new Date('2026-11-16T04:00:00Z');
+    eq(addedDate('6 Nov', now).toISOString().slice(0, 10), '2026-11-06', 'a plain label');
+    eq(addedDate('sweep', now).toISOString().slice(0, 10), '2026-10-01', 'a batch name');
+    eq(addedDate('start', now), null, 'the originals have no date');
+    eq(addedDate('20 Dec', now).toISOString().slice(0, 10), '2025-12-20', 'a date ahead of today belongs to last year');
+    ok(isNewInCatalogue({added: '6 Nov'}, now), 'ten days ago is new');
+    ok(!isNewInCatalogue({added: 'oct11'}, now), 'five weeks ago is not');
+    ok(!isNewInCatalogue({added: 'start'}, now), 'nor are the originals');
   },
   'the same episode from two sources shows once'() {
     const it = (sid, title, date, extra = {}) => ({sid, sname: sid, title, date, ...extra});

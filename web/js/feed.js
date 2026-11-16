@@ -2,6 +2,7 @@
 // Each view has its own container, so going to a source and back leaves the feed exactly
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
 import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross} from './util.js';
+import {PACKS, followedBy, isNewInCatalogue} from './packs.js';
 import {play} from './player.js';
 
 export const S = {
@@ -19,6 +20,10 @@ export const S = {
   limit: 60,
   canWrite: false,      // Save, Pause and Mark all seen work (always, once the feed has loaded)
   owner: false,         // a token is on this device: changes go to the repository, and sources can be added
+  welcome: false,       // show the first-visit panel above the feed
+  packPick: new Set(),  // starter packs ticked on that panel
+  ownerPaused: [],      // the published paused list: what Angus himself has switched off
+  srcQuery: '',         // the Sources screen's search box
   syncNote: '', syncError: '',
   // set by app.js
   onNavigate: null, onBack: null, onPause: null, onSave: null, onMarkSeen: null, onShowAdd: null,
@@ -152,6 +157,7 @@ export function render() { invalidate(); show(); }
 /** Show the current view, redrawing a container only if it is out of date. */
 export function show() {
   const v = S.view, items = allItems(), saved = savedList();
+  renderWelcome();
   const listView = v === 'feed' || v === 'saved';
   $('filters').hidden = !listView; $('stream').hidden = !listView;
   $('srcHead').hidden = v !== 'source'; $('srcPage').hidden = v !== 'source';
@@ -170,6 +176,22 @@ export function show() {
     if (!rendered.sources) { renderSources(); rendered.sources = true; }
   }
   renderMeta(items);
+}
+
+/** The first-visit panel: keep Angus's whole feed, or start from one or more packs. */
+function renderWelcome() {
+  const w = $('welcome'), on = S.welcome && S.view === 'feed';
+  w.hidden = !on;
+  if (!on) return;
+  const all = sourceList(), off = S.ownerPaused;
+  const total = all.filter(s => !off.includes(s.id)).length;
+  const n = S.packPick.size ? followedBy([...S.packPick], all, off).length : total;
+  w.innerHTML = `<h2>Welcome to Back Announce<span class="dot">.</span></h2>
+    <p class="lead">Human curation, gathered every morning: radio shows, mixes, podcasts and music writing, chosen by a person, not an algorithm.</p>
+    <p>You're looking at Angus's feed of ${total} shows. Keep all of it, or start with the parts you like:</p>
+    <div class="packs">${PACKS.map(p => `<button class="pack" data-pack="${p.id}" aria-pressed="${S.packPick.has(p.id)}"><b>${esc(p.name)}</b><span>${esc(p.blurb)} · ${followedBy([p.id], all, off).length} shows</span></button>`).join('')}</div>
+    <div class="wacts"><button class="btn p" id="wGo">${S.packPick.size ? `Start with these ${n} shows` : `Keep all ${total} shows`}</button></div>
+    <p class="fine">You can change everything later under Sources. No account needed: your choices stay on this device.</p>`;
 }
 
 function renderFilters(items, saved) {
@@ -227,9 +249,12 @@ function renderSources() {
   const start = all.filter(s => s.added === 'start'), extra = all.filter(s => s.added && s.added !== 'start');
   const extraOn = extra.filter(s => !P.has(s.id)).length;
   const batches = Object.keys(BATCHES).map(k => ({k, label: BATCHES[k], list: all.filter(s => s.added === k)})).filter(b => b.list.length);
-  const views = [['all', 'All ' + total], ['on', 'Following ' + (total - nP)], ['off', 'Paused ' + nP]];
+  const nNew = all.filter(s => isNewInCatalogue(s)).length;
+  if (S.srcView === 'new' && !nNew) S.srcView = 'all';
+  const views = [['all', 'All ' + total], ['on', 'Following ' + (total - nP)], ['off', 'Paused ' + nP]].concat(nNew ? [['new', 'New ' + nNew]] : []);
   // Adding sources and the batch buttons (named after the dates Angus added things) are the owner's.
   $('mng').innerHTML = `${O ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} sources in ${O ? 'the' : 'your'} feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ''}${O ? '' : ' Your choices are kept on this device.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
+    <input class="srcsearch" id="srcSearch" type="search" placeholder="Search ${total} shows" aria-label="Search shows" value="${esc(S.srcQuery)}" autocomplete="off">
     <div class="row">${views.map(([k, l]) => `<button class="chip" data-view="${k}" aria-pressed="${S.srcView === k}">${esc(l)}</button>`).join('')}</div>
     ${W && !O && nP ? '<div class="row"><button class="btn q" id="resumeAll">Resume everything</button></div>' : ''}
     ${O ? `<div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
@@ -237,11 +262,20 @@ function renderSources() {
       return (on ? `<button class="btn" data-batch="${b.k}" data-to="off">Pause the ${b.list.length} added ${esc(b.label)}</button>` : '')
         + (on < b.list.length ? `<button class="btn" data-batch="${b.k}" data-to="on">Bring back the ${b.list.length} added ${esc(b.label)}</button>` : '');
     }).join('')}${nP ? `<button class="btn q" id="resumeAll">Resume everything</button>` : ''}</div>` : ''}`;
+  renderSourceList();
+}
+
+/** The list under the Sources header. Typing in the search box redraws only this, so the box keeps focus. */
+function renderSourceList() {
+  const st = S.status, P = S.paused, W = S.canWrite, all = sourceList();
+  const words = S.srcQuery.toLowerCase().split(/\s+/).filter(Boolean);
+  const hit = s => { const hay = `${s.name} ${s.group || ''} ${kindLabel(s.kind)}`.toLowerCase(); return words.every(w => hay.includes(w)); };
+  const inView = s => S.srcView === 'all' || (S.srcView === 'new' ? isNewInCatalogue(s) : S.srcView === 'on' ? !P.has(s.id) : P.has(s.id));
   const groups = {};
   for (const s of all) (groups[s.group || 'Other'] = groups[s.group || 'Other'] || []).push(s);
   let html = '';
   for (const g of Object.keys(groups).sort()) {
-    const list = groups[g].filter(s => S.srcView === 'all' || (S.srcView === 'on' ? !P.has(s.id) : P.has(s.id)));
+    const list = groups[g].filter(s => inView(s) && hit(s));
     if (!list.length) continue;
     const gOn = groups[g].filter(s => !P.has(s.id)).length;
     html += `<div class="sgh" style="--sc:${gcol(g)}"><h3><span class="sw"></span>${esc(g)}</h3><span class="c">${gOn}/${groups[g].length} on</span>${W ? `<button class="btn" data-grp="${esc(g)}" data-to="${gOn ? 'off' : 'on'}">${gOn ? 'Pause group' : 'Resume group'}</button>` : ''}</div>`;
@@ -249,10 +283,10 @@ function renderSources() {
       const ss = (st && st.sources && st.sources[s.id]) || {}, doc = S.feed[s.id], off = P.has(s.id);
       const newest = doc && doc.items && doc.items[0] && doc.items[0].date;
       const stTxt = ss.linkOnly ? 'link only' : ss.ok === false ? 'failed' : ss.ok === true || doc ? (dateOk(newest) ? sfmt.format(new Date(newest)) : 'no items') : 'pending';
-      return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button></div><div class="st${ss.ok === false && !ss.linkOnly ? ' bad' : ''}" title="${esc(ss.error || '')}">${esc(stTxt)}</div><div class="m">${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}${off ? ' · paused' : ''}</div></div>`;
+      return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${ss.ok === false && !ss.linkOnly ? ' bad' : ''}" title="${esc(ss.error || '')}">${esc(stTxt)}</div><div class="m">${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}${off ? ' · paused' : ''}</div></div>`;
     }).join('');
   }
-  $('sources').innerHTML = html || empty('Nothing here.');
+  $('sources').innerHTML = html || empty(words.length ? `No shows match "${esc(S.srcQuery)}".` : 'Nothing here.');
 }
 
 export function renderMeta(items = allItems()) {
@@ -322,5 +356,12 @@ export function wire() {
     else if (b.dataset.sid) S.onPause([b.dataset.sid], b.getAttribute('aria-checked') === 'true', null);
     else if (b.dataset.grp) { const off = b.dataset.to === 'off'; const ids = all.filter(s => (s.group || 'Other') === b.dataset.grp && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${b.dataset.grp} (${ids.length})`); }
     else if (b.dataset.src) S.onNavigate('#source/' + encodeURIComponent(b.dataset.src));
+  });
+  $('sourcesView').addEventListener('input', e => { if (e.target.id === 'srcSearch') { S.srcQuery = e.target.value; renderSourceList(); } });
+
+  $('welcome').addEventListener('click', e => {
+    const b = e.target.closest('button'); if (!b) return;
+    if (b.dataset.pack) { if (S.packPick.has(b.dataset.pack)) S.packPick.delete(b.dataset.pack); else S.packPick.add(b.dataset.pack); renderWelcome(); }
+    else if (b.id === 'wGo') S.onWelcome([...S.packPick]);
   });
 }

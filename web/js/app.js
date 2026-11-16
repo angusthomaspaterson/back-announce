@@ -8,6 +8,7 @@ import * as onair from './onair.js';
 import {wirePlayer} from './player.js';
 import {createStore} from './store.js';
 import {wireSettings} from './settings.js';
+import {pausedFor} from './packs.js';
 
 const isLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
 let store, pagesState = null, lastLoad = 0, lastError = '';
@@ -133,8 +134,20 @@ async function loadData() {
   // Everyone can save, pause and mark seen. With a token that is Angus's own state in the
   // repository; without one it is the visitor's own copy, kept in this browser.
   S.owner = store.hasToken(); S.canWrite = true;
+  S.ownerPaused = Array.isArray(state.paused) ? state.paused : [];
   store.seed(state); applyState(store.view());
+  S.welcome = !S.owner && !welcomed();
 }
+// The first-visit panel shows until the visitor picks a starting point, once per device.
+const welcomed = () => { try { return localStorage.getItem('ba.welcomed') === '1'; } catch (e) { return true; } };
+S.onWelcome = packs => {
+  if (packs.length) store.setLocal({...store.view(), paused: pausedFor(packs, S.sources, S.ownerPaused)});
+  try { localStorage.setItem('ba.welcomed', '1'); } catch (e) {}
+  S.welcome = false; S.packPick.clear();
+  rerender();
+  window.scrollTo(0, 0);
+  toast(packs.length ? 'Your feed is ready. Change it any time under Sources.' : "You're following Angus's whole feed. Change it any time under Sources.");
+};
 async function refreshAll(manual) {
   const b = $('refreshBtn'); b.classList.add('spin'); b.disabled = true;
   try {
