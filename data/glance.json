@@ -163,7 +163,7 @@
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 675,
+ "newCount": 674,
  "paused": 23,
  "releases": [
   {
@@ -192,6 +192,12 @@
   }
  ],
  "saved": [
+  {
+   "at": "2026-11-16T14:32:51Z",
+   "s": "Classic Albums with Caz Tran",
+   "t": "John Farnham - Whispering Jack",
+   "u": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-john-farnham-whispering-jack/107343588"
+  },
   {
    "at": "2026-11-12T03:49:07Z",
    "s": "Stones Taro",
@@ -248,5 +254,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-16T13:10:43Z"
+ "updated": "2026-11-16T14:33:52Z"
 }
