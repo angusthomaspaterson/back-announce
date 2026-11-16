@@ -203,6 +203,19 @@
   </form>
 </dialog>
 
+<dialog class="settings" id="pickDlg" aria-labelledby="pickTitle">
+  <form method="dialog" class="set">
+    <h2 id="pickTitle">Angus's picks</h2>
+    <p class="hint" id="pickWhat"></p>
+    <label for="pickNote">Why is this one worth hearing?</label>
+    <textarea id="pickNote" rows="4" maxlength="400" placeholder="A line or two, in your own words"></textarea>
+    <p class="hint">Picks are public: every visitor sees this card and your note. Your Saved list is separate and isn't shown to anyone.</p>
+    <div class="setrow"><button type="button" class="btn p" id="pickSave">Save pick</button><button type="button" class="btn" id="pickRemove" hidden>Remove pick</button></div>
+    <p class="setstatus" id="pickStatus" role="status"></p>
+    <div class="setrow end"><button class="btn" value="close">Cancel</button></div>
+  </form>
+</dialog>
+
 <div class="toast" id="toast" role="status" aria-live="polite" hidden><span id="toastTxt"></span><button id="toastUndo">Undo</button></div>
 
 <script type="module" src="js/app.js"></script>

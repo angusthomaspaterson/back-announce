@@ -9,11 +9,12 @@ async function getJSON(path) {
   return r.json();
 }
 
-/** Load the bundle (sources, status and every feed) and the app state. */
+/** Load the bundle (sources, status and every feed), the app state and Angus's public picks. */
 export async function loadAll() {
-  const [bundle, state] = await Promise.all([
+  const [bundle, state, picks] = await Promise.all([
     getJSON('data/bundle.json'),
     getJSON('data/state.json').catch(() => ({paused: [], saved: {}, lastSeen: null})),
+    getJSON('data/picks.json').catch(() => ({items: []})),
   ]);
-  return {bundle, state};
+  return {bundle, state, picks: Array.isArray(picks && picks.items) ? picks.items : []};
 }

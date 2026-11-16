@@ -66,6 +66,7 @@ dialog.settings::backdrop{background:rgba(0,0,0,.45)}
 .set label{display:block;font-weight:600;margin:14px 0 4px}
 .set input{width:100%;font-family:var(--mono);font-size:13px;padding:9px 10px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--fg)}
 .set .hint{color:var(--muted);font-size:13px;margin:6px 0 0}
+.set textarea{width:100%;font:inherit;font-size:14px;line-height:1.4;padding:9px 10px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--fg);resize:vertical}
 .setrow{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
 .setrow.end{justify-content:flex-end;margin-top:16px}
 .setstatus{font-size:13px;margin:10px 0 0;min-height:1.4em}
@@ -129,6 +130,12 @@ footer p{margin:0 0 6px}
 .fd .chip.heartchip .hrt{font-size:13px;line-height:1}
 .fd .chip.heartchip[aria-pressed="false"]{opacity:1;background:var(--soft)}
 .fd .chip.heartchip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.fd .chip.pickchip .hrt{font-size:12px;line-height:1;color:var(--accent)}
+.fd .chip.pickchip[aria-pressed="false"]{opacity:1;background:var(--soft)}
+.fd .chip.pickchip[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-fg)}
+/* Angus's note on a pick: his words, set apart from the station's own description. */
+.fd .card .note{margin:8px 0 2px;padding:8px 12px;border-left:3px solid var(--accent);background:var(--soft);border-radius:0 8px 8px 0;font-size:14px;line-height:1.45;white-space:pre-line}
+.fd .card .note .by{display:block;font-family:var(--mono);font-size:10.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);margin-bottom:2px}
 .fd .chip.src{background:var(--soft);opacity:1}
 .fd .card.linkonly .ttl{font-size:16px}
 

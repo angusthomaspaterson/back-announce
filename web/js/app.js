@@ -3,7 +3,7 @@
 import {$, wireToast, toast, nowIso, appIntent, isAndroid} from './util.js';
 import {wireAdd, showAdd} from './add.js';
 import {loadAll} from './data.js';
-import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, findSavedKey, savedKey, snapshot, nameOf} from './feed.js';
+import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, findSavedKey, savedKey, snapshot, nameOf, pickFor} from './feed.js';
 import * as onair from './onair.js';
 import {wirePlayer} from './player.js';
 import {createStore} from './store.js';
@@ -21,7 +21,7 @@ let current = '';
 function parseHash() {
   const h = (location.hash || '#feed').replace(/^#/, '');
   if (h === 'onair' || h === 'help') return {tab: h};
-  if (h === 'saved' || h === 'sources' || h === 'add') return {tab: 'feed', view: h};
+  if (h === 'saved' || h === 'picks' || h === 'sources' || h === 'add') return {tab: 'feed', view: h};
   const m = h.match(/^source\/(.+)$/);
   if (m) return {tab: 'feed', view: 'source', srcId: decodeURIComponent(m[1])};
   return {tab: 'feed', view: 'feed'};
@@ -40,7 +40,7 @@ function route() {
   else if (r.tab === 'onair') { $('title').textContent = 'On Air'; onair.start(); onair.render(); }
   else {
     if (r.view === 'source') { if (current !== 'source') S.prevView = current === 'add' ? 'sources' : current || 'feed'; S.srcId = r.srcId; }
-    const lists = v => v === 'feed' || v === 'saved';
+    const lists = v => v === 'feed' || v === 'saved' || v === 'picks';
     if (lists(r.view) && lists(S.view) && r.view !== S.view) S.limit = 60;
     S.view = r.view;
     showFeed();
@@ -122,6 +122,42 @@ S.onMarkSeen = () => {
   toast('Marked all seen', () => q({t: 'seen', at: prev, msg: 'undo mark all seen'}));
 };
 
+// ---- Angus's picks: a public list, built one card at a time, each with a note ----
+// Owner only. Picks live in data/picks.json in the repository, apart from the Saved list.
+let picksEditedAt = 0, picking = null;
+const PICKS_FILE = 'data/picks.json', PICKS_KEPT = 40;
+S.onPick = it => {
+  picking = it;
+  const cur = pickFor(it);
+  $('pickWhat').textContent = `${it.title} (${it.sname})`;
+  $('pickNote').value = cur ? cur.note || '' : '';
+  $('pickSave').textContent = cur ? 'Update pick' : 'Save pick';
+  $('pickRemove').hidden = !cur;
+  $('pickStatus').textContent = '';
+  $('pickDlg').showModal();
+  $('pickNote').focus();
+};
+async function writePick(remove) {
+  const it = picking; if (!it) return;
+  const key = savedKey(it), note = $('pickNote').value.trim();
+  const entry = {key, note, pickedAt: (pickFor(it) || {}).pickedAt || nowIso(), card: snapshot(it)};
+  delete entry.card.savedAt;
+  const btns = [$('pickSave'), $('pickRemove')]; btns.forEach(b => { b.disabled = true; });
+  $('pickStatus').textContent = 'Saving…';
+  try {
+    const doc = await store.files.edit(PICKS_FILE, cur => {
+      const rest = (Array.isArray(cur.items) ? cur.items : []).filter(p => p.key !== key);
+      return {...cur, items: (remove ? rest : [entry, ...rest]).slice(0, PICKS_KEPT)};
+    }, remove ? `picks: remove "${it.title}"`.slice(0, 72) : `picks: add "${it.title}"`.slice(0, 72));
+    S.picks = doc.items; picksEditedAt = Date.now();
+    $('pickDlg').close();
+    rerender();
+    toast(remove ? 'Removed from your picks' : 'Added to your picks. Visitors see it in a minute or two.');
+  } catch (e) {
+    $('pickStatus').textContent = `Couldn't save the pick (${e.status || 'offline'}). Try again.`;
+  } finally { btns.forEach(b => { b.disabled = false; }); }
+}
+
 // ---- sharing: a card, the shows you follow, or your whole setup, as a link ----
 async function shareOrCopy(title, text, url) {
   // Phones offer their share sheet; elsewhere the link is copied.
@@ -159,8 +195,10 @@ S.onIncoming = yes => {
 
 // ---- loading ----
 async function loadData() {
-  const {bundle, state} = await loadAll();
+  const {bundle, state, picks} = await loadAll();
   S.sources = bundle.sources || []; S.feed = bundle.feed || {}; S.status = bundle.status || null;
+  // Picks changed on this device are newer than the published copy for a minute or two.
+  if (!picksEditedAt || Date.now() - picksEditedAt > 5 * 60 * 1000) S.picks = picks;
   // Keep sources added on this device until the published copy includes them.
   for (let i = addedHere.length - 1; i >= 0; i--) {
     if (S.sources.some(s => s.id === addedHere[i].id)) addedHere.splice(i, 1);
@@ -230,6 +268,9 @@ async function boot() {
     route();
   });
   $('refreshBtn').addEventListener('click', () => refreshAll(true));
+  $('pickSave').addEventListener('click', () => writePick(false));
+  $('pickRemove').addEventListener('click', () => writePick(true));
+  $('pickDlg').addEventListener('click', e => { if (e.target === $('pickDlg')) $('pickDlg').close(); });
   try { await loadData(); }
   catch (e) {
     $('stream').innerHTML = `<div class="empty err">Could not load the feed (${e.message}). If you are offline, the last copy will show once the app has been opened online at least once.</div>`;

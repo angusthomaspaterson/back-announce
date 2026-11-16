@@ -22,6 +22,7 @@ export const S = {
   owner: false,         // a token is on this device: changes go to the repository, and sources can be added
   welcome: false,       // show the first-visit panel above the feed
   incoming: null,       // a setup read from a #setup= link, waiting for a yes or no
+  picks: [],            // data/picks.json: the cards Angus has picked out, each with his note
   packPick: new Set(),  // starter packs ticked on that panel
   ownerPaused: [],      // the published paused list: what Angus himself has switched off
   srcQuery: '',         // the Sources screen's search box
@@ -84,6 +85,14 @@ export function snapshot(it) {
   if (Array.isArray(it.links) && it.links.length) d.links = it.links.map(l => ({t: String(l.t || ''), u: String(l.u || '')}));
   return d;
 }
+/** Angus's public picks: {key, note, pickedAt, card}, newest first. Separate from anyone's Saved list. */
+export function pickFor(it) {
+  const k = savedKey(it);
+  return S.picks.find(p => p.key === k || (p.card && p.card.sid === it.sid && ((it.id && p.card.id === it.id) || (it.url && p.card.url === it.url)))) || null;
+}
+function picksList() {
+  return S.picks.filter(p => p.card && p.card.url).map(p => ({...p.card, pickedAt: p.pickedAt})).sort((x, y) => (y.pickedAt || '').localeCompare(x.pickedAt || ''));
+}
 function savedList() {
   return Object.entries(S.saved).map(([k, v]) => ({...v, _key: k})).sort((x, y) => (y.savedAt || '').localeCompare(x.savedAt || ''));
 }
@@ -112,38 +121,43 @@ function spotifyLink(it) {
 const cardMap = new Map();   // data-save key -> item, for the click handler
 function heartInner(saved) { return `<span aria-hidden="true">${saved ? '♥' : '♡'}</span>${saved ? 'Saved' : 'Save'}`; }
 function card(it, mode) {
-  const inSaved = mode === 'saved', inSrc = mode === 'source';
+  const inSaved = mode === 'saved', inSrc = mode === 'source', inPicks = mode === 'picks';
   const key = it._key || savedKey(it);
   cardMap.set(key, it);
   const saved = inSaved || findSavedKey(it) !== null;
-  const isNew = !inSaved && !it.linkOnly && dateOk(it.date) && (!S.lastSeen || it.date > S.lastSeen);
+  const isNew = !inSaved && !inPicks && !it.linkOnly && dateOk(it.date) && (!S.lastSeen || it.date > S.lastSeen);
+  // Angus's picks carry his note wherever the card appears.
+  const pick = inSaved ? null : pickFor(it);
+  const note = pick ? `<blockquote class="note"><span class="by">Angus's pick</span>${pick.note ? esc(pick.note) : ''}</blockquote>` : '';
+  const pickBtn = S.owner && !inSaved && !it.linkOnly ? `<button class="btn q" data-pick="${esc(key)}" title="Add this to your public picks, with a note">${pick ? 'Picked ✓' : 'Pick'}</button>` : '';
   const tags = [it.tags, it.location, dur(it.duration)].filter(Boolean).join(' · ');
   const square = /sndcdn|ntslive|podbean|mixcloud|bcbits/.test(it.image || '');
   const links = (it.links || []).map(l => `<a href="${esc(l.u)}" target="_blank" rel="noopener">↗ ${esc(l.t)}</a>`).join('');
-  const when = inSaved ? it.savedAt : it.date;
-  const heart = S.canWrite && !it.linkOnly ? `<button class="btn heart" data-save="${esc(key)}" aria-pressed="${saved}" aria-label="${saved ? 'Remove from Saved' : 'Save'}">${heartInner(saved)}</button>` : '';
+  const when = inSaved ? it.savedAt : inPicks ? it.pickedAt : it.date;
+  const heart =S.canWrite && !it.linkOnly ? `<button class="btn heart" data-save="${esc(key)}" aria-pressed="${saved}" aria-label="${saved ? 'Remove from Saved' : 'Save'}">${heartInner(saved)}</button>` : '';
   const audio = it.audio ? `<button class="btn" data-play="${esc(it.audio)}" data-name="${esc(it.title)}" data-sub="${esc(it.sname)}" data-art="${esc(it.image || '')}">▶ Play</button>` : '';
   const sp = spotifyLink(it);
   const spotify = sp ? `<a class="btn spot" href="${esc(sp)}" target="_blank" rel="noopener" title="Search Spotify for this">Spotify ↗</a>` : '';
   const share = it.url && !it.linkOnly ? `<button class="btn q" data-share="${esc(key)}" title="Send this to someone">Share</button>` : '';
-  const pause = S.canWrite && !inSaved && !inSrc ?`<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this source until you switch it back on">Pause source</button>` : '';
+  const pause = S.canWrite && !inSaved && !inSrc && !inPicks ? `<button class="btn q" data-pause="${esc(it.sid)}" title="Hide this source until you switch it back on">Pause source</button>` : '';
   return `<article class="card${it.linkOnly ? ' linkonly' : ''}" style="--sc:${gcol(it.group)}">
     <div class="who"><button class="srcbtn" data-src="${esc(it.sid)}" ${inSrc ? 'disabled' : ''} aria-label="See recent posts from ${esc(it.sname)}"><span class="av" aria-hidden="true">${esc(initials(it.sname))}</span>
-      <span class="who-t"><span class="nm">${esc(it.sname)}${inSrc ? '' : ' <span class="go" aria-hidden="true">›</span>'}</span><span class="sub">${esc(it.group)}${inSaved && dateOk(it.date) ? ' · ' + esc(sfmt.format(new Date(it.date))) : ''}</span></span></button>
+      <span class="who-t"><span class="nm">${esc(it.sname)}${inSrc ? '' : ' <span class="go" aria-hidden="true">›</span>'}</span><span class="sub">${esc(it.group)}${(inSaved || inPicks) && dateOk(it.date) ? ' · ' + esc(sfmt.format(new Date(it.date))) : ''}</span></span></button>
       <div class="t">${isNew ? '<span class="new">New</span>' : ''}${dateOk(when) ? esc(tfmt.format(new Date(when))) + '<br>' + esc(rel(when)) : ''}</div></div>
     <div class="ttl"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+    ${note}
     ${it.desc ? `<div class="txt" title="Tap to expand">${esc(it.desc)}</div>` : ''}
     ${links ? `<div class="links">${links}</div>` : ''}
     ${it.image ? `<a class="pic${square ? ' sq' : ''}" href="${esc(it.url)}" target="_blank" rel="noopener"><img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>` : ''}
-    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">Open ↗</a>${heart}${audio}${spotify}${share}${pause}${tags ? `<span class="tag">${esc(tags)}</span>` : ''}</div>
+    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">Open ↗</a>${heart}${audio}${spotify}${share}${pickBtn}${pause}${tags ? `<span class="tag">${esc(tags)}</span>` : ''}</div>
   </article>`;
 }
 function dayList(list, mode, limit) {
   let html = '', lastDay = '';
   for (const it of list.slice(0, limit)) {
-    const when = mode === 'saved' ? it.savedAt : it.date;
+    const when = mode === 'saved' ? it.savedAt : mode === 'picks' ? it.pickedAt : it.date;
     const day = dateOk(when) ? dkey.format(new Date(when)) : 'undated';
-    if (day !== lastDay) { lastDay = day; html += `<div class="day"><span>${dateOk(when) ? (mode === 'saved' ? 'Saved ' : '') + esc(dfmt.format(new Date(when))) : 'Undated'}</span><span class="rule"></span></div>`; }
+    if (day !== lastDay) { lastDay = day; html += `<div class="day"><span>${dateOk(when) ? (mode === 'saved' ? 'Saved ' : mode === 'picks' ? 'Picked ' : '') + esc(dfmt.format(new Date(when))) : 'Undated'}</span><span class="rule"></span></div>`; }
     html += card(it, mode);
   }
   return html;
@@ -160,14 +174,14 @@ export function render() { invalidate(); show(); }
 export function show() {
   const v = S.view, items = allItems(), saved = savedList();
   renderWelcome();
-  const listView = v === 'feed' || v === 'saved';
+  const listView = v === 'feed' || v === 'saved' || v === 'picks';
   $('filters').hidden = !listView; $('stream').hidden = !listView;
   $('srcHead').hidden = v !== 'source'; $('srcPage').hidden = v !== 'source';
   $('sourcesView').hidden = v !== 'sources';
   $('addView').hidden = v !== 'add';
   if (v === 'add') { S.onShowAdd(); renderMeta(items); return; }
   if (listView) {
-    $('title').textContent = v === 'saved' ? 'Saved' : 'Back Announce';
+    $('title').textContent = v === 'saved' ? 'Saved' : v === 'picks' ? "Angus's picks" : 'Back Announce';
     renderFilters(items, saved);
     if (rendered.stream !== v) { renderStream(items, saved); rendered.stream = v; }
   } else if (v === 'source') {
@@ -211,13 +225,15 @@ function renderWelcome() {
 }
 
 function renderFilters(items, saved) {
-  const inSaved = S.view === 'saved', W = S.canWrite;
-  const pool = inSaved ? saved : items;
-  const groups = [...new Set(items.map(i => i.group).concat(saved.map(i => i.group)))].sort();
+  const inPicks = S.view === 'picks', picks = picksList();
+  const inSaved = S.view === 'saved' || inPicks, W = S.canWrite;   // neither list has Mark all seen
+  const pool = inPicks ? picks : S.view === 'saved' ? saved : items;
+  const groups = [...new Set(items.map(i => i.group).concat(saved.map(i => i.group), picks.map(i => i.group)))].sort();
   for (const g of groups) if (!(g in S.groups)) S.groups[g] = true;
   const counts = {}; for (const i of pool) counts[i.group] = (counts[i.group] || 0) + 1;
   const newCount = countNew(items);
-  $('filters').innerHTML = `<button class="chip heartchip" id="savedView" aria-pressed="${inSaved}"><span class="hrt" aria-hidden="true">${inSaved ? '♥' : '♡'}</span>Saved <span class="cnt">${saved.length}</span></button>`
+  $('filters').innerHTML = `<button class="chip heartchip" id="savedView" aria-pressed="${S.view === 'saved'}"><span class="hrt" aria-hidden="true">${S.view === 'saved' ? '♥' : '♡'}</span>Saved <span class="cnt">${saved.length}</span></button>`
+    + (picks.length || S.owner ? `<button class="chip pickchip" id="picksView" aria-pressed="${inPicks}"><span class="hrt" aria-hidden="true">★</span>Angus's picks <span class="cnt">${picks.length}</span></button>` : '')
     + groups.filter(g => counts[g]).map(g => `<button class="chip" data-g="${esc(g)}" aria-pressed="${S.groups[g]}" style="--sc:${gcol(g)}"><span class="sw"></span>${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join('')
     + (inSaved || !W ? '' : `<button class="chip act" id="markSeen">Mark all seen${newCount ? ' (' + newCount + ')' : ''}</button>`)
     + `<button class="chip src${inSaved || !W ? ' act' : ''}" id="openSrc">Sources${S.paused.size ? ' · ' + S.paused.size + ' paused' : ''}</button>`;
@@ -225,15 +241,16 @@ function renderFilters(items, saved) {
 function countNew(items) { return items.filter(i => !i.linkOnly && dateOk(i.date) && (!S.lastSeen || i.date > S.lastSeen)).length; }
 
 function renderStream(items, saved) {
-  const inSaved = S.view === 'saved';
-  const pool = inSaved ? saved : items;
+  const inSaved = S.view === 'saved', inPicks = S.view === 'picks';
+  const pool = inPicks ? picksList() : inSaved ? saved : items;
   const vis = pool.filter(i => S.groups[i.group] !== false);
   let html;
   if (inSaved && !saved.length) html = empty('Nothing saved yet. Tap the heart on any card to keep it here. Saved cards stay even after the show drops out of the feed.');
+  else if (inPicks && !pool.length) html = empty(S.owner ? "No picks yet. Tap Pick on any card and say why it's worth hearing. Picks are public; your Saved list is not." : 'No picks yet.');
   else if (!pool.length) html = empty('Nothing gathered yet. The first run fills this in; after that it refreshes once a day.');
   else if (!vis.length) html = empty('Every group is switched off. Tap a chip above to bring one back.');
   else {
-    html = dayList(vis, inSaved ? 'saved' : 'feed', S.limit);
+    html = dayList(vis, inPicks ? 'picks' : inSaved ? 'saved' : 'feed', S.limit);
     if (vis.length > S.limit) html += `<button class="more" id="more">Show ${Math.min(60, vis.length - S.limit)} more of ${vis.length}</button>`;
   }
   $('stream').innerHTML = html;
@@ -340,6 +357,7 @@ export function wire() {
     } else if (t.dataset.save != null) { const it = cardMap.get(t.dataset.save); if (it) S.onSave(it); }
     else if (t.dataset.pause) S.onPause([t.dataset.pause], true, `Paused ${nameOf(t.dataset.pause)}`);
     else if (t.dataset.play) play(t.dataset.play, {title: t.dataset.name, sub: t.dataset.sub, art: t.dataset.art || ''});
+    else if (t.dataset.pick != null) { const it = cardMap.get(t.dataset.pick); if (it) S.onPick(it); }
     else if (t.dataset.share != null) { const it = cardMap.get(t.dataset.share); if (it) S.onShareCard(it); }
     else if (t.dataset.src && !t.disabled) S.onNavigate('#source/' + encodeURIComponent(t.dataset.src));
     else if (t.id === 'more') { S.limit += 60; rendered.stream = null; show(); }
@@ -351,6 +369,7 @@ export function wire() {
     const b = e.target.closest('button'); if (!b) return;
     if (b.dataset.g) { S.groups[b.dataset.g] = !S.groups[b.dataset.g]; saveLocal(); rendered.stream = null; show(); }
     else if (b.id === 'savedView') S.onNavigate(S.view === 'saved' ? '#feed' : '#saved');
+    else if (b.id === 'picksView') S.onNavigate(S.view === 'picks' ? '#feed' : '#picks');
     else if (b.id === 'markSeen') S.onMarkSeen();
     else if (b.id === 'openSrc') S.onNavigate('#sources');
   });
