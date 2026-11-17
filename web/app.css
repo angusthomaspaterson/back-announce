@@ -1,8 +1,8 @@
 /* Back Announce. Tokens and layout ported from the Claude version: one column of cards for the feed,
    a listings page with a time rail for On Air. */
 :root{
-  --bg:#f0efe9; --panel:#fbfaf6; --fg:#1b1d22; --muted:#6b6f78; --line:#dedcd3;
-  --accent:#d3441c; --accent-ink:#ffffff; --live:#d3441c; --soft:#efece3; --chip:#e4e1d6; --chip-on:#1b1d22; --chip-on-fg:#f5f4ef; --new:#d3441c; --shadow:0 1px 2px rgba(27,29,34,.06);
+  --bg:#f0efe9; --panel:#fbfaf6; --fg:#1b1d22; --muted:#5f636c; --line:#dedcd3;
+  --accent:#d3441c; --accent-ink:#ffffff; --live:#d3441c; --soft:#efece3; --chip:#e4e1d6; --chip-on:#1b1d22; --chip-on-fg:#f5f4ef; --new:#c03c16; --shadow:0 1px 2px rgba(27,29,34,.06);
   --display:"Bricolage Grotesque","Instrument Sans",system-ui,sans-serif;
   --body:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
@@ -251,7 +251,7 @@ header.top h1.brand::after{content:".";color:var(--accent)}
 .oa .row .s{font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);white-space:nowrap;display:flex;align-items:center;gap:5px;padding-top:2px}
 .oa .row .s .sw{width:7px;height:7px;border-radius:50%;background:var(--sc)}
 .oa .row.past{opacity:.45}
-.oa .row.live .t{color:var(--live)}
+.oa .row.live .t{color:var(--new)}
 .oa .days{display:flex;gap:4px;margin-bottom:8px;overflow-x:auto;padding-bottom:2px}
 .oa .days button{flex:1 0 auto;padding:6px 8px;border-radius:6px;background:var(--chip);font-size:12.5px;font-weight:600;min-width:44px}
 .oa .days button[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-fg)}
@@ -378,6 +378,10 @@ body.has-player .toast{bottom:calc(196px + env(safe-area-inset-bottom,0px))}
   .fd .card .who .t,.fd .who-t .sub,.fd .tag,.fd .srow .m,.fd .srow .st{font-size:12.5px}
   .fd .sgh .btn{min-height:32px;padding:4px 10px;font-size:12.5px}
   .player .pb{min-height:36px;padding-inline:12px}
+  .player .pclose{min-width:40px;min-height:40px;padding:6px 10px}
+  /* The switches and show names look the same but take a finger-sized tap. */
+  .fd .tg::before{content:"";position:absolute;inset:-9px -4px}
+  .fd .srclink{padding-block:8px}
 }
 
 /* ---- the opening screen ---- */

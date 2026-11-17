@@ -67,11 +67,14 @@ const BANNER = `<svg class="sgart" viewBox="0 0 600 150" role="img" aria-label="
 </svg>`;
 
 let api = null, sent = false;
+let autoName = '';   // the name last filled in from a link, so a new link can replace it (never a typed one)
 const val = id => ($(id) ? $(id).value.trim() : '');
 const values = () => ({url: (classifyLink(val('sgLink'), api.sources()).url || val('sgLink')), show: val('sgShow'), why: val('sgWhy'), from: val('sgFrom')});
 
 function verdict() {
   const c = classifyLink(val('sgLink'), api.sources()), box = $('sgVerdict');
+  // A name filled in from an earlier link goes when the link changes; one the visitor typed stays.
+  if (autoName && val('sgShow') === autoName && c.name !== autoName) { $('sgShow').value = ''; autoName = ''; }
   if (!val('sgLink')) { box.innerHTML = ''; return c; }
   if (!c.ok) { box.innerHTML = '<p class="sgno">That doesn\'t look like a link yet. Paste the address of the show\'s page.</p>'; return c; }
   if (c.existing) {
@@ -81,7 +84,7 @@ function verdict() {
     return c;
   }
   box.innerHTML = `<p class="sgok">That looks like ${esc(c.label)}, and it isn't in the catalogue yet.</p>${c.note ? `<p class="hint">${esc(c.note)}</p>` : ''}`;
-  if (c.name && !val('sgShow')) $('sgShow').value = c.name;
+  if (c.name && !val('sgShow')) { $('sgShow').value = c.name; autoName = c.name; }
   return c;
 }
 

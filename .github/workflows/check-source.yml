@@ -29,7 +29,11 @@ jobs:
           git config user.email "gatherer@users.noreply.github.com"
           for attempt in 1 2 3 4 5; do
             python3 gatherer/check_source.py --data data
-            git add -A data/requests
+            # After a retry from the newest commit the folder may be gone entirely
+            # (every request answered and cleaned up), which git add reports as an error.
+            if [ -e data/requests ] || git ls-files --error-unmatch data/requests >/dev/null 2>&1; then
+              git add -A data/requests
+            fi
             if git diff --cached --quiet; then
               echo "Nothing to answer."
               exit 0

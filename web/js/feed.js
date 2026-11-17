@@ -180,7 +180,7 @@ function card(it, mode) {
     ${note}
     ${desc ? `<div class="txt" title="Tap to expand">${esc(desc)}</div>` : ''}
     ${links ? `<div class="links">${links}</div>` : ''}
-    ${it.image ? `<a class="pic${square ? ' sq' : ''}" href="${esc(it.url)}" target="_blank" rel="noopener"><img src="${esc(it.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>` : ''}
+    ${it.image ? `<a class="pic${square ? ' sq' : ''}" href="${esc(it.url)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="${esc(it.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>` : ''}
     ${bar}
     <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : 'Open'} ↗</a>${audio}${heart}${spotify}${share}${pickBtn}${pause}${tags || prog && prog.done ? `<span class="tag">${prog && prog.done ? '<b class="played">Played ✓</b>' + (tags ? ' · ' : '') : ''}${esc(tags)}</span>` : ''}</div>
   </article>`;
