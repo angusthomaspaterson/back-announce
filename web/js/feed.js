@@ -2,7 +2,7 @@
 // Each view has its own container, so going to a source and back leaves the feed exactly
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
 import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross, openWhere, clock, toast} from './util.js';
-import {PACKS, followedBy, isNewInCatalogue} from './packs.js';
+import {PACKS, followedBy, isNewInCatalogue, addedDate} from './packs.js';
 import {CURATOR} from './data.js';
 import {play, getProgress, enqueue, inQueue} from './player.js';
 
@@ -27,6 +27,8 @@ export const S = {
   packPick: new Set(),  // starter packs ticked on that panel
   ownerPaused: [],      // the published paused list: what Angus himself has switched off
   srcQuery: '',         // the Sources screen's search box
+  srcSort: 'latest',    // the Sources screen's order: latest | added | az | group (kept on this device)
+  srcKeep: new Set(),   // shows switched on the Sources screen: kept in view until the filter changes
   query: '',            // the Search screen
   playOnly: false,      // the feed shows only what plays in the app
   full: {},             // id -> every stored item, fetched when a show's page needs more than the bundle has
@@ -38,6 +40,8 @@ export const S = {
 /** What visitors call a source. */
 const showWord = () => S.owner ? 'Sources' : 'Shows';
 try { S.groups = JSON.parse(localStorage.getItem('ba.groups') || '{}') || {}; } catch (e) {}
+const SORTS = [['latest', 'Newest episode'], ['added', 'Recently added'], ['az', 'A to Z'], ['group', 'By category']];
+try { const s = localStorage.getItem('ba.srcSort'); if (SORTS.some(([k]) => k === s)) S.srcSort = s; } catch (e) {}
 function saveLocal() { try { localStorage.setItem('ba.groups', JSON.stringify(S.groups)); } catch (e) {} }
 
 export function cfgFor(id) { return S.sources.find(s => s.id === id) || null; }
@@ -394,12 +398,13 @@ function renderSources() {
   $('mng').innerHTML = `${O ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} ${O ? 'sources' : 'shows'} in ${O ? 'the' : 'your'} feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ''}${O ? '' : ' Your choices are kept on this device.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
     <input class="srcsearch" id="srcSearch" type="search" placeholder="Search ${total} shows" aria-label="Search shows" value="${esc(S.srcQuery)}" autocomplete="off">
     <div class="row">${views.map(([k, l]) => `<button class="chip" data-view="${k}" aria-pressed="${S.srcView === k}">${esc(l)}</button>`).join('')}</div>
+    <div class="row sortrow" role="group" aria-label="Sort shows"><span class="lbl">Sort</span>${SORTS.map(([k, l]) => `<button class="chip" data-sort="${k}" aria-pressed="${S.srcSort === k}">${esc(l)}</button>`).join('')}</div>
     <div class="row"><button class="btn" id="shareFeed" title="A link that shows someone the shows you follow">Share my feed</button>${O ? '' : `<button class="btn" id="carryLink" title="A link that brings your shows and Saved cards to another device">Take it to another device</button><button class="btn" id="openSuggest" title="Know a show that belongs here? Send ${esc(CURATOR.name.split(' ')[0])} the link">Suggest a show</button>`}${W && !O && nP ? '<button class="btn q" id="resumeAll">Resume everything</button>' : ''}</div>
-    ${O ? `<div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
+    ${O ? `<details class="bulk"${S.bulkOpen ? ' open' : ''}><summary>Bulk changes</summary><div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
       const on = b.list.filter(s => !P.has(s.id)).length;
       return (on ? `<button class="btn" data-batch="${b.k}" data-to="off">Pause the ${b.list.length} added ${esc(b.label)}</button>` : '')
         + (on < b.list.length ? `<button class="btn" data-batch="${b.k}" data-to="on">Bring back the ${b.list.length} added ${esc(b.label)}</button>` : '');
-    }).join('')}${nP ? `<button class="btn q" id="resumeAll">Resume everything</button>` : ''}</div>` : ''}`;
+    }).join('')}${nP ? `<button class="btn q" id="resumeAll">Resume everything</button>` : ''}</div></details>` : ''}`;
   renderSourceList();
 }
 
@@ -408,27 +413,42 @@ function renderSourceList() {
   const st = S.status, P = S.paused, W = S.canWrite, all = sourceList();
   const words = S.srcQuery.toLowerCase().split(/\s+/).filter(Boolean);
   const hit = s => { const hay = `${s.name} ${s.group || ''} ${kindLabel(s.kind)}`.toLowerCase(); return words.every(w => hay.includes(w)); };
-  const inView = s => S.srcView === 'all' || (S.srcView === 'new' ? isNewInCatalogue(s) : S.srcView === 'on' ? !P.has(s.id) : P.has(s.id));
-  const groups = {};
-  for (const s of all) (groups[s.group || 'Other'] = groups[s.group || 'Other'] || []).push(s);
+  // A show switched on or off here stays in the list (showing its new state) until the filter changes,
+  // so switching one back on from Paused doesn't make it vanish under your finger.
+  const inView = s => S.srcView === 'all' || S.srcKeep.has(s.id) || (S.srcView === 'new' ? isNewInCatalogue(s) : S.srcView === 'on' ? !P.has(s.id) : P.has(s.id));
+  const newestOf = s => { const d = S.feed[s.id] && S.feed[s.id].items && S.feed[s.id].items[0] && S.feed[s.id].items[0].date; return dateOk(d) ? d : ''; };
+  // One row per show. In the single list each row names its category; under a category heading it doesn't need to.
+  const row = (s, withGroup) => {
+    const g = s.group || 'Other', ss = (st && st.sources && st.sources[s.id]) || {}, doc = S.feed[s.id], off = P.has(s.id);
+    const newest = newestOf(s), latest = newest ? sfmt.format(new Date(newest)) : '';
+    // Angus sees failures; a visitor sees the newest episode, or where to go instead.
+    const stTxt = S.owner
+      ? (ss.linkOnly ? 'link only' : ss.ok === false ? 'failed' : ss.ok === true || doc ? (latest || 'no items') : 'pending')
+      : (ss.linkOnly ? 'visit site' : latest || '—');
+    const about = S.owner ? '' : aboutOf(s.id);
+    const cat = withGroup ? `<span class="cat"><span class="sw"></span>${esc(g)}</span> · ` : '';
+    const m = cat + (S.owner ? `${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}` : esc(about.length > 110 ? about.slice(0, 107).replace(/\s+\S*$/, '') + '…' : about || kindLabel(s.kind)));
+    return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · paused' : ''}</div></div>`;
+  };
   let html = '';
-  for (const g of Object.keys(groups).sort()) {
-    const list = groups[g].filter(s => inView(s) && hit(s));
-    if (!list.length) continue;
-    const gOn = groups[g].filter(s => !P.has(s.id)).length;
-    html += `<div class="sgh" style="--sc:${gcol(g)}"><h3><span class="sw"></span>${esc(g)}</h3><span class="c">${gOn}/${groups[g].length} on</span>${W ? `<button class="btn" data-grp="${esc(g)}" data-to="${gOn ? 'off' : 'on'}">${gOn ? 'Pause group' : 'Resume group'}</button>` : ''}</div>`;
-    html += list.map(s => {
-      const ss = (st && st.sources && st.sources[s.id]) || {}, doc = S.feed[s.id], off = P.has(s.id);
-      const newest = doc && doc.items && doc.items[0] && doc.items[0].date;
-      const latest = dateOk(newest) ? sfmt.format(new Date(newest)) : '';
-      // Angus sees failures; a visitor sees the newest episode, or where to go instead.
-      const stTxt = S.owner
-        ? (ss.linkOnly ? 'link only' : ss.ok === false ? 'failed' : ss.ok === true || doc ? (latest || 'no items') : 'pending')
-        : (ss.linkOnly ? 'visit site' : latest || '—');
-      const about = S.owner ? '' : aboutOf(s.id);
-      const m = S.owner ? `${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}` : esc(about.length > 110 ? about.slice(0, 107).replace(/\s+\S*$/, '') + '…' : about || kindLabel(s.kind));
-      return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · paused' : ''}</div></div>`;
-    }).join('');
+  if (S.srcSort === 'group') {
+    const groups = {};
+    for (const s of all) (groups[s.group || 'Other'] = groups[s.group || 'Other'] || []).push(s);
+    for (const g of Object.keys(groups).sort()) {
+      const list = groups[g].filter(s => inView(s) && hit(s));
+      if (!list.length) continue;
+      const gOn = groups[g].filter(s => !P.has(s.id)).length;
+      html += `<div class="sgh" style="--sc:${gcol(g)}"><h3><span class="sw"></span>${esc(g)}</h3><span class="c">${gOn}/${groups[g].length} on</span>${W ? `<button class="btn" data-grp="${esc(g)}" data-to="${gOn ? 'off' : 'on'}">${gOn ? 'Pause group' : 'Resume group'}</button>` : ''}</div>`;
+      html += list.map(s => row(s, false)).join('');
+    }
+  } else {
+    // A single list: newest episode first (quiet shows sink), most recently added first, or A to Z.
+    const byName = (a, b) => a.name.localeCompare(b.name, 'en', {sensitivity: 'base'});
+    const added = s => { const d = addedDate(s.added); return d ? d.getTime() : 0; };
+    const order = S.srcSort === 'az' ? byName
+      : S.srcSort === 'added' ? (a, b) => added(b) - added(a) || byName(a, b)
+      : (a, b) => newestOf(b).localeCompare(newestOf(a)) || byName(a, b);
+    html = all.filter(s => inView(s) && hit(s)).sort(order).map(s => row(s, true)).join('');
   }
   $('sources').innerHTML = html || empty(words.length ? `No shows match "${esc(S.srcQuery)}".` : 'Nothing here.');
 }
@@ -523,14 +543,21 @@ export function wire() {
     else if (b.id === 'openSuggest') S.onNavigate('#suggest');
     else if (b.id === 'shareFeed') S.onShareSetup('feed');
     else if (b.id === 'carryLink') S.onShareSetup('setup');
-    else if (b.dataset.view) { S.srcView = b.dataset.view; rendered.sources = false; show(); }
+    else if (b.dataset.view) { S.srcView = b.dataset.view; S.srcKeep.clear(); rendered.sources = false; show(); }
+    else if (b.dataset.sort) {
+      S.srcSort = b.dataset.sort; try { localStorage.setItem('ba.srcSort', S.srcSort); } catch (e) {}
+      for (const c of document.querySelectorAll('#mng [data-sort]')) c.setAttribute('aria-pressed', c.dataset.sort === S.srcSort);
+      renderSourceList();
+    }
     else if (b.id === 'slim') { const ids = all.filter(s => s.added && s.added !== 'start' && !P.has(s.id)).map(s => s.id); S.onPause(ids, true, `Paused ${ids.length} sources`); }
     else if (b.dataset.batch) { const off = b.dataset.to === 'off'; const ids = all.filter(s => s.added === b.dataset.batch && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${ids.length} sources`); }
     else if (b.id === 'resumeAll') { const ids = [...P]; S.onPause(ids, false, `Resumed ${ids.length} sources`); }
-    else if (b.dataset.sid) S.onPause([b.dataset.sid], b.getAttribute('aria-checked') === 'true', null);
+    else if (b.dataset.sid) { S.srcKeep.add(b.dataset.sid); S.onPause([b.dataset.sid], b.getAttribute('aria-checked') === 'true', null); }
     else if (b.dataset.grp) { const off = b.dataset.to === 'off'; const ids = all.filter(s => (s.group || 'Other') === b.dataset.grp && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${b.dataset.grp} (${ids.length})`); }
     else if (b.dataset.src) S.onNavigate('#source/' + encodeURIComponent(b.dataset.src));
   });
+  // Bulk changes stays open across the redraw that follows one of its buttons.
+  $('sourcesView').addEventListener('toggle', e => { if (e.target.classList && e.target.classList.contains('bulk')) S.bulkOpen = e.target.open; }, true);
   $('sourcesView').addEventListener('input', e => { if (e.target.id === 'srcSearch') { S.srcQuery = e.target.value; renderSourceList(); } });
 
   $('welcome').addEventListener('click', e => {
