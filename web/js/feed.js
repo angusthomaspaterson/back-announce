@@ -29,6 +29,9 @@ export const S = {
   srcQuery: '',         // the Sources screen's search box
   srcSort: 'latest',    // the Sources screen's order: latest | added | az | group (kept on this device)
   srcKeep: new Set(),   // shows switched on the Sources screen: kept in view until the filter changes
+  offSort: 'paused',    // the order of the Paused list: most recently paused first unless another is picked
+  pausedAt: {},         // source id -> when it was paused (for sources paused since 17 Nov 2026)
+  keepWhen: {},         // the pause time a row had when it was switched here, so it keeps its place
   query: '',            // the Search screen
   playOnly: false,      // the feed shows only what plays in the app
   full: {},             // id -> every stored item, fetched when a show's page needs more than the bundle has
@@ -41,6 +44,15 @@ export const S = {
 const showWord = () => S.owner ? 'Sources' : 'Shows';
 try { S.groups = JSON.parse(localStorage.getItem('ba.groups') || '{}') || {}; } catch (e) {}
 const SORTS = [['latest', 'Newest episode'], ['added', 'Recently added'], ['az', 'A to Z'], ['group', 'By category']];
+// The Paused list adds "Recently paused" and opens with it, so what you just paused is at the top.
+const sortChoices = () => S.srcView === 'off' ? [['paused', 'Recently paused'], ...SORTS] : SORTS;
+const sortNow = () => S.srcView === 'off' ? S.offSort : S.srcSort;
+/** "paused today", "paused 15 Nov", or just "paused" for sources paused before times were kept. */
+function pausedLabel(id) {
+  const at = S.pausedAt && S.pausedAt[id];
+  if (!dateOk(at)) return 'paused';
+  return dkey.format(new Date(at)) === dkey.format(new Date()) ? 'paused today' : 'paused ' + sfmt.format(new Date(at));
+}
 try { const s = localStorage.getItem('ba.srcSort'); if (SORTS.some(([k]) => k === s)) S.srcSort = s; } catch (e) {}
 function saveLocal() { try { localStorage.setItem('ba.groups', JSON.stringify(S.groups)); } catch (e) {} }
 
@@ -306,7 +318,9 @@ function renderFilters(items, saved) {
     + (inSaved ? '' : `<button class="chip playchip" id="playOnly" aria-pressed="${S.playOnly}" title="Only what plays here, in the app">▶ Plays here</button>`)
     + groups.filter(g => counts[g]).map(g => `<button class="chip" data-g="${esc(g)}" aria-pressed="${S.groups[g]}" style="--sc:${gcol(g)}"><span class="sw"></span>${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join('')
     + (inSaved || !W ? '' : `<button class="chip act" id="markSeen">Mark all seen${newCount ? ' (' + newCount + ')' : ''}</button>`)
-    + `<button class="chip src${inSaved || !W ? ' act' : ''}" id="openSrc">${showWord()}${S.paused.size ? ' · ' + S.paused.size + ' paused' : ''}</button>`;
+    + `<button class="chip src${inSaved || !W ? ' act' : ''}" id="openSrc">${showWord()}</button>`
+    // Straight to the Paused list, newest first: the way back to something just paused.
+    + (S.paused.size && !inSaved ? `<button class="chip src" id="openPaused" title="The ${showWord().toLowerCase()} you've paused, most recent first">${S.paused.size} paused</button>` : '');
 }
 function countNew(items) { return items.filter(i => !i.linkOnly && dateOk(i.date) && (!S.lastSeen || i.date > S.lastSeen)).length; }
 
@@ -398,7 +412,7 @@ function renderSources() {
   $('mng').innerHTML = `${O ? '<button class="btn p addbtn" id="openAdd">+ Add source</button>' : ''}<div class="sum"><b>${total - nP}</b> of ${total} ${O ? 'sources' : 'shows'} in ${O ? 'the' : 'your'} feed.${W ? ' Switch any off to pause it; switch it back on whenever you like.' : ''}${O ? '' : ' Your choices are kept on this device.'}${S.syncError ? ` <span class="bad">${esc(S.syncError)}</span>` : ''}</div>
     <input class="srcsearch" id="srcSearch" type="search" placeholder="Search ${total} shows" aria-label="Search shows" value="${esc(S.srcQuery)}" autocomplete="off">
     <div class="row">${views.map(([k, l]) => `<button class="chip" data-view="${k}" aria-pressed="${S.srcView === k}">${esc(l)}</button>`).join('')}</div>
-    <div class="row sortrow" role="group" aria-label="Sort shows"><span class="lbl">Sort</span>${SORTS.map(([k, l]) => `<button class="chip" data-sort="${k}" aria-pressed="${S.srcSort === k}">${esc(l)}</button>`).join('')}</div>
+    <div class="row sortrow" role="group" aria-label="Sort shows"><span class="lbl">Sort</span>${sortChoices().map(([k, l]) => `<button class="chip" data-sort="${k}" aria-pressed="${sortNow() === k}">${esc(l)}</button>`).join('')}</div>
     <div class="row"><button class="btn" id="shareFeed" title="A link that shows someone the shows you follow">Share my feed</button>${O ? '' : `<button class="btn" id="carryLink" title="A link that brings your shows and Saved cards to another device">Take it to another device</button><button class="btn" id="openSuggest" title="Know a show that belongs here? Send ${esc(CURATOR.name.split(' ')[0])} the link">Suggest a show</button>`}${W && !O && nP ? '<button class="btn q" id="resumeAll">Resume everything</button>' : ''}</div>
     ${O ? `<details class="bulk"${S.bulkOpen ? ' open' : ''}><summary>Bulk changes</summary><div class="row">${start.length && extraOn ? `<button class="btn" id="slim">Keep only my original ${start.length}</button>` : ''}${batches.map(b => {
       const on = b.list.filter(s => !P.has(s.id)).length;
@@ -428,10 +442,11 @@ function renderSourceList() {
     const about = S.owner ? '' : aboutOf(s.id);
     const cat = withGroup ? `<span class="cat"><span class="sw"></span>${esc(g)}</span> · ` : '';
     const m = cat + (S.owner ? `${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}` : esc(about.length > 110 ? about.slice(0, 107).replace(/\s+\S*$/, '') + '…' : about || kindLabel(s.kind)));
-    return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · paused' : ''}</div></div>`;
+    return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · ' + esc(pausedLabel(s.id)) : ''}</div></div>`;
   };
   let html = '';
-  if (S.srcSort === 'group') {
+  const how = sortNow();
+  if (how === 'group') {
     const groups = {};
     for (const s of all) (groups[s.group || 'Other'] = groups[s.group || 'Other'] || []).push(s);
     for (const g of Object.keys(groups).sort()) {
@@ -445,8 +460,11 @@ function renderSourceList() {
     // A single list: newest episode first (quiet shows sink), most recently added first, or A to Z.
     const byName = (a, b) => a.name.localeCompare(b.name, 'en', {sensitivity: 'base'});
     const added = s => { const d = addedDate(s.added); return d ? d.getTime() : 0; };
-    const order = S.srcSort === 'az' ? byName
-      : S.srcSort === 'added' ? (a, b) => added(b) - added(a) || byName(a, b)
+    // A row switched here keeps the place it had, so it doesn't jump away while you look at it.
+    const pausedWhen = s => (s.id in S.keepWhen ? S.keepWhen[s.id] : S.pausedAt && S.pausedAt[s.id]) || '';
+    const order = how === 'az' ? byName
+      : how === 'added' ? (a, b) => added(b) - added(a) || byName(a, b)
+      : how === 'paused' ? (a, b) => pausedWhen(b).localeCompare(pausedWhen(a)) || byName(a, b)
       : (a, b) => newestOf(b).localeCompare(newestOf(a)) || byName(a, b);
     html = all.filter(s => inView(s) && hit(s)).sort(order).map(s => row(s, true)).join('');
   }
@@ -526,7 +544,10 @@ export function wire() {
     else if (b.id === 'savedView') S.onNavigate(S.view === 'saved' ? '#feed' : '#saved');
     else if (b.id === 'picksView') S.onNavigate(S.view === 'picks' ? '#feed' : '#picks');
     else if (b.id === 'markSeen') S.onMarkSeen();
-    else if (b.id === 'openSrc') S.onNavigate('#sources');
+    else if (b.id === 'openSrc' || b.id === 'openPaused') {
+      S.srcView = b.id === 'openPaused' ? 'off' : 'all'; S.offSort = 'paused'; S.srcKeep.clear(); S.keepWhen = {};
+      rendered.sources = false; S.onNavigate('#sources');
+    }
   });
 
   $('srcHead').addEventListener('click', e => {
@@ -543,16 +564,18 @@ export function wire() {
     else if (b.id === 'openSuggest') S.onNavigate('#suggest');
     else if (b.id === 'shareFeed') S.onShareSetup('feed');
     else if (b.id === 'carryLink') S.onShareSetup('setup');
-    else if (b.dataset.view) { S.srcView = b.dataset.view; S.srcKeep.clear(); rendered.sources = false; show(); }
+    else if (b.dataset.view) { S.srcView = b.dataset.view; S.srcKeep.clear(); S.keepWhen = {}; rendered.sources = false; show(); }
     else if (b.dataset.sort) {
-      S.srcSort = b.dataset.sort; try { localStorage.setItem('ba.srcSort', S.srcSort); } catch (e) {}
-      for (const c of document.querySelectorAll('#mng [data-sort]')) c.setAttribute('aria-pressed', c.dataset.sort === S.srcSort);
+      // The Paused list keeps its own order for this visit; the main list's order is kept on the device.
+      if (S.srcView === 'off') S.offSort = b.dataset.sort;
+      else { S.srcSort = b.dataset.sort; try { localStorage.setItem('ba.srcSort', S.srcSort); } catch (e) {} }
+      for (const c of document.querySelectorAll('#mng [data-sort]')) c.setAttribute('aria-pressed', c.dataset.sort === sortNow());
       renderSourceList();
     }
     else if (b.id === 'slim') { const ids = all.filter(s => s.added && s.added !== 'start' && !P.has(s.id)).map(s => s.id); S.onPause(ids, true, `Paused ${ids.length} sources`); }
     else if (b.dataset.batch) { const off = b.dataset.to === 'off'; const ids = all.filter(s => s.added === b.dataset.batch && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${ids.length} sources`); }
     else if (b.id === 'resumeAll') { const ids = [...P]; S.onPause(ids, false, `Resumed ${ids.length} sources`); }
-    else if (b.dataset.sid) { S.srcKeep.add(b.dataset.sid); S.onPause([b.dataset.sid], b.getAttribute('aria-checked') === 'true', null); }
+    else if (b.dataset.sid) { const id = b.dataset.sid; S.srcKeep.add(id); if (!(id in S.keepWhen)) S.keepWhen[id] = (S.pausedAt && S.pausedAt[id]) || '';S.onPause([b.dataset.sid], b.getAttribute('aria-checked') === 'true', null); }
     else if (b.dataset.grp) { const off = b.dataset.to === 'off'; const ids = all.filter(s => (s.group || 'Other') === b.dataset.grp && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${b.dataset.grp} (${ids.length})`); }
     else if (b.dataset.src) S.onNavigate('#source/' + encodeURIComponent(b.dataset.src));
   });

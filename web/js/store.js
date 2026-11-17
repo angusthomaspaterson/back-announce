@@ -38,24 +38,34 @@ const same = (a, b) => serialise(a) === serialise(b);
 // ---- the state document and the operations on it ----
 export function normalise(s) {
   s = s && typeof s === 'object' ? s : {};
-  return {
-    ...s,
-    paused: Array.isArray(s.paused) ? [...new Set(s.paused)].sort() : [],
-    saved: s.saved && typeof s.saved === 'object' ? {...s.saved} : {},
-    lastSeen: s.lastSeen || null,
-  };
+  const paused = Array.isArray(s.paused) ? [...new Set(s.paused)].sort() : [];
+  const out = {...s, paused, saved: s.saved && typeof s.saved === 'object' ? {...s.saved} : {}, lastSeen: s.lastSeen || null};
+  // When each source was paused, so the Paused list can show the latest first. Kept only for
+  // sources still paused, and left out entirely when there are none (older files have none).
+  const at = pausedTimes(s.pausedAt, paused);
+  if (at) out.pausedAt = at; else delete out.pausedAt;
+  return out;
+}
+function pausedTimes(at, paused) {
+  const out = {};
+  if (at && typeof at === 'object') for (const id of paused) if (typeof at[id] === 'string') out[id] = at[id];
+  return Object.keys(out).length ? out : null;
 }
 /** Apply queued operations to a state document, returning a new one. */
 export function applyOps(state, ops) {
   const s = normalise(state);
-  const paused = new Set(s.paused);
+  const paused = new Set(s.paused), at = {...(s.pausedAt || {})};
   for (const op of ops) {
-    if (op.t === 'pause') for (const id of op.ids) { if (op.off) paused.add(id); else paused.delete(id); }
+    if (op.t === 'pause') for (const id of op.ids) {
+      if (op.off) { paused.add(id); if (op.at) at[id] = op.at; } else { paused.delete(id); delete at[id]; }
+    }
     else if (op.t === 'save') s.saved[op.key] = op.card;
     else if (op.t === 'unsave') delete s.saved[op.key];
     else if (op.t === 'seen') s.lastSeen = op.at || null;
   }
   s.paused = [...paused].sort();
+  const times = pausedTimes(at, s.paused);
+  if (times) s.pausedAt = times; else delete s.pausedAt;
   return s;
 }
 export function commitMessage(batch, source = 'web') {

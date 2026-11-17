@@ -71,6 +71,17 @@ const tests = {
     eq(Object.keys(s.saved), ['x:2'], 'saved keys');
     eq(s.lastSeen, '2026-10-13T00:00:00Z', 'lastSeen');
   },
+  'applyOps records when each source was paused, and forgets it on resume'() {
+    const s = applyOps({paused: ['old'], saved: {}, lastSeen: null}, [
+      {t: 'pause', ids: ['a'], off: true, at: '2026-11-17T01:00:00Z'},
+      {t: 'pause', ids: ['b'], off: true, at: '2026-11-17T02:00:00Z'},
+      {t: 'pause', ids: ['b'], off: false, at: '2026-11-17T03:00:00Z'},
+      {t: 'pause', ids: ['c'], off: true}]);
+    eq(s.paused, ['a', 'c', 'old'], 'paused list unchanged in shape');
+    eq(s.pausedAt, {a: '2026-11-17T01:00:00Z'}, 'times kept only for paused sources that have one');
+    eq('pausedAt' in applyOps({paused: []}, []), false, 'no empty pausedAt in older files');
+    eq(normalise({paused: ['x'], pausedAt: {x: '2026-11-17T00:00:00Z', gone: '2026-11-01T00:00:00Z'}}).pausedAt, {x: '2026-11-17T00:00:00Z'}, 'stale times dropped');
+  },
   'serialise sorts keys and matches the gatherer layout'() {
     eq(serialise({b: 1, a: {d: 2, c: 3}}), '{\n "a": {\n  "c": 3,\n  "d": 2\n },\n "b": 1\n}\n', 'layout');
   },

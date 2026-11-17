@@ -108,7 +108,7 @@ function sourceAdded(entry) {
 function rerender() { if (!$('feed').hidden) renderFeed(); else invalidate(); }
 
 // ---- state from the store ----
-function applyState(v) { S.paused = new Set(v.paused || []); S.saved = v.saved || {}; S.lastSeen = v.lastSeen || null; }
+function applyState(v) { S.paused = new Set(v.paused || []); S.pausedAt = v.pausedAt || {}; S.saved = v.saved || {}; S.lastSeen = v.lastSeen || null; }
 function syncFromStore(kind) {
   if (store.hasToken()) {
     const st = store.status();
@@ -135,8 +135,8 @@ S.onPause = (ids, off, msg) => {
   ids = ids.filter(id => S.paused.has(id) !== off);
   if (!ids.length) return;
   const label = ids.length === 1 ? nameOf(ids[0]) : `${ids.length} ${S.owner ? 'sources' : 'shows'}`;
-  q({t: 'pause', ids, off, msg: `${off ? 'pause' : 'resume'} ${label}`});
-  if (msg) toast(msg, () => q({t: 'pause', ids, off: !off, msg: `undo: ${off ? 'resume' : 'pause'} ${label}`}));
+  q({t: 'pause', ids, off, at: new Date().toISOString(), msg: `${off ? 'pause' : 'resume'} ${label}`});
+  if (msg) toast(msg, () => q({t: 'pause', ids, off: !off, at: new Date().toISOString(), msg: `undo: ${off ? 'resume' : 'pause'} ${label}`}));
 };
 S.onSave = it => {
   const key = findSavedKey(it);
