@@ -18,11 +18,11 @@
   {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qc/Z/ki.aac",
    "date": "2026-11-12T08:00:00Z",
-   "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 12 Dec. Tracklist: Sycco – I've Loved and I've Lost; Genesis Owusu – DEATH CULT ZOMBIE; Middle Kids – big freak; Sweatbaby & DEVAURA – YOU MAKE ME; Lara Buchanan – For Some Forsaken Reason; Beddy Rays – Morning Light; Swapmeet – Halfway; Troye Sivan – FF; Yes Boone – Supernova; Tkay Maidza – Kill Bill [triple j Like A Version 2023]; Ninajirachi – delete; JUPiTA – BUCK!; Cherry Chola & Chico Sonido – The Pink Room; Kook Joey – Forget Me Not; Stand Atlantic – NEXT2U; Odette – Gills; Ruby Rodger…",
+   "desc": "Closing out another week of Home and Hosed, we've got an interview with Cherry Chola, and a brand new first play from Lara Buchanan !! Available until 12 Dec. Tracklist: Sycco – I've Loved and I've Lost; Genesis Owusu – DEATH CULT ZOMBIE; Middle Kids – big freak; Sweatbaby & DEVAURA – YOU MAKE ME; Lara Buchanan – For Some Forsaken Reason; Beddy Rays – Morning Light; Swapmeet – Halfway; Troye Sivan – FF; Yes Boone – Supernova; Tkay Maidza – Kill Bill [triple j Like A Version 2023]; Ninajirachi – delete; JUPiTA – BUCK!; Cherry Chola & Chico Sonido – The Pink Room; Kook Joey – Forget Me Not; Sta…",
    "duration": "7200",
    "id": "107358404",
-   "image": "https://live-production.wcms.abc-cdn.net.au/e53a18092190656f98b05e2e56c91fe4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
-   "title": "Home and Hosed, 12 Nov",
+   "image": "https://live-production.wcms.abc-cdn.net.au/d77468d8916d8a8a8363ed685c7af605?impolicy=wcms_crop_resize&cropH=2653&cropW=4717&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "Home and Hosed: First Play from Lara Buchanan",
    "until": "2026-12-12T08:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107358404"
   },
@@ -117,5 +117,5 @@
  ],
  "kind": "abc",
  "name": "Home and Hosed with Anika Luna",
- "updatedAt": "2026-11-16T13:10:43Z"
+ "updatedAt": "2026-11-17T02:29:49Z"
 }

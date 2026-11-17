@@ -5,6 +5,16 @@
  "id": "popcast",
  "items": [
   {
+   "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/c1230d1c-2067-42e3-b1e9-2bfda9f0a95d/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=c1230d1c-2067-42e3-b1e9-2bfda9f0a95d&feed=TzbxCT1l",
+   "date": "2026-11-17T00:05:00Z",
+   "desc": "On Monday, the Recording Academy announced the nominations for the 2027 Grammy Awards. Rosalía, Olivia Rodrigo, Ella Langley, Phoebe Bridgers and Raye are among the top nominees. Joe and Jon discuss their five biggest takeaways across the categories and share their personal pleasant surprises.   Subscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher . For more podcasts and narrated articles, download The New York Times app at nytimes.com/ap…",
+   "duration": "00:47:47",
+   "id": "0bae3b9d-7813-40a1-a538-2a55fd960ff0",
+   "image": "https://image.simplecastcdn.com/images/b570f4e2-2ec9-4f50-90e8-55519f0f2550/39feb56f-b088-4108-af12-f7ff6b413e62/3000x3000/cropped_1791476779087.jpg?aid=rss_feed",
+   "title": "5 Takeaways from the 2027 Grammy Nominations",
+   "url": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+  },
+  {
    "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/def0adb4-ef95-4e6d-903b-f263d341bc70/audio/128/default.mp3?aid=rss_feed&awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&awEpisodeId=def0adb4-ef95-4e6d-903b-f263d341bc70&feed=TzbxCT1l",
    "date": "2026-11-13T10:00:00Z",
    "desc": "Offset, who rose to fame alongside Quavo and Takeoff in the superstar Atlanta rap trio Migos, was one of the artists who remade the sound of hip-hop at the dawn of streaming in the 2010s and helped cement Atlanta as a center of rap innovation and success. He sat down with Joe and Jon to chat about musicmaking – his new solo album, “GMFU,” is out Nov. 13 – as well as some of his personal foibles and setbacks that have kept him in the public eye: his marriage to and split from Cardi B, getting shot outside a Florida casino and the 2022 murder of his close friend and collaborator Takeoff. Offset…",
@@ -27,5 +37,5 @@
  ],
  "kind": "rss",
  "name": "Popcast (New York Times)",
- "updatedAt": "2026-11-14T00:21:30Z"
+ "updatedAt": "2026-11-17T02:29:49Z"
 }

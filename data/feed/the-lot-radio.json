@@ -5,6 +5,16 @@
  "id": "the-lot-radio",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2439630360-thelotradio-darker-than-wax-fm-invites-7.mp3",
+   "date": "2026-11-16T22:30:11Z",
+   "desc": "diedforthis steps up into the booth and holds down the show this week as our guest. https://www.instagram.com/diedforthis https://www.instagram.com/darkerthanwa",
+   "duration": "01:55:21",
+   "id": "tag:soundcloud-2010:tracks-2439630360",
+   "image": "https://i1.sndcdn.com/artworks-qd7UkWu3S55fBWQ2-y5MtfQ-t3000x3000.jpg",
+   "title": "Darker Than Wax FM invites diedforthis @ The Lot Radio 11-07-2026",
+   "url": "https://soundcloud.com/thelotradio/darker-than-wax-fm-invites-7"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2407193133-thelotradio-sweet-abyss-with-kiernan-6.mp3",
    "date": "2026-09-24T19:23:46Z",
    "desc": "Sweet Abyss’ own damsel of distress Kiernan Laveaux plays 2 hours of music written/performed by beloved electronic musician Jean-Louis Huhta, spanning almost 40 years of music between post-punk, tech house, dub, acid, experimental dance scores, & beyond.",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-0TmN9eoJZ1vxHaZm-jBm2Yg-t3000x3000.png",
    "title": "Neon Indian @ The Lot Radio 04-04-2026",
    "url": "https://soundcloud.com/thelotradio/neon-indian-the-lot-radio-04"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2298203609-thelotradio-din-the-lot-radio-04-04-2026.mp3",
-   "date": "2026-04-07T15:30:36Z",
-   "desc": "Tunes with Din. https://www.instagram.com/din_discovery_channel",
-   "duration": "00:55:38",
-   "id": "tag:soundcloud-2010:tracks-2298203609",
-   "image": "https://i1.sndcdn.com/artworks-txtOM7gYTPXDTzAs-9y3zQg-t3000x3000.png",
-   "title": "Din . @ The Lot Radio 04-04-2026",
-   "url": "https://soundcloud.com/thelotradio/din-the-lot-radio-04-04-2026"
   }
  ],
  "kind": "rss",
  "name": "The Lot Radio (selected shows)",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-17T02:29:49Z"
 }

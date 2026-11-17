@@ -1,6 +1,47 @@
 {
  "items": [
   {
+   "d": "2026-11-17T00:05:00Z",
+   "g": "Podcasts",
+   "s": "Popcast (New York Times)",
+   "sid": "popcast",
+   "sp": "Popcast (New York Times) 5 Takeaways from the 2027 Grammy Nominations",
+   "t": "5 Takeaways from the 2027 Grammy Nominations",
+   "u": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+  },
+  {
+   "d": "2026-11-17T00:00:00Z",
+   "g": "Progressive",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "Pole Folder: Live from Balance Croatia 2026",
+   "u": "https://soundcloud.com/balance-series/pole-folder-balance-2026"
+  },
+  {
+   "d": "2026-11-16T22:30:11Z",
+   "g": "Mixes",
+   "s": "The Lot Radio (selected shows)",
+   "sid": "the-lot-radio",
+   "t": "Darker Than Wax FM invites diedforthis @ The Lot Radio 11-07-2026",
+   "u": "https://soundcloud.com/thelotradio/darker-than-wax-fm-invites-7"
+  },
+  {
+   "d": "2026-11-16T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Classic Essential Mix",
+   "sid": "bbc-radio-1s-classic-essential-mix",
+   "t": "Job Jobse 2022",
+   "u": "https://www.bbc.co.uk/sounds/play/m00251s5"
+  },
+  {
+   "d": "2026-11-16T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Future Artists with Sian Eleri",
+   "sid": "bbc-radio-1s-future-artists-with-sian-eleri",
+   "t": "Live music from Aaron Rowe",
+   "u": "https://www.bbc.co.uk/sounds/play/m00342nn"
+  },
+  {
    "d": "2026-11-16T20:02:42Z",
    "g": "Writing",
    "s": "First Floor",
@@ -120,50 +161,10 @@
    "sid": "bbc-pete-tongs-hot-mix",
    "t": "Adam Beyer",
    "u": "https://www.bbc.co.uk/sounds/play/m003427y"
-  },
-  {
-   "d": "2026-11-15T03:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Classic Essential Mix",
-   "sid": "bbc-radio-1s-classic-essential-mix",
-   "t": "Studio Barnhus 2020",
-   "u": "https://www.bbc.co.uk/sounds/play/m003427t"
-  },
-  {
-   "d": "2026-11-15T01:00:00Z",
-   "g": "BBC",
-   "s": "SHERELLE",
-   "sid": "bbc-sherelle",
-   "t": "The Sweatbox - with Dave Angel",
-   "u": "https://www.bbc.co.uk/sounds/play/m00341jr"
-  },
-  {
-   "d": "2026-11-15T01:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Drum & Bass Show",
-   "sid": "bbc-radio-1s-drum-and-bass-show",
-   "t": "Boomtown special with Charlie Tee",
-   "u": "https://www.bbc.co.uk/sounds/play/m00300xz"
-  },
-  {
-   "d": "2026-11-15T00:30:00Z",
-   "g": "BBC",
-   "s": "SHERELLE",
-   "sid": "bbc-sherelle",
-   "t": "Down deep",
-   "u": "https://www.bbc.co.uk/sounds/play/m00341jp"
-  },
-  {
-   "d": "2026-11-14T23:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1 Dance Drum & Bass Mix",
-   "sid": "bbc-radio-1-dance-drum-and-bass-mix",
-   "t": "DNB60",
-   "u": "https://www.bbc.co.uk/sounds/play/m003427p"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
- "newCount": 675,
+ "newCount": 674,
  "paused": 23,
  "releases": [
   {
@@ -254,5 +255,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-16T21:30:10Z"
+ "updated": "2026-11-17T02:29:49Z"
 }

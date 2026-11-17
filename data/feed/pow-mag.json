@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-16T20:27:18Z",
+   "desc": "Customer Service is a weekly feature to help you cut through the digital weeds and find the music you want.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-the-new-album-you-need-to-hear-this",
+   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/VJk84rJ2sIE",
+   "title": "The New Album You Need to Hear This Week",
+   "url": "https://www.powmag.net/p/the-new-album-you-need-to-hear-this"
+  },
+  {
+   "audio": null,
    "date": "2026-11-14T18:13:12Z",
    "desc": "The Rap-Up considers the most notable singles of the past week. Today, Steven Louis reviews new work from Boss Hogg Outlawz, Chingy, and Fat Joe, plus Wiki’s freestyle and Bktherula’s fever dream.",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!KCfr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24319fdb-8343-4949-8a69-ee1437487b22_1200x1200.png",
    "title": "The Man Who Maintains Hip-Hop History",
    "url": "https://www.powmag.net/p/ralph-mcdaniels-video-music-box-interview"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-22T18:28:16Z",
-   "desc": "Amy Winehouse’s masterpiece is a reminder of the way brilliant women have been misunderstood, exploited, and dismissed.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-amy-winehouse-back-to-black-review",
-   "image": "https://substackcdn.com/image/fetch/$s_!aVka!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff19deeac-6645-440c-877f-20decba9bccd_1200x1200.png",
-   "title": "I Don’t Think It’s Funny: Back to Black at 20",
-   "url": "https://www.powmag.net/p/amy-winehouse-back-to-black-review"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-14T23:00:15Z"
+ "updatedAt": "2026-11-17T02:29:49Z"
 }
