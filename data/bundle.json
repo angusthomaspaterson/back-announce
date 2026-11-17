@@ -64,20 +64,10 @@
      "image": "https://i1.sndcdn.com/artworks-gfQnkyy901XuI9jC-MNxTcQ-t3000x3000.jpg",
      "title": "Mark Dempster | Rituals 19",
      "url": "https://soundcloud.com/21cprogressivehouse/mark-dempster-rituals-19"
-    },
-    {
-     "audio": "https://feeds.soundcloud.com/stream/2410832688-21cprogressivehouse-ben-wooding-the-racket-club.mp3",
-     "date": "2026-10-03T02:32:50Z",
-     "desc": "The Racket Club welcomes Ben Wooding, a young UK DJ and producer whose mix brings complex textures, personality and character to the fore. Moving from deep, darker house through melody and groove driven prog, with a generous serving of breaks, Ben combines ambitious selection with detailed programming and precise execution. Brilliantly arranged, the mix unfolds with fluency and purpose, delivering a sonic breadth that makes this an exciting introduction to an emerging artist. 1. UNKLE - In a State (Framewerk Poolside Rewerk) [Not on Label] 2. stereo mind - Emotions Offline [Centrik Records] 3…",
-     "duration": "01:53:18",
-     "id": "tag:soundcloud-2010:tracks-2410832688",
-     "image": "https://i1.sndcdn.com/artworks-mb8fwW5tkHYPxVSN-kz79JQ-t3000x3000.jpg",
-     "title": "Ben Wooding | The Racket Club",
-     "url": "https://soundcloud.com/21cprogressivehouse/ben-wooding-the-racket-club"
     }
    ],
    "kind": "rss",
-   "more": 18,
+   "more": 19,
    "name": "21C Progressive House",
    "updatedAt": "2026-11-11T00:04:30Z"
   },
@@ -3645,20 +3635,10 @@
      "image": "https://www.omnycontent.com/d/programs/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/image.jpg?t=1593187402&size=Large",
      "title": "Sunset with Dot Zip - 2026-10-10",
      "url": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-10"
-    },
-    {
-     "audio": "https://traffic.omny.fm/d/clips/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/b0e3a23d-e4c5-4476-9528-b4d800a6b702/audio.mp3?utm_source=Podcast&in_playlist=ee5e3ae0-4d35-419d-97e6-abe601089925",
-     "date": "2026-10-03T10:15:41Z",
-     "desc": "See omnystudio.com/listener for privacy information.",
-     "duration": "7200",
-     "id": "b0e3a23d-e4c5-4476-9528-b4d800a6b702",
-     "image": "https://www.omnycontent.com/d/programs/02b00798-16d7-4067-89ac-aba000ffd8cb/37e12d66-96eb-4982-83cc-abe601086736/image.jpg?t=1593187402&size=Large",
-     "title": "Sunset with Dot Zip - 2026-10-3",
-     "url": "https://omny.fm/shows/sunset-saturday/sunset-with-dot-zip-2026-10-3"
     }
    ],
    "kind": "rss",
-   "more": 18,
+   "more": 19,
    "name": "FBi Sunset (club and bass)",
    "updatedAt": "2026-11-14T23:00:15Z"
   },
@@ -3667,6 +3647,20 @@
    "home": "https://firstfloor.substack.com/",
    "id": "first-floor",
    "items": [
+    {
+     "date": "2026-11-17T19:05:44Z",
+     "desc": "QB-1 – Pulseworks (Clone Royal Oak)",
+     "id": "rollup-2026-11-17",
+     "image": "https://substackcdn.com/image/fetch/$s_!Tswx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed43840f-e837-4c80-8dfc-d348a066b7da_1456x1048.jpeg",
+     "links": [
+      {
+       "t": "QB-1 – Pulseworks",
+       "u": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+      }
+     ],
+     "title": "First Floor recommendations, 17 Nov: 1 record",
+     "url": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+    },
     {
      "audio": null,
      "date": "2026-11-16T20:02:42Z",
@@ -3810,21 +3804,11 @@
      ],
      "title": "First Floor recommendations, 4 Nov: 5 records",
      "url": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
-    },
-    {
-     "audio": null,
-     "date": "2026-11-04T11:01:42Z",
-     "desc": "A guest recommendation from the NYC-based composer and producer.",
-     "duration": null,
-     "id": "https:--firstfloor.substack.com-p-elori-saxl-has-better-taste-than",
-     "image": "https://substackcdn.com/image/fetch/$s_!STuf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27226f5f-facc-4704-b09d-43243eacd30d_1500x1079.png",
-     "title": "Elori Saxl Has Better Taste Than I Do",
-     "url": "https://firstfloor.substack.com/p/elori-saxl-has-better-taste-than"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-16T21:30:10Z"
+   "updatedAt": "2026-11-17T21:30:08Z"
   },
   "flow-state": {
    "about": "Every weekday, one interesting artist and two instrumental albums, hand-picked, good to work to.",
@@ -4043,6 +4027,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-17T13:05:30Z",
+     "desc": "A floor-centric roundup of new techno, acid, house, and more",
+     "duration": null,
+     "id": "https:--futurismrestated.substack.com-p-fr-202-firing-on-all-cylinders",
+     "image": "https://substackcdn.com/image/fetch/$s_!uO01!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47a21f97-bde6-4161-ac73-fbc189435395_4032x3024.jpeg",
+     "title": "FR 202: Firing On All Cylinders",
+     "url": "https://futurismrestated.substack.com/p/fr-202-firing-on-all-cylinders"
+    },
+    {
+     "audio": null,
      "date": "2026-11-12T11:03:45Z",
      "desc": "Rectifying Skin Graft and Homestead erasure, giving Throwing Muses their due, selecting the correct Pixies and Dinosaur Jr. albums, and other dumb hills to die on",
      "duration": null,
@@ -4143,9 +4137,9 @@
     }
    ],
    "kind": "rss",
-   "more": 10,
+   "more": 9,
    "name": "Futurism Restated (Philip Sherburne)",
-   "updatedAt": "2026-11-12T21:30:08Z"
+   "updatedAt": "2026-11-17T21:30:08Z"
   },
   "gai-barone-patterns": {
    "about": "💥Taking Credits 💥",
@@ -4624,20 +4618,10 @@
      "image": "https://i.guim.co.uk/img/media/2351d5a1c393c97f854c4b29709bae92966d0391/0_944_2657_2126/master/2657.jpg?width=140&quality=85&auto=format&fit=max&s=ddea70eb4f3e4c8726ef376156954d0b",
      "title": "‘You think you’re invincible, and you’re not’: Gretta Ray on sickness, surviving and finding her new sound",
      "url": "https://www.theguardian.com/music/ng-interactive/2026/oct/08/gretta-ray-on-sickness-surviving-new-sound-australia"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-03T19:00:06Z",
-     "desc": "The Australian singer-songwriter on misheard Killing Heidi lyrics, going solo after a chat with Stevie Nicks, and being a shit secret keeper What has been your most memorable interaction with a fan? When Killing Heidi first started playing again in 2016, after many, many, many years – we were kind of broken up, hiatus, call it what you want, but we didn’t have any plans to play ever again – I was super nervous. It felt like the first time. It felt like a really big deal. And the response was fantastic. We had these big sold-out shows. I looked out at one crowd and there was a little girl hold…",
-     "duration": null,
-     "id": "https:--www.theguardian.com-culture-2026-oct-04-ella-hooper-interview-i-said-the-thing-you-never-say-to-billy-bragg",
-     "image": "https://i.guim.co.uk/img/media/85a82c4d8e9480c0f273b69e43367deb501b39c9/172_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=6762b072c608438f0062a34bc2d267e3",
-     "title": "Ella Hooper: ‘Most embarrassing celebrity encounter? I said the classic thing you don’t ever say to Billy Bragg’",
-     "url": "https://www.theguardian.com/culture/2026/oct/04/ella-hooper-interview-i-said-the-thing-you-never-say-to-billy-bragg"
     }
    ],
    "kind": "rss",
-   "more": 2,
+   "more": 3,
    "name": "The Guardian: Australian music",
    "updatedAt": "2026-11-15T23:23:49Z"
   },
@@ -8379,20 +8363,10 @@
      "tags": "Contemporary Jazz, Dub, Boogie, RNB",
      "title": "Ross Allen",
      "url": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-17th-october-2026"
-    },
-    {
-     "date": "2026-10-03T11:00:00Z",
-     "desc": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
-     "id": "ross-allen-3rd-october-2026",
-     "image": "https://media.ntslive.co.uk/resize/400x400/3fb7efc8-5902-42a0-9199-08bcde7a66e3_1790985600.jpeg",
-     "location": "London",
-     "tags": "Funk, Soul, Contemporary Jazz, RNB",
-     "title": "Ross Allen",
-     "url": "https://www.nts.live/shows/ross-allen/episodes/ross-allen-3rd-october-2026"
     }
    ],
    "kind": "nts",
-   "more": 8,
+   "more": 9,
    "name": "Ross Allen",
    "updatedAt": "2026-11-16T13:10:43Z"
   },
@@ -15941,7 +15915,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-17T02:29:49Z",
+  "lastRun": "2026-11-17T21:30:08Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-17T02:29:49Z",
@@ -16146,7 +16120,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 20,
     "newest": "2026-11-15T19:32:07Z",
     "ok": true
@@ -16200,7 +16174,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -16218,9 +16192,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 9,
-    "newest": "2026-11-16T20:02:42Z",
+    "newest": "2026-11-17T19:05:44Z",
     "ok": true
    },
    "flow-state": {
@@ -16230,9 +16204,9 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 20,
-    "newest": "2026-11-12T11:03:45Z",
+    "newest": "2026-11-17T13:05:30Z",
     "ok": true
    },
    "gai-barone-patterns": {
@@ -16272,7 +16246,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 20,
     "newest": "2026-11-15T14:38:16Z",
     "ok": true
@@ -16332,7 +16306,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 20,
     "newest": "2026-11-13T08:02:21Z",
     "ok": true
@@ -16374,7 +16348,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -17089,7 +17063,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 20,
     "newest": "2026-11-15T22:12:26Z",
     "ok": true
@@ -17101,7 +17075,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 20,
     "newest": "2026-11-16T10:01:03Z",
     "ok": true
@@ -17119,7 +17093,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 20,
     "newest": "2026-11-12T18:58:37Z",
     "ok": true
@@ -17209,7 +17183,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-16T21:30:10Z",
+    "at": "2026-11-17T21:30:08Z",
     "count": 8,
     "newest": "2026-11-10T19:00:40Z",
     "ok": true

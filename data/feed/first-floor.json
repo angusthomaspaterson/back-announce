@@ -5,6 +5,20 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-11-17T19:05:44Z",
+   "desc": "QB-1 – Pulseworks (Clone Royal Oak)",
+   "id": "rollup-2026-11-17",
+   "image": "https://substackcdn.com/image/fetch/$s_!Tswx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed43840f-e837-4c80-8dfc-d348a066b7da_1456x1048.jpeg",
+   "links": [
+    {
+     "t": "QB-1 – Pulseworks",
+     "u": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+    }
+   ],
+   "title": "First Floor recommendations, 17 Nov: 1 record",
+   "url": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+  },
+  {
    "audio": null,
    "date": "2026-11-16T20:02:42Z",
    "desc": "How did one of electronic music’s most respected organizations wind up playing host to an arms company? So far, its team isn’t saying.",
@@ -147,19 +161,9 @@
    ],
    "title": "First Floor recommendations, 4 Nov: 5 records",
    "url": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
-  },
-  {
-   "audio": null,
-   "date": "2026-11-04T11:01:42Z",
-   "desc": "A guest recommendation from the NYC-based composer and producer.",
-   "duration": null,
-   "id": "https:--firstfloor.substack.com-p-elori-saxl-has-better-taste-than",
-   "image": "https://substackcdn.com/image/fetch/$s_!STuf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27226f5f-facc-4704-b09d-43243eacd30d_1500x1079.png",
-   "title": "Elori Saxl Has Better Taste Than I Do",
-   "url": "https://firstfloor.substack.com/p/elori-saxl-has-better-taste-than"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-16T21:30:10Z"
+ "updatedAt": "2026-11-17T21:30:08Z"
 }

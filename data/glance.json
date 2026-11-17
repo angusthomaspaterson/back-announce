@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "d": "2026-11-17T19:05:44Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 17 Nov: 1 record",
+   "u": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+  },
+  {
+   "d": "2026-11-17T13:05:30Z",
+   "g": "Writing",
+   "s": "Futurism Restated (Philip Sherburne)",
+   "sid": "futurism-restated",
+   "t": "FR 202: Firing On All Cylinders",
+   "u": "https://futurismrestated.substack.com/p/fr-202-firing-on-all-cylinders"
+  },
+  {
    "d": "2026-11-17T00:05:00Z",
    "g": "Podcasts",
    "s": "Popcast (New York Times)",
@@ -16,14 +32,6 @@
    "sid": "balance-music",
    "t": "Pole Folder: Live from Balance Croatia 2026",
    "u": "https://soundcloud.com/balance-series/pole-folder-balance-2026"
-  },
-  {
-   "d": "2026-11-16T22:30:11Z",
-   "g": "Mixes",
-   "s": "The Lot Radio (selected shows)",
-   "sid": "the-lot-radio",
-   "t": "Darker Than Wax FM invites diedforthis @ The Lot Radio 11-07-2026",
-   "u": "https://soundcloud.com/thelotradio/darker-than-wax-fm-invites-7"
   },
   {
    "d": "2026-11-16T22:00:00Z",
@@ -153,19 +161,11 @@
    "sid": "triplej-blak-out",
    "t": "Blak Out, 15 Nov",
    "u": "https://www.abc.net.au/triplej/programs/blak-out/blak-out/107366314"
-  },
-  {
-   "d": "2026-11-15T04:00:00Z",
-   "g": "BBC",
-   "s": "Pete Tong's Hot Mix",
-   "sid": "bbc-pete-tongs-hot-mix",
-   "t": "Adam Beyer",
-   "u": "https://www.bbc.co.uk/sounds/play/m003427y"
   }
  ],
  "lastSeen": "2026-10-11T05:56:35Z",
  "newCount": 674,
- "paused": 23,
+ "paused": 24,
  "releases": [
   {
    "k": "EP · Anjunadeep",
@@ -193,6 +193,24 @@
   }
  ],
  "saved": [
+  {
+   "at": "2026-11-17T13:13:14Z",
+   "s": "Precious Stones Radio w/ Emerald",
+   "t": "Precious Stones Radio w/ Emerald, 14 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/emerald-14-11-2026-1900"
+  },
+  {
+   "at": "2026-11-17T12:58:48Z",
+   "s": "Radio 1's Drum & Bass Show",
+   "t": "with Charlie Tee: 1991 & Grace Barton Drop of the Week!",
+   "u": "https://www.bbc.co.uk/sounds/play/m003427m"
+  },
+  {
+   "at": "2026-11-17T12:53:24Z",
+   "s": "Balance Music (Selections)",
+   "t": "Pole Folder: Live from Balance Croatia 2026",
+   "u": "https://soundcloud.com/balance-series/pole-folder-balance-2026"
+  },
   {
    "at": "2026-11-16T14:35:36Z",
    "s": "6 Music's Rave Forever",
@@ -234,26 +252,8 @@
    "s": "SkyTop Residency (Alexey Sonar)",
    "t": "Alexey Sonar - SkyTop Residency 448 #448",
    "u": "https://promodj.com/alexeysonar/radioshows/7983960/Alexey_Sonar_SkyTop_Residency_448_448"
-  },
-  {
-   "at": "2026-10-16T10:51:17Z",
-   "s": "The Anjunadeep Edition",
-   "t": "The Anjunadeep Edition 615 with Dusky (Live at Explorations)",
-   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-615-with-dusky-live-at-explorations/"
-  },
-  {
-   "at": "2026-10-16T10:50:25Z",
-   "s": "Sultan + Shepard: Dialekt Radio",
-   "t": "Dialekt Radio #349",
-   "u": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-349-lNiKQ_Tx"
-  },
-  {
-   "at": "2026-10-07T01:06:56Z",
-   "s": "Switched On Pop",
-   "t": "Has Taylor Swift jumped the shark?",
-   "u": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6438250978.mp3"
   }
  ],
  "sources": 211,
- "updated": "2026-11-17T02:29:49Z"
+ "updated": "2026-11-17T21:30:08Z"
 }
