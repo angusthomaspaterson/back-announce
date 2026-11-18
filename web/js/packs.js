@@ -1,11 +1,12 @@
 // Starter packs for a first-time visitor, and what counts as new in the catalogue.
 // A pack is a named bundle of the catalogue's groups, so it stays current as sources are
 // added: nothing here lists individual shows.
-import {BATCHES} from './util.js';
+import {BATCHES, catsOf} from './util.js';
 
 export const PACKS = [
   {id: 'radio', name: 'Radio presenters', blurb: 'BBC 6 Music and Radio 1, triple j, Double J', groups: ['BBC', 'triple j', 'Double J', 'Radio', 'Perth']},
   {id: 'underground', name: 'Underground radio', blurb: 'NTS and Rinse FM residencies', groups: ['NTS', 'Rinse FM']},
+  {id: 'club', name: 'House and techno', blurb: 'Club music from NTS, Rinse FM and beyond', groups: ['House', 'Techno']},
   {id: 'bass', name: 'Bass and jungle', blurb: 'Drum & bass, dubstep, garage', groups: ['Bass']},
   {id: 'prog', name: 'Progressive and mixes', blurb: 'Melodic house, trance, DJ mixes', groups: ['Progressive', 'Mixes']},
   {id: 'words', name: 'Writing and podcasts', blurb: 'Critics, newsletters, interviews', groups: ['Writing', 'Podcasts']},
@@ -15,7 +16,7 @@ export const PACKS = [
 export function followedBy(packIds, sources, ownerPaused) {
   const groups = new Set(PACKS.filter(p => packIds.includes(p.id)).flatMap(p => p.groups));
   const off = new Set(ownerPaused || []);
-  return sources.filter(s => groups.has(s.group || 'Other') && !off.has(s.id));
+  return sources.filter(s => catsOf(s).some(g => groups.has(g)) && !off.has(s.id));
 }
 /** The paused list that gives a visitor exactly those packs. */
 export function pausedFor(packIds, sources, ownerPaused) {

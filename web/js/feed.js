@@ -1,7 +1,7 @@
 // The Feed tab: the timeline, the Saved view, the Source page and the Sources screen.
 // Each view has its own container, so going to a source and back leaves the feed exactly
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
-import {$, esc, gcol, initials, addedLabel, kindLabel, BATCHES, dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross, openWhere, clock, toast} from './util.js';
+import {$, esc, gcol, catsOf, initials, addedLabel, kindLabel, BATCHES,dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross, openWhere, clock, toast} from './util.js';
 import {PACKS, followedBy, isNewInCatalogue, addedDate} from './packs.js';
 import {CURATOR} from './data.js';
 import {play, getProgress, enqueue, inQueue} from './player.js';
@@ -61,6 +61,8 @@ export function nameOf(id) { const c = cfgFor(id), d = S.feed[id]; return (c && 
 /** One or two sentences on what a show is: Angus's own words if he wrote some, else the show's. */
 export function aboutOf(id) { const c = cfgFor(id), d = S.feed[id]; return (c && c.about) || (d && d.about) || ''; }
 function groupOf(id) { const c = cfgFor(id); return (c && c.group) || 'Other'; }
+/** A card's categories: from its source when we have it (saved copies carry only the main group). */
+function catsOfItem(i) { const c = i.sid && cfgFor(i.sid); return c ? catsOf(c) : (i.cats || [i.group || 'Other']); }
 function sourceList() { return S.sources.length ? S.sources : Object.keys(S.feed).map(id => ({id, name: S.feed[id].name, home: S.feed[id].home})); }
 
 function withSource(it, id) {
@@ -190,7 +192,7 @@ function card(it, mode) {
   const bar = prog && !prog.done && prog.d ? `<div class="prog" aria-hidden="true"><i style="width:${Math.min(100, prog.t / prog.d * 100).toFixed(1)}%"></i></div>` : '';
   return `<article class="card${it.linkOnly ? ' linkonly' : ''}" style="--sc:${gcol(it.group)}">
     <div class="who"><button class="srcbtn" data-src="${esc(it.sid)}" ${inSrc ? 'disabled' : ''} aria-label="See recent posts from ${esc(it.sname)}"><span class="av" aria-hidden="true">${esc(initials(it.sname))}</span>
-      <span class="who-t"><span class="nm">${esc(it.sname)}${inSrc ? '' : ' <span class="go" aria-hidden="true">›</span>'}</span><span class="sub">${esc(it.group)}${(inSaved || inPicks) && dateOk(it.date) ? ' · ' + esc(sfmt.format(new Date(it.date))) : ''}</span></span></button>
+      <span class="who-t"><span class="nm">${esc(it.sname)}${inSrc ? '' : ' <span class="go" aria-hidden="true">›</span>'}</span><span class="sub">${esc(catsOfItem(it).join(' · '))}${(inSaved || inPicks) && dateOk(it.date) ? ' · ' + esc(sfmt.format(new Date(it.date))) : ''}</span></span></button>
       <div class="t">${isNew ? '<span class="new">New</span>' : ''}${dateOk(when) ? esc(tfmt.format(new Date(when))) + '<br>' + esc(rel(when)) : ''}</div></div>
     <div class="ttl"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
     ${note}
@@ -261,7 +263,7 @@ function renderSearch() {
   }
   const fold = t => String(t || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
   const hit = t => { const f = fold(t); return words.every(w => f.includes(w)); };
-  const shows = sourceList().filter(s => hit(`${s.name} ${s.group || ''} ${aboutOf(s.id)}`)).slice(0, 12);
+  const shows = sourceList().filter(s => hit(`${s.name} ${catsOf(s).join(' ')} ${aboutOf(s.id)}`)).slice(0, 12);
   const eps = [], now = nowIso();
   for (const id of Object.keys(S.feed)) for (const it of (S.feed[id].items || [])) {
     if (it.date && it.date > now) continue;
@@ -300,7 +302,7 @@ function renderWelcome() {
   w.innerHTML = `<h2>Welcome to Back Announce<span class="dot">.</span></h2>
     <p class="lead">A back announce is the moment a radio presenter tells you what you just heard. This is a feed of the people who still do it: ${total} radio shows, mixes, podcasts and writers, chosen by Angus, not an algorithm.</p>
     <p class="ask">Start with everything, or pick what you're into:</p>
-    <div class="packs">${PACKS.map(p => `<button class="pack" data-pack="${p.id}" aria-pressed="${S.packPick.has(p.id)}"><b>${esc(p.name)}</b><span>${esc(p.blurb)} · ${followedBy([p.id], all, off).length}</span></button>`).join('')}</div>
+    <div class="packs">${PACKS.filter(p => followedBy([p.id], all, off).length).map(p =>`<button class="pack" data-pack="${p.id}" aria-pressed="${S.packPick.has(p.id)}"><b>${esc(p.name)}</b><span>${esc(p.blurb)} · ${followedBy([p.id], all, off).length}</span></button>`).join('')}</div>
     <div class="wacts"><button class="btn p" id="wGo">${S.packPick.size ? `Start with these ${n} shows` : `Start with all ${total}`}</button>${picks ? `<button class="btn" id="wPicks">★ Angus's picks first</button>` : ''}</div>
     <p class="fine">No account. Change it any time under Shows. Your choices stay on this device; visits are counted anonymously.</p>`;
 }
@@ -309,9 +311,10 @@ function renderFilters(items, saved) {
   const inPicks = S.view === 'picks', picks = picksList();
   const inSaved = S.view === 'saved' || inPicks, W = S.canWrite;   // neither list has Mark all seen
   const pool = inPicks ? picks : S.view === 'saved' ? saved : items;
-  const groups = [...new Set(items.map(i => i.group).concat(saved.map(i => i.group), picks.map(i => i.group)))].sort();
+  // A card counts under every category its show is in (NTS and Techno, say).
+  const groups = [...new Set([...items, ...saved, ...picks].flatMap(catsOfItem))].sort();
   for (const g of groups) if (!(g in S.groups)) S.groups[g] = true;
-  const counts = {}; for (const i of pool) counts[i.group] = (counts[i.group] || 0) + 1;
+  const counts = {}; for (const i of pool) for (const g of catsOfItem(i)) counts[g] = (counts[g] || 0) + 1;
   const newCount = countNew(items);
   // On phones the chips scroll sideways: keep the row where it was across the redraw.
   const keepX = $('filters').scrollLeft;
@@ -332,7 +335,7 @@ function countNew(items) { return items.filter(i => !i.linkOnly && dateOk(i.date
 function renderStream(items, saved) {
   const inSaved = S.view === 'saved', inPicks = S.view === 'picks';
   const pool = inPicks ? picksList() : inSaved ? saved : items;
-  const vis = pool.filter(i => S.groups[i.group] !== false && (inSaved || inPicks || !S.playOnly || i.audio));
+  const vis = pool.filter(i => catsOfItem(i).some(g => S.groups[g] !== false) &&(inSaved || inPicks || !S.playOnly || i.audio));
   let html = notices(inSaved, saved);
   if (inSaved && !saved.length) html += empty('Nothing saved yet. Tap the heart on any card to keep it here. Saved cards stay even after the show drops out of the feed.');
   else if (inPicks && !pool.length) html += empty(S.owner ? "No picks yet. Tap Pick on any card and say why it's worth hearing. Picks are public; your Saved list is not." : 'No picks yet.');
@@ -381,7 +384,7 @@ function renderSrcHead() {
   const kind = cfg.kind ? kindLabel(cfg.kind) : '';
   const showKind = kind && kind.toLowerCase() !== group.toLowerCase();
   h.innerHTML = `<button class="chip back" id="srcBack">‹ Back to ${back}</button>
-    <div class="sh"><div class="av" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(group)}${showKind ? ' · ' + esc(kind) : ''}${O && cfg.added ? ' · ' + esc(addedLabel(cfg.added)) : ''}</div>
+    <div class="sh"><div class="av" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(catsOf(cfg.group ? cfg : {group}).join(' · '))}${showKind ? ' · ' + esc(kind) : ''}${O && cfg.added ? ' · ' + esc(addedLabel(cfg.added)) : ''}</div>
       <div class="sub">${real.length ? `${real.length} recent${real[0] && dateOk(real[0].date) ? ', latest ' + esc(sfmt.format(new Date(real[0].date))) : ''}` : ''}${health ? ' · ' + health : ''}${off ? ' · paused' : ''}</div></div></div>
     ${about ? `<p class="about">${esc(about)}</p>` : ''}
     <div class="acts">${home ? `<a class="btn" href="${esc(home)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : `Visit ${esc(host.length > 28 ? 'site' : host)}`} ↗</a>` : ''}${S.canWrite ? `<button class="btn${off ? ' p' : ''}" id="srcPause">${off ? (O ? 'Resume source' : 'Add to my feed') : `Pause ${word}`}</button>` : ''}</div>`;
@@ -431,13 +434,13 @@ function renderSources() {
 function renderSourceList() {
   const st = S.status, P = S.paused, W = S.canWrite, all = sourceList();
   const words = S.srcQuery.toLowerCase().split(/\s+/).filter(Boolean);
-  const hit = s => { const hay = `${s.name} ${s.group || ''} ${kindLabel(s.kind)}`.toLowerCase(); return words.every(w => hay.includes(w)); };
+  const hit = s => { const hay = `${s.name} ${catsOf(s).join(' ')} ${kindLabel(s.kind)}`.toLowerCase(); return words.every(w => hay.includes(w)); };
   // A show switched on or off here stays in the list (showing its new state) until the filter changes,
   // so switching one back on from Paused doesn't make it vanish under your finger.
   const inView = s => S.srcView === 'all' || S.srcKeep.has(s.id) || (S.srcView === 'new' ? isNewInCatalogue(s) : S.srcView === 'on' ? !P.has(s.id) : P.has(s.id));
   const newestOf = s => { const d = S.feed[s.id] && S.feed[s.id].items && S.feed[s.id].items[0] && S.feed[s.id].items[0].date; return dateOk(d) ? d : ''; };
-  // One row per show. In the single list each row names its category; under a category heading it doesn't need to.
-  const row = (s, withGroup) => {
+  // One row per show, naming its categories; under a category heading, only the others it is in.
+  const row = (s, heading) => {
     const g = s.group || 'Other', ss = (st && st.sources && st.sources[s.id]) || {}, doc = S.feed[s.id], off = P.has(s.id);
     const newest = newestOf(s), latest = newest ? sfmt.format(new Date(newest)) : '';
     // Angus sees failures; a visitor sees the newest episode, or where to go instead.
@@ -445,21 +448,23 @@ function renderSourceList() {
       ? (ss.linkOnly ? 'link only' : ss.ok === false ? 'failed' : ss.ok === true || doc ? (latest || 'no items') : 'pending')
       : (ss.linkOnly ? 'visit site' : latest || '—');
     const about = S.owner ? '' : aboutOf(s.id);
-    const cat = withGroup ? `<span class="cat"><span class="sw"></span>${esc(g)}</span> · ` : '';
+    const cats = catsOf(s).filter(c => c !== heading);
+    const cat = cats.length ? `<span class="cat"><span class="sw"></span>${esc(cats.join(', '))}</span> · ` : '';
     const m = cat + (S.owner ? `${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}` : esc(about.length > 110 ? about.slice(0, 107).replace(/\s+\S*$/, '') + '…' : about || kindLabel(s.kind)));
     return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · ' + esc(pausedLabel(s.id)) : ''}</div></div>`;
   };
   let html = '';
   const how = sortNow();
   if (how === 'group') {
+    // A show in two categories is listed under both.
     const groups = {};
-    for (const s of all) (groups[s.group || 'Other'] = groups[s.group || 'Other'] || []).push(s);
+    for (const s of all) for (const c of catsOf(s)) (groups[c] = groups[c] || []).push(s);
     for (const g of Object.keys(groups).sort()) {
       const list = groups[g].filter(s => inView(s) && hit(s));
       if (!list.length) continue;
       const gOn = groups[g].filter(s => !P.has(s.id)).length;
       html += `<div class="sgh" style="--sc:${gcol(g)}"><h3><span class="sw"></span>${esc(g)}</h3><span class="c">${gOn}/${groups[g].length} on</span>${W ? `<button class="btn" data-grp="${esc(g)}" data-to="${gOn ? 'off' : 'on'}">${gOn ? 'Pause group' : 'Resume group'}</button>` : ''}</div>`;
-      html += list.map(s => row(s, false)).join('');
+      html += list.map(s => row(s, g)).join('');
     }
   } else {
     // A single list: newest episode first (quiet shows sink), most recently added first, or A to Z.
@@ -471,7 +476,7 @@ function renderSourceList() {
       : how === 'added' ? (a, b) => added(b) - added(a) || byName(a, b)
       : how === 'paused' ? (a, b) => pausedWhen(b).localeCompare(pausedWhen(a)) || byName(a, b)
       : (a, b) => newestOf(b).localeCompare(newestOf(a)) || byName(a, b);
-    html = all.filter(s => inView(s) && hit(s)).sort(order).map(s => row(s, true)).join('');
+    html = all.filter(s => inView(s) && hit(s)).sort(order).map(s => row(s, null)).join('');
   }
   $('sources').innerHTML = html || empty(words.length ? `No shows match "${esc(S.srcQuery)}".` : 'Nothing here.');
 }
@@ -593,7 +598,7 @@ export function wire() {
     else if (b.dataset.batch) { const off = b.dataset.to === 'off'; const ids = all.filter(s => s.added === b.dataset.batch && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${ids.length} sources`); }
     else if (b.id === 'resumeAll') { const ids = [...P]; S.onPause(ids, false, `Resumed ${ids.length} sources`); }
     else if (b.dataset.sid) { const id = b.dataset.sid; S.srcKeep.add(id); if (!(id in S.keepWhen)) S.keepWhen[id] = (S.pausedAt && S.pausedAt[id]) || '';S.onPause([b.dataset.sid], b.getAttribute('aria-checked') === 'true', null); }
-    else if (b.dataset.grp) { const off = b.dataset.to === 'off'; const ids = all.filter(s => (s.group || 'Other') === b.dataset.grp && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${b.dataset.grp} (${ids.length})`); }
+    else if (b.dataset.grp) { const off = b.dataset.to === 'off'; const ids = all.filter(s => catsOf(s).includes(b.dataset.grp) && P.has(s.id) !== off).map(s => s.id); S.onPause(ids, off, `${off ? 'Paused' : 'Resumed'} ${b.dataset.grp} (${ids.length})`); }
     else if (b.dataset.src) S.onNavigate('#source/' + encodeURIComponent(b.dataset.src));
   });
   // Bulk changes stays open across the redraw that follows one of its buttons.

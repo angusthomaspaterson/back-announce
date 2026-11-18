@@ -1,6 +1,6 @@
 // Tests for js/store.js against a pretend GitHub. Open tests/index.html on a local server.
 import {createStore, applyOps, normalise, serialise, b64encode, b64decode, checkToken, commitMessage, repoFiles} from '../js/store.js';
-import {appIntent, spotifySearch, dedupeAcross, clock, openWhere} from '../js/util.js';
+import {appIntent, spotifySearch, dedupeAcross, clock, openWhere, catsOf} from '../js/util.js';
 import {PACKS, followedBy, pausedFor, addedDate, isNewInCatalogue} from '../js/packs.js';
 import {encodeSetup, encodeCompact, decodeSetup, setupLink, hash32} from '../js/carry.js';
 import {classifyLink, messageFor, issueLink} from '../js/suggest.js';
@@ -279,6 +279,14 @@ const tests = {
     eq(pausedFor(['radio', 'underground'], sources, ['b']), ['b', 'd', 'e'], 'everything else is paused');
     eq(pausedFor(['words'], sources, []), ['a', 'b', 'c', 'd'], 'one pack');
     ok(PACKS.every(p => p.id && p.name && p.groups.length), 'every pack is complete');
+  },
+  'a source can sit in extra categories as well as its own'() {
+    eq(catsOf({group: 'NTS', also: ['Techno', 'House']}), ['NTS', 'Techno', 'House'], 'main group first, then the extras');
+    eq(catsOf({group: 'NTS', also: ['NTS']}), ['NTS'], 'no repeats');
+    eq(catsOf({}), ['Other'], 'no group at all');
+    const sources = [{id: 'a', group: 'NTS', also: ['Techno']}, {id: 'b', group: 'Rinse FM', also: ['House']}, {id: 'c', group: 'NTS'}, {id: 'd', group: 'Writing'}];
+    eq(followedBy(['club'], sources, []).map(s => s.id), ['a', 'b'], 'the house and techno pack takes tagged shows from any station');
+    eq(followedBy(['underground'], sources, ['c']).map(s => s.id), ['a', 'b'], 'their own group still counts');
   },
   'new in the catalogue reads the added label'() {
     const now = new Date('2026-11-16T04:00:00Z');
