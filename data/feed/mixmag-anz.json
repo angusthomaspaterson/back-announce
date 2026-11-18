@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-18T04:50:24Z",
+   "desc": "We’re back at Strawberry Fields for a second year, taking over the festival's most post-apocalyptic stage for a full day (and night). Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-mixmag-anz-takes-over-deep-jungle-at-strawberry-fields-this-saturday-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Deep-Jungle-Takeover-Cover.png",
+   "title": "Mixmag ANZ takes over Deep Jungle at Strawberry Fields this Saturday",
+   "url": "https://mixmag.net.au/read/mixmag-anz-takes-over-deep-jungle-at-strawberry-fields-this-saturday-news"
+  },
+  {
+   "audio": null,
    "date": "2026-11-12T04:47:00Z",
    "desc": "Ahead of its 17th year on the banks of the Murray, we speak with the people behind Strawberry's waste, rewash & campground crews about why looking after a site takes everyone on it. Continue reading...",
    "duration": null,
@@ -243,19 +253,9 @@
    "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Shadows-Cover.png",
    "title": "Ngunnawal Land venue Shadows Night Club announces closure over financial strain",
    "url": "https://mixmag.net.au/read/ngunnawal-land-venue-shadows-night-club-announces-closure-over-financial-strain-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-08T05:39:00Z",
-   "desc": "Will Bentley-Hawkins speaks with the rural skater-turned-producer-come-DJ about throwing yourself at music like it's your last day on earth. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-soul-wun-finding-greatness-in-madness",
-   "image": null,
-   "title": "Soul Wun: Finding Greatness In Madness",
-   "url": "https://mixmag.net.au/feature/soul-wun-finding-greatness-in-madness"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-18T09:27:00Z"
 }

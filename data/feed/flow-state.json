@@ -5,6 +5,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": null,
+   "date": "2026-11-18T08:02:52Z",
+   "desc": "Today we’re listening to Elvar Smári, an Icelandic composer based in Reykjavík.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-elvar-smari",
+   "image": "https://substackcdn.com/image/fetch/$s_!x8Sl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07503ecc-85ec-4bea-b9d7-9a396cf116ab_1008x1266.png",
+   "title": "Elvar Smári",
+   "url": "https://www.flowstate.fm/p/elvar-smari"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/225307662/99955040130ae652d2326a3634f47dfe.mp3",
    "date": "2026-11-17T08:02:42Z",
    "desc": "Today’s mix is a collection of “neo-krautrock” music, off the back of Friday’s recommendation of Fling II. Krautrock formed in the ‘60s and ‘70s in Germany, defined by bands such as Neu!, Harmonia, Can, and (early) Kraftwerk.",
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!emCj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2a7a276-fb36-4f48-9104-d1ad4942ee5c_1200x1200.jpeg",
    "title": "Hermanos Gutiérrez",
    "url": "https://www.flowstate.fm/p/hermanos-gutierrez-c55"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-21T07:03:13Z",
-   "desc": "Today we’re listening to Julia Gjertsen, a Norwegian pianist and composer based in Oslo.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-julia-gjertsen-c0c",
-   "image": "https://substackcdn.com/image/fetch/$s_!dTu0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1fa9609-8a7c-4740-a44a-503c24146369_1822x916.png",
-   "title": "Julia Gjertsen",
-   "url": "https://www.flowstate.fm/p/julia-gjertsen-c0c"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-18T01:37:58Z"
+ "updatedAt": "2026-11-18T09:27:00Z"
 }

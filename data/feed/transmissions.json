@@ -5,6 +5,16 @@
  "id": "transmissions",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6afcd3aebc3a834741208b19/media.mp3",
+   "date": "2026-11-18T07:00:00Z",
+   "desc": "Today on Transmissions, a conversation with Larry Crane of Tape Op magazine. This year, Larry and Tape Op celebrated 30 years of creative advice with Making Music, a book that collects 26 of the best ever interviews from the magazine, including creators like Glyn Johns, Tony Visconti, RZA, Brian Eno, Joe Boyd, Lee “Scratch” Perry, and many more. Making Music exemplifies what we love most about Tape Op , as it features concrete and technical info right alongside creative philosophies and entertaining stories. It’s not just for recording aficionados, but it never skimps on glorious detail. Of c…",
+   "duration": "1:02:04",
+   "id": "6afcd3aebc3a834741208b19",
+   "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/1794952901721-b145e791-75c3-49f9-8749-2cc1b1cd752f.jpeg",
+   "title": "Transmissions :: Larry Crane of Tape Op",
+   "url": "https://aquariumdrunkard.com/2026/11/18/transmissions-larry-crane-tape-op/"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6af210000045eff641efedf2/media.mp3",
    "date": "2026-11-11T07:00:00Z",
    "desc": "Our guest this week is author Adam Voith, whose new novel, RIYL , short for \"Recommended If You Like,\" is an at times thinly veiled memoir of the '90s Christian punk and indie scene. With echoes of Get in the Van and Freaks and Geeks, RIYL threads that delicate needle of looking back at earnest teenage corn doggery with warts and all embarrassment, tempered by the type of affection that only time and distance allow all of us. It's also frequently flat out hilarious. Just as the bands in RIYL became the improbable secret history of mainstream mainline indie music—Sufjan Stevens, Father John Mi…",
@@ -22,7 +32,7 @@
    "id": "6ae9f8ccdc2860cef4ade70f",
    "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/1793717956286-b6a0724c-8b62-4538-b797-44d156211a27.jpeg",
    "title": "Transmissions :: Derrick Bang on Vince Guaraldi",
-   "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/transmissions-derrick-bang-on-vince-guaraldi"
+   "url": "https://aquariumdrunkard.com/2026/11/04/transmissions-derrick-bang-on-vince-guaraldi/"
   },
   {
    "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6ae117f4e57912cf6fa47244/media.mp3",
@@ -243,19 +253,9 @@
    "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/7c5da9fae8b13e05e20a7378f9508b06.jpg",
    "title": "All One Song :: Matt Sweeney on \"Barstool Blues\"",
    "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab705b0079b46c819254b0a"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/58d40852-594f-11f1-99f1-3fbb120daa0a/media.mp3",
-   "date": "2026-05-27T07:00:00Z",
-   "desc": "As the second season of All One Song rolls on, we’re talking to some of our favorite musicians and writers about their favorite Neil Young songs. And we have got a doozy of a Neil Young song to talk about today — “Ambulance Blues.\" First appearing as the closing track on Neil’s 1974 masterpiece On the Beach , this is one of the man’s major works, a long, dark dirge that surveys the surreal mid-1970s landscape, from Patty Hearst to Richard Nixon, all accompanied by a brilliantly skeletal musical backdrop from Ben Keith, Rusty Kershaw, Ralph Molina and the mysterious Joe Yankee. It’s a towering…",
-   "duration": "1:16:15",
-   "id": "58d40852-594f-11f1-99f1-3fbb120daa0a",
-   "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/61568cfa3d8a5e6ec670c4f7744f4be7.jpg",
-   "title": "All One Song :: Zachary Cale on \"Ambulance Blues\"",
-   "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab706a4c974afb1546efe82"
   }
  ],
  "kind": "rss",
  "name": "Transmissions (Aquarium Drunkard)",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-18T09:27:00Z"
 }
