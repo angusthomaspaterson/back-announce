@@ -313,9 +313,14 @@ function renderFilters(items, saved) {
   for (const g of groups) if (!(g in S.groups)) S.groups[g] = true;
   const counts = {}; for (const i of pool) counts[i.group] = (counts[i.group] || 0) + 1;
   const newCount = countNew(items);
-  $('filters').innerHTML = `<button class="chip heartchip" id="savedView" aria-pressed="${S.view === 'saved'}"><span class="hrt" aria-hidden="true">${S.view === 'saved' ? '♥' : '♡'}</span>Saved <span class="cnt">${saved.length}</span></button>`
+  // On phones the chips scroll sideways: keep the row where it was across the redraw.
+  const keepX = $('filters').scrollLeft;
+  queueMicrotask(() => { $('filters').scrollLeft = keepX; });
+  $('filters').innerHTML =`<button class="chip heartchip" id="savedView" aria-pressed="${S.view === 'saved'}"><span class="hrt" aria-hidden="true">${S.view === 'saved' ? '♥' : '♡'}</span>Saved <span class="cnt">${saved.length}</span></button>`
     + (picks.length || S.owner ? `<button class="chip pickchip" id="picksView" aria-pressed="${inPicks}"><span class="hrt" aria-hidden="true">★</span>Angus's picks <span class="cnt">${picks.length}</span></button>` : '')
     + (inSaved ? '' : `<button class="chip playchip" id="playOnly" aria-pressed="${S.playOnly}" title="Only what plays here, in the app">▶ Plays here</button>`)
+    // Showing only some categories: a way back to all of them, always in sight.
+    + (groups.some(g => S.groups[g] === false) ? `<button class="chip allchip" id="allGroups" title="Show every category again">All</button>` : '')
     + groups.filter(g => counts[g]).map(g => `<button class="chip" data-g="${esc(g)}" aria-pressed="${S.groups[g]}" style="--sc:${gcol(g)}"><span class="sw"></span>${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join('')
     + (inSaved || !W ? '' : `<button class="chip act" id="markSeen">Mark all seen${newCount ? ' (' + newCount + ')' : ''}</button>`)
     + `<button class="chip src${inSaved || !W ? ' act' : ''}" id="openSrc">${showWord()}</button>`
@@ -539,7 +544,19 @@ export function wire() {
 
   $('filters').addEventListener('click', e => {
     const b = e.target.closest('button'); if (!b) return;
-    if (b.dataset.g) { S.groups[b.dataset.g] = !S.groups[b.dataset.g]; saveLocal(); rendered.stream = null; show(); }
+    if (b.dataset.g) {
+      // With every category showing, a tap shows just that one; further taps add or remove
+      // categories; tapping the only one left (or All) shows everything again.
+      const all = Object.keys(S.groups), on = all.filter(k => S.groups[k] !== false), g = b.dataset.g;
+      if (on.length === all.length) for (const k of all) S.groups[k] = k === g;
+      else if (on.length === 1 && on[0] === g) for (const k of all) S.groups[k] = true;
+      else S.groups[g] = S.groups[g] === false;
+      if (!all.some(k => S.groups[k] !== false)) for (const k of all) S.groups[k] = true;
+      saveLocal(); rendered.stream = null; show(); window.scrollTo(0, 0);
+      // Keep the chip just tapped in sight in the sideways-scrolling row.
+      setTimeout(() => { const c = document.querySelector(`#filters [data-g="${CSS.escape(g)}"]`); if (c) c.scrollIntoView({inline: 'nearest', block: 'nearest'}); }, 0);
+    }
+    else if (b.id === 'allGroups') { for (const k of Object.keys(S.groups)) S.groups[k] = true; saveLocal(); rendered.stream = null; show(); }
     else if (b.id === 'playOnly') { S.playOnly = !S.playOnly; rendered.stream = null; show(); }
     else if (b.id === 'savedView') S.onNavigate(S.view === 'saved' ? '#feed' : '#saved');
     else if (b.id === 'picksView') S.onNavigate(S.view === 'picks' ? '#feed' : '#picks');
