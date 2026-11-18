@@ -334,6 +334,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Radio",
    "home": "https://www.kexp.org/podcasts/",
    "id": "in-our-headphones",
@@ -343,6 +346,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Radio",
    "home": "https://www.npr.org/sections/allsongs/",
    "id": "all-songs-considered",
@@ -388,6 +394,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Perth",
    "home": "https://rtrfm.com.au/podcasts/no-skips/",
    "id": "no-skips",
@@ -571,6 +580,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Podcasts",
    "home": "https://aquariumdrunkard.com/transmissions/",
    "id": "transmissions",
@@ -607,6 +619,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Podcasts",
    "home": "https://www.soundopinions.org/",
    "id": "sound-opinions",
@@ -643,6 +658,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Podcasts",
    "home": "https://uproxx.com/indie/",
    "id": "indiecast",
@@ -652,6 +670,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Podcasts",
    "home": "https://thequietus.com/",
    "id": "quietus-radio",
@@ -673,6 +694,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Podcasts",
    "home": "https://nialler9.com/",
    "id": "nialler9",
@@ -745,6 +769,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Writing",
    "home": "https://thenewcue.substack.com/",
    "id": "the-new-cue",
@@ -781,6 +808,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Writing",
    "home": "https://loudandquiet.substack.com/",
    "id": "loud-and-quiet",
@@ -1054,6 +1084,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/david-holmes",
    "id": "nts-david-holmes",
@@ -1086,6 +1119,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/a-colourful-storm",
    "id": "nts-a-colourful-storm",
@@ -1838,6 +1874,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "triple j",
    "home": "https://www.abc.net.au/triplej/programs/home-and-hosed",
    "id": "triplej-home-and-hosed",
@@ -1895,6 +1934,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "triple j",
    "home": "https://www.abc.net.au/triplej/programs/core",
    "id": "triplej-core",
@@ -1919,6 +1961,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "Double J",
    "home": "https://www.abc.net.au/listen/programs/doublej-classic-albums",
    "id": "doublej-classic-albums",
@@ -1995,6 +2040,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Rock, Metal & Indie"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/b0072l4x",
    "id": "bbc-stuart-maconies-freak-zone",
