@@ -5,18 +5,22 @@
  "id": "first-floor",
  "items": [
   {
-   "date": "2026-11-17T19:05:44Z",
-   "desc": "QB-1 – Pulseworks (Clone Royal Oak)",
+   "date": "2026-11-17T23:29:07Z",
+   "desc": "QB-1 – Pulseworks (Clone Royal Oak) Yuka Mizuhara – Moon Dust (Rush Hour)",
    "id": "rollup-2026-11-17",
    "image": "https://substackcdn.com/image/fetch/$s_!Tswx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed43840f-e837-4c80-8dfc-d348a066b7da_1456x1048.jpeg",
    "links": [
     {
      "t": "QB-1 – Pulseworks",
      "u": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+    },
+    {
+     "t": "Yuka Mizuhara – Moon Dust",
+     "u": "https://firstfloor.substack.com/p/yuka-mizuhara-moon-dust"
     }
    ],
-   "title": "First Floor recommendations, 17 Nov: 1 record",
-   "url": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+   "title": "First Floor recommendations, 17 Nov: 2 records",
+   "url": "https://firstfloor.substack.com/p/yuka-mizuhara-moon-dust"
   },
   {
    "audio": null,
@@ -134,14 +138,10 @@
   },
   {
    "date": "2026-11-04T20:38:21Z",
-   "desc": "Warrington-Runcorn New Town Development Plan – Industrial Growth (Castles in Space) Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
+   "desc": "Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
    "id": "rollup-2026-11-04",
-   "image": "https://substackcdn.com/image/fetch/$s_!rO62!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e2366e-3688-4f61-a8d7-b7bd8f581242_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!TupU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff60897e7-528a-4757-b7cd-b92181ce195e_1456x1048.jpeg",
    "links": [
-    {
-     "t": "Warrington-Runcorn New Town Development Plan – Industrial Growth",
-     "u": "https://firstfloor.substack.com/p/warrington-runcorn-new-town-development"
-    },
     {
      "t": "Tensal – Iraultza",
      "u": "https://firstfloor.substack.com/p/tensal-iraultza"
@@ -159,11 +159,11 @@
      "u": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
     }
    ],
-   "title": "First Floor recommendations, 4 Nov: 5 records",
+   "title": "First Floor recommendations, 4 Nov: 4 records",
    "url": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-17T21:30:08Z"
+ "updatedAt": "2026-11-18T04:02:10Z"
 }

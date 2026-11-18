@@ -2899,7 +2899,7 @@
      "duration": null,
      "id": "https:--dadastrain.substack.com-p-bklyn-sounds-1023202610272026-on",
      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8457e049-033c-46eb-9389-6f0038083566_1500x1013.jpeg",
-     "title": "On Mali Obomsawin’s ‘Automatic’ + Bklyn Sounds 10/23/2026—10/27/2026",
+     "title": "On Mali Obomsawin’s ‘Automatic’ | Bklyn Sounds 10/23/2026—10/27/2026",
      "url": "https://dadastrain.substack.com/p/bklyn-sounds-1023202610272026-on"
     },
     {
@@ -2936,7 +2936,7 @@
    "kind": "rss",
    "more": 12,
    "name": "Dada Strain (Piotr Orlov)",
-   "updatedAt": "2026-11-16T21:30:10Z"
+   "updatedAt": "2026-11-18T04:02:10Z"
   },
   "days-like-nights": {
    "about": "All contact details and tour dates: www.eelkekleijn.nl",
@@ -3609,18 +3609,22 @@
    "id": "first-floor",
    "items": [
     {
-     "date": "2026-11-17T19:05:44Z",
-     "desc": "QB-1 – Pulseworks (Clone Royal Oak)",
+     "date": "2026-11-17T23:29:07Z",
+     "desc": "QB-1 – Pulseworks (Clone Royal Oak) Yuka Mizuhara – Moon Dust (Rush Hour)",
      "id": "rollup-2026-11-17",
      "image": "https://substackcdn.com/image/fetch/$s_!Tswx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed43840f-e837-4c80-8dfc-d348a066b7da_1456x1048.jpeg",
      "links": [
       {
        "t": "QB-1 – Pulseworks",
        "u": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+      },
+      {
+       "t": "Yuka Mizuhara – Moon Dust",
+       "u": "https://firstfloor.substack.com/p/yuka-mizuhara-moon-dust"
       }
      ],
-     "title": "First Floor recommendations, 17 Nov: 1 record",
-     "url": "https://firstfloor.substack.com/p/qb-1-pulseworks"
+     "title": "First Floor recommendations, 17 Nov: 2 records",
+     "url": "https://firstfloor.substack.com/p/yuka-mizuhara-moon-dust"
     },
     {
      "audio": null,
@@ -3738,14 +3742,10 @@
     },
     {
      "date": "2026-11-04T20:38:21Z",
-     "desc": "Warrington-Runcorn New Town Development Plan – Industrial Growth (Castles in Space) Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
+     "desc": "Tensal – Iraultza (BITE) Eerie Enterprise – Places Remember Events (Dekmantel) OR – Music for Empty Stadiums (AD 93) John Beltran – Sunrise and the Life We Live (Music for Dreams)",
      "id": "rollup-2026-11-04",
-     "image": "https://substackcdn.com/image/fetch/$s_!rO62!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e2366e-3688-4f61-a8d7-b7bd8f581242_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!TupU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff60897e7-528a-4757-b7cd-b92181ce195e_1456x1048.jpeg",
      "links": [
-      {
-       "t": "Warrington-Runcorn New Town Development Plan – Industrial Growth",
-       "u": "https://firstfloor.substack.com/p/warrington-runcorn-new-town-development"
-      },
       {
        "t": "Tensal – Iraultza",
        "u": "https://firstfloor.substack.com/p/tensal-iraultza"
@@ -3763,13 +3763,13 @@
        "u": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
       }
      ],
-     "title": "First Floor recommendations, 4 Nov: 5 records",
+     "title": "First Floor recommendations, 4 Nov: 4 records",
      "url": "https://firstfloor.substack.com/p/john-beltran-sunrise-and-the-life"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-17T21:30:08Z"
+   "updatedAt": "2026-11-18T04:02:10Z"
   },
   "flow-state": {
    "about": "Every weekday, one interesting artist and two instrumental albums, hand-picked, good to work to.",
@@ -15935,7 +15935,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-18T01:37:58Z",
+  "lastRun": "2026-11-18T04:02:10Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-18T01:37:58Z",
@@ -16140,7 +16140,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 20,
     "newest": "2026-11-15T19:32:07Z",
     "ok": true
@@ -16194,7 +16194,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -16212,9 +16212,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 9,
-    "newest": "2026-11-17T19:05:44Z",
+    "newest": "2026-11-17T23:29:07Z",
     "ok": true
    },
    "flow-state": {
@@ -16224,7 +16224,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 20,
     "newest": "2026-11-17T13:05:30Z",
     "ok": true
@@ -16266,7 +16266,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 20,
     "newest": "2026-11-15T14:38:16Z",
     "ok": true
@@ -16326,7 +16326,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 20,
     "newest": "2026-11-13T08:02:21Z",
     "ok": true
@@ -16368,7 +16368,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -17082,7 +17082,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 20,
     "newest": "2026-11-15T22:12:26Z",
     "ok": true
@@ -17094,7 +17094,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 20,
     "newest": "2026-11-16T10:01:03Z",
     "ok": true
@@ -17112,7 +17112,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 20,
     "newest": "2026-11-12T18:58:37Z",
     "ok": true
@@ -17202,7 +17202,7 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-17T21:30:08Z",
+    "at": "2026-11-18T04:02:10Z",
     "count": 8,
     "newest": "2026-11-10T19:00:40Z",
     "ok": true
