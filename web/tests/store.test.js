@@ -274,8 +274,8 @@ const tests = {
     eq(st.view().paused, ['mine', 'pub'], 'removing the token returns to the visitor copy');
   },
   'starter packs follow the chosen groups, minus what Angus has paused'() {
-    const sources = [{id: 'a', group: 'BBC'}, {id: 'b', group: 'BBC'}, {id: 'c', group: 'NTS'}, {id: 'd', group: 'Bass & Jungle'}, {id: 'e', group: 'Writing'}];
-    eq(followedBy(['bass'], sources, []).map(s => s.id), ['d'], 'bass pack: the Bass & Jungle group');
+    const sources = [{id: 'a', group: 'BBC'}, {id: 'b', group: 'BBC'}, {id: 'c', group: 'NTS'}, {id: 'd', group: 'Bass & DnB'}, {id: 'e', group: 'Writing'}];
+    eq(followedBy(['bass'], sources, []).map(s => s.id), ['d'], 'bass pack: the Bass & DnB group');
     eq(followedBy(['radio'], sources, ['b']).map(s => s.id), ['a'], 'radio pack: BBC shows he follows');
     eq(pausedFor(['radio', 'underground'], sources, ['b']), ['b', 'd', 'e'], 'everything else is paused');
     eq(pausedFor(['words'], sources, []), ['a', 'b', 'c', 'd'], 'one pack');

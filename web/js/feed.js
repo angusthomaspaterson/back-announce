@@ -449,7 +449,7 @@ function renderSourceList() {
       : (ss.linkOnly ? 'visit site' : latest || '—');
     const about = S.owner ? '' : aboutOf(s.id);
     const cats = catsOf(s).filter(c => c !== heading);
-    const cat = cats.length ? `<span class="cat"><span class="sw"></span>${esc(cats.join(', '))}</span> · ` : '';
+    const cat = cats.length ? `<span class="cat"><span class="sw"></span>${esc(cats.join(' · '))}</span> · ` : '';
     const m = cat + (S.owner ? `${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}` : esc(about.length > 110 ? about.slice(0, 107).replace(/\s+\S*$/, '') + '…' : about || kindLabel(s.kind)));
     return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · ' + esc(pausedLabel(s.id)) : ''}</div></div>`;
   };
