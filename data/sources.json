@@ -11,7 +11,7 @@
   },
   {
    "added": "start",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://podcast.hernancattaneo.com/",
    "id": "resident",
    "kind": "rss",
@@ -49,6 +49,9 @@
   },
   {
    "added": "start",
+   "also": [
+    "Techno"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/gigi-fm",
    "id": "nts-gigi-fm",
@@ -58,6 +61,9 @@
   },
   {
    "added": "start",
+   "also": [
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/yu-su",
    "id": "nts-yu-su",
@@ -67,6 +73,9 @@
   },
   {
    "added": "start",
+   "also": [
+    "Techno"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/upsammy",
    "id": "nts-upsammy",
@@ -76,6 +85,10 @@
   },
   {
    "added": "start",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/courtesy",
    "id": "nts-courtesy",
@@ -85,6 +98,10 @@
   },
   {
    "added": "start",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/shanticeleste",
    "id": "nts-shanti-celeste",
@@ -94,6 +111,10 @@
   },
   {
    "added": "start",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/moxie",
    "id": "nts-moxie",
@@ -103,6 +124,9 @@
   },
   {
    "added": "start",
+   "also": [
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/rhythmsection",
    "id": "nts-rhythm-section",
@@ -112,6 +136,10 @@
   },
   {
    "added": "start",
+   "also": [
+    "House",
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/floating-points",
    "id": "nts-floating-points",
@@ -148,6 +176,9 @@
   },
   {
    "added": "start",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/hd",
    "id": "nts-hd",
@@ -157,6 +188,9 @@
   },
   {
    "added": "start",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/ross-allen",
    "id": "nts-ross-allen",
@@ -175,6 +209,9 @@
   },
   {
    "added": "start",
+   "also": [
+    "Bass & Jungle"
+   ],
    "group": "Rinse FM",
    "home": "https://www.rinse.fm/shows/planet-wax",
    "id": "rinse-planet-wax",
@@ -184,6 +221,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "Radio",
    "home": "https://soundcloud.com/gillespeterson",
    "id": "gilles-peterson",
@@ -193,6 +233,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "House"
+   ],
    "group": "Radio",
    "home": "https://www.mixcloud.com/colleencosmomurphy/",
    "id": "balearic-breakfast",
@@ -202,6 +245,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "House",
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "Radio",
    "home": "https://www.mixcloud.com/LeFtOoO/",
    "id": "lefto-early-bird",
@@ -211,7 +258,10 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive",
+   "also": [
+    "Techno"
+   ],
+   "group": "Progressive & Trance",
    "home": "https://www.mixcloud.com/JohnDigweed/",
    "id": "transitions",
    "kind": "mixcloud",
@@ -220,7 +270,10 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive",
+   "also": [
+    "House"
+   ],
+   "group": "Progressive & Trance",
    "home": "https://www.mixcloud.com/anjunadeep/",
    "id": "anjunadeep-edition",
    "kind": "mixcloud",
@@ -229,7 +282,11 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive",
+   "also": [
+    "Techno",
+    "House"
+   ],
+   "group": "Progressive & Trance",
    "home": "https://jorisvoorn.com/",
    "id": "spectrum-radio",
    "kind": "rss",
@@ -238,7 +295,7 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://oddoneout.co/",
    "id": "odd-one-out",
    "kind": "rss",
@@ -247,7 +304,7 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://soundcloud.com/eelkekleijn",
    "id": "days-like-nights",
    "kind": "rss",
@@ -256,7 +313,7 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://sultanshepard.com/",
    "id": "dialekt-radio",
    "kind": "rss",
@@ -265,6 +322,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "Radio",
    "home": "https://soundcloud.com/soulection",
    "id": "soulection",
@@ -337,7 +397,7 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://soundcloud.com/balancemusic",
    "id": "balance-music",
    "kind": "rss",
@@ -346,7 +406,7 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://soundcloud.com/sudbeat",
    "id": "sudbeat",
    "kind": "rss",
@@ -364,6 +424,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno"
+   ],
    "group": "Mixes",
    "home": "https://soundcloud.com/pjenne",
    "id": "pjenne",
@@ -382,6 +445,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "Mixes",
    "home": "https://ra.co/podcast",
    "id": "ra-podcast",
@@ -391,6 +458,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "Mixes",
    "home": "https://soundcloud.com/dkmntl",
    "id": "dekmantel-podcast",
@@ -400,6 +471,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno"
+   ],
    "group": "Mixes",
    "home": "https://soundcloud.com/iliantape",
    "id": "ilian-tape",
@@ -427,6 +501,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "Mixes",
    "home": "https://www.mixcloud.com/phonicarecords/",
    "id": "phonica-mix",
@@ -436,6 +514,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno"
+   ],
    "group": "Mixes",
    "home": "https://www.mixcloud.com/inverted_audio/",
    "id": "inverted-audio-mix",
@@ -580,6 +661,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "Podcasts",
    "home": "https://www.iheart.com/podcast/",
    "id": "questlove-show",
@@ -796,6 +880,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/skee-mask",
    "id": "nts-skee-mask",
@@ -814,6 +901,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/daniel-avery",
    "id": "nts-daniel-avery",
@@ -859,6 +949,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/pender-street-steppers",
    "id": "nts-pender-street-steppers",
@@ -868,6 +961,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/a-long-strange-dream-w-batu",
    "id": "nts-batu",
@@ -877,6 +973,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/ben-sims",
    "id": "nts-ben-sims",
@@ -886,6 +986,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "House",
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/ifmusic",
    "id": "nts-if-music",
@@ -895,6 +999,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/touching-bass",
    "id": "nts-touching-bass",
@@ -904,6 +1011,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/optimo",
    "id": "nts-optimo",
@@ -931,6 +1042,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Bass & Jungle"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/donna-leake",
    "id": "nts-donna-leake",
@@ -949,6 +1063,11 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno",
+    "House",
+    "Bass & Jungle"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/ok-williams",
    "id": "nts-ok-williams",
@@ -994,6 +1113,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "Rinse FM",
    "home": "https://www.rinse.fm/shows/pariah",
    "id": "rinse-pariah",
@@ -1021,6 +1144,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "House",
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "Rinse FM",
    "home": "https://www.rinse.fm/shows/utopia-presents",
    "id": "rinse-utopia",
@@ -1048,6 +1175,11 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Techno",
+    "House",
+    "Progressive & Trance"
+   ],
    "group": "Rinse FM",
    "home": "https://www.rinse.fm/shows/i-jordan",
    "id": "rinse-i-jordan",
@@ -1066,6 +1198,10 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "House",
+    "Bass & Jungle"
+   ],
    "group": "Rinse FM",
    "home": "https://www.rinse.fm/shows/stones-taro",
    "id": "rinse-stones-taro",
@@ -1084,6 +1220,9 @@
   },
   {
    "added": "sweep",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "Rinse FM",
    "home": "https://www.rinse.fm/shows/yazmin-lacey",
    "id": "rinse-yazmin-lacey",
@@ -1093,7 +1232,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/dj-hype",
    "id": "rinse-dj-hype",
    "kind": "rinse",
@@ -1102,7 +1241,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/bryan-gee",
    "id": "rinse-bryan-gee",
    "kind": "rinse",
@@ -1111,7 +1250,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/fabio-grooverider",
    "id": "rinse-fabio-grooverider",
    "kind": "rinse",
@@ -1120,7 +1259,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/dj-flight",
    "id": "rinse-dj-flight",
    "kind": "rinse",
@@ -1129,7 +1268,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/kara",
    "id": "rinse-kara",
    "kind": "rinse",
@@ -1138,7 +1277,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/transparent-audio",
    "id": "rinse-transparent-audio",
    "kind": "rinse",
@@ -1147,7 +1286,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/dametalmessiah",
    "id": "rinse-dametalmessiah",
    "kind": "rinse",
@@ -1156,7 +1295,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/plastician",
    "id": "rinse-plastician",
    "kind": "rinse",
@@ -1165,7 +1304,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/klute",
    "id": "rinse-klute",
    "kind": "rinse",
@@ -1174,7 +1313,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/ed-gillett",
    "id": "rinse-ed-gillett",
    "kind": "rinse",
@@ -1183,7 +1322,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/crucast",
    "id": "rinse-crucast",
    "kind": "rinse",
@@ -1192,7 +1331,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/fracture",
    "id": "rinse-fracture",
    "kind": "rinse",
@@ -1201,7 +1340,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.rinse.fm/shows/settle-down",
    "id": "rinse-settle-down",
    "kind": "rinse",
@@ -1210,7 +1349,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/dj-persuasion",
    "id": "nts-dj-persuasion",
    "kind": "nts",
@@ -1219,7 +1358,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/tim-reaper",
    "id": "nts-tim-reaper",
    "kind": "nts",
@@ -1228,7 +1367,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/rupture",
    "id": "nts-rupture",
    "kind": "nts",
@@ -1237,7 +1376,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/deep-medi",
    "id": "nts-deep-medi",
    "kind": "nts",
@@ -1246,7 +1385,10 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "also": [
+    "Techno"
+   ],
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/hooversound",
    "id": "nts-hooversound",
    "kind": "nts",
@@ -1255,7 +1397,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/nia-archives",
    "id": "nts-nia-archives",
    "kind": "nts",
@@ -1264,7 +1406,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/anz",
    "id": "nts-anz",
    "kind": "nts",
@@ -1273,7 +1415,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://scubaofficial.io/podcast",
    "id": "music-not-diving",
    "kind": "rss",
@@ -1282,7 +1424,7 @@
   },
   {
    "added": "oct11",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://fbiradio.com/programs/sunset-with-dot-zip",
    "id": "fbi-sunset",
    "kind": "rss",
@@ -1291,7 +1433,7 @@
   },
   {
    "added": "oct11",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://app.syndicast.co.uk/site/show/selador-sessions",
    "id": "selador-sessions",
    "kind": "rss",
@@ -1300,7 +1442,7 @@
   },
   {
    "added": "oct11",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://www.buzzsprout.com/1864521",
    "id": "super-progressive",
    "kind": "rss",
@@ -1309,7 +1451,7 @@
   },
   {
    "added": "oct11",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://www.mixcloud.com/aboveandbeyond/",
    "id": "group-therapy",
    "kind": "mixcloud",
@@ -1318,7 +1460,7 @@
   },
   {
    "added": "oct11",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://soundcloud.com/gaibarone",
    "id": "gai-barone-patterns",
    "kind": "rss",
@@ -1327,7 +1469,7 @@
   },
   {
    "added": "oct11",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "http://www.coldwiredmusic.com",
    "id": "coldwired",
    "kind": "rss",
@@ -1336,7 +1478,11 @@
   },
   {
    "added": "oct11",
-   "group": "Progressive",
+   "also": [
+    "Techno",
+    "House"
+   ],
+   "group": "Progressive & Trance",
    "home": "https://www.spreaker.com/podcast/citr-techno-progressivo--4254124",
    "id": "citr-techno-progressivo",
    "kind": "rss",
@@ -1345,7 +1491,7 @@
   },
   {
    "added": "oct11",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://manualmovement.podbean.com",
    "id": "manual-movement",
    "kind": "rss",
@@ -1354,7 +1500,10 @@
   },
   {
    "added": "oct11",
-   "group": "Progressive",
+   "also": [
+    "House"
+   ],
+   "group": "Progressive & Trance",
    "home": "https://www.21cprogressivehouse.com/",
    "id": "21c-progressive",
    "kind": "rss",
@@ -1363,7 +1512,7 @@
   },
   {
    "added": "oct14",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://anjunadeep.com/music",
    "id": "anjunadeep-releases",
    "kind": "manual",
@@ -1373,7 +1522,7 @@
   {
    "accumulate": true,
    "added": "20 Oct",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://www.youtube.com/@officialuvmusic",
    "id": "underground-live-forever",
    "kind": "rss",
@@ -1384,7 +1533,7 @@
   },
   {
    "added": "20 Oct",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://promodj.com/alexeysonar",
    "id": "skytop-residency",
    "kind": "rss",
@@ -1394,7 +1543,7 @@
   },
   {
    "added": "20 Oct",
-   "group": "Progressive",
+   "group": "Progressive & Trance",
    "home": "https://www.john00fleming.com",
    "id": "joof-radio",
    "kind": "rss",
@@ -1404,6 +1553,9 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "Techno"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/mutualism",
    "id": "nts-mutualism",
@@ -1413,6 +1565,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/dark-entries-record",
    "id": "nts-dark-entries-record",
@@ -1422,6 +1578,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/funkineven",
    "id": "nts-funkineven",
@@ -1431,6 +1591,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "House",
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/day-care",
    "id": "nts-day-care",
@@ -1440,6 +1604,9 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/secret-sundaze",
    "id": "nts-secret-sundaze",
@@ -1449,6 +1616,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "Techno",
+    "Progressive & Trance"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/mala-junta",
    "id": "nts-mala-junta",
@@ -1458,6 +1629,9 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris",
    "id": "nts-canyoufeelthesun-w-call-super-parris",
@@ -1467,6 +1641,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/danielle",
    "id": "nts-danielle",
@@ -1476,6 +1654,9 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/zaltan",
    "id": "nts-zaltan",
@@ -1494,6 +1675,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "House",
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/bill-brewster",
    "id": "nts-bill-brewster",
@@ -1503,6 +1688,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/circuits",
    "id": "nts-circuits",
@@ -1512,6 +1701,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/kevin-saunderson",
    "id": "nts-kevin-saunderson",
@@ -1521,7 +1714,10 @@
   },
   {
    "added": "20 Oct",
-   "group": "Bass",
+   "also": [
+    "Techno"
+   ],
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/motor-system",
    "id": "nts-motor-system",
    "kind": "nts",
@@ -1530,7 +1726,7 @@
   },
   {
    "added": "20 Oct",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/introspekt",
    "id": "nts-introspekt",
    "kind": "nts",
@@ -1539,7 +1735,7 @@
   },
   {
    "added": "20 Oct",
-   "group": "Bass",
+   "group": "Bass & Jungle",
    "home": "https://www.nts.live/shows/travs-presents",
    "id": "nts-travs-presents",
    "kind": "nts",
@@ -1602,6 +1798,10 @@
   },
   {
    "added": "20 Oct",
+   "also": [
+    "House",
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "NTS",
    "home": "https://www.nts.live/shows/alexander-nut",
    "id": "nts-alexander-nut",
@@ -1619,6 +1819,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "House"
+   ],
    "group": "triple j",
    "home": "https://www.abc.net.au/triplej/programs/mix-up",
    "id": "triplej-mix-up",
@@ -1651,6 +1854,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "triple j",
    "home": "https://www.abc.net.au/triplej/programs/soul-ctrl",
    "id": "triplej-soul-ctrl",
@@ -1659,6 +1865,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "triple j",
    "home": "https://www.abc.net.au/triplej/programs/hip-hop-show",
    "id": "triplej-hip-hop-show",
@@ -1667,6 +1876,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "triple j",
    "home": "https://www.abc.net.au/triplej/programs/blak-out",
    "id": "triplej-blak-out",
@@ -1715,6 +1927,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "Double J",
    "home": "https://www.abc.net.au/listen/programs/the-block-party",
    "id": "doublej-the-block-party",
@@ -1723,6 +1938,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/b01fm4ss",
    "id": "bbc-gilles-peterson",
@@ -1741,6 +1959,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Techno"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/m002d2x6",
    "id": "bbc-the-6-mix-with-mary-anne-hobbs",
@@ -1750,6 +1971,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Bass & Jungle"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/m001qng7",
    "id": "bbc-sherelle",
@@ -1759,6 +1983,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Funk, Soul & Hip Hop"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/m000txn4",
    "id": "bbc-jamz-supernova",
@@ -1777,6 +2004,10 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/m001dkv1",
    "id": "bbc-6-musics-rave-forever",
@@ -1786,6 +2017,10 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/b006wkfp",
    "id": "bbc-radio-1s-essential-mix",
@@ -1804,6 +2039,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Bass & Jungle"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/b09c12lj",
    "id": "bbc-radio-1s-drum-and-bass-show",
@@ -1813,6 +2051,10 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Techno",
+    "House"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/b00f3pc4",
    "id": "bbc-radio-1s-classic-essential-mix",
@@ -1822,6 +2064,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "House"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/b006ww0v",
    "id": "bbc-pete-tong",
@@ -1831,6 +2076,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "House"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/m000zwn2",
    "id": "bbc-pete-tongs-hot-mix",
@@ -1849,6 +2097,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "Bass & Jungle"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/m0003l3c",
    "id": "bbc-radio-1-dance-drum-and-bass-mix",
@@ -1858,6 +2109,9 @@
   },
   {
    "added": "6 Nov",
+   "also": [
+    "House"
+   ],
    "group": "BBC",
    "home": "https://www.bbc.co.uk/programmes/b01d76k4",
    "id": "bbc-the-residency-on-radio-1-dance",

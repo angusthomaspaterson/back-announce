@@ -9,8 +9,8 @@ export const homeLabel = HOME === PERTH ? 'Perth time' : 'your time';
 export const $ = id => document.getElementById(id);
 export const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
 
-export const GROUP_COLOURS = {'NTS': '#1b1d22', 'Rinse FM': '#8a4bd6', 'SoundCloud': '#ff5500', 'Podcasts': '#2b6cb0', 'Writing': '#2f7d5b', 'Radio': '#1da0c3', 'Mixes': '#c98a1a', 'Perth': '#e0508a', 'Bass': '#6f9a1f', 'Progressive': '#0d8080', 'triple j': '#d3441c', 'Double J': '#22385c', 'BBC': '#4b4f9e', 'House': '#a23b72', 'Techno': '#38606f', 'Other': '#6b6f78'};
-const GROUP_COLOURS_DARK = {'NTS': '#5a5f6a', 'Double J': '#5b7bb5', 'House': '#d06aa0', 'Techno': '#6d9aab'};
+export const GROUP_COLOURS = {'NTS': '#1b1d22', 'Rinse FM': '#8a4bd6', 'SoundCloud': '#ff5500', 'Podcasts': '#2b6cb0', 'Writing': '#2f7d5b', 'Radio': '#1da0c3', 'Mixes': '#c98a1a', 'Perth': '#e0508a', 'Bass & Jungle': '#6f9a1f', 'Progressive & Trance': '#0d8080', 'triple j': '#d3441c', 'Double J': '#22385c', 'BBC': '#4b4f9e', 'House': '#a23b72', 'Techno': '#38606f', 'Funk, Soul & Hip Hop': '#8c6d1f', 'Other': '#6b6f78'};
+const GROUP_COLOURS_DARK = {'NTS': '#5a5f6a', 'Double J': '#5b7bb5', 'House': '#d06aa0', 'Techno': '#6d9aab', 'Funk, Soul & Hip Hop': '#c9a24a'};
 /** Every category a source belongs to: its main group (which sets its colour) first, then any
  *  extra ones listed in `also`, such as an NTS show that is also Techno. */
 export const catsOf = s => [...new Set([(s && s.group) || 'Other', ...(s && Array.isArray(s.also) ? s.also : [])])];

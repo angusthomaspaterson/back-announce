@@ -7,8 +7,9 @@ export const PACKS = [
   {id: 'radio', name: 'Radio presenters', blurb: 'BBC 6 Music and Radio 1, triple j, Double J', groups: ['BBC', 'triple j', 'Double J', 'Radio', 'Perth']},
   {id: 'underground', name: 'Underground radio', blurb: 'NTS and Rinse FM residencies', groups: ['NTS', 'Rinse FM']},
   {id: 'club', name: 'House and techno', blurb: 'Club music from NTS, Rinse FM and beyond', groups: ['House', 'Techno']},
-  {id: 'bass', name: 'Bass and jungle', blurb: 'Drum & bass, dubstep, garage', groups: ['Bass']},
-  {id: 'prog', name: 'Progressive and mixes', blurb: 'Melodic house, trance, DJ mixes', groups: ['Progressive', 'Mixes']},
+  {id: 'bass', name: 'Bass and jungle', blurb: 'Drum & bass, dubstep, garage', groups: ['Bass & Jungle']},
+  {id: 'prog', name: 'Progressive and mixes', blurb: 'Melodic house, trance, DJ mixes', groups: ['Progressive & Trance', 'Mixes']},
+  {id: 'soul', name: 'Funk, soul and hip hop', blurb: 'Soul, R&B, hip hop and rare groove', groups: ['Funk, Soul & Hip Hop']},
   {id: 'words', name: 'Writing and podcasts', blurb: 'Critics, newsletters, interviews', groups: ['Writing', 'Podcasts']},
 ];
 
