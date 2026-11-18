@@ -1,3 +1,23 @@
 {
- "items": []
+ "items": [
+  {
+   "card": {
+    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qh/Z/4n.aac",
+    "date": "2026-11-17T10:00:00Z",
+    "desc": "Join Jack for CORE as he catches you up on what's been happening in November so far in the heavy music world! Available until 17 Dec. Tracklist: Make Them Suffer – BLACK SHEEP; Amira Elfeky – Tired; BLEACH TO DEATH – Ache; Bad Juju – Deceiver; Rev3rent – Eyes Wide Shut; Silent Planet – fangs!! [Ft. Jacob Charlton]; Justice For The Damned – Torn In Two; Car Underwater – Waiting (For The Rope To Slip); Desire – Desire; Thy Art Is Murder – Squeeze; Thy Art Is Murder – Reign Of Darkness; Spiritbox – Mourning; VOLATILE WAYS – Not For Your Eyes; thrown – don't be fooled; nightlight – SHUT//UP; Come…",
+    "duration": "7200",
+    "group": "triple j",
+    "home": "https://www.abc.net.au/triplej/programs/core",
+    "id": "107375588",
+    "image": "https://live-production.wcms.abc-cdn.net.au/26f94817a83566ba175f35a449566dca?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "sid": "triplej-core",
+    "sname": "CORE with Jack Bergin",
+    "title": "CORE, 17 Nov",
+    "url": "https://www.abc.net.au/triplej/programs/core/core/107375588"
+   },
+   "key": "triplej-core:107375588",
+   "note": "I'm a longtime fan of heavy music and dip in occasionally (when I'm not distracted by electronic), so it's a lot of fun to jump into this. The standard of the triple j specialist shows is really high!",
+   "pickedAt": "2026-11-18T09:24:30Z"
+  }
+ ]
 }
