@@ -303,6 +303,7 @@ def parse_rinse(page, src):
         page = page.decode("utf-8", "ignore")
     og = re.search(r'property="og:image" content="([^"]+)"', page)
     show_img = html.unescape(og.group(1)) if og else None
+    files = rinse_files(page)
     seen, out = set(), []
     for m in re.finditer(r"/episodes/([a-z0-9-]+)", page):
         slug = m.group(1)
@@ -317,9 +318,36 @@ def parse_rinse(page, src):
             title = f"{src['name']}, {day_month(datetime.date(y, mo, d))} {y}"
         else:
             title = src["name"]
-        out.append(item(slug, title, f"https://www.rinse.fm/episodes/{slug}", date, "", {"image": show_img}))
+        extra = {"image": show_img}
+        if slug in files:
+            # The replay Rinse publishes for each episode: a plain MP3, so it plays in the app.
+            extra["audio"], mins = files[slug]
+            extra["duration"] = str(mins * 60) if mins else None
+        out.append(item(slug, title, f"https://www.rinse.fm/episodes/{slug}", date, "", extra))
         if len(out) >= KEEP:
             break
+    return out
+
+
+def rinse_files(page):
+    """slug -> (replay MP3 address, length in minutes) from the episode records in a Rinse page.
+
+    The page embeds each episode as escaped JSON: "slug", then "episodeLength" and "fileUrl"
+    (https://replay.rinse.fm/....mp3). An episode not yet uploaded has no fileUrl and is left out.
+    """
+    text = page.replace('\\"', '"').replace("\\u002F", "/")
+    out = {}
+    # From one episode's slug up to its fileUrl, never running into the next episode's slug.
+    for m in re.finditer(r'"slug":"([a-z0-9-]+)"((?:(?!"slug":").){0,3000}?)"fileUrl":"(https://[^"]+?\.mp3)"', text, re.S):
+        slug, between, url = m.groups()
+        if slug in out:
+            continue
+        mins = re.search(r'"episodeLength":(\d+)', between)
+        try:
+            url = json.loads(f'"{url}"')   # undo JSON escapes such as & for "&"
+        except ValueError:
+            pass
+        out[slug] = (url, int(mins.group(1)) if mins else None)
     return out
 
 

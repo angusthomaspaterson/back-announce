@@ -190,6 +190,17 @@ class ParseRinse(unittest.TestCase):
         self.assertEqual(ep["date"], "2026-10-06T09:00:00Z")  # 10:00 BST
         self.assertEqual(ep["url"], "https://www.rinse.fm/episodes/papaoul-06-10-2026-1000")
         self.assertTrue(ep["image"].startswith("https://image.rinse.fm/"))
+        # Each episode carries Rinse's replay MP3, so it plays in the app.
+        self.assertEqual(ep["audio"], "https://replay.rinse.fm/uk/Papaoul061026_.mp3")
+        self.assertEqual(ep["duration"], "7200")
+        older = next(i for i in items if i["id"].startswith("papaoul-29-09-2026"))
+        self.assertEqual(older["audio"], "https://replay.rinse.fm/uk/Papaoul290926.mp3")
+        self.assertTrue(all(i["audio"].startswith("https://replay.rinse.fm/") for i in items if i.get("audio")))
+
+    def test_rinse_replay_addresses_are_unescaped(self):
+        # As Fabio & Grooverider's page has it: the & arrives as & inside escaped JSON.
+        page = r'{\"slug\":\"fabio-grooverider-23-04-2023-1900\",\"episodeLength\":120,\"fileUrl\":\"https://replay.rinse.fm/kool/Fabio&Grooverider230423.mp3\"}'
+        self.assertEqual(gather.rinse_files(page), {"fabio-grooverider-23-04-2023-1900": ("https://replay.rinse.fm/kool/Fabio&Grooverider230423.mp3", 120)})
 
     def test_uk_clock(self):
         dt = datetime.datetime
