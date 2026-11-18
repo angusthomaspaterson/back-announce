@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-11-18T15:00:00Z",
+   "g": "Rinse FM",
+   "s": "Utopia Presents",
+   "sid": "rinse-utopia",
+   "t": "Utopia Presents, 18 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/utopia-presents-18-11-2026-1500"
+  },
+  {
    "d": "2026-11-18T14:05:47Z",
    "g": "Writing",
    "s": "First Floor",
@@ -91,15 +99,6 @@
    "u": "https://aquariumdrunkard.com/2026/11/18/transmissions-larry-crane-tape-op/"
   },
   {
-   "d": "2026-11-18T06:00:00Z",
-   "g": "Podcasts",
-   "s": "Sound Opinions",
-   "sid": "sound-opinions",
-   "sp": "Sound Opinions RIP Juan Atkins",
-   "t": "RIP Juan Atkins",
-   "u": "https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/fbcdbd14-1a8a-401d-8294-1b0e863bf489.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
    "d": "2026-11-18T04:50:24Z",
    "g": "Writing",
    "s": "Mixmag Australia/Asia",
@@ -122,6 +121,15 @@
    "sid": "guardian-au-music",
    "t": "Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef",
    "u": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef"
+  },
+  {
+   "d": "2026-11-18T00:00:00Z",
+   "g": "Podcasts",
+   "s": "Sound Opinions",
+   "sid": "sound-opinions",
+   "sp": "Sound Opinions RIP Juan Atkins",
+   "t": "RIP Juan Atkins",
+   "u": "https://sound-opinions-0YBNbAs3.simplecast.com/episodes/rip-juan-atkins-Zip_XAua"
   },
   {
    "d": "2026-11-18T00:00:00Z",
@@ -155,18 +163,10 @@
    "sid": "bbc-radio-1s-future-artists-with-sian-eleri",
    "t": "Jedsoul and Waylon Wyatt",
    "u": "https://www.bbc.co.uk/sounds/play/m003400d"
-  },
-  {
-   "d": "2026-11-17T16:34:47Z",
-   "g": "Writing",
-   "s": "Stereogum: Album of the Week",
-   "sid": "stereogum-aotw",
-   "t": "Album Of The Week: Danz CM The Interdimensional Extraterrestrial Time Travelers Society",
-   "u": "https://stereogum.com/2518002/album-of-the-week-danz-cm-the-interdimensional-extraterrestrial-time-travelers-society/reviews/album-of-the-week/"
   }
  ],
  "lastSeen": "2026-11-18T09:09:29Z",
- "newCount": 7,
+ "newCount": 8,
  "paused": 23,
  "releases": [
   {
@@ -257,5 +257,5 @@
   }
  ],
  "sources": 210,
- "updated": "2026-11-18T21:30:07Z"
+ "updated": "2026-11-18T21:30:28Z"
 }

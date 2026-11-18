@@ -5,6 +5,16 @@
  "id": "pow-mag",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/225275309/11bda101919e039ef1730111c6c3efab.mp3",
+   "date": "2026-11-18T18:25:18Z",
+   "desc": "The Chattanooga rapper sits down for an episode of POW’s The Truth Hurts.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-the-isaiah-rashad-interview",
+   "image": "https://substackcdn.com/image/fetch/$s_!XLH6!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0cdb598-fa40-4174-b66a-bc3f42628d88_1080x1080.png",
+   "title": "The Isaiah Rashad Interview",
+   "url": "https://www.powmag.net/p/the-isaiah-rashad-interview"
+  },
+  {
    "audio": null,
    "date": "2026-11-17T18:38:02Z",
    "desc": "POW’s resident jazz expert runs down the records you need to hear.",
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!DhI1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F405ca810-3b9e-4ccc-afa4-ec76edb61695_1200x1200.png",
    "title": "DJ Shadow Tells Us Everything We’ve Ever Wanted To Know About Endtroducing…..",
    "url": "https://www.powmag.net/p/dj-shadow-endtroducing-interview"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-24T14:30:48Z",
-   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Harley Geffner reviews new work from Lucki, Jackboy, and more.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-raps-for-leaving-your-body-behind",
-   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Izu3k-agHEM",
-   "title": "Raps for Leaving Your Body Behind",
-   "url": "https://www.powmag.net/p/raps-for-leaving-your-body-behind"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-18T01:37:58Z"
+ "updatedAt": "2026-11-18T21:30:28Z"
 }

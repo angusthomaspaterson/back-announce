@@ -5,6 +5,16 @@
  "id": "rinse-utopia",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/uk/UtopiaPresents181126.mp3",
+   "date": "2026-11-18T15:00:00Z",
+   "desc": "",
+   "duration": "7200",
+   "id": "utopia-presents-18-11-2026-1500",
+   "image": "https://image.rinse.fm/_/Utopia-Presents-June-2025-3.jpg?w=1200&h=630",
+   "title": "Utopia Presents, 18 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/utopia-presents-18-11-2026-1500"
+  },
+  {
    "audio": "https://replay.rinse.fm/uk/UtopiaPresents111126.mp3",
    "date": "2026-11-11T15:00:00Z",
    "desc": "",
@@ -235,16 +245,6 @@
    "url": "https://www.rinse.fm/episodes/utopia-presents-13-05-2026-1500"
   },
   {
-   "audio": "https://replay.rinse.fm/uk/UtopiaPresents290426.mp3",
-   "date": "2026-04-29T14:00:00Z",
-   "desc": "",
-   "duration": "7200",
-   "id": "utopia-presents-29-04-2026-1500",
-   "image": "https://image.rinse.fm/_/Utopia-Presents-June-2025-3.jpg?w=1200&h=630",
-   "title": "Utopia Presents, 29 Apr 2026",
-   "url": "https://www.rinse.fm/episodes/utopia-presents-29-04-2026-1500"
-  },
-  {
    "audio": "https://replay.rinse.fm/uk/UtopiaPresents170725.mp3",
    "date": "2025-07-17T18:00:00Z",
    "desc": "",
@@ -257,5 +257,5 @@
  ],
  "kind": "rinse",
  "name": "Utopia Presents",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-18T21:30:28Z"
 }
