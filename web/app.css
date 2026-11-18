@@ -371,6 +371,9 @@ body.has-player .toast{bottom:calc(196px + env(safe-area-inset-bottom,0px))}
 @media (max-width:640px){
   .fd .filters{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin-inline:-16px;padding-inline:16px;scroll-padding-inline:16px}
   .fd .filters::-webkit-scrollbar{display:none}
+  /* The chip row runs into the side margins, so the sticky header does too; otherwise chips
+     scrolling up behind it show in the corners. */
+  header.top{margin-inline:-16px;padding-inline:16px}
   .fd .filters .chip{flex:none}
   .fd .filters .chip.act{margin-left:0}
 }
