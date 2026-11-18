@@ -225,6 +225,21 @@
    "sname": "Time To Track (Andrew Wowk, 2SER)",
    "title": "Time To Track on 2SER (08/10/2026 - Special Guest Karan From Gigged Out)",
    "url": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-08-10"
+  },
+  "triplej-core:107394650": {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qg/Z/t6.mp3",
+   "date": "2026-11-17T12:00:00Z",
+   "desc": "Jack wrangles Thy Art Is Murder's fresh face Jerry Grimefeld into the studio to chat all about his crazy year joining the band and launching head first into a new era. Available until 17 Dec.",
+   "duration": "754",
+   "group": "triple j",
+   "home": "https://www.abc.net.au/triplej/programs/core",
+   "id": "107394650",
+   "image": "https://live-production.wcms.abc-cdn.net.au/3ee7de28d50aeccfc6b23aa51ebe6647?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic",
+   "savedAt": "2026-11-18T09:11:34Z",
+   "sid": "triplej-core",
+   "sname": "CORE with Jack Bergin",
+   "title": "Thy Art Is Murder Interview",
+   "url": "https://www.abc.net.au/triplej/programs/core/thy-art-is-murder-iv/107394650"
   }
  }
 }
