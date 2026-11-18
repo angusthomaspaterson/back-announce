@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-11-18T10:22:44Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Aria awards: how do Australian artists feel about their music being used to train AI? – video",
+   "u": "https://www.theguardian.com/music/video/2026/nov/18/aria-awards-how-do-australian-artists-feel-about-their-music-being-used-to-train-ai-video"
+  },
+  {
    "d": "2026-11-18T10:04:40Z",
    "g": "Writing",
    "s": "Crack Magazine",
@@ -154,18 +162,10 @@
    "sid": "balearic-breakfast",
    "t": "Colleen 'Cosmo' Murphy's Balearic Breakfast 17.11.26",
    "u": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261117-095953/"
-  },
-  {
-   "d": "2026-11-17T12:00:00Z",
-   "g": "triple j",
-   "s": "CORE with Jack Bergin",
-   "sid": "triplej-core",
-   "t": "Thy Art Is Murder Interview",
-   "u": "https://www.abc.net.au/triplej/programs/core/thy-art-is-murder-iv/107394650"
   }
  ],
  "lastSeen": "2026-11-18T09:09:29Z",
- "newCount": 1,
+ "newCount": 2,
  "paused": 23,
  "releases": [
   {
@@ -256,5 +256,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-18T10:15:12Z"
+ "updated": "2026-11-18T10:22:41Z"
 }
