@@ -6,6 +6,7 @@
   "dada-strain",
   "dialekt-radio",
   "fbi-sunset",
+  "guardian-au-music",
   "hearing-things",
   "herb-sundays",
   "in-sheeps-clothing",
@@ -26,6 +27,9 @@
   "the-wire",
   "truancy-volume"
  ],
+ "pausedAt": {
+  "guardian-au-music": "2026-11-18T09:08:16.069Z"
+ },
  "saved": {
   "anjunadeep-edition:-anjunadeep-the-anjunadeep-edition-615-with-dusky-live-at-explorations-": {
    "date": "2026-10-15T15:05:46Z",
