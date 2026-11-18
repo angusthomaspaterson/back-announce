@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-11-18T10:04:40Z",
+   "g": "Writing",
+   "s": "Crack Magazine",
+   "sid": "crack-magazine",
+   "t": "Glastonbury drops first names for 2027",
+   "u": "https://crackmagazine.net/2026/11/glastonbury-drops-first-names-for-2027/?utm_source=rss&utm_medium=rss&utm_campaign=glastonbury-drops-first-names-for-2027"
+  },
+  {
    "d": "2026-11-18T09:01:25Z",
    "g": "Writing",
    "s": "The Guardian: Australian music",
@@ -23,6 +31,14 @@
    "sid": "flow-state",
    "t": "Elvar Smári",
    "u": "https://www.flowstate.fm/p/elvar-smari"
+  },
+  {
+   "d": "2026-11-18T08:00:00Z",
+   "g": "triple j",
+   "s": "Home and Hosed with Anika Luna",
+   "sid": "triplej-home-and-hosed",
+   "t": "Home and Hosed, 18 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107379508"
   },
   {
    "d": "2026-11-18T07:00:00Z",
@@ -146,28 +162,10 @@
    "sid": "triplej-core",
    "t": "Thy Art Is Murder Interview",
    "u": "https://www.abc.net.au/triplej/programs/core/thy-art-is-murder-iv/107394650"
-  },
-  {
-   "d": "2026-11-17T10:30:00Z",
-   "g": "Podcasts",
-   "s": "Dissect",
-   "sid": "dissect",
-   "sp": "Dissect 10 for 10: The Greatest Musical Discoveries in Dissect History (PART 1)",
-   "t": "10 for 10: The Greatest Musical Discoveries in Dissect History (PART 1)",
-   "u": "https://traffic.megaphone.fm/GLT7879381683.mp3"
-  },
-  {
-   "d": "2026-11-17T10:00:00Z",
-   "g": "Radio",
-   "s": "NPR: All Songs Considered",
-   "sid": "all-songs-considered",
-   "sp": "NPR: All Songs Considered Bassvictim, Saya Gray, Keaton Henson and more of our favorite new tracks",
-   "t": "Bassvictim, Saya Gray, Keaton Henson and more of our favorite new tracks",
-   "u": "https://www.npr.org/2026/11/17/nx-s1-6043205/bassvictim-saya-gray-keaton-henson-and-more-of-our-favorite-new-tracks"
   }
  ],
  "lastSeen": "2026-11-18T09:09:29Z",
- "newCount": 0,
+ "newCount": 1,
  "paused": 23,
  "releases": [
   {
@@ -258,5 +256,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-18T09:27:00Z"
+ "updated": "2026-11-18T10:12:17Z"
 }
