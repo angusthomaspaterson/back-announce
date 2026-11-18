@@ -41,14 +41,6 @@
    "u": "https://www.flowstate.fm/p/elvar-smari"
   },
   {
-   "d": "2026-11-18T08:00:00Z",
-   "g": "triple j",
-   "s": "Home and Hosed with Anika Luna",
-   "sid": "triplej-home-and-hosed",
-   "t": "Home and Hosed, 18 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107379508"
-  },
-  {
    "d": "2026-11-18T07:00:00Z",
    "g": "Podcasts",
    "s": "Transmissions (Aquarium Drunkard)",
@@ -162,6 +154,14 @@
    "sid": "balearic-breakfast",
    "t": "Colleen 'Cosmo' Murphy's Balearic Breakfast 17.11.26",
    "u": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261117-095953/"
+  },
+  {
+   "d": "2026-11-17T12:00:00Z",
+   "g": "triple j",
+   "s": "CORE with Jack Bergin",
+   "sid": "triplej-core",
+   "t": "Thy Art Is Murder Interview",
+   "u": "https://www.abc.net.au/triplej/programs/core/thy-art-is-murder-iv/107394650"
   }
  ],
  "lastSeen": "2026-11-18T09:09:29Z",
@@ -255,6 +255,6 @@
    "u": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-08-10"
   }
  ],
- "sources": 211,
+ "sources": 210,
  "updated": "2026-11-18T10:22:41Z"
 }
