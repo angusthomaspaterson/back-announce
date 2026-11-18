@@ -5,6 +5,16 @@
  "id": "ra-exchange",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6afda2ccf890ca881b681624/media.mp3",
+   "date": "2026-11-18T13:06:20Z",
+   "desc": "The South African DJ on Afro house's global rise, the townships that incubated it and why the sound should stay open to all. Shimza grew up in Tembisa, a township east of Johannesburg, where as a kid he followed the DJs who played the area's stokvel parties. Members of these community savings clubs took turns hosting and competed to book the best DJs. Those DJs became local tastemakers, and some went on to play national radio and run the record shops that shaped grassroots South African house. He eventually broke out of that circuit to become one of Afro house's biggest exports. This year he …",
+   "duration": "54:33",
+   "id": "6afda2ccf890ca881b681624",
+   "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1795006996877-09eab148-e787-4456-8eef-cd51333e0395.jpeg",
+   "title": "EX.819 Shimza",
+   "url": "https://shows.acast.com/raexchange/episodes/ex819-shimza"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6af4683b7d020b369bbff5df/media.mp3",
    "date": "2026-11-11T13:06:02Z",
    "desc": "The Berghain resident on punk's ethos, choosing the difficult path and his new album, My Own Shadow. Marcel Dettmann has become synonymous with Berghain and its primary cultural export: Berlin techno. He began DJing at Ostgut, Berghain's predecessor, in 1999. When Berghain opened its doors in 2004, he was one of its first residents, on a roster that grew to include luminaries like his longtime collaborator Ben Klock. In this RA Exchange, Dettmann talks about the long road from bedroom DJ to one of techno's leading figures: first falling in love with '80s new wave records, running a record sto…",
@@ -243,19 +253,9 @@
    "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1776251202245-a68f64e5-6aaf-442f-97b3-89bf814ca853.jpeg",
    "title": "EX.795 Avalon Emerson",
    "url": "https://shows.acast.com/raexchange/episodes/ex795-avalon-emerson"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/69d63b56e257f11e036f7446/media.mp3",
-   "date": "2026-04-08T11:26:14Z",
-   "desc": "The Irish veteran talks about his prolific output, making music beyond the drum & bass canon and his forthcoming album, Tricklemore Sea. Dominick Martin—AKA Calibre—has spent the last three decades carving out one of the most singular paths in electronic music. Known to many as a cornerstone of drum & bass, the Northern Irish artist's work has always defied easy categorisation. His vast output spans house, techno, ambient and even folk. What unifies it all is a sense of what he calls \"inner space,\" which has cemented him as one of the underground's most respected figures. In this week's Excha…",
-   "duration": "49:56",
-   "id": "69d63b56e257f11e036f7446",
-   "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1775647534623-0df15bc9-97e6-4735-893b-4b55fb7b83e6.jpeg",
-   "title": "EX.794 Calibre",
-   "url": "https://shows.acast.com/raexchange/episodes/ex794-calibre"
   }
  ],
  "kind": "rss",
  "name": "RA Exchange",
- "updatedAt": "2026-11-12T01:33:18Z"
+ "updatedAt": "2026-11-18T15:31:22Z"
 }

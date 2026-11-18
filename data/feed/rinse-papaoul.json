@@ -5,6 +5,16 @@
  "id": "rinse-papaoul",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/uk/Papaoul171126_.mp3",
+   "date": "2026-11-17T10:00:00Z",
+   "desc": "",
+   "duration": "7200",
+   "id": "papaoul-17-11-2026-1000",
+   "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
+   "title": "Papaoul, 17 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/papaoul-17-11-2026-1000"
+  },
+  {
    "audio": "https://replay.rinse.fm/uk/Papoul101126.mp3",
    "date": "2026-11-10T10:00:00Z",
    "desc": "",
@@ -243,19 +253,9 @@
    "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
    "title": "Papaoul, 31 Mar 2026",
    "url": "https://www.rinse.fm/episodes/papaoul-31-03-2026-0900"
-  },
-  {
-   "audio": "https://replay.rinse.fm/uk/Papaoul240326.mp3",
-   "date": "2026-03-24T09:00:00Z",
-   "desc": "",
-   "duration": "7200",
-   "id": "papaoul-24-03-2026-0900",
-   "image": "https://image.rinse.fm/_/Papaoul_07_Matilda-Hill-Jenkins-Gabriel-Gahan_2023-11-28-093144_vccr.jpg?w=1200&h=630&fp=0.4949%2C0.433",
-   "title": "Papaoul, 24 Mar 2026",
-   "url": "https://www.rinse.fm/episodes/papaoul-24-03-2026-0900"
   }
  ],
  "kind": "rinse",
  "name": "Papaoul",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-18T15:31:22Z"
 }

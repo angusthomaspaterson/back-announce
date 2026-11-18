@@ -4,6 +4,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-18T13:59:16Z",
+   "desc": "Video directed by Igor Pjörrt ... Continue reading…",
+   "duration": null,
+   "id": "https:--www.gorillavsbear.net--p-388143",
+   "image": "https://townsquare.media/site/833/files/2026/11/attachment-edc-whispers.jpg?format=natural",
+   "title": "Erika de Casier – Whispers",
+   "url": "https://www.gorillavsbear.net/erika-de-casier-whispers/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-12T22:55:31Z",
    "desc": "Video directed by Warpstr ... Continue reading…",
    "duration": null,
@@ -241,19 +251,9 @@
    "image": "https://townsquare.media/site/833/files/2026/04/attachment-devils-hour.jpg?format=natural",
    "title": "Cate Kennan – Devil’s Hour",
    "url": "https://www.gorillavsbear.net/cate-kennan-devils-hour/"
-  },
-  {
-   "audio": null,
-   "date": "2026-04-22T13:00:34Z",
-   "desc": "Sophia Stel drops her first single for A24 Music , and it's an anthem... Continue reading…",
-   "duration": null,
-   "id": "https:--www.gorillavsbear.net--p-387944",
-   "image": "https://townsquare.media/site/833/files/2026/04/attachment-sophia-stel-bitches-talk-shit.jpg?format=natural",
-   "title": "Sophia Stel – Bitches Talk Shit",
-   "url": "https://www.gorillavsbear.net/sophia-stel-bitches-talk-shit/"
   }
  ],
  "kind": "rss",
  "name": "Gorilla vs. Bear",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-18T15:31:22Z"
 }

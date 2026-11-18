@@ -5,6 +5,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2440512729-resident-advisor-ex-819-shimza.mp3",
+   "date": "2026-11-18T13:05:51Z",
+   "desc": "The South African DJ on Afro house's global rise, the townships that incubated it and why the sound should stay open to all. Shimza grew up in Tembisa, a township east of Johannesburg, where as a kid he followed the DJs who played the area's stokvel parties. Members of these community savings clubs took turns hosting and competed to book the best DJs. Those DJs became local tastemakers, and some went on to play national radio and run the record shops that shaped grassroots South African house. He eventually broke out of that circuit to become one of Afro house's biggest exports. This year he …",
+   "duration": "00:54:33",
+   "id": "tag:soundcloud-2010:tracks-2440512729",
+   "image": "https://i1.sndcdn.com/artworks-YVR4xX5VVmqMCPYM-ExHIPQ-t3000x3000.jpg",
+   "title": "EX.819 Shimza",
+   "url": "https://soundcloud.com/resident-advisor/ex-819-shimza"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2438682870-resident-advisor-ra-1065-azzi-on-the-beat.mp3",
    "date": "2026-11-15T22:00:44Z",
    "desc": "An hour of Lagos street-pop from Nyege Nyege's mara trailblazer. Of the many shades of Lagos street-pop, few speak as vividly to dancers as mara, whose lightning-fast, free-flowing and often comedic routines have gone viral around the world. Heady polyrhythms and chirpy synths gallop at footwork-like speeds, but it all feels blissful, as effortless as a prancing gazelle. Azzi On The Beat wants to turn mara into a household sound around the world. His debut album Mara Gram, out now on Nyege Nyege Tapes, harnesses the intensity of his live sets, building beats on the fly to match the energy of …",
@@ -13,16 +23,6 @@
    "image": "https://i1.sndcdn.com/artworks-Pc9Jr2lVQzc1Muxh-5OHGrA-t3000x3000.jpg",
    "title": "RA.1065 Azzi On The Beat",
    "url": "https://soundcloud.com/resident-advisor/ra-1065-azzi-on-the-beat"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2436105303-resident-advisor-ex-818-marcel-dettmann.mp3",
-   "date": "2026-11-11T14:19:19Z",
-   "desc": "The Berghain resident on punk's ethos, choosing the difficult path and his new album, My Own Shadow. Marcel Dettmann has become synonymous with Berghain and its primary cultural export: Berlin techno. He began DJing at Ostgut, Berghain's predecessor, in 1999. When Berghain opened its doors in 2004, he was one of its first residents, on a roster that grew to include luminaries like his longtime collaborator Ben Klock. In this RA Exchange, Dettmann talks about the long road from bedroom DJ to one of techno's leading figures: first falling in love with '80s new wave records, running a record sto…",
-   "duration": "00:49:54",
-   "id": "tag:soundcloud-2010:tracks-2436105303",
-   "image": "https://i1.sndcdn.com/artworks-hXqtueWjCtfLCDzg-p9jx3w-t3000x3000.jpg",
-   "title": "EX.818 Marcel Dettmann",
-   "url": "https://soundcloud.com/resident-advisor/ex-818-marcel-dettmann"
   },
   {
    "audio": "https://feeds.soundcloud.com/stream/2433288471-resident-advisor-ra-1064-carlita.mp3",
@@ -257,5 +257,5 @@
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-18T15:31:22Z"
 }

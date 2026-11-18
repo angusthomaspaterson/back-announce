@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-18T00:00:00Z",
+   "desc": "To accompany his Unlimited Editions report in The Wire 514, Tim Fish compiles an annotated playlist of tracks from the Liverpool label When Blah Records emerged into the UK’s hiphop landscape in 2006, they formed part of an alternative movement to a rather dominant London scene. Co-founded by Lee Scott and Alex Jennings (aka Molotov), the label was primarily a way to officially distribute music for the rap crew Children Of The Damned (COTD), and the majority of artists who have put out records on the label over the subsequent 20 years have all had some real-life connection to Scott. The follo…",
+   "duration": null,
+   "id": "https:--www.thewire.co.uk-audio-tracks-unlimited-editions-blah-records",
+   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/11/18/ue5142_for_web.jpg",
+   "title": "Unlimited Editions: Blah Records",
+   "url": "https://www.thewire.co.uk/audio/tracks/unlimited-editions-blah-records"
+  },
+  {
+   "audio": null,
    "date": "2026-11-16T00:00:00Z",
    "desc": "Mark Korven’s scores for The Black Phone (2021) and Them (2021) destabilise hermetic soundworlds to convey psychological violence, writes Philip Brophy in his latest Secret History of Film Music column The contribution of Canadian composer Mark Korven to contemporary horror cinema is aligned with composers who sculpt their scores through tactile manipulation. His self-built Apprehension Engine, a hybrid guitar-percussion instrument, empowers distinctive acoustic control. Korven commissioned Toronto based guitar maker Tony Duggan-Smith to build the modest box incorporating tools and techniques…",
    "duration": null,
@@ -243,19 +253,9 @@
    "image": "https://www.thewire.co.uk/img/contain/610/480/2026/10/05/the_river_crop.jpg",
    "title": "Premiere: Ava Rasti’s  The River",
    "url": "https://www.thewire.co.uk/video/premiere-ava-rasti-s-the-river"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-02T00:00:00Z",
-   "desc": "The 1 October edition of The Wire 's weekly show on Resonance FM and Resonance Extra featured music by Don Cherry, Glass Triangle, Agnes Haus, Ziúr and more Tracklist Don Cherry “Doussn’Gouni Fly Pt 1” from Sunrise: With Collin Walcott & Leon Thomas + Oregon – Live In Ypsilanti, MI, 1977 ( WEWANTSOUNDS ) Brandon Seabrook “The Serial Fabulist” from Utility Modern ( Out Of Your Head ) Glass Triangle “Undr” from 3 x 1 ( Relative Pitch ) Kukangendai “All Standing” from Baquet Wheel ( Marionette ) Agnes Haus “act.III” from Eidolon ( LINE ) Jonathan Uliel Saldanha “B” from Khörus Anima ( Horror Ve…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-audio-on-air-james-gormley-presents-adventures-in-sound-and-music-79678",
-   "image": "https://www.thewire.co.uk/img/contain/613/480/2026/10/02/wire_aism_2_Oct_2026.jpg",
-   "title": "James Gormley presents  Adventures In Sound And Music",
-   "url": "https://www.thewire.co.uk/audio/on-air/james-gormley-presents-adventures-in-sound-and-music-79678"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-11-18T01:37:58Z"
+ "updatedAt": "2026-11-18T15:31:22Z"
 }

@@ -5,6 +5,17 @@
  "id": "triplej-prism",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qi/Z/eh.aac",
+   "date": "2026-11-18T10:00:00Z",
+   "desc": "Bringing you the best border-transcending pop track from at home and around the globe. Available until 18 Dec. Tracklist: TOMORROW X TOGETHER – Angel Bite; LUCY – AGAIN!; dress [feat. Heize] – I Love You; Yves – Hysteric; ANDY – ReGrEt It; Peach PRC – What If We Kissed; DJ BORING [feat. Miso Extra] – Waste Another Day; Robert Baxter & Sweatbaby – ICY (TAKE IT OFF); f5ve – I Choose You; Venus – PACK IT UP; Blusher – mrs brightside; Tom Nethersole – SO BLUE; Chxrry – U, Me & My Ego; Charly Oakley – TONGUE TIED; Robert Baxter – Ribs [Ft. Prophecy Girl]; GIRLSET – young & dumb; Srirachi – BBM; PA…",
+   "duration": "7200",
+   "id": "107379506",
+   "image": "https://live-production.wcms.abc-cdn.net.au/71b24260486040b035f70da078fb4c88?impolicy=wcms_crop_resize&cropH=675&cropW=1200&xPos=0&yPos=263&width=862&height=485&imformat=generic",
+   "title": "ROBERT BAXTER COHOSTS PRISM FOR AUS MUSIC MONTH !!!!!!!!! <3",
+   "until": "2026-12-18T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/prism/prism-rb-cohost/107379506"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qb/Z/e6.aac",
    "date": "2026-11-11T10:00:00Z",
    "desc": "Mowgli May is covering for Tiffi tonight and coming in hot with all the pop powerhouses of the moment... plus up and comers you need to get to know, from Australia to the world! Available until 11 Dec. Tracklist: tiffi – cold medicine; Chris Lorenzo & Chromeo – Fancy Footwork; 5 Seconds of Summer – Everyone’s a Star! (CLUBSOS VOL. 1); Tate McRae – Housewife; Salty – The Eye; Tinashe – Popstar; ADÉLA – Fantasize; Larissa Lambert – Yearning; Troye Sivan – She's the Best; Drake & Don Toliver – Solar Eclipse; Daine – Product of Profit (P.O.P); Cloonee, Prospa & Tristan Henry – Good Girl; ILLIT – …",
@@ -51,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "Prism with tiffi",
- "updatedAt": "2026-11-14T00:21:30Z"
+ "updatedAt": "2026-11-18T15:31:22Z"
 }

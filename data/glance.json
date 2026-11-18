@@ -1,6 +1,31 @@
 {
  "items": [
   {
+   "d": "2026-11-18T13:59:16Z",
+   "g": "Writing",
+   "s": "Gorilla vs. Bear",
+   "sid": "gorilla-vs-bear",
+   "t": "Erika de Casier – Whispers",
+   "u": "https://www.gorillavsbear.net/erika-de-casier-whispers/"
+  },
+  {
+   "d": "2026-11-18T13:06:20Z",
+   "g": "Podcasts",
+   "s": "RA Exchange",
+   "sid": "ra-exchange",
+   "sp": "RA Exchange EX.819 Shimza",
+   "t": "EX.819 Shimza",
+   "u": "https://shows.acast.com/raexchange/episodes/ex819-shimza"
+  },
+  {
+   "d": "2026-11-18T13:05:51Z",
+   "g": "Mixes",
+   "s": "RA Podcast",
+   "sid": "ra-podcast",
+   "t": "EX.819 Shimza",
+   "u": "https://soundcloud.com/resident-advisor/ex-819-shimza"
+  },
+  {
    "d": "2026-11-18T10:22:44Z",
    "g": "Writing",
    "s": "The Guardian: Australian music",
@@ -15,6 +40,14 @@
    "sid": "crack-magazine",
    "t": "Glastonbury drops first names for 2027",
    "u": "https://crackmagazine.net/2026/11/glastonbury-drops-first-names-for-2027/?utm_source=rss&utm_medium=rss&utm_campaign=glastonbury-drops-first-names-for-2027"
+  },
+  {
+   "d": "2026-11-18T10:00:00Z",
+   "g": "triple j",
+   "s": "Prism with tiffi",
+   "sid": "triplej-prism",
+   "t": "ROBERT BAXTER COHOSTS PRISM FOR AUS MUSIC MONTH !!!!!!!!! <3",
+   "u": "https://www.abc.net.au/triplej/programs/prism/prism-rb-cohost/107379506"
   },
   {
    "d": "2026-11-18T09:01:25Z",
@@ -124,48 +157,16 @@
    "u": "https://stereogum.com/2518002/album-of-the-week-danz-cm-the-interdimensional-extraterrestrial-time-travelers-society/reviews/album-of-the-week/"
   },
   {
-   "d": "2026-11-17T14:00:15Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
-   "u": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign"
-  },
-  {
-   "d": "2026-11-17T14:00:14Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "‘We don’t want our city to lose its storytellers’: Sydney artists given $25k in Australian first – no strings attached",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/18/artist-living-grant-sydney-australian-first-creative-arts"
-  },
-  {
-   "d": "2026-11-17T13:05:30Z",
-   "g": "Writing",
-   "s": "Futurism Restated (Philip Sherburne)",
-   "sid": "futurism-restated",
-   "t": "FR 202: Firing On All Cylinders",
-   "u": "https://futurismrestated.substack.com/p/fr-202-firing-on-all-cylinders"
-  },
-  {
-   "d": "2026-11-17T12:28:58Z",
-   "g": "Radio",
-   "s": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
-   "sid": "balearic-breakfast",
-   "t": "Colleen 'Cosmo' Murphy's Balearic Breakfast 17.11.26",
-   "u": "https://www.mixcloud.com/colleencosmomurphy/colleen-cosmo-murphys-balearic-breakfast-20261117-095953/"
-  },
-  {
-   "d": "2026-11-17T12:00:00Z",
-   "g": "triple j",
-   "s": "CORE with Jack Bergin",
-   "sid": "triplej-core",
-   "t": "Thy Art Is Murder Interview",
-   "u": "https://www.abc.net.au/triplej/programs/core/thy-art-is-murder-iv/107394650"
+   "d": "2026-11-17T16:00:00Z",
+   "g": "NTS",
+   "s": "Awe w/ Laurel Halo",
+   "sid": "nts-laurel-halo",
+   "t": "Awe w/ Laurel Halo",
+   "u": "https://www.nts.live/shows/laurel-halo/episodes/laurel-halo-17th-november-2026"
   }
  ],
  "lastSeen": "2026-11-18T09:09:29Z",
- "newCount": 2,
+ "newCount": 6,
  "paused": 23,
  "releases": [
   {
@@ -256,5 +257,5 @@
   }
  ],
  "sources": 210,
- "updated": "2026-11-18T10:22:41Z"
+ "updated": "2026-11-18T15:31:22Z"
 }
