@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-11-18T14:05:47Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 18 Nov: 8 records",
+   "u": "https://firstfloor.substack.com/p/roxanne-harris-longform"
+  },
+  {
    "d": "2026-11-18T13:59:16Z",
    "g": "Writing",
    "s": "Gorilla vs. Bear",
@@ -155,18 +163,10 @@
    "sid": "stereogum-aotw",
    "t": "Album Of The Week: Danz CM The Interdimensional Extraterrestrial Time Travelers Society",
    "u": "https://stereogum.com/2518002/album-of-the-week-danz-cm-the-interdimensional-extraterrestrial-time-travelers-society/reviews/album-of-the-week/"
-  },
-  {
-   "d": "2026-11-17T16:00:00Z",
-   "g": "NTS",
-   "s": "Awe w/ Laurel Halo",
-   "sid": "nts-laurel-halo",
-   "t": "Awe w/ Laurel Halo",
-   "u": "https://www.nts.live/shows/laurel-halo/episodes/laurel-halo-17th-november-2026"
   }
  ],
  "lastSeen": "2026-11-18T09:09:29Z",
- "newCount": 6,
+ "newCount": 7,
  "paused": 23,
  "releases": [
   {
@@ -257,5 +257,5 @@
   }
  ],
  "sources": 210,
- "updated": "2026-11-18T15:31:22Z"
+ "updated": "2026-11-18T21:30:07Z"
 }

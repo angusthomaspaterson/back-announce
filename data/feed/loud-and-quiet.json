@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-18T17:03:29Z",
+   "desc": "The fantasy team of artists who’ve meant the most to Ryley Walker throughout his life and career",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-ryley-walkers-starting-xi",
+   "image": "https://substackcdn.com/image/fetch/$s_!JOW7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbdafa31-75e2-4805-9b02-11be6c416797_800x517.gif",
+   "title": "Ryley Walker’s Starting XI",
+   "url": "https://loudandquiet.substack.com/p/ryley-walkers-starting-xi"
+  },
+  {
+   "audio": null,
    "date": "2026-11-13T08:02:21Z",
    "desc": "Horse Vision’s ‘Goblin’s Head’, Radie Peat interview, Wendy Eisenberg live in London, First & Best with DIIV, paranormal Bob Dylan photos",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!mceK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3002ead2-dbf3-43bb-8722-785400de813a_2079x2048.jpeg",
    "title": "The celestial folk, reggae and dub of June McDoom",
    "url": "https://loudandquiet.substack.com/p/follow-the-light-to-the-celestial-folk-reggae-and-dub-of-june-mcdoom"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-02T08:44:06Z",
-   "desc": "Ryley Walker lives!, First & Best with Blondshell, Bring Back Greatest Hits, Album Stock Market, Mary In The Junkyard live in London",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-1ab",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/54f6d7e1-2a99-4e6d-b2b6-4a27d8633121_800x507.jpeg",
-   "title": "L&Q Weekly",
-   "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-1ab"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-11-14T02:52:09Z"
+ "updatedAt": "2026-11-18T21:30:07Z"
 }
