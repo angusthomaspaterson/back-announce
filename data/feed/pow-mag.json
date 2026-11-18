@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-17T18:38:02Z",
+   "desc": "POW’s resident jazz expert runs down the records you need to hear.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-fall-jazz-roundup-part-one-2026",
+   "image": "https://substackcdn.com/image/fetch/$s_!GiBI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46f74418-42c7-4c1f-b8a8-8b5a3c8b46fa_1200x1200.png",
+   "title": "Fall Jazz Roundup, Part One",
+   "url": "https://www.powmag.net/p/fall-jazz-roundup-part-one-2026"
+  },
+  {
+   "audio": null,
    "date": "2026-11-16T20:27:18Z",
    "desc": "Customer Service is a weekly feature to help you cut through the digital weeds and find the music you want.",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Izu3k-agHEM",
    "title": "Raps for Leaving Your Body Behind",
    "url": "https://www.powmag.net/p/raps-for-leaving-your-body-behind"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-23T17:24:43Z",
-   "desc": "Video Music Box co-founder Ralph McDaniels will be honored by the Paid In Full Foundation this weekend in Las Vegas.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-ralph-mcdaniels-video-music-box-interview",
-   "image": "https://substackcdn.com/image/fetch/$s_!KCfr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24319fdb-8343-4949-8a69-ee1437487b22_1200x1200.png",
-   "title": "The Man Who Maintains Hip-Hop History",
-   "url": "https://www.powmag.net/p/ralph-mcdaniels-video-music-box-interview"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-17T02:29:49Z"
+ "updatedAt": "2026-11-18T01:37:58Z"
 }

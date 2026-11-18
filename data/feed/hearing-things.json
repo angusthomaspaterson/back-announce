@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-17T16:19:25Z",
+   "desc": "Plus ’80s R&B redefined for the modern era.",
+   "duration": null,
+   "id": "6afb85bcfc58b60001daa630",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/11/Copy-of-Album-Covers-4_3--6-.png",
+   "title": "Armand Hammer's Ode to the Hopeful Cynics",
+   "url": "https://www.hearingthings.co/armand-hammers-ode-to-the-hopeful-cynics/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-10T17:45:14Z",
    "desc": "Plus a sampler of modern R&B and soul straight from North Carolina",
    "duration": null,
@@ -143,19 +153,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Five-Songs-Template-11--20-.png",
    "title": "Drake Musical Theater, But Somehow Good",
    "url": "https://www.hearingthings.co/drake-musical-theater-but-somehow-good/"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-08T16:36:15Z",
-   "desc": "Plus gauzy shoegaze meets outré Latin trap and a Swedish ambient musician's hauntological field recordings",
-   "duration": null,
-   "id": "6a9f0fa2b12aa9000173ebc3",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Album-Covers-43--10-.png",
-   "title": "A Love Letter for The End of the World",
-   "url": "https://www.hearingthings.co/a-love-letter-for-the-end-of-the-world/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-18T01:37:58Z"
 }

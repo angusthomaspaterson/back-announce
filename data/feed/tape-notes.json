@@ -5,6 +5,16 @@
  "id": "tape-notes",
  "items": [
   {
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TNL8847514892.mp3",
+   "date": "2026-11-18T00:00:00Z",
+   "desc": "WATCH THE FULL VIDEO EPISODE @ Patreon.com/tapenotes  John is joined by Jorja Smith and producer P2J to talk about how they wrote, recorded and produced the album ‘What Are the Odds’. A keen musician since childhood, Jorja initially drew attention through YouTube. Her breakout 2016 single ‘Blue Lights’ became a UK R&B classic, while support from Drake helped launch her globally. Her independently released, Mercury nominated debut album ‘Lost & Found’ (2018), was a UK top 5 hit. Jorja’s second album ‘flying or falling’ appeared in 2023, alongside collaborations with Stormzy, J Hus and others. …",
+   "duration": "5907",
+   "id": "47ce9f54-e289-11f1-b430-4b969c873b18",
+   "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "TN:194 Jorja Smith & P2J",
+   "url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TNL8847514892.mp3"
+  },
+  {
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TNL3615341328.mp3",
    "date": "2026-11-04T00:00:00Z",
    "desc": "WATCH THE FULL VIDEO EPISODE @ ⁠Patreon.com/tapenotes⁠  John is joined by Chase & Status to talk about how they wrote, recorded and produced the album ‘Generic Everything’.  Chase & Status are a drum’n’bass, DJ and producer duo from London comprising Saul Milton (Chase) and Will Kennard (Status). Formed in Manchester in 2003, the duo received early backing from BBC Radio 1Xtra, releasing debut album ‘More than Alot’ in 2008. Known for their multi-genre approach and innovative production techniques, Chase & Status have since released five more albums, including the multi-Platinum ‘No More Idol…",
@@ -243,19 +253,9 @@
    "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "TN:173 Emma-Jean Thackray",
    "url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TNL1312482266.mp3?updated=1779100417"
-  },
-  {
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TNL6397106330.mp3?updated=1779100415",
-   "date": "2026-01-14T00:00:00Z",
-   "desc": "John sits down with Artemas and producer Toby Daintree to discuss how they wrote, recorded and produced the album ‘LOVERCORE’. Artemas is an English artist and producer. As a teenager he taught himself music production and soon began releasing his dark, alternative pop music, inspired by grunge and new wave sounds. The viral hit ‘if u think i’m pretty’, released in 2024, made him a global star and he released mixtapes ‘pretty’ and ‘yustyna’ the same year. 2024 also saw Artemas’s second viral success with ‘i like the way you kiss me’, which was number one in eight countries. Artemas’s fourth r…",
-   "duration": "6481",
-   "id": "27710430-efb5-11f0-984a-efee2c84b735",
-   "image": "https://megaphone.imgix.net/podcasts/549216f2-2213-11ed-88d5-9f3c360557f6/image/Main_Artwork_3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "TN:172 Artemas & Toby Daintree",
-   "url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TNL6397106330.mp3?updated=1779100415"
   }
  ],
  "kind": "rss",
  "name": "Tape Notes",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-18T01:37:58Z"
 }

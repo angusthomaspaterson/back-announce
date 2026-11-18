@@ -5,6 +5,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/225307662/99955040130ae652d2326a3634f47dfe.mp3",
+   "date": "2026-11-17T08:02:42Z",
+   "desc": "Today’s mix is a collection of “neo-krautrock” music, off the back of Friday’s recommendation of Fling II. Krautrock formed in the ‘60s and ‘70s in Germany, defined by bands such as Neu!, Harmonia, Can, and (early) Kraftwerk.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-flow-state-episode-352-neo-krautrock",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Flow State Episode 352: Neo-Krautrock",
+   "url": "https://www.flowstate.fm/p/flow-state-episode-352-neo-krautrock"
+  },
+  {
    "audio": null,
    "date": "2026-11-16T08:03:03Z",
    "desc": "Today we’re listening to Aphex Twin, a British electronic musician from Cornwall.",
@@ -147,7 +157,7 @@
   {
    "audio": "https://api.substack.com/feed/podcast/222289412/19837b56936da5ea001937509925539f.mp3",
    "date": "2026-10-27T07:03:42Z",
-   "desc": "Today’s mix includes three Ryuichi Sakamoto tracks from across three different decades, inspired by his memoir Music Sets You Free. We play a moving track from the Adam Wiltzie and Jóhann Jóhannsson record and a longform ambient piece by Blanket Swimming. There are a few harp recordings which function as a preview of tomorrow’s guest on Across the Horizon. We picked a single from Andrew W.K.’s jazzy, strange new record",
+   "desc": "Today’s mix includes three Ryuichi Sakamoto tracks from across three different decades, inspired by his memoir Music Sets You Free. We play a moving track from the Adam Wiltzie and Jóhann Jóhannsson record and a longform ambient piece by Blanket Swimming.",
    "duration": null,
    "id": "https:--www.flowstate.fm-p-flow-state-episode-349",
    "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!dTu0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1fa9609-8a7c-4740-a44a-503c24146369_1822x916.png",
    "title": "Julia Gjertsen",
    "url": "https://www.flowstate.fm/p/julia-gjertsen-c0c"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/221264786/77412385556b0178ee8ccc00e10481d6.mp3",
-   "date": "2026-10-20T07:03:01Z",
-   "desc": "Today’s mix opens with a piece from Ari Balouzian’s score for the film You Can See Everything. We continue with new ambient by Gollden and Space Ghost, followed by a favorite from Stars of the Lid. There are two tracks from the new experimental compilation",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-flow-state-episode-348",
-   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
-   "title": "Flow State Episode 348",
-   "url": "https://www.flowstate.fm/p/flow-state-episode-348"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-16T13:10:43Z"
+ "updatedAt": "2026-11-18T01:37:58Z"
 }

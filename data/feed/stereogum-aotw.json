@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-17T16:34:47Z",
+   "desc": "The post Album Of The Week: Danz CM <em>The Interdimensional Extraterrestrial Time Travelers Society</em> appeared first on Stereogum .",
+   "duration": null,
+   "id": "https:--stereogum.com--p-2518002",
+   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/unnamed-2026-09-26T094705.018.jpg?w=564",
+   "title": "Album Of The Week: Danz CM The Interdimensional Extraterrestrial Time Travelers Society",
+   "url": "https://stereogum.com/2518002/album-of-the-week-danz-cm-the-interdimensional-extraterrestrial-time-travelers-society/reviews/album-of-the-week/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-10T21:01:17Z",
    "desc": "The post Album Of The Week: Krill <em>Secret Language</em> appeared first on Stereogum .",
    "duration": null,
@@ -243,19 +253,9 @@
    "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1243030580_10.jpg?w=564",
    "title": "Album Of The Week: Slippers Slippers 08",
    "url": "https://stereogum.com/2500983/album-of-the-week-slippers-slippers-08/reviews/album-of-the-week/"
-  },
-  {
-   "audio": null,
-   "date": "2026-05-26T19:30:31Z",
-   "desc": "The post Album Of The Week: ear <em>Rumspringa</em> appeared first on Stereogum .",
-   "duration": null,
-   "id": "https:--stereogum.com--p-2500138",
-   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/ear-Rumspringa.jpg?w=564",
-   "title": "Album Of The Week: ear Rumspringa",
-   "url": "https://stereogum.com/2500138/album-of-the-week-ear-rumspringa/reviews/album-of-the-week/"
   }
  ],
  "kind": "rss",
  "name": "Stereogum: Album of the Week",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-18T01:37:58Z"
 }

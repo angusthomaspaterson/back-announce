@@ -5,6 +5,16 @@
  "id": "all-songs-considered",
  "items": [
   {
+   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/e6bc76e7-54b4-44d6-b02d-57ed781c3c33/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=e6bc76e7-54b4-44d6-b02d-57ed781c3c33&feed=uwsqics_&t=podcast&e=nx-s1-6043205&p=g-s1-111189&d=2564&size=82057993",
+   "date": "2026-11-17T10:00:00Z",
+   "desc": "This week’s show is a lot! We open with the mind-blowing, world-obliterating hyper-pop and rock of Saya Gray, and close with one of the most harrowing songs you’ll hear all year (from a band with a name you can’t say on the radio). We’ve also got stops along the way, including ancient folk filtered through the distorted lens of Bassvictim, a gorgeous, re-imagined version of Keaton Henson’s “Prayer,” featuring the Stockholm Studio Orchestra, and more. NPR Music’s Dora Levite joins host Robin Hilton. Tell us what you think with a review on Apple or Spotify wherever you listen to podcasts. Quest…",
+   "duration": "2564",
+   "id": "801d9318-8afa-41a2-bd5d-a4171b13b19f",
+   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F49%2Fb0%2Fdec1807e4103ae93634a64009cfe%2Fbae441e8-b1fe-46ec-ae17-00efccd93943.png",
+   "title": "Bassvictim, Saya Gray, Keaton Henson and more of our favorite new tracks",
+   "url": "https://www.npr.org/2026/11/17/nx-s1-6043205/bassvictim-saya-gray-keaton-henson-and-more-of-our-favorite-new-tracks"
+  },
+  {
    "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/17099eee-5e06-420f-9cf0-5598bc6e2821/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=17099eee-5e06-420f-9cf0-5598bc6e2821&feed=uwsqics_&t=podcast&e=nx-s1-6035033&p=g-s1-111189&d=2833&size=90680530",
    "date": "2026-11-10T10:00:00Z",
    "desc": "We update our running list of the year’s best songs with reflections on shedding the past, moving on and the joy of simple pleasures. This includes the emo-coded pop of oso oso, Lake Street Dive’s list of hopeful what-aboutisms, the twitchy, genre-hopping sound of brakence, pipe organ drones from Kali Malone and more. NPR Music editor and writer Sheldon Pearce joins host Robin Hilton. Tell us what you think with a review on Apple or Spotify wherever you listen to podcasts. Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.org Featured artists and songs: (00…",
@@ -193,19 +203,9 @@
    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2Fe6%2F809f093a4590bb5d1a8d1628b781%2F3f9b06e2-10f9-4e3a-ab0e-9d7e88756e15.png",
    "title": "Summer’s simple pleasures: Roséwave",
    "url": "https://www.npr.org/2026/07/07/nx-s1-5883893/summers-simple-pleasures-rosewave"
-  },
-  {
-   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/c9a0a1b3-88d9-434a-b44c-ec9842a1873a/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=c9a0a1b3-88d9-434a-b44c-ec9842a1873a&feed=uwsqics_&t=podcast&e=nx-s1-5872219&p=g-s1-111189&d=2793&size=89401574",
-   "date": "2026-06-30T07:00:00Z",
-   "desc": "Consensus has been hard to find in 2026, but we’ve assembled our top-ten list of the most memorable songs of the year at this midway point, from the outlaw country of Charley Crockett to the glam rock of Friko, Lana Del Rey’s twisted ode to love, Vince Staples’ “White Flag” and more. NPR Music’s Sheldon Pearce joins host Robin Hilton. Featured artists and songs: (00:00) Intro (01:38) Mandy, Indiana: “try saying” (05:09) Aldous Harding: “Coats” (09:28) Vince Staples: “White Flag” (14:25) Yebba: “Yellow Eyes” (18:04) Friko: “Seven Degrees” (22:01) Charley Crockett: “Kentucky Too Long” (26:03) L…",
-   "duration": "2793",
-   "id": "99aa3f5a-c2f5-46cc-93ba-6722ca99c194",
-   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F73%2F4cf1e5eb42f58103e7c3ba4c3826%2Fe8c894f8-1d4d-4008-81e1-64116b80c382.png",
-   "title": "The year’s best songs so far",
-   "url": "https://www.npr.org/2026/06/30/nx-s1-5872219/the-years-best-songs-so-far"
   }
  ],
  "kind": "rss",
  "name": "NPR: All Songs Considered",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-18T01:37:58Z"
 }

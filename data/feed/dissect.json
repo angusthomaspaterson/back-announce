@@ -5,6 +5,16 @@
  "id": "dissect",
  "items": [
   {
+   "audio": "https://traffic.megaphone.fm/GLT7879381683.mp3",
+   "date": "2026-11-17T10:30:00Z",
+   "desc": "Celebrating Dissect's 10 year history by revisiting 10 brilliant musical moments revealed on the show - from Kendrick Lamar to Radiohead. Host: Cole Cuchna Editor: Kevin Pooler Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "duration": "2021",
+   "id": "b9eb105e-df8c-11f1-9cce-4fb1869d95c5",
+   "image": "https://megaphone.imgix.net/podcasts/b9eb105e-df8c-11f1-9cce-4fb1869d95c5/image/dab396a6647755a402b5b3ea32d3f199.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "10 for 10: The Greatest Musical Discoveries in Dissect History (PART 1)",
+   "url": "https://traffic.megaphone.fm/GLT7879381683.mp3"
+  },
+  {
    "audio": "https://traffic.megaphone.fm/GLT5812238355.mp3",
    "date": "2026-11-10T10:31:00Z",
    "desc": "Dissecting 15 of the most brilliantly layered bars in hip hop history, uncovering the extraordinary wordplay of Jay-Z, Eminem, Lupe Fiasco, MF DOOM, Pusha T, and more. The Most GENIUS Number Bars In Rap History Host/Writer/EP: Cole Cuchna Video Editor: Kevin Pooler Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -243,19 +253,9 @@
    "image": "https://megaphone.imgix.net/podcasts/7dfa92e0-431a-11f1-878d-df4c18cd216f/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "E8 - Dissecting \"Veridis Quo\" & \"Face To Face\" by Daft Punk",
    "url": "https://traffic.megaphone.fm/GLT8096193407.mp3?updated=1777928317"
-  },
-  {
-   "audio": "https://traffic.megaphone.fm/GLT2882593381.mp3?updated=1777294702",
-   "date": "2026-04-28T10:01:00Z",
-   "desc": "Our deep dive into Daft Punk’s Discovery continues with a sweeping journey through the album’s middle stretch, from the ecstatic genre-collisions of “Crescendolls,” “Superheroes,” and “High Life” to the intimate emotional world of “Something About Us.” Connecting Changes Everything.⁠ https://www.att.com/connecttochange/⁠ Follow @dissectpodcast on⁠ Instagram⁠,⁠ TikTok⁠, and⁠ Twitter⁠. Host/Writer/EP: Cole Cuchna Editors: Kevin Pooler & Iulia Ciobanu Theme Music: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "duration": "2455",
-   "id": "027d8bc0-3e71-11f1-8adc-9380fce0dfbf",
-   "image": "https://megaphone.imgix.net/podcasts/027d8bc0-3e71-11f1-8adc-9380fce0dfbf/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "E7 - Dissecting \"Something About Us\" (& More!) by Daft Punk",
-   "url": "https://traffic.megaphone.fm/GLT2882593381.mp3?updated=1777294702"
   }
  ],
  "kind": "rss",
  "name": "Dissect",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-18T01:37:58Z"
 }

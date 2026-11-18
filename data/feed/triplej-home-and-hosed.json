@@ -5,6 +5,17 @@
  "id": "triplej-home-and-hosed",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qh/Z/3u.aac",
+   "date": "2026-11-17T08:00:00Z",
+   "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 17 Dec. Tracklist: RinRin – fever dream; Nick Ward – Year Of The Snake; Sycco – I've Loved and I've Lost; MUDRAT – EPITAPH; Le Shiv – Chain My Heart To Plastic; 1tbsp – Wish You Luck [Ft. kid on air]; Stand Atlantic – NEXT2U; Jewel Owusu – ecosystem; Swapmeet – Personal (Don't Take It) [triple j demo 2026]; Charli Lucas – Skin Deep; FISHER & LAUREL – Staring At The Sun; Alli Kate – Stuck On You; Ra Ra Viper – Record Baby; Sesame Girl – Superstar; daine – White Collar; Radium Dolls – Golden Bo…",
+   "duration": "7200",
+   "id": "107375572",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e53a18092190656f98b05e2e56c91fe4?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Home and Hosed, 17 Nov",
+   "until": "2026-12-17T08:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107375572"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qf/Z/u7.aac",
    "date": "2026-11-16T08:00:00Z",
    "desc": "The freshest local tunes from right around Australia on Home & Hosed with Anika Luna. Available until 16 Dec. Tracklist: zaqquack – i dont like that; Plumia – Plume Of Smoke; Jem Cassar-Daley – All I'm Thinking About; Georgia Maq – Rearranging Chairs on the Titanic; Rum Jungle – The Elephants Head; Gretta Ray – I'll Be There; Miss Kaninna – Pinnacle Bitch; Little Guilt – Rust; Troye Sivan – FF; Soul Wun – Beautiful Noise In My Head; Party Dozen – Full Powers; The Chats – Off It; Pania – Heaven Can Wait; Zach Stephenson – In N Out; Becca Hatch – Extra Time; Arky Waters – Just; Robert Baxter – …",
@@ -102,20 +113,9 @@
    "title": "Home and Hosed: First Play from And Beyond",
    "until": "2026-12-02T08:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107316738"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pt/Z/ua.aac",
-   "date": "2026-10-29T08:00:00Z",
-   "desc": "Big things happening on Home and Hosed as we dive into a First Play from Naarm rapper Yung Maynie, plus J Awards goss and a chat with Dakota Griffiths! Available until 28 Nov. Tracklist: Dream Boat – Real!; GRUB – Goal Post; Lucky – Curtains; Darcie Haven – Wishbone; Yung Maynie – Too Late Now; Genesis Owusu & KYE – HUMAN AGAIN; Stand Atlantic – NEXT2U; The Rions – Cry; Folk Bitch Trio – The Actor; Devaura – DANCEHEAD; Swapmeet – Halfway; Tame Impala – A Girl Like You [triple j Like A Version 2020]; Lucy Sugerman – Josie; zaqquack – i dont like that; Tobiahs & VV-Ace – Where You Really Come F…",
-   "duration": "7200",
-   "id": "107303866",
-   "image": "https://live-production.wcms.abc-cdn.net.au/2d6fa295bf89460cc56966c1c1c8fd43?impolicy=wcms_crop_resize&cropH=375&cropW=667&xPos=0&yPos=157&width=862&height=485&imformat=generic",
-   "title": "Home and Hosed: First Play from Yung Maynie & Chatting to Dakota Griffiths!",
-   "until": "2026-11-28T08:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/home-and-hosed/home-and-hosed/107303866"
   }
  ],
  "kind": "abc",
  "name": "Home and Hosed with Anika Luna",
- "updatedAt": "2026-11-17T02:29:49Z"
+ "updatedAt": "2026-11-18T01:37:58Z"
 }
