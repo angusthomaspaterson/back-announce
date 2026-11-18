@@ -6,8 +6,9 @@
 # gathers only the sources whose address contains "substack.com" or
 # "youtube.com", commits
 # and pushes. If the push is rejected because GitHub or an app pushed first,
-# it starts again from the newest commit. Everything it does is logged to
-# %LOCALAPPDATA%\BackAnnounce\laptop-substack.log.
+# it starts again from the newest commit. Then it starts GitHub's gather of
+# every other source, if that hasn't run yet today. Everything it does is
+# logged to %LOCALAPPDATA%\BackAnnounce\laptop-substack.log.
 
 $ErrorActionPreference = 'Continue'
 $base = Join-Path $env:LOCALAPPDATA 'BackAnnounce'
@@ -61,6 +62,30 @@ for ($attempt = 1; $attempt -le 3 -and -not $done; $attempt++) {
     else { Log "push rejected (attempt $attempt), starting again from the newest commit" }
 }
 if (-not $done) { Log 'ERROR gave up after 3 attempts' }
+
+# Start GitHub's daily gather of everything else, unless it has already started today.
+# GitHub runs its own schedule (3:17 am) hours late, so this gets the full feed ready
+# before breakfast whenever the laptop is on by then. When the laptop is off, GitHub's
+# own run still happens; when the laptop comes on later, this sees that run and skips.
+$gh = Find-Tool 'gh' @("$env:LOCALAPPDATA\Microsoft\WinGet\Packages\GitHub.cli_*\bin\gh.exe", "$env:ProgramFiles\GitHub CLI\gh.exe")
+$slug = 'angusthomaspaterson/back-announce'
+if (-not $gh) { Log 'no gh: GitHub gather not started (it will run on its own schedule)' }
+else {
+    $since = (Get-Date).Date.AddHours(3)      # today's 3 am, local (Perth) time
+    if ((Get-Date) -lt $since) { $since = $since.AddDays(-1) }
+    $json = & $gh run list -R $slug -w gather.yml -L 10 --json createdAt,status,conclusion 2>$null
+    if ($LASTEXITCODE -ne 0 -or -not $json) { Log 'could not read GitHub runs: gather not started' }
+    else {
+        # Windows PowerShell hands back the whole JSON array as one object; storing it first unrolls it.
+        $list = ($json | Out-String | ConvertFrom-Json)
+        $runs = @($list | Where-Object { ([datetime]$_.createdAt).ToLocalTime() -ge $since -and $_.conclusion -ne 'failure' -and $_.conclusion -ne 'cancelled' })
+        if ($runs.Count) { Log "GitHub gather already ran or is running since $($since.ToString('d MMM HH:mm')): not started again" }
+        else {
+            & $gh workflow run gather.yml -R $slug 2>&1 | ForEach-Object { Log "  gh: $_" }
+            if ($LASTEXITCODE -eq 0) { Log 'started GitHub gather' } else { Log 'ERROR could not start GitHub gather' }
+        }
+    }
+}
 
 # Keep the log to its last 400 lines.
 $lines = Get-Content $log -ErrorAction SilentlyContinue
