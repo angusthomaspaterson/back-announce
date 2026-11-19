@@ -367,7 +367,7 @@
   },
   {
    "added": "sweep",
-   "group": "Perth",
+   "group": "Radio",
    "home": "https://soundcloud.com/radiocazimi",
    "id": "radio-cazimi",
    "kind": "rss",
@@ -376,7 +376,10 @@
   },
   {
    "added": "sweep",
-   "group": "Perth",
+   "also": [
+    "Funk, Soul, Hip Hop"
+   ],
+   "group": "Radio",
    "home": "https://soundcloud.com/drpacker",
    "id": "dr-packer",
    "kind": "rss",
@@ -385,7 +388,7 @@
   },
   {
    "added": "sweep",
-   "group": "Perth",
+   "group": "Radio",
    "home": "https://rtrfm.com.au/rtr2/",
    "id": "rtr2",
    "kind": "rss",
@@ -397,7 +400,7 @@
    "also": [
     "Rock, Metal, Indie"
    ],
-   "group": "Perth",
+   "group": "Radio",
    "home": "https://rtrfm.com.au/podcasts/no-skips/",
    "id": "no-skips",
    "kind": "rss",

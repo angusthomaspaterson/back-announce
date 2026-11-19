@@ -4,7 +4,7 @@
 import {BATCHES, catsOf} from './util.js';
 
 export const PACKS = [
-  {id: 'radio', name: 'Radio presenters', blurb: 'BBC 6 Music and Radio 1, triple j, Double J', groups: ['BBC', 'triple j', 'Double J', 'Radio', 'Perth']},
+  {id: 'radio', name: 'Radio presenters', blurb: 'BBC 6 Music and Radio 1, triple j, Double J', groups: ['BBC', 'triple j', 'Double J', 'Radio']},
   {id: 'underground', name: 'Underground radio', blurb: 'NTS and Rinse FM residencies', groups: ['NTS', 'Rinse FM']},
   {id: 'club', name: 'House and techno', blurb: 'Club music from NTS, Rinse FM and beyond', groups: ['House', 'Techno']},
   {id: 'bass', name: 'Bass and DnB', blurb: 'Drum & bass, jungle, dubstep, garage', groups: ['Bass & DnB']},

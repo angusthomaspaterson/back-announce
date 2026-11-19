@@ -14,7 +14,7 @@ const GROUP_COLOURS_DARK = {'NTS': '#5a5f6a', 'Double J': '#5b7bb5', 'House': '#
 /** How categories are shown, in three runs: radio and mixes, then genres, then writing and talk.
  *  A category not listed here (a new group) goes at the end of the run it is closest to: the radio run. */
 export const CATEGORY_RUNS = [
-  ['NTS', 'Rinse FM', 'BBC', 'triple j', 'Double J', 'Radio', 'Perth', 'Mixes'],
+  ['NTS', 'Rinse FM', 'BBC', 'triple j', 'Double J', 'Radio', 'Mixes'],
   ['House', 'Techno', 'Bass & DnB', 'Progressive & Trance', 'Funk, Soul, Hip Hop', 'Rock, Metal, Indie'],
   ['Writing', 'Podcasts'],
 ];
