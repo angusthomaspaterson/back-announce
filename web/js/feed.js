@@ -300,7 +300,7 @@ function renderWelcome() {
   const n = S.packPick.size ? followedBy([...S.packPick], all, off).length : total;
   const picks = picksList().length;
   w.innerHTML = `<h2>Welcome to Back Announce<span class="dot">.</span></h2>
-    <p class="lead">A back announce is the moment a radio presenter tells you what you just heard. This is a feed of the people who still do it: ${total} radio shows, mixes, podcasts and writers, chosen by Angus, not an algorithm.</p>
+    <p class="lead">The back announce is the moment a radio presenter tells you what you just heard. Quality curation, real people. This is a feed to help connect you with them: ${total} radio shows, mixes, podcasts and writers, chosen by Angus, not an algorithm.</p>
     <p class="ask">Start with everything, or pick what you're into:</p>
     <div class="packs">${PACKS.filter(p => followedBy([p.id], all, off).length).map(p =>`<button class="pack" data-pack="${p.id}" aria-pressed="${S.packPick.has(p.id)}"><b>${esc(p.name)}</b><span>${esc(p.blurb)} · ${followedBy([p.id], all, off).length}</span></button>`).join('')}</div>
     <div class="wacts"><button class="btn p" id="wGo">${S.packPick.size ? `Start with these ${n} shows` : `Start with all ${total}`}</button>${picks ? `<button class="btn" id="wPicks">★ Angus's picks first</button>` : ''}</div>
