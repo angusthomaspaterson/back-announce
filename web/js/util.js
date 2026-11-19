@@ -11,6 +11,19 @@ export const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&'
 
 export const GROUP_COLOURS = {'NTS': '#1b1d22', 'Rinse FM': '#8a4bd6', 'SoundCloud': '#ff5500', 'Podcasts': '#2b6cb0', 'Writing': '#2f7d5b', 'Radio': '#1da0c3', 'Mixes': '#c98a1a', 'Perth': '#e0508a', 'Bass & DnB': '#6f9a1f', 'Progressive & Trance': '#0d8080', 'triple j': '#d3441c', 'Double J': '#22385c', 'BBC': '#4b4f9e', 'House': '#a23b72', 'Techno': '#38606f', 'Funk, Soul, Hip Hop': '#8c6d1f', 'Rock, Metal, Indie': '#7a3e2a', 'Other': '#6b6f78'};
 const GROUP_COLOURS_DARK = {'NTS': '#5a5f6a', 'Double J': '#5b7bb5', 'House': '#d06aa0', 'Techno': '#6d9aab', 'Funk, Soul, Hip Hop': '#c9a24a', 'Rock, Metal, Indie': '#c4785e'};
+/** How categories are shown, in three runs: radio and mixes, then genres, then writing and talk.
+ *  A category not listed here (a new group) goes at the end of the run it is closest to: the radio run. */
+export const CATEGORY_RUNS = [
+  ['NTS', 'Rinse FM', 'BBC', 'triple j', 'Double J', 'Radio', 'Perth', 'Mixes'],
+  ['House', 'Techno', 'Bass & DnB', 'Progressive & Trance', 'Funk, Soul, Hip Hop', 'Rock, Metal, Indie'],
+  ['Writing', 'Podcasts'],
+];
+/** Which run (0, 1, 2) a category is in, and its place: for sorting. Unknown ones close the first run. */
+export function categoryPlace(g) {
+  for (let r = 0; r < CATEGORY_RUNS.length; r++) { const i = CATEGORY_RUNS[r].indexOf(g); if (i >= 0) return [r, i]; }
+  return [0, 99];
+}
+export const byCategoryOrder = (a, b) => { const [ra, ia] = categoryPlace(a), [rb, ib] = categoryPlace(b); return ra - rb || ia - ib || a.localeCompare(b); };
 /** Every category a source belongs to: its main group (which sets its colour) first, then any
  *  extra ones listed in `also`, such as an NTS show that is also Techno. */
 export const catsOf = s => [...new Set([(s && s.group) || 'Other', ...(s && Array.isArray(s.also) ? s.also : [])])];

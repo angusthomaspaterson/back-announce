@@ -79,6 +79,9 @@ dialog.settings::backdrop{background:rgba(0,0,0,.45)}
 
 /* ---- shared ---- */
 .filters{display:flex;flex-wrap:wrap;gap:6px;padding-block:12px 4px;align-items:center}
+.filters .chipsep{flex:none;align-self:stretch;width:1px;margin:4px 5px;background:var(--muted);opacity:.35}
+/* Where the chips wrap (tablets and laptops), each run starts its own line instead. */
+@media (min-width:641px){ .filters .chipsep{flex-basis:100%;height:0;margin:0;opacity:0} }
 .chip{border-radius:999px;padding:4px 10px;background:var(--chip);font-size:12px;font-weight:500;display:inline-flex;align-items:center;gap:6px;border:1px solid transparent}
 .chip .sw{width:8px;height:8px;border-radius:50%;background:var(--sc,var(--muted))}
 .chip[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-fg)}

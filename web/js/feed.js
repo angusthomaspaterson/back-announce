@@ -1,7 +1,7 @@
 // The Feed tab: the timeline, the Saved view, the Source page and the Sources screen.
 // Each view has its own container, so going to a source and back leaves the feed exactly
 // where it was. Clicks are handled by delegation, so containers can be re-rendered freely.
-import {$, esc, gcol, catsOf, initials, addedLabel, kindLabel, BATCHES,dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross, openWhere, clock, toast} from './util.js';
+import {$, esc, gcol, catsOf, byCategoryOrder, categoryPlace,initials, addedLabel, kindLabel, BATCHES,dfmt, dkey, sfmt, tfmt, rel, dur, dateOk, nowIso, spotifySearch, dedupeAcross, openWhere, clock, toast} from './util.js';
 import {PACKS, followedBy, isNewInCatalogue, addedDate} from './packs.js';
 import {CURATOR} from './data.js';
 import {play, getProgress, enqueue, inQueue} from './player.js';
@@ -312,7 +312,7 @@ function renderFilters(items, saved) {
   const inSaved = S.view === 'saved' || inPicks, W = S.canWrite;   // neither list has Mark all seen
   const pool = inPicks ? picks : S.view === 'saved' ? saved : items;
   // A card counts under every category its show is in (NTS and Techno, say).
-  const groups = [...new Set([...items, ...saved, ...picks].flatMap(catsOfItem))].sort();
+  const groups = [...new Set([...items, ...saved, ...picks].flatMap(catsOfItem))].sort(byCategoryOrder);
   for (const g of groups) if (!(g in S.groups)) S.groups[g] = true;
   const counts = {}; for (const i of pool) for (const g of catsOfItem(i)) counts[g] = (counts[g] || 0) + 1;
   const newCount = countNew(items);
@@ -324,7 +324,9 @@ function renderFilters(items, saved) {
     + (inSaved ? '' : `<button class="chip playchip" id="playOnly" aria-pressed="${S.playOnly}" title="Only what plays here, in the app">▶ Plays here</button>`)
     // Showing only some categories: a way back to all of them, always in sight.
     + (groups.some(g => S.groups[g] === false) ? `<button class="chip allchip" id="allGroups" title="Show every category again">All</button>` : '')
-    + groups.filter(g => counts[g]).map(g => `<button class="chip" data-g="${esc(g)}" aria-pressed="${S.groups[g]}" style="--sc:${gcol(g)}"><span class="sw"></span>${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join('')
+    // Radio, then genres, then writing, with a thin divider where one run gives way to the next.
+    + groups.filter(g => counts[g]).map((g, n, shown) => (n && categoryPlace(g)[0] !== categoryPlace(shown[n - 1])[0] ? '<span class="chipsep" aria-hidden="true"></span>' : '')
+      + `<button class="chip" data-g="${esc(g)}" aria-pressed="${S.groups[g]}" style="--sc:${gcol(g)}"><span class="sw"></span>${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join('')
     + (inSaved || !W ? '' : `<button class="chip act" id="markSeen">Mark all seen${newCount ? ' (' + newCount + ')' : ''}</button>`)
     + `<button class="chip src${inSaved || !W ? ' act' : ''}" id="openSrc">${showWord()}</button>`
     // Straight to the Paused list, newest first: the way back to something just paused.
@@ -459,7 +461,7 @@ function renderSourceList() {
     // A show in two categories is listed under both.
     const groups = {};
     for (const s of all) for (const c of catsOf(s)) (groups[c] = groups[c] || []).push(s);
-    for (const g of Object.keys(groups).sort()) {
+    for (const g of Object.keys(groups).sort(byCategoryOrder)) {
       const list = groups[g].filter(s => inView(s) && hit(s));
       if (!list.length) continue;
       const gOn = groups[g].filter(s => !P.has(s.id)).length;
