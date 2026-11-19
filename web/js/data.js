@@ -7,7 +7,10 @@ export const CURATOR = {name: 'Angus Paterson', linkedin: 'https://www.linkedin.
 // Where the Suggest a show page posts to. Empty until there is somewhere: then the page
 // offers LinkedIn, a GitHub issue or the clipboard instead. For a Google Form, `action` is
 // its .../formResponse address and `fields` maps each answer to the form's entry.NNN name.
-export const SUGGEST_FORM = {action: '', fields: {url: '', show: '', why: '', from: ''}};
+export const SUGGEST_FORM = {
+  action: 'https://docs.google.com/forms/d/e/1FAIpQLSckB6AhZAzTY14L05JPBHtl4ZZ6Fits11wT9SSvRR8Vu3cGiw/formResponse',
+  fields: {url: 'entry.1056076283', show: 'entry.489576792', why: 'entry.128588031', from: 'entry.209701407'},
+};
 // Anonymous visit counting (goatcounter.com): which screens are opened and how often Play,
 // Save and so on are pressed. Never which show or episode, no cookies. Devices with a token,
 // and copies running on this computer, are not counted. Empty code = no counting.
