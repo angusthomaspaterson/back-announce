@@ -2185,6 +2185,15 @@
    "kind": "bbc",
    "name": "Radio 1's Future Artists with Sian Eleri",
    "pid": "m001y043"
+  },
+  {
+   "added": "19 Nov",
+   "group": "Writing",
+   "home": "https://www.zensounds.de/",
+   "id": "zensounds",
+   "kind": "rss",
+   "name": "zensounds (Stephan Kunze)",
+   "url": "https://zensounds.substack.com/feed"
   }
  ]
 }
