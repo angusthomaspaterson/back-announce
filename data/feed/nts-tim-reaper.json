@@ -5,6 +5,16 @@
  "id": "nts-tim-reaper",
  "items": [
   {
+   "date": "2026-11-18T18:00:00Z",
+   "desc": "Trips through the breakbeat portal with Tim Reaper, one of modern jungle's most vital talents.",
+   "id": "tim-reaper-18th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/c8c03687-3b22-4cab-99ca-318690669406_1795046400.jpeg",
+   "location": "London",
+   "tags": "Drum & Bass, Jungle",
+   "title": "Tim Reaper w/ Takuya Nakamura",
+   "url": "https://www.nts.live/shows/tim-reaper/episodes/tim-reaper-18th-november-2026"
+  },
+  {
    "date": "2026-10-21T17:00:00Z",
    "desc": "Trips through the breakbeat portal with Tim Reaper, one of modern jungle's most vital talents.",
    "id": "tim-reaper-21st-october-2026",
@@ -113,19 +123,9 @@
    "tags": "Jungle",
    "title": "Tim Reaper: Kid Lib's Jungle Rush 1 & 2",
    "url": "https://www.nts.live/shows/tim-reaper/episodes/tim-reaper-14th-january-2026"
-  },
-  {
-   "date": "2025-12-17T19:00:00Z",
-   "desc": "Trips through the breakbeat portal with Tim Reaper, one of modern jungle's most vital talents.",
-   "id": "tim-reaper-17th-december-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/4cbcb4d0-006d-47e8-8edf-dcb883337993_1613433600.jpeg",
-   "location": "London",
-   "tags": "Jungle",
-   "title": "Tim Reaper",
-   "url": "https://www.nts.live/shows/tim-reaper/episodes/tim-reaper-17th-december-2025"
   }
  ],
  "kind": "nts",
  "name": "Tim Reaper",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

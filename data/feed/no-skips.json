@@ -5,6 +5,16 @@
  "id": "no-skips",
  "items": [
   {
+   "audio": "https://rtrfm.com.au/wp-content/uploads/2026/11/S1E6-No-Skips-Glenn-Musto-MASTERED-1.mp3",
+   "date": "2026-11-10T02:12:29Z",
+   "desc": "Australian singer-songwriter Glenn Musto is obsessed with indie-rock. Growing up in Perth’s southern suburb of Fremantle, Glenn has spent the better part of two decades writing and performing with the likes of local outfits The Nordeens, College Fall and beloved indie rockers Showbag! who gained a cult following in the early 2000s for their low-fi charm and disarming emotional anthems. With Showbag! he released a handful of albums independently including Playlunch (2000), Quicksand (2001) and The Town We Love (2004), all while touring locally and overseas. In April 2026, Showbag! reunited and…",
+   "duration": null,
+   "id": "https:--rtrfm.com.au--post_type-podcast-p-148323",
+   "image": "https://rtrfm.com.au/wp-content/uploads/2026/09/NO-SKIPS-PODCAST-ARTWORK-no-collage-scaled.jpg",
+   "title": "No Skips with Glenn Musto",
+   "url": "https://rtrfm.com.au/podcasts/no-skips/no-skips-with-glenn-musto/"
+  },
+  {
    "audio": "https://rtrfm.com.au/wp-content/uploads/2026/10/S1E5-No-Skips-Adalita-MASTERED.mp3",
    "date": "2026-11-05T05:01:54Z",
    "desc": "Adalita is a proper rock icon! Bursting onto the Australian music scene in 1991 as the founding member and principle songwriter of legendary alt-rock band Magic Dirt, Adalita has been an inspiration for the next generation of Australian female artists, who saw themselves in her. Following on from fronting Magic Dirt, she’s helmed solo projects – releasing her first solo album Adalita in 2011 and later All Day Venus in 2013 and Inland in 2022, amidst film composing, mentoring and a myriad of other projects. Recently, Adalita has been touring with Australian rock supergroup Bleak Squad, a colla…",
@@ -57,5 +67,5 @@
  ],
  "kind": "rss",
  "name": "RTRFM: No Skips",
- "updatedAt": "2026-11-06T00:20:46Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

@@ -5,6 +5,16 @@
  "id": "nts-hooversound",
  "items": [
   {
+   "date": "2026-11-18T21:00:00Z",
+   "desc": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
+   "id": "hooversound-18th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/2d9f98d3-4824-4d5f-b392-ff74d5ab883f_1794873600.jpeg",
+   "location": "London",
+   "tags": "Techno, Footwork, Jungle",
+   "title": "HOOVERSOUND W/ NAINA",
+   "url": "https://www.nts.live/shows/hooversound/episodes/hooversound-18th-november-2026"
+  },
+  {
    "date": "2026-10-21T20:00:00Z",
    "desc": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
    "id": "hooversound-21st-october-2026",
@@ -113,19 +123,9 @@
    "tags": "Breakbeat Hardcore, Footwork, Jungle",
    "title": "Hooversound w/ Devnull",
    "url": "https://www.nts.live/shows/hooversound/episodes/hooversound-14th-january-2026"
-  },
-  {
-   "date": "2025-12-17T21:00:00Z",
-   "desc": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound. From the host: \"Special 100% production mix from Slinki who is celebrating this month his December release on Hooversound. Presented by SHERELLE & NAINA - powered by the big and bad NTS!\"",
-   "id": "hooversound-slinki-17th-december-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/f70fe6f9-fe90-41c7-94f1-b81f6f64c90f_1765843200.jpeg",
-   "location": "London",
-   "tags": "Techno, Drum & Bass, Grime",
-   "title": "Hooversound w/ Slinki",
-   "url": "https://www.nts.live/shows/hooversound/episodes/hooversound-slinki-17th-december-2025"
   }
  ],
  "kind": "nts",
  "name": "Hooversound w/ Sherelle & Naina",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

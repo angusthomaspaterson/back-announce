@@ -5,6 +5,16 @@
  "id": "coldwired",
  "items": [
   {
+   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-November2026ptIII.mp3",
+   "date": "2026-11-19T06:23:01Z",
+   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
+   "duration": "1:29:07",
+   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-November2026ptIII.mp3",
+   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-November2026ptIII.jpg",
+   "title": "November 2026 Selection pt III (featuring CLOSE PROXIMITY, UNWA, Pyrrhus, Vhyce, Infusion, Space Manoeuvres, Tilt, Kevin Di Serna, Devlant, Leandro Murua, Aubrey Fry, David Calo, Dave Lewis, Rhys Bowler, Mekci, Michael Simon, Stefan Gruenwald, Zy Khan, Micca, Norman H, Bandēs, Ritmo Fatale, Andrew Shepherd, Brandt Hoff, Echomatics)",
+   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-November2026ptIII.mp3"
+  },
+  {
    "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-TDJsTranceNov2026.mp3",
    "date": "2026-11-15T10:53:01Z",
    "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
@@ -243,19 +253,9 @@
    "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-ReactivateRevisited.jpg",
    "title": "'Reactivate' Revisited pt I (Trance)",
    "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-ReactivateRevisited.mp3"
-  },
-  {
-   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-July2026.mp3",
-   "date": "2026-07-09T06:08:01Z",
-   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
-   "duration": "1:37:43",
-   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-July2026.mp3",
-   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-July2026.jpg",
-   "title": "July 2026 Selection (featuring Above and Beyond, Nomas, Binary Finary, Enlusion, Jerome Isma-Ae, Framewerk, Jaydee, Ovnimoon, deadmau5, Midland, Rinzen, Maze 28, Hernan Cattaneo, UnbrokenOne, UNWA, Matty Wright, Kebin van Reeken, Dominion, Gorge, James Harcourt, Last Rhythm, Fred Baker, Mr. Sam, Jamie Baggotts, Dan Graham, Bart van Wissen, PlayKate, Roman Smith, Christina Monoxrom, Riotbot, Marc Romboy, Frank Sonic, Drumcomplex, Jirah, E11even, Stranger Than Fiction)",
-   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-July2026.mp3"
   }
  ],
  "kind": "rss",
  "name": "Coldwired Podcast (Nick Clark)",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

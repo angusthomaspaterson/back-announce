@@ -3,6 +3,36 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-11-19T13:08:49Z",
+   "desc": "Single on Anjunadeep Explorations, out 2 Dec 2026.",
+   "id": "639115-venus-dance",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/639115.jpg",
+   "out": "2026-12-02T00:00:00Z",
+   "tags": "Single · Anjunadeep Explorations",
+   "title": "Chris Luno – Venus Dance",
+   "url": "https://anjunadeep.com/products/639115-venus-dance"
+  },
+  {
+   "date": "2026-11-19T00:00:00Z",
+   "desc": "Album on Anjunadeep, out 19 Nov 2026.",
+   "id": "642443-anjuna-archive-yotto",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/642443.jpg",
+   "out": "2026-11-19T00:00:00Z",
+   "tags": "Album · Anjunadeep",
+   "title": "YOTTO – Anjuna Archive: YOTTO",
+   "url": "https://anjunadeep.com/products/642443-anjuna-archive-yotto"
+  },
+  {
+   "date": "2026-11-18T00:00:00Z",
+   "desc": "Single on Anjunadeep Explorations, out 18 Nov 2026.",
+   "id": "633097-on-my-own-madra",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/633097.jpg",
+   "out": "2026-11-18T00:00:00Z",
+   "tags": "Single · Anjunadeep Explorations",
+   "title": "Tyvion Valentine – On My Own / Madra",
+   "url": "https://anjunadeep.com/products/633097-on-my-own-madra"
+  },
+  {
    "date": "2026-11-17T00:00:00Z",
    "desc": "Single on Anjunadeep, out 17 Nov 2026.",
    "id": "633095-fight-it",
@@ -221,39 +251,9 @@
    "tags": "Album · Anjunadeep Explorations",
    "title": "Quivver – Alternate Futures",
    "url": "https://anjunadeep.com/products/622289-alternate-futures"
-  },
-  {
-   "date": "2026-10-14T00:00:00Z",
-   "desc": "EP on Anjunadeep, out 14 Oct 2026.",
-   "id": "605957-anjunadeep-archive-02",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/605957.jpg",
-   "out": "2026-10-14T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "Anjunadeep Archive 02",
-   "url": "https://anjunadeep.com/products/605957-anjunadeep-archive-02"
-  },
-  {
-   "date": "2026-10-14T00:00:00Z",
-   "desc": "Single on Anjunadeep Explorations, out 14 Oct 2026.",
-   "id": "621098-coda-golden-hour",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621098.jpg",
-   "out": "2026-10-14T00:00:00Z",
-   "tags": "Single · Anjunadeep Explorations",
-   "title": "foglight – Coda / Golden Hour",
-   "url": "https://anjunadeep.com/products/621098-coda-golden-hour"
-  },
-  {
-   "date": "2026-10-13T00:00:00Z",
-   "desc": "Single on Anjunadeep, out 13 Oct 2026.",
-   "id": "621100-tidal-shift",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/621100.jpg",
-   "out": "2026-10-13T00:00:00Z",
-   "tags": "Single · Anjunadeep",
-   "title": "Nordfold – Tidal Shift",
-   "url": "https://anjunadeep.com/products/621100-tidal-shift"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-19T01:15:38Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

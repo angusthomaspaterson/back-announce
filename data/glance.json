@@ -1,12 +1,119 @@
 {
  "items": [
   {
+   "d": "2026-11-20T00:00:00Z",
+   "g": "Progressive & Trance",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "[PREVIEW] Kevin Di Serna - Ailoviu (Christian Smith Remix)",
+   "u": "https://soundcloud.com/balance-series/kevin-di-serna-ailovio-christian-smith"
+  },
+  {
+   "d": "2026-11-20T00:00:00Z",
+   "g": "Progressive & Trance",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "[PREVIEW] Kevin Di Serna - Ailoviu (Original Mix)",
+   "u": "https://soundcloud.com/balance-series/kevin-di-serna-ailovio"
+  },
+  {
+   "d": "2026-11-20T00:00:00Z",
+   "g": "Progressive & Trance",
+   "s": "Balance Music (Selections)",
+   "sid": "balance-music",
+   "t": "[PREVIEW] Kevin Di Serna - Ailoviu (Adellic Remix)",
+   "u": "https://soundcloud.com/balance-series/kevin-di-serna-ailoviu-adellic"
+  },
+  {
+   "d": "2026-11-19T13:08:49Z",
+   "g": "Progressive & Trance",
+   "s": "Anjunadeep releases",
+   "sid": "anjunadeep-releases",
+   "sp": "Chris Luno – Venus Dance",
+   "t": "Chris Luno – Venus Dance",
+   "u": "https://anjunadeep.com/products/639115-venus-dance"
+  },
+  {
+   "d": "2026-11-19T12:43:06Z",
+   "g": "Podcasts",
+   "s": "Nialler9 Podcast",
+   "sid": "nialler9",
+   "sp": "Nialler9 Podcast Nine Inch Nails' The Downward Spiral - Trent Reznor: accidental abrasive pop star (with No Encore’s Dave Hanratty)",
+   "t": "Nine Inch Nails' The Downward Spiral - Trent Reznor: accidental abrasive pop star (with No Encore’s Dave Hanratty)",
+   "u": "https://nialler9.podbean.com/e/nine-inch-nails-the-downward-spiral-trent-reznor-accidental-abrasive-pop-star-with-no-encore-s-dave-hanratty/"
+  },
+  {
    "d": "2026-11-19T11:23:13Z",
    "g": "Writing",
    "s": "zensounds (Stephan Kunze)",
    "sid": "zensounds",
    "t": "Vapor Talks #49: FM Skyline",
    "u": "https://www.zensounds.de/p/vapor-talks-49-fm-skyline"
+  },
+  {
+   "d": "2026-11-19T10:32:00Z",
+   "g": "Progressive & Trance",
+   "s": "Joris Voorn: Spectrum Radio",
+   "sid": "spectrum-radio",
+   "sp": "Joris Voorn: Spectrum Radio Spectrum Radio 499",
+   "t": "Spectrum Radio 499",
+   "u": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-499"
+  },
+  {
+   "d": "2026-11-19T10:00:00Z",
+   "g": "triple j",
+   "s": "Hip Hop Show with A.Girl",
+   "sid": "triplej-hip-hop-show",
+   "t": "Hip Hop Show, 19 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107385144"
+  },
+  {
+   "d": "2026-11-19T08:36:50Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Bugs bassist Jordan Brunoli dies aged 31, one year after cancer diagnosis",
+   "u": "https://www.theguardian.com/music/2026/nov/19/bugs-bassist-jordan-brunoli-dies-aged-31-cancer"
+  },
+  {
+   "d": "2026-11-19T08:02:44Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "t": "Time Wharp",
+   "u": "https://www.flowstate.fm/p/time-wharp-ffc"
+  },
+  {
+   "d": "2026-11-19T07:00:00Z",
+   "g": "NTS",
+   "s": "The Early Bird Show w/ PAM",
+   "sid": "nts-early-bird-pam",
+   "t": "The Early Bird Show w/ PAM & Tolkien Williams",
+   "u": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-19th-november-2026"
+  },
+  {
+   "d": "2026-11-19T05:54:00Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Moktar & DJ Plead compare notes before Strawberry Fields",
+   "u": "https://mixmag.net.au/feature/moktar-dj-plead-compare-notes-before-strawberry-fields"
+  },
+  {
+   "d": "2026-11-19T01:00:00Z",
+   "g": "NTS",
+   "s": "CAN YOU FEEL THE SUN W/ CALL SUPER & PARRIS",
+   "sid": "nts-canyoufeelthesun-w-call-super-parris",
+   "t": "CAN YOU FEEL THE SUN W/ Isaac Kniveton",
+   "u": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-19th-november-2026"
+  },
+  {
+   "d": "2026-11-19T01:00:00Z",
+   "g": "Double J",
+   "s": "Take 5 with Zan Rowe",
+   "sid": "doublej-take-5",
+   "t": "Take 5 with Kate Miller-Heidke",
+   "u": "https://www.abc.net.au/listen/programs/take-5/kate-miller-heidke-take-5-songs-that-keep-her-human/107404448"
   },
   {
    "d": "2026-11-19T01:00:00Z",
@@ -17,6 +124,15 @@
    "u": "https://www.bbc.co.uk/sounds/play/m00340hg"
   },
   {
+   "d": "2026-11-19T00:00:00Z",
+   "g": "Progressive & Trance",
+   "s": "Anjunadeep releases",
+   "sid": "anjunadeep-releases",
+   "sp": "YOTTO – Anjuna Archive: YOTTO",
+   "t": "YOTTO – Anjuna Archive: YOTTO",
+   "u": "https://anjunadeep.com/products/642443-anjuna-archive-yotto"
+  },
+  {
    "d": "2026-11-18T22:00:00Z",
    "g": "BBC",
    "s": "Radio 1's Essential Mix",
@@ -25,150 +141,40 @@
    "u": "https://www.bbc.co.uk/sounds/play/m000k82m"
   },
   {
+   "d": "2026-11-18T21:00:00Z",
+   "g": "Bass & DnB",
+   "s": "Hooversound w/ Sherelle & Naina",
+   "sid": "nts-hooversound",
+   "t": "HOOVERSOUND W/ NAINA",
+   "u": "https://www.nts.live/shows/hooversound/episodes/hooversound-18th-november-2026"
+  },
+  {
+   "d": "2026-11-18T18:00:00Z",
+   "g": "Bass & DnB",
+   "s": "Tim Reaper",
+   "sid": "nts-tim-reaper",
+   "t": "Tim Reaper w/ Takuya Nakamura",
+   "u": "https://www.nts.live/shows/tim-reaper/episodes/tim-reaper-18th-november-2026"
+  },
+  {
    "d": "2026-11-18T15:00:00Z",
    "g": "Rinse FM",
    "s": "Utopia Presents",
    "sid": "rinse-utopia",
    "t": "Utopia Presents, 18 Nov 2026",
    "u": "https://www.rinse.fm/episodes/utopia-presents-18-11-2026-1500"
-  },
-  {
-   "d": "2026-11-18T14:05:47Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 18 Nov: 8 records",
-   "u": "https://firstfloor.substack.com/p/roxanne-harris-longform"
-  },
-  {
-   "d": "2026-11-18T13:59:16Z",
-   "g": "Writing",
-   "s": "Gorilla vs. Bear",
-   "sid": "gorilla-vs-bear",
-   "t": "Erika de Casier – Whispers",
-   "u": "https://www.gorillavsbear.net/erika-de-casier-whispers/"
-  },
-  {
-   "d": "2026-11-18T13:06:20Z",
-   "g": "Podcasts",
-   "s": "RA Exchange",
-   "sid": "ra-exchange",
-   "sp": "RA Exchange EX.819 Shimza",
-   "t": "EX.819 Shimza",
-   "u": "https://shows.acast.com/raexchange/episodes/ex819-shimza"
-  },
-  {
-   "d": "2026-11-18T13:05:51Z",
-   "g": "Mixes",
-   "s": "RA Podcast",
-   "sid": "ra-podcast",
-   "t": "EX.819 Shimza",
-   "u": "https://soundcloud.com/resident-advisor/ex-819-shimza"
-  },
-  {
-   "d": "2026-11-18T10:22:44Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Aria awards: how do Australian artists feel about their music being used to train AI? – video",
-   "u": "https://www.theguardian.com/music/video/2026/nov/18/aria-awards-how-do-australian-artists-feel-about-their-music-being-used-to-train-ai-video"
-  },
-  {
-   "d": "2026-11-18T10:04:40Z",
-   "g": "Writing",
-   "s": "Crack Magazine",
-   "sid": "crack-magazine",
-   "t": "Glastonbury drops first names for 2027",
-   "u": "https://crackmagazine.net/2026/11/glastonbury-drops-first-names-for-2027/?utm_source=rss&utm_medium=rss&utm_campaign=glastonbury-drops-first-names-for-2027"
-  },
-  {
-   "d": "2026-11-18T10:00:00Z",
-   "g": "triple j",
-   "s": "Prism with tiffi",
-   "sid": "triplej-prism",
-   "t": "ROBERT BAXTER COHOSTS PRISM FOR AUS MUSIC MONTH !!!!!!!!! <3",
-   "u": "https://www.abc.net.au/triplej/programs/prism/prism-rb-cohost/107379506"
-  },
-  {
-   "d": "2026-11-18T09:01:25Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Aria awards 2026: Tame Impala dominates with seven wins including album and song of the year",
-   "u": "https://www.theguardian.com/music/2026/nov/18/aria-awards-winners-2026-tame-impala-dominates"
-  },
-  {
-   "d": "2026-11-18T08:49:53Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Aria awards 2026: the full list of winners",
-   "u": "https://www.theguardian.com/music/2026/nov/18/aria-awards-2026-winners-full-list-live-who-won"
-  },
-  {
-   "d": "2026-11-18T08:02:52Z",
-   "g": "Writing",
-   "s": "Flow State",
-   "sid": "flow-state",
-   "t": "Elvar Smári",
-   "u": "https://www.flowstate.fm/p/elvar-smari"
-  },
-  {
-   "d": "2026-11-18T07:00:00Z",
-   "g": "Podcasts",
-   "s": "Transmissions (Aquarium Drunkard)",
-   "sid": "transmissions",
-   "sp": "Transmissions (Aquarium Drunkard) Transmissions :: Larry Crane of Tape Op",
-   "t": "Transmissions :: Larry Crane of Tape Op",
-   "u": "https://aquariumdrunkard.com/2026/11/18/transmissions-larry-crane-tape-op/"
-  },
-  {
-   "d": "2026-11-18T04:50:24Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "Mixmag ANZ takes over Deep Jungle at Strawberry Fields this Saturday",
-   "u": "https://mixmag.net.au/read/mixmag-anz-takes-over-deep-jungle-at-strawberry-fields-this-saturday-news"
-  },
-  {
-   "d": "2026-11-18T02:41:14Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Aria awards 2026 fashion: Melanie C, Baker Boy, G Flip and all the red carpet looks – in pictures",
-   "u": "https://www.theguardian.com/music/gallery/2026/nov/18/aria-awards-2026-red-carpet-fashion-music-arias-winners-ceremony"
-  },
-  {
-   "d": "2026-11-18T00:00:25Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef"
-  },
-  {
-   "d": "2026-11-18T00:00:00Z",
-   "g": "Podcasts",
-   "s": "Sound Opinions",
-   "sid": "sound-opinions",
-   "sp": "Sound Opinions RIP Juan Atkins",
-   "t": "RIP Juan Atkins",
-   "u": "https://sound-opinions-0YBNbAs3.simplecast.com/episodes/rip-juan-atkins-Zip_XAua"
-  },
-  {
-   "d": "2026-11-18T00:00:00Z",
-   "g": "Podcasts",
-   "s": "Tape Notes",
-   "sid": "tape-notes",
-   "sp": "Tape Notes TN:194 Jorja Smith & P2J",
-   "t": "TN:194 Jorja Smith & P2J",
-   "u": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TNL8847514892.mp3"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 1,
+ "newCount": 12,
  "paused": 23,
  "releases": [
+  {
+   "k": "Album · Anjunadeep",
+   "out": "2026-11-19T00:00:00Z",
+   "t": "YOTTO – Anjuna Archive: YOTTO",
+   "u": "https://anjunadeep.com/products/642443-anjuna-archive-yotto"
+  },
   {
    "k": "EP · Anjunadeep",
    "out": "2026-11-24T00:00:00Z",
@@ -180,6 +186,12 @@
    "out": "2026-11-25T00:00:00Z",
    "t": "Quivver – Alternate Futures",
    "u": "https://anjunadeep.com/products/622289-alternate-futures"
+  },
+  {
+   "k": "Single · Anjunadeep Explorations",
+   "out": "2026-12-02T00:00:00Z",
+   "t": "Chris Luno – Venus Dance",
+   "u": "https://anjunadeep.com/products/639115-venus-dance"
   },
   {
    "k": "Album · Anjunachill",
@@ -257,5 +269,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-19T13:08:09Z"
+ "updated": "2026-11-19T13:08:49Z"
 }

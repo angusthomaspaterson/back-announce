@@ -5,6 +5,16 @@
  "id": "nts-canyoufeelthesun-w-call-super-parris",
  "items": [
   {
+   "date": "2026-11-19T01:00:00Z",
+   "desc": "\"A kind of music\" - the duo behind the new label come together for a regular hour long session, weaving through unexpected dancefloor sounds…",
+   "id": "canyoufeelthesun-w-call-super-parris-19th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/ebb2fdd7-9db7-4ec5-aaa2-b09f04821bbc_1794960000.jpeg",
+   "location": "London",
+   "tags": "Techno, Tech House",
+   "title": "CAN YOU FEEL THE SUN W/ Isaac Kniveton",
+   "url": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-19th-november-2026"
+  },
+  {
    "date": "2026-10-22T00:00:00Z",
    "desc": "\"A kind of music\" - the duo behind the new label come together for a regular hour long session, weaving through unexpected dancefloor sounds…",
    "id": "canyoufeelthesun-w-call-super-parris-22nd-october-2026",
@@ -113,19 +123,9 @@
    "tags": "Deep House, House",
    "title": "CAN YOU FEEL THE SUN W/ PARRIS",
    "url": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-15th-january-2026"
-  },
-  {
-   "date": "2025-12-18T01:00:00Z",
-   "desc": "\"A kind of music\" - the duo behind the new label come together for a regular hour long session, weaving through unexpected dancefloor sounds…",
-   "id": "canyoufeelthesun-w-call-super-parris-18th-december-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/34730c8d-e15a-4457-a5c7-2a5a9dd0273f_1765843200.jpeg",
-   "location": "London",
-   "tags": "Shoegaze, Trip Hop, Leftfield Techno, Drum & Bass",
-   "title": "CAN YOU FEEL THE SUN W/ CALL SUPER",
-   "url": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-18th-december-2025"
   }
  ],
  "kind": "nts",
  "name": "CAN YOU FEEL THE SUN W/ CALL SUPER & PARRIS",
- "updatedAt": "2026-10-22T22:22:40Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

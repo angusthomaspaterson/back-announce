@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-19T05:54:00Z",
+   "desc": "Ahead of their b2b at Strawberry Fields for Mixmag ANZ’s Deep Jungle takeover this weekend, we got a look at how Moktar & DJ Plead are getting ready. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-moktar-dj-plead-compare-notes-before-strawberry-fields",
+   "image": null,
+   "title": "Moktar & DJ Plead compare notes before Strawberry Fields",
+   "url": "https://mixmag.net.au/feature/moktar-dj-plead-compare-notes-before-strawberry-fields"
+  },
+  {
+   "audio": null,
    "date": "2026-11-18T04:50:24Z",
    "desc": "We’re back at Strawberry Fields for a second year, taking over the festival's most post-apocalyptic stage for a full day (and night). Continue reading...",
    "duration": null,
@@ -243,19 +253,9 @@
    "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Chiaroscuro-x-VESPER-Cover.png",
    "title": "Chiaroscuro and VESPER announce their first open-air on Ngunnawal Country",
    "url": "https://mixmag.net.au/read/chiaroscuro-and-vesper-announce-their-first-open-air-on-ngunnawal-country-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-09T03:43:00Z",
-   "desc": "The Civic venue gave Canberra promoters a room with no booking fee and no house format. Owner Andrew Heaney explains why it couldn't last. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-ngunnawal-land-venue-shadows-night-club-announces-closure-over-financial-strain-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Shadows-Cover.png",
-   "title": "Ngunnawal Land venue Shadows Night Club announces closure over financial strain",
-   "url": "https://mixmag.net.au/read/ngunnawal-land-venue-shadows-night-club-announces-closure-over-financial-strain-news"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

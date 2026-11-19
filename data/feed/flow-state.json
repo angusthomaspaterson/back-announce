@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-19T08:02:44Z",
+   "desc": "Today we’re listening to Time Wharp, an American multi-instrumentalist from Atlanta.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-time-wharp-ffc",
+   "image": "https://substackcdn.com/image/fetch/$s_!TegV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F112e3a16-5658-4197-a9d5-fcd6205751f2_1200x1200.jpeg",
+   "title": "Time Wharp",
+   "url": "https://www.flowstate.fm/p/time-wharp-ffc"
+  },
+  {
+   "audio": null,
    "date": "2026-11-18T08:02:52Z",
    "desc": "Today we’re listening to Elvar Smári, an Icelandic composer based in Reykjavík.",
    "duration": null,
@@ -157,7 +167,7 @@
   {
    "audio": "https://api.substack.com/feed/podcast/222246308/ed8734f9ab2605ea9b5b30b4e6a3ad63.mp3",
    "date": "2026-10-28T07:03:10Z",
-   "desc": "On today’s episode of Across the Horizon, Bob Holmes of the band SUSS is joined by harpist and composer Mary Lattimore, one of the curators of Across the Horizon Volume 2. They talk about her contributions to the series as well as those of her guests, Nailah Hunter and Meg Baird. Mary also brought along a playlist of music she’s been listening to the Italian village of Tatti, her new part-time home. The playlist includes Yo La Tengo, Windsor for the Derby, Daniel Ogren, and more.",
+   "desc": "On today’s episode of Across the Horizon, Bob Holmes of the band SUSS is joined by harpist and composer Mary Lattimore, one of the curators of Across the Horizon Volume 2. They talk about her contributions to the series as well as those of her guests, Nailah Hunter and Meg Baird.",
    "duration": null,
    "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-73-mary-lattimore",
    "image": "https://substackcdn.com/image/fetch/$s_!ikfI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c918c5d-d162-4b1c-a0e9-d02ec2f3160e_942x628.jpeg",
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!G_y_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888fffa8-3442-4780-b9e8-3bd9b563fda3_1200x1200.jpeg",
    "title": "Djrum",
    "url": "https://www.flowstate.fm/p/djrum-579"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-22T07:02:59Z",
-   "desc": "Today we’re listening to Hermanos Gutiérrez, Ecuadorian-Swiss guitarists Alejandro and Estevan.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-hermanos-gutierrez-c55",
-   "image": "https://substackcdn.com/image/fetch/$s_!emCj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2a7a276-fb36-4f48-9104-d1ad4942ee5c_1200x1200.jpeg",
-   "title": "Hermanos Gutiérrez",
-   "url": "https://www.flowstate.fm/p/hermanos-gutierrez-c55"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

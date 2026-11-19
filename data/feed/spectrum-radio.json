@@ -5,6 +5,16 @@
  "id": "spectrum-radio",
  "items": [
   {
+   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_499__Joris_Voorn_sc.mp3?dest-id=504876",
+   "date": "2026-11-19T10:32:00Z",
+   "desc": "Live from Óbuda Bay, Budapest",
+   "duration": "01:00:24",
+   "id": "c96fd8bf-1e1d-4322-afdf-004c37a30231",
+   "image": "https://static.libsyn.com/p/assets/0/5/3/6/053650a9dc32eff75f2e77a3093c12a1/Spectrum_Radio_499.jpg",
+   "title": "Spectrum Radio 499",
+   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-499"
+  },
+  {
    "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_498__Joris_Voorn_sc.mp3?dest-id=504876",
    "date": "2026-11-12T12:16:00Z",
    "desc": "Live from Motorworld, Mallorca",
@@ -243,19 +253,9 @@
    "image": "https://static.libsyn.com/p/assets/e/1/e/d/e1edce73b2587ca5d959afa2a1bf1c87/Spectrum_Radio_475.jpg",
    "title": "Spectrum Radio 475",
    "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-475"
-  },
-  {
-   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_474__Joris_Voorn_sc.mp3?dest-id=504876",
-   "date": "2026-05-28T12:50:00Z",
-   "desc": "Live from Boho Bar, Belgrade - Serbia",
-   "duration": "01:00:31",
-   "id": "a27d1313-3c9c-45b3-b529-d04b897391ce",
-   "image": "https://static.libsyn.com/p/assets/b/5/7/e/b57e56dfe87702d8d959afa2a1bf1c87/Spectrum_Radio_474.jpg",
-   "title": "Spectrum Radio 474",
-   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-474"
   }
  ],
  "kind": "rss",
  "name": "Joris Voorn: Spectrum Radio",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

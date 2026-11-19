@@ -5,6 +5,17 @@
  "id": "doublej-take-5",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qj/Z/7a.mp3",
+   "date": "2026-11-19T01:00:00Z",
+   "desc": "Kate Miller-Heidke is one of Australia's most fearless voices. She's written operas and musicals, represented Australia at Eurovision, coached on The Voice, and gathered ARIA nominations across genres from pop to classical to comedy. Her new album, The Kiss and the Abyss, her first in six years, walks the tightrope of medieval music and modern problems. It's a deeply personal record about being human, full of gothic folk drama, ancient instrumentation, and raw emotion. The album came together at Peter Gabriel's Real World Studios in the English countryside, produced by Tom Ianseck (Big Scary …",
+   "duration": "2538",
+   "id": "107404448",
+   "image": "https://live-production.wcms.abc-cdn.net.au/ca6ad4f7aaaa42454d9cc20ce732493f?impolicy=wcms_watermark_abc&cropH=2250&cropW=4000&xPos=0&yPos=209&width=862&height=485&imformat=generic",
+   "title": "Take 5 with Kate Miller-Heidke",
+   "until": "2026-12-17T01:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/take-5/kate-miller-heidke-take-5-songs-that-keep-her-human/107404448"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qb/Z/du.mp3",
    "date": "2026-11-12T01:00:00Z",
    "desc": "Dan Sultan is one of Australia's finest voices. Over the past two decades, he's dabbled in rock, country, soul, even a kids album. But it's on his most recent record, Little Miracles, that he feels like he's finally closer to reaching his full potential. It's a heartfelt expression of self, expansive and epic, full of strings, gospel, and pure sunshine. The album came together in an improbable burst of creativity with legendary songwriter and producer Guy Chambers, (the man behind some of Robbie Williams' biggest hits), and was written and recorded in just 12 days. The title came from Chamber…",
@@ -51,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "Take 5 with Zan Rowe",
- "updatedAt": "2026-11-19T01:15:38Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }

@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-19T08:00:00Z",
+   "desc": "Hello! Been a minute since I offered an overall appraisal of the state of things, as well as what's to come... First things first, from now until 2027 you're gonna see less free posts. (There will also be no posts on Thanksgiving, simply because I know",
+   "duration": null,
+   "id": "6afcb5570d4e79000169a039",
+   "image": "https://last-donut-of-the-night.ghost.io/favicon.png",
+   "title": "An Update on the Newsletter for the Rest of 2026",
+   "url": "https://last-donut-of-the-night.ghost.io/an-update-on-the-newsletter-for-the-rest-of-2026/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-18T08:00:00Z",
    "desc": "",
    "duration": null,
@@ -143,19 +153,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/-Hi-Res-Image--Jeremiah-Chiu-by-Charlie-Weinmann-3-1.jpg",
    "title": "Jeremiah Chiu on Swapping Synths, Chicago, and Going with the Flow",
    "url": "https://last-donut-of-the-night.ghost.io/jeremiah-chiu-on-swapping-synths-chicago-and-going-with-the-flow/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-22T08:00:00Z",
-   "desc": "",
-   "duration": null,
-   "id": "6ad919edd9abe400019d5a13",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/allunderheaven.jpg",
-   "title": "Baker's Dozen: Central Cee, French Montana, Jack White",
-   "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-central-cee-french-montana-jack-white/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-19T13:08:49Z"
 }
