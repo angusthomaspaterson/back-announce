@@ -5,6 +5,16 @@
  "id": "in-our-headphones",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/2ef2da8d-c417-40c5-9ae9-b505001e5b54/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
+   "date": "2026-11-19T20:22:23Z",
+   "desc": "Host Evie Stokes sits down again with Blondshell, aka songwriter Sabrina Teitelbaum, to talk about the music that’s moving her right now. Sabrina talks about how she preps for tour, her German Shepherd named Chinchilla, and how she feels seen by the heaviness imbued in Renny Conti’s “Leaving the Zoo.” Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones@kexp.org. Suppo…",
+   "duration": "811",
+   "id": "2ef2da8d-c417-40c5-9ae9-b505001e5b54",
+   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/2ef2da8d-c417-40c5-9ae9-b505001e5b54/image.jpg?t=1795119729&size=Large",
+   "title": "Blondshell on Feeling Seen by Renny Conti’s “Leaving the Zoo”",
+   "url": "https://omny.fm/shows/kexp-song-of-the-day/blondshell-on-feeling-seen-by-renny-conti-s-leaving-the-zoo"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/daa28861-3b86-4935-bc06-b50401797dd1/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
    "date": "2026-11-17T08:00:00Z",
    "desc": "Host Evie Stokes sits down with Blondshell, aka songwriter Sabrina Teitelbaum, to talk about the music that’s moving her right now. Sabrina talks about recently falling in love with Portraits of Tracy and the project’s penchant for exciting left turns. They dig into the song “Royal Courts (Great Misfortune)” from Portraits of Tracy’s latest EP, Q: From Where Do Our Primal Instincts Originate? A: MTV! Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” p…",
@@ -243,19 +253,9 @@
    "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/57d029d8-41b0-4364-9511-b4b70122a9d0/image.jpg?t=1788225855&size=Large",
    "title": "Lucha Luna on the Healing Power of Helado Tropical",
    "url": "https://omny.fm/shows/kexp-song-of-the-day/lucha-luna-on-the-healing-power-of-helado-tropical"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/61a7767f-a860-4445-a643-b4b10133ebf6/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-   "date": "2026-08-27T07:00:00Z",
-   "desc": "Host Evie Stokes sits down again with Arlo Parks to talk about the music that’s moving her. This time she’s embracing her underground dance influences with a song from London-based artist Oscar Farrell and how dance influence influenced her own recent album, Ambiguous Desire. “There’s something so beautiful about these textures,” Parks says of Farrell’s song “Don’t Play With Me.” “I feel like I’m a sucker for these UK garage influences that are made a little bit wonky and weird.” “Don’t Play With Me” comes from Farrell’s 2026 album, Birds Fly In, out now via dh2. Produced by Dusty Henry Maste…",
-   "duration": "541",
-   "id": "61a7767f-a860-4445-a643-b4b10133ebf6",
-   "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
-   "title": "Arlo Parks on Oscar Farrell’s Beautiful Approach to UK Garage",
-   "url": "https://omny.fm/shows/kexp-song-of-the-day/arlo-parks-on-oscar-farrell-s-beautiful-approach-to-uk-garage"
   }
  ],
  "kind": "rss",
  "name": "KEXP: In Our Headphones",
- "updatedAt": "2026-11-18T01:37:58Z"
+ "updatedAt": "2026-11-20T00:33:18Z"
 }

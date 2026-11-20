@@ -5,6 +5,16 @@
  "id": "pow-mag",
  "items": [
   {
+   "audio": null,
+   "date": "2026-11-19T19:18:15Z",
+   "desc": "As the latest installment hits digital shelves, we revisit the greatest musical moments in the storied franchise.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-the-greatest-grand-theft-auto-songs-ranked",
+   "image": "https://substackcdn.com/image/fetch/$s_!Chmg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b32eb68-8e0b-40b9-bef5-d07cc698db05_1200x1200.png",
+   "title": "The Greatest Grand Theft Auto Songs, Ranked",
+   "url": "https://www.powmag.net/p/the-greatest-grand-theft-auto-songs-ranked"
+  },
+  {
    "audio": "https://api.substack.com/feed/podcast/225275309/11bda101919e039ef1730111c6c3efab.mp3",
    "date": "2026-11-18T18:25:18Z",
    "desc": "The Chattanooga rapper sits down for an episode of POW’s The Truth Hurts.",
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!Scao!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8ccb5e7-ed0b-4997-811a-ef8905fad6cf_1200x1200.png",
    "title": "Slam on the CDJ: The Best DJ Sets of September 2026",
    "url": "https://www.powmag.net/p/slam-on-the-cdj-the-best-dj-sets-september-2026"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-26T17:41:18Z",
-   "desc": "Thirty years after the landmark album, the producer reflects on the ghosts in old drum machines and the samples that remain uncleared.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-dj-shadow-endtroducing-interview",
-   "image": "https://substackcdn.com/image/fetch/$s_!DhI1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F405ca810-3b9e-4ccc-afa4-ec76edb61695_1200x1200.png",
-   "title": "DJ Shadow Tells Us Everything We’ve Ever Wanted To Know About Endtroducing…..",
-   "url": "https://www.powmag.net/p/dj-shadow-endtroducing-interview"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-18T21:30:28Z"
+ "updatedAt": "2026-11-20T00:33:18Z"
 }
