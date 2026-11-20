@@ -2,30 +2,6 @@
  "items": [
   {
    "d": "2026-11-20T00:00:00Z",
-   "g": "Progressive & Trance",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "[PREVIEW] Kevin Di Serna - Ailoviu (Christian Smith Remix)",
-   "u": "https://soundcloud.com/balance-series/kevin-di-serna-ailovio-christian-smith"
-  },
-  {
-   "d": "2026-11-20T00:00:00Z",
-   "g": "Progressive & Trance",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "[PREVIEW] Kevin Di Serna - Ailoviu (Original Mix)",
-   "u": "https://soundcloud.com/balance-series/kevin-di-serna-ailovio"
-  },
-  {
-   "d": "2026-11-20T00:00:00Z",
-   "g": "Progressive & Trance",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "[PREVIEW] Kevin Di Serna - Ailoviu (Adellic Remix)",
-   "u": "https://soundcloud.com/balance-series/kevin-di-serna-ailoviu-adellic"
-  },
-  {
-   "d": "2026-11-20T00:00:00Z",
    "g": "Podcasts",
    "s": "Sound Opinions",
    "sid": "sound-opinions",
@@ -165,10 +141,34 @@
    "sid": "flow-state",
    "t": "Time Wharp",
    "u": "https://www.flowstate.fm/p/time-wharp-ffc"
+  },
+  {
+   "d": "2026-11-19T07:00:00Z",
+   "g": "NTS",
+   "s": "The Early Bird Show w/ PAM",
+   "sid": "nts-early-bird-pam",
+   "t": "The Early Bird Show w/ PAM & Tolkien Williams",
+   "u": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-19th-november-2026"
+  },
+  {
+   "d": "2026-11-19T05:54:00Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Moktar & DJ Plead compare notes before Strawberry Fields",
+   "u": "https://mixmag.net.au/feature/moktar-dj-plead-compare-notes-before-strawberry-fields"
+  },
+  {
+   "d": "2026-11-19T01:00:00Z",
+   "g": "NTS",
+   "s": "CAN YOU FEEL THE SUN W/ CALL SUPER & PARRIS",
+   "sid": "nts-canyoufeelthesun-w-call-super-parris",
+   "t": "CAN YOU FEEL THE SUN W/ Isaac Kniveton",
+   "u": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-19th-november-2026"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 22,
+ "newCount": 19,
  "paused": 23,
  "releases": [
   {
@@ -265,5 +265,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-20T00:33:18Z"
+ "updated": "2026-11-20T00:36:13Z"
 }

@@ -67,6 +67,16 @@ class ParseRss(unittest.TestCase):
         self.assertEqual(titles[0], "Underground Live Forever - ULF045: UV's 350th release celebratory mix by Paul Thomas")
         self.assertEqual(gather.spotify_query(src, kept[0]), "Underground Live Forever Episode 045")
 
+    def test_match_can_leave_out_release_previews(self):
+        # Balance Music's SoundCloud mixes its shows with "[PREVIEW]" clips of each release.
+        src = {"id": "balance-music", "name": "Balance", "kind": "rss", "url": "x", "match": r"^(?!\s*\[preview\])"}
+        items = [gather.item("a", "[PREVIEW] Kevin Di Serna - Ailoviu (Original Mix)", "https://soundcloud.com/a", "2026-11-20T00:04:01Z"),
+                 gather.item("b", "[Preview] Nick Warren - Stupa", "https://soundcloud.com/b", "2026-10-22T00:03:59Z"),
+                 gather.item("c", "Pole Folder: Live from Balance Croatia 2026", "https://soundcloud.com/c", "2026-11-17T01:59:10Z"),
+                 gather.item("d", "Balance Selections 392: Christian Voldstad", "https://soundcloud.com/d", "2026-11-13T00:59:25Z")]
+        kept = gather.finish(items, src, now=datetime.datetime(2026, 11, 20, tzinfo=datetime.timezone.utc))
+        self.assertEqual([i["id"] for i in kept], ["c", "d"])
+
     def test_accumulate_keeps_earlier_items(self):
         src = {"id": "ulf", "name": "ULF", "kind": "rss", "url": "x", "match": r"^Underground Live Forever - ULF\d", "accumulate": True}
         old = [gather.item("yt:video:old1", "Underground Live Forever - ULF030", "https://www.youtube.com/watch?v=old1", "2026-07-07T18:00:00Z"),

@@ -413,6 +413,7 @@
    "home": "https://soundcloud.com/balancemusic",
    "id": "balance-music",
    "kind": "rss",
+   "match": "^(?!\\s*\\[preview\\])",
    "name": "Balance Music (Selections)",
    "url": "https://feeds.soundcloud.com/users/soundcloud:users:1353759/sounds.rss"
   },
