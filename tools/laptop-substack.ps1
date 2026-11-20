@@ -10,14 +10,22 @@
 # every other source, if that hasn't run yet today. Everything it does is
 # logged to %LOCALAPPDATA%\BackAnnounce\laptop-substack.log.
 
+param([switch]$Force)
 $ErrorActionPreference = 'Continue'
 $base = Join-Path $env:LOCALAPPDATA 'BackAnnounce'
 $repo = Join-Path $base 'repo'
 $log = Join-Path $base 'laptop-substack.log'
+$marker = Join-Path $base 'last-ok.txt'
 $remote = 'https://github.com/angusthomaspaterson/back-announce.git'
 New-Item -ItemType Directory -Force $base | Out-Null
 
 function Log($m) { "$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') $m" | Add-Content -Path $log -Encoding utf8 }
+
+# The task also starts when Angus signs in or unlocks the laptop, because Windows doesn't
+# always catch up a 5:30 run missed while asleep (20 Nov 2026). A day starts at 3 am, and
+# once a run has succeeded in a day, later starts that day stop here. -Force runs anyway.
+$today = (Get-Date).AddHours(-3).ToString('yyyy-MM-dd')
+if (-not $Force -and (Test-Path $marker) -and ((Get-Content $marker -ErrorAction SilentlyContinue) -eq $today)) { exit 0 }
 
 function Find-Tool($name, $candidates) {
     foreach ($c in $candidates) {
@@ -62,6 +70,7 @@ for ($attempt = 1; $attempt -le 3 -and -not $done; $attempt++) {
     else { Log "push rejected (attempt $attempt), starting again from the newest commit" }
 }
 if (-not $done) { Log 'ERROR gave up after 3 attempts' }
+else { Set-Content -Path $marker -Value $today -Encoding ascii }
 
 # Start GitHub's daily gather of everything else, unless it has already started today.
 # GitHub runs its own schedule (3:17 am) hours late, so this gets the full feed ready
