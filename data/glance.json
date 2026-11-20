@@ -43,15 +43,6 @@
    "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-620-with-rromarin/"
   },
   {
-   "d": "2026-11-19T14:13:58Z",
-   "g": "Podcasts",
-   "s": "Love Is The Message",
-   "sid": "love-is-the-message",
-   "sp": "Love Is The Message Birds of Fire: Fusion pt.1",
-   "t": "Birds of Fire: Fusion pt.1",
-   "u": "https://podcasters.spotify.com/pod/show/lovemessagepod/episodes/Birds-of-Fire-Fusion-pt-1-e3sm75s"
-  },
-  {
    "d": "2026-11-19T14:00:52Z",
    "g": "Writing",
    "s": "The Guardian: Australian music",
@@ -165,10 +156,18 @@
    "sid": "nts-canyoufeelthesun-w-call-super-parris",
    "t": "CAN YOU FEEL THE SUN W/ Isaac Kniveton",
    "u": "https://www.nts.live/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-19th-november-2026"
+  },
+  {
+   "d": "2026-11-19T01:00:00Z",
+   "g": "Double J",
+   "s": "Take 5 with Zan Rowe",
+   "sid": "doublej-take-5",
+   "t": "Take 5 with Kate Miller-Heidke",
+   "u": "https://www.abc.net.au/listen/programs/take-5/kate-miller-heidke-take-5-songs-that-keep-her-human/107404448"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 19,
+ "newCount": 18,
  "paused": 23,
  "releases": [
   {
@@ -265,5 +264,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-20T00:36:13Z"
+ "updated": "2026-11-20T00:36:42Z"
 }
