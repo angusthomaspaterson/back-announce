@@ -2865,6 +2865,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-18T21:49:13Z",
+     "desc": "This week’s events include Henry Threadgill’s Zooid / Qasim Naqvi / K Wata + DeepChord + Helena Hauff / Stuart Bogie & Buck McDaniel / ‘On The Records’ book talks / and much more",
+     "duration": null,
+     "id": "https:--dadastrain.substack.com-p-bklyn-sounds-1118202611242026",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/73075b3d-56da-482a-8116-05a3511f4fe3_1500x1013.jpeg",
+     "title": "Bklyn Sounds 11/18/2026—11/24/2026",
+     "url": "https://dadastrain.substack.com/p/bklyn-sounds-1118202611242026"
+    },
+    {
+     "audio": null,
      "date": "2026-11-15T19:32:07Z",
      "desc": "INVITE: Come join Brian Beck and myself for listening and conversations with Wendy Eisenberg and Mari “more eaze” Rubio at NYU, and Meshell Ndegeocello and Charlie Hall at the ACE",
      "duration": null,
@@ -2945,9 +2955,9 @@
     }
    ],
    "kind": "rss",
-   "more": 12,
+   "more": 11,
    "name": "Dada Strain (Piotr Orlov)",
-   "updatedAt": "2026-11-18T04:02:10Z"
+   "updatedAt": "2026-11-20T00:32:45Z"
   },
   "days-like-nights": {
    "about": "All contact details and tour dates: www.eelkekleijn.nl",
@@ -3599,6 +3609,20 @@
    "id": "first-floor",
    "items": [
     {
+     "date": "2026-11-19T12:09:13Z",
+     "desc": "First Floor #337 – Business As Usual",
+     "id": "rollup-2026-11-19",
+     "image": "https://substack-post-media.s3.amazonaws.com/public/images/45277a31-e5a9-4823-ae65-cb4c16ad6af4_1456x1048.png",
+     "links": [
+      {
+       "t": "First Floor #337 – Business As Usual",
+       "u": "https://firstfloor.substack.com/p/first-floor-337-business-as-usual"
+      }
+     ],
+     "title": "First Floor recommendations, 19 Nov: 1 record",
+     "url": "https://firstfloor.substack.com/p/first-floor-337-business-as-usual"
+    },
+    {
      "date": "2026-11-18T14:05:47Z",
      "desc": "Yesca – YEC2A (ec2a) X-Altera – As We Enter / Bass Check VIP (BOPSIDE) The Bug & Hollie Cook – Ladybug 4 (Pressure) Bodhi – Echoic (Hotflush) Anastasia Kristensen & Kamen – Danse Macabre (absorb emit) mega:oba – 002 (LOFS) Viner – 2330 (PATAR) Roxanne Harris – longform (Leaving)",
      "id": "rollup-2026-11-18",
@@ -3718,26 +3742,22 @@
     },
     {
      "date": "2026-11-10T22:19:22Z",
-     "desc": "Ottagone – Ottagone.12 (Will & Ink) Popon – 7 / 7 (SFX)",
+     "desc": "Popon – 7 / 7 (SFX)",
      "id": "rollup-2026-11-10",
-     "image": "https://substackcdn.com/image/fetch/$s_!Sd3F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb04fc5a4-05fb-40fe-9a68-2f58b52d1ecb_1456x1048.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!uTZV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4532832-60c2-4586-b872-aa4198b8e880_1456x1048.jpeg",
      "links": [
-      {
-       "t": "Ottagone – Ottagone.12",
-       "u": "https://firstfloor.substack.com/p/ottagone-ottagone12"
-      },
       {
        "t": "Popon – 7 / 7",
        "u": "https://firstfloor.substack.com/p/popon-7-7"
       }
      ],
-     "title": "First Floor recommendations, 10 Nov: 2 records",
+     "title": "First Floor recommendations, 10 Nov: 1 record",
      "url": "https://firstfloor.substack.com/p/popon-7-7"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-18T21:30:07Z"
+   "updatedAt": "2026-11-20T00:32:45Z"
   },
   "flow-state": {
    "about": "Every weekday, one interesting artist and two instrumental albums, hand-picked, good to work to.",
@@ -5695,19 +5715,10 @@
      "image": "https://substackcdn.com/image/fetch/$s_!gsL9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe54aca92-071e-45d6-a81d-b8153e2bc77d_800x533.jpeg",
      "title": "The Drift: the month’s best in weird and experimental music",
      "url": "https://loudandquiet.substack.com/p/the-drift-the-months-best-in-weird-58f"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-05T15:03:31Z",
-     "desc": "Mento, rocksteady, ethereal dream pop and freak folk all meet in a kitchen in South Florida",
-     "duration": null,
-     "id": "https:--loudandquiet.substack.com-p-follow-the-light-to-the-celestial-folk-reggae-and-dub-of-june-mcdoom",
-     "image": "https://substackcdn.com/image/fetch/$s_!mceK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3002ead2-dbf3-43bb-8722-785400de813a_2079x2048.jpeg",
-     "title": "The celestial folk, reggae and dub of June McDoom",
-     "url": "https://loudandquiet.substack.com/p/follow-the-light-to-the-celestial-folk-reggae-and-dub-of-june-mcdoom"
     }
    ],
    "kind": "rss",
+   "more": 1,
    "name": "Loud And Quiet",
    "updatedAt": "2026-11-18T21:30:07Z"
   },
@@ -13023,6 +13034,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-19T22:04:43Z",
+     "desc": "An interview with the Italian producer about skateboarding, studying under the photographer Guido Guidi, and how hardcore punk inspired his new album ‘All Ages’",
+     "duration": null,
+     "id": "https:--toneglow.substack.com-p-tone-glow-248-lorenzo-senni",
+     "image": "https://substackcdn.com/image/fetch/$s_!fLZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c76b0ae-8a1c-44a3-bfeb-35bd72ffcf2b_1400x933.jpeg",
+     "title": "Tone Glow 248: Lorenzo Senni",
+     "url": "https://toneglow.substack.com/p/tone-glow-248-lorenzo-senni"
+    },
+    {
+     "audio": null,
      "date": "2026-11-12T18:58:37Z",
      "desc": "An interview with the best rap duo today about cooking, their families, and their new album ‘Snakes & Ladders’",
      "duration": null,
@@ -13090,22 +13111,12 @@
      "image": "https://substackcdn.com/image/fetch/$s_!Jxql!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70971abc-4636-43c9-a347-704da0c82840_960x1106.jpeg",
      "title": "Tone Glow 242: No.006",
      "url": "https://toneglow.substack.com/p/tone-glow-242-no006"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-05T19:47:06Z",
-     "desc": "An interview with the French director about his path towards filmmaking, creating visual works in our image-inundated landscape, and his new documentary feature ‘For the Moon’ (2026)",
-     "duration": null,
-     "id": "https:--toneglow.substack.com-p-film-show-075-eric-baudelaire",
-     "image": "https://substackcdn.com/image/fetch/$s_!Kv0M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf40d285-4206-4f49-b818-56842a5f5ecc_1280x934.jpeg",
-     "title": "Film Show 075: Éric Baudelaire",
-     "url": "https://toneglow.substack.com/p/film-show-075-eric-baudelaire"
     }
    ],
    "kind": "rss",
    "more": 12,
    "name": "Tone Glow",
-   "updatedAt": "2026-11-12T21:30:08Z"
+   "updatedAt": "2026-11-20T00:32:45Z"
   },
   "transitions": {
    "about": "Some DJ careers are built on hype. John Digweed’s career is built on substance. One of the planet’s most popular DJs, his sets never fall out of favour with clubbers the world over, as his relentless global gig schedule testifies.",
@@ -16444,7 +16455,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-19T13:08:49Z",
+  "lastRun": "2026-11-20T00:32:45Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-19T13:08:49Z",
@@ -16649,9 +16660,9 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
-    "newest": "2026-11-15T19:32:07Z",
+    "newest": "2026-11-18T21:49:13Z",
     "ok": true
    },
    "days-like-nights": {
@@ -16703,7 +16714,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -16721,9 +16732,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-18T21:30:07Z",
-    "count": 6,
-    "newest": "2026-11-18T14:05:47Z",
+    "at": "2026-11-20T00:32:45Z",
+    "count": 7,
+    "newest": "2026-11-19T12:09:13Z",
     "ok": true
    },
    "flow-state": {
@@ -16733,7 +16744,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
     "newest": "2026-11-17T13:05:30Z",
     "ok": true
@@ -16775,7 +16786,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
     "newest": "2026-11-15T14:38:16Z",
     "ok": true
@@ -16835,7 +16846,7 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
     "newest": "2026-11-18T17:03:29Z",
     "ok": true
@@ -16877,7 +16888,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -17591,7 +17602,7 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
     "newest": "2026-11-15T22:12:26Z",
     "ok": true
@@ -17603,7 +17614,7 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
     "newest": "2026-11-16T10:01:03Z",
     "ok": true
@@ -17621,9 +17632,9 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
-    "newest": "2026-11-12T18:58:37Z",
+    "newest": "2026-11-19T22:04:43Z",
     "ok": true
    },
    "transitions": {
@@ -17705,13 +17716,13 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-18T21:30:07Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 8,
     "newest": "2026-11-10T19:00:40Z",
     "ok": true
    },
    "zensounds": {
-    "at": "2026-11-19T13:08:09Z",
+    "at": "2026-11-20T00:32:45Z",
     "count": 20,
     "newest": "2026-11-19T11:23:13Z",
     "ok": true

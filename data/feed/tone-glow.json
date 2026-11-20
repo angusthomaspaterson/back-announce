@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-19T22:04:43Z",
+   "desc": "An interview with the Italian producer about skateboarding, studying under the photographer Guido Guidi, and how hardcore punk inspired his new album ‘All Ages’",
+   "duration": null,
+   "id": "https:--toneglow.substack.com-p-tone-glow-248-lorenzo-senni",
+   "image": "https://substackcdn.com/image/fetch/$s_!fLZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c76b0ae-8a1c-44a3-bfeb-35bd72ffcf2b_1400x933.jpeg",
+   "title": "Tone Glow 248: Lorenzo Senni",
+   "url": "https://toneglow.substack.com/p/tone-glow-248-lorenzo-senni"
+  },
+  {
+   "audio": null,
    "date": "2026-11-12T18:58:37Z",
    "desc": "An interview with the best rap duo today about cooking, their families, and their new album ‘Snakes & Ladders’",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/aad7ca00-5335-4f93-8d9d-8014779845d9_1170x760.jpeg",
    "title": "Tone Glow 236: Barn Sour",
    "url": "https://toneglow.substack.com/p/tone-glow-236-barn-sour"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-16T21:54:48Z",
-   "desc": "An interview with the Chicago-born, New York-based artist about the online communities that made her who she is, her evolving live shows, and the creation of both 'milk thot' and 'hooke's law'",
-   "duration": null,
-   "id": "https:--toneglow.substack.com-p-tone-glow-235-keiyaa",
-   "image": "https://substackcdn.com/image/fetch/$s_!lv0v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F171d6de0-a548-4f85-a8fb-d0138a2ced70_3500x2783.jpeg",
-   "title": "Tone Glow 235: keiyaA",
-   "url": "https://toneglow.substack.com/p/tone-glow-235-keiyaa"
   }
  ],
  "kind": "rss",
  "name": "Tone Glow",
- "updatedAt": "2026-11-12T21:30:08Z"
+ "updatedAt": "2026-11-20T00:32:45Z"
 }

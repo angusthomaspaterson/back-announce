@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-18T21:49:13Z",
+   "desc": "This week’s events include Henry Threadgill’s Zooid / Qasim Naqvi / K Wata + DeepChord + Helena Hauff / Stuart Bogie & Buck McDaniel / ‘On The Records’ book talks / and much more",
+   "duration": null,
+   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-1118202611242026",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/73075b3d-56da-482a-8116-05a3511f4fe3_1500x1013.jpeg",
+   "title": "Bklyn Sounds 11/18/2026—11/24/2026",
+   "url": "https://dadastrain.substack.com/p/bklyn-sounds-1118202611242026"
+  },
+  {
+   "audio": null,
    "date": "2026-11-15T19:32:07Z",
    "desc": "INVITE: Come join Brian Beck and myself for listening and conversations with Wendy Eisenberg and Mari “more eaze” Rubio at NYU, and Meshell Ndegeocello and Charlie Hall at the ACE",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/97cc6e3a-2f68-4741-a1a3-76404addb2fe_1500x1013.jpeg",
    "title": "Bklyn Sounds 7/16/2026—7/21/2026",
    "url": "https://dadastrain.substack.com/p/bklyn-sounds-71620267212026"
-  },
-  {
-   "audio": null,
-   "date": "2026-07-09T16:57:25Z",
-   "desc": "This week's events include 'No Fun Fest: New Perspectives' / Melissa Almaguer presents '¡alebrijes!' / GENA + Bilal + DJ Tara / Play Time / \"Boycott Room Rave\" / Brooklyn Free Spirit Festival / more",
-   "duration": null,
-   "id": "https:--dadastrain.substack.com-p-bklyn-sounds-7920267142026",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/283e8884-b356-4dd7-bd4c-c53d145f36f3_1500x1013.jpeg",
-   "title": "Bklyn Sounds 7/9/2026—7/14/2026",
-   "url": "https://dadastrain.substack.com/p/bklyn-sounds-7920267142026"
   }
  ],
  "kind": "rss",
  "name": "Dada Strain (Piotr Orlov)",
- "updatedAt": "2026-11-18T04:02:10Z"
+ "updatedAt": "2026-11-20T00:32:45Z"
 }

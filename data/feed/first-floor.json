@@ -5,6 +5,20 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-11-19T12:09:13Z",
+   "desc": "First Floor #337 – Business As Usual",
+   "id": "rollup-2026-11-19",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/45277a31-e5a9-4823-ae65-cb4c16ad6af4_1456x1048.png",
+   "links": [
+    {
+     "t": "First Floor #337 – Business As Usual",
+     "u": "https://firstfloor.substack.com/p/first-floor-337-business-as-usual"
+    }
+   ],
+   "title": "First Floor recommendations, 19 Nov: 1 record",
+   "url": "https://firstfloor.substack.com/p/first-floor-337-business-as-usual"
+  },
+  {
    "date": "2026-11-18T14:05:47Z",
    "desc": "Yesca – YEC2A (ec2a) X-Altera – As We Enter / Bass Check VIP (BOPSIDE) The Bug & Hollie Cook – Ladybug 4 (Pressure) Bodhi – Echoic (Hotflush) Anastasia Kristensen & Kamen – Danse Macabre (absorb emit) mega:oba – 002 (LOFS) Viner – 2330 (PATAR) Roxanne Harris – longform (Leaving)",
    "id": "rollup-2026-11-18",
@@ -124,24 +138,20 @@
   },
   {
    "date": "2026-11-10T22:19:22Z",
-   "desc": "Ottagone – Ottagone.12 (Will & Ink) Popon – 7 / 7 (SFX)",
+   "desc": "Popon – 7 / 7 (SFX)",
    "id": "rollup-2026-11-10",
-   "image": "https://substackcdn.com/image/fetch/$s_!Sd3F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb04fc5a4-05fb-40fe-9a68-2f58b52d1ecb_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!uTZV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4532832-60c2-4586-b872-aa4198b8e880_1456x1048.jpeg",
    "links": [
-    {
-     "t": "Ottagone – Ottagone.12",
-     "u": "https://firstfloor.substack.com/p/ottagone-ottagone12"
-    },
     {
      "t": "Popon – 7 / 7",
      "u": "https://firstfloor.substack.com/p/popon-7-7"
     }
    ],
-   "title": "First Floor recommendations, 10 Nov: 2 records",
+   "title": "First Floor recommendations, 10 Nov: 1 record",
    "url": "https://firstfloor.substack.com/p/popon-7-7"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-18T21:30:07Z"
+ "updatedAt": "2026-11-20T00:32:45Z"
 }

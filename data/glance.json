@@ -25,6 +25,14 @@
    "u": "https://soundcloud.com/balance-series/kevin-di-serna-ailoviu-adellic"
   },
   {
+   "d": "2026-11-19T22:04:43Z",
+   "g": "Writing",
+   "s": "Tone Glow",
+   "sid": "tone-glow",
+   "t": "Tone Glow 248: Lorenzo Senni",
+   "u": "https://toneglow.substack.com/p/tone-glow-248-lorenzo-senni"
+  },
+  {
    "d": "2026-11-19T13:08:49Z",
    "g": "Progressive & Trance",
    "s": "Anjunadeep releases",
@@ -41,6 +49,14 @@
    "sp": "Nialler9 Podcast Nine Inch Nails' The Downward Spiral - Trent Reznor: accidental abrasive pop star (with No Encore’s Dave Hanratty)",
    "t": "Nine Inch Nails' The Downward Spiral - Trent Reznor: accidental abrasive pop star (with No Encore’s Dave Hanratty)",
    "u": "https://nialler9.podbean.com/e/nine-inch-nails-the-downward-spiral-trent-reznor-accidental-abrasive-pop-star-with-no-encore-s-dave-hanratty/"
+  },
+  {
+   "d": "2026-11-19T12:09:13Z",
+   "g": "Writing",
+   "s": "First Floor",
+   "sid": "first-floor",
+   "t": "First Floor recommendations, 19 Nov: 1 record",
+   "u": "https://firstfloor.substack.com/p/first-floor-337-business-as-usual"
   },
   {
    "d": "2026-11-19T11:23:13Z",
@@ -147,34 +163,12 @@
    "sid": "nts-hooversound",
    "t": "HOOVERSOUND W/ NAINA",
    "u": "https://www.nts.live/shows/hooversound/episodes/hooversound-18th-november-2026"
-  },
-  {
-   "d": "2026-11-18T18:00:00Z",
-   "g": "Bass & DnB",
-   "s": "Tim Reaper",
-   "sid": "nts-tim-reaper",
-   "t": "Tim Reaper w/ Takuya Nakamura",
-   "u": "https://www.nts.live/shows/tim-reaper/episodes/tim-reaper-18th-november-2026"
-  },
-  {
-   "d": "2026-11-18T15:00:00Z",
-   "g": "Rinse FM",
-   "s": "Utopia Presents",
-   "sid": "rinse-utopia",
-   "t": "Utopia Presents, 18 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/utopia-presents-18-11-2026-1500"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 12,
+ "newCount": 14,
  "paused": 23,
  "releases": [
-  {
-   "k": "Album · Anjunadeep",
-   "out": "2026-11-19T00:00:00Z",
-   "t": "YOTTO – Anjuna Archive: YOTTO",
-   "u": "https://anjunadeep.com/products/642443-anjuna-archive-yotto"
-  },
   {
    "k": "EP · Anjunadeep",
    "out": "2026-11-24T00:00:00Z",
@@ -269,5 +263,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-19T13:08:49Z"
+ "updated": "2026-11-20T00:32:45Z"
 }
