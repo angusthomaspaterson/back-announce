@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-20T08:02:46Z",
+   "desc": "Today we’re listening to Maryos Syawish, an Iraqi electronic musician based in Naarm/Melbourne.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-maryos-syawish",
+   "image": "https://substackcdn.com/image/fetch/$s_!ruE8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2694d8-8610-46aa-b064-71bfb6ba24c5_2028x1368.png",
+   "title": "Maryos Syawish",
+   "url": "https://www.flowstate.fm/p/maryos-syawish"
+  },
+  {
+   "audio": null,
    "date": "2026-11-19T08:02:44Z",
    "desc": "Today we’re listening to Time Wharp, an American multi-instrumentalist from Atlanta.",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!le2H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5198951b-4641-4898-9b2b-1579b71a8598_800x533.jpeg",
    "title": "Adam Wiltzie (Interview)",
    "url": "https://www.flowstate.fm/p/adam-wiltzie-interview"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-23T07:03:09Z",
-   "desc": "Today we’re listening to Djrum, an English electronic musician and DJ.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-djrum-579",
-   "image": "https://substackcdn.com/image/fetch/$s_!G_y_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888fffa8-3442-4780-b9e8-3bd9b563fda3_1200x1200.jpeg",
-   "title": "Djrum",
-   "url": "https://www.flowstate.fm/p/djrum-579"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-19T13:08:49Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

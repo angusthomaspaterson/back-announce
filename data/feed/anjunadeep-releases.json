@@ -14,6 +14,16 @@
   },
   {
    "date": "2026-11-19T00:00:00Z",
+   "desc": "Single on Anjunachill, out 19 Nov 2026.",
+   "id": "636368-club-blood-fever",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/636368.jpg",
+   "out": "2026-11-19T00:00:00Z",
+   "tags": "Single · Anjunachill",
+   "title": "josh & sam who are twins – (club) blood / fever",
+   "url": "https://anjunadeep.com/products/636368-club-blood-fever"
+  },
+  {
+   "date": "2026-11-19T00:00:00Z",
    "desc": "Album on Anjunadeep, out 19 Nov 2026.",
    "id": "642443-anjuna-archive-yotto",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/642443.jpg",
@@ -241,19 +251,9 @@
    "tags": "Album · Anjunachill",
    "title": "Above & Beyond pres. Anjuna:Chilled 01",
    "url": "https://anjunadeep.com/products/617925-above-beyond-pres-anjunachilled-01"
-  },
-  {
-   "date": "2026-10-14T03:26:15Z",
-   "desc": "Album on Anjunadeep Explorations, out 25 Nov 2026.",
-   "id": "622289-alternate-futures",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/622289.jpg",
-   "out": "2026-11-25T00:00:00Z",
-   "tags": "Album · Anjunadeep Explorations",
-   "title": "Quivver – Alternate Futures",
-   "url": "https://anjunadeep.com/products/622289-alternate-futures"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-19T13:08:49Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

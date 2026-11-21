@@ -5,6 +5,16 @@
  "id": "gilles-peterson",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2441781513-gillespeterson-gilles-peterson-edu-lobo-14-11.mp3",
+   "date": "2026-11-20T15:04:25Z",
+   "desc": "GIlles Peterson - Edu Lobo - 14.11.26 by gillespeterson",
+   "duration": "02:59:37",
+   "id": "tag:soundcloud-2010:tracks-2441781513",
+   "image": "https://i1.sndcdn.com/artworks-ynvNHpbBmrCGZM3c-M84fmQ-t3000x3000.jpg",
+   "title": "GIlles Peterson - Edu Lobo - 14.11.26",
+   "url": "https://soundcloud.com/gillespeterson/gilles-peterson-edu-lobo-14-11"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2436614283-gillespeterson-gilles-peterson-peven-everett.mp3",
    "date": "2026-11-12T11:53:56Z",
    "desc": "Gilles Peterson - Peven Everett + Georgia Anne Muldrow - 07.11.2026 by gillespeterson",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-QNCUuqlb9rJRk0r0-g3Xygw-t3000x3000.png",
    "title": "Gilles Peterson - Shy One Chat + Music - 09.05.26",
    "url": "https://soundcloud.com/gillespeterson/gilles-peterson-shy-one-chat"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2314504889-gillespeterson-gilles-peterson-searching-for.mp3",
-   "date": "2026-05-04T16:23:37Z",
-   "desc": "Gilles Peterson - Searching for the Perfect Balearic Beat + The Music Is Black - 02.05..16 by gillespeterson",
-   "duration": "02:59:24",
-   "id": "tag:soundcloud-2010:tracks-2314504889",
-   "image": "https://i1.sndcdn.com/artworks-QNCUuqlb9rJRk0r0-g3Xygw-t3000x3000.png",
-   "title": "Gilles Peterson - Searching for the Perfect Balearic Beat + The Music Is Black - 02.05..16",
-   "url": "https://soundcloud.com/gillespeterson/gilles-peterson-searching-for"
   }
  ],
  "kind": "rss",
  "name": "Gilles Peterson (6 Music show)",
- "updatedAt": "2026-11-13T00:30:22Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

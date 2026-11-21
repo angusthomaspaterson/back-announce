@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-20T17:39:47Z",
+   "desc": "Our columnist takes a closer look at the GRAMMY nominees for Best Rap Album.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-i-nominate-a-boycott-rap-grammys",
+   "image": "https://substackcdn.com/image/fetch/$s_!JnIS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc58d246e-31d3-4535-85e9-1cbd3fc50539_1200x1200.png",
+   "title": "I Nominate a Boycott",
+   "url": "https://www.powmag.net/p/i-nominate-a-boycott-rap-grammys"
+  },
+  {
+   "audio": null,
    "date": "2026-11-19T19:18:15Z",
    "desc": "As the latest installment hits digital shelves, we revisit the greatest musical moments in the storied franchise.",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AAh2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70ae4fd8-347f-4023-bd6f-8e597ef2f62c_1200x1200.png",
    "title": "On Elizabeth Holmes’s Fake Husband and His Unseemly Obsession With Hip-Hop",
    "url": "https://www.powmag.net/p/elizabeth-holmes-billy-evans-hip-hop"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-27T17:17:49Z",
-   "desc": "From reverb-drenched dub to hair-raising field recordings, these are the most memorable sets that the last month had to offer.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-slam-on-the-cdj-the-best-dj-sets-september-2026",
-   "image": "https://substackcdn.com/image/fetch/$s_!Scao!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8ccb5e7-ed0b-4997-811a-ef8905fad6cf_1200x1200.png",
-   "title": "Slam on the CDJ: The Best DJ Sets of September 2026",
-   "url": "https://www.powmag.net/p/slam-on-the-cdj-the-best-dj-sets-september-2026"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-20T00:33:18Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

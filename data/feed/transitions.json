@@ -5,6 +5,16 @@
  "id": "transitions",
  "items": [
   {
+   "date": "2026-11-20T16:00:01Z",
+   "desc": "",
+   "duration": "7200",
+   "id": "-johndigweed-transitions-with-john-digweed-and-mateo-balsa-",
+   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/0/4/c/d/54ca-ae6c-4d67-82d8-9c3eaf47b4b4",
+   "tags": "Dub techno, Electronica, Club, Deep Techno",
+   "title": "Transitions with John Digweed and Mateo Balsa",
+   "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-mateo-balsa/"
+  },
+  {
    "date": "2026-11-13T16:00:19Z",
    "desc": "",
    "duration": "7223",
@@ -243,19 +253,9 @@
    "tags": "Techno, Deep Techno, Club, Electronica",
    "title": "Transitions with John Digweed and Ian O'Donovan",
    "url": "https://www.mixcloud.com/johndigweed/transitions_john-digweed-ian-odonovan/"
-  },
-  {
-   "date": "2026-07-06T13:50:59Z",
-   "desc": "",
-   "duration": "7345",
-   "id": "-johndigweed-transitions-with-john-digweed-pigdan-",
-   "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/f/1/f/c/68ca-b9f0-4803-86ee-ff4c955cb316",
-   "tags": "Downtempo, Chill, House, Ambient",
-   "title": "Transitions with John Digweed and Pig&Dan",
-   "url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-pigdan/"
   }
  ],
  "kind": "mixcloud",
  "name": "John Digweed: Transitions",
- "updatedAt": "2026-11-14T00:21:30Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

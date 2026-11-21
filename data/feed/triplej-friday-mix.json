@@ -5,6 +5,17 @@
  "id": "triplej-friday-mix",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qk/Z/3k.mp3",
+   "date": "2026-11-20T03:30:00Z",
+   "desc": "Naarm/Melbourne’s WOLTERS is bringing '90s house heat to your Friday arvo. Available until 20 Dec.",
+   "duration": "1416",
+   "id": "107393994",
+   "image": "https://live-production.wcms.abc-cdn.net.au/6c9e5e83eb1f6b57200e97bbc340a9f5?impolicy=wcms_crop_resize&cropH=1885&cropW=3351&xPos=0&yPos=1419&width=862&height=485&imformat=generic",
+   "title": "Friday Mix: WOLTERS",
+   "until": "2026-12-20T03:30:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/friday-mix/wolters-djset-2026/107393994"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/27.mp3",
    "date": "2026-11-13T03:30:00Z",
    "desc": "Deadly Wiradjuri DJ duo Tiddalicious drop global club beats and big dancefloor anthems in their debut triple j mix! Available until 13 Dec.",
@@ -51,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "Friday Mix with Dave Woodhead and Kailyn Crabbe",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

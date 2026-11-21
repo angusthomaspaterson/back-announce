@@ -5,6 +5,17 @@
  "id": "triplej-house-party",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qk/Z/rt.aac",
+   "date": "2026-11-20T07:00:00Z",
+   "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 20 Dec. Tracklist: Bugs – Tough Love; Shantan Wantan Ichiban – House Party Mix #1; Silva Bumpa – On 2nite; The Avalanches – Every Single Weekend [Ft. Jamie xx]; Shantan Wantan Ichiban – House Party Mix #2; Dizzee Rascal & Calvin Harris – Dance Wiv Me; FISHER & LAUREL – Staring At The Sun; Ahadadream, Priya Ragu & Skrillex – TAKA [Ft. Contra]; Ahadadream – Koi Si; Doja Cat – Tia Tamera; jayteehazard – Other Way [Ft. Kayps, Anieszka]; Shantan Wantan Ichiban – House Party Aus Rap Mix; Turquoise Prince – Freak4Me; DJ Bor…",
+   "duration": "14399",
+   "id": "107386594",
+   "image": "https://live-production.wcms.abc-cdn.net.au/a10effe92f6126e262696f57897564a1?impolicy=wcms_crop_resize&cropH=2250&cropW=3000&xPos=0&yPos=375&width=862&height=647&imformat=generic",
+   "title": "House Party, 20 Nov",
+   "until": "2026-12-20T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107386594"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qe/Z/gc.aac",
    "date": "2026-11-14T07:00:00Z",
    "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 14 Dec. Tracklist: IsGwan – triple j Mix Up",
@@ -80,20 +91,9 @@
    "title": "House Party, 24 Oct",
    "until": "2026-11-23T07:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107281126"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/po/Z/8e.aac",
-   "date": "2026-10-23T07:00:00Z",
-   "desc": "Good vibe summer tunes to celebrate the start of the weekend with Shantan. Available until 22 Nov. Tracklist: Shantan Wantan Ichiban – House Party Mix #1; Interplanetary Criminal & Silva Bumpa – HOLD DA PHONE; Far East Movement – Like a G6 [Ft. The Cataracs, Dev]; Shantan Wantan Ichiban – House Party Mix #3; Ninajirachi – Fuck My Computer; STÜM – Way To High; Lil Nas X & Jack Harlow – INDUSTRY BABY; Shantan Wantan Ichiban – House Party Mix #4; UNO Stereo – A Vibe Called Quest; Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard – Flower In A Hurricane",
-   "duration": "14399",
-   "id": "107279696",
-   "image": "https://live-production.wcms.abc-cdn.net.au/057bdffc63727697f6b2820440ae7bac?impolicy=wcms_crop_resize&cropH=242&cropW=430&xPos=0&yPos=16&width=862&height=485&imformat=generic",
-   "title": "House Party, 23 Oct",
-   "until": "2026-11-22T07:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107279696"
   }
  ],
  "kind": "abc",
  "name": "House Party with Shantan Wantan Ichiban and Latifa Tee",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

@@ -5,6 +5,16 @@
  "id": "nts-in-focus",
  "items": [
   {
+   "date": "2026-11-20T11:00:00Z",
+   "desc": "Icelandic musician Björk first began recording as a teenager with the band Tappi Tíkarrass before gaining international recognition as the vocalist of The Sugarcubes. Following the band's dissolution, she began releasing solo work with Debut in 1993, exploring the boundaries of pop, electronic music and experimental composition. Drawing on club culture, orchestral arrangements, avant-garde electronics and traditional Icelandic music, her work has continually shifted in form and direction, building an expansive sonic world entirely her own. Compiled and mixed by Tommasi.",
+   "id": "in-focus-bjork-20th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/5fd41f61-f151-400c-8b8c-5795afa5fd64_1794960000.jpeg",
+   "location": "Iceland",
+   "tags": "Electronica, Experimental, Leftfield Pop",
+   "title": "In Focus: Björk",
+   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-bjork-20th-november-2026"
+  },
+  {
    "date": "2026-11-13T11:00:00Z",
    "desc": "Brazilian singer Astrud Gilberto came to international attention in the mid-1960s with her English-language vocal on “The Girl from Ipanema”, recorded with Stan Getz, João Gilberto and Antônio Carlos Jobim. Its understated delivery helped bring bossa nova to a global audience, but her catalogue reaches well beyond that landmark recording. Through the late 1960s and 1970s, she moved between Brazilian song, jazz standards and pop across a run of solo albums, making space for a quietly distinctive style of her own. This In Focus explores the many sides of her work.",
    "id": "in-focus-astrud-gilberto-13th-november-2026",
@@ -113,19 +123,9 @@
    "tags": "Folk, Country",
    "title": "In Focus: Dolly Parton",
    "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-dolly-parton-4th-september-2026"
-  },
-  {
-   "date": "2026-08-28T10:00:00Z",
-   "desc": "Unique and genre-hopping electro pop and Shibuya-kei sounds from Takako Minekawa.",
-   "id": "in-focus-takako-minekawa-28th-august-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/f3535c9e-8935-4954-b55a-69590c4470db_1787875200.jpeg",
-   "location": "",
-   "tags": "Synth Pop, SHIBUYA-KEI, J-Pop",
-   "title": "In Focus: Takako Minekawa",
-   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-takako-minekawa-28th-august-2026"
   }
  ],
  "kind": "nts",
  "name": "NTS In Focus",
- "updatedAt": "2026-11-16T13:10:43Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

@@ -5,6 +5,16 @@
  "id": "nts-anz",
  "items": [
   {
+   "date": "2026-11-19T17:00:00Z",
+   "desc": "Anz runs the spectrum of bass music and club sounds every month from the Manchester studio - expect high energy bangers, big blends aplenty with lots of soul to boot.",
+   "id": "anz-19th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0836a210-b5ee-4dda-a053-7d56ae2cd575_1795046400.jpeg",
+   "location": "Manchester",
+   "tags": "Breaks, House, Garage",
+   "title": "Anz",
+   "url": "https://www.nts.live/shows/anz/episodes/anz-19th-november-2026"
+  },
+  {
    "date": "2026-09-24T16:00:00Z",
    "desc": "Anz runs the spectrum of bass music and club sounds every month from the Manchester studio - expect high energy bangers, big blends aplenty with lots of soul to boot.",
    "id": "anz-24th-september-2026",
@@ -113,19 +123,9 @@
    "tags": "Soul, Boogie, Classic Disco",
    "title": "Anz",
    "url": "https://www.nts.live/shows/anz/episodes/anz-1st-may-2025"
-  },
-  {
-   "date": "2025-03-06T17:00:00Z",
-   "desc": "Anz runs the spectrum of bass music and club sounds every month from the Manchester studio - expect high energy bangers, big blends aplenty with lots of soul to boot.",
-   "id": "anz-6th-march-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/60e1fef8-5841-4489-8e99-b27c4f60c6ec_1488844800.jpeg",
-   "location": "Manchester",
-   "tags": "Electro, Breaks, House",
-   "title": "Anz",
-   "url": "https://www.nts.live/shows/anz/episodes/anz-6th-march-2025"
   }
  ],
  "kind": "nts",
  "name": "Anz",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

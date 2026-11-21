@@ -5,6 +5,16 @@
  "id": "nts-dj-persuasion",
  "items": [
   {
+   "date": "2026-11-19T21:00:00Z",
+   "desc": "Drum & bass and jungle every month with Equinox & Dev/Null. From the host: \"Equinox & Dev/Null return with an hour of darkness this month. Dev/Null starts with new releases and unsigned tracks, then Equinox finishes with half an hour of killer darkside vinyl cuts.\"",
+   "id": "dj-persuasion-19th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/4ae3210d-d675-40ae-8785-bb2e674fa159_1775606400.jpeg",
+   "location": "London",
+   "tags": "Breakbeat Hardcore, Jungle",
+   "title": "Drum Poetry w/ Equinox & Dev/Null",
+   "url": "https://www.nts.live/shows/dj-persuasion/episodes/dj-persuasion-19th-november-2026"
+  },
+  {
    "date": "2026-10-22T20:00:00Z",
    "desc": "Drum & bass and jungle every month with Equinox & Dev/Null. From the host: \"100% New Releases / Forthcoming / Unsigned Tracks\"",
    "id": "dj-persuasion-22nd-october-2026",
@@ -113,19 +123,9 @@
    "tags": "Breakbeat Hardcore, Jungle",
    "title": "Drum Poetry w/ Dev/Null: Vibration Center Atmospheric Jungle Set",
    "url": "https://www.nts.live/shows/dj-persuasion/episodes/dj-persuasion-15th-january-2026"
-  },
-  {
-   "date": "2025-12-18T21:00:00Z",
-   "desc": "Drum & bass and jungle every month with Equinox & Dev/Null. From the host: \"Equinox & Dev/Null return with the last DRUM POETRY of the year, featuring an hour of new and exclusive hardcore/jungle\"",
-   "id": "dj-persuasion-18th-december-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/cdedb4af-f30b-4a90-be7f-bba3109d06c8_1765929600.png",
-   "location": "London",
-   "tags": "Breakbeat Hardcore, Jungle",
-   "title": "Drum Poetry w/ Equinox & Dev/Null",
-   "url": "https://www.nts.live/shows/dj-persuasion/episodes/dj-persuasion-18th-december-2025"
   }
  ],
  "kind": "nts",
  "name": "Drum Poetry w/ Equinox & Dev/Null",
- "updatedAt": "2026-10-23T22:14:30Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

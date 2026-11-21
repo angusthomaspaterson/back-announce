@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-20T03:38:32Z",
+   "desc": "'Innerbloom XI' lands 11 years to the day after the original. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-hans-zimmer-reworks-ruefues-du-sols-innerbloom-for-its-11th-anniversary-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/RUFUS-Hans-Zimmer-cover.png",
+   "title": "Hans Zimmer reworks RÜFÜS DU SOL's 'Innerbloom' for its 11th anniversary",
+   "url": "https://mixmag.net.au/read/hans-zimmer-reworks-ruefues-du-sols-innerbloom-for-its-11th-anniversary-news"
+  },
+  {
+   "audio": null,
    "date": "2026-11-19T05:54:00Z",
    "desc": "Ahead of their b2b at Strawberry Fields for Mixmag ANZ’s Deep Jungle takeover this weekend, we got a look at how Moktar & DJ Plead are getting ready. Continue reading...",
    "duration": null,
@@ -243,19 +253,9 @@
    "image": null,
    "title": "Love is the Message, and FLINTA are the focus",
    "url": "https://mixmag.net.au/feature/love-is-the-message-and-flinta-are-the-focus"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-11T22:13:00Z",
-   "desc": "Magda Bytnerowicz, DJ Luv You, Kasun and WTP join Canberra’s a.y.x. and Skunks for eleven hours at a secret site outside the city. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-chiaroscuro-and-vesper-announce-their-first-open-air-on-ngunnawal-country-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Chiaroscuro-x-VESPER-Cover.png",
-   "title": "Chiaroscuro and VESPER announce their first open-air on Ngunnawal Country",
-   "url": "https://mixmag.net.au/read/chiaroscuro-and-vesper-announce-their-first-open-air-on-ngunnawal-country-news"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-19T13:08:49Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

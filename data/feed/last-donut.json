@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-20T08:00:00Z",
+   "desc": "",
+   "duration": null,
+   "id": "6afdfb49b5d13b000100d9ef",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/11/navyblue.jpg",
+   "title": "Baker's Dozen: JPEGMAFIA, Killer Mike, @",
+   "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-jpegmafia-killer-mike/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-19T08:00:00Z",
    "desc": "Hello! Been a minute since I offered an overall appraisal of the state of things, as well as what's to come... First things first, from now until 2027 you're gonna see less free posts. (There will also be no posts on Thanksgiving, simply because I know",
    "duration": null,
@@ -143,19 +153,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/kosoya.jpg",
    "title": "Baker's Dozen: Polo G, Thundercat, Lorenzo Senni",
    "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-polo-g-thundercat-lorenzo-senni/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-23T08:00:00Z",
-   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
-   "duration": null,
-   "id": "6ada062fa1cd4a000105aad7",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/-Hi-Res-Image--Jeremiah-Chiu-by-Charlie-Weinmann-3-1.jpg",
-   "title": "Jeremiah Chiu on Swapping Synths, Chicago, and Going with the Flow",
-   "url": "https://last-donut-of-the-night.ghost.io/jeremiah-chiu-on-swapping-synths-chicago-and-going-with-the-flow/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-11-19T13:08:49Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

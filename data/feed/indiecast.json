@@ -5,6 +5,16 @@
  "id": "indiecast",
  "items": [
   {
+   "audio": "https://rss.art19.com/episodes/a6407dd5-9b5e-47fc-88af-5cf61a7aac41.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+   "date": "2026-11-20T09:00:00Z",
+   "desc": "Steven and Ian begin by acknowledging the most popular culture thing on the planet — GTA VI (0:42) — before discussing Steven's recent column on the worst rock songs of the 21st century, with Ian revealing his picks (8:55). After that they delve into the annual ritual of Grammys complaining (25:31) and the week's new releases, which are mostly reissues for the holiday season (38:02). They also talk about new album announcements from Julien Baker and Gang of Youths (43:11) before Recommendation Corner (50:24). See Privacy Policy at https://art19.com/privacy and California Privacy Notice at htt…",
+   "duration": "00:55:29",
+   "id": "gid:--art19-episode-locator-V0-DCjsiIScgZjelVvdMs1xDEg--1LpCvAUmPNylaLBAek",
+   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
+   "title": "The Worst Rock Songs Of The 21st Century + The Grammys Get It Wrong Again (Of Course)",
+   "url": "https://rss.art19.com/episodes/a6407dd5-9b5e-47fc-88af-5cf61a7aac41.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
    "audio": "https://rss.art19.com/episodes/21781b17-735d-40bb-9d61-dee51286efbc.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
    "date": "2026-11-13T11:00:00Z",
    "desc": "The guys open with a special clarification from Ian on a recent mixup in the emo world (0:47) before transitioning to discussions of the new Coachella lineup (7:25) and Pitchfork's recent \"100 Greatest Indie Rock Albums Of All Time\" list (16:50). After a rundown of the week's new releases (41:19) they delve into the first U2 new album in nine years, “Carnaval De Luz.” See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
@@ -243,19 +253,9 @@
    "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
    "title": "Our Favorite Albums Of 2026 So Far",
    "url": "https://rss.art19.com/episodes/397b87d2-6ae6-4e9a-96f6-172c38e84945.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "audio": "https://rss.art19.com/episodes/59f4da97-313c-4ed6-a17d-7c356d3f2c5c.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-   "date": "2026-06-05T05:00:00Z",
-   "desc": "This week's conversation begins with Steven telling a story about a very mean email he got from a publicist this week (2:00), followed by Ian talking about his trip to an historic studio down south (9:30). After that, they do an update of the fantasy albums draft (17:56) before assessing the state of music in 2026 so far, ahead of revealing their mid-year lists next week (23:09). Then they run down the week's new releases, including new releases by Modest Mouse, Converge, Deer Tick and Lizzo (31:05). They also discuss the new record by Death Cab for Cutie (41:06). In Recommendation Corner, Ia…",
-   "duration": "00:58:01",
-   "id": "gid:--art19-episode-locator-V0-Sb3_a-c0i9rtwQXGHEwFXJgRZEM8zh4pQXvVzSnY6l8",
-   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
-   "title": "Has 2026 Been A Good Year For Music? Plus: New Albums by Death Cab For Cutie, Modest Mouse, and Deer Tick",
-   "url": "https://rss.art19.com/episodes/59f4da97-313c-4ed6-a17d-7c356d3f2c5c.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "kind": "rss",
  "name": "Indiecast",
- "updatedAt": "2026-11-14T00:21:30Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

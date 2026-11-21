@@ -5,6 +5,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2441537358-balance-series-balance-selections-agoria.mp3",
+   "date": "2026-11-20T00:00:00Z",
+   "desc": "Few artists have approached electronic music with the restless curiosity of Agoria. This year marks three decades since the French DJ and producer began his journey, alongside another milestone: the 100th release on his Sapiens imprint. For Balance, his connection runs deep. In 2010, he delivered the acclaimed Balance 016, an adventurous double-disc compilation that reflected his disregard for genre boundaries and his instinct for finding unexpected connections between sounds. Sixteen years later, that same exploratory spirit remains central to his work. As he celebrates 30 years in electroni…",
+   "duration": "01:25:29",
+   "id": "tag:soundcloud-2010:tracks-2441537358",
+   "image": "https://i1.sndcdn.com/artworks-zPBz4Dz2NuxTpqUw-2jIb3g-t3000x3000.jpg",
+   "title": "Balance Selections 393: Agoria",
+   "url": "https://soundcloud.com/balance-series/balance-selections-agoria"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2439708516-balance-series-pole-folder-balance-2026.mp3",
    "date": "2026-11-17T00:00:00Z",
    "desc": "Recording of Pole Folder's set from Balance Croatia 2026. @pole-folder ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ Buy FINAL RELEASE TIX: go.kaboodle.co.uk/Balance-2027-GS _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-BuqMPCKP2Nk0zC8c-0j0pTw-t3000x3000.jpg",
    "title": "Balance Selections 383: Nichols+Roark",
    "url": "https://soundcloud.com/balance-series/balance-selections-383-nichols"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2397752943-balance-series-rocio-portillo-live-from-balance-croatia.mp3",
-   "date": "2026-09-10T00:00:00Z",
-   "desc": "Recording of Rocio Portillo's set from Balance Croatia 2026. @rocioportillo ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "01:57:06",
-   "id": "tag:soundcloud-2010:tracks-2397752943",
-   "image": "https://i1.sndcdn.com/artworks-iI1DAoR9OQZpWE6w-URpCrA-t3000x3000.jpg",
-   "title": "Rocio Portillo: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/rocio-portillo-live-from-balance-croatia"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-11-20T00:36:13Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

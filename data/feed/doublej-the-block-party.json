@@ -5,6 +5,17 @@
  "id": "doublej-the-block-party",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qk/Z/re.aac",
+   "date": "2026-11-20T08:00:00Z",
+   "desc": "Join Hau Latukefu for a massive hip hop fueled party to help you roll into the weekend in style. Available until 18 Dec. Tracklist: Christine Anu – San E Wireless; Wicked Beat Sound System – Do The Things; Fdel – A Fuller Culture; Flow Dynamics – Just Expressin'; Sound Unlimited – One More From the City; DIG feat. Dana Diaz-Tutaan, Trey and Shorti – Upside; Hiroshi and Claudia – Beats In the Depth; Mama's Funkstikools – Funkstikools Theory; Finger Lickin' Good – Funky Who's Deffer; MC Que – Southern Hemispheric; Prowla – Dead Serious; The Suffa MC – Up And Down; Ozi Batla – Integrity; Thundam…",
+   "duration": "7200",
+   "id": "107359926",
+   "image": "https://live-production.wcms.abc-cdn.net.au/025729300acc1311e1c9815de47db5ea?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "The Block Party, 20 Nov",
+   "until": "2026-12-18T08:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107359926"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/qk.aac",
    "date": "2026-11-13T08:00:00Z",
    "desc": "We're at week 2 for Aus Music Month, so I'm continuing the big celebrations of our local releases with Homegrown Harvest. We kick off proceedings with Plutonic Lab. Then we hit the groove for some JOY. Slow things down in the dancehall for some Rockmelons. Then we hit the streets for some Lyrical Commission. Let's run it! Available until 11 Dec. Tracklist: Plutonic Lab – Rumour / Submariner; Hermitude – Highway Burner; JOY. – Smoke Too Much; Rockmelons feat. Deni Hines – Ain't No Sunshine; Skunkhour – Green Grocer; B Wise feat. Natalie Slade – Eyes Wide; Lyrical Commission – Custom Made; Clas…",
@@ -36,20 +47,9 @@
    "title": "The Block Party : Amp Fiddler",
    "until": "2026-11-27T08:00:00Z",
    "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107279712"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/po/Z/7i.aac",
-   "date": "2026-10-23T08:00:00Z",
-   "desc": "Grab your telescopes, grab your beat machines... We're taking it back to the wonderous sounds of our very own Astronomy Class. The trio, then turning into a quartette, released a few albums and those albums were always packwed with grooves, intelligent rhymes and global sounds. Available until 20 Nov. Tracklist: Al B. Sure! – Nite and Day; Juicy – Sugar Free; Loose Ends – Hangin' On a String (Contemplating); Midnight Star – Curious; Cherrelle and Alexander O'Neil – Saturday Love; Guy – I Like; Jody Watley – Looking For a New Love; Wa Wa Nee – Stimulation (12\" mix); Prince – The Ballad of Doro…",
-   "duration": "7200",
-   "id": "107252006",
-   "image": "https://live-production.wcms.abc-cdn.net.au/413c5f2d3e4623ae006fac24a78a1ff8?impolicy=wcms_watermark_abc&cropH=1045&cropW=1858&xPos=0&yPos=568&width=862&height=485&imformat=generic",
-   "title": "The Block Party : Astronomy Class",
-   "until": "2026-11-20T08:00:00Z",
-   "url": "https://www.abc.net.au/listen/programs/the-block-party/the-block-party/107252006"
   }
  ],
  "kind": "abc",
  "name": "The Block Party with Hau Latukefu",
- "updatedAt": "2026-11-16T13:10:43Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }

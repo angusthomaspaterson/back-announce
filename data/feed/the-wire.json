@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-20T00:00:00Z",
+   "desc": "In this extract, taken from “The Myth And Mystery Of The New Blockaders”, Nick Soulsby outlines the unique biographical challenges in documenting the lives of North East refuseniks Richard and Philip Rupenus It’s common in biography for the sense of the person to become overwhelmed by their actions: the politician fades beneath crises and legislation; the general into a catalogue of battlefield decisions; the musician into the cycle of writing, recording and performing. Once set in motion, most lives worth writing of become dominated by a body of work with the human being whittled away to a d…",
+   "duration": null,
+   "id": "hewire.co.uk-in-writing-book-extracts-read-an-extract-from-viva-negativa-the-new-blockaders-the-noise-of-art-and-nothing",
+   "image": "https://www.thewire.co.uk/img/contain/481/480/2026/11/20/TNB_Front_Cover_Only_for_web.jpg",
+   "title": "Read an extract from  Viva Negativa! The New Blockaders: The Noise Of Art And Nothing",
+   "url": "https://www.thewire.co.uk/in-writing/book-extracts/read-an-extract-from-viva-negativa-the-new-blockaders-the-noise-of-art-and-nothing"
+  },
+  {
+   "audio": null,
    "date": "2026-11-18T00:00:00Z",
    "desc": "To accompany his Unlimited Editions report in The Wire 514, Tim Fish compiles an annotated playlist of tracks from the Liverpool label When Blah Records emerged into the UK’s hiphop landscape in 2006, they formed part of an alternative movement to a rather dominant London scene. Co-founded by Lee Scott and Alex Jennings (aka Molotov), the label was primarily a way to officially distribute music for the rap crew Children Of The Damned (COTD), and the majority of artists who have put out records on the label over the subsequent 20 years have all had some real-life connection to Scott. The follo…",
    "duration": null,
@@ -243,19 +253,9 @@
    "image": "https://www.thewire.co.uk/img/contain/610/480/2025/05/28/wire_issues_tiles.jpg",
    "title": "Call for submissions:  The Wire  New Voices",
    "url": "https://www.thewire.co.uk/in-writing/essays/introducing-the-wire-new-voices"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-05T00:00:00Z",
-   "desc": "Watch an exclusive premiere of the film of Ava Rasti’s The River, first performed as part of the 2025 Semibreve festival. The River by Iranian-born Berlin-based composer Ava Rasti was commissioned by Portuguese festival Semibreve and first presented on 25 October 2025 at the Capela Imaculada do Seminário Menor in Braga. The performance brought together Rasti and a string quartet composed of Filipa Abreu (violin), Vânia Oliveira (viola), Tiago Mendes (cello) and Catarina Coelho (cello). The work takes the Piave river in northern Italy as its inspiration, a landscape in which the present is int…",
-   "duration": null,
-   "id": "https:--www.thewire.co.uk-video-premiere-ava-rasti-s-the-river",
-   "image": "https://www.thewire.co.uk/img/contain/610/480/2026/10/05/the_river_crop.jpg",
-   "title": "Premiere: Ava Rasti’s  The River",
-   "url": "https://www.thewire.co.uk/video/premiere-ava-rasti-s-the-river"
   }
  ],
  "kind": "rss",
  "name": "The Wire",
- "updatedAt": "2026-11-18T15:31:22Z"
+ "updatedAt": "2026-11-21T00:49:16Z"
 }
