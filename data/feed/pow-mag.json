@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-21T16:50:28Z",
+   "desc": "The Rap-Up considers the most notable singles of the past week. Today, Anthony Seaman reviews new work from Tay-K, Jack Harlow, and more.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-in-a-cold-world-i-wish",
+   "image": "https://substackcdn.com/image/youtube/w_728,c_limit/_DzvwxtQj4k",
+   "title": "In A Cold World I Wish",
+   "url": "https://www.powmag.net/p/in-a-cold-world-i-wish"
+  },
+  {
+   "audio": null,
    "date": "2026-11-20T17:39:47Z",
    "desc": "Our columnist takes a closer look at the GRAMMY nominees for Best Rap Album.",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!1Ea9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4d28bc4-fce2-411a-8b85-d6af5bb5f20b_1200x1200.png",
    "title": "The 50 Best Neptunes Beats, Ranked",
    "url": "https://www.powmag.net/p/the-50-best-neptunes-beats-ranked"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-28T17:00:40Z",
-   "desc": "Billy Evans loves to tweet at and about rappers almost as much as he loves to pretend to be Elizabeth online.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-elizabeth-holmes-billy-evans-hip-hop",
-   "image": "https://substackcdn.com/image/fetch/$s_!AAh2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70ae4fd8-347f-4023-bd6f-8e597ef2f62c_1200x1200.png",
-   "title": "On Elizabeth Holmes’s Fake Husband and His Unseemly Obsession With Hip-Hop",
-   "url": "https://www.powmag.net/p/elizabeth-holmes-billy-evans-hip-hop"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-21T23:49:41Z"
 }

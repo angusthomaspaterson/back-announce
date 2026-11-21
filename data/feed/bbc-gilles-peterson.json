@@ -5,6 +5,16 @@
  "id": "bbc-gilles-peterson",
  "items": [
   {
+   "date": "2026-11-21T18:00:00Z",
+   "desc": "On BBC Sounds until 22 Dec. Gilles invites Johannesburg producer Thakzin to talk about the path that led him to becoming a DJ and musician, and asks him to retrace the history of South African electronic genres that preceded 3-Step, from bubblegum to amapiano. Plus, a celebration of the trailblazing legacy of late Detroit techno pioneer Juan Atkins, with words and music from friends and collaborators, including Carl Craig, Dave Angel, Josey Rebelle, Mark “Marc Mac” Clair of 4hero, and Sherelle. Produced by Reduced Listening for BBC Radio 6 Music.",
+   "duration": "10800",
+   "id": "m0034cn8",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lxz1hx.jpg",
+   "title": "Thakzin in conversation and a tribute to Juan Atkins",
+   "until": "2026-12-21T18:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0034cn8"
+  },
+  {
    "date": "2026-11-14T18:00:00Z",
    "desc": "On BBC Sounds until 15 Dec. Gilles shares a special backstage interview with Brazilian legendary singer-songwriter and composer Edu Lobo. Elsewhere in the show, we celebrate the anniversary of two seminal albums released this week in 1993: Kassa Overall tells us about Wu-Tang Clan’s Enter the Wu-Tang (36 Chambers), and Ali Shaheed Muhammad recalls the time of A Tribe Called Quest's Midnight Marauders. Plus, jazz vocalist Samara Joy shares words about her new live album, and Cambridge Jazz Festival co-director Gil Karpas talks about the festival’s 2026 edition. Produced by Reduced Listening fo…",
    "duration": "10800",
@@ -47,5 +57,5 @@
  ],
  "kind": "bbc",
  "name": "Gilles Peterson on 6 Music",
- "updatedAt": "2026-11-17T02:29:49Z"
+ "updatedAt": "2026-11-21T23:49:41Z"
 }

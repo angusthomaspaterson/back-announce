@@ -5,6 +5,16 @@
  "id": "21c-progressive",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2441065872-21cprogressivehouse-matthew-prickett-tessellation.mp3",
+   "date": "2026-11-21T10:06:01Z",
+   "desc": "Tessellation 25 Tracklist: 1. Alex Cecil & Stefan Rose - Inverted (Jochem Hamerling Extended Remix) [NiteLite Music] 2. Tapasya (IND) - Flux (Chelakhov Remix) [Future Avenue] 3. Sean Harvey - In the Darkness (Original Mix) [Keep Thinking] 4. Mekci - Nimbus (Original Mix) [AH Digital] 5. Doug Crawford - Skirring (Mike Bentley Remix) [Atlantic Progression] 6. Khen - Homeboy (Dilby Remix) [Closure] 7. NUFECTS - Obscurial (Extended Mix) [Univack] 8. Keltik - Crystal (Original Mix) [Droid9 Australia] 9. Nick Warren & Nicolas Rada - Fuego (Extended Mix) [Global Underground] 10. Jamie Stevens & Chri…",
+   "duration": "02:00:35",
+   "id": "tag:soundcloud-2010:tracks-2441065872",
+   "image": "https://i1.sndcdn.com/artworks-A5hePBryNc3nh978-Ptr5rQ-t3000x3000.jpg",
+   "title": "Matthew Prickett | Tessellation 25",
+   "url": "https://soundcloud.com/21cprogressivehouse/matthew-prickett-tessellation"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2435542695-21cprogressivehouse-imprint-series-droid9.mp3",
    "date": "2026-11-10T14:50:23Z",
    "desc": "For Imprint #23 on 21C Progressive House, Steven Flynn selects and mixes 17 tracks from Droid9 Recordings and Droid9 South America, two progressive house catalogues with roots in San Francisco and Argentina. Antrim’s Dawn in Port opens the set, with music from Nightnews, Gowzer, Lio Q and PASINDU along the way. The closing sequence includes VegaZ SL’s remix of David Podhel’s That’s the Way before Fermín Gutiérrez’s Closed Eyes brings the mix to a close. 1. Antrim - Dawn in Port [Droid9] 2. Nightnews - Blackout [Droid9] 3. Tomas Harguintegui - Horus [Droid9] 4. Gowzer - Slicer [Droid9] 5. Nice…",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-wueZDM7XTuXAL9ct-6XcR2A-t3000x3000.jpg",
    "title": "Matthew Prickett | Tessellation 24",
    "url": "https://soundcloud.com/21cprogressivehouse/matthew-prickett-tessellation-24"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2338512191-21cprogressivehouse-dave-lazenby-the-racket-club.mp3",
-   "date": "2026-06-13T06:40:54Z",
-   "desc": "Dave Lazeby joins us as out guest DJ at The Racket Club. Dave is a key figure in Sheffield’s progressive house scene. As co-founder of Another Life (https://www.facebook.com/profile.php?id=100082538962088) , he has built one of the north of England’s strongest underground nights, with 2026 bringing a flagship Sasha show at Sheffield Cathedral. On this Racket Club mix, Dave marks the release of Steelyard, his new collaboration with Jon Towell on Forensic Records, featuring both the original and Gowzer remix. 1. Brunello – Science Fiction (Nicare Edit) [White Label] 2. SURFFACE – Zohar (Origina…",
-   "duration": "01:06:09",
-   "id": "tag:soundcloud-2010:tracks-2338512191",
-   "image": "https://i1.sndcdn.com/artworks-QNi9SSA83SK3qi6r-LQI7Fw-t3000x3000.jpg",
-   "title": "Dave Lazenby | The Racket Club",
-   "url": "https://soundcloud.com/21cprogressivehouse/dave-lazenby-the-racket-club"
   }
  ],
  "kind": "rss",
  "name": "21C Progressive House",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-21T23:49:41Z"
 }

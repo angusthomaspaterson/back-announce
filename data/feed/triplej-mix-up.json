@@ -5,6 +5,50 @@
  "id": "triplej-mix-up",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/ql/Z/ni.mp3",
+   "date": "2026-11-21T14:00:00Z",
+   "desc": "Berlin’s Andre Zimmer brings deep techy rollers to the booth ahead of his Aus tour. Available until 21 Dec.",
+   "duration": "3599",
+   "id": "107394032",
+   "image": "https://live-production.wcms.abc-cdn.net.au/82ff1c08cf9e5bcd174314a1aa20c438?impolicy=wcms_crop_resize&cropH=1744&cropW=3100&xPos=0&yPos=1455&width=862&height=485&imformat=generic",
+   "title": "Mix Up: Andre Zimmer",
+   "until": "2026-12-21T14:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/andrezimmer-djset-2026/107394032"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qk/Z/im.mp3",
+   "date": "2026-11-21T13:00:00Z",
+   "desc": "Rip the lid off your weekend with this whopping set from Amsterdam-based duo NewTone! Available until 21 Dec.",
+   "duration": "3646",
+   "id": "107394030",
+   "image": "https://live-production.wcms.abc-cdn.net.au/4b9a4b1a491235282c8da91af2f20029?impolicy=wcms_crop_resize&cropH=1875&cropW=3333&xPos=0&yPos=1563&width=862&height=485&imformat=generic",
+   "title": "Mix Up: NewTone",
+   "until": "2026-12-21T13:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/newtone-djset-2026/107394030"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qk/Z/ig.mp3",
+   "date": "2026-11-21T12:00:00Z",
+   "desc": "London’s TSHA serves up groovy house dancefloor fillers ahead of her Aussie shows! Available until 21 Dec.",
+   "duration": "3613",
+   "id": "107394002",
+   "image": "https://live-production.wcms.abc-cdn.net.au/f7042681410381def0a923676a2beafa?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=321&width=862&height=485&imformat=generic",
+   "title": "Mix Up: TSHA",
+   "until": "2026-12-21T12:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/tsha-djset-2026/107394002"
+  },
+  {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qk/Z/ib.mp3",
+   "date": "2026-11-21T11:00:00Z",
+   "desc": "Naarm/Melbourne’s IsGwan is bumping a huge mix full of ragga-inspired UKG cuts on Mix Up! Available until 21 Dec.",
+   "duration": "3616",
+   "id": "107394000",
+   "image": "https://live-production.wcms.abc-cdn.net.au/1e02b84ff6035c86938c6e895423aae0?impolicy=wcms_crop_resize&cropH=1874&cropW=3332&xPos=0&yPos=1716&width=862&height=485&imformat=generic",
+   "title": "Mix Up Resident: IsGwan",
+   "until": "2026-12-21T11:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w3-djset-2026/107394000"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qd/Z/fr.mp3",
    "date": "2026-11-14T14:00:00Z",
    "desc": "Lock in for an hour of tech house power from Berlin’s Bambi-S! Available until 14 Dec.",
@@ -69,53 +113,9 @@
    "title": "Mix Up: Morgan Seatree",
    "until": "2026-12-07T13:00:00Z",
    "url": "https://www.abc.net.au/triplej/programs/mix-up/morganseatree-djset-2026/107345674"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/ba.mp3",
-   "date": "2026-11-07T12:00:00Z",
-   "desc": "All aboard! Jersey Club queen UNIIQU3 is taking over the triple j airwaves to celebrate her debut album Mass Appeal! Available until 7 Dec.",
-   "duration": "3691",
-   "id": "107345672",
-   "image": "https://live-production.wcms.abc-cdn.net.au/bea1dd6e05758b67e73f85fb4c151791?impolicy=wcms_crop_resize&cropH=1875&cropW=3333&xPos=0&yPos=1751&width=862&height=485&imformat=generic",
-   "title": "Mix Up: UNIIQU3",
-   "until": "2026-12-07T12:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/uniiqu3-djset-2026/107345672"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/q6/Z/au.mp3",
-   "date": "2026-11-07T11:00:00Z",
-   "desc": "Naarm/Melbourne bass boss IsGwan is our November Mix Up Resident! Don't miss his first mix, where he takes us through some of his earliest inspirations and original tunes. Available until 7 Dec.",
-   "duration": "3665",
-   "id": "107345668",
-   "image": "https://live-production.wcms.abc-cdn.net.au/5440ae9185d564d1a294d68bc6ab3709?impolicy=wcms_crop_resize&cropH=1726&cropW=3068&xPos=0&yPos=1637&width=862&height=485&imformat=generic",
-   "title": "Mix Up Resident: IsGwan",
-   "until": "2026-12-07T11:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w1-djset-2026/107345668"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/s7.mp3",
-   "date": "2026-10-31T14:00:00Z",
-   "desc": "Milan’s Piezo serves up a dose of deep and experimental club sounds on Mix Up. Available until 30 Nov.",
-   "duration": "3599",
-   "id": "107313774",
-   "image": "https://live-production.wcms.abc-cdn.net.au/81303764746803b72a0e5f5ad7f23b9f?impolicy=wcms_crop_resize&cropH=1685&cropW=2996&xPos=0&yPos=393&width=862&height=485&imformat=generic",
-   "title": "Mix Up: Piezo",
-   "until": "2026-11-30T14:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/piezo-djset-2026/107313774"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pu/Z/rp.mp3",
-   "date": "2026-10-31T13:00:00Z",
-   "desc": "Lock in for an hour of power from Berlin-based DJ and producer DINA ahead of her Australian tour. Available until 30 Nov.",
-   "duration": "3763",
-   "id": "107313772",
-   "image": "https://live-production.wcms.abc-cdn.net.au/e4c4605af53a948bf06b189c1a8df148?impolicy=wcms_crop_resize&cropH=1369&cropW=2433&xPos=0&yPos=858&width=862&height=485&imformat=generic",
-   "title": "Mix Up: DINA",
-   "until": "2026-11-30T13:00:00Z",
-   "url": "https://www.abc.net.au/triplej/programs/mix-up/dina-djset-2026/107313772"
   }
  ],
  "kind": "abc",
  "name": "Mix Up with Kailyn Crabbe",
- "updatedAt": "2026-11-14T23:00:15Z"
+ "updatedAt": "2026-11-21T23:49:41Z"
 }

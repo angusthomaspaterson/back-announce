@@ -5,6 +5,66 @@
  "id": "radio-cazimi",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2442093138-radio-cazimi-guest-mix-w-michael-gibbon.mp3",
+   "date": "2026-11-21T03:54:14Z",
+   "desc": "GUEST MIX w/ Michael Gibbon by Radio Cazimi",
+   "duration": "01:00:00",
+   "id": "tag:soundcloud-2010:tracks-2442093138",
+   "image": "https://i1.sndcdn.com/artworks-furugdJfgEa1pu9x-H7o8xA-t3000x3000.jpg",
+   "title": "GUEST MIX w/ Michael Gibbon",
+   "url": "https://soundcloud.com/radio-cazimi/guest-mix-w-michael-gibbon"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2442093132-radio-cazimi-conflicts-of-interest-w-jerrii.mp3",
+   "date": "2026-11-21T03:54:12Z",
+   "desc": "CONFLICTS OF INTEREST w/ Jerrii & Sacha Alexiou - EP5 by Radio Cazimi",
+   "duration": "02:02:50",
+   "id": "tag:soundcloud-2010:tracks-2442093132",
+   "image": "https://i1.sndcdn.com/artworks-EygzRe64EzOHyrcb-hu4mgA-t3000x3000.jpg",
+   "title": "CONFLICTS OF INTEREST w/ Jerrii & Sacha Alexiou - EP5",
+   "url": "https://soundcloud.com/radio-cazimi/conflicts-of-interest-w-jerrii"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2442078603-radio-cazimi-cadence-w-jordy-marlene-ep5.mp3",
+   "date": "2026-11-21T03:05:38Z",
+   "desc": "CADENCE w/ Jordy & marlene - EP5 by Radio Cazimi",
+   "duration": "02:00:09",
+   "id": "tag:soundcloud-2010:tracks-2442078603",
+   "image": "https://i1.sndcdn.com/artworks-Izb4MyGj0iwhtqOx-jiyTNA-t3000x3000.jpg",
+   "title": "CADENCE w/ Jordy & marlene - EP5",
+   "url": "https://soundcloud.com/radio-cazimi/cadence-w-jordy-marlene-ep5"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2442077439-radio-cazimi-pleiades-w-astro-tash-ep5.mp3",
+   "date": "2026-11-21T03:00:14Z",
+   "desc": "On this month’s edition of Pleiades w/ Astro Tash, we celebrate the start of the silly season with the Sun’s change into Sagittarius! When it comes to the Sagittarius spirit, there’s no glass ceiling on adventure and possibility. Ride the (sound)waves of introspective euphoria through to dancing in communion with experimental dance pop, minimal wave and organic house textures from near and far, enveloped by an ethereal, stargazey start & finish. This one’s dedicated to my fellow free-spirited, fun + freaky centaurs out there <3",
+   "duration": "00:59:56",
+   "id": "tag:soundcloud-2010:tracks-2442077439",
+   "image": "https://i1.sndcdn.com/artworks-Vcjpj13sVWYVVrbS-uT366g-t3000x3000.jpg",
+   "title": "PLEIADES w/ Astro Tash - EP5 Sagittarius Season",
+   "url": "https://soundcloud.com/radio-cazimi/pleiades-w-astro-tash-ep5"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2442075804-radio-cazimi-joy-in-the-morning-w-callum-4.mp3",
+   "date": "2026-11-21T02:53:47Z",
+   "desc": "JOY IN THE MORNING w/ Callum Dewar & Bill - EP5 by Radio Cazimi",
+   "duration": "02:00:12",
+   "id": "tag:soundcloud-2010:tracks-2442075804",
+   "image": "https://i1.sndcdn.com/artworks-XSaE5fhIJVnIwhnT-f2Opkw-t3000x3000.jpg",
+   "title": "JOY IN THE MORNING w/ Callum Dewar & Bill - EP5",
+   "url": "https://soundcloud.com/radio-cazimi/joy-in-the-morning-w-callum-4"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2442074310-radio-cazimi-music-my-friends-showed-me-w-3.mp3",
+   "date": "2026-11-21T02:46:46Z",
+   "desc": "‘Music My Friends Showed Me’ is hosted by Loz (Lauren Yim), with each episode dedicated to a different friend. This episode is dedicated to Shoma. The show brings together music Shoma has shared with Loz, songs that complement those selections and songs tied to shared memories. This episode features a mix of ambient, jazz and indie sounds. Made for Shoma to enjoy, and shared in the hope others connect with it too.",
+   "duration": "01:00:00",
+   "id": "tag:soundcloud-2010:tracks-2442074310",
+   "image": "https://i1.sndcdn.com/artworks-Ze5Bb9BSRpGBojzr-FLqQRA-t3000x3000.jpg",
+   "title": "MUSIC MY FRIENDS SHOWED ME w/ Loz E4",
+   "url": "https://soundcloud.com/radio-cazimi/music-my-friends-showed-me-w-3"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2439071106-radio-cazimi-warm-jets-w-dj-friend-ep3.mp3",
    "date": "2026-11-16T09:57:22Z",
    "desc": "WARM JETS w/ DJ Friend - EP3 by Radio Cazimi",
@@ -193,69 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-ymxFxyoKZUWZiytx-dIGd6g-t3000x3000.jpg",
    "title": "OUTSIDERS, TOGETHER - Scorpio Special w / Takeo.K & DJ Mum",
    "url": "https://soundcloud.com/radio-cazimi/outsiders-together-scorpio"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2431864752-radio-cazimi-kill-video-radio-star-w-nape-1.mp3",
-   "date": "2026-11-04T02:37:33Z",
-   "desc": "Nape presents a Halloween edition of Kill Video Radio Star. A collection of spooky songs submitted by friends, spanning all sorts of scary styles, filled out with haunting new beat.",
-   "duration": "02:02:21",
-   "id": "tag:soundcloud-2010:tracks-2431864752",
-   "image": "https://i1.sndcdn.com/artworks-XF5szJVcoNgow1yb-7ZUWrw-t3000x3000.jpg",
-   "title": "KILL VIDEO RADIO STAR w/ Nape Et Al.",
-   "url": "https://soundcloud.com/radio-cazimi/kill-video-radio-star-w-nape-1"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2431864209-radio-cazimi-halloween-hot-house-mix-w-dj.mp3",
-   "date": "2026-11-04T02:35:13Z",
-   "desc": "HALLOWEEN HOT HOUSE MIX w/ DJ Roy Donk by Radio Cazimi",
-   "duration": "01:59:09",
-   "id": "tag:soundcloud-2010:tracks-2431864209",
-   "image": "https://i1.sndcdn.com/artworks-1XphWnKvBxfKwgPK-Gzk72g-t3000x3000.jpg",
-   "title": "HALLOWEEN HOT HOUSE MIX w/ DJ Roy Donk",
-   "url": "https://soundcloud.com/radio-cazimi/halloween-hot-house-mix-w-dj"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2431864143-radio-cazimi-morning-desires-w-grace.mp3",
-   "date": "2026-11-04T02:34:53Z",
-   "desc": "Grace Connors presents Morning Desires: Halloween Special. A journey through spook-centric folk, synth, new-wave & alt rock",
-   "duration": "01:57:44",
-   "id": "tag:soundcloud-2010:tracks-2431864143",
-   "image": "https://i1.sndcdn.com/artworks-PjK2vgoVSL3a8tVk-OXYIWQ-t3000x3000.jpg",
-   "title": "MORNING DESIRES w/ Grace Connors",
-   "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-grace"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2431339998-radio-cazimi-range-of-motion-w-effective.mp3",
-   "date": "2026-11-03T09:55:28Z",
-   "desc": "RANGE OF MOTION w/ Effective Power - EP2 by Radio Cazimi",
-   "duration": "01:59:20",
-   "id": "tag:soundcloud-2010:tracks-2431339998",
-   "image": "https://i1.sndcdn.com/artworks-urfSJ75z14NZvyPJ-9jbD1w-t3000x3000.jpg",
-   "title": "RANGE OF MOTION w/ Effective Power - EP2",
-   "url": "https://soundcloud.com/radio-cazimi/range-of-motion-w-effective"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2431332510-radio-cazimi-jaffa-tales-w-teo-ep5.mp3",
-   "date": "2026-11-03T09:46:08Z",
-   "desc": "JAFFA TALES w/ Teo - EP5 by Radio Cazimi",
-   "duration": "02:00:36",
-   "id": "tag:soundcloud-2010:tracks-2431332510",
-   "image": "https://i1.sndcdn.com/artworks-CLF9xLorfluTlzzm-CUN3zQ-t3000x3000.jpg",
-   "title": "JAFFA TALES w/ Teo - EP5",
-   "url": "https://soundcloud.com/radio-cazimi/jaffa-tales-w-teo-ep5"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2431332060-radio-cazimi-guest-mix-w-kids-eat-free-2.mp3",
-   "date": "2026-11-03T09:44:24Z",
-   "desc": "GUEST MIX w/ Kids Eat Free #2 by Radio Cazimi",
-   "duration": "01:59:09",
-   "id": "tag:soundcloud-2010:tracks-2431332060",
-   "image": "https://i1.sndcdn.com/artworks-vSwAzQA9VEbFRMsF-oCLM7A-t3000x3000.jpg",
-   "title": "GUEST MIX w/ Kids Eat Free #2",
-   "url": "https://soundcloud.com/radio-cazimi/guest-mix-w-kids-eat-free-2"
   }
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-11-16T13:10:43Z"
+ "updatedAt": "2026-11-21T23:49:41Z"
 }
