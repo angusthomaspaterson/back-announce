@@ -929,6 +929,97 @@
    "name": "Bandcamp Daily",
    "updatedAt": "2026-11-06T23:44:12Z"
   },
+  "bandcamp-notes": {
+   "about": "Discover new music and directly support the artists who make it.",
+   "home": "https://bandcamp.substack.com/",
+   "id": "bandcamp-notes",
+   "items": [
+    {
+     "audio": null,
+     "date": "2026-11-18T18:49:50Z",
+     "desc": "Ambient pop powerhouse",
+     "duration": null,
+     "id": "https:--bandcamp.substack.com-p-cool-band-alert-sheherazaad",
+     "image": "https://substackcdn.com/image/fetch/$s_!H94u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20f91e5e-c243-49b7-b287-3c736209a5db_1456x1048.jpeg",
+     "title": "Cool Band Alert - Sheherazaad",
+     "url": "https://bandcamp.substack.com/p/cool-band-alert-sheherazaad"
+    },
+    {
+     "audio": null,
+     "date": "2026-11-11T18:01:25Z",
+     "desc": "Hip-hop built my hotrod",
+     "duration": null,
+     "id": "https:--bandcamp.substack.com-p-cool-band-alert-blackhaine",
+     "image": "https://substackcdn.com/image/fetch/$s_!GkjI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34e13824-4d0a-4e16-b9a9-fe3fb482cfff_1456x1048.jpeg",
+     "title": "Cool Band Alert - Blackhaine",
+     "url": "https://bandcamp.substack.com/p/cool-band-alert-blackhaine"
+    },
+    {
+     "audio": null,
+     "date": "2026-11-06T17:15:33Z",
+     "desc": "“An ever-evolving organism of jazz, noise, rock, wit, and sarcasm.”",
+     "duration": null,
+     "id": "https:--bandcamp.substack.com-p-i-love-this-record-hundred-pieces",
+     "image": "https://substackcdn.com/image/fetch/$s_!z5Uz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77ac53a5-1bb0-45a0-a265-0421e95efb3c_1456x1048.jpeg",
+     "title": "I Love This Record - \"Hundred Pieces\" by Robocobra Quartet",
+     "url": "https://bandcamp.substack.com/p/i-love-this-record-hundred-pieces"
+    },
+    {
+     "audio": null,
+     "date": "2026-11-04T18:30:58Z",
+     "desc": "Treasure trove",
+     "duration": null,
+     "id": "https:--bandcamp.substack.com-p-cool-band-alert-trash-man",
+     "image": "https://substackcdn.com/image/fetch/$s_!Ptmg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb348be7-86a8-42c1-8095-9410f2079a36_1456x1048.jpeg",
+     "title": "Cool Band Alert - Trash Man",
+     "url": "https://bandcamp.substack.com/p/cool-band-alert-trash-man"
+    },
+    {
+     "audio": null,
+     "date": "2026-10-31T18:44:44Z",
+     "desc": "“Please recommend a piece of music that *actually* scares you.”",
+     "duration": null,
+     "id": "https:--bandcamp.substack.com-p-the-helpline-a-bigger-boo",
+     "image": "https://substackcdn.com/image/fetch/$s_!iQko!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69027581-eeef-4e43-9e1b-ae1387fd3f12_1456x1048.webp",
+     "title": "The Helpline - A Bigger Boo",
+     "url": "https://bandcamp.substack.com/p/the-helpline-a-bigger-boo"
+    },
+    {
+     "audio": null,
+     "date": "2026-10-28T17:30:45Z",
+     "desc": "Ghost riders in the sky",
+     "duration": null,
+     "id": "https:--bandcamp.substack.com-p-cool-band-alert-the-zolephants",
+     "image": "https://substackcdn.com/image/fetch/$s_!dF16!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1536572-915c-408c-8304-b94486b43f9b_1456x1048.jpeg",
+     "title": "Cool Band Alert - The Zolephants",
+     "url": "https://bandcamp.substack.com/p/cool-band-alert-the-zolephants"
+    },
+    {
+     "audio": null,
+     "date": "2026-10-21T18:30:45Z",
+     "desc": "Dudes rock",
+     "duration": null,
+     "id": "https:--bandcamp.substack.com-p-cool-band-alert-a-country-western",
+     "image": "https://substackcdn.com/image/fetch/$s_!b4Yz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce442f9b-aed6-4141-8a2b-2b0543d6baf4_1456x1048.jpeg",
+     "title": "Cool Band Alert - A Country Western",
+     "url": "https://bandcamp.substack.com/p/cool-band-alert-a-country-western"
+    },
+    {
+     "audio": null,
+     "date": "2026-10-14T17:06:16Z",
+     "desc": "FFO being sad in the ‘90s",
+     "duration": null,
+     "id": "https:--bandcamp.substack.com-p-cool-band-alert-superfan",
+     "image": "https://substackcdn.com/image/fetch/$s_!yJdj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aaa9a62-5c41-423b-9cec-bc2b52c06d48_1456x1048.jpeg",
+     "title": "Cool Band Alert - Superfan",
+     "url": "https://bandcamp.substack.com/p/cool-band-alert-superfan"
+    }
+   ],
+   "kind": "rss",
+   "more": 12,
+   "name": "Bandcamp Notes (Bandcamp Daily)",
+   "updatedAt": "2026-11-22T09:38:37Z"
+  },
   "bandcamp-radio": {
    "home": "https://bandcamp.com/radio",
    "id": "bandcamp-radio",
@@ -11550,20 +11641,10 @@
      "image": "https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1200&h=630&fp=0.4659%2C0.2473",
      "title": "Yazmin Lacey: Morning Matters, 15 Oct 2026",
      "url": "https://www.rinse.fm/episodes/yazmin-lacey-15-10-2026-1000"
-    },
-    {
-     "audio": "https://replay.rinse.fm/uk/YazminLacey081026.mp3",
-     "date": "2026-10-08T09:00:00Z",
-     "desc": "",
-     "duration": "7200",
-     "id": "yazmin-lacey-08-10-2026-1000",
-     "image": "https://image.rinse.fm/_/000024000002-Amy-Frenchum.jpg?w=1200&h=630&fp=0.4659%2C0.2473",
-     "title": "Yazmin Lacey: Morning Matters, 8 Oct 2026",
-     "url": "https://www.rinse.fm/episodes/yazmin-lacey-08-10-2026-1000"
     }
    ],
    "kind": "rinse",
-   "more": 21,
+   "more": 22,
    "name": "Yazmin Lacey: Morning Matters",
    "updatedAt": "2026-11-18T09:27:00Z"
   },
@@ -16382,10 +16463,19 @@
    "kind": "rss",
    "name": "zensounds (Stephan Kunze)",
    "url": "https://zensounds.substack.com/feed"
+  },
+  {
+   "added": "22 Nov",
+   "group": "Writing",
+   "home": "https://bandcamp.substack.com/",
+   "id": "bandcamp-notes",
+   "kind": "rss",
+   "name": "Bandcamp Notes (Bandcamp Daily)",
+   "url": "https://bandcamp.substack.com/feed"
   }
  ],
  "status": {
-  "lastRun": "2026-11-22T08:38:12Z",
+  "lastRun": "2026-11-22T09:38:37Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-21T23:49:41Z",
@@ -16430,6 +16520,12 @@
     "linkOnly": true,
     "newest": "2026-11-06T00:00:00Z",
     "ok": false
+   },
+   "bandcamp-notes": {
+    "at": "2026-11-22T09:38:37Z",
+    "count": 20,
+    "newest": "2026-11-18T18:49:50Z",
+    "ok": true
    },
    "bandcamp-radio": {
     "at": "2026-11-21T23:49:41Z",

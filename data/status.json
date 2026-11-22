@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-11-22T08:38:12Z",
+ "lastRun": "2026-11-22T09:38:37Z",
  "sources": {
   "21c-progressive": {
    "at": "2026-11-21T23:49:41Z",
@@ -44,6 +44,12 @@
    "linkOnly": true,
    "newest": "2026-11-06T00:00:00Z",
    "ok": false
+  },
+  "bandcamp-notes": {
+   "at": "2026-11-22T09:38:37Z",
+   "count": 20,
+   "newest": "2026-11-18T18:49:50Z",
+   "ok": true
   },
   "bandcamp-radio": {
    "at": "2026-11-21T23:49:41Z",

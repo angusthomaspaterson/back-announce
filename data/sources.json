@@ -2195,6 +2195,15 @@
    "kind": "rss",
    "name": "zensounds (Stephan Kunze)",
    "url": "https://zensounds.substack.com/feed"
+  },
+  {
+   "added": "22 Nov",
+   "group": "Writing",
+   "home": "https://bandcamp.substack.com/",
+   "id": "bandcamp-notes",
+   "kind": "rss",
+   "name": "Bandcamp Notes (Bandcamp Daily)",
+   "url": "https://bandcamp.substack.com/feed"
   }
  ]
 }
