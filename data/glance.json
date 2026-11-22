@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-11-22T20:00:00Z",
+   "g": "BBC",
+   "s": "Mary Anne Hobbs",
+   "sid": "bbc-mary-anne-hobbs",
+   "t": "Ibeyi",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034c9w"
+  },
+  {
    "d": "2026-11-22T09:39:04Z",
    "g": "Progressive & Trance",
    "s": "Anjunadeep releases",
@@ -100,6 +108,14 @@
    "u": "https://anjunadeep.com/products/622289-alternate-futures"
   },
   {
+   "d": "2026-11-21T21:00:00Z",
+   "g": "Bass & DnB",
+   "s": "Kara",
+   "sid": "rinse-kara",
+   "t": "Kara, 21 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/kara-21-11-2026-2100"
+  },
+  {
    "d": "2026-11-21T18:00:00Z",
    "g": "BBC",
    "s": "Gilles Peterson on 6 Music",
@@ -146,26 +162,10 @@
    "sid": "triplej-mix-up",
    "t": "Mix Up: TSHA",
    "u": "https://www.abc.net.au/triplej/programs/mix-up/tsha-djset-2026/107394002"
-  },
-  {
-   "d": "2026-11-21T11:00:00Z",
-   "g": "triple j",
-   "s": "Mix Up with Kailyn Crabbe",
-   "sid": "triplej-mix-up",
-   "t": "Mix Up Resident: IsGwan",
-   "u": "https://www.abc.net.au/triplej/programs/mix-up/isgwan-w3-djset-2026/107394000"
-  },
-  {
-   "d": "2026-11-21T10:06:01Z",
-   "g": "Progressive & Trance",
-   "s": "21C Progressive House",
-   "sid": "21c-progressive",
-   "t": "Matthew Prickett | Tessellation 25",
-   "u": "https://soundcloud.com/21cprogressivehouse/matthew-prickett-tessellation"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 70,
+ "newCount": 72,
  "paused": 23,
  "releases": [
   {
@@ -262,5 +262,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-22T09:39:04Z"
+ "updated": "2026-11-22T21:30:29Z"
 }

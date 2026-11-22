@@ -45,16 +45,6 @@
    "url": "http://www.bbc.co.uk/programmes/p0pkg2mr"
   },
   {
-   "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj8fmk.mp3",
-   "date": "2026-10-23T15:30:00Z",
-   "desc": "Emily Pilbeam presents live music highlights from the BBC Introducing stage at Sŵn Festival, with interviews and performances from twst, Spanish Horses, LEMONSUCKR, Steven Bamidele, ADJUA, Spike, Dermot Henry, and Tokomololo Produced by BBC Audio for BBC Radio 6 Music.",
-   "duration": "3599",
-   "id": "urn:bbc:podcast:p0phvgwy",
-   "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0d7j1yy.jpg",
-   "title": "Sŵn Festival special!",
-   "url": "http://www.bbc.co.uk/programmes/p0phvgwy"
-  },
-  {
    "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08463b4.mp3",
    "date": "2020-02-24T03:00:00Z",
    "desc": "An hour of top tunes from The Dowling Poole, HMS Morris, D-Saro, Paul Lappin, Hivemind, Goan Dogs, Bitmap, Flo, Animal Noise, Ell Ivy, The False Memories, Valeras, Seazoo, Stark, The Daydream Club, Jessie Reid and Moa Moa, handpicked by Tom Robinson from the BBC Introducing Uploader.",
@@ -117,5 +107,5 @@
  ],
  "kind": "rss",
  "name": "BBC Music Introducing Mixtape (6 Music)",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-22T21:30:29Z"
 }

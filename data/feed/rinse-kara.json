@@ -5,6 +5,16 @@
  "id": "rinse-kara",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/kool/Kara211126.mp3",
+   "date": "2026-11-21T21:00:00Z",
+   "desc": "",
+   "duration": "7200",
+   "id": "kara-21-11-2026-2100",
+   "image": "https://image.rinse.fm/_/463487535_18342176527126081_8795535945501574990_n-Kara-Foundation.jpg?w=1200&h=630",
+   "title": "Kara, 21 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/kara-21-11-2026-2100"
+  },
+  {
    "audio": "https://replay.rinse.fm/kool/Kara171026.mp3",
    "date": "2026-10-17T20:00:00Z",
    "desc": "",
@@ -67,5 +77,5 @@
  ],
  "kind": "rinse",
  "name": "Kara",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-22T21:30:29Z"
 }
