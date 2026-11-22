@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-21T03:11:12Z",
+   "desc": "Adam O’Farrill’s ELEPHANT, NEA Jazz Masters, Grammy noms",
+   "duration": null,
+   "id": "https:--thegig.substack.com-p-curves-and-commendations",
+   "image": "https://substackcdn.com/image/fetch/$s_!96W6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6823673-e3cf-410e-b603-10bb845dd7e7_5712x4284.jpeg",
+   "title": "Curves and Commendations",
+   "url": "https://thegig.substack.com/p/curves-and-commendations"
+  },
+  {
+   "audio": null,
    "date": "2026-11-15T22:12:26Z",
    "desc": "Coltrane(s) at Temple, Tyshawn Sorey, The Year in Jazz",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!cTNP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f79dfaf-ca6a-4ec3-bd54-7cfa66e64b97_3967x3519.jpeg",
    "title": "Nate Five-0",
    "url": "https://thegig.substack.com/p/nate-five-0"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/212542291/77932d4c70868d5732fc0959b52eaa66.mp3",
-   "date": "2026-08-25T11:03:47Z",
-   "desc": "A conversation with Andy Beta and Surya Botofasina",
-   "duration": null,
-   "id": "https:--thegig.substack.com-p-alice-coltrane-cosmic-music",
-   "image": "https://substackcdn.com/image/fetch/$s_!e4R3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba5cd212-a546-4b3f-9b22-cee72d4bed8e_5712x4284.jpeg",
-   "title": "Alice Coltrane: Cosmic Music",
-   "url": "https://thegig.substack.com/p/alice-coltrane-cosmic-music"
   }
  ],
  "kind": "rss",
  "name": "The Gig (Nate Chinen)",
- "updatedAt": "2026-11-16T21:30:10Z"
+ "updatedAt": "2026-11-22T08:38:12Z"
 }

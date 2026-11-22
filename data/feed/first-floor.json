@@ -5,6 +5,16 @@
  "id": "first-floor",
  "items": [
   {
+   "audio": null,
+   "date": "2026-11-20T15:02:02Z",
+   "desc": "After a week full of statements, apologies and a whole lot of speculation, First Floor investigates what really happened.",
+   "duration": null,
+   "id": "https:--firstfloor.substack.com-p-why-did-kraftwerk-berlin-let-an-ai",
+   "image": "https://substackcdn.com/image/fetch/$s_!74Ph!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38bc5793-bedb-4422-bd5a-74385dd9dff8_4000x2667.jpeg",
+   "title": "Why Did Kraftwerk Berlin Let an AI Weapons Developer Inside Its Walls?",
+   "url": "https://firstfloor.substack.com/p/why-did-kraftwerk-berlin-let-an-ai"
+  },
+  {
    "date": "2026-11-19T12:09:13Z",
    "desc": "First Floor #337 – Business As Usual",
    "id": "rollup-2026-11-19",
@@ -135,23 +145,9 @@
    ],
    "title": "First Floor recommendations, 12 Nov: 4 records",
    "url": "https://firstfloor.substack.com/p/first-floor-336-plenty-of-guilt-to"
-  },
-  {
-   "date": "2026-11-10T22:19:22Z",
-   "desc": "Popon – 7 / 7 (SFX)",
-   "id": "rollup-2026-11-10",
-   "image": "https://substackcdn.com/image/fetch/$s_!uTZV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4532832-60c2-4586-b872-aa4198b8e880_1456x1048.jpeg",
-   "links": [
-    {
-     "t": "Popon – 7 / 7",
-     "u": "https://firstfloor.substack.com/p/popon-7-7"
-    }
-   ],
-   "title": "First Floor recommendations, 10 Nov: 1 record",
-   "url": "https://firstfloor.substack.com/p/popon-7-7"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-20T00:32:45Z"
+ "updatedAt": "2026-11-22T08:38:12Z"
 }

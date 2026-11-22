@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-20T08:02:40Z",
+   "desc": "Never second guess Slauson Malone 1, @ live in London, Ryley Walker’s Starting XI, Atlas Sound’s surprise album, Dre lives in GTA VI now",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-87c",
+   "image": "https://substackcdn.com/image/fetch/$s_!LUoF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F437acdb6-03db-48ea-8032-ed8f7493b604_900x589.jpeg",
+   "title": "L&Q Weekly",
+   "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-87c"
+  },
+  {
+   "audio": null,
    "date": "2026-11-18T17:03:29Z",
    "desc": "The fantasy team of artists who’ve meant the most to Ryley Walker throughout his life and career",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!gsL9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe54aca92-071e-45d6-a81d-b8153e2bc77d_800x533.jpeg",
    "title": "The Drift: the month’s best in weird and experimental music",
    "url": "https://loudandquiet.substack.com/p/the-drift-the-months-best-in-weird-58f"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-05T15:03:31Z",
-   "desc": "Mento, rocksteady, ethereal dream pop and freak folk all meet in a kitchen in South Florida",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-follow-the-light-to-the-celestial-folk-reggae-and-dub-of-june-mcdoom",
-   "image": "https://substackcdn.com/image/fetch/$s_!mceK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3002ead2-dbf3-43bb-8722-785400de813a_2079x2048.jpeg",
-   "title": "The celestial folk, reggae and dub of June McDoom",
-   "url": "https://loudandquiet.substack.com/p/follow-the-light-to-the-celestial-folk-reggae-and-dub-of-june-mcdoom"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-11-18T21:30:07Z"
+ "updatedAt": "2026-11-22T08:38:12Z"
 }

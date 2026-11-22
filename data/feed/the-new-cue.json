@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-20T10:01:13Z",
+   "desc": "“We’re like Andy Dufresne here”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-644-november-20-lael",
+   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+   "title": "The New Cue #644 November 20: Lael Neale, The Cindys, Atlas Sound, Armand Hammer, The Nightingales, Headache, Fionn Regan, Sledding, Kisser, Film Noir",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-644-november-20-lael"
+  },
+  {
+   "audio": null,
    "date": "2026-11-16T10:01:03Z",
    "desc": "“I have been arrested many, many times, my friend...”",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!SrRm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab8aba56-bbb7-45ef-af69-b8a61cd80ed1_1200x1600.jpeg",
    "title": "The New Cue #625 September 14: Beth Orton",
    "url": "https://thenewcue.substack.com/p/the-new-cue-625-september-14-beth"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-11T09:00:56Z",
-   "desc": "Good morning,",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-625-september-11-300skulls",
-   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
-   "title": "The New Cue #624 September 11: 300Skulls AndCounting & Jenny Sparks, The War On Drugs, Mynolia, The Avalanches, Liars, June McDoom, The Tubs, La Ren, Gurriers, 7ebra",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-625-september-11-300skulls"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-11-16T21:30:10Z"
+ "updatedAt": "2026-11-22T08:38:12Z"
 }

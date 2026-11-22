@@ -2681,20 +2681,10 @@
      "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-October2026ptII.jpg",
      "title": "October 2026 Selection pt II (featuring Enlusion, Framewerk, Exotek, Pico Boulevard, James Holden, CLOSE PROXIMITY, Dosem, Doug Crawford, Markus Schulz, Brother Brown, Frank'ee, Starecase, Boxer, Matt Fax, Blake Jarrell, UNWA, Sam T Harper, Simon Vuarambon, Sam T Harper, Vril, Rodd Sim, Virgil Hill, Elias Erium, Tre Turner, Transpose (CA), Scatterbrain)",
      "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-October2026ptII.mp3"
-    },
-    {
-     "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-Contrasts023.mp3",
-     "date": "2026-10-08T05:48:01Z",
-     "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
-     "duration": "1:32:27",
-     "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-Contrasts023.mp3",
-     "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-Contrasts023.jpg",
-     "title": "Contrasts 023: Liquid Soul vs Vibrasphere vs Flowjob",
-     "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-Contrasts023.mp3"
     }
    ],
    "kind": "rss",
-   "more": 16,
+   "more": 17,
    "name": "Coldwired Podcast (Nick Clark)",
    "updatedAt": "2026-11-19T13:08:49Z"
   },
@@ -3640,6 +3630,16 @@
    "id": "first-floor",
    "items": [
     {
+     "audio": null,
+     "date": "2026-11-20T15:02:02Z",
+     "desc": "After a week full of statements, apologies and a whole lot of speculation, First Floor investigates what really happened.",
+     "duration": null,
+     "id": "https:--firstfloor.substack.com-p-why-did-kraftwerk-berlin-let-an-ai",
+     "image": "https://substackcdn.com/image/fetch/$s_!74Ph!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38bc5793-bedb-4422-bd5a-74385dd9dff8_4000x2667.jpeg",
+     "title": "Why Did Kraftwerk Berlin Let an AI Weapons Developer Inside Its Walls?",
+     "url": "https://firstfloor.substack.com/p/why-did-kraftwerk-berlin-let-an-ai"
+    },
+    {
      "date": "2026-11-19T12:09:13Z",
      "desc": "First Floor #337 – Business As Usual",
      "id": "rollup-2026-11-19",
@@ -3770,25 +3770,11 @@
      ],
      "title": "First Floor recommendations, 12 Nov: 4 records",
      "url": "https://firstfloor.substack.com/p/first-floor-336-plenty-of-guilt-to"
-    },
-    {
-     "date": "2026-11-10T22:19:22Z",
-     "desc": "Popon – 7 / 7 (SFX)",
-     "id": "rollup-2026-11-10",
-     "image": "https://substackcdn.com/image/fetch/$s_!uTZV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4532832-60c2-4586-b872-aa4198b8e880_1456x1048.jpeg",
-     "links": [
-      {
-       "t": "Popon – 7 / 7",
-       "u": "https://firstfloor.substack.com/p/popon-7-7"
-      }
-     ],
-     "title": "First Floor recommendations, 10 Nov: 1 record",
-     "url": "https://firstfloor.substack.com/p/popon-7-7"
     }
    ],
    "kind": "rss",
    "name": "First Floor",
-   "updatedAt": "2026-11-20T00:32:45Z"
+   "updatedAt": "2026-11-22T08:38:12Z"
   },
   "flow-state": {
    "about": "Every weekday, one interesting artist and two instrumental albums, hand-picked, good to work to.",
@@ -4991,20 +4977,10 @@
      "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
      "title": "KEXP’s Dirk Whitebreast on Indigenous Peoples Day and the Music of Amisut and Hun Lynch",
      "url": "https://omny.fm/shows/kexp-song-of-the-day/kexp-s-dirk-whitebreast-on-indigenous-peoples-day-and-the-music-of-amisut-and-hun-lynch"
-    },
-    {
-     "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/8f92efd2-606f-4a2c-a69c-b4da0165fd4e/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-     "date": "2026-10-08T07:00:00Z",
-     "desc": "Host Evie Stokes sits down again with Travis Holcombe, the former KCRW DJ behind his own independent radio station, Freaks Only . This time around, Holcombe shares his love for the artist SHEE and their song “Woman” featuring deadream. The two gush over the song’s blend of house, funk, and exceptional grooves. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones@kexp.o…",
-     "duration": "549",
-     "id": "8f92efd2-606f-4a2c-a69c-b4da0165fd4e",
-     "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/8f92efd2-606f-4a2c-a69c-b4da0165fd4e/image.jpg?t=1791415468&size=Large",
-     "title": "Travis Holcombe on SHEE’s Funky House Grooves",
-     "url": "https://omny.fm/shows/kexp-song-of-the-day/travis-holcombe-on-shee-s-funky-house-grooves"
     }
    ],
    "kind": "rss",
-   "more": 12,
+   "more": 13,
    "name": "KEXP: In Our Headphones",
    "updatedAt": "2026-11-20T00:33:18Z"
   },
@@ -5579,6 +5555,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-20T08:02:40Z",
+     "desc": "Never second guess Slauson Malone 1, @ live in London, Ryley Walker’s Starting XI, Atlas Sound’s surprise album, Dre lives in GTA VI now",
+     "duration": null,
+     "id": "https:--loudandquiet.substack.com-p-l-and-q-weekly-87c",
+     "image": "https://substackcdn.com/image/fetch/$s_!LUoF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F437acdb6-03db-48ea-8032-ed8f7493b604_900x589.jpeg",
+     "title": "L&Q Weekly",
+     "url": "https://loudandquiet.substack.com/p/l-and-q-weekly-87c"
+    },
+    {
+     "audio": null,
      "date": "2026-11-18T17:03:29Z",
      "desc": "The fantasy team of artists who’ve meant the most to Ryley Walker throughout his life and career",
      "duration": null,
@@ -5749,9 +5735,9 @@
     }
    ],
    "kind": "rss",
-   "more": 3,
+   "more": 2,
    "name": "Loud And Quiet",
-   "updatedAt": "2026-11-18T21:30:07Z"
+   "updatedAt": "2026-11-22T08:38:12Z"
   },
   "love-is-the-message": {
    "about": "Love is the Message: Music, Dance & Counterculture is a new show from Tim Lawrence and Jeremy Gilbert, both of them authors, academics, DJs and dance party organisers.",
@@ -7163,20 +7149,10 @@
      "tags": "Electronica, Ambient, Indie Rock, Hip Hop ",
      "title": "The Early Bird Show w/ PAM",
      "url": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-15th-october-2026"
-    },
-    {
-     "date": "2026-10-08T06:00:00Z",
-     "desc": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-     "id": "early-bird-show-w-pam-8th-october-2026",
-     "image": "https://media.ntslive.co.uk/resize/400x400/a6a2775c-709c-4ee3-8bf6-814cfdcbd98f_1791417600.jpeg",
-     "location": "Paris",
-     "tags": "Electronica, Glitch, Indie Rock, Leftfield Pop",
-     "title": "The Early Bird Show w/ PAM",
-     "url": "https://www.nts.live/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-8th-october-2026"
     }
    ],
    "kind": "nts",
-   "more": 5,
+   "more": 6,
    "name": "The Early Bird Show w/ PAM",
    "updatedAt": "2026-11-19T13:08:49Z"
   },
@@ -11716,20 +11692,10 @@
      "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-388-maze28.jpeg/d3ef01116727b92b6a8afee9932231e6.png",
      "title": "Selador Sessions 388 | Maze28",
      "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-388-maze28"
-    },
-    {
-     "audio": "https://app.syndicast.co.uk/download/itunes/uploads/audios/se/selador-sessions-387-gmj-matter-1.mp3",
-     "date": "2026-10-08T00:00:00Z",
-     "desc": "Coinciding with the release of their high flying new remix for Selador of the Infusion classic, 'Legacy' which they've created together with Freedo Mosho & Maze 28, this week's guest mix comes courtesy of two of the hottest producers on today's Progressive House scene. Straight outta Melbourne Australia, please give it up for GMJ & Matter exclusively in the mix for Selador Sessions.. 1. GMJ - Quintessence [Meanwhile] 2. ID - ID 3. GMJ & Matter - ID 4. Kebin Van Reeken - Something About You 5. GMJ & Matter - ID 6. Infusion - Legacy [FM, Maze 28, GMJ, Matter Remix] [Selador] 7. Sam Scheme - ID …",
-     "duration": "58:08",
-     "id": "https:--app.syndicast.co.uk-site-show-selador-sessions-selador-sessions-387-gmj-matter",
-     "image": "https://app.syndicast.co.uk/uploads/cache-img/uploads/images/se/selador-sessions-387-gmj-matter.jpeg/bed0b59715601965e0791f050895c12d.png",
-     "title": "Selador Sessions 387 | GMJ & Matter",
-     "url": "https://app.syndicast.co.uk/site/show/selador-sessions#selador-sessions-387-gmj-matter"
     }
    ],
    "kind": "rss",
-   "more": 19,
+   "more": 20,
    "name": "Selador Sessions (Dave Seaman & Steve Parry)",
    "updatedAt": "2026-11-14T00:21:30Z"
   },
@@ -12440,6 +12406,16 @@
    "items": [
     {
      "audio": null,
+     "date": "2026-11-21T03:11:12Z",
+     "desc": "Adam O’Farrill’s ELEPHANT, NEA Jazz Masters, Grammy noms",
+     "duration": null,
+     "id": "https:--thegig.substack.com-p-curves-and-commendations",
+     "image": "https://substackcdn.com/image/fetch/$s_!96W6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6823673-e3cf-410e-b603-10bb845dd7e7_5712x4284.jpeg",
+     "title": "Curves and Commendations",
+     "url": "https://thegig.substack.com/p/curves-and-commendations"
+    },
+    {
+     "audio": null,
      "date": "2026-11-15T22:12:26Z",
      "desc": "Coltrane(s) at Temple, Tyshawn Sorey, The Year in Jazz",
      "duration": null,
@@ -12540,9 +12516,9 @@
     }
    ],
    "kind": "rss",
-   "more": 10,
+   "more": 9,
    "name": "The Gig (Nate Chinen)",
-   "updatedAt": "2026-11-16T21:30:10Z"
+   "updatedAt": "2026-11-22T08:38:12Z"
   },
   "the-lot-radio": {
    "about": "Podcast by The Lot Radio",
@@ -12590,6 +12566,16 @@
    "home": "https://thenewcue.substack.com/",
    "id": "the-new-cue",
    "items": [
+    {
+     "audio": null,
+     "date": "2026-11-20T10:01:13Z",
+     "desc": "“We’re like Andy Dufresne here”",
+     "duration": null,
+     "id": "https:--thenewcue.substack.com-p-the-new-cue-644-november-20-lael",
+     "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+     "title": "The New Cue #644 November 20: Lael Neale, The Cindys, Atlas Sound, Armand Hammer, The Nightingales, Headache, Fionn Regan, Sledding, Kisser, Film Noir",
+     "url": "https://thenewcue.substack.com/p/the-new-cue-644-november-20-lael"
+    },
     {
      "audio": null,
      "date": "2026-11-16T10:01:03Z",
@@ -12712,9 +12698,9 @@
     }
    ],
    "kind": "rss",
-   "more": 8,
+   "more": 7,
    "name": "The New Cue",
-   "updatedAt": "2026-11-16T21:30:10Z"
+   "updatedAt": "2026-11-22T08:38:12Z"
   },
   "the-wire": {
    "about": "The world's greatest print and online music magazine. Independent since 1982. News, features, audio, video, shop and subscribe.",
@@ -16399,7 +16385,7 @@
   }
  ],
  "status": {
-  "lastRun": "2026-11-21T23:49:41Z",
+  "lastRun": "2026-11-22T08:38:12Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-21T23:49:41Z",
@@ -16604,7 +16590,7 @@
     "ok": true
    },
    "dada-strain": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
     "newest": "2026-11-18T21:49:13Z",
     "ok": true
@@ -16658,7 +16644,7 @@
     "ok": true
    },
    "erratic-aesthetic": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
     "newest": "2026-08-03T07:31:36Z",
     "ok": true
@@ -16676,9 +16662,9 @@
     "ok": true
    },
    "first-floor": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 7,
-    "newest": "2026-11-19T12:09:13Z",
+    "newest": "2026-11-20T15:02:02Z",
     "ok": true
    },
    "flow-state": {
@@ -16688,7 +16674,7 @@
     "ok": true
    },
    "futurism-restated": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
     "newest": "2026-11-17T13:05:30Z",
     "ok": true
@@ -16730,7 +16716,7 @@
     "ok": true
    },
    "herb-sundays": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
     "newest": "2026-11-15T14:38:16Z",
     "ok": true
@@ -16790,9 +16776,9 @@
     "ok": true
    },
    "loud-and-quiet": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
-    "newest": "2026-11-18T17:03:29Z",
+    "newest": "2026-11-20T08:02:40Z",
     "ok": true
    },
    "love-is-the-message": {
@@ -16832,7 +16818,7 @@
     "ok": true
    },
    "no-tags": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 25,
     "newest": "2026-10-30T16:10:17Z",
     "ok": true
@@ -17546,9 +17532,9 @@
     "ok": true
    },
    "the-gig": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
-    "newest": "2026-11-15T22:12:26Z",
+    "newest": "2026-11-21T03:11:12Z",
     "ok": true
    },
    "the-lot-radio": {
@@ -17558,9 +17544,9 @@
     "ok": true
    },
    "the-new-cue": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
-    "newest": "2026-11-16T10:01:03Z",
+    "newest": "2026-11-20T10:01:13Z",
     "ok": true
    },
    "the-wire": {
@@ -17576,7 +17562,7 @@
     "ok": true
    },
    "tone-glow": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
     "newest": "2026-11-19T22:04:43Z",
     "ok": true
@@ -17660,13 +17646,13 @@
     "ok": true
    },
    "underground-live-forever": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 8,
     "newest": "2026-11-10T19:00:40Z",
     "ok": true
    },
    "zensounds": {
-    "at": "2026-11-20T00:32:45Z",
+    "at": "2026-11-22T08:38:12Z",
     "count": 20,
     "newest": "2026-11-19T11:23:13Z",
     "ok": true
