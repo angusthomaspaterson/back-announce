@@ -1,6 +1,96 @@
 {
  "items": [
   {
+   "d": "2026-11-22T09:39:04Z",
+   "g": "Progressive & Trance",
+   "s": "Anjunadeep releases",
+   "sid": "anjunadeep-releases",
+   "sp": "Above & Beyond pres. Anjuna:Chilled 01",
+   "t": "Above & Beyond pres. Anjuna:Chilled 01",
+   "u": "https://anjunadeep.com/products/617925-above-beyond-pres-anjunachilled-01"
+  },
+  {
+   "d": "2026-11-22T07:00:00Z",
+   "g": "triple j",
+   "s": "Country Club with Outback Tom",
+   "sid": "triplej-country-club",
+   "t": "From ARIA winners to outback rodeos - Country Club's got it all!",
+   "u": "https://www.abc.net.au/triplej/programs/country-club/-a-winner-rachael-fahim/107392670"
+  },
+  {
+   "d": "2026-11-22T06:00:00Z",
+   "g": "Progressive & Trance",
+   "s": "Resident by Hernan Cattaneo",
+   "sid": "resident",
+   "sp": "Resident by Hernan Cattaneo Resident / Episode 811 / November 21 2026",
+   "t": "Resident / Episode 811 / November 21 2026",
+   "u": "https://podcast.hernancattaneo.com/e/resident-episode-811-november-21-2026/"
+  },
+  {
+   "d": "2026-11-22T06:00:00Z",
+   "g": "triple j",
+   "s": "Blak Out with Nooky",
+   "sid": "triplej-blak-out",
+   "t": "Blak Out, 22 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/blak-out/blak-out/107392676"
+  },
+  {
+   "d": "2026-11-22T04:00:00Z",
+   "g": "BBC",
+   "s": "Pete Tong's Hot Mix",
+   "sid": "bbc-pete-tongs-hot-mix",
+   "t": "Mella Dee",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034879"
+  },
+  {
+   "d": "2026-11-22T03:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Classic Essential Mix",
+   "sid": "bbc-radio-1s-classic-essential-mix",
+   "t": "Coldcut X Seven Davis Jr. 2015",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034875"
+  },
+  {
+   "d": "2026-11-22T01:00:00Z",
+   "g": "BBC",
+   "s": "SHERELLE",
+   "sid": "bbc-sherelle",
+   "t": "The Sweatbox - with V.I.V.E.K",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034cnj"
+  },
+  {
+   "d": "2026-11-22T01:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1 Dance Drum & Bass Mix",
+   "sid": "bbc-radio-1-dance-drum-and-bass-mix",
+   "t": "Chilled D&B with Technimatic",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034873"
+  },
+  {
+   "d": "2026-11-22T00:30:00Z",
+   "g": "BBC",
+   "s": "SHERELLE",
+   "sid": "bbc-sherelle",
+   "t": "Shackout",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034cng"
+  },
+  {
+   "d": "2026-11-22T00:30:00Z",
+   "g": "BBC",
+   "s": "Radio 1 Dance Drum & Bass Mix",
+   "sid": "bbc-radio-1-dance-drum-and-bass-mix",
+   "t": "OKO",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034871"
+  },
+  {
+   "d": "2026-11-22T00:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Drum & Bass Show",
+   "sid": "bbc-radio-1s-drum-and-bass-show",
+   "t": "with Charlie Tee: Harriet Jaxxon Drop of the Week",
+   "u": "https://www.bbc.co.uk/sounds/play/m003486z"
+  },
+  {
    "d": "2026-11-21T23:49:41Z",
    "g": "Progressive & Trance",
    "s": "Anjunadeep releases",
@@ -72,98 +162,10 @@
    "sid": "21c-progressive",
    "t": "Matthew Prickett | Tessellation 25",
    "u": "https://soundcloud.com/21cprogressivehouse/matthew-prickett-tessellation"
-  },
-  {
-   "d": "2026-11-21T07:00:00Z",
-   "g": "triple j",
-   "s": "House Party with Shantan Wantan Ichiban and Latifa Tee",
-   "sid": "triplej-house-party",
-   "t": "House Party, 21 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/house-party/house-party/107388180"
-  },
-  {
-   "d": "2026-11-21T02:00:35Z",
-   "g": "Radio",
-   "s": "RTRFM / RTR2 mixes",
-   "sid": "rtr2",
-   "t": "50 Years of RRR in Melbourne w/ randals dad",
-   "u": "https://soundcloud.com/rtrfm-92-1/50-years-rrr-in-melbourne-randals-dad"
-  },
-  {
-   "d": "2026-11-21T02:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Essential Mix",
-   "sid": "bbc-radio-1s-essential-mix",
-   "t": "Lady Shaka",
-   "u": "https://www.bbc.co.uk/sounds/play/m00340df"
-  },
-  {
-   "d": "2026-11-21T01:00:00Z",
-   "g": "BBC",
-   "s": "6 Music's Rave Forever",
-   "sid": "bbc-6-musics-rave-forever",
-   "t": "A Night Out With…Cinthie",
-   "u": "https://www.bbc.co.uk/sounds/play/m00340fk"
-  },
-  {
-   "d": "2026-11-21T00:00:00Z",
-   "g": "BBC",
-   "s": "The 6 Mix with Mary Anne Hobbs",
-   "sid": "bbc-the-6-mix-with-mary-anne-hobbs",
-   "t": "Paleman",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033n8s"
-  },
-  {
-   "d": "2026-11-21T00:00:00Z",
-   "g": "BBC",
-   "s": "Pete Tong",
-   "sid": "bbc-pete-tong",
-   "t": "Larry Latenight",
-   "u": "https://www.bbc.co.uk/sounds/play/m00340dc"
-  },
-  {
-   "d": "2026-11-20T22:00:00Z",
-   "g": "Bass & DnB",
-   "s": "DEEP MEDi",
-   "sid": "nts-deep-medi",
-   "t": "DEEP MEDi w/ Tim Reaper, Glume & Phossa",
-   "u": "https://www.nts.live/shows/deep-medi/episodes/deep-medi-20th-november-2026"
-  },
-  {
-   "d": "2026-11-20T22:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Future Dance with Sarah Story",
-   "sid": "bbc-radio-1s-future-dance-with-sarah-story",
-   "t": "Luuk Van Dijk and IDEMI",
-   "u": "https://www.bbc.co.uk/sounds/play/m00340d9"
-  },
-  {
-   "d": "2026-11-20T21:10:13Z",
-   "g": "Progressive & Trance",
-   "s": "Above & Beyond: Group Therapy",
-   "sid": "group-therapy",
-   "t": "Group Therapy 704 with Above & Beyond and CLOSE PROXIMITY",
-   "u": "https://www.mixcloud.com/aboveandbeyond/group-therapy-704-with-above-beyond-and-close-proximity/"
-  },
-  {
-   "d": "2026-11-20T17:18:32Z",
-   "g": "Progressive & Trance",
-   "s": "Gai Barone: Patterns",
-   "sid": "gai-barone-patterns",
-   "t": "Patterns 727",
-   "u": "https://soundcloud.com/gai-barone/patterns-727"
-  },
-  {
-   "d": "2026-11-20T16:26:09Z",
-   "g": "Radio",
-   "s": "Soulection Radio",
-   "sid": "soulection",
-   "t": "Show #754 | Future Beats, R&B, Soul, & Afro Soul",
-   "u": "https://soundcloud.com/soulection/show-754"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 59,
+ "newCount": 70,
  "paused": 23,
  "releases": [
   {
@@ -183,6 +185,12 @@
    "out": "2026-12-02T00:00:00Z",
    "t": "Chris Luno – Venus Dance",
    "u": "https://anjunadeep.com/products/639115-venus-dance"
+  },
+  {
+   "k": "Album · Anjunachill",
+   "out": "2026-12-03T00:00:00Z",
+   "t": "Above & Beyond pres. Anjuna:Chilled 01",
+   "u": "https://anjunadeep.com/products/617925-above-beyond-pres-anjunachilled-01"
   },
   {
    "k": "Album · Anjunadeep",
@@ -254,5 +262,5 @@
   }
  ],
  "sources": 212,
- "updated": "2026-11-22T09:38:37Z"
+ "updated": "2026-11-22T09:39:04Z"
 }

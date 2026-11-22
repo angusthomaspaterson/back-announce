@@ -3,6 +3,16 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-11-22T09:39:04Z",
+   "desc": "Album on Anjunachill, out 3 Dec 2026.",
+   "id": "617925-above-beyond-pres-anjunachilled-01",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/617925.jpg",
+   "out": "2026-12-03T00:00:00Z",
+   "tags": "Album · Anjunachill",
+   "title": "Above & Beyond pres. Anjuna:Chilled 01",
+   "url": "https://anjunadeep.com/products/617925-above-beyond-pres-anjunachilled-01"
+  },
+  {
    "date": "2026-11-21T23:49:41Z",
    "desc": "Album on Anjunadeep Explorations, out 25 Nov 2026.",
    "id": "622289-alternate-futures",
@@ -241,19 +251,9 @@
    "tags": "Single · Anjunadeep Explorations",
    "title": "Quivver feat. Ruth Royall – When We Look Away",
    "url": "https://anjunadeep.com/products/622290-when-we-look-away"
-  },
-  {
-   "date": "2026-10-20T00:00:00Z",
-   "desc": "EP on Anjunadeep, out 20 Oct 2026.",
-   "id": "622291-ready-to-fall",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/622291.jpg",
-   "out": "2026-10-20T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "pølaroit – Ready to Fall",
-   "url": "https://anjunadeep.com/products/622291-ready-to-fall"
   }
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-21T23:49:41Z"
+ "updatedAt": "2026-11-22T09:39:04Z"
 }

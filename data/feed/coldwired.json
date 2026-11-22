@@ -5,6 +5,16 @@
  "id": "coldwired",
  "items": [
   {
+   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-EscapeSessions039.mp3",
+   "date": "2026-11-22T07:19:01Z",
+   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
+   "duration": "3:04:53",
+   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-EscapeSessions039.mp3",
+   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-EscapeSessions039.jpg",
+   "title": "Escape Sessions 039: Live Stream 17/11/26 (Trance and Progressive)",
+   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-EscapeSessions039.mp3"
+  },
+  {
    "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-November2026ptIII.mp3",
    "date": "2026-11-19T06:23:01Z",
    "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
@@ -243,19 +253,9 @@
    "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-July2026ptII.jpg",
    "title": "July 2026 Selection pt II (featuring Hernan Cattaneo, Basil O'Glue, Nomas, Fuenka, Framewerk, ORMUS, Atmos, Cass (UK), Cendryma, R.E.E.V., Golden Girls, Mara, Hamel, Segue (IN), Alan Marshall, Tom Pavicich, AINDY, Foley, Joyce Muniz, John Fisherman, Guiliano, Audiunt, Dual 56, Critical Choice, Moa, Eev Frances, Overtown)",
    "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-July2026ptII.mp3"
-  },
-  {
-   "audio": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-ReactivateRevisited.mp3",
-   "date": "2026-07-16T06:25:01Z",
-   "desc": "Coldwired Podcast (Come and say hello facebook.com/ColdwiredMusic). Live every Tuesday 8PM (UK)! www.twitch.tv/coldwired",
-   "duration": "1:29:02",
-   "id": "http:--www.coldwiredmusic.com-coldwiredmusic-mp3-ColdwiredPodcast-ReactivateRevisited.mp3",
-   "image": "http://www.coldwiredmusic.com/coldwiredmusic/images/ColdwiredPodcast-ReactivateRevisited.jpg",
-   "title": "'Reactivate' Revisited pt I (Trance)",
-   "url": "http://www.coldwiredmusic.com/coldwiredmusic/mp3/ColdwiredPodcast-ReactivateRevisited.mp3"
   }
  ],
  "kind": "rss",
  "name": "Coldwired Podcast (Nick Clark)",
- "updatedAt": "2026-11-19T13:08:49Z"
+ "updatedAt": "2026-11-22T09:39:04Z"
 }

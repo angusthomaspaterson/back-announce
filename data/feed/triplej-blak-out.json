@@ -5,6 +5,17 @@
  "id": "triplej-blak-out",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/ql/Z/ta.aac",
+   "date": "2026-11-22T06:00:00Z",
+   "desc": "Playing nothing but slappers from Indigenous artists, Nooky is doing laps and spinning tracks. Available until 22 Dec. Tracklist: trials – YOU COULD NEVER HATE ME (LIKE I DO); BARKAA – We Up; MINTY – Starlight; Troy Cassar-Daley – Shadows On The Hill; Kyla Belle – Let Me Burn; Jessica Mauboy – Running Back [Ft. Flo Rida]; YNG Martyr – SINCE YOU BEEN GONE; Kayps – 765; Drifting Clouds – Rarrandharr; ROX LAVI – DIGITAL WALTZ; Velvet Trip – Fake Tree; Warumpi Band – Waru (Fire); Selve – Weekends; Local Knowledge – Blackfellas; Christine Anu – Sunshine On A Rainy Day",
+   "duration": "3599",
+   "id": "107392676",
+   "image": "https://live-production.wcms.abc-cdn.net.au/ff64764ab8cec9411ddce5daba680b08?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Blak Out, 22 Nov",
+   "until": "2026-12-22T06:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/blak-out/blak-out/107392676"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qe/Z/rv.aac",
    "date": "2026-11-15T06:00:00Z",
    "desc": "Playing nothing but slappers from Indigenous artists, Nooky is doing laps and spinning tracks. Available until 15 Dec. Tracklist: Ziggy Ramo – Little Things [Ft. Paul Kelly]; iamshani – Oh Shit; ROX LAVI – DIGITAL WALTZ; Becca Hatch – Extra Time; Selve – Weekends; Velvet Trip – Fake Tree; Birdz & Fred Leone – GIRA; Baker Boy – RUNNING LOW [triple j Like A Version 2026]; Dallas Woods – Heaven Of My Own [Ft. Miiesha]; The Kid LAROI – GET EVEN [Ft. GIVĒON]; Cooee – Shadows; Christine Anu – Lil' Obsession [triple j Like A Version 2026]; DOBBY – Language Is In The Land; MINTY – Starlight; Ricky Al…",
@@ -51,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "Blak Out with Nooky",
- "updatedAt": "2026-11-16T13:10:43Z"
+ "updatedAt": "2026-11-22T09:39:04Z"
 }
