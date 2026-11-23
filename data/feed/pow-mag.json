@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-23T17:22:13Z",
+   "desc": "Jeff Weiss speaks to the Detroit rapper and several of his collaborators about the landmark album, released ten years ago this fall.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-the-secret-history-of-danny-brown-atrocity-exhibition",
+   "image": "https://substackcdn.com/image/fetch/$s_!_CbB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d1f00c-f1ee-499b-983a-60e656da0849_1200x1200.png",
+   "title": "The Secret History of Danny Brown’s Atrocity Exhibition",
+   "url": "https://www.powmag.net/p/the-secret-history-of-danny-brown-atrocity-exhibition"
+  },
+  {
+   "audio": null,
    "date": "2026-11-21T16:50:28Z",
    "desc": "The Rap-Up considers the most notable singles of the past week. Today, Anthony Seaman reviews new work from Tay-K, Jack Harlow, and more.",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!Ep6C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ced51af-ac7b-439c-bd21-e4f6d25ecbf5_1200x1200.png",
    "title": "The Jazz Defector",
    "url": "https://www.powmag.net/p/the-jazz-defector"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-29T17:34:06Z",
-   "desc": "From German Shepherds to Cocker Spaniels, we survey Chad Hugo and Pharrell’s catalog.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-the-50-best-neptunes-beats-ranked",
-   "image": "https://substackcdn.com/image/fetch/$s_!1Ea9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4d28bc4-fce2-411a-8b85-d6af5bb5f20b_1200x1200.png",
-   "title": "The 50 Best Neptunes Beats, Ranked",
-   "url": "https://www.powmag.net/p/the-50-best-neptunes-beats-ranked"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-21T23:49:41Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

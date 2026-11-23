@@ -6,6 +6,26 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-23T02:23:00Z",
+   "desc": "Alesso, deadmau5, Sub Focus and Subtronics lead the first nine acts for the festival's second year on the waterfront. Continue reading...",
+   "duration": null,
+   "id": "ps:--mixmag.net.au-read-ultra-new-zealand-shares-first-lineup-for-its-2027-return-to-te-whanganui-a-tara-wellington-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Ultra-NZ-Lineup-2027-Cover.png",
+   "title": "ULTRA New Zealand shares first lineup for its 2027 return to Te Whanganui-a-Tara/Wellington",
+   "url": "https://mixmag.net.au/read/ultra-new-zealand-shares-first-lineup-for-its-2027-return-to-te-whanganui-a-tara-wellington-news"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-23T02:18:16Z",
+   "desc": "The Ōtautahi/Christchurch festival returns to Spencer Beach from Thursday 11 March to Sunday 14 March 2027. Day passes are on sale now. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-twominds-shares-the-lineup-for-its-first-four-day-edition-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Twominds-Lineup-2027-Cover.png",
+   "title": "Twominds shares the lineup for its first four-day edition",
+   "url": "https://mixmag.net.au/read/twominds-shares-the-lineup-for-its-first-four-day-edition-news"
+  },
+  {
+   "audio": null,
    "date": "2026-11-20T03:38:32Z",
    "desc": "'Innerbloom XI' lands 11 years to the day after the original. Continue reading...",
    "duration": null,
@@ -233,29 +253,9 @@
    "image": null,
    "title": "\"How long is Western Sydney going to be up-and-coming for?\" BKR on curating SURPLUS",
    "url": "https://mixmag.net.au/feature/how-long-is-western-sydney-going-to-be-up-and-coming-for-bkr-on-curating-surplus"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-14T03:13:00Z",
-   "desc": "Writer Laura McInnes speaks to the Aotearoa musician-turned producer about paying homage to music's history in a multitude of ways. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-clova-composing-her-way-into-club-culture",
-   "image": null,
-   "title": "CLOVA: Composing her way into club culture",
-   "url": "https://mixmag.net.au/feature/clova-composing-her-way-into-club-culture"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-13T05:08:28Z",
-   "desc": "Writer Marianne Astrid Close sits down with Milkpaste to discuss the music and movements behind her brand-new FLINTA-focused record label: Spot Dial Recordings. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-love-is-the-message-and-flinta-are-the-focus",
-   "image": null,
-   "title": "Love is the Message, and FLINTA are the focus",
-   "url": "https://mixmag.net.au/feature/love-is-the-message-and-flinta-are-the-focus"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

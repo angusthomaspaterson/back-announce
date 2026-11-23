@@ -5,6 +5,16 @@
  "id": "nts-ad93",
  "items": [
   {
+   "date": "2026-11-22T20:00:00Z",
+   "desc": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests. Old 88 Transition shows available on the archive.",
+   "id": "whities-w-tasker-22nd-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/95c8f886-576a-445c-bd4b-0eaef8445bf7_1795132800.jpeg",
+   "location": "London",
+   "tags": "Post Punk, Krautrock, Indie Rock, Psychedelic Folk",
+   "title": "AD 93 w/ Purple Pilgrims",
+   "url": "https://www.nts.live/shows/whities-w-tasker/episodes/whities-w-tasker-22nd-november-2026"
+  },
+  {
    "date": "2026-09-27T19:00:00Z",
    "desc": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests. Old 88 Transition shows available on the archive.",
    "id": "whities-w-tasker-27th-september-2026",
@@ -113,19 +123,9 @@
    "tags": "Electronica, Experimental",
    "title": "AD 93 w/ Tommy Barlow",
    "url": "https://www.nts.live/shows/whities-w-tasker/episodes/whities-w-tasker-28th-september-2025"
-  },
-  {
-   "date": "2025-08-31T19:00:00Z",
-   "desc": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests. Old 88 Transition shows available on the archive.",
-   "id": "whities-w-tasker-31st-august-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/3be45299-03ab-46ac-bfeb-64e1787b41d5_1756339200.jpeg",
-   "location": "London",
-   "tags": "Electronica, Ambient, Ambient Techno, Dream Pop",
-   "title": "AD 93 w/ Enya",
-   "url": "https://www.nts.live/shows/whities-w-tasker/episodes/whities-w-tasker-31st-august-2025"
   }
  ],
  "kind": "nts",
  "name": "AD 93 w/ Tasker",
- "updatedAt": "2026-10-13T04:20:38Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

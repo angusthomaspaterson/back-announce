@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-23T08:01:00Z",
+   "desc": "Flow State will return Monday, 11/30.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-off-1123-1127",
+   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
+   "title": "Off 11/23-11/27",
+   "url": "https://www.flowstate.fm/p/off-1123-1127"
+  },
+  {
+   "audio": null,
    "date": "2026-11-20T08:02:46Z",
    "desc": "Today we’re listening to Maryos Syawish, an Iraqi electronic musician based in Naarm/Melbourne.",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
    "title": "Flow State Episode 349",
    "url": "https://www.flowstate.fm/p/flow-state-episode-349"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-26T07:03:37Z",
-   "desc": "Today we’re listening to Adam Wiltzie, an American ambient musician from New York City.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-adam-wiltzie-interview",
-   "image": "https://substackcdn.com/image/fetch/$s_!le2H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5198951b-4641-4898-9b2b-1579b71a8598_800x533.jpeg",
-   "title": "Adam Wiltzie (Interview)",
-   "url": "https://www.flowstate.fm/p/adam-wiltzie-interview"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

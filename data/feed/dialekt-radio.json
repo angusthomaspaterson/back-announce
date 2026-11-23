@@ -5,6 +5,16 @@
  "id": "dialekt-radio",
  "items": [
   {
+   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/a12aedce-6bf9-4100-ad4e-9472e64352ad/group-item/6e7273ef-1738-44e8-b94b-77f6686acbf7/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
+   "date": "2026-11-23T02:55:34Z",
+   "desc": "1. Banaati & Max Blücher - Alive 00:00:41 2. Sébastien Léger & Dulus - A Million Cascades 00:06:39 3. Federico Puentes - Callisto 00:13:25 4. Infusion - Legacy (Freedo Mosho, Maze 28, GMJ & Matter Rework) 00:19:08 5. Glenn Molloy - Cyclic (Kostya Outta Remix) 00:24:51 6. AVANT & MONTE - Silence 00:31:22- DIALEKT TRACK OFTHE WEEK 7. Redspace & Medicii - Eden 00:35:18 8. Marsh - Party People 00:40:43 9. Max Pavlov - Easy Game 00:46:39 10. Quivver ft. Charli Elizabeth - Nowhere Else To Go 00:50:56 11. The Future Sound Of London - Cascade (Part 1) 00:55:00- CLASSIC OF THE WEEK",
+   "duration": "01:01:21",
+   "id": "0f5fce31-4b6a-4980-8559-fdd677be5885",
+   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
+   "title": "Dialekt Radio #355",
+   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-355-4u6H_kO3"
+  },
+  {
    "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/e3503418-438d-4f90-bed5-93c6ddbdf5cd/group-item/f988d75c-479a-42c2-b775-a3ff68855260/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
    "date": "2026-11-15T18:49:08Z",
    "desc": "1. Âme & Jeannel - Cold 00:00:39 2. Rromarin - Show You 00:04:52 3. Nora En Pure - Big World 00:08:51 4. André Moret - Eyes Of Adina 00:13:40 5. Alex Wann - Lost Keys 00:19:58- DIALEKT TRACK OF THE WEEK 6. Ruben Karapetyan - Monteverde (DJ Ruby Remix) 00:23:22 7. D-Nox & Artic White - Open Your Mind 00:28:54 8. Guy Mantzur & Yuvèe - Stairway 00:33:26 9. Anyasa - Just A Feeling 00:38:36 10. Andrew Long & Hayyoo - Life 00:41:38 11. Quivver - To Watch It All Come Down 00:44:54 12. Luciano - Rise Of Angel 00:49:11- CLASSIC OF THE WEEK",
@@ -243,19 +253,9 @@
    "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
    "title": "Dialekt Radio #331",
    "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-331-jI4_H2Q1"
-  },
-  {
-   "audio": "https://cdn.simplecast.com/media/audio/transcoded/9a19946c-fb7b-4994-bf13-de47732c63cf/ca7451b4-ef42-464c-a625-d3e613ffe922/episodes/audio/group/4794c2d2-e3e8-40fa-b647-981bd6dc7553/group-item/388d0559-3004-43f1-aab9-323fdd86c8e4/128_default_tc.mp3?aid=rss_feed&feed=3dnPjov_",
-   "date": "2026-06-07T19:00:00Z",
-   "desc": "1. Trilucid - Too Good 00:00:40 2. Sleepless Skies - Between Moments 00:06:28 3. Michael Cassette - Double Oath 00:12:03 4. Quivver & Dave Seaman - Starship Disco 00:15:42 5. Massane & MYRNE - In Motion 00:21:53- DIALEKT TRACK OF THE WEEK 6. Estiva - Via Balearia 00:25:44 7. EDX - Equinox 00:29:49 8. CVMRN - Folding Light 00:35:31 9. Sultan + Shepard - Indiehollic 00:42:49 10. OLING - Vaal 00:48:50 11. Dee Montero - That Place 00:54:32 12. Sasha & Mike Koglin - Enjoy The Gravy (James Zabiela's Totally Turntabled Mix) 00:58:38- CLASSIC OF THE WEEK",
-   "duration": "01:04:03",
-   "id": "6fc6c0b9-c111-4eb1-b4b2-c5d448175fa0",
-   "image": "https://image.simplecastcdn.com/images/407a62a5-13d8-452e-bda5-6b2af9482548/85b87ff5-2cf1-4fbd-bb1f-42645dde04c7/3000x3000/dialekt-highlight.jpg?aid=rss_feed",
-   "title": "Dialekt Radio #330",
-   "url": "https://sultan-shepard-present-dialekt-radio.simplecast.com/episodes/dialekt-radio-330-gkvpYdZF"
   }
  ],
  "kind": "rss",
  "name": "Sultan + Shepard: Dialekt Radio",
- "updatedAt": "2026-11-15T23:23:49Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

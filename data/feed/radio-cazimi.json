@@ -5,6 +5,36 @@
  "id": "radio-cazimi",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2443120347-radio-cazimi-driving-blind-w-wetpuddlss.mp3",
+   "date": "2026-11-23T11:08:40Z",
+   "desc": "DRIVING BLIND w/ Wetpuddlss, Lidl & Karl Halliday - EP6 by Radio Cazimi",
+   "duration": "02:00:10",
+   "id": "tag:soundcloud-2010:tracks-2443120347",
+   "image": "https://i1.sndcdn.com/artworks-5LXEbnQ47WzDOfKP-WHUv6Q-t3000x3000.jpg",
+   "title": "DRIVING BLIND w/ Wetpuddlss, Lidl & Karl Halliday - EP6",
+   "url": "https://soundcloud.com/radio-cazimi/driving-blind-w-wetpuddlss"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2443120326-radio-cazimi-day-music-w-billie-burrows-ep3.mp3",
+   "date": "2026-11-23T11:08:35Z",
+   "desc": "DAY MUSIC w/ Billie Burrows - EP3 by Radio Cazimi",
+   "duration": "02:00:35",
+   "id": "tag:soundcloud-2010:tracks-2443120326",
+   "image": "https://i1.sndcdn.com/artworks-udCUBPR7DNPBqB34-65uC0A-t3000x3000.jpg",
+   "title": "DAY MUSIC w/ Billie Burrows - EP3",
+   "url": "https://soundcloud.com/radio-cazimi/day-music-w-billie-burrows-ep3"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2443120308-radio-cazimi-morning-desires-w-helen-3.mp3",
+   "date": "2026-11-23T11:08:31Z",
+   "desc": "MORNING DESIRES w/ Helen Objartel by Radio Cazimi",
+   "duration": "02:00:33",
+   "id": "tag:soundcloud-2010:tracks-2443120308",
+   "image": "https://i1.sndcdn.com/artworks-aV2Ezu2Ipmy49cub-gQEcfQ-t3000x3000.jpg",
+   "title": "MORNING DESIRES w/ Helen Objartel",
+   "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-helen-3"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2442093138-radio-cazimi-guest-mix-w-michael-gibbon.mp3",
    "date": "2026-11-21T03:54:14Z",
    "desc": "GUEST MIX w/ Michael Gibbon by Radio Cazimi",
@@ -223,39 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-O3LNInbh5VzirnTM-fcTzzg-t3000x3000.jpg",
    "title": "MORNING DESIRES w/ Ephacy",
    "url": "https://soundcloud.com/radio-cazimi/morning-desires-w-ephacy-2"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2435951625-radio-cazimi-textures-w-champion-sound-ep4.mp3",
-   "date": "2026-11-11T06:17:46Z",
-   "desc": "TEXTURES w/ Champion Sound - EP4 by Radio Cazimi",
-   "duration": "02:08:21",
-   "id": "tag:soundcloud-2010:tracks-2435951625",
-   "image": "https://i1.sndcdn.com/artworks-gznhDAoccwS10e4H-ICzIIg-t3000x3000.jpg",
-   "title": "TEXTURES w/ Champion Sound - EP4",
-   "url": "https://soundcloud.com/radio-cazimi/textures-w-champion-sound-ep4"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2435951247-radio-cazimi-wistful-w-lala-ep-5.mp3",
-   "date": "2026-11-11T06:16:15Z",
-   "desc": "WISTFUL w/ Lala - EP 5 by Radio Cazimi",
-   "duration": "01:58:03",
-   "id": "tag:soundcloud-2010:tracks-2435951247",
-   "image": "https://i1.sndcdn.com/artworks-XlbDYJUJ5kDU7Zqo-Ec3MTg-t3000x3000.jpg",
-   "title": "WISTFUL w/  Lala - EP 5",
-   "url": "https://soundcloud.com/radio-cazimi/wistful-w-lala-ep-5"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2435950584-radio-cazimi-outsiders-together-scorpio.mp3",
-   "date": "2026-11-11T06:13:19Z",
-   "desc": "OUTSIDERS, TOGETHER - Scorpio Special w / Takeo.K & DJ Mum by Radio Cazimi",
-   "duration": "02:00:03",
-   "id": "tag:soundcloud-2010:tracks-2435950584",
-   "image": "https://i1.sndcdn.com/artworks-ymxFxyoKZUWZiytx-dIGd6g-t3000x3000.jpg",
-   "title": "OUTSIDERS, TOGETHER - Scorpio Special w / Takeo.K & DJ Mum",
-   "url": "https://soundcloud.com/radio-cazimi/outsiders-together-scorpio"
   }
  ],
  "kind": "rss",
  "name": "Radio Cazimi (Fremantle)",
- "updatedAt": "2026-11-21T23:49:41Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

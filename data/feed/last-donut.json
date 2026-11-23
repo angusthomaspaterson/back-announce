@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-23T17:15:09Z",
+   "desc": "This is a free post from Larry Fitzmaurice's Last Donut of the Night newsletter. Paid subscribers get one or two email-only Baker's Dozens every week featuring music I've been listening to and some critical observations around it, along with a Screen Memories column",
+   "duration": null,
+   "id": "6b00c3a30b93e3000143b2ed",
+   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/11/wendyeisenberg1.jpg",
+   "title": "Wendy Eisenberg on Movies, Songwriting, and Their Incredible 2026",
+   "url": "https://last-donut-of-the-night.ghost.io/wendy-eisenberg-on-movies-songwriting-and-their-incredible-2026/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-20T08:00:00Z",
    "desc": "",
    "duration": null,
@@ -143,19 +153,9 @@
    "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/IMG_1276.jpeg",
    "title": "Joe Gleason on Joe Box, Edy Show Joe, Home Planet, and the Power of Smiling",
    "url": "https://last-donut-of-the-night.ghost.io/joe-gleason-on-joe-box-edy-show-joe-home-planet-and-the-power-of-smiling/"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-26T14:42:55Z",
-   "desc": "",
-   "duration": null,
-   "id": "6adf5b2883ab65000185d415",
-   "image": "https://storage.ghost.io/c/0d/4b/0d4b34d1-32d0-4e27-be07-1cc170a506b1/content/images/2026/10/kosoya.jpg",
-   "title": "Baker's Dozen: Polo G, Thundercat, Lorenzo Senni",
-   "url": "https://last-donut-of-the-night.ghost.io/bakers-dozen-polo-g-thundercat-lorenzo-senni/"
   }
  ],
  "kind": "rss",
  "name": "Last Donut of the Night (Larry Fitzmaurice)",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

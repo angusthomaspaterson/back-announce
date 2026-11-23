@@ -5,6 +5,26 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2443066377-balance-series-dave-seaman-b2b-anthony-pappa-balance-croatia-2026.mp3",
+   "date": "2026-11-23T00:00:00Z",
+   "desc": "Recording of Dave Seaman and Anthony Pappa's B2B set from Balance Croatia 2026. @daveseaman @anthonypappa ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ Balance Croatia full four day festival tickets are SOLD OUT. Day Tickets coming soon. _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
+   "duration": "03:02:38",
+   "id": "tag:soundcloud-2010:tracks-2443066377",
+   "image": "https://i1.sndcdn.com/artworks-BFc3TwSxPENK1FPw-zOp1vw-t3000x3000.jpg",
+   "title": "Dave Seaman B2B Anthony Pappa: Live from Balance Croatia 2026",
+   "url": "https://soundcloud.com/balance-series/dave-seaman-b2b-anthony-pappa-balance-croatia-2026"
+  },
+  {
+   "audio": "https://feeds.soundcloud.com/stream/2443024341-balance-series-balance-james-holden-disc1.mp3",
+   "date": "2026-11-23T00:00:00Z",
+   "desc": "TRACKLIST 01. The MFA – The Difference It Makes (Original Mix) 02. Meta.83 – Antrieb 03. Jake Fairley – Oshawa 04. Zeta Reticula – Tool 1 05. Petter – All Together 06. Baby Ford & The Ifach Collective – Bad Friday 07. Zeta Reticula – Tool 3 08. Avus – Real 09. DJ ESP – No Future (Soundburnt Mix) 10. Jase From Outta Space feat. Claire – Do What You Want (Infusion’s Sky mix) 11. Nathan Fake – Outhouse (Fluffy mix) 12. Nathan Fake – Outhouse (Original Mix) 13. Fort Dax – Fortune Telling Fish, Curled to Suggest ‘Home’ 14. PQM – You Are Sleeping (PQM vs. Luke Chable Vocal Pass) 15a. Petter – These…",
+   "duration": "01:11:14",
+   "id": "tag:soundcloud-2010:tracks-2443024341",
+   "image": "https://i1.sndcdn.com/artworks-2JE5thhAc9x8o2ji-73kTIQ-t3000x3000.jpg",
+   "title": "Balance 005: James Holden (Disc 1)",
+   "url": "https://soundcloud.com/balance-series/balance-james-holden-disc1"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2441537358-balance-series-balance-selections-agoria.mp3",
    "date": "2026-11-20T00:00:00Z",
    "desc": "Few artists have approached electronic music with the restless curiosity of Agoria. This year marks three decades since the French DJ and producer began his journey, alongside another milestone: the 100th release on his Sapiens imprint. For Balance, his connection runs deep. In 2010, he delivered the acclaimed Balance 016, an adventurous double-disc compilation that reflected his disregard for genre boundaries and his instinct for finding unexpected connections between sounds. Sixteen years later, that same exploratory spirit remains central to his work. As he celebrates 30 years in electroni…",
@@ -233,29 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-DfzNq7nwXwMtJCbP-vdXFoQ-t3000x3000.jpg",
    "title": "Peter Makto: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/peter-makto-live-from-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2399041713-balance-series-dowden-live-balance-croatia.mp3",
-   "date": "2026-09-12T00:00:00Z",
-   "desc": "Recording of Dowden's set from Balance Croatia 2026. @dowdenmusic ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "02:00:57",
-   "id": "tag:soundcloud-2010:tracks-2399041713",
-   "image": "https://i1.sndcdn.com/artworks-leMVkZtlHCtsNKJv-IOMZSg-t3000x3000.jpg",
-   "title": "Dowden: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/dowden-live-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2398386210-balance-series-balance-selections-383-nichols.mp3",
-   "date": "2026-09-11T00:00:00Z",
-   "desc": "Nichols+Roark are a London-based DJ and production duo whose sound sits between progressive house, indie dance and melodic techno. Friends for more than 25 years, their music draws on a shared club history shaped by nights at venues and parties including Renaissance in Nottingham and Ibiza. Their releases have landed on labels including The Soundgarden, Mango Alley and Renaissance, while their 2019 track “Magnificent Creatures” was featured on Nick Warren’s Balance Presents The Soundgarden. Recent years have also seen the duo develop Shift, their own label platform. Its official launch at Cra…",
-   "duration": "02:03:37",
-   "id": "tag:soundcloud-2010:tracks-2398386210",
-   "image": "https://i1.sndcdn.com/artworks-BuqMPCKP2Nk0zC8c-0j0pTw-t3000x3000.jpg",
-   "title": "Balance Selections 383: Nichols+Roark",
-   "url": "https://soundcloud.com/balance-series/balance-selections-383-nichols"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

@@ -5,6 +5,16 @@
  "id": "rtr2",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2436514962-rtrfm-92-1-the-waters-never-dry-ep-6-w-wetpuddlss.mp3",
+   "date": "2026-11-23T02:00:45Z",
+   "desc": "the water's never dry returns to RTR2, serving up a delightful smorgasbord of emo, dub, minimal techno, deep house, and smoothing out with some experimental ambient and footwork for your listening pleasure",
+   "duration": "02:07:24",
+   "id": "tag:soundcloud-2010:tracks-2436514962",
+   "image": "https://i1.sndcdn.com/artworks-myWvI9imdCOeRYKk-Oyhl4Q-t3000x3000.jpg",
+   "title": "The Water's Never Dry Ep. 6 w/ Wetpuddlss",
+   "url": "https://soundcloud.com/rtrfm-92-1/the-waters-never-dry-ep-6-w-wetpuddlss"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2434713507-rtrfm-92-1-50-years-rrr-in-melbourne-randals-dad.mp3",
    "date": "2026-11-21T02:00:35Z",
    "desc": "randals dad is a Murri radio broadcaster, event producer, and DJ with a sonic approach tackling genres from left-field and ambient through to club and hardcore. His show on Triple R, Feel The Floor, reflects this ethos exploring new release electronic music, bringing together international and local artists from so-called Australia. This set delivered for RTR2 is a reflection of his identity as a Murri from Far North Queensland – a selection of electronic-focused sounds, exclusively from First Nations artists.",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-VCdzTW9iBFenI4n0-FPUpwQ-t3000x3000.png",
    "title": "8theclub Mixology Ep. 4 w/ Mrs Plow",
    "url": "https://soundcloud.com/rtrfm-92-1/8theclub-mixology-ep-4-w-mrs"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2342310743-rtrfm-92-1-proc-at-fwdrwd-2024.mp3",
-   "date": "2026-06-24T04:00:52Z",
-   "desc": "RTR2's spotlight on RTRFM's FWD RWD sets continues this week, showcasing Naarm-via-Boorloo DJ Proc's impeccable selections and skills behind the controllers. Tune in for an hour of low end frequencies spanning techno, dub house, club-forward hip shakers and a sprinkling of garage!",
-   "duration": "01:00:06",
-   "id": "tag:soundcloud-2010:tracks-2342310743",
-   "image": "https://i1.sndcdn.com/artworks-vA1SGJ4zYnzOwjR4-Sdm5UA-t3000x3000.png",
-   "title": "Proc at FWD RWD 2024",
-   "url": "https://soundcloud.com/rtrfm-92-1/proc-at-fwdrwd-2024"
   }
  ],
  "kind": "rss",
  "name": "RTRFM / RTR2 mixes",
- "updatedAt": "2026-11-21T23:49:41Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

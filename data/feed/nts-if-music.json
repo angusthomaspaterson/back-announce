@@ -5,6 +5,16 @@
  "id": "nts-if-music",
  "items": [
   {
+   "date": "2026-11-22T13:00:00Z",
+   "desc": "From the host: 'To celebrate the release of \"If Music Presents Left Turn\" EP in conjunction with the monthly club session, we go in deeep for 2 hrs. of DnB and Jungle old and very, very new…..'",
+   "id": "ifmusic-22nd-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/cebf1b04-55ea-41a2-8119-2f832d607e6e_1795132800.jpeg",
+   "location": "London",
+   "tags": "Drum & Bass, Jungle",
+   "title": "If Music Presents You Need This w/ Jean-Claude a D&B and Jungle Special",
+   "url": "https://www.nts.live/shows/ifmusic/episodes/ifmusic-22nd-november-2026"
+  },
+  {
    "date": "2026-10-25T13:00:00Z",
    "desc": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs. From the host: \"Our usual mix of all things eclectic, new and old….\"",
    "id": "ifmusic-25th-october-2026",
@@ -113,19 +123,9 @@
    "tags": "Soul, Boogie, Soul Jazz",
    "title": "If Music Presents You Need This w/ Jean-Claude",
    "url": "https://www.nts.live/shows/ifmusic/episodes/ifmusic-18th-january-2026"
-  },
-  {
-   "date": "2025-12-21T13:00:00Z",
-   "desc": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.",
-   "id": "ifmusic-21st-december-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/c257f533-b9d7-4da4-a22b-0aa6be1e59e3_1766016000.jpeg",
-   "location": "London",
-   "tags": "Deep House, Soul, Soul Jazz",
-   "title": "If Music Presents You Need This w/ Jean-Claude",
-   "url": "https://www.nts.live/shows/ifmusic/episodes/ifmusic-21st-december-2025"
   }
  ],
  "kind": "nts",
  "name": "If Music Presents You Need This",
- "updatedAt": "2026-10-26T23:09:50Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

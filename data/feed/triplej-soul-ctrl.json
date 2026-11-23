@@ -5,6 +5,17 @@
  "id": "triplej-soul-ctrl",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qn/Z/85.aac",
+   "date": "2026-11-23T10:00:00Z",
+   "desc": "Your weekly dose of neo-soul, RNB and smooth jams with Tanya Bunter. Available until 23 Dec. Tracklist: Owelu Dreamhouse – Oluwasam; VINCE EVANS – HONEST; Hiatus Kaiyote – By Fire; Teether & Kuya Neil – keyz 2 tha city [Ft. raychi]; Jalmar & MC Flavinho – Más; Jewel Owusu – blurryeyed; Zafty – Glasses; Emma Donovan – Take Me To The River; aywy & saie – undecide; Grace Barbé – Afro-Sega; Toby Hobart – Swim; Parissa Tosif – Cry (فراه); Renée Geyer – Heading In The Right Direction; Ruel – Debbie Don't Cry; JACOTÉNE – Tell Me (I Heard It From My Father); Saltwater Band – Compass; Olana & Swick – …",
+   "duration": "7200",
+   "id": "107395168",
+   "image": "https://live-production.wcms.abc-cdn.net.au/1b77a6b6ec7d4449801cfec60b360ec5?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "soul ctrl, 23 Nov",
+   "until": "2026-12-23T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/soul-ctrl/soul-ctrl/107395168"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qg/Z/10.aac",
    "date": "2026-11-16T10:00:00Z",
    "desc": "🚨 weee wooo weee wooo! 🚨. Available until 16 Dec. Tracklist: Shaggy – It Wasn't Me [Ft. Rik Rok]; Sammy Virji – Letter Blue [Ft. Joy Anonymous, Wet]; Mint Royale – Singin' In The Rain; Jesirae – Self; Brent Faiyaz – GRAVITY [Ft. Tyler, The Creator]; SAINT KID – Best Side; Cherry Chola & Chico Sonido – Cherry Baby Loca; Lil Uzi Vert – XO TOUR Llif3; Alicia Keys – Try Sleeping With A Broken Heart; Yung Lean – Trip; Junior Mesa – the cops are coming; Mark Ronson – Stop Me [Ft. Daniel Merriweather]; H.E.R. – Best Part [Ft. Daniel Caesar]; Akon – Lonely; H3rizon – Certified Lover Girl; Liim – Is L…",
@@ -51,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "soul ctrl with Tanya Bunter",
- "updatedAt": "2026-11-17T02:29:49Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

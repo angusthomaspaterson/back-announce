@@ -5,6 +5,17 @@
  "id": "doublej-classic-albums",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qn/Z/3k.aac",
+   "date": "2026-11-23T07:00:00Z",
+   "desc": "\"We could do this record in 10 years and we know its going to be relevant\" - a decade on, this groundbreaking hip hop debut continues to unreservedly speak truth to power. Available until 23 Nov. Tracklist: A.B. Original – Foreword (Ft. Archie Roach); A.B. Original – 2 Black 2 Strong; A.B. Original – Call Em Out [Ft. Guilty Simpson]; A.B. Original – Dead In A Minute [Ft. Caiti Baker]; A.B. Original – Sorry [Ft. Caiti Baker]; A.B. Original – Report To The Mist; A.B. Original – I C U [Ft. Thelma Plum]; A.B. Original – Take Me Home [Ft. Geoffrey Gurrumul Yunupingu]; Jen Cloher – Name In Lights; …",
+   "duration": "3599",
+   "id": "107371010",
+   "image": "https://live-production.wcms.abc-cdn.net.au/1d7596666946fbb199c085626d7518d4?impolicy=wcms_watermark_abc&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+   "title": "A.B. Original - Reclaim Australia",
+   "until": "2027-11-23T07:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-a-b-original-reclaim-australia/107371010"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qf/Z/qd.aac",
    "date": "2026-11-16T07:00:00Z",
    "desc": "Everybody loves a comeback – John Farnham put it all on the line to ensure his mid 80s resurgence would be delivered with an anthemic roar. Available until 16 Nov. Tracklist: John Farnham – You're The Voice; John Farnham – One Step Away; John Farnham – Reasons; John Farnham – Going, Going, Gone; John Farnham – Trouble; John Farnham – A Touch Of Paradise; Alan Braxe & Fred Falke – Intro; Lana Del Rey – First Light; Ruby Gill – Lord, let me be a pastry chef; Husky – Dark Sea; Hermanos Gutiérrez – Los Ojos Del Cóndor",
@@ -102,20 +113,9 @@
    "title": "Mark Ronson & The Business Intl - Record Collection",
    "until": "2027-09-21T08:00:00Z",
    "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-mark-ronson-business-intnl-record-collection/107131178"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/of/Z/vb.aac",
-   "date": "2026-09-14T08:00:00Z",
-   "desc": "\"We’re pissed off that people think we’re joking\" - the Sacramento band weren't foolin around on their breakthrough second release. Available until 14 Sep. Tracklist: Cake – Frank Sinatra; Cake – The Distance; Cake – Friend Is A Four Letter Word; Cake – Open Book; Cake – Daria; Cake – I Will Survive; Cake – Perhaps, Perhaps, Perhaps; Cake – Nugget; Cake – Italian Leather Sofa; Madonna – Danceteria; Ezra Collective & Leona Lewis – All I Need; Medium Build – Cone Off",
-   "duration": "3599",
-   "id": "107105034",
-   "image": "https://live-production.wcms.abc-cdn.net.au/57a21f0669657ec2f0899b6237a9c453?impolicy=wcms_watermark_abc&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-   "title": "CAKE - Fashion Nugget",
-   "until": "2027-09-14T08:00:00Z",
-   "url": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-cake-fashion-nugget/107105034"
   }
  ],
  "kind": "abc",
  "name": "Classic Albums with Caz Tran",
- "updatedAt": "2026-11-16T13:10:43Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }

@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-23T05:02:00Z",
+   "desc": "Bradford Cox’s first solo album in 15 years is a haunted, autumnal meditation on all forms of decay: bodily, spiritual, political, and sonic.",
+   "duration": null,
+   "id": "6b00548e6f30fddce8dc082f",
+   "image": null,
+   "title": "Thanatos",
+   "url": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-13T05:03:00Z",
    "desc": "It’s a marathon and the New York duo keeps the faith, delivering another lyrical masterclass over engrossing beats from the indie rap all-stars whose work they’ve cultivated.",
    "duration": null,
@@ -243,19 +253,9 @@
    "image": null,
    "title": "you seem pretty sad for a girl so in love",
    "url": "https://pitchfork.com/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/"
-  },
-  {
-   "audio": null,
-   "date": "2026-06-09T04:03:00Z",
-   "desc": "The Miami duo’s electrifying, boundary-bending combination of Haitian kompa, underground rap, reggaeton, electro-pop, and baile funk is loud as hell and rich in egalitarian spirit.",
-   "duration": null,
-   "id": "6a2710b35a0b04ca993e6fb4",
-   "image": null,
-   "title": "EXIT 2B",
-   "url": "https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/"
   }
  ],
  "kind": "rss",
  "name": "Pitchfork: Best New Albums",
- "updatedAt": "2026-11-14T00:21:30Z"
+ "updatedAt": "2026-11-23T21:30:28Z"
 }
