@@ -5,6 +5,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2442834033-resident-advisor-ra-1066-darwin.mp3",
+   "date": "2026-11-22T22:00:15Z",
+   "desc": "After ten years, the REEF founder celebrates the end of her seminal Berlin bass party. \"Music is the weapon of the future,\" a robotic voice murmurs at the start of RA.1066. It's a fitting mantra for dubstep, arguably the last future-facing movement, and for Darwin, who has spent the last ten years cracking open Berlin's dance floors. In 2016, Darwin launched REEF at Griessmuehle. Back then, Berlin was a one-way street where house and techno ruled, and she wanted to change that. When Griessmuehle closed in 2019, the party moved to Berghain, bringing practically the entire bass continuum to tec…",
+   "duration": "01:49:23",
+   "id": "tag:soundcloud-2010:tracks-2442834033",
+   "image": "https://i1.sndcdn.com/artworks-sJj8bcHTUfyZOZE8-6LukIA-t3000x3000.jpg",
+   "title": "RA.1066 Darwin",
+   "url": "https://soundcloud.com/resident-advisor/ra-1066-darwin"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2440512729-resident-advisor-ex-819-shimza.mp3",
    "date": "2026-11-18T13:05:51Z",
    "desc": "The South African DJ on Afro house's global rise, the townships that incubated it and why the sound should stay open to all. Shimza grew up in Tembisa, a township east of Johannesburg, where as a kid he followed the DJs who played the area's stokvel parties. Members of these community savings clubs took turns hosting and competed to book the best DJs. Those DJs became local tastemakers, and some went on to play national radio and run the record shops that shaped grassroots South African house. He eventually broke out of that circuit to become one of Afro house's biggest exports. This year he …",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-b9udRgmaVK66Lms6-udr3NA-t3000x3000.png",
    "title": "EX.802 Bladee",
    "url": "https://soundcloud.com/resident-advisor/ex-802-bladee"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2338139924-resident-advisor-ra-1043-pretty-girl.mp3",
-   "date": "2026-06-14T21:00:19Z",
-   "desc": "90 minutes of wistful house from a talented Steel City Dance Discs affiliate—perfect for easing into the night or winding down after the party. Since Resident Advisor dubbed Pretty Girl \"a star in the making\" in 2023, the Melbourne DJ has played Coachella, gone viral on Boiler Room, and remixed Romy and Fred Again.. But she’s taken stardom on her own terms. Instead of stadium-ready adrenaline, her sound is a balanced cocktail of UK garage, sugary vocals, and '90s electronica whimsy, finding the sweet spot between the charts and the club. Her RA Mix perfectly captures this depth of emotion. Th…",
-   "duration": "01:33:52",
-   "id": "tag:soundcloud-2010:tracks-2338139924",
-   "image": "https://i1.sndcdn.com/artworks-ikDhmBHSE3NOypM0-qQ2dbw-t3000x3000.png",
-   "title": "RA.1043 Pretty Girl",
-   "url": "https://soundcloud.com/resident-advisor/ra-1043-pretty-girl"
   }
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-11-18T15:31:22Z"
+ "updatedAt": "2026-11-23T00:19:47Z"
 }
