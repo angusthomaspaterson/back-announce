@@ -1,11 +1,6 @@
 {
  "lastSeen": "2026-11-19T01:04:45Z",
  "paused": [
-  "anjunadeep-releases",
-  "bbc-introducing-on-radio-1-dance",
-  "bbc-mary-anne-hobbs",
-  "bbc-radio-1s-chillest-show-with-sian-eleri",
-  "bbc-stuart-maconies-freak-zone",
   "butter-sessions",
   "coldwired",
   "dada-strain",
@@ -19,11 +14,9 @@
   "loud-and-quiet",
   "pow-mag",
   "questlove-show",
-  "ra-podcast",
   "radio-cazimi",
   "ransom-note",
   "refuge-worldwide",
-  "resident",
   "rinse-esk",
   "rinse-papaoul",
   "sudbeat",
@@ -34,14 +27,7 @@
   "truancy-volume"
  ],
  "pausedAt": {
-  "anjunadeep-releases": "2026-11-23T01:39:47.001Z",
-  "bbc-introducing-on-radio-1-dance": "2026-11-23T01:36:04.247Z",
-  "bbc-mary-anne-hobbs": "2026-11-23T01:39:45.907Z",
-  "bbc-radio-1s-chillest-show-with-sian-eleri": "2026-11-23T01:36:06.340Z",
-  "bbc-stuart-maconies-freak-zone": "2026-11-23T01:39:44.737Z",
-  "guardian-au-music": "2026-11-23T00:30:10.326Z",
-  "ra-podcast": "2026-11-23T01:39:42.778Z",
-  "resident": "2026-11-23T01:39:49.258Z"
+  "guardian-au-music": "2026-11-23T00:30:10.326Z"
  },
  "saved": {
   "anjunadeep-edition:-anjunadeep-the-anjunadeep-edition-615-with-dusky-live-at-explorations-": {
