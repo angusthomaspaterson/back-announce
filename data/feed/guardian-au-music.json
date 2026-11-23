@@ -6,13 +6,23 @@
  "items": [
   {
    "audio": null,
-   "date": "2026-11-23T00:03:15Z",
+   "date": "2026-11-23T00:48:37Z",
    "desc": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Friends and fans of Molly Meldrum have remembered the music industry great, who died on Monday at the age of 83 . Meldrum spent more than a decade hosting the ABC music show Countdown, leaving a lasting legacy on the Australian music landscape. Continue reading...",
    "duration": null,
    "id": "https:--www.theguardian.com-music-2026-nov-23-molly-meldrum-music-industry-tributes",
    "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48",
-   "title": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great",
+   "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
    "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-23T00:25:40Z",
+   "desc": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Molly Meldrum, the Australian music journalist, broadcaster and producer, has died at the age of 83. He died peacefully in the early hours of Monday morning at a hospital in Melbourne, his longtime friend and manager, Mark Klemens, confirmed to the Guardian. Continue reading...",
+   "duration": null,
+   "id": "https:--www.theguardian.com-music-2026-nov-23-molly-meldrum-dies-aged-83",
+   "image": "https://i.guim.co.uk/img/media/df88b141409fe9863f25f07d5c8fd7707d6c5e27/0_128_3000_1800/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=463b4248042469d487fbddbbf134e3b5",
+   "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+   "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83"
   },
   {
    "audio": null,
@@ -33,16 +43,6 @@
    "image": "https://i.guim.co.uk/img/media/0ae152fe1886546e4456637f3dce59c7fe04f66c/0_151_3800_2281/master/3800.jpg?width=140&quality=85&auto=format&fit=max&s=c4859cb70b058406eed59bddb65eec18",
    "title": "Ian ‘Molly’ Meldrum, chaotic but inspirational champion of Australian music – obituary",
    "url": "https://www.theguardian.com/music/2026/nov/23/ian-molly-meldrum-champion-australian-music"
-  },
-  {
-   "audio": null,
-   "date": "2026-11-22T22:24:56Z",
-   "desc": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Molly Meldrum, the Australian music journalist, broadcaster and producer, has died at the age of 83. He died peacefully in the early hours of Monday morning at a hospital in Melbourne, his longtime friend and manager, Mark Klemens, confirmed to the Guardian. Continue reading...",
-   "duration": null,
-   "id": "https:--www.theguardian.com-music-2026-nov-23-molly-meldrum-dies-aged-83",
-   "image": "https://i.guim.co.uk/img/media/df88b141409fe9863f25f07d5c8fd7707d6c5e27/0_128_3000_1800/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=463b4248042469d487fbddbbf134e3b5",
-   "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
-   "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83"
   },
   {
    "audio": null,
@@ -207,5 +207,5 @@
  ],
  "kind": "rss",
  "name": "The Guardian: Australian music",
- "updatedAt": "2026-11-23T00:19:47Z"
+ "updatedAt": "2026-11-23T01:20:43Z"
 }
