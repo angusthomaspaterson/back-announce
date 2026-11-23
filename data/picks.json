@@ -2,6 +2,24 @@
  "items": [
   {
    "card": {
+    "date": "2026-11-22T23:00:00Z",
+    "desc": "On BBC Sounds until 23 Dec. Jaguar brings you a Dark 'n Dubby selection to test your speakers, featuring music from Arthi, Fork and Knife, India Shan, Luke Gomm & JayaHadADream, CPYRGHT, Timothy B, Javeon, BIGDADDEH & more. Produced by BBC Audio for BBC Radio 1 Dance.",
+    "duration": "3600",
+    "group": "BBC",
+    "home": "https://www.bbc.co.uk/programmes/m000h0zx",
+    "id": "m0034kdn",
+    "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0m2fycd.jpg",
+    "sid": "bbc-introducing-on-radio-1-dance",
+    "sname": "BBC Introducing on Radio 1 Dance",
+    "title": "with Jaguar: Dark 'n Dubby",
+    "url": "https://www.bbc.co.uk/sounds/play/m0034kdn"
+   },
+   "key": "bbc-introducing-on-radio-1-dance:m0034kdn",
+   "note": "An excellent selection of upbeat bass, dubstep and DnB from across the spectrum, a killer source of new bottom-heavy tunes and one of my weekly favourites.",
+   "pickedAt": "2026-11-23T01:55:47Z"
+  },
+  {
+   "card": {
     "date": "2026-11-19T01:00:00Z",
     "desc": "On BBC Sounds until 19 Dec. IDK picks his 3 records and Thaksin enters Album Mode. Produced by TBI Media for BBC Radio 1.",
     "duration": "7200",
