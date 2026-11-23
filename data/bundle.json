@@ -13451,60 +13451,6 @@
    "name": "CORE with Jack Bergin",
    "updatedAt": "2026-11-19T13:08:49Z"
   },
-  "triplej-country-club": {
-   "about": "Saddle up for your weekly dose of Country music on triple j! We’re giving you the biggest country tracks in the world and shouting about the artists making noise in our own backyard",
-   "home": "https://www.abc.net.au/triplej/programs/country-club",
-   "id": "triplej-country-club",
-   "items": [
-    {
-     "audio": "https://mediacore-live-production.akamaized.net/audio/02/ql/Z/tp.aac",
-     "date": "2026-11-22T07:00:00Z",
-     "desc": "It’s time to pay tribute to some big Aussie movers and shakers on Country Club this week. We’ll hear from Rachael Fahim, fresh from taking home the ARIA Award for Best Country Album and Wade Forster is riding high after making Golden Guitar history with an incredible 10 nominations across 9 categories. Available until 22 Dec. Tracklist: Bronson Diamond & Greta Stanley – Diamond Rings; Ziggy Alberts – I Need My Woman; Ella Langley – Here Then We're Gone; Wade Forster – Rodeo Romeo; Dear Tommie – Palomino; Luke Morris – Grace; Lydia Cole – I Need Space; Y.O.G.A. & Middy Nelson – Big Iron (Club …",
-     "duration": "3600",
-     "id": "107392670",
-     "image": "https://live-production.wcms.abc-cdn.net.au/55010e581862f262f1a6ec993053d439?impolicy=wcms_crop_resize&cropH=338&cropW=600&xPos=0&yPos=179&width=862&height=485&imformat=generic",
-     "title": "From ARIA winners to outback rodeos - Country Club's got it all!",
-     "until": "2026-12-22T07:00:00Z",
-     "url": "https://www.abc.net.au/triplej/programs/country-club/-a-winner-rachael-fahim/107392670"
-    },
-    {
-     "audio": "https://mediacore-live-production.akamaized.net/audio/02/qe/Z/se.aac",
-     "date": "2026-11-15T07:00:00Z",
-     "desc": "Grab a cuppa or a tinnie - Country Club is your twanging guide to unwind and sit back with some of the best tunes local and international. Available until 15 Dec. Tracklist: Ricky Albeck – Rerun City; Miranda Lambert – Snakeskin Boots {W/ Ella Langley}; Piper Butcher – Never Know You Again; Norwood – Radiator; Emma Ogier – Land; mildred – Bird Laugh; Noeline Hoffman – Lovers; Yours, Georgina – Holiday; Josiah and the Bonnevilles – Pyro; Jacob Hackworth – Last Night I Got Lonely; Siobhan Cotchin – Top Shelf; Selene and the Strange – Cusp; Sylvie & Kacy Lee Anderson – Wish I Could Tell You; The…",
-     "duration": "3600",
-     "id": "107366328",
-     "image": "https://live-production.wcms.abc-cdn.net.au/30cdaa6122a70094e2eef6b358134e52?impolicy=wcms_crop_resize&cropH=2325&cropW=4134&xPos=0&yPos=77&width=862&height=485&imformat=generic",
-     "title": "Sara Glaidous highlights her folk-country faves",
-     "until": "2026-12-15T07:00:00Z",
-     "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-sara-glaidous-hosts/107366328"
-    },
-    {
-     "audio": "https://mediacore-live-production.akamaized.net/audio/02/q7/Z/p5.aac",
-     "date": "2026-11-08T07:00:00Z",
-     "desc": "Plus, hear new music from titans of twang including from Kings of Leon, Jackson Dean, Kacey Musgraves, Lola Scott, Jonah Kagen and much more. Available until 8 Dec. Tracklist: Lola Scott – Cold Turkey; Jackson Dean – Wildfire (Afterburn); Kaitlin Keegan – Panic Attack; Cali Rd – The Docks; Kingswood & Sarah Grace Buckley – Boots & Pistols; Mack Geiger – Campdraft Queen; Mack Geiger – String By; Kacey Musgraves – Weekend In Texas; Jonah Kagen – Ain't Convinced; Saralyn – Jet Settin'; Kings Of Leon – Cold Blue Dawn; Katie May – The Panic Years",
-     "duration": "3600",
-     "id": "107338884",
-     "image": "https://live-production.wcms.abc-cdn.net.au/ec374a18be8fded3b22124b6ac0a2487?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=251&width=862&height=485&imformat=generic",
-     "title": "Kaitlin Keegan drops her impressive debut album and Mack Geiger rides into the COUNTRY CLUB studio to yarn about his debut album",
-     "until": "2026-12-08T07:00:00Z",
-     "url": "https://www.abc.net.au/triplej/programs/country-club/country-club/107338884"
-    },
-    {
-     "audio": "https://mediacore-live-production.akamaized.net/audio/02/q0/Z/du.aac",
-     "date": "2026-11-01T07:00:00Z",
-     "desc": "This week on Country Club, Tom has hand-picked a cruisy mix of country and folk, perfect for your Sunday chill sesh - from Maia Toakley’s poetic songwriting to timeless faves from Gillian Welch and the Waifs. Available until 1 Dec. Tracklist: Maia Toakley – Everything On Fire; The Teskey Brothers – Take My Heart; Sierra Ferrell – Pair of Dice; Kevin Morby – Javelin; Gillian Welch – Annabelle; The Waifs – Highway One; Star Moles – Born Again; Jason Isbell And The 400 Unit – Alabama Pines; Ken Pomeroy – Look at Miss Ohio; Willie Nelson & Emmylou Harris – Willin’ (feat. Inara George); Bedouine –…",
-     "duration": "3600",
-     "id": "107311854",
-     "image": "https://live-production.wcms.abc-cdn.net.au/bed50c3fc843d01968fac8942026276f?impolicy=wcms_crop_resize&cropH=718&cropW=1277&xPos=0&yPos=66&width=862&height=485&imformat=generic",
-     "title": "Fresh finds and favourites with Outback Tom",
-     "until": "2026-12-01T07:00:00Z",
-     "url": "https://www.abc.net.au/triplej/programs/country-club/country-club-maia-toakley/107311854"
-    }
-   ],
-   "kind": "abc",
-   "name": "Country Club with Outback Tom",
-   "updatedAt": "2026-11-23T00:19:47Z"
-  },
   "triplej-doof": {
    "about": "Doof is the home of Australian electronic music on triple j",
    "home": "https://www.abc.net.au/triplej/programs/doof",
@@ -16175,14 +16121,6 @@
   },
   {
    "added": "6 Nov",
-   "group": "triple j",
-   "home": "https://www.abc.net.au/triplej/programs/country-club",
-   "id": "triplej-country-club",
-   "kind": "abc",
-   "name": "Country Club with Outback Tom"
-  },
-  {
-   "added": "6 Nov",
    "group": "Double J",
    "home": "https://www.abc.net.au/listen/programs/take-5",
    "id": "doublej-take-5",
@@ -17654,12 +17592,6 @@
     "at": "2026-11-23T00:19:47Z",
     "count": 8,
     "newest": "2026-11-17T12:00:00Z",
-    "ok": true
-   },
-   "triplej-country-club": {
-    "at": "2026-11-23T00:19:47Z",
-    "count": 4,
-    "newest": "2026-11-22T07:00:00Z",
     "ok": true
    },
    "triplej-doof": {
