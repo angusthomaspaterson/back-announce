@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "d": "2026-11-23T09:54:04Z",
+   "g": "Writing",
+   "s": "zensounds (Stephan Kunze)",
+   "sid": "zensounds",
+   "t": "Weather Report (November 2026)",
+   "u": "https://www.zensounds.de/p/weather-report-november-2026"
+  },
+  {
+   "d": "2026-11-23T00:48:37Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+   "u": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes"
+  },
+  {
+   "d": "2026-11-23T00:25:40Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+   "u": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83"
+  },
+  {
+   "d": "2026-11-22T23:47:08Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Molly Meldrum, Australian music’s biggest fan – a life in pictures",
+   "u": "https://www.theguardian.com/music/gallery/2026/nov/23/molly-meldrum-gallery-photos-life-in-pictures"
+  },
+  {
    "d": "2026-11-22T23:00:00Z",
    "g": "BBC",
    "s": "BBC Introducing on Radio 1 Dance",
@@ -17,20 +49,20 @@
    "u": "https://www.bbc.co.uk/sounds/play/m003488s"
   },
   {
+   "d": "2026-11-22T22:26:59Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Ian ‘Molly’ Meldrum, chaotic but inspirational champion of Australian music – obituary",
+   "u": "https://www.theguardian.com/music/2026/nov/23/ian-molly-meldrum-champion-australian-music"
+  },
+  {
    "d": "2026-11-22T22:00:15Z",
    "g": "Mixes",
    "s": "RA Podcast",
    "sid": "ra-podcast",
    "t": "RA.1066 Darwin",
    "u": "https://soundcloud.com/resident-advisor/ra-1066-darwin"
-  },
-  {
-   "d": "2026-11-22T22:00:00Z",
-   "g": "BBC",
-   "s": "Stuart Maconie's Freak Zone",
-   "sid": "bbc-stuart-maconies-freak-zone",
-   "t": "Kaleidoscope - Tangerine Dream",
-   "u": "https://www.bbc.co.uk/sounds/play/m0034c9y"
   },
   {
    "d": "2026-11-22T20:00:00Z",
@@ -130,42 +162,10 @@
    "sp": "Quivver – Alternate Futures",
    "t": "Quivver – Alternate Futures",
    "u": "https://anjunadeep.com/products/622289-alternate-futures"
-  },
-  {
-   "d": "2026-11-21T21:00:00Z",
-   "g": "Bass & DnB",
-   "s": "Kara",
-   "sid": "rinse-kara",
-   "t": "Kara, 21 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/kara-21-11-2026-2100"
-  },
-  {
-   "d": "2026-11-21T18:00:00Z",
-   "g": "BBC",
-   "s": "Gilles Peterson on 6 Music",
-   "sid": "bbc-gilles-peterson",
-   "t": "Thakzin in conversation and a tribute to Juan Atkins",
-   "u": "https://www.bbc.co.uk/sounds/play/m0034cn8"
-  },
-  {
-   "d": "2026-11-21T15:00:00Z",
-   "g": "BBC",
-   "s": "Jamz Supernova",
-   "sid": "bbc-jamz-supernova",
-   "t": "with Joe Cotch on Weird Baile",
-   "u": "https://www.bbc.co.uk/sounds/play/m0034cn6"
-  },
-  {
-   "d": "2026-11-21T14:00:00Z",
-   "g": "triple j",
-   "s": "Mix Up with Kailyn Crabbe",
-   "sid": "triplej-mix-up",
-   "t": "Mix Up: Andre Zimmer",
-   "u": "https://www.abc.net.au/triplej/programs/mix-up/andrezimmer-djset-2026/107394032"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 71,
+ "newCount": 79,
  "paused": 24,
  "releases": [
   {
@@ -262,5 +262,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-23T01:20:43Z"
+ "updated": "2026-11-23T21:30:07Z"
 }

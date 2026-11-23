@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-23T17:02:43Z",
+   "desc": "Where the actual best is Music, Fashion, Film, I should say. By art critic Clive Le Bouche",
+   "duration": null,
+   "id": "https:--loudandquiet.substack.com-p-how-do-the-best-album-cover-grammy",
+   "image": "https://substackcdn.com/image/fetch/$s_!pB8O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c40e35-3c35-4efb-a10a-bdbe9a3e96c8_800x800.jpeg",
+   "title": "How do the Best Album Cover Grammy nominees stack up against the year’s actual best cover?",
+   "url": "https://loudandquiet.substack.com/p/how-do-the-best-album-cover-grammy"
+  },
+  {
+   "audio": null,
    "date": "2026-11-20T08:02:40Z",
    "desc": "Never second guess Slauson Malone 1, @ live in London, Ryley Walker’s Starting XI, Atlas Sound’s surprise album, Dre lives in GTA VI now",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!3Y4P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F219deccc-38b5-416a-9e48-50254b97d6e0_1400x1400.png",
    "title": "Roundtable podcast: 300skullsandcounting and the revival of MySpace screamo",
    "url": "https://loudandquiet.substack.com/p/roundtable-podcast-300skullsandcounting"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-06T16:01:53Z",
-   "desc": "Cal Cashin rounds up September’s best in avant-garde music from around the world",
-   "duration": null,
-   "id": "https:--loudandquiet.substack.com-p-the-drift-the-months-best-in-weird-58f",
-   "image": "https://substackcdn.com/image/fetch/$s_!gsL9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe54aca92-071e-45d6-a81d-b8153e2bc77d_800x533.jpeg",
-   "title": "The Drift: the month’s best in weird and experimental music",
-   "url": "https://loudandquiet.substack.com/p/the-drift-the-months-best-in-weird-58f"
   }
  ],
  "kind": "rss",
  "name": "Loud And Quiet",
- "updatedAt": "2026-11-22T08:38:12Z"
+ "updatedAt": "2026-11-23T21:30:07Z"
 }

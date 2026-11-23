@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-23T09:54:04Z",
+   "desc": "The best 10 (+3) new vaporwave releases",
+   "duration": null,
+   "id": "https:--www.zensounds.de-p-weather-report-november-2026",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/85bcb060-9a96-4b70-85c7-678b7b036d3e_1206x792.png",
+   "title": "Weather Report (November 2026)",
+   "url": "https://www.zensounds.de/p/weather-report-november-2026"
+  },
+  {
+   "audio": null,
    "date": "2026-11-19T11:23:13Z",
    "desc": "Pete Curry on nostalgiacore and the endless erasure of the present",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!KSIf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe50e44eb-9df7-452e-ae1e-3171f5c5aeeb_2048x1365.jpeg",
    "title": "Vapor Talks #43: Vapor Memory",
    "url": "https://www.zensounds.de/p/vapor-talks-43-vapor-memory"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-20T08:02:21Z",
-   "desc": "Cynthia Bernard about her new album and ambient music as a spiritual, therapeutic, communal practice",
-   "duration": null,
-   "id": "https:--www.zensounds.de-p-marine-eyes-hidden-hour",
-   "image": "https://substackcdn.com/image/fetch/$s_!Tw6Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eee48f7-8611-4b2a-8476-0f2453092d24_3668x2684.jpeg",
-   "title": "marine eyes: hidden hour",
-   "url": "https://www.zensounds.de/p/marine-eyes-hidden-hour"
   }
  ],
  "kind": "rss",
  "name": "zensounds (Stephan Kunze)",
- "updatedAt": "2026-11-19T13:08:09Z"
+ "updatedAt": "2026-11-23T21:30:07Z"
 }

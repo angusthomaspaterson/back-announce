@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-23T10:01:59Z",
+   "desc": "“We’re doing this award-giving despite being opposed to the idea of awards...”",
+   "duration": null,
+   "id": "https:--thenewcue.substack.com-p-the-new-cue-645-november-23-albums",
+   "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
+   "title": "The New Cue #645 November 23: Albums of The Year, voting link, awards party + The Coral",
+   "url": "https://thenewcue.substack.com/p/the-new-cue-645-november-23-albums"
+  },
+  {
+   "audio": null,
    "date": "2026-11-20T10:01:13Z",
    "desc": "“We’re like Andy Dufresne here”",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!fShz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e00d0-6120-44f1-9b74-f80475c40b40_800x800.png",
    "title": "The New Cue #626 September 18: Mary Wallopers, Beck, C.O.F.F.I.N., Kevin Morby, Dub Syndicate, Dragonflies, Lottie Brazier, Shadowman",
    "url": "https://thenewcue.substack.com/p/the-new-cue-626-september-18-mary"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-14T09:01:21Z",
-   "desc": "“I am absolutely fine with sand”",
-   "duration": null,
-   "id": "https:--thenewcue.substack.com-p-the-new-cue-625-september-14-beth",
-   "image": "https://substackcdn.com/image/fetch/$s_!SrRm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab8aba56-bbb7-45ef-af69-b8a61cd80ed1_1200x1600.jpeg",
-   "title": "The New Cue #625 September 14: Beth Orton",
-   "url": "https://thenewcue.substack.com/p/the-new-cue-625-september-14-beth"
   }
  ],
  "kind": "rss",
  "name": "The New Cue",
- "updatedAt": "2026-11-22T08:38:12Z"
+ "updatedAt": "2026-11-23T21:30:07Z"
 }
