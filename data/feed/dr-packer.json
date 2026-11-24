@@ -5,6 +5,16 @@
  "id": "dr-packer",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2443673520-dr-packer-street-sounds-radio-show-66-dr.mp3",
+   "date": "2026-11-24T01:35:56Z",
+   "desc": "Street Sounds Radio Show #66 - Dr Packer Show [23-11-2026]",
+   "duration": "02:00:00",
+   "id": "tag:soundcloud-2010:tracks-2443673520",
+   "image": "https://i1.sndcdn.com/artworks-H3LFbM2GNf8rx6fU-MlrfzQ-t3000x3000.jpg",
+   "title": "Street Sounds Radio Show #66 - Dr Packer Show [23-11-2026]",
+   "url": "https://soundcloud.com/dr-packer/street-sounds-radio-show-66-dr"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2426626149-dr-packer-street-sounds-radio-show-65-dr.mp3",
    "date": "2026-10-27T01:59:11Z",
    "desc": "Street Sounds Radio Show #65 - Dr Packer Show [26-10-2026]",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-l3FUyWyUWsxPTviz-rDrjsw-t3000x3000.png",
    "title": "Let's Lovedance Tonight [Dr Packer Rework]",
    "url": "https://soundcloud.com/dr-packer/lets-lovedance-tonight-dr-packer-rework"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2120776206-dr-packer-dr-packer-yogi-heavy-vibes-128kbps-preview.mp3",
-   "date": "2025-06-27T20:13:26Z",
-   "desc": "Available Now https://www.traxsource.com/track/13659086/heavy-vibes-extended-mix",
-   "duration": "00:03:20",
-   "id": "tag:soundcloud-2010:tracks-2120776206",
-   "image": "https://i1.sndcdn.com/artworks-1fIWQeniORyY8eUy-pLFW0g-t3000x3000.jpg",
-   "title": "Dr Packer & Yogi - Heavy Vibes [128kbps Preview]",
-   "url": "https://soundcloud.com/dr-packer/dr-packer-yogi-heavy-vibes-128kbps-preview"
   }
  ],
  "kind": "rss",
  "name": "Dr Packer: Street Sounds Radio",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-11-24T04:18:31Z"
 }

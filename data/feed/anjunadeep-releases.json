@@ -3,6 +3,16 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-11-24T00:00:00Z",
+   "desc": "EP on Anjunadeep, out 24 Nov 2026.",
+   "id": "636874-vihana-ep",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/636874.jpg",
+   "out": "2026-11-24T00:00:00Z",
+   "tags": "EP · Anjunadeep",
+   "title": "Anyasa – Vihana EP",
+   "url": "https://anjunadeep.com/products/636874-vihana-ep"
+  },
+  {
    "date": "2026-11-22T09:39:04Z",
    "desc": "Album on Anjunachill, out 3 Dec 2026.",
    "id": "617925-above-beyond-pres-anjunachilled-01",
@@ -44,16 +54,6 @@
   },
   {
    "date": "2026-11-19T00:00:00Z",
-   "desc": "Single on Anjunachill, out 19 Nov 2026.",
-   "id": "636368-club-blood-fever",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/636368.jpg",
-   "out": "2026-11-19T00:00:00Z",
-   "tags": "Single · Anjunachill",
-   "title": "josh & sam who are twins – (club) blood / fever",
-   "url": "https://anjunadeep.com/products/636368-club-blood-fever"
-  },
-  {
-   "date": "2026-11-19T00:00:00Z",
    "desc": "Album on Anjunadeep, out 19 Nov 2026.",
    "id": "642443-anjuna-archive-yotto",
    "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/642443.jpg",
@@ -61,6 +61,16 @@
    "tags": "Album · Anjunadeep",
    "title": "YOTTO – Anjuna Archive: YOTTO",
    "url": "https://anjunadeep.com/products/642443-anjuna-archive-yotto"
+  },
+  {
+   "date": "2026-11-19T00:00:00Z",
+   "desc": "Single on Anjunachill, out 19 Nov 2026.",
+   "id": "636368-club-blood-fever",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/636368.jpg",
+   "out": "2026-11-19T00:00:00Z",
+   "tags": "Single · Anjunachill",
+   "title": "josh & sam who are twins – (club) blood / fever",
+   "url": "https://anjunadeep.com/products/636368-club-blood-fever"
   },
   {
    "date": "2026-11-18T00:00:00Z",
@@ -141,16 +151,6 @@
    "tags": "Single · Anjunadeep",
    "title": "Dusky – Elm (Lost A Shoe in 92 Mix)",
    "url": "https://anjunadeep.com/products/626655-elm-lost-a-shoe-in-92-mix"
-  },
-  {
-   "date": "2026-11-05T00:24:22Z",
-   "desc": "EP on Anjunadeep, out 24 Nov 2026.",
-   "id": "636874-vihana-ep",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/636874.jpg",
-   "out": "2026-11-24T00:00:00Z",
-   "tags": "EP · Anjunadeep",
-   "title": "Anyasa – Vihana EP",
-   "url": "https://anjunadeep.com/products/636874-vihana-ep"
   },
   {
    "date": "2026-11-04T00:00:00Z",
@@ -255,5 +255,5 @@
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-23T21:30:28Z"
+ "updatedAt": "2026-11-24T04:18:31Z"
 }

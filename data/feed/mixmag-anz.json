@@ -6,6 +6,36 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-24T02:48:23Z",
+   "desc": "As Naarm/Melbourne's listener-funded station turns 50, six of its presenters tell us what it means to them, what community radio is for, and why it's worth backing for another 50. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-50-years-of-triple-r-in-the-words-of-its-presenters",
+   "image": null,
+   "title": "50 years of Triple R, in the words of its presenters",
+   "url": "https://mixmag.net.au/feature/50-years-of-triple-r-in-the-words-of-its-presenters"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-24T02:32:34Z",
+   "desc": "A new four-day arts and music festival opens across Penrith and the Blue Mountains this Thursday. These are the queer parties, installations and long lunches to plan around. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-seven-queer-highlights-from-superpositions-first-edition",
+   "image": null,
+   "title": "Seven queer highlights from Superposition's first edition",
+   "url": "https://mixmag.net.au/feature/seven-queer-highlights-from-superpositions-first-edition"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-23T23:14:18Z",
+   "desc": "Aline Brooklyn, Krol, PAWSA, Prospa, Rossi., Seth Troxler and DJ JNETT play the Ibiza party's third Naarm summer in a row on Saturday, January 23. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-circoloco-returns-to-naarms-sidney-myer-music-bowl-in-2027-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Circoloco-Cover-Announce.png",
+   "title": "Circoloco returns to Naarm's Sidney Myer Music Bowl in 2027",
+   "url": "https://mixmag.net.au/read/circoloco-returns-to-naarms-sidney-myer-music-bowl-in-2027-news"
+  },
+  {
+   "audio": null,
    "date": "2026-11-23T02:23:00Z",
    "desc": "Alesso, deadmau5, Sub Focus and Subtronics lead the first nine acts for the festival's second year on the waterfront. Continue reading...",
    "duration": null,
@@ -223,39 +253,9 @@
    "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Pitch-10-year-Cover.png",
    "title": "Pitch Music & Arts reveals 2027 lineup for its tenth edition",
    "url": "https://mixmag.net.au/read/pitch-music-arts-reveals-2027-lineup-for-its-tenth-edition-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-19T04:04:00Z",
-   "desc": "The renowned musician and video artist is alleged to have been attacked outside of his studio on Gadigal Land/Sydney last week. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-stephen-raoul-jones-former-member-of-severed-heads-has-died-aged-75-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/RIP-Stephen-Raoul-Jones-Cover.png",
-   "title": "Stephen Raoul Jones, former member of Severed Heads, has died aged 75",
-   "url": "https://mixmag.net.au/read/stephen-raoul-jones-former-member-of-severed-heads-has-died-aged-75-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-16T01:27:39Z",
-   "desc": "The independent Tallarook-based camping festival returns to Taungurung Country over Easter 2027, pairing an international crate-digger bill with a deep run of local live acts. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-sonder-returns-for-easter-2027-with-egyptian-lover-and-bradley-zero-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Sonder-2027-Cover.png",
-   "title": "Sonder returns for Easter 2027 with Egyptian Lover and Bradley Zero",
-   "url": "https://mixmag.net.au/read/sonder-returns-for-easter-2027-with-egyptian-lover-and-bradley-zero-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-14T04:23:46Z",
-   "desc": "Ahead of their SURPLUS takeover, Western Sydney collective Beat Kitchen Records talk us through the bill, the Marrickville house parties that started it all, and why Sydney's multicultural sound deserves the same respect as London or New York. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-how-long-is-western-sydney-going-to-be-up-and-coming-for-bkr-on-curating-surplus",
-   "image": null,
-   "title": "\"How long is Western Sydney going to be up-and-coming for?\" BKR on curating SURPLUS",
-   "url": "https://mixmag.net.au/feature/how-long-is-western-sydney-going-to-be-up-and-coming-for-bkr-on-curating-surplus"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-23T21:30:28Z"
+ "updatedAt": "2026-11-24T04:18:31Z"
 }

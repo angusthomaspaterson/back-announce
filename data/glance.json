@@ -1,6 +1,63 @@
 {
  "items": [
   {
+   "d": "2026-11-24T02:48:23Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "50 years of Triple R, in the words of its presenters",
+   "u": "https://mixmag.net.au/feature/50-years-of-triple-r-in-the-words-of-its-presenters"
+  },
+  {
+   "d": "2026-11-24T02:32:34Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Seven queer highlights from Superposition's first edition",
+   "u": "https://mixmag.net.au/feature/seven-queer-highlights-from-superpositions-first-edition"
+  },
+  {
+   "d": "2026-11-24T01:35:56Z",
+   "g": "Radio",
+   "s": "Dr Packer: Street Sounds Radio",
+   "sid": "dr-packer",
+   "t": "Street Sounds Radio Show #66 - Dr Packer Show [23-11-2026]",
+   "u": "https://soundcloud.com/dr-packer/street-sounds-radio-show-66-dr"
+  },
+  {
+   "d": "2026-11-24T00:00:00Z",
+   "g": "Progressive & Trance",
+   "s": "Anjunadeep releases",
+   "sid": "anjunadeep-releases",
+   "sp": "Anyasa – Vihana EP",
+   "t": "Anyasa – Vihana EP",
+   "u": "https://anjunadeep.com/products/636874-vihana-ep"
+  },
+  {
+   "d": "2026-11-23T23:14:18Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Circoloco returns to Naarm's Sidney Myer Music Bowl in 2027",
+   "u": "https://mixmag.net.au/read/circoloco-returns-to-naarms-sidney-myer-music-bowl-in-2027-news"
+  },
+  {
+   "d": "2026-11-23T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Classic Essential Mix",
+   "sid": "bbc-radio-1s-classic-essential-mix",
+   "t": "Eric Prydz 2013",
+   "u": "https://www.bbc.co.uk/sounds/play/m000hvyb"
+  },
+  {
+   "d": "2026-11-23T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Future Artists with Sian Eleri",
+   "sid": "bbc-radio-1s-future-artists-with-sian-eleri",
+   "t": "Live music from Mackenzy Mackay",
+   "u": "https://www.bbc.co.uk/sounds/play/m00348bq"
+  },
+  {
    "d": "2026-11-23T16:57:23Z",
    "g": "Writing",
    "s": "Inverted Audio",
@@ -103,66 +160,10 @@
    "sid": "guardian-au-music",
    "t": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
    "u": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83"
-  },
-  {
-   "d": "2026-11-23T00:00:00Z",
-   "g": "Progressive & Trance",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "Dave Seaman B2B Anthony Pappa: Live from Balance Croatia 2026",
-   "u": "https://soundcloud.com/balance-series/dave-seaman-b2b-anthony-pappa-balance-croatia-2026"
-  },
-  {
-   "d": "2026-11-23T00:00:00Z",
-   "g": "Progressive & Trance",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "Balance 005: James Holden (Disc 1)",
-   "u": "https://soundcloud.com/balance-series/balance-james-holden-disc1"
-  },
-  {
-   "d": "2026-11-22T23:47:08Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Molly Meldrum, Australian music’s biggest fan – a life in pictures",
-   "u": "https://www.theguardian.com/music/gallery/2026/nov/23/molly-meldrum-gallery-photos-life-in-pictures"
-  },
-  {
-   "d": "2026-11-22T23:00:00Z",
-   "g": "BBC",
-   "s": "BBC Introducing on Radio 1 Dance",
-   "sid": "bbc-introducing-on-radio-1-dance",
-   "t": "with Jaguar: Dark 'n Dubby",
-   "u": "https://www.bbc.co.uk/sounds/play/m0034kdn"
-  },
-  {
-   "d": "2026-11-22T23:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Chillest Show with Sian Eleri",
-   "sid": "bbc-radio-1s-chillest-show-with-sian-eleri",
-   "t": "Holly Humberstone Live Lounge Late",
-   "u": "https://www.bbc.co.uk/sounds/play/m003488s"
-  },
-  {
-   "d": "2026-11-22T22:26:59Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Ian ‘Molly’ Meldrum, chaotic but inspirational champion of Australian music – obituary",
-   "u": "https://www.theguardian.com/music/2026/nov/23/ian-molly-meldrum-champion-australian-music"
-  },
-  {
-   "d": "2026-11-22T22:00:15Z",
-   "g": "Mixes",
-   "s": "RA Podcast",
-   "sid": "ra-podcast",
-   "t": "RA.1066 Darwin",
-   "u": "https://soundcloud.com/resident-advisor/ra-1066-darwin"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 95,
+ "newCount": 102,
  "paused": 24,
  "releases": [
   {
@@ -259,5 +260,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-23T21:30:28Z"
+ "updated": "2026-11-24T04:18:31Z"
 }
