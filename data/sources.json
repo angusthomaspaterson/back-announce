@@ -200,15 +200,6 @@
   },
   {
    "added": "start",
-   "group": "Rinse FM",
-   "home": "https://www.rinse.fm/shows/papaoul",
-   "id": "rinse-papaoul",
-   "kind": "rinse",
-   "name": "Papaoul",
-   "slug": "papaoul"
-  },
-  {
-   "added": "start",
    "also": [
     "Bass & DnB"
    ],
@@ -242,19 +233,6 @@
    "kind": "mixcloud",
    "name": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
    "user": "colleencosmomurphy"
-  },
-  {
-   "added": "sweep",
-   "also": [
-    "House",
-    "Funk, Soul, Hip Hop"
-   ],
-   "group": "Radio",
-   "home": "https://www.mixcloud.com/LeFtOoO/",
-   "id": "lefto-early-bird",
-   "kind": "mixcloud",
-   "name": "Lefto Early Bird",
-   "user": "LeFtOoO"
   },
   {
    "added": "sweep",
@@ -313,15 +291,6 @@
   },
   {
    "added": "sweep",
-   "group": "Progressive & Trance",
-   "home": "https://sultanshepard.com/",
-   "id": "dialekt-radio",
-   "kind": "rss",
-   "name": "Sultan + Shepard: Dialekt Radio",
-   "url": "https://feeds.simplecast.com/3dnPjov_"
-  },
-  {
-   "added": "sweep",
    "also": [
     "Funk, Soul, Hip Hop"
    ],
@@ -367,15 +336,6 @@
   },
   {
    "added": "sweep",
-   "group": "Radio",
-   "home": "https://soundcloud.com/radiocazimi",
-   "id": "radio-cazimi",
-   "kind": "rss",
-   "name": "Radio Cazimi (Fremantle)",
-   "url": "https://feeds.soundcloud.com/users/soundcloud:users:1721373992/sounds.rss"
-  },
-  {
-   "added": "sweep",
    "also": [
     "Funk, Soul, Hip Hop"
    ],
@@ -416,24 +376,6 @@
    "match": "^(?!\\s*\\[preview\\])",
    "name": "Balance Music (Selections)",
    "url": "https://feeds.soundcloud.com/users/soundcloud:users:1353759/sounds.rss"
-  },
-  {
-   "added": "sweep",
-   "group": "Progressive & Trance",
-   "home": "https://soundcloud.com/sudbeat",
-   "id": "sudbeat",
-   "kind": "rss",
-   "name": "Sudbeat Music (Mixologic)",
-   "url": "https://feeds.soundcloud.com/users/soundcloud:users:276344/sounds.rss"
-  },
-  {
-   "added": "sweep",
-   "group": "Mixes",
-   "home": "https://soundcloud.com/buttersessions",
-   "id": "butter-sessions",
-   "kind": "rss",
-   "name": "Butter Sessions (BSRMIX)",
-   "url": "https://feeds.soundcloud.com/users/soundcloud:users:4277154/sounds.rss"
   },
   {
    "added": "sweep",
@@ -505,15 +447,6 @@
   },
   {
    "added": "sweep",
-   "group": "Mixes",
-   "home": "https://truantsblog.com/",
-   "id": "truancy-volume",
-   "kind": "rss",
-   "name": "Truancy Volume",
-   "url": "https://feeds.soundcloud.com/users/soundcloud:users:1767375/sounds.rss"
-  },
-  {
-   "added": "sweep",
    "also": [
     "Techno",
     "House"
@@ -536,24 +469,6 @@
    "kind": "mixcloud",
    "name": "Inverted Audio Mix",
    "user": "inverted_audio"
-  },
-  {
-   "added": "sweep",
-   "group": "Mixes",
-   "home": "https://www.thelotradio.com/",
-   "id": "the-lot-radio",
-   "kind": "rss",
-   "name": "The Lot Radio (selected shows)",
-   "url": "https://feeds.soundcloud.com/users/soundcloud:users:90833894/sounds.rss"
-  },
-  {
-   "added": "sweep",
-   "group": "Mixes",
-   "home": "https://refugeworldwide.com/",
-   "id": "refuge-worldwide",
-   "kind": "rss",
-   "name": "Refuge Worldwide (selected shows)",
-   "url": "https://feeds.soundcloud.com/users/soundcloud:users:520997874/sounds.rss"
   },
   {
    "added": "sweep",
@@ -687,18 +602,6 @@
   {
    "added": "sweep",
    "also": [
-    "Funk, Soul, Hip Hop"
-   ],
-   "group": "Podcasts",
-   "home": "https://www.iheart.com/podcast/",
-   "id": "questlove-show",
-   "kind": "rss",
-   "name": "The Questlove Show",
-   "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ee132490-ba24-4965-b558-ae32006cd4c0/podcast.rss"
-  },
-  {
-   "added": "sweep",
-   "also": [
     "Rock, Metal, Indie"
    ],
    "group": "Podcasts",
@@ -716,15 +619,6 @@
    "kind": "rss",
    "name": "Futurism Restated (Philip Sherburne)",
    "url": "https://futurismrestated.substack.com/feed"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
-   "home": "https://www.hearingthings.co/",
-   "id": "hearing-things",
-   "kind": "rss",
-   "name": "Hearing Things (reviews)",
-   "url": "https://www.hearingthings.co/reviews/rss/"
   },
   {
    "added": "sweep",
@@ -756,45 +650,6 @@
   {
    "added": "sweep",
    "group": "Writing",
-   "home": "https://dadastrain.substack.com/",
-   "id": "dada-strain",
-   "kind": "rss",
-   "name": "Dada Strain (Piotr Orlov)",
-   "url": "https://dadastrain.substack.com/feed"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
-   "home": "https://last-donut-of-the-night.ghost.io/",
-   "id": "last-donut",
-   "kind": "rss",
-   "name": "Last Donut of the Night (Larry Fitzmaurice)",
-   "url": "https://last-donut-of-the-night.ghost.io/rss/"
-  },
-  {
-   "added": "sweep",
-   "also": [
-    "Rock, Metal, Indie"
-   ],
-   "group": "Writing",
-   "home": "https://thenewcue.substack.com/",
-   "id": "the-new-cue",
-   "kind": "rss",
-   "name": "The New Cue",
-   "url": "https://thenewcue.substack.com/feed"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
-   "home": "https://www.powmag.net/",
-   "id": "pow-mag",
-   "kind": "rss",
-   "name": "POW Mag (Passion of the Weiss)",
-   "url": "https://www.powmag.net/feed"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
    "home": "https://www.stereogum.com/",
    "id": "stereogum-aotw",
    "kind": "rss",
@@ -809,54 +664,6 @@
    "kind": "rss",
    "name": "Pitchfork: Best New Albums",
    "url": "https://pitchfork.com/feed/reviews/best/albums/rss"
-  },
-  {
-   "added": "sweep",
-   "also": [
-    "Rock, Metal, Indie"
-   ],
-   "group": "Writing",
-   "home": "https://loudandquiet.substack.com/",
-   "id": "loud-and-quiet",
-   "kind": "rss",
-   "name": "Loud And Quiet",
-   "url": "https://loudandquiet.substack.com/feed"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
-   "home": "https://www.thewire.co.uk/",
-   "id": "the-wire",
-   "kind": "rss",
-   "name": "The Wire",
-   "url": "https://www.thewire.co.uk/home/rss"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
-   "home": "https://thegig.substack.com/",
-   "id": "the-gig",
-   "kind": "rss",
-   "name": "The Gig (Nate Chinen)",
-   "url": "https://thegig.substack.com/feed"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
-   "home": "https://www.theransomnote.com/",
-   "id": "ransom-note",
-   "kind": "rss",
-   "name": "Ransom Note",
-   "url": "https://www.theransomnote.com/feed/"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
-   "home": "https://insheepsclothinghifi.com/",
-   "id": "in-sheeps-clothing",
-   "kind": "rss",
-   "name": "In Sheep's Clothing Hi-Fi",
-   "url": "https://insheepsclothinghifi.com/feed/"
   },
   {
    "added": "sweep",
@@ -1198,15 +1005,6 @@
   {
    "added": "sweep",
    "group": "Rinse FM",
-   "home": "https://www.rinse.fm/shows/esk",
-   "id": "rinse-esk",
-   "kind": "rinse",
-   "name": "Esk",
-   "slug": "esk"
-  },
-  {
-   "added": "sweep",
-   "group": "Rinse FM",
    "home": "https://www.rinse.fm/shows/hi-fidelity",
    "id": "rinse-hi-fidelity",
    "kind": "rinse",
@@ -1464,15 +1262,6 @@
   },
   {
    "added": "oct11",
-   "group": "Bass & DnB",
-   "home": "https://fbiradio.com/programs/sunset-with-dot-zip",
-   "id": "fbi-sunset",
-   "kind": "rss",
-   "name": "FBi Sunset (club and bass)",
-   "url": "https://omny.fm/shows/sunset-saturday/playlists/podcast.rss"
-  },
-  {
-   "added": "oct11",
    "group": "Progressive & Trance",
    "home": "https://app.syndicast.co.uk/site/show/selador-sessions",
    "id": "selador-sessions",
@@ -1506,15 +1295,6 @@
    "kind": "rss",
    "name": "Gai Barone: Patterns",
    "url": "https://feeds.soundcloud.com/users/soundcloud:users:241200/sounds.rss"
-  },
-  {
-   "added": "oct11",
-   "group": "Progressive & Trance",
-   "home": "http://www.coldwiredmusic.com",
-   "id": "coldwired",
-   "kind": "rss",
-   "name": "Coldwired Podcast (Nick Clark)",
-   "url": "http://www.coldwiredmusic.com/coldwiredmusic/podcast.xml"
   },
   {
    "added": "oct11",

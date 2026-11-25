@@ -170,8 +170,8 @@
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 127,
- "paused": 24,
+ "newCount": 128,
+ "paused": 0,
  "releases": [
   {
    "k": "Album · Anjunadeep Explorations",
@@ -260,6 +260,6 @@
    "u": "http://www.bbc.co.uk/programmes/p0plg0wx"
   }
  ],
- "sources": 211,
+ "sources": 188,
  "updated": "2026-11-25T03:03:39Z"
 }
