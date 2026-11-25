@@ -144,6 +144,15 @@
    "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-dj-cherrelle-on-the-sincere-sounds-of-sincere-engineer"
   },
   {
+   "d": "2026-11-24T05:51:18Z",
+   "g": "Progressive & Trance",
+   "s": "SkyTop Residency (Alexey Sonar)",
+   "sid": "skytop-residency",
+   "sp": "Alexey Sonar SkyTop Residency 453",
+   "t": "Alexey Sonar - SkyTop Residency 453 #453",
+   "u": "https://promodj.com/alexeysonar/radioshows/7999965/Alexey_Sonar_SkyTop_Residency_453_453"
+  },
+  {
    "d": "2026-11-24T05:50:18Z",
    "g": "Radio",
    "s": "RTRFM / RTR2 mixes",
@@ -158,18 +167,10 @@
    "sid": "mixmag-anz",
    "t": "50 years of Triple R, in the words of its presenters",
    "u": "https://mixmag.net.au/feature/50-years-of-triple-r-in-the-words-of-its-presenters"
-  },
-  {
-   "d": "2026-11-24T02:32:34Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "Seven queer highlights from Superposition's first edition",
-   "u": "https://mixmag.net.au/feature/seven-queer-highlights-from-superpositions-first-edition"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 126,
+ "newCount": 127,
  "paused": 24,
  "releases": [
   {
@@ -260,5 +261,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-25T01:53:13Z"
+ "updated": "2026-11-25T03:03:39Z"
 }
