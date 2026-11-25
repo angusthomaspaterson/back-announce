@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-24T19:34:53Z",
+   "desc": "POW’s resident archivist goes deep in the vault.",
+   "duration": null,
+   "id": "https:--www.powmag.net-p-unreleased-dangelo-songs",
+   "image": "https://substackcdn.com/image/fetch/$s_!EanF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f0e707f-7410-4eb2-8b8e-d8e10622bd34_1200x1200.png",
+   "title": "Seven Essential Unreleased D’Angelo Songs",
+   "url": "https://www.powmag.net/p/unreleased-dangelo-songs"
+  },
+  {
+   "audio": null,
    "date": "2026-11-23T17:22:13Z",
    "desc": "Jeff Weiss speaks to the Detroit rapper and several of his collaborators about the landmark album, released ten years ago this fall.",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/OZA5stRFBGw",
    "title": "Funny How? Like a Clown? I Amuse You?",
    "url": "https://www.powmag.net/p/funny-how-like-a-clown-i-amuse-you"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-30T19:01:46Z",
-   "desc": "The Cuban trumpet legend Arturo Sandoval speaks about his new album, being mentored by Dizzy Gillespie, and jazz saving his life.",
-   "duration": null,
-   "id": "https:--www.powmag.net-p-the-jazz-defector",
-   "image": "https://substackcdn.com/image/fetch/$s_!Ep6C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ced51af-ac7b-439c-bd21-e4f6d25ecbf5_1200x1200.png",
-   "title": "The Jazz Defector",
-   "url": "https://www.powmag.net/p/the-jazz-defector"
   }
  ],
  "kind": "rss",
  "name": "POW Mag (Passion of the Weiss)",
- "updatedAt": "2026-11-23T21:30:28Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

@@ -5,6 +5,16 @@
  "id": "rinse-klute",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/kool/Klute231126.mp3",
+   "date": "2026-11-23T23:00:00Z",
+   "desc": "",
+   "duration": "7200",
+   "id": "klute-23-11-2026-2300",
+   "image": "https://image.rinse.fm/_/IMG_0005-Tom-Klute.jpg?w=1200&h=630",
+   "title": "Klute, 23 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/klute-23-11-2026-2300"
+  },
+  {
    "audio": "https://replay.rinse.fm/kool/Klute261026.mp3",
    "date": "2026-10-26T23:00:00Z",
    "desc": "",
@@ -235,16 +245,6 @@
    "url": "https://www.rinse.fm/episodes/klute-04-04-2024-2300"
   },
   {
-   "audio": "https://replay.rinse.fm/kool/Klute070324.mp3",
-   "date": "2024-03-07T23:00:00Z",
-   "desc": "",
-   "duration": "7200",
-   "id": "klute-07-03-2024-2300",
-   "image": "https://image.rinse.fm/_/IMG_0005-Tom-Klute.jpg?w=1200&h=630",
-   "title": "Klute, 7 Mar 2024",
-   "url": "https://www.rinse.fm/episodes/klute-07-03-2024-2300"
-  },
-  {
    "audio": "https://replay.rinse.fm/kool/Klute060225.mp3",
    "date": null,
    "desc": "",
@@ -257,5 +257,5 @@
  ],
  "kind": "rinse",
  "name": "Klute",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

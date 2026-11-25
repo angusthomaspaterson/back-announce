@@ -6,6 +6,26 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-24T23:24:00Z",
+   "desc": "The Klymax Discotheque resident and the TSBU label head talk brand work, DIY values and what real investment in a scene looks like after playing BWS’ Cool Room in Naarm/Melbourne. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-dita-and-hannah-d-on-keeping-community-at-the-heart-of-brand-partnerships",
+   "image": null,
+   "title": "Dita and Hannah D on keeping community at the heart of brand partnerships",
+   "url": "https://mixmag.net.au/feature/dita-and-hannah-d-on-keeping-community-at-the-heart-of-brand-partnerships"
+  },
+  {
+   "audio": null,
+   "date": "2026-11-24T22:00:00Z",
+   "desc": "All 12 tracks from the ARIA-winning debut have been reworked, with contributions from Mallrat, Nina Las Vegas, Frost Children, underscores, and more. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-read-ninajirachi-releases-20-track-i-love-my-computer-remix-album-news",
+   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Ninajirachi-Remix-Album-Cover-New.png",
+   "title": "Ninajirachi releases 20-track 'I Love My Computer' remix album",
+   "url": "https://mixmag.net.au/read/ninajirachi-releases-20-track-i-love-my-computer-remix-album-news"
+  },
+  {
+   "audio": null,
    "date": "2026-11-24T02:48:23Z",
    "desc": "As Naarm/Melbourne's listener-funded station turns 50, six of its presenters tell us what it means to them, what community radio is for, and why it's worth backing for another 50. Continue reading...",
    "duration": null,
@@ -233,29 +253,9 @@
    "image": null,
    "title": "Ten years of Finding Figaro",
    "url": "https://mixmag.net.au/feature/ten-years-of-finding-figaro"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-20T01:46:00Z",
-   "desc": "Golden Plains has announced its 19th edition lineup, headlined by Geese and Underworld, and a swathe of local talent. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-golden-plains-announces-its-2027-lineup-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/GP2027_photo-credit-Chip-Mooney_2.jpg",
-   "title": "Golden Plains announces its 2027 lineup",
-   "url": "https://mixmag.net.au/read/golden-plains-announces-its-2027-lineup-news"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-20T01:20:46Z",
-   "desc": "Chris Stassy, Chlär and Peach lead the international bill for the anniversary edition at Moyston. HAAi, X CLUB. and a large Australian roster join them. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-read-pitch-music-arts-reveals-2027-lineup-for-its-tenth-edition-news",
-   "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Pitch-10-year-Cover.png",
-   "title": "Pitch Music & Arts reveals 2027 lineup for its tenth edition",
-   "url": "https://mixmag.net.au/read/pitch-music-arts-reveals-2027-lineup-for-its-tenth-edition-news"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-24T04:18:31Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

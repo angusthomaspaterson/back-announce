@@ -5,6 +5,16 @@
  "id": "nts-hd",
  "items": [
   {
+   "date": "2026-11-23T19:00:00Z",
+   "desc": "HD features a vast variety of guests spanning across hip hop, RnB and electronic music to talk about music, culture and life aswell as share their favorite selections of any genre. From the host: \"For this episode of 1080P, we dive into the mix with host HD with a blend of dreamy rap, experimental R&B, and genre busting edits.\"",
+   "id": "hd-23rd-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/326ea0f5-88df-495e-8758-eabdeea19e94_1795305600.jpeg",
+   "location": "New York",
+   "tags": "Club, Rap, RNB",
+   "title": "1080P w/ HD",
+   "url": "https://www.nts.live/shows/hd/episodes/hd-23rd-november-2026"
+  },
+  {
    "date": "2026-10-26T19:00:00Z",
    "desc": "HD features a vast variety of guests spanning across hip hop, RnB and electronic music to talk about music, culture and life aswell as share their favorite selections of any genre. From the host: \"This episode of 1080P features rapper KY ANI who is fiercely keeping the east coast hip hop tradition alive. Join us for a conversation and listen through KY ANI's discography, as well as a SNEAK PEAK of a new track coming 2027 :) \"",
    "id": "hd-26th-october-2026",
@@ -113,19 +123,9 @@
    "tags": "Leftfield Pop, Interview",
    "title": "1080P w/ HD & HANNAH JADAGU",
    "url": "https://www.nts.live/shows/hd/episodes/hd-1st-november-2025"
-  },
-  {
-   "date": "2025-09-29T18:00:00Z",
-   "desc": "Guest DJ mix from Chicago hero & super producer Constantine.",
-   "id": "hd-29th-september-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/78c75530-af6f-49fc-aaeb-e365d6d70d8a_1759190400.jpeg",
-   "location": "New York",
-   "tags": "Footwork, Ghetto House",
-   "title": "1080P w/ HD: CONSTANTINE",
-   "url": "https://www.nts.live/shows/hd/episodes/hd-29th-september-2025"
   }
  ],
  "kind": "nts",
  "name": "1080P w/ HD",
- "updatedAt": "2026-10-27T22:59:09Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

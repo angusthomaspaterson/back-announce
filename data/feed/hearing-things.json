@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-24T17:36:45Z",
+   "desc": "Plus a genre polymath's ambient piano album",
+   "duration": null,
+   "id": "6b04a14d4f342200017bd52f",
+   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/11/Copy-of-Album-Covers-4_3--7-.png",
+   "title": "Grand Theft Auto VI's Soundtrack Is as Wild as the Actual Game",
+   "url": "https://www.hearingthings.co/grand-theft-auto-vis-soundtrack-is-as-wild-as-the-actual-game/"
+  },
+  {
+   "audio": null,
    "date": "2026-11-17T16:19:25Z",
    "desc": "Plus ’80s R&B redefined for the modern era.",
    "duration": null,
@@ -143,19 +153,9 @@
    "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Album-Covers-43--12-.png",
    "title": "An ICE Agent’s Least Favorite Rap Duo",
    "url": "https://www.hearingthings.co/an-ice-agents-least-favorite-rap-duo/"
-  },
-  {
-   "audio": null,
-   "date": "2026-09-10T15:41:54Z",
-   "desc": "Plus: Are those samples having sex?",
-   "duration": null,
-   "id": "6aa2c032867d3c0001298a95",
-   "image": "https://storage.ghost.io/c/72/f7/72f77b03-9993-4be5-b648-4115e28d0ad0/content/images/2026/09/Copy-of-Five-Songs-Template-11--20-.png",
-   "title": "Drake Musical Theater, But Somehow Good",
-   "url": "https://www.hearingthings.co/drake-musical-theater-but-somehow-good/"
   }
  ],
  "kind": "rss",
  "name": "Hearing Things (reviews)",
- "updatedAt": "2026-11-18T01:37:58Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

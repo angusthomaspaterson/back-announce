@@ -5,6 +5,16 @@
  "id": "dekmantel-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2443887399-dkmntl-dekmantel-mix-521-ma-sha.mp3",
+   "date": "2026-11-24T13:04:09Z",
+   "desc": "Ma Sha has long been making an impact beyond the club walls as a key architect of New York's bass revival. A product of true DIY culture, she operates somewhere between twisted techno, mutant bass and full-blown rhythmic mischief and heads up her own label and party, Kindergarten Records. That's where you will find her championing the weird, the wired and the hard-to-pin-down, while her own productions are a different kind of trouble: metallic percussion, warped rhythms and low-end that hit hard. It should come as no surprise that Ma Sha's mix for us doesn't fit in any neat genre boxes. Inste…",
+   "duration": "01:00:27",
+   "id": "tag:soundcloud-2010:tracks-2443887399",
+   "image": "https://i1.sndcdn.com/artworks-pRqc3R3tY4IzC9SP-o1TrsA-t3000x3000.jpg",
+   "title": "Dekmantel Mix 521 - Ma Sha",
+   "url": "https://soundcloud.com/dkmntl/dekmantel-mix-521-ma-sha"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2432024388-dkmntl-dekmantel-mix-520-gop-tun-djs.mp3",
    "date": "2026-11-09T10:14:39Z",
    "desc": "Gop Tun DJs are four friends with one obsession: creating the perfect dancefloor with lost gems and improbable classics. Caio T, Gui Scott, Nascii and Tyv started out in São Paulo in 2012 and have since built a party, a label and a festival that's become a vital movement. They’ve brought their famous free spirit to Dekmantel before with magically sunny sets, and will return to Selectors to host another boat party in 2027. Warm, psychedelic and dug out from the deepest of crates, they have house and disco at their core, but spring plenty of surprises along the way. The group pull out all the s…",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-3e8ZoVzuZqPD4mIW-buIeXg-t3000x3000.png",
    "title": "Shanti Celeste at Selectors - Dekmantel Festival 2025",
    "url": "https://soundcloud.com/dkmntl/shanti-celeste-at-selectors-dekmantel-festival-2025"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2227781780-dkmntl-javybz-at-greenhouse-dekmantel-festival-2025.mp3",
-   "date": "2025-12-23T13:00:23Z",
-   "desc": "Javybz at Greenhouse - Dekmantel Festival 2025 by dekmantel",
-   "duration": "02:22:22",
-   "id": "tag:soundcloud-2010:tracks-2227781780",
-   "image": "https://i1.sndcdn.com/artworks-z3ck2TaNblIJPx1b-WEAuzg-t3000x3000.png",
-   "title": "Javybz at Greenhouse - Dekmantel Festival 2025",
-   "url": "https://soundcloud.com/dkmntl/javybz-at-greenhouse-dekmantel-festival-2025"
   }
  ],
  "kind": "rss",
  "name": "Dekmantel Podcast",
- "updatedAt": "2026-11-10T02:10:50Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

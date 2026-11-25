@@ -5,6 +5,16 @@
  "id": "dissect",
  "items": [
   {
+   "audio": "https://traffic.megaphone.fm/GLT6976557503.mp3",
+   "date": "2026-11-24T10:30:00Z",
+   "desc": "Continuing our celebration of Dissect’s 10th anniversary with Part 2 of our 10 greatest musical discoveries - from Frank Ocean to Beyoncé. Grand Theft Auto VI from Rockstar Games. The biggest, most immersive evolution of the series yet. Out Now on PlayStation 5 and Xbox Series X or S. Host: Cole Cuchna Editor: Kevin Pooler Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "duration": "2277",
+   "id": "6768810c-e6c3-11f1-863d-cf81a2b2d262",
+   "image": "https://megaphone-images.spotifycdn.com/podcasts/6768810c-e6c3-11f1-863d-cf81a2b2d262/image/dab396a6647755a402b5b3ea32d3f199.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "10 for 10: The Greatest Musical Discoveries in Dissect History (PART 2)",
+   "url": "https://traffic.megaphone.fm/GLT6976557503.mp3"
+  },
+  {
    "audio": "https://traffic.megaphone.fm/GLT7879381683.mp3",
    "date": "2026-11-17T10:30:00Z",
    "desc": "Celebrating Dissect's 10 year history by revisiting 10 brilliant musical moments revealed on the show - from Kendrick Lamar to Radiohead. Host: Cole Cuchna Editor: Kevin Pooler Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -243,19 +253,9 @@
    "image": "https://megaphone-images.spotifycdn.com/podcasts/f9353aa0-4d88-11f1-9c9c-dfe91617912a/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "What is Daft Punk's Best Song Ever? [Season Intermission]",
    "url": "https://traffic.megaphone.fm/GLT6951482103.mp3?updated=1778621544"
-  },
-  {
-   "audio": "https://traffic.megaphone.fm/GLT8096193407.mp3?updated=1777928317",
-   "date": "2026-05-05T10:01:00Z",
-   "desc": "Our season-long examination of Daft Punk continues with a brilliant three track run on Discovery: \"Voyager,\" \"Veridis Quo,\" and the sampling masterpiece \"Face To Face.\" Connecting Changes Everything.⁠ https://www.att.com/connecttochange/⁠ Visit us in stores and online ⁠https://Warbyparker.com/DISSECT⁠ Follow @dissectpodcast on⁠⁠ Instagram⁠⁠,⁠⁠ TikTok⁠⁠, and⁠⁠ Twitter⁠⁠. Host/Writer/EP: Cole Cuchna Editors: Kevin Pooler & Iulia Ciobanu Theme Music: Birocratic Additional Production: Justin Sayles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "duration": "3144",
-   "id": "7dfa92e0-431a-11f1-878d-df4c18cd216f",
-   "image": "https://megaphone-images.spotifycdn.com/podcasts/7dfa92e0-431a-11f1-878d-df4c18cd216f/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "E8 - Dissecting \"Veridis Quo\" & \"Face To Face\" by Daft Punk",
-   "url": "https://traffic.megaphone.fm/GLT8096193407.mp3?updated=1777928317"
   }
  ],
  "kind": "rss",
  "name": "Dissect",
- "updatedAt": "2026-11-23T00:19:47Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

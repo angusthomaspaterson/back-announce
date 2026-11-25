@@ -5,6 +5,16 @@
  "id": "nts-mala-junta",
  "items": [
   {
+   "date": "2026-11-23T15:00:00Z",
+   "desc": "Monthly mixes and \"Bad behaviour\" from the crew behind Berlin's acclaimed Mala Junta parties. Expect throwback trance, souped up '90s basslines and party music of a high tempo flavour.",
+   "id": "mala-junta-23rd-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/0c364227-c986-4d9c-af61-7ea68c65e1a8_1795392000.png",
+   "location": "Berlin",
+   "tags": "Techno",
+   "title": "Mala Junta w/ Tasha",
+   "url": "https://www.nts.live/shows/mala-junta/episodes/mala-junta-23rd-november-2026"
+  },
+  {
    "date": "2026-10-26T15:00:00Z",
    "desc": "Monthly mixes and \"Bad behaviour\" from the crew behind Berlin's acclaimed Mala Junta parties. Expect throwback trance, souped up '90s basslines and party music of a high tempo flavour.",
    "id": "mala-junta-26th-october-2026",
@@ -113,19 +123,9 @@
    "tags": "Techno, House",
    "title": "Mala Junta w/ LSDXOXO",
    "url": "https://www.nts.live/shows/mala-junta/episodes/mala-junta-19th-january-2026"
-  },
-  {
-   "date": "2025-12-22T15:00:00Z",
-   "desc": "Monthly mixes and \"Bad behaviour\" from the crew behind Berlin's acclaimed Mala Junta parties. Expect throwback trance, souped up '90s basslines and party music of a high tempo flavour. From the host: \"Jen Cardini delivers the celebration needed to close the year! A bassy, electro fever dream blasting with percussive sensuality\"",
-   "id": "mala-junta-22nd-december-2025",
-   "image": "https://media.ntslive.co.uk/resize/400x400/4ae6b4d2-f066-482a-adcd-f71c1bb62ffd_1766275200.png",
-   "location": "Berlin",
-   "tags": "Techno, Dubstep",
-   "title": "Mala Junta w/ Jen Cardini",
-   "url": "https://www.nts.live/shows/mala-junta/episodes/mala-junta-22nd-december-2025"
   }
  ],
  "kind": "nts",
  "name": "Mala Junta",
- "updatedAt": "2026-11-03T01:37:20Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

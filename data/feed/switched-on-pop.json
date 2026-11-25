@@ -5,6 +5,16 @@
  "id": "switched-on-pop",
  "items": [
   {
+   "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4742677291.mp3",
+   "date": "2026-11-24T12:47:00Z",
+   "desc": "When people listen to songs, why do some people pay more attention to the music, and some people pay more attention to the lyrics? The answer goes way deeper than you might think — to the heart of what it means to hear anything at all. Originally published on Unexplainable. Watch the full episode on Netflix. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "duration": "1969",
+   "id": "35912524-e7a1-11f1-a7c5-effd5d98cc5a",
+   "image": "https://megaphone-images.spotifycdn.com/podcasts/35912524-e7a1-11f1-a7c5-effd5d98cc5a/image/896f13c587663a473affdb4daf3f4374.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "title": "Are you a lyric person or a music person?",
+   "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4742677291.mp3"
+  },
+  {
    "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1593942833.mp3",
    "date": "2026-11-17T08:01:00Z",
    "desc": "Twenty years after the release of Back To Black, Amy Winehouse’s seminal record is more influential than ever. On songs like “Rehab,” “Me and Mr Jones,” and “Tears Dry On Their Own,” Winehouse crafted a tapestry of old-school pop music that’s firmly lodged in the 21st century and has made an indelible impact on several generations. On this episode of Switched On Pop, Charlie and Nate go back to Back To Black, bringing in British singer-songwriter Rachel Chinouriri to talk about everything that made Winehouse’s work stand the test of time. CREDITS  Reanna Cruz: Producer  Iris Gottlieb: Illustr…",
@@ -243,19 +253,9 @@
    "image": "https://megaphone-images.spotifycdn.com/podcasts/7f51c960-44aa-11f1-b820-278c339f86ed/image/24548839a48f238001a3dc77eaa870cb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "title": "Pop music for an internet-pilled generation",
    "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7945246406.mp3"
-  },
-  {
-   "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4765639463.mp3",
-   "date": "2026-06-16T09:04:00Z",
-   "desc": "What would it sound like if pop music was reverted to its most wild state of being? It would sound hyper-digital, influenced by the electronic vanguard of the 2010s, and speak to a post-genre audience. And while the charts have been stagnant, Gen-Z has been crafting this exact sound: one that is exciting, unpredictable, and above all else, feral. After bubbling underground for the past few years, the subgenre we’ve coined “feral pop” is finally poised to have a breakout, best exemplified by the popularity of the computer-loving Ninajirachi, pop star underscores, and rave-rapper 2hollis. This …",
-   "duration": "1938",
-   "id": "414a4906-be65-11f0-9a96-63f8ddb5efef",
-   "image": "https://megaphone-images.spotifycdn.com/podcasts/414a4906-be65-11f0-9a96-63f8ddb5efef/image/a6abc041ee28cfb47a2b78d71e918e72.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "title": "The new wave of pop is here, and it’s feral",
-   "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4765639463.mp3"
   }
  ],
  "kind": "rss",
  "name": "Switched On Pop",
- "updatedAt": "2026-11-21T23:49:41Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

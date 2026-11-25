@@ -3,6 +3,16 @@
  "id": "anjunadeep-releases",
  "items": [
   {
+   "date": "2026-11-25T00:00:00Z",
+   "desc": "Album on Anjunadeep Explorations, out 25 Nov 2026.",
+   "id": "622289-alternate-futures",
+   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/622289.jpg",
+   "out": "2026-11-25T00:00:00Z",
+   "tags": "Album · Anjunadeep Explorations",
+   "title": "Quivver – Alternate Futures",
+   "url": "https://anjunadeep.com/products/622289-alternate-futures"
+  },
+  {
    "date": "2026-11-24T00:00:00Z",
    "desc": "EP on Anjunadeep, out 24 Nov 2026.",
    "id": "636874-vihana-ep",
@@ -21,16 +31,6 @@
    "tags": "Album · Anjunachill",
    "title": "Above & Beyond pres. Anjuna:Chilled 01",
    "url": "https://anjunadeep.com/products/617925-above-beyond-pres-anjunachilled-01"
-  },
-  {
-   "date": "2026-11-21T23:49:41Z",
-   "desc": "Album on Anjunadeep Explorations, out 25 Nov 2026.",
-   "id": "622289-alternate-futures",
-   "image": "https://d1rgjmn2wmqeif.cloudfront.net/r/g/622289.jpg",
-   "out": "2026-11-25T00:00:00Z",
-   "tags": "Album · Anjunadeep Explorations",
-   "title": "Quivver – Alternate Futures",
-   "url": "https://anjunadeep.com/products/622289-alternate-futures"
   },
   {
    "date": "2026-11-20T00:00:00Z",
@@ -255,5 +255,5 @@
  ],
  "kind": "manual",
  "name": "Anjunadeep releases",
- "updatedAt": "2026-11-24T04:18:31Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }

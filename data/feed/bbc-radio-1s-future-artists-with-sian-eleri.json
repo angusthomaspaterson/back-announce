@@ -5,6 +5,16 @@
  "id": "bbc-radio-1s-future-artists-with-sian-eleri",
  "items": [
   {
+   "date": "2026-11-24T22:00:00Z",
+   "desc": "On BBC Sounds until 25 Dec. Disfreq takes over the Future Flex Mini Mix for five minutes of bangers. Plus, Sian puts you onto another rising name in Next Wave. Produced by Listen for BBC Radio 1.",
+   "duration": "7200",
+   "id": "m00348fy",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lygg0y.jpg",
+   "title": "Future Flex from Disfreq",
+   "until": "2026-12-24T22:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m00348fy"
+  },
+  {
    "date": "2026-11-23T22:00:00Z",
    "desc": "On BBC Sounds until 24 Dec. Mackenzy Mackay performs live for Future Artists, including the first-ever live performance of new single Hardway. Plus, Sian puts you onto another rising name in Next Wave. Produced by Listen for BBC Radio 1.",
    "duration": "7200",
@@ -97,5 +107,5 @@
  ],
  "kind": "bbc",
  "name": "Radio 1's Future Artists with Sian Eleri",
- "updatedAt": "2026-11-24T04:18:31Z"
+ "updatedAt": "2026-11-25T01:53:13Z"
 }
