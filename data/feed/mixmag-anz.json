@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-25T04:37:00Z",
+   "desc": "After years of overnight parties around Canberra, the collective lands on Yuin Country this weekend with three days, two stages and around 600 punters. Continue reading...",
+   "duration": null,
+   "id": "https:--mixmag.net.au-feature-sunburn-chasing-the-feeling-on-the-bhundoo",
+   "image": null,
+   "title": "Sunburn: Chasing the feeling on the Bhundoo",
+   "url": "https://mixmag.net.au/feature/sunburn-chasing-the-feeling-on-the-bhundoo"
+  },
+  {
+   "audio": null,
    "date": "2026-11-24T23:24:00Z",
    "desc": "The Klymax Discotheque resident and the TSBU label head talk brand work, DIY values and what real investment in a scene looks like after playing BWS’ Cool Room in Naarm/Melbourne. Continue reading...",
    "duration": null,
@@ -243,19 +253,9 @@
    "image": "https://mixmag.net.au/assets/uploads/images/_twoThirds/Club-77-CSS-Cover.png",
    "title": "Club 77 launches CSS, an independent booking and touring agency",
    "url": "https://mixmag.net.au/read/club-77-launches-css-an-independent-booking-and-touring-agency-"
-  },
-  {
-   "audio": null,
-   "date": "2026-10-21T05:11:00Z",
-   "desc": "For a decade, Finding Figaro has built itself around one kind of night. Here, its founders talk about the blog that started it, the grant that made it all possible and why Echo Beach still feels like their truest of homes. Continue reading...",
-   "duration": null,
-   "id": "https:--mixmag.net.au-feature-ten-years-of-finding-figaro",
-   "image": null,
-   "title": "Ten years of Finding Figaro",
-   "url": "https://mixmag.net.au/feature/ten-years-of-finding-figaro"
   }
  ],
  "kind": "rss",
  "name": "Mixmag Australia/Asia",
- "updatedAt": "2026-11-25T01:53:13Z"
+ "updatedAt": "2026-11-25T07:16:40Z"
 }

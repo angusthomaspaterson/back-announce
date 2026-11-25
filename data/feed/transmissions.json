@@ -5,6 +5,16 @@
  "id": "transmissions",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6b05f5a8adf1e02d02dba42f/media.mp3",
+   "date": "2026-11-25T07:00:00Z",
+   "desc": "Welcome back to Transmissions, your weekly interview podcast from Aquarium Drunkard with host Jason P. Woodbury. This week on the show, we’re presenting the penultimate episode of our 12th season. And we’ve saved a tremendous talk for this second to last installment: our guest is singer/songwriter Beth Orton. In the mid-’90s, she emerged as a purveyor of electronic folk, working with artists like William Orbit, The Chemical Brothers, and Four Tet. Her latest is The Ground Above . Reviewing it for Aquarium Drunkard, Kyle Lemmon described it as “a free-flowing mixture of electronic funk, spirit…",
+   "duration": "50:58",
+   "id": "6b05f5a8adf1e02d02dba42f",
+   "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/1795552184645-98c9e26a-5070-4a23-bcdc-4044255e77de.jpeg",
+   "title": "Transmissions :: Beth Orton",
+   "url": "https://aquariumdrunkard.com/2026/11/25/transmissions-beth-orton/"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/6afcd3aebc3a834741208b19/media.mp3",
    "date": "2026-11-18T07:00:00Z",
    "desc": "Today on Transmissions, a conversation with Larry Crane of Tape Op magazine. This year, Larry and Tape Op celebrated 30 years of creative advice with Making Music, a book that collects 26 of the best ever interviews from the magazine, including creators like Glyn Johns, Tony Visconti, RZA, Brian Eno, Joe Boyd, Lee “Scratch” Perry, and many more. Making Music exemplifies what we love most about Tape Op , as it features concrete and technical info right alongside creative philosophies and entertaining stories. It’s not just for recording aficionados, but it never skimps on glorious detail. Of c…",
@@ -243,19 +253,9 @@
    "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/c42a63313a3a88b73437c18aca9743fc.jpg",
    "title": "All One Song :: Matt Valentine on \"Berlin\"",
    "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab70583864264ef3eff3b2c"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/6ab7050662a47b6bec260ab5/e/ae1ba226-5ec6-11f1-b670-dbfa659bb6ae/media.mp3",
-   "date": "2026-06-03T07:00:00Z",
-   "desc": "Hello and welcome back to All One Song , a Neil Young podcast presented by Aquarium Drunkard Transmissions with your host Tyler Wilcox. We’ve covered a lot of Shakey ground so far during seasons one and two, leaping from decade to decade, from era to era, from album to album. It’s easy to do when you’re dealing with a body of work that is so vast, spanning 60 years now. But somehow, we’ve yet to talk about any songs from Zuma . Neil fanatics — like our hero — can be an ornery, contrarian bunch. It would be tough to get them to agree on anything. But I think I’m safe in saying that everyone lo…",
-   "duration": "55:16",
-   "id": "ae1ba226-5ec6-11f1-b670-dbfa659bb6ae",
-   "image": "https://assets.pippa.io/shows/6ab7050662a47b6bec260ab5/7c5da9fae8b13e05e20a7378f9508b06.jpg",
-   "title": "All One Song :: Matt Sweeney on \"Barstool Blues\"",
-   "url": "https://shows.acast.com/aquarium-drunkard-transmissions/episodes/6ab705b0079b46c819254b0a"
   }
  ],
  "kind": "rss",
  "name": "Transmissions (Aquarium Drunkard)",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-25T07:16:40Z"
 }

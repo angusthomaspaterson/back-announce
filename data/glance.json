@@ -1,6 +1,32 @@
 {
  "items": [
   {
+   "d": "2026-11-25T07:00:00Z",
+   "g": "Podcasts",
+   "s": "Transmissions (Aquarium Drunkard)",
+   "sid": "transmissions",
+   "sp": "Transmissions (Aquarium Drunkard) Transmissions :: Beth Orton",
+   "t": "Transmissions :: Beth Orton",
+   "u": "https://aquariumdrunkard.com/2026/11/25/transmissions-beth-orton/"
+  },
+  {
+   "d": "2026-11-25T06:00:00Z",
+   "g": "Podcasts",
+   "s": "Sound Opinions",
+   "sid": "sound-opinions",
+   "sp": "Sound Opinions A Gig 50 Years in the Making",
+   "t": "A Gig 50 Years in the Making",
+   "u": "https://sound-opinions-0YBNbAs3.simplecast.com/episodes/a-gig-50-years-in-the-making-L64ESfuJ"
+  },
+  {
+   "d": "2026-11-25T04:37:00Z",
+   "g": "Writing",
+   "s": "Mixmag Australia/Asia",
+   "sid": "mixmag-anz",
+   "t": "Sunburn: Chasing the feeling on the Bhundoo",
+   "u": "https://mixmag.net.au/feature/sunburn-chasing-the-feeling-on-the-bhundoo"
+  },
+  {
    "d": "2026-11-25T00:00:00Z",
    "g": "Podcasts",
    "s": "Tape Notes",
@@ -142,35 +168,10 @@
    "sp": "KEXP: In Our Headphones KEXP DJ Cherrelle on the Sincere Sounds of Sincere Engineer",
    "t": "KEXP DJ Cherrelle on the Sincere Sounds of Sincere Engineer",
    "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-dj-cherrelle-on-the-sincere-sounds-of-sincere-engineer"
-  },
-  {
-   "d": "2026-11-24T05:51:18Z",
-   "g": "Progressive & Trance",
-   "s": "SkyTop Residency (Alexey Sonar)",
-   "sid": "skytop-residency",
-   "sp": "Alexey Sonar SkyTop Residency 453",
-   "t": "Alexey Sonar - SkyTop Residency 453 #453",
-   "u": "https://promodj.com/alexeysonar/radioshows/7999965/Alexey_Sonar_SkyTop_Residency_453_453"
-  },
-  {
-   "d": "2026-11-24T05:50:18Z",
-   "g": "Radio",
-   "s": "RTRFM / RTR2 mixes",
-   "sid": "rtr2",
-   "t": "50 Years of RRR in Melbourne Ep. 3 Full Circle w/ Millu",
-   "u": "https://soundcloud.com/rtrfm-92-1/50-years-rrr-in-melbourne-full-circle-mill"
-  },
-  {
-   "d": "2026-11-24T02:48:23Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "50 years of Triple R, in the words of its presenters",
-   "u": "https://mixmag.net.au/feature/50-years-of-triple-r-in-the-words-of-its-presenters"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 128,
+ "newCount": 131,
  "paused": 0,
  "releases": [
   {
@@ -261,5 +262,5 @@
   }
  ],
  "sources": 188,
- "updated": "2026-11-25T03:03:39Z"
+ "updated": "2026-11-25T07:16:40Z"
 }
