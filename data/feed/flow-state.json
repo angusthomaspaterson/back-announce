@@ -5,6 +5,16 @@
  "id": "flow-state",
  "items": [
   {
+   "audio": "https://api.substack.com/feed/podcast/226449002/7e944bc21c3c3a240025d6a2857950f7.mp3",
+   "date": "2026-11-25T08:03:31Z",
+   "desc": "On today’s episode of Across the Horizon, Bob Holmes of the ambient country band SUSS has Andrew Tuttle & Darren Cross on the show to talk about their new release AT/DC. Hailing from Australia, Andrew and Darren are experimental musicians whose banjo and acoustic guitar collaborations stretch the boundaries of ambient Americana.",
+   "duration": null,
+   "id": "https:--www.flowstate.fm-p-across-the-horizon-ep-75-andrew-tuttle",
+   "image": "https://substackcdn.com/image/fetch/$s_!rS0Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F512328f4-598d-4144-91ef-0e2dd360becc_2728x1350.png",
+   "title": "Across the Horizon Ep. 75: Andrew Tuttle & Darren Cross",
+   "url": "https://www.flowstate.fm/p/across-the-horizon-ep-75-andrew-tuttle"
+  },
+  {
    "audio": null,
    "date": "2026-11-23T08:01:00Z",
    "desc": "Flow State will return Monday, 11/30.",
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!ikfI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c918c5d-d162-4b1c-a0e9-d02ec2f3160e_942x628.jpeg",
    "title": "Across the Horizon Ep. 73: Mary Lattimore",
    "url": "https://www.flowstate.fm/p/across-the-horizon-ep-73-mary-lattimore"
-  },
-  {
-   "audio": "https://api.substack.com/feed/podcast/222289412/19837b56936da5ea001937509925539f.mp3",
-   "date": "2026-10-27T07:03:42Z",
-   "desc": "Today’s mix includes three Ryuichi Sakamoto tracks from across three different decades, inspired by his memoir Music Sets You Free. We play a moving track from the Adam Wiltzie and Jóhann Jóhannsson record and a longform ambient piece by Blanket Swimming.",
-   "duration": null,
-   "id": "https:--www.flowstate.fm-p-flow-state-episode-349",
-   "image": "https://substackcdn.com/image/fetch/$s_!AOrD!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71381723-ba9a-49d2-9939-47b26b709019_888x888.png",
-   "title": "Flow State Episode 349",
-   "url": "https://www.flowstate.fm/p/flow-state-episode-349"
   }
  ],
  "kind": "rss",
  "name": "Flow State",
- "updatedAt": "2026-11-23T21:30:28Z"
+ "updatedAt": "2026-11-25T21:30:28Z"
 }

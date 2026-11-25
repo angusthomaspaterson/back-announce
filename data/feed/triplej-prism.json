@@ -5,6 +5,17 @@
  "id": "triplej-prism",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qp/Z/n3.aac",
+   "date": "2026-11-25T10:00:00Z",
+   "desc": "Join tiffi tonight as she chats the 2026 soundtrack boom and celebrates locals for the last week of Aus Music Month. Tune in tonight to hear new music from beabadoobee, Amelie Wills, LISA, 2charm, teddie, Zara Larsson, Porter Robinson and more :). Available until 25 Dec. Tracklist: ENHYPEN – I Want You; NAYEON – BABY ANGEL; Yves – Polaroid; LISA – Leave With Me; Nuera – digital love; 2charm – goonerpop; teddie – damn; ange-bella – FUNction; KARLEE GIRL – Get ‘Em Girls; annie hamilton – cut like a diamond; Lara Buchanan – Spine; One Direction – Olivia; Harry Styles – Pop; Amelie Wills – String…",
+   "duration": "7200",
+   "id": "107406600",
+   "image": "https://live-production.wcms.abc-cdn.net.au/d194661ba07b44625d195908bc9ba8ee?impolicy=wcms_crop_resize&cropH=678&cropW=1206&xPos=0&yPos=269&width=862&height=485&imformat=generic",
+   "title": "Prism: Is 2026 the year of the soundtrack?",
+   "until": "2026-12-25T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/prism/prism-25-11-26/107406600"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qi/Z/eh.aac",
    "date": "2026-11-18T10:00:00Z",
    "desc": "Bringing you the best border-transcending pop track from at home and around the globe. Available until 18 Dec. Tracklist: TOMORROW X TOGETHER – Angel Bite; LUCY – AGAIN!; dress [feat. Heize] – I Love You; Yves – Hysteric; ANDY – ReGrEt It; Peach PRC – What If We Kissed; DJ BORING [feat. Miso Extra] – Waste Another Day; Robert Baxter & Sweatbaby – ICY (TAKE IT OFF); f5ve – I Choose You; Venus – PACK IT UP; Blusher – mrs brightside; Tom Nethersole – SO BLUE; Chxrry – U, Me & My Ego; Charly Oakley – TONGUE TIED; Robert Baxter – Ribs [Ft. Prophecy Girl]; GIRLSET – young & dumb; Srirachi – BBM; PA…",
@@ -51,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "Prism with tiffi",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-25T21:30:28Z"
 }

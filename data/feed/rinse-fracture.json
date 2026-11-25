@@ -5,6 +5,16 @@
  "id": "rinse-fracture",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/uk/Fracture241126.mp3",
+   "date": "2026-11-24T22:00:00Z",
+   "desc": "",
+   "duration": "3600",
+   "id": "fracture-24-11-2026-2200",
+   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
+   "title": "Fracture, 24 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/fracture-24-11-2026-2200"
+  },
+  {
    "audio": "https://replay.rinse.fm/uk/Fracture271026_.mp3",
    "date": "2026-10-27T22:00:00Z",
    "desc": "",
@@ -235,16 +245,6 @@
    "url": "https://www.rinse.fm/episodes/fracture-22-01-2025-2200"
   },
   {
-   "audio": "https://replay.rinse.fm/uk/Fracture271124.mp3",
-   "date": "2024-11-27T22:00:00Z",
-   "desc": "",
-   "duration": "3600",
-   "id": "fracture-27-11-2024-2200",
-   "image": "https://image.rinse.fm/_/Fracture-April-2023.jpeg?w=1200&h=630",
-   "title": "Fracture, 27 Nov 2024",
-   "url": "https://www.rinse.fm/episodes/fracture-27-11-2024-2200"
-  },
-  {
    "audio": "https://replay.rinse.fm/kool/Fracture220823.mp3",
    "date": "2023-08-22T20:00:00Z",
    "desc": "",
@@ -257,5 +257,5 @@
  ],
  "kind": "rinse",
  "name": "Fracture",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-25T21:30:28Z"
 }

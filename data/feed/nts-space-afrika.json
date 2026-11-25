@@ -5,6 +5,16 @@
  "id": "nts-space-afrika",
  "items": [
   {
+   "date": "2026-11-24T22:00:00Z",
+   "desc": "Experimental ambience, dub, techno, and other crazy left shxt from Joshua Reid & Joshua Inyang, a.k.a Space Afrika… Please, enjoy.",
+   "id": "space-afrika-24th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/d6524802-eed8-404f-bfe6-e3637669226b_1795478400.png",
+   "location": "Manchester",
+   "tags": "Electronica, Experimental, Ambient",
+   "title": "Space Afrika",
+   "url": "https://www.nts.live/shows/space-afrika/episodes/space-afrika-24th-november-2026"
+  },
+  {
    "date": "2026-08-04T21:00:00Z",
    "desc": "Experimental ambience, dub, techno, and other crazy left shxt from Joshua Reid & Joshua Inyang, a.k.a Space Afrika… Please, enjoy. From the host: \"~ Trumpet, Trombone, Sax, Percussion, Improvisation & Other Meditations. A Dedication to E. PE ~\"",
    "id": "space-afrika-4th-august-2026",
@@ -113,19 +123,9 @@
    "tags": "Electronica, Ambient Jazz, Ambient",
    "title": "Space Afrika",
    "url": "https://www.nts.live/shows/space-afrika/episodes/space-afrika-26th-november-2024"
-  },
-  {
-   "date": "2024-08-06T21:00:00Z",
-   "desc": "Experimental ambience, dub, techno, and other crazy left shxt from Joshua Reid & Joshua Inyang, a.k.a Space Afrika… Please, enjoy.",
-   "id": "space-afrika-6th-august-2024",
-   "image": "https://media.ntslive.co.uk/resize/400x400/4dbf0f76-a835-4f75-9886-0de8c33acaba_1722902400.jpeg",
-   "location": "Manchester",
-   "tags": "Experimental, Ambient, Modern Classical",
-   "title": "Space Afrika w/ Ross Alexander",
-   "url": "https://www.nts.live/shows/space-afrika/episodes/space-afrika-6th-august-2024"
   }
  ],
  "kind": "nts",
  "name": "Space Afrika",
- "updatedAt": "2026-10-20T08:42:00Z"
+ "updatedAt": "2026-11-25T21:30:28Z"
 }

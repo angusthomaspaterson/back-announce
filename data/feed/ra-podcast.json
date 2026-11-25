@@ -5,6 +5,16 @@
  "id": "ra-podcast",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2444563836-resident-advisor-ex-820-sammy-virji.mp3",
+   "date": "2026-11-25T14:59:32Z",
+   "desc": "The DJ and producer at the centre of UK garage's revival talks freedom, flops and his surprise new album, Open Late. If you've heard a UK garage or bassline tune at a festival in recent years, there's a good chance it was made by Sammy Virji. The British producer started making music at university, then dropped out once his bookings could cover his rent. Since then, the milestones have kept coming: Virji has gone viral on TikTok, played Coachella and reached the UK Top 20 with \"Talk of the Town,\" his collaboration with Fred again.. and Reggie. He's become the beaming face of UK garage's 2020s…",
+   "duration": "00:43:19",
+   "id": "tag:soundcloud-2010:tracks-2444563836",
+   "image": "https://i1.sndcdn.com/artworks-HAUdlcyt5yDEKzuV-bku7Sg-t3000x3000.jpg",
+   "title": "EX.820 Sammy Virji",
+   "url": "https://soundcloud.com/resident-advisor/ex-820-sammy-virji"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2442834033-resident-advisor-ra-1066-darwin.mp3",
    "date": "2026-11-22T22:00:15Z",
    "desc": "After ten years, the REEF founder celebrates the end of her seminal Berlin bass party. \"Music is the weapon of the future,\" a robotic voice murmurs at the start of RA.1066. It's a fitting mantra for dubstep, arguably the last future-facing movement, and for Darwin, who has spent the last ten years cracking open Berlin's dance floors. In 2016, Darwin launched REEF at Griessmuehle. Back then, Berlin was a one-way street where house and techno ruled, and she wanted to change that. When Griessmuehle closed in 2019, the party moved to Berghain, bringing practically the entire bass continuum to tec…",
@@ -13,16 +23,6 @@
    "image": "https://i1.sndcdn.com/artworks-sJj8bcHTUfyZOZE8-6LukIA-t3000x3000.jpg",
    "title": "RA.1066 Darwin",
    "url": "https://soundcloud.com/resident-advisor/ra-1066-darwin"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2440512729-resident-advisor-ex-819-shimza.mp3",
-   "date": "2026-11-18T13:05:51Z",
-   "desc": "The South African DJ on Afro house's global rise, the townships that incubated it and why the sound should stay open to all. Shimza grew up in Tembisa, a township east of Johannesburg, where as a kid he followed the DJs who played the area's stokvel parties. Members of these community savings clubs took turns hosting and competed to book the best DJs. Those DJs became local tastemakers, and some went on to play national radio and run the record shops that shaped grassroots South African house. He eventually broke out of that circuit to become one of Afro house's biggest exports. This year he …",
-   "duration": "00:54:33",
-   "id": "tag:soundcloud-2010:tracks-2440512729",
-   "image": "https://i1.sndcdn.com/artworks-YVR4xX5VVmqMCPYM-ExHIPQ-t3000x3000.jpg",
-   "title": "EX.819 Shimza",
-   "url": "https://soundcloud.com/resident-advisor/ex-819-shimza"
   },
   {
    "audio": "https://feeds.soundcloud.com/stream/2438682870-resident-advisor-ra-1065-azzi-on-the-beat.mp3",
@@ -257,5 +257,5 @@
  ],
  "kind": "rss",
  "name": "RA Podcast",
- "updatedAt": "2026-11-23T00:19:47Z"
+ "updatedAt": "2026-11-25T21:30:28Z"
 }

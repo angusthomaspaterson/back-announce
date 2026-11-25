@@ -5,6 +5,16 @@
  "id": "ra-exchange",
  "items": [
   {
+   "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6b06f77fc23d4207677920b9/media.mp3",
+   "date": "2026-11-25T14:58:07Z",
+   "desc": "The DJ and producer at the centre of UK garage's revival talks freedom, flops and his surprise new album, Open Late. If you've heard a UK garage or bassline tune at a festival in recent years, there's a good chance it was made by Sammy Virji. The British producer started making music at university, then dropped out once his bookings could cover his rent. Since then, the milestones have kept coming: Virji has gone viral on TikTok, played Coachella and reached the UK Top 20 with \"Talk of the Town,\" his collaboration with Fred again.. and Reggie. He's become the beaming face of UK garage's 2020s…",
+   "duration": "43:19",
+   "id": "6b06f77fc23d4207677920b9",
+   "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1795618627002-877d0fa8-3bb3-4de5-8fb6-9fb865e83088.jpeg",
+   "title": "EX.820 Sammy Virji",
+   "url": "https://shows.acast.com/raexchange/episodes/ex820-sammy-virji"
+  },
+  {
    "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/6afda2ccf890ca881b681624/media.mp3",
    "date": "2026-11-18T13:06:20Z",
    "desc": "The South African DJ on Afro house's global rise, the townships that incubated it and why the sound should stay open to all. Shimza grew up in Tembisa, a township east of Johannesburg, where as a kid he followed the DJs who played the area's stokvel parties. Members of these community savings clubs took turns hosting and competed to book the best DJs. Those DJs became local tastemakers, and some went on to play national radio and run the record shops that shaped grassroots South African house. He eventually broke out of that circuit to become one of Afro house's biggest exports. This year he …",
@@ -243,19 +253,9 @@
    "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1776856032225-f68e5ad8-db36-4c5a-b1dd-e77fbbac4b35.jpeg",
    "title": "EX.796 Benji B",
    "url": "https://shows.acast.com/raexchange/episodes/ex796-benji-b"
-  },
-  {
-   "audio": "https://sphinx.acast.com/p/open/s/68adcb4f19edea8a0a083a60/e/69df731a59baa7e2288ce384/media.mp3",
-   "date": "2026-04-15T11:14:32Z",
-   "desc": "The musical polymath talks creative left turns, the collapse of music media and her new album as Avalon & the Charm, Written into Changes. A decade after her first feature appearance in Resident Advisor, Avalon Emerson returns for a long-form chat about the arc of her career and her surprising left turn towards indie pop. After leaving a successful career in coding in the early 2010s, the American DJ and producer became, seemingly overnight, a headline act touring the world's best clubs. By 2016, she was one of the most vital voices in underground dance music: a regular at Panorama Bar, a mas…",
-   "duration": "44:58",
-   "id": "69df731a59baa7e2288ce384",
-   "image": "https://assets.pippa.io/shows/68adcb4f19edea8a0a083a60/1776251202245-a68f64e5-6aaf-442f-97b3-89bf814ca853.jpeg",
-   "title": "EX.795 Avalon Emerson",
-   "url": "https://shows.acast.com/raexchange/episodes/ex795-avalon-emerson"
   }
  ],
  "kind": "rss",
  "name": "RA Exchange",
- "updatedAt": "2026-11-18T15:31:22Z"
+ "updatedAt": "2026-11-25T21:30:28Z"
 }

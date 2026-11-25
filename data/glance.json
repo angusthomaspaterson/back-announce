@@ -1,12 +1,46 @@
 {
  "items": [
   {
+   "d": "2026-11-25T17:00:00Z",
+   "g": "Podcasts",
+   "s": "Song Exploder",
+   "sid": "song-exploder",
+   "sp": "Song Exploder Erykah Badu and The Alchemist - I Just Play a Part",
+   "t": "Erykah Badu and The Alchemist - I Just Play a Part",
+   "u": "https://play.prx.org/listen?ge=prx_93_daa88f9e-7cdb-4947-a6d4-c2e25675b129&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
+  },
+  {
    "d": "2026-11-25T15:48:38Z",
    "g": "Writing",
    "s": "First Floor",
    "sid": "first-floor",
    "t": "First Floor recommendations, 25 Nov: 9 records",
    "u": "https://firstfloor.substack.com/p/nineties-techno-redux-leak"
+  },
+  {
+   "d": "2026-11-25T14:59:32Z",
+   "g": "Mixes",
+   "s": "RA Podcast",
+   "sid": "ra-podcast",
+   "t": "EX.820 Sammy Virji",
+   "u": "https://soundcloud.com/resident-advisor/ex-820-sammy-virji"
+  },
+  {
+   "d": "2026-11-25T14:58:07Z",
+   "g": "Podcasts",
+   "s": "RA Exchange",
+   "sid": "ra-exchange",
+   "sp": "RA Exchange EX.820 Sammy Virji",
+   "t": "EX.820 Sammy Virji",
+   "u": "https://shows.acast.com/raexchange/episodes/ex820-sammy-virji"
+  },
+  {
+   "d": "2026-11-25T14:10:21Z",
+   "g": "Writing",
+   "s": "Crack Magazine",
+   "sid": "crack-magazine",
+   "t": "61 new artists announced for Rewire 2027",
+   "u": "https://crackmagazine.net/2026/11/rewire-2027-first-artist-announced/?utm_source=rss&utm_medium=rss&utm_campaign=rewire-2027-first-artist-announced"
   },
   {
    "d": "2026-11-25T14:02:16Z",
@@ -18,12 +52,45 @@
    "u": "https://notagspodcast.substack.com/p/76-tim-and-barry"
   },
   {
+   "d": "2026-11-25T13:00:10Z",
+   "g": "Writing",
+   "s": "Crack Magazine",
+   "sid": "crack-magazine",
+   "t": "fakemink and Overmono announced as the first headliners for Field Day 2027",
+   "u": "https://crackmagazine.net/2026/11/fakemink-overmono-field-day-2027/?utm_source=rss&utm_medium=rss&utm_campaign=fakemink-overmono-field-day-2027"
+  },
+  {
    "d": "2026-11-25T11:04:20Z",
    "g": "Writing",
    "s": "First Floor",
    "sid": "first-floor",
    "t": "Amina Hocine Has Better Taste Than I Do",
    "u": "https://firstfloor.substack.com/p/amina-hocine-has-better-taste-than"
+  },
+  {
+   "d": "2026-11-25T10:00:55Z",
+   "g": "Radio",
+   "s": "Time To Track (Andrew Wowk, 2SER)",
+   "sid": "time-to-track",
+   "t": "Time To Track on 2SER (19/11/2026 - Special Guest frakktalz)",
+   "u": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-19-11"
+  },
+  {
+   "d": "2026-11-25T10:00:00Z",
+   "g": "triple j",
+   "s": "Prism with tiffi",
+   "sid": "triplej-prism",
+   "t": "Prism: Is 2026 the year of the soundtrack?",
+   "u": "https://www.abc.net.au/triplej/programs/prism/prism-25-11-26/107406600"
+  },
+  {
+   "d": "2026-11-25T08:03:31Z",
+   "g": "Writing",
+   "s": "Flow State",
+   "sid": "flow-state",
+   "sp": "Flow State Across the Horizon Ep. 75: Andrew Tuttle & Darren Cross",
+   "t": "Across the Horizon Ep. 75: Andrew Tuttle & Darren Cross",
+   "u": "https://www.flowstate.fm/p/across-the-horizon-ep-75-andrew-tuttle"
   },
   {
    "d": "2026-11-25T07:00:00Z",
@@ -87,90 +154,23 @@
   },
   {
    "d": "2026-11-24T22:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Classic Essential Mix",
-   "sid": "bbc-radio-1s-classic-essential-mix",
-   "t": "Fake Blood 2009",
-   "u": "https://www.bbc.co.uk/sounds/play/m003325k"
+   "g": "Bass & DnB",
+   "s": "Fracture",
+   "sid": "rinse-fracture",
+   "t": "Fracture, 24 Nov 2026",
+   "u": "https://www.rinse.fm/episodes/fracture-24-11-2026-2200"
   },
   {
    "d": "2026-11-24T22:00:00Z",
-   "g": "BBC",
-   "s": "Radio 1's Future Artists with Sian Eleri",
-   "sid": "bbc-radio-1s-future-artists-with-sian-eleri",
-   "t": "Future Flex from Disfreq",
-   "u": "https://www.bbc.co.uk/sounds/play/m00348fy"
-  },
-  {
-   "d": "2026-11-24T19:17:29Z",
-   "g": "Writing",
-   "s": "Stereogum: Album of the Week",
-   "sid": "stereogum-aotw",
-   "t": "Album Of The Week: Star’s Revenge Star’s Revenge II",
-   "u": "https://stereogum.com/2520760/album-of-the-week-stars-revenge-stars-revenge-ii/reviews/album-of-the-week/"
-  },
-  {
-   "d": "2026-11-24T19:00:13Z",
-   "g": "Progressive & Trance",
-   "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
-   "sid": "underground-live-forever",
-   "sp": "Underground Live Forever Episode 051",
-   "t": "Underground Live Forever - ULF051",
-   "u": "https://www.youtube.com/watch?v=Wlg53Ps19Kk"
-  },
-  {
-   "d": "2026-11-24T16:27:20Z",
-   "g": "Radio",
-   "s": "Balearic Breakfast (Colleen 'Cosmo' Murphy)",
-   "sid": "balearic-breakfast",
-   "t": "Balearic Breakfast 24.11.26",
-   "u": "https://www.mixcloud.com/colleencosmomurphy/balearic-breakfast-241126/"
-  },
-  {
-   "d": "2026-11-24T13:04:09Z",
-   "g": "Mixes",
-   "s": "Dekmantel Podcast",
-   "sid": "dekmantel-podcast",
-   "t": "Dekmantel Mix 521 - Ma Sha",
-   "u": "https://soundcloud.com/dkmntl/dekmantel-mix-521-ma-sha"
-  },
-  {
-   "d": "2026-11-24T12:47:00Z",
-   "g": "Podcasts",
-   "s": "Switched On Pop",
-   "sid": "switched-on-pop",
-   "sp": "Switched On Pop Are you a lyric person or a music person?",
-   "t": "Are you a lyric person or a music person?",
-   "u": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4742677291.mp3"
-  },
-  {
-   "d": "2026-11-24T12:24:16Z",
-   "g": "Writing",
-   "s": "Futurism Restated (Philip Sherburne)",
-   "sid": "futurism-restated",
-   "t": "FR 203: Shadows and Illuminations",
-   "u": "https://futurismrestated.substack.com/p/fr-203-shadows-and-illuminations"
-  },
-  {
-   "d": "2026-11-24T12:00:00Z",
-   "g": "triple j",
-   "s": "CORE with Jack Bergin",
-   "sid": "triplej-core",
-   "t": "Northlane Interview",
-   "u": "https://www.abc.net.au/triplej/programs/core/northlane-iv-2/107416714"
-  },
-  {
-   "d": "2026-11-24T10:30:00Z",
-   "g": "Podcasts",
-   "s": "Dissect",
-   "sid": "dissect",
-   "sp": "Dissect 10 for 10: The Greatest Musical Discoveries in Dissect History (PART 2)",
-   "t": "10 for 10: The Greatest Musical Discoveries in Dissect History (PART 2)",
-   "u": "https://traffic.megaphone.fm/GLT6976557503.mp3"
+   "g": "NTS",
+   "s": "Space Afrika",
+   "sid": "nts-space-afrika",
+   "t": "Space Afrika",
+   "u": "https://www.nts.live/shows/space-afrika/episodes/space-afrika-24th-november-2026"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 134,
+ "newCount": 146,
  "paused": 0,
  "releases": [
   {
@@ -261,5 +261,5 @@
   }
  ],
  "sources": 188,
- "updated": "2026-11-25T21:30:07Z"
+ "updated": "2026-11-25T21:30:28Z"
 }
