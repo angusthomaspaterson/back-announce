@@ -6,6 +6,16 @@
  "items": [
   {
    "audio": null,
+   "date": "2026-11-24T12:24:16Z",
+   "desc": "New music from Demdike Stare, Laurie Torres, Anthony Child, and more",
+   "duration": null,
+   "id": "https:--futurismrestated.substack.com-p-fr-203-shadows-and-illuminations",
+   "image": "https://substackcdn.com/image/fetch/$s_!cqPL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff83555e2-2059-4e80-a380-e3f545adc0af_3840x2560.jpeg",
+   "title": "FR 203: Shadows and Illuminations",
+   "url": "https://futurismrestated.substack.com/p/fr-203-shadows-and-illuminations"
+  },
+  {
+   "audio": null,
    "date": "2026-11-17T13:05:30Z",
    "desc": "A floor-centric roundup of new techno, acid, house, and more",
    "duration": null,
@@ -193,19 +203,9 @@
    "image": "https://substackcdn.com/image/fetch/$s_!S4Nl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe222b06b-974f-4d97-b910-09fbac6bda75_5712x4284.jpeg",
    "title": "FR 185: Clashing Tribes",
    "url": "https://futurismrestated.substack.com/p/fr-185-clashing-tribes"
-  },
-  {
-   "audio": null,
-   "date": "2026-08-18T14:23:20Z",
-   "desc": "New music from Akusmi, Duffy x Uhlmann, and Bill Orcutt, plus other sounds for disappearing stars.",
-   "duration": null,
-   "id": "https:--futurismrestated.substack.com-p-fr-184-terra-incognita",
-   "image": "https://substackcdn.com/image/fetch/$s_!DJ6h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5818ab99-8260-4a01-be40-3536e1754f63_3024x2268.jpeg",
-   "title": "FR 184: Terra Incognita",
-   "url": "https://futurismrestated.substack.com/p/fr-184-terra-incognita"
   }
  ],
  "kind": "rss",
  "name": "Futurism Restated (Philip Sherburne)",
- "updatedAt": "2026-11-17T21:30:08Z"
+ "updatedAt": "2026-11-25T01:52:32Z"
 }

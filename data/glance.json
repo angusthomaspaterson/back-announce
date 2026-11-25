@@ -1,6 +1,23 @@
 {
  "items": [
   {
+   "d": "2026-11-24T19:00:13Z",
+   "g": "Progressive & Trance",
+   "s": "Underground Live Forever (Paul Thomas & Das Pharaoh)",
+   "sid": "underground-live-forever",
+   "sp": "Underground Live Forever Episode 051",
+   "t": "Underground Live Forever - ULF051",
+   "u": "https://www.youtube.com/watch?v=Wlg53Ps19Kk"
+  },
+  {
+   "d": "2026-11-24T12:24:16Z",
+   "g": "Writing",
+   "s": "Futurism Restated (Philip Sherburne)",
+   "sid": "futurism-restated",
+   "t": "FR 203: Shadows and Illuminations",
+   "u": "https://futurismrestated.substack.com/p/fr-203-shadows-and-illuminations"
+  },
+  {
    "d": "2026-11-24T02:48:23Z",
    "g": "Writing",
    "s": "Mixmag Australia/Asia",
@@ -144,34 +161,12 @@
    "sid": "rtr2",
    "t": "The Water's Never Dry Ep. 6 w/ Wetpuddlss",
    "u": "https://soundcloud.com/rtrfm-92-1/the-waters-never-dry-ep-6-w-wetpuddlss"
-  },
-  {
-   "d": "2026-11-23T01:23:07Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
-   "u": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes"
-  },
-  {
-   "d": "2026-11-23T00:25:40Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
-   "u": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 102,
+ "newCount": 104,
  "paused": 24,
  "releases": [
-  {
-   "k": "EP · Anjunadeep",
-   "out": "2026-11-24T00:00:00Z",
-   "t": "Anyasa – Vihana EP",
-   "u": "https://anjunadeep.com/products/636874-vihana-ep"
-  },
   {
    "k": "Album · Anjunadeep Explorations",
    "out": "2026-11-25T00:00:00Z",
@@ -260,5 +255,5 @@
   }
  ],
  "sources": 211,
- "updated": "2026-11-24T04:18:31Z"
+ "updated": "2026-11-25T01:52:32Z"
 }
