@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "d": "2026-11-26T01:25:02Z",
+   "g": "Writing",
+   "s": "The Guardian: Australian music",
+   "sid": "guardian-au-music",
+   "t": "Whispering Jack: The John Farnham Musical review – Michael Paynter’s voice soars in a show full of humour and heart",
+   "u": "https://www.theguardian.com/stage/2026/nov/26/michael-paynter-whispering-jack-the-john-farnham-musical-review"
+  },
+  {
+   "d": "2026-11-26T01:00:00Z",
+   "g": "Double J",
+   "s": "Take 5 with Zan Rowe",
+   "sid": "doublej-take-5",
+   "t": "Take 5 with John Butler",
+   "u": "https://www.abc.net.au/listen/programs/take-5/take-5-john-butler-songs-that-light-the-fire-inside/107416144"
+  },
+  {
+   "d": "2026-11-26T01:00:00Z",
+   "g": "BBC",
+   "s": "Benji B",
+   "sid": "bbc-benji-b",
+   "t": "Goldie and Novelist",
+   "u": "https://www.bbc.co.uk/sounds/play/m00348ps"
+  },
+  {
    "d": "2026-11-25T17:00:00Z",
    "g": "Podcasts",
    "s": "Song Exploder",
@@ -143,42 +167,12 @@
    "sid": "mixmag-anz",
    "t": "Dita and Hannah D on keeping community at the heart of brand partnerships",
    "u": "https://mixmag.net.au/feature/dita-and-hannah-d-on-keeping-community-at-the-heart-of-brand-partnerships"
-  },
-  {
-   "d": "2026-11-24T22:00:00Z",
-   "g": "Writing",
-   "s": "Mixmag Australia/Asia",
-   "sid": "mixmag-anz",
-   "t": "Ninajirachi releases 20-track 'I Love My Computer' remix album",
-   "u": "https://mixmag.net.au/read/ninajirachi-releases-20-track-i-love-my-computer-remix-album-news"
-  },
-  {
-   "d": "2026-11-24T22:00:00Z",
-   "g": "Bass & DnB",
-   "s": "Fracture",
-   "sid": "rinse-fracture",
-   "t": "Fracture, 24 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/fracture-24-11-2026-2200"
-  },
-  {
-   "d": "2026-11-24T22:00:00Z",
-   "g": "NTS",
-   "s": "Space Afrika",
-   "sid": "nts-space-afrika",
-   "t": "Space Afrika",
-   "u": "https://www.nts.live/shows/space-afrika/episodes/space-afrika-24th-november-2026"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 146,
+ "newCount": 149,
  "paused": 0,
  "releases": [
-  {
-   "k": "Album · Anjunadeep Explorations",
-   "out": "2026-11-25T00:00:00Z",
-   "t": "Quivver – Alternate Futures",
-   "u": "https://anjunadeep.com/products/622289-alternate-futures"
-  },
   {
    "k": "Single · Anjunadeep Explorations",
    "out": "2026-12-02T00:00:00Z",
@@ -199,6 +193,18 @@
   }
  ],
  "saved": [
+  {
+   "at": "2026-11-26T00:19:07Z",
+   "s": "Space Afrika",
+   "t": "Space Afrika",
+   "u": "https://www.nts.live/shows/space-afrika/episodes/space-afrika-24th-november-2026"
+  },
+  {
+   "at": "2026-11-26T00:16:35Z",
+   "s": "Time To Track (Andrew Wowk, 2SER)",
+   "t": "Time To Track on 2SER (19/11/2026 - Special Guest frakktalz)",
+   "u": "https://soundcloud.com/andrew-wowk/time-to-track-on-2ser-19-11"
+  },
   {
    "at": "2026-11-23T01:20:04Z",
    "s": "BBC Introducing on Radio 1 Dance",
@@ -246,20 +252,8 @@
    "s": "Stones Taro",
    "t": "Stones Taro, 9 Nov 2026",
    "u": "https://www.rinse.fm/episodes/stones-taro-09-11-2026-2300"
-  },
-  {
-   "at": "2026-11-09T06:14:20Z",
-   "s": "SHERELLE",
-   "t": "The Sweatbox - with Carré",
-   "u": "https://www.bbc.co.uk/sounds/play/m0033mgz"
-  },
-  {
-   "at": "2026-11-06T14:34:15Z",
-   "s": "BBC Music Introducing Mixtape (6 Music)",
-   "t": "With a new Track of the Week from The Healing Power of Horses",
-   "u": "http://www.bbc.co.uk/programmes/p0plg0wx"
   }
  ],
  "sources": 188,
- "updated": "2026-11-25T21:30:28Z"
+ "updated": "2026-11-26T02:15:39Z"
 }

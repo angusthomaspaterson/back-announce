@@ -5,6 +5,17 @@
  "id": "doublej-take-5",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qp/Z/ng.mp3",
+   "date": "2026-11-26T01:00:00Z",
+   "desc": "30 years ago, John Butler was busking at Fremantle Markets selling cassettes of his songs. They sold in the thousands, and would begin a career that has seen multiple Number 1 records, worldwide tours, and an endless passion for music and activism. For his first-ever Take 5, John joined Zan Rowe at SoundMerch in Collingwood, on Wurundjeri Country, for the final conversation in a month-long series of live recordings celebrating 20 years of the show. He arrived fresh from sharing a stage with Jack Johnson and Ben Harper at Sydney's Domain, surrounded by fans, family, and a few people who knew h…",
+   "duration": "2910",
+   "id": "107416144",
+   "image": "https://live-production.wcms.abc-cdn.net.au/bdd451002dd1892a2b76627ae65c8c18?impolicy=wcms_watermark_abc&cropH=1969&cropW=3500&xPos=0&yPos=183&width=862&height=485&imformat=generic",
+   "title": "Take 5 with John Butler",
+   "until": "2026-12-24T01:00:00Z",
+   "url": "https://www.abc.net.au/listen/programs/take-5/take-5-john-butler-songs-that-light-the-fire-inside/107416144"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qj/Z/7a.mp3",
    "date": "2026-11-19T01:00:00Z",
    "desc": "Kate Miller-Heidke is one of Australia's most fearless voices. She's written operas and musicals, represented Australia at Eurovision, coached on The Voice, and gathered ARIA nominations across genres from pop to classical to comedy. Her new album, The Kiss and the Abyss, her first in six years, walks the tightrope of medieval music and modern problems. It's a deeply personal record about being human, full of gothic folk drama, ancient instrumentation, and raw emotion. The album came together at Peter Gabriel's Real World Studios in the English countryside, produced by Tom Ianseck (Big Scary …",
@@ -47,20 +58,9 @@
    "title": "Powderfinger on their sold out reunion tour, adding extra shows & epic support acts",
    "until": "2026-11-26T20:00:00Z",
    "url": "https://www.abc.net.au/listen/programs/take-5/powderfinger-sold-out-reunion-tour-extra-shows-support-acts/107324806"
-  },
-  {
-   "audio": "https://mediacore-live-production.akamaized.net/audio/02/pt/Z/bu.mp3",
-   "date": "2026-10-29T01:00:00Z",
-   "desc": "Take 5 is turning 20! It started back in 2006 as a weekly radio segment on triple j, and since then it's grown into an award-winning podcast, and a beloved TV show in its sixth season. The list of people who have graced the Take 5 is epic: Lorde, Jack Antonoff, Kevin Bacon, Paul Kelly, Mel C from the Spice Girls, Bernard Fanning, there's even been a Beatle (Sir Paul McCartney!). To mark this special 20th anniversary, Zan Rowe has dug into some old shoe boxes and dusted off minidiscs and DAT tapes to bring to you a selection of vintage Take 5s. These special episodes haven't been heard by anyo…",
-   "duration": "2952",
-   "id": "107320634",
-   "image": "https://live-production.wcms.abc-cdn.net.au/54febc5c64909901d8a219bc5f9cf2ab?impolicy=wcms_watermark_abc&cropH=2813&cropW=5000&xPos=0&yPos=341&width=862&height=485&imformat=generic",
-   "title": "20th anniversary special: Calvin Harris, Annie Mac, Aloe Blacc & more",
-   "until": "2026-11-26T01:00:00Z",
-   "url": "https://www.abc.net.au/listen/programs/take-5/take-5-20th-anniversary-special/107320634"
   }
  ],
  "kind": "abc",
  "name": "Take 5 with Zan Rowe",
- "updatedAt": "2026-11-19T13:08:49Z"
+ "updatedAt": "2026-11-26T02:15:39Z"
 }
