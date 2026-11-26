@@ -5,8 +5,22 @@
  "id": "first-floor",
  "items": [
   {
+   "date": "2026-11-26T11:02:44Z",
+   "desc": "First Floor #338 – Sort of a Holiday",
+   "id": "rollup-2026-11-26",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/05c91a2d-6f6e-42f6-8436-2ef8434af23e_1456x1048.png",
+   "links": [
+    {
+     "t": "First Floor #338 – Sort of a Holiday",
+     "u": "https://firstfloor.substack.com/p/first-floor-338-sort-of-a-holiday"
+    }
+   ],
+   "title": "First Floor recommendations, 26 Nov: 1 record",
+   "url": "https://firstfloor.substack.com/p/first-floor-338-sort-of-a-holiday"
+  },
+  {
    "date": "2026-11-25T15:48:38Z",
-   "desc": "Hoavi – 711Falx (Fovea Specs) Teqmun – Anomalocaris (Kindergarten) R+R – L’essentiel (Secret Weapons) Jan Loup – Vengus (5 hex) (Oscilla Sound) Bjarki – The Body Works (Bjarki) Sam Binga & Fracture – Bad Operation (Pineapple) PRAYER – That Which Lines the Sky (Fossss) The Bug & YL Hooi – Ladybug 5 (Pressure) Nineties Techno Redux – Leak (SK_eleven)",
+   "desc": "Hoavi – 711Falx (Fovea Specs) Teqmun – Anomalocaris (Kindergarten) R+R – L’essentiel (Secret Weapon) Jan Loup – Vengus (5 hex) (Oscilla Sound) Bjarki – The Body Works (Bjarki) Sam Binga & Fracture – Bad Operation (Pineapple) PRAYER – That Which Lines the Sky (Fossss) The Bug & YL Hooi – Ladybug 5 (Pressure) Nineties Techno Redux – Leak (SK_eleven)",
    "id": "rollup-2026-11-25",
    "image": "https://substackcdn.com/image/fetch/$s_!etKM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2532ace0-e9f6-4ca5-bafe-5733a84e0093_1456x1048.jpeg",
    "links": [
@@ -86,14 +100,10 @@
   },
   {
    "date": "2026-11-18T14:05:47Z",
-   "desc": "Yesca – YEC2A (ec2a) X-Altera – As We Enter / Bass Check VIP (BOPSIDE) The Bug & Hollie Cook – Ladybug 4 (Pressure) Bodhi – Echoic (Hotflush) Anastasia Kristensen & Kamen – Danse Macabre (absorb emit) mega:oba – 002 (LOFS) Viner – 2330 (PATAR) Roxanne Harris – longform (Leaving)",
+   "desc": "X-Altera – As We Enter / Bass Check VIP (BOPSIDE) The Bug & Hollie Cook – Ladybug 4 (Pressure) Bodhi – Echoic (Hotflush) Anastasia Kristensen & Kamen – Danse Macabre (absorb emit) mega:oba – 002 (LOFS) Viner – 2330 (PATAR) Roxanne Harris – longform (Leaving)",
    "id": "rollup-2026-11-18",
-   "image": "https://substackcdn.com/image/fetch/$s_!aimk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5484e35a-6e11-4e32-9089-56df81c58d70_1456x1048.jpeg",
+   "image": "https://substackcdn.com/image/fetch/$s_!SgLL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25f5396a-da7d-4d30-9f6f-3f7acda84ecd_1456x1048.jpeg",
    "links": [
-    {
-     "t": "Yesca – YEC2A",
-     "u": "https://firstfloor.substack.com/p/yesca-yec2a"
-    },
     {
      "t": "X-Altera – As We Enter / Bass Check VIP",
      "u": "https://firstfloor.substack.com/p/x-altera-as-we-enter-bass-check-vip"
@@ -123,11 +133,11 @@
      "u": "https://firstfloor.substack.com/p/roxanne-harris-longform"
     }
    ],
-   "title": "First Floor recommendations, 18 Nov: 8 records",
+   "title": "First Floor recommendations, 18 Nov: 7 records",
    "url": "https://firstfloor.substack.com/p/roxanne-harris-longform"
   }
  ],
  "kind": "rss",
  "name": "First Floor",
- "updatedAt": "2026-11-25T21:30:07Z"
+ "updatedAt": "2026-11-26T21:30:07Z"
 }
