@@ -5,6 +5,16 @@
  "id": "spectrum-radio",
  "items": [
   {
+   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_500_-_Joris_Voorn_sc_v2.mp3?dest-id=504876",
+   "date": "2026-11-26T11:14:00Z",
+   "desc": "Live from Spectrum x Lab54 House Party, Amsterdam",
+   "duration": "01:50:21",
+   "id": "1a2d4bb0-5cc2-4505-a50e-83c3bf3c705d",
+   "image": "https://static.libsyn.com/p/assets/e/9/7/0/e97067603b56a587a04421dee9605cbd/Spectrum_Radio_500.jpeg",
+   "title": "Spectrum Radio 500",
+   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-500"
+  },
+  {
    "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_499__Joris_Voorn_sc.mp3?dest-id=504876",
    "date": "2026-11-19T10:32:00Z",
    "desc": "Live from Óbuda Bay, Budapest",
@@ -243,19 +253,9 @@
    "image": "https://static.libsyn.com/p/assets/7/6/7/1/767153a5e3b3fd40d959afa2a1bf1c87/Spectrum_Radio_476.jpg",
    "title": "Spectrum Radio 476",
    "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-476"
-  },
-  {
-   "audio": "https://traffic.libsyn.com/secure/jorisvoornspectrum/Spectrum_Radio_475__Joris_Voorn_sc.mp3?dest-id=504876",
-   "date": "2026-06-04T14:34:00Z",
-   "desc": "Live from Ants at Ushuaia, Ibiza",
-   "duration": "01:00:05",
-   "id": "3c401b8f-5897-4b71-af98-47ecec49bc68",
-   "image": "https://static.libsyn.com/p/assets/e/1/e/d/e1edce73b2587ca5d959afa2a1bf1c87/Spectrum_Radio_475.jpg",
-   "title": "Spectrum Radio 475",
-   "url": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-475"
   }
  ],
  "kind": "rss",
  "name": "Joris Voorn: Spectrum Radio",
- "updatedAt": "2026-11-19T13:08:49Z"
+ "updatedAt": "2026-11-26T21:30:28Z"
 }

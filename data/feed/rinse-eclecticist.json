@@ -5,6 +5,16 @@
  "id": "rinse-eclecticist",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/uk/Eclecticist251126.mp3",
+   "date": "2026-11-25T13:00:00Z",
+   "desc": "",
+   "duration": "3600",
+   "id": "eclecticist-25-11-2026-1300",
+   "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
+   "title": "Eclecticist, 25 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/eclecticist-25-11-2026-1300"
+  },
+  {
    "audio": "https://replay.rinse.fm/uk/Eclecticist111126.mp3",
    "date": "2026-11-11T13:00:00Z",
    "desc": "",
@@ -243,19 +253,9 @@
    "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
    "title": "Eclecticist, 15 Apr 2026",
    "url": "https://www.rinse.fm/episodes/eclecticist-15-04-2026-1200"
-  },
-  {
-   "audio": "https://replay.rinse.fm/uk/Eclecticist010426.mp3",
-   "date": "2026-04-01T11:00:00Z",
-   "desc": "",
-   "duration": "3600",
-   "id": "eclecticist-01-04-2026-1200",
-   "image": "https://image.rinse.fm/_/Eclectivity-October-2023.jpeg?w=1200&h=630&fp=0.5268%2C0.3145",
-   "title": "Eclecticist, 1 Apr 2026",
-   "url": "https://www.rinse.fm/episodes/eclecticist-01-04-2026-1200"
   }
  ],
  "kind": "rinse",
  "name": "Eclecticist",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-26T21:30:28Z"
 }

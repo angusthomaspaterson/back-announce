@@ -5,6 +5,16 @@
  "id": "rinse-settle-down",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/kool/SETTLEDOWNTX251126.mp3",
+   "date": "2026-11-25T23:00:00Z",
+   "desc": "",
+   "duration": "7200",
+   "id": "settle-down-25-11-2026-2300",
+   "image": "https://image.rinse.fm/_/Greg-Settle-Down-12-greg-hepworth.JPG?w=1200&h=630",
+   "title": "Settle Down, 25 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/settle-down-25-11-2026-2300"
+  },
+  {
    "audio": "https://replay.rinse.fm/kool/SETTLEDOWN281026.mp3",
    "date": "2026-10-28T23:00:00Z",
    "desc": "",
@@ -77,5 +87,5 @@
  ],
  "kind": "rinse",
  "name": "Settle Down",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-26T21:30:28Z"
 }

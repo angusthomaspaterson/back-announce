@@ -5,6 +5,16 @@
  "id": "rinse-bryan-gee",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/kool/BryanGeeTX251126_Final.mp3",
+   "date": "2026-11-25T19:00:00Z",
+   "desc": "",
+   "duration": "7200",
+   "id": "bryan-gee-25-11-2026-1900",
+   "image": "https://image.rinse.fm/_/Bryan-Gee-April-2023_22.jpg?w=1200&h=630",
+   "title": "Bryan Gee, 25 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/bryan-gee-25-11-2026-1900"
+  },
+  {
    "audio": "https://replay.rinse.fm/kool/BryanGee281026_.mp3",
    "date": "2026-10-28T19:00:00Z",
    "desc": "",
@@ -195,16 +205,6 @@
    "url": "https://www.rinse.fm/episodes/bryan-gee-26-02-2025-2200"
   },
   {
-   "audio": "https://replay.rinse.fm/kool/BryanGee271124_01.mp3",
-   "date": "2024-11-27T21:00:00Z",
-   "desc": "",
-   "duration": "7200",
-   "id": "bryan-gee-27-11-2024-2100",
-   "image": "https://image.rinse.fm/_/Bryan-Gee-April-2023_22.jpg?w=1200&h=630",
-   "title": "Bryan Gee, 27 Nov 2024",
-   "url": "https://www.rinse.fm/episodes/bryan-gee-27-11-2024-2100"
-  },
-  {
    "date": "2024-11-08T20:00:00Z",
    "desc": "",
    "id": "bryan-gee-08-11-2024-2000",
@@ -255,5 +255,5 @@
  ],
  "kind": "rinse",
  "name": "Bryan Gee",
- "updatedAt": "2026-11-18T09:27:00Z"
+ "updatedAt": "2026-11-26T21:30:28Z"
 }

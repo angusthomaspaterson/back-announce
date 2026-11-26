@@ -5,6 +5,16 @@
  "id": "in-our-headphones",
  "items": [
   {
+   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/502f29a5-8c73-4b92-a971-b50d0104c130/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
+   "date": "2026-11-26T08:00:00Z",
+   "desc": "Host Evie Stokes sits down again with one of KEXP’s newest DJs, Cherrelle. This time, Cherrelle brings in a track from Atlanta-based artist Kareen Lomax and talks about falling in love with the record, their shared Southern experience, and the magic that comes with her overnight shift. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones”  playlist on Spotify or the “What’s In Our Headphones”  playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones@kexp.org . Support the show: …",
+   "duration": "657",
+   "id": "502f29a5-8c73-4b92-a971-b50d0104c130",
+   "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
+   "title": "KEXP DJ Cherrelle on Kareen Lomax and Life in the South",
+   "url": "https://omny.fm/shows/kexp-song-of-the-day/kexp-dj-cherrelle-on-kareen-lomax-and-life-in-the-south"
+  },
+  {
    "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/afe89523-d0d6-4467-bf12-b50b013ed888/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
    "date": "2026-11-24T08:00:00Z",
    "desc": "Host Evie Stokes sits down with one of KEXP’s newest DJs, Cherrelle. The two dig into Cherrelle’s history growing up in Dallas, her volunteer work at KEXP’s neighboring venue, The Vera Project, and the music that made her. This time, she shares “DNA,” a triumphant pop-punk banger from Chicago band Sincere Engineer. Produced by Dusty Henry Mastered by William Myers Production support: Serafima Healy Listen to the full songs on KEXP’s “In Our Headphones” playlist on Spotify or the “What’s In Our Headphones” playlist on YouTube. Support the podcast: kexp.org/headphones Contact us at headphones@k…",
@@ -243,19 +253,9 @@
    "image": "https://www.omnycontent.com/d/programs/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/image.jpg?t=1769004578&size=Large",
    "title": "El Sonido’s Albina Cabrera on aLex vs aLex’s Mesmerizing R&",
    "url": "https://omny.fm/shows/kexp-song-of-the-day/el-sonido-s-albina-cabrera-on-alex-vs-alex-s-mesmerizing-r"
-  },
-  {
-   "audio": "https://traffic.omny.fm/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/38cd8cf0-9fb0-440a-b2d8-b4b8017eeec7/audio.mp3?utm_source=Podcast&in_playlist=4ac1c451-4315-4096-ab9b-aa40002038c4",
-   "date": "2026-09-03T11:00:00Z",
-   "desc": "Host Evie Stokes sits down again with Seattle duo Lucha Luna to talk about the music that’s moving them. This time, the group shares their mutual love for Tamara Flores’ empowering anthem, “CHINGONA,” and what it means to be a “badass woman.” “To have, like, a chingona energy comes from your ancestors, comes from the people behind you,” Lucha Luna singer Eva Vazquez says. “People that are holding you through it… It reminds me of my mom and my auntie, and the women that I came from that are chingonas. I’d love to feel that sometimes I have that chingona energy, too.” Produced by Dusty Henry Ma…",
-   "duration": "502",
-   "id": "38cd8cf0-9fb0-440a-b2d8-b4b8017eeec7",
-   "image": "https://www.omnycontent.com/d/clips/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/38cd8cf0-9fb0-440a-b2d8-b4b8017eeec7/image.jpg?t=1788407533&size=Large",
-   "title": "Lucha Luna on Tamara Flores’ Empowering Anthem for \"Badass Women\"",
-   "url": "https://omny.fm/shows/kexp-song-of-the-day/lucha-luna-on-tamara-flores-empowering-anthem-for-badass-women"
   }
  ],
  "kind": "rss",
  "name": "KEXP: In Our Headphones",
- "updatedAt": "2026-11-25T01:53:13Z"
+ "updatedAt": "2026-11-26T21:30:28Z"
 }

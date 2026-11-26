@@ -5,6 +5,17 @@
  "id": "triplej-hip-hop-show",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qq/Z/v9.aac",
+   "date": "2026-11-26T10:00:00Z",
+   "desc": "Go underground and all over town to source the best local and international hip hop. Available until 26 Dec. Tracklist: Nate G – BLESSINGS [feat. Yung Maynie & Talakai]; DEVAURA & DRIZZZ – CÉLINE DION (BACK TO SENDER); JJ Vacant – Line Up; Miles Nautu & BINA. – apple; Youngn Lipz – My Dawg; Matty.K, gsteez, Trae Monte & ogwetth – Uber [explicit]; Shadow – METEOR; DIBZ & That Gurl Bella – Down Low; SOLLYY – OLD NEWS [Ft. J2Thou, MONTI]; Turquoise Prince – Lemme Know; TANIELA – Tupenu; SEPI – BODY LIKE RIHANNA; ONEFOUR – Let's Ride; Trizzie Git Bizzie – Was In It; Say True God? – Wicked; kayeon…",
+   "duration": "7200",
+   "id": "107408344",
+   "image": "https://live-production.wcms.abc-cdn.net.au/0e63c4c13e63f11d98bff427e1e9f8de?impolicy=wcms_crop_resize&cropH=1125&cropW=1500&xPos=250&yPos=0&width=862&height=647&imformat=generic",
+   "title": "Hip Hop Show, 26 Nov",
+   "until": "2026-12-26T10:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107408344"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qj/Z/md.aac",
    "date": "2026-11-19T10:00:00Z",
    "desc": "Go underground and all over town to source the best local and international hip hop. Available until 19 Dec. Tracklist: Miss Kaninna – BLACKPRINT; Tasman Keith – Don't Get Lazy; J-Milla – All My Life; INKABEE – Vibez; Lavils – First Place; Amani Lia – Ain't Right; Mary Ann Alexander – Don't Wanna Know; Denzel Kennedy – Penny Loafers; The 046 – Runnin’ Game; Stt Laurentt – Set List; ELENA – Oh No [Ft. RNZO]; Kaylah Truth – Oh Diva Me; HP Boyz – Loyalty; Jay Rock – Hood Gone Love It (feat. Kendrick Lamar); BJ the Chicago Kid – Smokin' and Ridin' [feat. Freddie Gibbs & Problem]; Amerie – 1 Thing…",
@@ -51,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "Hip Hop Show with A.Girl",
- "updatedAt": "2026-11-20T00:33:18Z"
+ "updatedAt": "2026-11-26T21:30:28Z"
 }

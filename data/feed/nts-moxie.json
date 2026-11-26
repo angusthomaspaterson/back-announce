@@ -5,6 +5,16 @@
  "id": "nts-moxie",
  "items": [
   {
+   "date": "2026-11-25T15:00:00Z",
+   "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
+   "id": "moxie-25th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/e31b1d64-dd63-4f02-8844-cd12d1937c19_1795564800.jpeg",
+   "location": "London",
+   "tags": "Deep House, Tech House",
+   "title": "Moxie",
+   "url": "https://www.nts.live/shows/moxie/episodes/moxie-25th-november-2026"
+  },
+  {
    "date": "2026-10-28T15:00:00Z",
    "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
    "id": "moxie-28th-october-2026",
@@ -113,19 +123,9 @@
    "tags": "Deep House, Tech House",
    "title": "Moxie b2b Leon Vynehall - Corsica Closing Set (29.03.26)",
    "url": "https://www.nts.live/shows/moxie/episodes/moxie-27th-may-2026"
-  },
-  {
-   "date": "2026-05-13T14:00:00Z",
-   "desc": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
-   "id": "moxie-13th-may-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/71031159-99fa-4cf2-90ec-404a961f8a39_1778630400.jpeg",
-   "location": "London",
-   "tags": "Deep House, House",
-   "title": "Moxie - 15 Year Anniversary Show",
-   "url": "https://www.nts.live/shows/moxie/episodes/moxie-13th-may-2026"
   }
  ],
  "kind": "nts",
  "name": "Moxie",
- "updatedAt": "2026-10-29T23:19:37Z"
+ "updatedAt": "2026-11-26T21:30:28Z"
 }
