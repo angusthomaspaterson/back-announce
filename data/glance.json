@@ -67,14 +67,6 @@
    "u": "https://www.bbc.co.uk/sounds/play/m002s02q"
   },
   {
-   "d": "2026-11-26T01:25:02Z",
-   "g": "Writing",
-   "s": "The Guardian: Australian music",
-   "sid": "guardian-au-music",
-   "t": "Whispering Jack: The John Farnham Musical review – Michael Paynter’s voice soars in a show full of humour and heart",
-   "u": "https://www.theguardian.com/stage/2026/nov/26/michael-paynter-whispering-jack-the-john-farnham-musical-review"
-  },
-  {
    "d": "2026-11-26T01:00:00Z",
    "g": "Double J",
    "s": "Take 5 with Zan Rowe",
@@ -163,31 +155,20 @@
    "sid": "rinse-utopia",
    "t": "Utopia Presents, 25 Nov 2026",
    "u": "https://www.rinse.fm/episodes/utopia-presents-25-11-2026-1500"
+  },
+  {
+   "d": "2026-11-25T14:59:32Z",
+   "g": "Mixes",
+   "s": "RA Podcast",
+   "sid": "ra-podcast",
+   "t": "EX.820 Sammy Virji",
+   "u": "https://soundcloud.com/resident-advisor/ex-820-sammy-virji"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 166,
+ "newCount": 151,
  "paused": 0,
- "releases": [
-  {
-   "k": "Single · Anjunadeep Explorations",
-   "out": "2026-12-02T00:00:00Z",
-   "t": "Chris Luno – Venus Dance",
-   "u": "https://anjunadeep.com/products/639115-venus-dance"
-  },
-  {
-   "k": "Album · Anjunachill",
-   "out": "2026-12-03T00:00:00Z",
-   "t": "Above & Beyond pres. Anjuna:Chilled 01",
-   "u": "https://anjunadeep.com/products/617925-above-beyond-pres-anjunachilled-01"
-  },
-  {
-   "k": "Album · Anjunadeep",
-   "out": "2027-01-21T00:00:00Z",
-   "t": "Cubicolor – Brainsugar (10 Year Anniversary Edition)",
-   "u": "https://anjunadeep.com/products/632654-brainsugar-10-year-anniversary-edition"
-  }
- ],
+ "releases": [],
  "saved": [
   {
    "at": "2026-11-26T00:19:07Z",
@@ -250,6 +231,6 @@
    "u": "https://www.rinse.fm/episodes/stones-taro-09-11-2026-2300"
   }
  ],
- "sources": 188,
+ "sources": 186,
  "updated": "2026-11-26T21:30:28Z"
 }

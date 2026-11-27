@@ -695,15 +695,6 @@
   {
    "added": "sweep",
    "group": "Writing",
-   "home": "https://www.theguardian.com/music/australian-music",
-   "id": "guardian-au-music",
-   "kind": "rss",
-   "name": "The Guardian: Australian music",
-   "url": "https://www.theguardian.com/music/australian-music/rss"
-  },
-  {
-   "added": "sweep",
-   "group": "Writing",
    "home": "https://joemuggs.substack.com/",
    "id": "erratic-aesthetic",
    "kind": "rss",
@@ -1329,15 +1320,6 @@
    "kind": "rss",
    "name": "21C Progressive House",
    "url": "https://feeds.soundcloud.com/users/soundcloud:users:732625912/sounds.rss"
-  },
-  {
-   "added": "oct14",
-   "group": "Progressive & Trance",
-   "home": "https://anjunadeep.com/music",
-   "id": "anjunadeep-releases",
-   "kind": "manual",
-   "name": "Anjunadeep releases",
-   "upcoming": true
   },
   {
    "accumulate": true,
