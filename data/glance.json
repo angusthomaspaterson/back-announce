@@ -1,6 +1,14 @@
 {
  "items": [
   {
+   "d": "2026-11-27T17:42:12Z",
+   "g": "Writing",
+   "s": "zensounds (Stephan Kunze)",
+   "sid": "zensounds",
+   "t": "Is the Boards of Canada Book Any Good?",
+   "u": "https://www.zensounds.de/p/is-the-boards-of-canada-book-any"
+  },
+  {
    "d": "2026-11-27T11:05:21Z",
    "g": "Progressive & Trance",
    "s": "Gai Barone: Patterns",
@@ -154,22 +162,25 @@
    "sid": "triplej-hip-hop-show",
    "t": "Hip Hop Show, 26 Nov",
    "u": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107408344"
-  },
-  {
-   "d": "2026-11-26T08:00:00Z",
-   "g": "Radio",
-   "s": "KEXP: In Our Headphones",
-   "sid": "in-our-headphones",
-   "sp": "KEXP: In Our Headphones KEXP DJ Cherrelle on Kareen Lomax and Life in the South",
-   "t": "KEXP DJ Cherrelle on Kareen Lomax and Life in the South",
-   "u": "https://omny.fm/shows/kexp-song-of-the-day/kexp-dj-cherrelle-on-kareen-lomax-and-life-in-the-south"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 165,
+ "newCount": 167,
  "paused": 0,
  "releases": [],
  "saved": [
+  {
+   "at": "2026-11-27T13:59:28Z",
+   "s": "Gai Barone: Patterns",
+   "t": "Patterns 728",
+   "u": "https://soundcloud.com/gai-barone/patterns-728"
+  },
+  {
+   "at": "2026-11-27T13:44:28Z",
+   "s": "BBC Introducing on Radio 1 Dance",
+   "t": "with Jaguar: Swimming Paul & D38 Dancefloor Moment and November wrap-up",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034bgy"
+  },
   {
    "at": "2026-11-26T00:19:07Z",
    "s": "Space Afrika",
@@ -217,20 +228,8 @@
    "s": "6 Music's Rave Forever",
    "t": "Gaming: Rave Radio",
    "u": "https://www.bbc.co.uk/sounds/play/m0033n8v"
-  },
-  {
-   "at": "2026-11-16T14:32:51Z",
-   "s": "Classic Albums with Caz Tran",
-   "t": "John Farnham - Whispering Jack",
-   "u": "https://www.abc.net.au/listen/programs/doublej-classic-albums/classic-albums-john-farnham-whispering-jack/107343588"
-  },
-  {
-   "at": "2026-11-12T03:49:07Z",
-   "s": "Stones Taro",
-   "t": "Stones Taro, 9 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/stones-taro-09-11-2026-2300"
   }
  ],
  "sources": 187,
- "updated": "2026-11-27T11:23:12Z"
+ "updated": "2026-11-27T21:30:07Z"
 }
