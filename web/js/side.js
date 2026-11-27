@@ -2,7 +2,7 @@
 // Phones and narrow windows never show it (see .side in app.css), so it is drawn only when wide.
 import {$, esc} from './util.js';
 import {liveNow, playStation} from './onair.js';
-import {S} from './feed.js';
+import {S, pickedShows} from './feed.js';
 
 const wide = matchMedia('(min-width: 1100px)');
 let timer = null;
@@ -18,10 +18,11 @@ export function renderSide() {
         <div class="acts">${o.playable ? `<button class="btn q" data-k="${esc(o.key)}">▶ Play here</button>` : ''}<a class="btn q" href="${esc(o.live)}" target="_blank" rel="noopener">Listen live ↗</a></div>
       </div>`).join('')
     : `<p class="hint">Nothing scheduled on your stations right now.</p>`;
-  const picks = S.picks.filter(p => p.card && p.card.url).sort((a, b) => (b.pickedAt || '').localeCompare(a.pickedAt || '')).slice(0, 4);
+  // Picks are shows: each links to the show's page, with its latest episode and the start of the note.
+  const picks = pickedShows().slice(0, 4);
   $('sidePicksBox').hidden = !picks.length;
-  $('sidePicks').innerHTML = picks.map(p => `<a class="spick" href="${esc(p.card.url)}" target="_blank" rel="noopener">
-      <b>${esc(p.card.title)}</b><span class="sub">${esc(p.card.sname || '')}</span>${p.note ? `<span class="nt">${esc(p.note.length > 140 ? p.note.slice(0, 137).replace(/\s+\S*$/, '') + '…' : p.note)}</span>` : ''}</a>`).join('');
+  $('sidePicks').innerHTML = picks.map(p => `<a class="spick" href="#source/${encodeURIComponent(p.sid)}">
+      <b>${esc(p.sname)}</b>${p.latest ? `<span class="sub">Latest: ${esc(p.title)}</span>` : ''}${p.pickNote ? `<span class="nt">${esc(p.pickNote.length > 140 ? p.pickNote.slice(0, 137).replace(/\s+\S*$/, '') + '…' : p.pickNote)}</span>` : ''}</a>`).join('');
 }
 
 export function wireSide() {

@@ -160,7 +160,7 @@
     <li><b>Search</b> (the magnifying glass, top right) looks through every recent episode's title, description and tracklist, and every show. Try an artist, a DJ or a label.</li>
     <li><b>Open</b> goes to the episode or article; the button says where, such as <b>Open in NTS</b>. On Android it opens the NTS, BBC Sounds, ABC listen, SoundCloud, Mixcloud or Spotify app if you have it.</li>
     <li><b>Save</b> (the heart) keeps a copy in your Saved list, so it stays after the episode drops out of the feed. <b>Share</b> sends the episode to someone.</li>
-    <li><b>Angus's picks</b> are episodes he has singled out, each with a note on why.</li>
+    <li><b>Angus's picks</b> are shows he especially rates, each with a note on why. Every new episode of a picked show is marked <b>★ Angus's pick</b>, with an orange ring round the show's initials.</li>
   </ul>
 
   <h2>Listening here</h2>
@@ -290,7 +290,7 @@
   <h2>Visitors and your picks</h2>
   <ul>
     <li><b>Visitors</b> (anyone without your token) start with your followed shows and can pause, save and mark seen for themselves. Their choices stay in their own browser and never reach you or GitHub. They don't see your Saved list in the app.</li>
-    <li><b>Pick</b>, on any card, adds it to <b>Angus's picks</b> with your note. Picks are public. Tap <b>Picked ✓</b> to change the note or remove the pick. The newest 40 are kept.</li>
+    <li><b>★ Pick this show</b>, on a show's page, adds the show to <b>Angus's picks</b> with your note. Picks are public, and every new episode of the show is marked as your pick until you remove it. <b>Edit pick</b>, on the show's page or the Picks list, changes the note or removes the pick.</li>
     <li><b>Share my feed</b>, on the Sources screen, makes a link to the shows you follow.</li>
     <li>To see what a visitor sees, open the site in a private browser window.</li>
     <li><b>Visit counts</b> are at <a href="https://backannounce.goatcounter.com/" target="_blank" rel="noopener">backannounce.goatcounter.com</a>: screens opened and actions such as Play or Save, never which show. Devices with your token aren't counted.</li>
@@ -367,9 +367,9 @@
   <form method="dialog" class="set">
     <h2 id="pickTitle">Angus's picks</h2>
     <p class="hint" id="pickWhat"></p>
-    <label for="pickNote">Why is this one worth hearing?</label>
+    <label for="pickNote">Why is this show worth following?</label>
     <textarea id="pickNote" rows="4" maxlength="400" placeholder="A line or two, in your own words"></textarea>
-    <p class="hint">Picks are public: every visitor sees this card and your note. Your Saved list is separate and isn't shown to anyone.</p>
+    <p class="hint">Picks are public: every visitor sees the show and your note, and each new episode is marked as your pick. Your Saved list is separate and isn't shown to anyone.</p>
     <div class="setrow"><button type="button" class="btn p" id="pickSave">Save pick</button><button type="button" class="btn" id="pickRemove" hidden>Remove pick</button></div>
     <p class="setstatus" id="pickStatus" role="status"></p>
     <div class="setrow end"><button class="btn" value="close">Cancel</button></div>

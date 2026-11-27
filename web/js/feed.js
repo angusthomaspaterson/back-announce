@@ -113,14 +113,29 @@ export function snapshot(it) {
   if (Array.isArray(it.links) && it.links.length) d.links = it.links.map(l => ({t: String(l.t || ''), u: String(l.u || '')}));
   return d;
 }
-/** Angus's public picks: {key, note, pickedAt, card}, newest first. Separate from anyone's Saved list. */
-export function pickFor(it) {
-  const k = savedKey(it);
-  return S.picks.find(p => p.key === k || (p.card && p.card.sid === it.sid && ((it.id && p.card.id === it.id) || (it.url && p.card.url === it.url)))) || null;
+// ---- Angus's picks: shows, not episodes ----
+// Since 27 Nov 2026 a pick is a show, {sid, note, pickedAt}: its new episodes carry the pick
+// until Angus swaps it out. Older entries picked one episode ({card: {sid, ...}}); they count
+// as a pick of that episode's show.
+const pickSid = p => (p && (p.sid || (p.card && p.card.sid))) || '';
+/** Angus's pick of this show, if he has picked it. Separate from anyone's Saved list. */
+export function pickOf(sid) { return (sid && S.picks.find(p => pickSid(p) === sid)) || null; }
+/**
+ * One entry per picked show still in the catalogue, newest pick first: the show's latest
+ * episode (or just the show, if nothing is gathered yet) with the pick's note and date.
+ */
+export function pickedShows() {
+  const out = [], now = nowIso();
+  for (const p of S.picks) {
+    const sid = pickSid(p);
+    if (!sid || !cfgFor(sid) || out.some(o => o.sid === sid)) continue;
+    const latest = srcItems(sid).find(i => !i.linkOnly && (!i.date || i.date <= now));
+    const base = latest || withSource({id: '', title: '', url: '', date: null}, sid);
+    out.push({...base, pickedAt: p.pickedAt || null, pickNote: p.note || '', latest: !!latest});
+  }
+  return out.sort((x, y) => (y.pickedAt || '').localeCompare(x.pickedAt || ''));
 }
-function picksList() {
-  return S.picks.filter(p => p.card && p.card.url).map(p => ({...p.card, pickedAt: p.pickedAt})).sort((x, y) => (y.pickedAt || '').localeCompare(x.pickedAt || ''));
-}
+const picksList = pickedShows;
 function savedList() {
   return Object.entries(S.saved).map(([k, v]) => ({...v, _key: k})).sort((x, y) => (y.savedAt || '').localeCompare(x.savedAt || ''));
 }
@@ -170,10 +185,10 @@ function card(it, mode) {
   cardMap.set(key, it);
   const saved = inSaved || findSavedKey(it) !== null;
   const isNew = !inSaved && !inPicks && !it.linkOnly && dateOk(it.date) && (!S.lastSeen || it.date > S.lastSeen);
-  // Angus's picks carry his note wherever the card appears.
-  const pick = inSaved ? null : pickFor(it);
-  const note = pick ? `<blockquote class="note"><span class="by">Angus's pick</span>${pick.note ? esc(pick.note) : ''}</blockquote>` : '';
-  const pickBtn = S.owner && !inSaved && !it.linkOnly ? `<button class="btn q" data-pick="${esc(key)}" title="Add this to your public picks, with a note">${pick ? 'Picked ✓' : 'Pick'}</button>` : '';
+  // A show Angus has picked: every episode of it carries the tag, and its avatar a ring.
+  // His note is on the Picks page and the show's own page.
+  const pick = inSaved || it.linkOnly ? null : pickOf(it.sid);
+  const note = pick ? `<div class="ptagrow"><span class="ptag">★ Angus's pick</span></div>` : '';
   const tags = [it.tags, it.location, dur(it.duration)].filter(Boolean).join(' · ');
   const square = /sndcdn|ntslive|podbean|mixcloud|bcbits/.test(it.image || '');
   const links = (it.links || []).map(l => `<a href="${esc(l.u)}" target="_blank" rel="noopener">↗ ${esc(l.t)}</a>`).join('');
@@ -190,17 +205,17 @@ function card(it, mode) {
   // Older BBC cards said "(UK only)"; the BBC Sounds app plays them anywhere.
   const desc = (it.desc || '').replace(' (UK only).', '.');
   const bar = prog && !prog.done && prog.d ? `<div class="prog" aria-hidden="true"><i style="width:${Math.min(100, prog.t / prog.d * 100).toFixed(1)}%"></i></div>` : '';
-  return `<article class="card${it.linkOnly ? ' linkonly' : ''}" style="--sc:${gcol(it.group)}">
+  return `<article class="card${it.linkOnly ? ' linkonly' : ''}${pick ? ' picked' : ''}" style="--sc:${gcol(it.group)}">
     <div class="who"><button class="srcbtn" data-src="${esc(it.sid)}" ${inSrc ? 'disabled' : ''} aria-label="See recent posts from ${esc(it.sname)}"><span class="av" aria-hidden="true">${esc(initials(it.sname))}</span>
       <span class="who-t"><span class="nm">${esc(it.sname)}${inSrc ? '' : ' <span class="go" aria-hidden="true">›</span>'}</span><span class="sub">${esc(catsOfItem(it).join(' · '))}${(inSaved || inPicks) && dateOk(it.date) ? ' · ' + esc(sfmt.format(new Date(it.date))) : ''}</span></span></button>
       <div class="t">${isNew ? '<span class="new">New</span>' : ''}${dateOk(when) ? esc(tfmt.format(new Date(when))) + '<br>' + esc(rel(when)) : ''}</div></div>
-    <div class="ttl"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
     ${note}
+    <div class="ttl"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
     ${desc ? `<div class="txt" title="Tap to expand">${esc(desc)}</div>` : ''}
     ${links ? `<div class="links">${links}</div>` : ''}
     ${it.image ? `<a class="pic${square ? ' sq' : ''}" href="${esc(it.url)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="${esc(it.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>` : ''}
     ${bar}
-    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : 'Open'} ↗</a>${audio}${heart}${spotify}${share}${pickBtn}${pause}${tags || prog && prog.done ? `<span class="tag">${prog && prog.done ? '<b class="played">Played ✓</b>' + (tags ? ' · ' : '') : ''}${esc(tags)}</span>` : ''}</div>
+    <div class="acts"><a class="btn p" href="${esc(it.url)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : 'Open'} ↗</a>${audio}${heart}${spotify}${share}${pause}${tags || prog && prog.done ? `<span class="tag">${prog && prog.done ? '<b class="played">Played ✓</b>' + (tags ? ' · ' : '') : ''}${esc(tags)}</span>` : ''}</div>
   </article>`;
 }
 function dayList(list, mode, limit) {
@@ -212,6 +227,32 @@ function dayList(list, mode, limit) {
     html += card(it, mode);
   }
   return html;
+}
+/**
+ * A picked show on the Picks page, set out like liner notes: the show, Angus's note, how long
+ * it has been a pick, and its latest episode with Play.
+ */
+function pickCard(it) {
+  const sid = it.sid, name = it.sname;
+  const since = dateOk(it.pickedAt) ? ' · Picked since ' + sfmt.format(new Date(it.pickedAt)) : '';
+  const about = !it.pickNote ? aboutOf(sid) : '';
+  let latest = '';
+  if (it.latest) {
+    const key = it._key || savedKey(it); cardMap.set(key, it);
+    const prog = it.audio ? getProgress(it.audio) : null, where = openWhere(it.url);
+    const btn = it.audio
+      ? `<button class="btn play" data-play="${esc(it.audio)}" data-name="${esc(it.title)}" data-sub="${esc(name)}" data-art="${esc(it.image || '')}">${playLabel(prog)}</button>`
+      : `<a class="btn" href="${esc(it.url)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : 'Open'} ↗</a>`;
+    latest = `<div class="plast"><div class="pl-t"><span class="lbl">Latest episode${dateOk(it.date) ? ' · ' + esc(sfmt.format(new Date(it.date))) : ''}</span>
+      <a class="pl-n" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>${btn}</div>`;
+  }
+  return `<article class="card pickcard picked" style="--sc:${gcol(it.group)}">
+    <div class="who"><button class="srcbtn" data-src="${esc(sid)}" aria-label="See every episode of ${esc(name)}"><span class="av" aria-hidden="true">${esc(initials(name))}</span>
+      <span class="who-t"><span class="nm">${esc(name)} <span class="go" aria-hidden="true">›</span></span><span class="sub">${esc(catsOfItem(it).join(' · '))}${esc(since)}</span></span></button></div>
+    ${it.pickNote ? `<blockquote class="pnote">${esc(it.pickNote)}</blockquote>` : about ? `<p class="pabout">${esc(about)}</p>` : ''}
+    ${latest}
+    <div class="acts"><button class="btn q" data-src="${esc(sid)}">All episodes ›</button>${S.owner ? `<button class="btn q" data-pickshow="${esc(sid)}">Edit pick</button>` : ''}</div>
+  </article>`;
 }
 const empty = msg => `<div class="empty">${msg}</div>`;
 
@@ -340,11 +381,11 @@ function renderStream(items, saved) {
   const vis = pool.filter(i => catsOfItem(i).some(g => S.groups[g] !== false) &&(inSaved || inPicks || !S.playOnly || i.audio));
   let html = notices(inSaved, saved);
   if (inSaved && !saved.length) html += empty('Nothing saved yet. Tap the heart on any card to keep it here. Saved cards stay even after the show drops out of the feed.');
-  else if (inPicks && !pool.length) html += empty(S.owner ? "No picks yet. Tap Pick on any card and say why it's worth hearing. Picks are public; your Saved list is not." : 'No picks yet.');
+  else if (inPicks && !pool.length) html += empty(S.owner ? "No picks yet. Open a show's page, tap ★ Pick this show and say why it's worth following. Picks are public; your Saved list is not." : 'No picks yet.');
   else if (!pool.length) html += empty('Nothing gathered yet. The first run fills this in; after that it refreshes once a day.');
   else if (!vis.length) html += empty(S.playOnly ? 'Nothing in these groups plays here. Tap ▶ Plays here to see everything again.' : 'Every group is switched off. Tap a chip above to bring one back.');
   else {
-    html += dayList(vis, inPicks ? 'picks' : inSaved ? 'saved' : 'feed', S.limit);
+    html += inPicks ? vis.map(pickCard).join('') : dayList(vis, inSaved ? 'saved' : 'feed', S.limit);
     if (vis.length > S.limit) html += `<button class="more" id="more">Show ${Math.min(60, vis.length - S.limit)} more of ${vis.length}</button>`;
   }
   $('stream').innerHTML = html;
@@ -385,11 +426,16 @@ function renderSrcHead() {
   // "NTS · NTS" says nothing twice: leave the kind out when it matches the group.
   const kind = cfg.kind ? kindLabel(cfg.kind) : '';
   const showKind = kind && kind.toLowerCase() !== group.toLowerCase();
+  // A picked show says so at the top of its page, with Angus's note.
+  const pk = pickOf(id);
+  const pickNote = pk ? `<blockquote class="pnote"><span class="by">★ Angus's pick${dateOk(pk.pickedAt) ? ' since ' + esc(sfmt.format(new Date(pk.pickedAt))) : ''}</span>${esc(pk.note || '')}</blockquote>` : '';
+  const pickBtn = O ? `<button class="btn" data-pickshow="${esc(id)}">${pk ? 'Edit pick' : '★ Pick this show'}</button>` : '';
   h.innerHTML = `<button class="chip back" id="srcBack">‹ Back to ${back}</button>
-    <div class="sh"><div class="av" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(catsOf(cfg.group ? cfg : {group}).join(' · '))}${showKind ? ' · ' + esc(kind) : ''}${O && cfg.added ? ' · ' + esc(addedLabel(cfg.added)) : ''}</div>
+    <div class="sh"><div class="av${pk ? ' ring' : ''}" aria-hidden="true">${esc(initials(name))}</div><div class="shi"><div class="sub">${esc(catsOf(cfg.group ? cfg : {group}).join(' · '))}${showKind ? ' · ' + esc(kind) : ''}${O && cfg.added ? ' · ' + esc(addedLabel(cfg.added)) : ''}</div>
       <div class="sub">${real.length ? `${real.length} recent${real[0] && dateOk(real[0].date) ? ', latest ' + esc(sfmt.format(new Date(real[0].date))) : ''}` : ''}${health ? ' · ' + health : ''}${off ? ' · paused' : ''}</div></div></div>
+    ${pickNote}
     ${about ? `<p class="about">${esc(about)}</p>` : ''}
-    <div class="acts">${home ? `<a class="btn" href="${esc(home)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : `Visit ${esc(host.length > 28 ? 'site' : host)}`} ↗</a>` : ''}${S.canWrite ? `<button class="btn${off ? ' p' : ''}" id="srcPause">${off ? (O ? 'Resume source' : 'Add to my feed') : `Pause ${word}`}</button>` : ''}</div>`;
+    <div class="acts">${home ? `<a class="btn" href="${esc(home)}" target="_blank" rel="noopener">${where ? `Open in ${esc(where)}` : `Visit ${esc(host.length > 28 ? 'site' : host)}`} ↗</a>` : ''}${S.canWrite ? `<button class="btn${off ? ' p' : ''}" id="srcPause">${off ? (O ? 'Resume source' : 'Add to my feed') : `Pause ${word}`}</button>` : ''}${pickBtn}</div>`;
 }
 function renderSrcPage() {
   const id = S.srcId, d = S.feed[id] || {};
@@ -453,7 +499,7 @@ function renderSourceList() {
     const cats = catsOf(s).filter(c => c !== heading);
     const cat = cats.length ? `<span class="cat"><span class="sw"></span>${esc(cats.join(' · '))}</span> · ` : '';
     const m = cat + (S.owner ? `${esc(addedLabel(s.added))}${s.kind ? ' · ' + esc(kindLabel(s.kind)) : ''}` : esc(about.length > 110 ? about.slice(0, 107).replace(/\s+\S*$/, '') + '…' : about || kindLabel(s.kind)));
-    return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · ' + esc(pausedLabel(s.id)) : ''}</div></div>`;
+    return `<div class="srow${off ? ' off' : ''}${W ? '' : ' ro'}" style="--sc:${gcol(g)}">${W ? `<button class="tg" role="switch" aria-checked="${!off}" aria-label="${esc(s.name)}" data-sid="${esc(s.id)}"></button>` : ''}<div class="n"><button class="srclink" data-src="${esc(s.id)}">${esc(s.name)}</button>${pickOf(s.id) ? `<span class="pktag">★ ${S.owner ? 'Your' : "Angus's"} pick</span>` : ''}${isNewInCatalogue(s) ? '<span class="newtag">New</span>' : ''}</div><div class="st${S.owner && ss.ok === false && !ss.linkOnly ? ' bad' : ''}"${S.owner ? ` title="${esc(ss.error || '')}"` : ''}>${esc(stTxt)}</div><div class="m">${m}${off ? ' · ' + esc(pausedLabel(s.id)) : ''}</div></div>`;
   };
   let html = '';
   const how = sortNow();
@@ -527,7 +573,7 @@ export function wire() {
       else if (r !== 'playing') { t.textContent = 'In Up next'; toast(r === 1 ? 'Plays next' : `Added to Up next (${r} waiting)`); }
       S.track('queue');
     }
-    else if (t.dataset.pick != null) { const it = cardMap.get(t.dataset.pick); if (it) S.onPick(it); }
+    else if (t.dataset.pickshow) S.onPick(t.dataset.pickshow);
     else if (t.dataset.share != null) { const it = cardMap.get(t.dataset.share); if (it) { S.onShareCard(it); S.track('share'); } }
     else if (t.dataset.src && !t.disabled) S.onNavigate('#source/' + encodeURIComponent(t.dataset.src));
     else if (t.id === 'more') { S.limit += 60; rendered.stream = null; show(); }
@@ -578,6 +624,7 @@ export function wire() {
     const b = e.target.closest('button'); if (!b) return;
     if (b.id === 'srcBack') S.onBack();
     else if (b.id === 'srcPause') { const id = S.srcId, off = S.paused.has(id); S.onPause([id], !off, `${off ? 'Resumed' : 'Paused'} ${nameOf(id)}`); }
+    else if (b.dataset.pickshow) S.onPick(b.dataset.pickshow);
   });
 
   $('sourcesView').addEventListener('click', e => {

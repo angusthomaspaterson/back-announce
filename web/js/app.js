@@ -3,7 +3,7 @@
 import {$, wireToast, toast, nowIso, appIntent, isAndroid} from './util.js';
 import {wireAdd, showAdd} from './add.js';
 import {loadAll, COUNTER} from './data.js';
-import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, refreshProgress, findSavedKey, savedKey, snapshot, nameOf, pickFor, srcItems} from './feed.js';
+import {S, show as showFeed, render as renderFeed, invalidate, wire as wireFeed, renderMeta, refreshHearts, refreshProgress, findSavedKey, savedKey, snapshot, nameOf, pickOf, srcItems} from './feed.js';
 import {renderSide, wireSide} from './side.js';
 import * as onair from './onair.js';
 import {wirePlayer} from './player.js';
@@ -156,14 +156,16 @@ S.onMarkSeen = () => {
   toast('Marked all seen', () => q({t: 'seen', at: prev, msg: 'undo mark all seen'}));
 };
 
-// ---- Angus's picks: a public list, built one card at a time, each with a note ----
+// ---- Angus's picks: a public list of shows, each with a note ----
 // Owner only. Picks live in data/picks.json in the repository, apart from the Saved list.
+// A pick is a show ({sid, note, pickedAt}): its future episodes carry it until it is removed.
 let picksEditedAt = 0, picking = null;
 const PICKS_FILE = 'data/picks.json', PICKS_KEPT = 40;
-S.onPick = it => {
-  picking = it;
-  const cur = pickFor(it);
-  $('pickWhat').textContent = `${it.title} (${it.sname})`;
+const pickSidOf = p => (p && (p.sid || (p.card && p.card.sid))) || '';
+S.onPick = sid => {
+  picking = sid;
+  const cur = pickOf(sid);
+  $('pickWhat').textContent = nameOf(sid);
   $('pickNote').value = cur ? cur.note || '' : '';
   $('pickSave').textContent = cur ? 'Update pick' : 'Save pick';
   $('pickRemove').hidden = !cur;
@@ -172,21 +174,20 @@ S.onPick = it => {
   $('pickNote').focus();
 };
 async function writePick(remove) {
-  const it = picking; if (!it) return;
-  const key = savedKey(it), note = $('pickNote').value.trim();
-  const entry = {key, note, pickedAt: (pickFor(it) || {}).pickedAt || nowIso(), card: snapshot(it)};
-  delete entry.card.savedAt;
+  const sid = picking; if (!sid) return;
+  const note = $('pickNote').value.trim(), name = nameOf(sid);
+  const entry = {sid, note, pickedAt: (pickOf(sid) || {}).pickedAt || nowIso()};
   const btns = [$('pickSave'), $('pickRemove')]; btns.forEach(b => { b.disabled = true; });
   $('pickStatus').textContent = 'Saving…';
   try {
     const doc = await store.files.edit(PICKS_FILE, cur => {
-      const rest = (Array.isArray(cur.items) ? cur.items : []).filter(p => p.key !== key);
+      const rest = (Array.isArray(cur.items) ? cur.items : []).filter(p => pickSidOf(p) !== sid);
       return {...cur, items: (remove ? rest : [entry, ...rest]).slice(0, PICKS_KEPT)};
-    }, remove ? `picks: remove "${it.title}"`.slice(0, 72) : `picks: add "${it.title}"`.slice(0, 72));
+    }, (remove ? `picks: remove ${name}` : `picks: pick ${name}`).slice(0, 72));
     S.picks = doc.items; picksEditedAt = Date.now();
     $('pickDlg').close();
     rerender();
-    toast(remove ? 'Removed from your picks' : 'Added to your picks. Visitors see it in a minute or two.');
+    toast(remove ? `${name} is no longer a pick` : `${name} is a pick. Visitors see it in a minute or two.`);
   } catch (e) {
     $('pickStatus').textContent = `Couldn't save the pick (${e.status || 'offline'}). Try again.`;
   } finally { btns.forEach(b => { b.disabled = false; }); }

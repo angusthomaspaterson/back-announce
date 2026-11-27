@@ -154,6 +154,24 @@ header.top h1.brand::after{content:".";color:var(--accent)}
 /* Angus's note on a pick: his words, set apart from the station's own description. */
 .fd .card .note{margin:8px 0 2px;padding:8px 12px;border-left:3px solid var(--accent);background:var(--soft);border-radius:0 8px 8px 0;font-size:14px;line-height:1.45;white-space:pre-line}
 .fd .card .note .by{display:block;font-family:var(--mono);font-size:10.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);margin-bottom:2px}
+/* Angus's picks are shows. A picked show's initials get an orange ring, like the on-air full
+   stop in the wordmark, and each of its episodes a small tag above the title. */
+.fd .card.picked .who .av{box-shadow:0 0 0 2px var(--panel),0 0 0 4px var(--accent)}
+.fd .srchead .av.ring{box-shadow:0 0 0 3px var(--bg),0 0 0 5px var(--accent)}
+.fd .ptagrow{margin:10px 0 -2px}
+.fd .ptag{display:inline-block;background:var(--accent);color:var(--accent-ink);font-size:11.5px;font-weight:600;line-height:1.5;padding:1px 9px;border-radius:999px}
+.fd .pktag{font-family:var(--mono);font-size:10px;font-weight:600;color:var(--accent);margin-left:6px;letter-spacing:.04em;text-transform:uppercase}
+/* The Picks page, set out like liner notes: Angus's note, then the latest episode. */
+.fd .pnote{margin:12px 0 2px;padding:2px 0 2px 12px;border-left:3px solid var(--accent);font-size:15px;line-height:1.5;white-space:pre-line}
+.fd .pnote .by{display:block;font-family:var(--mono);font-size:10.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);margin-bottom:3px}
+.fd .pickcard .pabout{margin:10px 0 0;font-size:14px;line-height:1.5;color:var(--muted)}
+.fd .plast{display:flex;gap:12px;align-items:center;justify-content:space-between;border-top:1px solid var(--line);margin-top:14px;padding-top:12px}
+.fd .plast .pl-t{min-width:0}
+.fd .plast .lbl{display:block;font-size:12px;color:var(--muted);margin-bottom:2px}
+.fd .plast .pl-n{font-weight:600;color:inherit;text-decoration:none;line-height:1.3}
+.fd .plast .pl-n:hover{text-decoration:underline}
+.fd .plast .btn{flex:none}
+.fd .pickcard .acts{margin-top:12px}
 .fd .chip.src{background:var(--soft);opacity:1}
 .fd .chip.playchip[aria-pressed="false"]{opacity:1;background:var(--soft)}
 .fd .chip.playchip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}

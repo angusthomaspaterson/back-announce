@@ -72,7 +72,7 @@ Angus decided on 16 Nov 2026 to open the app to a few visitors without running a
 - A first visit shows a welcome panel: keep Angus's whole feed, or start from starter packs (bundles of groups, `web/js/packs.js`).
 - Sources has search, and a New filter for shows added in the last three weeks.
 - "Share my feed" and "Take it to another device" put the selection (and, for a setup, Saved cards and the seen marker) in the address as `#setup=<code>` (`web/js/carry.js`). Opening one asks before changing anything.
-- "Angus's picks" is a public list in `data/picks.json`, written only with a token: a card plus his note. It is separate from his Saved list.
+- "Angus's picks" is a public list in `data/picks.json`, written only with a token. Since 27 Nov 2026 a pick is a show, `{sid, note, pickedAt}`, chosen on the show's page ("★ Pick this show"). Every episode of a picked show gets a "★ Angus's pick" tag and an orange ring round its avatar; the Picks page shows each show like liner notes (note, "Picked since", latest episode with Play). Older single-episode entries count as a pick of their show. It is separate from his Saved list.
 - Angus's Saved list is private to him. The app never shows it to visitors, and the Pages copy of `state.json` carries only the paused list. The file in the public repository still holds it.
 - Help and Settings have a visitor version and an owner version (`.visitor-only`, `.owner-only`, set by `body[data-mode]`).
 - Visitors cannot add sources. "Suggest a show" posts to Angus's Google Form "Back Announce: Suggest a show" (`SUGGEST_FORM` in `web/js/data.js`, set 19 Nov 2026; no email or sign-in collected). With `action` empty it falls back to LinkedIn, a GitHub issue or copying. Angus adds what he approves.
