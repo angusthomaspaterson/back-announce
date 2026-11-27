@@ -5,6 +5,16 @@
  "id": "fbi-midday-mix",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2445638808-fbiradiosydney-the-midday-mix-agonyintl.mp3",
+   "date": "2026-11-27T01:44:13Z",
+   "desc": "Luca Bianchino and Christian Whitwell comprise the Sydney-beloved pop duo agonyintl. For the Midday Mix, agonyintl blends the hyper-pop, indie sleaze, and electronic all with a slightly satirical edge. Seohbin and agonyintl sit down at the beginning to chat through the evolution of their sound and why they leant into club music for their debut album 'bull'. You can follow agonyintl on Instgram to keep up with their upcoming gigs at @agonyintl [https://www.instagram.com/agonyintl/#]",
+   "duration": "00:57:28",
+   "id": "tag:soundcloud-2010:tracks-2445638808",
+   "image": "https://i1.sndcdn.com/artworks-kdljUJWkDgT51NSz-2CbCdg-t3000x3000.jpg",
+   "title": "The Midday Mix: agonyintl",
+   "url": "https://soundcloud.com/fbiradiosydney/the-midday-mix-agonyintl"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2435358900-fbiradiosydney-k0z0-06-11.mp3",
    "date": "2026-11-10T05:05:02Z",
    "desc": "Drawing inspiration from his dance background, the multi-disciplinary artist Ko Yamada a.k.a. K0Z0 shares a mix with us across both usb and vinyl. Tune in and enjoy sounds from the underground electronic scene spanning breaks, dubstep, funk, and house. Halfway through, Yvonne and K0Z0 discuss his childhood in dance and being raised around electro and funk through street dance. Follow him on Instagram at @ko_yamada_ to keep up with any upcoming gigs [https://www.instagram.com/ko_yamada_/#]",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-BAy41pd8JruGBoU4-0oSCOg-t3000x3000.png",
    "title": "The Midday Mix - Sub Titles",
    "url": "https://soundcloud.com/fbiradiosydney/the-midday-mix-sub-titles"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2291467790-fbiradiosydney-themiddaymix-human-movement.mp3",
-   "date": "2026-03-27T04:13:55Z",
-   "desc": "Yes yes people, this week we're back in the studio with local legend Human Movement. Expect an hour of bassy cuts and cheeky dubs. Produced by KING HENRY",
-   "duration": "00:57:56",
-   "id": "tag:soundcloud-2010:tracks-2291467790",
-   "image": "https://i1.sndcdn.com/artworks-6BsSHb7kAvm3YJld-hxTiNw-t3000x3000.jpg",
-   "title": "The Midday Mix - Human Movement",
-   "url": "https://soundcloud.com/fbiradiosydney/themiddaymix-human-movement"
   }
  ],
  "kind": "rss",
  "name": "FBi Radio: The Midday Mix",
- "updatedAt": "2026-11-11T00:04:30Z"
+ "updatedAt": "2026-11-27T02:14:23Z"
 }
