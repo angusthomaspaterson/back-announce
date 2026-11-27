@@ -125,20 +125,10 @@
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fb5%2F5018e5ff4fa5bfacbfd25353e71c%2F036aec0b-32e8-4307-82c9-02723275580c.png",
      "title": "The rapturous, heartbreaking story of Elephant 6",
      "url": "https://www.npr.org/2026/10/20/nx-s1-6008050/the-rapturous-heartbreaking-story-of-elephant-6"
-    },
-    {
-     "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-g-s1-111189/npr.simplecastaudio.com/a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3/episodes/9a4bd3e5-6024-4ef2-9856-f1573adbeb3c/audio/128/default.mp3?awCollectionId=a67e6d18-7d2b-4aa9-ad3d-0fde29c306f3&awEpisodeId=9a4bd3e5-6024-4ef2-9856-f1573adbeb3c&feed=uwsqics_&t=podcast&e=nx-s1-5996649&p=g-s1-111189&d=3066&size=98132741",
-     "date": "2026-10-13T09:00:00Z",
-     "desc": "Who’s the Mariah Carey of Halloween? Labels and artists are trying to capitalize on spooky season, but these are the songs that belong in the creepy canon, from the truly terrifying to simply seasonal and nostalgic. Note: An earlier version of this episode appeared on All Songs Considered in 2025. Tell us what you think with a review on Apple or Spotify wherever you listen to podcasts. Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.org Featured artists and songs: Phoebe Bridgers: “Killer” from ‘Stranger in the Alps’ Fever Ray: “If I Had A Heart,” from ‘F…",
-     "duration": "3066",
-     "id": "b5adb64e-2f95-4e30-bf7a-50fecb4b1691",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fde%2F830c750541b68709e1abe0ade585%2F3d4a1477-d4ec-4e85-b831-9d40c704e4d3.jpg",
-     "title": "A new canon of Halloween music",
-     "url": "https://www.npr.org/2026/10/13/nx-s1-5996649/a-new-canon-of-halloween-music"
     }
    ],
    "kind": "rss",
-   "more": 13,
+   "more": 14,
    "name": "NPR: All Songs Considered",
    "updatedAt": "2026-11-25T01:53:13Z"
   },
@@ -3458,20 +3448,10 @@
      "image": "https://substackcdn.com/image/fetch/$s_!_usY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6d875e3-968b-46fb-a499-ae8996ae1ceb_4032x3024.jpeg",
      "title": "FR 195: Sketches and Structures",
      "url": "https://futurismrestated.substack.com/p/fr-195-sketches-and-structures"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-13T10:31:06Z",
-     "desc": "The L.A. electronic improviser brings it all together on his latest album, Edge Conditions",
-     "duration": null,
-     "id": "https:--futurismrestated.substack.com-p-fr-194-smls-jeremiah-chiu-is-activating",
-     "image": "https://substackcdn.com/image/fetch/$s_!14ex!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fd39371-0430-4608-a755-1a05027ef984_3130x2075.jpeg",
-     "title": "FR 194: SML’s Jeremiah Chiu Is Activating Wildly",
-     "url": "https://futurismrestated.substack.com/p/fr-194-smls-jeremiah-chiu-is-activating"
     }
    ],
    "kind": "rss",
-   "more": 9,
+   "more": 10,
    "name": "Futurism Restated (Philip Sherburne)",
    "updatedAt": "2026-11-25T01:52:32Z"
   },
@@ -4616,6 +4596,47 @@
    "kind": "rss",
    "name": "Mixmag Australia/Asia",
    "updatedAt": "2026-11-25T07:16:40Z"
+  },
+  "money-4-nothing": {
+   "about": "Podcast and Newsletter on Music and Capitalism",
+   "home": "https://money4nothing.substack.com/",
+   "id": "money-4-nothing",
+   "items": [
+    {
+     "audio": "https://api.substack.com/feed/podcast/224215956/5f7c98320593af6584da9ee2df31263c.mp3",
+     "date": "2026-11-09T21:26:19Z",
+     "desc": "A peak behind the curtains....",
+     "duration": null,
+     "id": "https:--money4nothing.substack.com-p-how-kpop-actually-works-with-so-yoon",
+     "image": "https://substackcdn.com/image/fetch/$s_!BJUW!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd587bb3e-50a5-4ddf-9ae0-5b66134d87ee_315x315.png",
+     "title": "How Kpop Actually Works (with So Yoon Lee)",
+     "url": "https://money4nothing.substack.com/p/how-kpop-actually-works-with-so-yoon"
+    },
+    {
+     "audio": "https://api.substack.com/feed/podcast/220442011/a71f776c4fd781920a8c79ff96947d60.mp3",
+     "date": "2026-10-14T22:16:06Z",
+     "desc": "The first music streaming fraud conviction and other adventures in bot-manufactured popularity",
+     "duration": null,
+     "id": "https:--money4nothing.substack.com-p-cool-kids-doin-bot-crimes",
+     "image": "https://substackcdn.com/image/fetch/$s_!BJUW!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd587bb3e-50a5-4ddf-9ae0-5b66134d87ee_315x315.png",
+     "title": "Cool Kids Doin’ Bot Crimes",
+     "url": "https://money4nothing.substack.com/p/cool-kids-doin-bot-crimes"
+    },
+    {
+     "audio": null,
+     "date": "2026-10-02T23:23:25Z",
+     "desc": "The new meaning of wealth and the death of Hollywood",
+     "duration": null,
+     "id": "https:--money4nothing.substack.com-p-what-we-need-from-our-media-criticism",
+     "image": "https://substackcdn.com/image/fetch/$s_!J9yK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5eb97eb-8255-47e7-9972-0eb43a42983c_1760x1132.png",
+     "title": "What We Need From Our Media Criticism",
+     "url": "https://money4nothing.substack.com/p/what-we-need-from-our-media-criticism"
+    }
+   ],
+   "kind": "rss",
+   "more": 17,
+   "name": "Money 4 Nothing (Sam Backer and Saxon Baird)",
+   "updatedAt": "2026-11-27T11:22:47Z"
   },
   "music-not-diving": {
    "about": "Paul Rose aka the musician, DJ, and label boss known as Scuba talks to people of significance from the world of electronic music about their experiences, observations, and attempts to cultivate a life for themselves in the murky and sometimes treacherous waters of the music indu…",
@@ -7671,20 +7692,10 @@
      "image": null,
      "title": "Autosmile",
      "url": "https://pitchfork.com/reviews/albums/at-sign-autosmile/"
-    },
-    {
-     "audio": null,
-     "date": "2026-10-13T05:54:08Z",
-     "desc": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
-     "duration": null,
-     "id": "6acd1c5be40a73d39f25c837",
-     "image": null,
-     "title": "A Mile South of Heaven",
-     "url": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/"
     }
    ],
    "kind": "rss",
-   "more": 15,
+   "more": 16,
    "name": "Pitchfork: Best New Albums",
    "updatedAt": "2026-11-23T21:30:28Z"
   },
@@ -9375,20 +9386,10 @@
      "image": "https://cdn.promodj.com/afs/5d54573595c0a800912ab0d88e4c514412%3Aresize%3A1400x1400xxjpegxffffffxnoupscale%3Asame%3Ae1db27.jpg",
      "title": "Alexey Sonar - SkyTop Residency 448 #448",
      "url": "https://promodj.com/alexeysonar/radioshows/7983960/Alexey_Sonar_SkyTop_Residency_448_448"
-    },
-    {
-     "audio": "https://promodj.com/download/7980979/Alexey%20Sonar%20-%20SkyTop%20Residency%20447%20%23447%20%28promodj.com%29.mp3?podcast",
-     "date": "2026-10-13T05:45:51Z",
-     "desc": "Alexey Sonar Socials: Spotify: bit.ly/alexeysonar Soundcloud: soundcloud.com/alexeysonar Instagram: instagram.com/alexeysonar Telegram: t.me/skytopresidency 01. Paul Thomas - Celeste (Extended Mix) [UV] 02. Tonaco - Philomena (Das Pharaoh & Tiefstone Remix) [Mango Alley] 03. GMJ - Quintessence [Meanwhile] 04. Influence (IN), Yonsh - Zero Patience [Traful] 05. Kebin van Reeken - Something About You [Meanwhile] 06. Mamen Ghacea - Stutter (Extended Mix) [SkyTop] 07. Madraas - Leaving Places (Matthew Sona Remix) [Where The Shadow Ends] 08. Ivan Lozano - Dead and Alive [Kitchen Recordings] 09. Atl…",
-     "duration": "58:53",
-     "id": "https:--promodj.com-alexeysonar-radioshows-7980979",
-     "image": "https://cdn.promodj.com/afs/2d54bf8262db468165780bff6cbcbc3b12%3Aresize%3A1400x1400xxjpegxffffffxnoupscale%3Asame%3A85c7e6.jpg",
-     "title": "Alexey Sonar - SkyTop Residency 447 #447",
-     "url": "https://promodj.com/alexeysonar/radioshows/7980979/Alexey_Sonar_SkyTop_Residency_447_447"
     }
    ],
    "kind": "rss",
-   "more": 18,
+   "more": 19,
    "name": "SkyTop Residency (Alexey Sonar)",
    "updatedAt": "2026-11-25T03:03:39Z"
   },
@@ -13083,10 +13084,22 @@
    "kind": "rss",
    "name": "Bandcamp Notes (Bandcamp Daily)",
    "url": "https://bandcamp.substack.com/feed"
+  },
+  {
+   "added": "27 Nov",
+   "also": [
+    "Podcasts"
+   ],
+   "group": "Writing",
+   "home": "https://money4nothing.substack.com/",
+   "id": "money-4-nothing",
+   "kind": "rss",
+   "name": "Money 4 Nothing (Sam Backer and Saxon Baird)",
+   "url": "https://money4nothing.substack.com/feed"
   }
  ],
  "status": {
-  "lastRun": "2026-11-27T02:14:23Z",
+  "lastRun": "2026-11-27T11:22:47Z",
   "sources": {
    "21c-progressive": {
     "at": "2026-11-27T02:14:23Z",
@@ -13432,6 +13445,12 @@
     "at": "2026-11-27T02:14:23Z",
     "count": 25,
     "newest": "2026-11-25T04:37:00Z",
+    "ok": true
+   },
+   "money-4-nothing": {
+    "at": "2026-11-27T11:22:47Z",
+    "count": 20,
+    "newest": "2026-11-09T21:26:19Z",
     "ok": true
    },
    "music-not-diving": {

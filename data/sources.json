@@ -1958,6 +1958,18 @@
    "kind": "rss",
    "name": "Bandcamp Notes (Bandcamp Daily)",
    "url": "https://bandcamp.substack.com/feed"
+  },
+  {
+   "added": "27 Nov",
+   "also": [
+    "Podcasts"
+   ],
+   "group": "Writing",
+   "home": "https://money4nothing.substack.com/",
+   "id": "money-4-nothing",
+   "kind": "rss",
+   "name": "Money 4 Nothing (Sam Backer and Saxon Baird)",
+   "url": "https://money4nothing.substack.com/feed"
   }
  ]
 }
