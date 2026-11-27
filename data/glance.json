@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "d": "2026-11-27T01:00:00Z",
+   "g": "BBC",
+   "s": "The Residency on Radio 1 Dance",
+   "sid": "bbc-the-residency-on-radio-1-dance",
+   "t": "Effy - Northern English and Celtic Culture",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034bh1"
+  },
+  {
+   "d": "2026-11-26T23:00:00Z",
+   "g": "BBC",
+   "s": "BBC Introducing on Radio 1 Dance",
+   "sid": "bbc-introducing-on-radio-1-dance",
+   "t": "with Jaguar: Swimming Paul & D38 Dancefloor Moment and November wrap-up",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034bgy"
+  },
+  {
    "d": "2026-11-26T17:16:16Z",
    "g": "Progressive & Trance",
    "s": "The Anjunadeep Edition",
@@ -147,26 +163,10 @@
    "sid": "nts-moxie",
    "t": "Moxie",
    "u": "https://www.nts.live/shows/moxie/episodes/moxie-25th-november-2026"
-  },
-  {
-   "d": "2026-11-25T15:00:00Z",
-   "g": "Rinse FM",
-   "s": "Utopia Presents",
-   "sid": "rinse-utopia",
-   "t": "Utopia Presents, 25 Nov 2026",
-   "u": "https://www.rinse.fm/episodes/utopia-presents-25-11-2026-1500"
-  },
-  {
-   "d": "2026-11-25T14:59:32Z",
-   "g": "Mixes",
-   "s": "RA Podcast",
-   "sid": "ra-podcast",
-   "t": "EX.820 Sammy Virji",
-   "u": "https://soundcloud.com/resident-advisor/ex-820-sammy-virji"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 151,
+ "newCount": 153,
  "paused": 0,
  "releases": [],
  "saved": [
@@ -232,5 +232,5 @@
   }
  ],
  "sources": 186,
- "updated": "2026-11-26T21:30:28Z"
+ "updated": "2026-11-27T01:34:55Z"
 }
