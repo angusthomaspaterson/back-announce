@@ -5,6 +5,16 @@
  "id": "fbi-midday-mix",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2445743250-fbiradiosydney-the-midday-mix-homebody.mp3",
+   "date": "2026-11-27T08:03:22Z",
+   "desc": "homebody is a Wiradjuri DJ, producer and singer from Muloobinba/Newcastle. She predominantly explores genres spanning ambient, dubstep, breaks, glitches, and driving basses. First initiated into sound through dance, she has now traversed all spectrums of the sonic through deejaying and now producing & music-making. She has DJ'd at festivals including A3, Groovin the Moo, Steel City Dance Discs and Lost Paradise, and has played alongside Skin On Skin, Effy, Mall Grab, STÜM, Bicep, Dj Seinfeld, and now Mincy and Pariah. Today, she dips into an ambient soundscape in synchronicity with the hazy c…",
+   "duration": "00:58:21",
+   "id": "tag:soundcloud-2010:tracks-2445743250",
+   "image": "https://i1.sndcdn.com/artworks-6EN4E6S5udxEQyZ1-wuq1Qw-t3000x3000.jpg",
+   "title": "The Midday Mix: homebody",
+   "url": "https://soundcloud.com/fbiradiosydney/the-midday-mix-homebody"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2445638808-fbiradiosydney-the-midday-mix-agonyintl.mp3",
    "date": "2026-11-27T01:44:13Z",
    "desc": "Luca Bianchino and Christian Whitwell comprise the Sydney-beloved pop duo agonyintl. For the Midday Mix, agonyintl blends the hyper-pop, indie sleaze, and electronic all with a slightly satirical edge. Seohbin and agonyintl sit down at the beginning to chat through the evolution of their sound and why they leant into club music for their debut album 'bull'. You can follow agonyintl on Instgram to keep up with their upcoming gigs at @agonyintl [https://www.instagram.com/agonyintl/#]",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-sHJk70yySzW2K5Zz-bGDyLQ-t3000x3000.png",
    "title": "The Midday Mix - Afterlife Drum & Bass",
    "url": "https://soundcloud.com/fbiradiosydney/the-midday-mix-afterlife-drum"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2300009471-fbiradiosydney-the-midday-mix-sub-titles.mp3",
-   "date": "2026-04-10T06:25:20Z",
-   "desc": "Yes yes people, this week we're back in the studio with fellow fbi radio presenter Sub Titles. Instagram - https://www.instagram.com/sub.titles.sydney/ Soundcloud - https://soundcloud.com/sub_titles_sydney Produced by KING HENRY",
-   "duration": "00:58:35",
-   "id": "tag:soundcloud-2010:tracks-2300009471",
-   "image": "https://i1.sndcdn.com/artworks-BAy41pd8JruGBoU4-0oSCOg-t3000x3000.png",
-   "title": "The Midday Mix - Sub Titles",
-   "url": "https://soundcloud.com/fbiradiosydney/the-midday-mix-sub-titles"
   }
  ],
  "kind": "rss",
  "name": "FBi Radio: The Midday Mix",
- "updatedAt": "2026-11-27T02:14:23Z"
+ "updatedAt": "2026-11-27T11:23:12Z"
 }

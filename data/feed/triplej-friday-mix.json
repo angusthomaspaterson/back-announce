@@ -5,6 +5,17 @@
  "id": "triplej-friday-mix",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qr/Z/aa.mp3",
+   "date": "2026-11-27T03:30:00Z",
+   "desc": "Aussie club queen Anna Lunoe launches her new EP ‘Everything’ with a mix full of party pumpers and bass bumpers! Available until 27 Dec.",
+   "duration": "1220",
+   "id": "107421190",
+   "image": "https://live-production.wcms.abc-cdn.net.au/4702cb5b2efbbc4185e3d4dc168229be?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=149&width=862&height=485&imformat=generic",
+   "title": "Friday Mix: Anna Lunoe",
+   "until": "2026-12-27T03:30:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/friday-mix/annalunoe-djset-2026/107421190"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/qk/Z/3k.mp3",
    "date": "2026-11-20T03:30:00Z",
    "desc": "Naarm/Melbourne’s WOLTERS is bringing '90s house heat to your Friday arvo. Available until 20 Dec.",
@@ -51,5 +62,5 @@
  ],
  "kind": "abc",
  "name": "Friday Mix with Dave Woodhead and Kailyn Crabbe",
- "updatedAt": "2026-11-22T09:39:04Z"
+ "updatedAt": "2026-11-27T11:23:12Z"
 }

@@ -5,6 +5,17 @@
  "id": "triplej-house-party",
  "items": [
   {
+   "audio": "https://mediacore-live-production.akamaized.net/audio/02/qs/Z/60.aac",
+   "date": "2026-11-27T07:00:00Z",
+   "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 27 Dec. Tracklist: Shantan Wantan Ichiban – House Party Mix #1; Shantan Wantan Ichiban – House Party Mix #2; Shantan Wantan Ichiban – House Party Mix #3; Shantan Wantan Ichiban – House Party Mix #4",
+   "duration": "14399",
+   "id": "107413196",
+   "image": "https://live-production.wcms.abc-cdn.net.au/a10effe92f6126e262696f57897564a1?impolicy=wcms_crop_resize&cropH=2250&cropW=3000&xPos=0&yPos=375&width=862&height=647&imformat=generic",
+   "title": "House Party, 27 Nov",
+   "until": "2026-12-27T07:00:00Z",
+   "url": "https://www.abc.net.au/triplej/programs/house-party/house-party/107413196"
+  },
+  {
    "audio": "https://mediacore-live-production.akamaized.net/audio/02/ql/Z/gm.aac",
    "date": "2026-11-21T07:00:00Z",
    "desc": "Non-stop party mixing and mashups to get your night in gear. Available until 21 Dec. Tracklist: IsGwan – triple j Mix Up",
@@ -95,5 +106,5 @@
  ],
  "kind": "abc",
  "name": "House Party with Shantan Wantan Ichiban and Latifa Tee",
- "updatedAt": "2026-11-26T21:30:28Z"
+ "updatedAt": "2026-11-27T11:23:12Z"
 }

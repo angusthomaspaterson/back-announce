@@ -5,6 +5,16 @@
  "id": "21c-progressive",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2426739804-21cprogressivehouse-obz-the-racket-club.mp3",
+   "date": "2026-11-27T03:41:08Z",
+   "desc": "Birmingham’s OBZ joins The Racket Club. The DJ behind Flow and MixPub Radio’s Particles brings a selection connecting deep house with organic and progressive sounds. Mosley Jr’s Orange Pedestrian opens the mix, with XTAL and Kevin Yost among the early selections, before GMJ, Behrouz and Volen Sentir’s remix of Khen’s Babylon bring progressive further into focus. Tonaco and Redspace feature in the mid-section, followed by a closing sequence from Ricky Ryan & Maze 28 and Julieta Kühnle, with Guy J’s remix of Budakid’s Lovin’ Sun providing the final track. 1. Mosley Jr - Orange Pedestrian [Moodf…",
+   "duration": "01:15:09",
+   "id": "tag:soundcloud-2010:tracks-2426739804",
+   "image": "https://i1.sndcdn.com/artworks-y16V2wOP4giCI5fL-9xFAsw-t3000x3000.jpg",
+   "title": "OBZ | The Racket Club",
+   "url": "https://soundcloud.com/21cprogressivehouse/obz-the-racket-club"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2441065872-21cprogressivehouse-matthew-prickett-tessellation.mp3",
    "date": "2026-11-21T10:06:01Z",
    "desc": "Tessellation 25 Tracklist: 1. Alex Cecil & Stefan Rose - Inverted (Jochem Hamerling Extended Remix) [NiteLite Music] 2. Tapasya (IND) - Flux (Chelakhov Remix) [Future Avenue] 3. Sean Harvey - In the Darkness (Original Mix) [Keep Thinking] 4. Mekci - Nimbus (Original Mix) [AH Digital] 5. Doug Crawford - Skirring (Mike Bentley Remix) [Atlantic Progression] 6. Khen - Homeboy (Dilby Remix) [Closure] 7. NUFECTS - Obscurial (Extended Mix) [Univack] 8. Keltik - Crystal (Original Mix) [Droid9 Australia] 9. Nick Warren & Nicolas Rada - Fuego (Extended Mix) [Global Underground] 10. Jamie Stevens & Chri…",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-WxVBm9ED5yjsMkYo-yyUVFA-t3000x3000.jpg",
    "title": "Imprint Series | UV Records",
    "url": "https://soundcloud.com/21cprogressivehouse/imprint-series-uv-records"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2340423956-21cprogressivehouse-matthew-prickett-tessellation-24.mp3",
-   "date": "2026-06-16T13:47:47Z",
-   "desc": "Matthew Prickett's final Tessellation series mix. Thank you for bringing so much joy to the 21CPH platform. We wish you all the very best for the future. 1. Cosmonauts (Ambient Version) – Kenshi Kamaro 2. Ashes – Henry McBride, Suite 52, Friend of Honour 3. Inzuki – Ben Summers 4. Late Night – Stereo Mind 5. Age of Something – Static Guru (RGK’s Epic Odyssey Mix) 6. Intakation – Zy Khan 7. Shifting – Steven Flynn (Mista Twist & Latex Zebra Remix) 8. Ignite – Weekend Machines (Retroid Remix) 9. Try 2 – Zy Khan 10. Acadia – Lost Astronaut 11. Jumbo – Paul Thomas (Kamie Stevens Remix) 12. Vision…",
-   "duration": "02:00:51",
-   "id": "tag:soundcloud-2010:tracks-2340423956",
-   "image": "https://i1.sndcdn.com/artworks-wueZDM7XTuXAL9ct-6XcR2A-t3000x3000.jpg",
-   "title": "Matthew Prickett | Tessellation 24",
-   "url": "https://soundcloud.com/21cprogressivehouse/matthew-prickett-tessellation-24"
   }
  ],
  "kind": "rss",
  "name": "21C Progressive House",
- "updatedAt": "2026-11-21T23:49:41Z"
+ "updatedAt": "2026-11-27T11:23:12Z"
 }

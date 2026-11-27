@@ -5,6 +5,16 @@
  "id": "balance-music",
  "items": [
   {
+   "audio": "https://feeds.soundcloud.com/stream/2445630360-balance-series-balance-selections-394-d-shift.mp3",
+   "date": "2026-11-27T00:00:00Z",
+   "desc": "Drawing on his experience as one half of duo Drunken Kong, D. Singh has found a new creative outlet in D-SHIFT, a project exploring the deeper, more melodic reaches of progressive house. His recent Balance Music debut, the Find a Way / Hikari EP, offered a glimpse into this musical direction, with two finely crafted tracks that tap into the genre’s classic foundations. On this Balance Selections mix, D-SHIFT expands on that musical vision over 90 minutes. Featuring tracks from Gai Barone, Berni Turletti, Simon Vuarambon and more, it’s a finely curated showcase of progressive house in all its …",
+   "duration": "01:36:11",
+   "id": "tag:soundcloud-2010:tracks-2445630360",
+   "image": "https://i1.sndcdn.com/artworks-RdzON5plQ6BbiPc9-kuFWfA-t3000x3000.jpg",
+   "title": "Balance Selections 394: D-SHIFT",
+   "url": "https://soundcloud.com/balance-series/balance-selections-394-d-shift"
+  },
+  {
    "audio": "https://feeds.soundcloud.com/stream/2443066377-balance-series-dave-seaman-b2b-anthony-pappa-balance-croatia-2026.mp3",
    "date": "2026-11-23T00:00:00Z",
    "desc": "Recording of Dave Seaman and Anthony Pappa's B2B set from Balance Croatia 2026. @daveseaman @anthonypappa ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno Early Bird and First Release tickets SOLD OUT _________________________________________________ Balance Croatia full four day festival tickets are SOLD OUT. Day Tickets coming soon. _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
@@ -243,19 +253,9 @@
    "image": "https://i1.sndcdn.com/artworks-cWVTO42a9Dvkzoyy-O47xMQ-t3000x3000.jpg",
    "title": "Maze 28: Live from Balance Croatia 2026",
    "url": "https://soundcloud.com/balance-series/maze-live-from-balance-croatia"
-  },
-  {
-   "audio": "https://feeds.soundcloud.com/stream/2400752052-balance-series-peter-makto-live-from-balance-croatia.mp3",
-   "date": "2026-09-15T00:00:00Z",
-   "desc": "Recording of Peter Makto's set from Balance Croatia 2026. @petermakto ________________________________________________ BALANCE CROATIA 2027 Thu 5th Aug - Mon 9th Aug 2026 The Garden Resort, Tisno _________________________________________________ Head to www.balancecroatia.com for more info. IG: www.instagram.com/balancecroatia",
-   "duration": "02:03:25",
-   "id": "tag:soundcloud-2010:tracks-2400752052",
-   "image": "https://i1.sndcdn.com/artworks-DfzNq7nwXwMtJCbP-vdXFoQ-t3000x3000.jpg",
-   "title": "Peter Makto: Live from Balance Croatia 2026",
-   "url": "https://soundcloud.com/balance-series/peter-makto-live-from-balance-croatia"
   }
  ],
  "kind": "rss",
  "name": "Balance Music (Selections)",
- "updatedAt": "2026-11-23T21:30:28Z"
+ "updatedAt": "2026-11-27T11:23:12Z"
 }

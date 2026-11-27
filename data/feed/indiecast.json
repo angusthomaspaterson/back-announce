@@ -5,6 +5,16 @@
  "id": "indiecast",
  "items": [
   {
+   "audio": "https://rss.art19.com/episodes/6dfc33f5-a18b-425f-bd88-12cc3c6e7f92.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+   "date": "2026-11-27T09:00:00Z",
+   "desc": "After discussion of Thanksgiving and Steven's recent interview with Sheryl Crow (available as a special bonus episode on Amazon Music) (0:40), the guys talk about the upcoming Justin Timberlake documentary and which actually artists deserve an absurdly long doc (7:56). Then the conversation turns to \"Weird Era,\" the new book by Pitchfork founder Ryan Schreiber (17:53) and \"Thanatos,\" the first album by Bradford Cox of Atlas Sound in many years (45:19). In Recommendation Corner (54:27) they discuss new albums by Font and The Slow Death. See Privacy Policy at https://art19.com/privacy and Calif…",
+   "duration": "00:58:55",
+   "id": "gid:--art19-episode-locator-V0-MJcGcka_bNOVAxERuWnCbmR9CDgbMBBU9tahLoOO_YU",
+   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
+   "title": "Atlas Sound Returns + A New Book About The History of Pitchfork",
+   "url": "https://rss.art19.com/episodes/6dfc33f5-a18b-425f-bd88-12cc3c6e7f92.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+  },
+  {
    "audio": "https://rss.art19.com/episodes/a6407dd5-9b5e-47fc-88af-5cf61a7aac41.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
    "date": "2026-11-20T09:00:00Z",
    "desc": "Steven and Ian begin by acknowledging the most popular culture thing on the planet — GTA VI (0:42) — before discussing Steven's recent column on the worst rock songs of the 21st century, with Ian revealing his picks (8:55). After that they delve into the annual ritual of Grammys complaining (25:31) and the week's new releases, which are mostly reissues for the holiday season (38:02). They also talk about new album announcements from Julien Baker and Gang of Youths (43:11) before Recommendation Corner (50:24). See Privacy Policy at https://art19.com/privacy and California Privacy Notice at htt…",
@@ -243,19 +253,9 @@
    "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
    "title": "Our Favorite Albums of 2016",
    "url": "https://rss.art19.com/episodes/75a6f0ee-0681-4bd7-a27a-4da2e78aa065.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
-  },
-  {
-   "audio": "https://rss.art19.com/episodes/397b87d2-6ae6-4e9a-96f6-172c38e84945.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-   "date": "2026-06-12T05:00:00Z",
-   "desc": "The guys begin with a quick Sportscast about the NBA Finals (2:02) before diving into the \"no phone\" discourse about Phoebe Bridgers' upcoming tour (9:22). Then they talk about Ian's interview with Ben Gibbard of Death Cab For Cutie that's now up on Amazon Music (19:43) and the week's big new releases (24:28). Finally, they discuss their favorite albums of the year so far (33:43). See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
-   "duration": "01:03:43",
-   "id": "gid:--art19-episode-locator-V0-C8XnjCoRnPyAnjlfTMoOcS4QPqsGQmELo0Q6Sgib7t0",
-   "image": "https://content.production.cdn.art19.com/images/da/43/75/92/da437592-56cf-4ffe-a3f7-b4ea9c09763f/36e5f1f0a5699816a44ee7ea00782df6fe78647d2c584ccaa453da6870288d8d6b1148ee3f3226374e794c86bdd8c9fd5931dfa77dd40adbf9b5407425bd7271.jpeg",
-   "title": "Our Favorite Albums Of 2026 So Far",
-   "url": "https://rss.art19.com/episodes/397b87d2-6ae6-4e9a-96f6-172c38e84945.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
   }
  ],
  "kind": "rss",
  "name": "Indiecast",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-27T11:23:12Z"
 }
