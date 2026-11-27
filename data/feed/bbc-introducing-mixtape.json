@@ -5,6 +5,16 @@
  "id": "bbc-introducing-mixtape",
  "items": [
   {
+   "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pq33dk.mp3",
+   "date": "2026-11-27T12:00:00Z",
+   "desc": "Emily Pilbeam presents a mixtape of her personal selection of tracks from BBC Introducing, including Cliffords, TV For Cats, Esme Emerson, Katie Gregson-MacLeod, Buckfast Barbie, Quinn Oulton, Ciaran Lavery and Joshua Burnside, Estrons, Floor Time, Jake Thompson, Jordan Joy, studio20, Jacob Egglestone and a new Track Of The Week from Heidi Curtis. Produced by BBC Audio for BBC Radio 6 Music.",
+   "duration": "3603",
+   "id": "urn:bbc:podcast:p0pq34c7",
+   "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0d7j1yy.jpg",
+   "title": "Heidi Curtis, Cliffords, TV For Cats and more!",
+   "url": "http://www.bbc.co.uk/programmes/p0pq34c7"
+  },
+  {
    "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pnpb9h.mp3",
    "date": "2026-11-20T12:00:00Z",
    "desc": "Emily Pilbeam presents a mixtape of her personal selection of tracks from BBC Introducing, with new music by YAANG, Warm Parts, Freeza Chin & Jayemkayem feat. Faultsz, ANOTHER; COUNTRY $$$$, twst, EL RASHID, test plan, Nano Kino, Westside Cowboy, Eternal Rin, Moreish Idols, MYRY, and a new Track of the Week by Katie Gregson-Macleod. Produced in Salford by BBC Audio for BBC Radio 6 Music.",
@@ -107,5 +117,5 @@
  ],
  "kind": "rss",
  "name": "BBC Music Introducing Mixtape (6 Music)",
- "updatedAt": "2026-11-22T21:30:29Z"
+ "updatedAt": "2026-11-27T21:30:34Z"
 }

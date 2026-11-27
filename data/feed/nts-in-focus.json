@@ -5,6 +5,16 @@
  "id": "nts-in-focus",
  "items": [
   {
+   "date": "2026-11-27T11:00:00Z",
+   "desc": "Baltimore-born producer Maurice Fulton has cut a rogue path through the dance music industry since his first work in the early 1990s, notably being involved in the production of Crystal Waters house mega-smash \"Gypsy Woman\". Unlike many of his peers who stayed put, Fulton left the US, living variously in the UK, Germany and Australia. This breadth of travel appears to be reflected in his wildly adventurous and eccentric production style across countless aliases. Experimental, off-kilter, and novel, his own music and unpredictable DJ sets have garnered him a cult following as one of house musi…",
+   "id": "in-focus-maurice-fulton-27th-november-2026",
+   "image": "https://media.ntslive.co.uk/resize/400x400/5f49f19e-848b-49ba-8087-8ec01cf3db3e_1795564800.jpeg",
+   "location": "",
+   "tags": "Deep House, House, Leftfield House, Leftfield Disco",
+   "title": "In Focus: Maurice Fulton",
+   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-maurice-fulton-27th-november-2026"
+  },
+  {
    "date": "2026-11-20T11:00:00Z",
    "desc": "Icelandic musician Björk first began recording as a teenager with the band Tappi Tíkarrass before gaining international recognition as the vocalist of The Sugarcubes. Following the band's dissolution, she began releasing solo work with Debut in 1993, exploring the boundaries of pop, electronic music and experimental composition. Drawing on club culture, orchestral arrangements, avant-garde electronics and traditional Icelandic music, her work has continually shifted in form and direction, building an expansive sonic world entirely her own. Compiled and mixed by Tommasi.",
    "id": "in-focus-bjork-20th-november-2026",
@@ -113,19 +123,9 @@
    "tags": "Folk, Soft Rock",
    "title": "In Focus: John Martyn",
    "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-john-martyn-11th-september-2026"
-  },
-  {
-   "date": "2026-09-04T10:00:00Z",
-   "desc": "Country music isn't for everyone - but everyone loves Dolly. Few artists have had such broad appeal while retaining critical respect for writing some of the most timeless songs in pop history. Selected by Jocelyn Romo.",
-   "id": "in-focus-dolly-parton-4th-september-2026",
-   "image": "https://media.ntslive.co.uk/resize/400x400/c3f06505-27bd-465e-8762-2a5cf15cf630_1788393600.jpeg",
-   "location": "",
-   "tags": "Folk, Country",
-   "title": "In Focus: Dolly Parton",
-   "url": "https://www.nts.live/shows/in-focus/episodes/in-focus-dolly-parton-4th-september-2026"
   }
  ],
  "kind": "nts",
  "name": "NTS In Focus",
- "updatedAt": "2026-11-21T00:49:16Z"
+ "updatedAt": "2026-11-27T21:30:34Z"
 }

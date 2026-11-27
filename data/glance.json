@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "d": "2026-11-27T21:28:26Z",
+   "g": "Progressive & Trance",
+   "s": "John Digweed: Transitions",
+   "sid": "transitions",
+   "t": "John Digweed - Quattro IV Breaks Mini-Mix",
+   "u": "https://www.mixcloud.com/johndigweed/john-digweed-quattro-iv-breaks-mini-mix/"
+  },
+  {
+   "d": "2026-11-27T21:11:08Z",
+   "g": "Progressive & Trance",
+   "s": "Above & Beyond: Group Therapy",
+   "sid": "group-therapy",
+   "t": "Group Therapy 705 with Above & Beyond and Quivver",
+   "u": "https://www.mixcloud.com/aboveandbeyond/group-therapy-705-with-above-beyond-and-quivver/"
+  },
+  {
    "d": "2026-11-27T17:42:12Z",
    "g": "Writing",
    "s": "zensounds (Stephan Kunze)",
@@ -9,12 +25,45 @@
    "u": "https://www.zensounds.de/p/is-the-boards-of-canada-book-any"
   },
   {
+   "d": "2026-11-27T16:00:26Z",
+   "g": "Progressive & Trance",
+   "s": "John Digweed: Transitions",
+   "sid": "transitions",
+   "t": "Transitions with John Digweed and Braxton",
+   "u": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-and-braxton/"
+  },
+  {
+   "d": "2026-11-27T12:00:00Z",
+   "g": "Radio",
+   "s": "BBC Music Introducing Mixtape (6 Music)",
+   "sid": "bbc-introducing-mixtape",
+   "sp": "BBC Music Introducing Mixtape (6 Music) Heidi Curtis, Cliffords, TV For Cats and more!",
+   "t": "Heidi Curtis, Cliffords, TV For Cats and more!",
+   "u": "http://www.bbc.co.uk/programmes/p0pq34c7"
+  },
+  {
    "d": "2026-11-27T11:05:21Z",
    "g": "Progressive & Trance",
    "s": "Gai Barone: Patterns",
    "sid": "gai-barone-patterns",
    "t": "Patterns 728",
    "u": "https://soundcloud.com/gai-barone/patterns-728"
+  },
+  {
+   "d": "2026-11-27T11:00:00Z",
+   "g": "NTS",
+   "s": "NTS In Focus",
+   "sid": "nts-in-focus",
+   "t": "In Focus: Maurice Fulton",
+   "u": "https://www.nts.live/shows/in-focus/episodes/in-focus-maurice-fulton-27th-november-2026"
+  },
+  {
+   "d": "2026-11-27T11:00:00Z",
+   "g": "triple j",
+   "s": "Doof with Latifa Tee",
+   "sid": "triplej-doof",
+   "t": "Doof, 27 Nov",
+   "u": "https://www.abc.net.au/triplej/programs/doof/doof/107413182"
   },
   {
    "d": "2026-11-27T10:53:33Z",
@@ -113,59 +162,10 @@
    "sid": "bbc-introducing-on-radio-1-dance",
    "t": "with Jaguar: Swimming Paul & D38 Dancefloor Moment and November wrap-up",
    "u": "https://www.bbc.co.uk/sounds/play/m0034bgy"
-  },
-  {
-   "d": "2026-11-26T17:16:16Z",
-   "g": "Progressive & Trance",
-   "s": "The Anjunadeep Edition",
-   "sid": "anjunadeep-edition",
-   "t": "The Anjunadeep Edition 621 with Anyasa",
-   "u": "https://www.mixcloud.com/anjunadeep/the-anjunadeep-edition-621-with-anyasa-1/"
-  },
-  {
-   "d": "2026-11-26T17:00:00Z",
-   "g": "NTS",
-   "s": "OK Williams",
-   "sid": "nts-ok-williams",
-   "t": "OK Williams - Juan Atkins Special",
-   "u": "https://www.nts.live/shows/ok-williams/episodes/ok-williams-26th-november-2026"
-  },
-  {
-   "d": "2026-11-26T16:21:11Z",
-   "g": "Writing",
-   "s": "Crack Magazine",
-   "sid": "crack-magazine",
-   "t": "Justin Caguiat to present an evening of film, sound and performance in London tomorrow",
-   "u": "https://crackmagazine.net/2026/11/justin-caguiat-serpentine-south-london/?utm_source=rss&utm_medium=rss&utm_campaign=justin-caguiat-serpentine-south-london"
-  },
-  {
-   "d": "2026-11-26T11:14:00Z",
-   "g": "Progressive & Trance",
-   "s": "Joris Voorn: Spectrum Radio",
-   "sid": "spectrum-radio",
-   "sp": "Joris Voorn: Spectrum Radio Spectrum Radio 500",
-   "t": "Spectrum Radio 500",
-   "u": "https://jorisvoornspectrum.libsyn.com/spectrum-radio-500"
-  },
-  {
-   "d": "2026-11-26T11:02:44Z",
-   "g": "Writing",
-   "s": "First Floor",
-   "sid": "first-floor",
-   "t": "First Floor recommendations, 26 Nov: 1 record",
-   "u": "https://firstfloor.substack.com/p/first-floor-338-sort-of-a-holiday"
-  },
-  {
-   "d": "2026-11-26T10:00:00Z",
-   "g": "triple j",
-   "s": "Hip Hop Show with A.Girl",
-   "sid": "triplej-hip-hop-show",
-   "t": "Hip Hop Show, 26 Nov",
-   "u": "https://www.abc.net.au/triplej/programs/hip-hop-show/hip-hop-show/107408344"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 167,
+ "newCount": 173,
  "paused": 0,
  "releases": [],
  "saved": [
@@ -231,5 +231,5 @@
   }
  ],
  "sources": 187,
- "updated": "2026-11-27T21:30:07Z"
+ "updated": "2026-11-27T21:30:34Z"
 }
