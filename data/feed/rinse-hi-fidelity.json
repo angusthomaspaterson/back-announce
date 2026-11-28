@@ -5,6 +5,16 @@
  "id": "rinse-hi-fidelity",
  "items": [
   {
+   "audio": "https://replay.rinse.fm/uk/BehindThisWall261126.mp3",
+   "date": "2026-11-26T12:00:00Z",
+   "desc": "",
+   "duration": "3600",
+   "id": "hi-fidelity-26-11-2026-1200",
+   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
+   "title": "Hi-Fidelity, 26 Nov 2026",
+   "url": "https://www.rinse.fm/episodes/hi-fidelity-26-11-2026-1200"
+  },
+  {
    "audio": "https://replay.rinse.fm/uk/Bambi191126.mp3",
    "date": "2026-11-19T12:00:00Z",
    "desc": "",
@@ -243,19 +253,9 @@
    "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
    "title": "Hi-Fidelity, 4 Apr 2026",
    "url": "https://www.rinse.fm/episodes/hi-fidelity-04-04-2026-1100"
-  },
-  {
-   "audio": "https://replay.rinse.fm/uk/Hi-Fidelity280326.mp3",
-   "date": "2026-03-28T11:00:00Z",
-   "desc": "",
-   "duration": "7200",
-   "id": "hi-fidelity-28-03-2026-1100",
-   "image": "https://image.rinse.fm/_/1_2025-06-06-164623_tfye.png?w=1200&h=630",
-   "title": "Hi-Fidelity, 28 Mar 2026",
-   "url": "https://www.rinse.fm/episodes/hi-fidelity-28-03-2026-1100"
   }
  ],
  "kind": "rinse",
  "name": "Hi-Fidelity",
- "updatedAt": "2026-11-20T00:33:18Z"
+ "updatedAt": "2026-11-28T02:01:25Z"
 }

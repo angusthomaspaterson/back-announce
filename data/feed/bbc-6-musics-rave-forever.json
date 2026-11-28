@@ -5,6 +5,16 @@
  "id": "bbc-6-musics-rave-forever",
  "items": [
   {
+   "date": "2026-11-28T01:00:00Z",
+   "desc": "On BBC Sounds until 26 Jan. London-based breakbeat pioneers Plump DJs jump in the guest mix taking you on a journey through classic breaks, killer remixes and brand new music. A We Are Grape production for BBC 6 Music.",
+   "duration": "3600",
+   "id": "m0034bt8",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0lvg1rn.jpg",
+   "title": "The Guest Mix: Plump DJs",
+   "until": "2027-01-26T02:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m0034bt8"
+  },
+  {
    "date": "2026-11-21T01:00:00Z",
    "desc": "On BBC Sounds until 19 Jan. Dubbed Berlin’s Queen of House, German DJ and producer Cinthie takes you on a time-travelling night out to 1997, the year her career behind the decks began. Join this celebrated selector as she flexes her extensive record knowledge with a set of wall-to-wall house deep cuts. Expect to hear tracks from R.I.P. Productions, Paul French, Bass Junction and plenty more. A We Are Grape production for BBC 6 Music.",
    "duration": "3600",
@@ -87,5 +97,5 @@
  ],
  "kind": "bbc",
  "name": "6 Music's Rave Forever",
- "updatedAt": "2026-11-24T04:18:31Z"
+ "updatedAt": "2026-11-28T02:01:25Z"
 }

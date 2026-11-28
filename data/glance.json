@@ -1,6 +1,38 @@
 {
  "items": [
   {
+   "d": "2026-11-28T01:00:00Z",
+   "g": "BBC",
+   "s": "6 Music's Rave Forever",
+   "sid": "bbc-6-musics-rave-forever",
+   "t": "The Guest Mix: Plump DJs",
+   "u": "https://www.bbc.co.uk/sounds/play/m0034bt8"
+  },
+  {
+   "d": "2026-11-28T00:00:00Z",
+   "g": "BBC",
+   "s": "The 6 Mix with Mary Anne Hobbs",
+   "sid": "bbc-the-6-mix-with-mary-anne-hobbs",
+   "t": "Queermas takeover with BASHKKA",
+   "u": "https://www.bbc.co.uk/sounds/play/m00340fg"
+  },
+  {
+   "d": "2026-11-28T00:00:00Z",
+   "g": "BBC",
+   "s": "Pete Tong",
+   "sid": "bbc-pete-tong",
+   "t": "The Month in Dance: November 2026",
+   "u": "https://www.bbc.co.uk/sounds/play/m00348v5"
+  },
+  {
+   "d": "2026-11-27T22:00:00Z",
+   "g": "BBC",
+   "s": "Radio 1's Future Dance with Sarah Story",
+   "sid": "bbc-radio-1s-future-dance-with-sarah-story",
+   "t": "Emma 2000 in the mix",
+   "u": "https://www.bbc.co.uk/sounds/play/m00348v3"
+  },
+  {
    "d": "2026-11-27T21:28:26Z",
    "g": "Progressive & Trance",
    "s": "John Digweed: Transitions",
@@ -130,42 +162,10 @@
    "sid": "triplej-friday-mix",
    "t": "Friday Mix: Anna Lunoe",
    "u": "https://www.abc.net.au/triplej/programs/friday-mix/annalunoe-djset-2026/107421190"
-  },
-  {
-   "d": "2026-11-27T01:44:13Z",
-   "g": "Mixes",
-   "s": "FBi Radio: The Midday Mix",
-   "sid": "fbi-midday-mix",
-   "t": "The Midday Mix: agonyintl",
-   "u": "https://soundcloud.com/fbiradiosydney/the-midday-mix-agonyintl"
-  },
-  {
-   "d": "2026-11-27T01:00:00Z",
-   "g": "BBC",
-   "s": "The Residency on Radio 1 Dance",
-   "sid": "bbc-the-residency-on-radio-1-dance",
-   "t": "Effy - Northern English and Celtic Culture",
-   "u": "https://www.bbc.co.uk/sounds/play/m0034bh1"
-  },
-  {
-   "d": "2026-11-27T00:00:00Z",
-   "g": "Progressive & Trance",
-   "s": "Balance Music (Selections)",
-   "sid": "balance-music",
-   "t": "Balance Selections 394: D-SHIFT",
-   "u": "https://soundcloud.com/balance-series/balance-selections-394-d-shift"
-  },
-  {
-   "d": "2026-11-26T23:00:00Z",
-   "g": "BBC",
-   "s": "BBC Introducing on Radio 1 Dance",
-   "sid": "bbc-introducing-on-radio-1-dance",
-   "t": "with Jaguar: Swimming Paul & D38 Dancefloor Moment and November wrap-up",
-   "u": "https://www.bbc.co.uk/sounds/play/m0034bgy"
   }
  ],
  "lastSeen": "2026-11-19T01:04:45Z",
- "newCount": 173,
+ "newCount": 180,
  "paused": 0,
  "releases": [],
  "saved": [
@@ -231,5 +231,5 @@
   }
  ],
  "sources": 187,
- "updated": "2026-11-27T21:30:34Z"
+ "updated": "2026-11-28T02:01:25Z"
 }

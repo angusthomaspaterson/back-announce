@@ -5,6 +5,16 @@
  "id": "bbc-the-6-mix-with-mary-anne-hobbs",
  "items": [
   {
+   "date": "2026-11-28T00:00:00Z",
+   "desc": "On BBC Sounds until 28 Dec. This December, Queermas returns to BBC Radio 6 Music, taking over the 6 Mix airwaves with some of our favourite LGBTQ+ artists, featuring exclusive hour-long mixes from across the LGBTQ+ community. A much-loved annual 6 Music tradition, Queermas shines a spotlight on LGBTQ+ voices and talent during the festive season, inviting artists, DJs and selectors to curate their own special mixes and soundtracks for the holidays. First up we are joined by DJ and producer BASHKKA, who has just released her debut EP for fabric Originals, CORE, shaped by a return to her musical…",
+   "duration": "3600",
+   "id": "m00340fg",
+   "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0pq02m2.jpg",
+   "title": "Queermas takeover with BASHKKA",
+   "until": "2026-12-28T00:00:00Z",
+   "url": "https://www.bbc.co.uk/sounds/play/m00340fg"
+  },
+  {
    "date": "2026-11-26T04:00:00Z",
    "desc": "On BBC Sounds until 25 Jan. The Cure frontman Robert Smith takes over the 6 Mix ahead of his 'Cureation' of this year's Teenage Cancer Trust concerts at the Royal Albert Hall, featuring Elbow, My Bloody Valentine and Mogwai amongst others. The 6 Mix is the new flagship mix on BBC Radio 6 Music, curated by Mary Anne Hobbs. Each week, Mary Anne Hobbs introduces a one-hour mix from a past, present or future icon of electronic music - artists, DJs, labels, and clubs. Others who have played mixes for Mary Anne in the past include: Four Tet, SHERELLE, Helena Hauff, Blawan, Goldie, Chloé Robinson, R…",
    "duration": "3600",
@@ -57,5 +67,5 @@
  ],
  "kind": "bbc",
  "name": "The 6 Mix with Mary Anne Hobbs",
- "updatedAt": "2026-11-26T21:30:28Z"
+ "updatedAt": "2026-11-28T02:01:25Z"
 }
